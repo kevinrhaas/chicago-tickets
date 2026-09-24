@@ -1,7 +1,7 @@
 ---
 id: T-1539
 title: T-1299 is finished but still reads claimed by a run that died on 2026-09-21: close it, or say what is left. Its acceptance 1-4 and 6 are demonstrably in dev, and T-1515 fixed the acceptance-5 root it was held on
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 26
 claimed_by: run 9/24/2026, 8:16:58 AM CT
 blocked_on: null
 needs_bake: false
