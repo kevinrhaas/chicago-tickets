@@ -1,7 +1,7 @@
 ---
 id: T-0305
 title: Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery
-state: blocked-owner
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,8 +12,13 @@ opened: 2026-08-28
 closed: null
 pr: null
 claimed_by: run 8/29/2026, 9:19:33 PM CT
-blocked_on: Six columns of Chicago American page images, which are held outside this repository: 1835-06-13 p3 c5 and 1835-07-04 p4 c4 (Sabine and John Dave[s], North in June and South in July — opposite banks of the river for two wharf trades); 1835-06-27 p3 c5 and 1835-08-15 p3 c6 (Edward Burton's tailoring shop, Franklin in two settings and Lake in a third); 1835-06-08 p3 c5 and 1835-07-11 p3 c6 (the cross street of S. B. Cobb's saddlery, lost in all three 1835 printings). Every reading is already the best the transcription can give, and three of the four subjects appear nowhere else in 86 issues except a post-office letter list, so nothing smaller than an image will do it.
+blocked_on: null
 needs_bake: false
+closed_at: null
+claimed_run: null
+claimed_at: null
+decision: pending
+decision_answer: null
 ---
 
 Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery.
@@ -80,3 +85,15 @@ New York House's *"which side of Wells?"* already has.
     1835-07-11 p3 c6   Cobb, "Lake and the [Balle]"
 
 Two of those columns serve two questions each, so six columns close four questions.
+
+## Decision needed
+
+**Question:** Four newspaper readings contradict themselves and only the original page images (six Chicago American columns, held outside the repo) can settle them. How should they be handled?
+
+- (a) I will get the six column images into the repo
+- (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive
+- (c) Leave the four unresolved and out of the scene
+
+**Recommendation:** (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive — AGENTS.md: a missing reading is not a reason to stop building; an inferred tier with a named replacement is honest
+
+**Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.

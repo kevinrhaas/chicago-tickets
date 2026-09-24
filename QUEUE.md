@@ -46,6 +46,8 @@
 # --- 0. WAITING ON THE OWNER — answer on Manager's 4D Board; runs skip these until answered
 T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
 #   ? T-0909 DECISION: Where did the Eliza Chappel shore drawing come from? It was deposited with a social-media filename and no artist, date or repository, and every automated lead is exhausted. — (a) I will name the source (book, museum page or post) in this ticket  (b) Nobody knows: keep it as text-only evidence, derive no scene assets from it  (c) Remove the drawing from the reference corpus — recommended: (a)
+T-0305 — Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery
+#   ? T-0305 DECISION: Four newspaper readings contradict themselves and only the original page images (six Chicago American columns, held outside the repo) can settle them. How should they be handled? — (a) I will get the six column images into the repo  (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive  (c) Leave the four unresolved and out of the scene — recommended: (b)
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
 # --- red on dev for days, and because they are red, smoke_budget reports every leg that
@@ -181,8 +183,6 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #
 # WAITING ON AN OWNER RULING — each names the question it waits on in its own
 # `blocked_on`; the one-liners here are the ask, not the ticket.
-# BLOCKED-OWNER T-0305 (opened 2026-08-28, META) — Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two fo…
-#     asks: Six columns of Chicago American page images, which are held outside this repository: 1835-06-13 p3 c5 and 1835-07-04 p4 c4 (Sabine and John Dave[s],…
 # BLOCKED-OWNER T-1479 (opened 2026-09-20, GROUND) — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's ow…
 #     asks: questions 2 and 3 of 3 (q1 RULED 2026-09-21: a successor is filed for the 367.9 ft vs 458 ft Clinton-Canal spacing). May the DOCUMENTED module cut a block that prints no marginal figures of its own, and what is a structure on a withdrawn lot seated on?
 # BLOCKED-OWNER T-1482 (opened 2026-09-20, TOWN) — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: gen…
