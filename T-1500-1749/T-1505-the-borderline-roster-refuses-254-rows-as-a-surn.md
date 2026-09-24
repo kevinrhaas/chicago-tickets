@@ -72,3 +72,16 @@ Note Matanacqua is Jacob Vieau's wife and her name is almost certainly Indigenou
 this ticket does NOT credit her with a community: no source gives her a term, and
 guessing one from the shape of a name is the reading this project refuses. She reaches
 R6 only if a source is found that says so.
+
+---
+
+## Worked 2026-09-24
+
+Four rows, not five, and the reason is the ticket's own table. `Bourrasso`
+(`st_marys_bapt_1835_03_4_witness`) is a surname standing alone. The ticket's last line calls
+it that, and its own record says Léon Bourassa and his son are not merged to it. So the
+existing sentence, *"a surname and no person, and no household of this town carries it"*,
+is true of it, and it keeps that sentence. Counts, before → after:
+`surname_only_and_unmatched` 254 → 250, `single_name_parent_of_a_named_child` 0 → 3,
+`forename_printed_surname_lost` 0 → 1. Every class count is unchanged; all four stay
+`R0_ineligible`.
