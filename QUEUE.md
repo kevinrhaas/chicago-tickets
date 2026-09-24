@@ -77,6 +77,7 @@ T-1530 — Retire the 25 surplus reconstructed tradesmen in the south-side 20-29
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
+T-1540 — The West Division's north-south grid is short of the plat's 458 ft module on EVERY interval, not only Clinton to Canal: say which of the two controls seats these five lines, what moves if the plat wins, and what is seated on the short spacing today
 T-1490 — Trace Jefferson Street north to Ohio so the corporate boundary's west leg stops being a 1,188 m extrapolation, and seat the five West Division roofs held on it
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
