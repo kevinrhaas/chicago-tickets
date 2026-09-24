@@ -1,7 +1,7 @@
 ---
 id: T-1533
 title: Complete the minted keepers' own families: the 86 under-tens the book orders into lodging households, whom the boarders stage refused to draw because a child takes no bed on their own account
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 21
 claimed_by: run 9/24/2026, 4:25:20 AM CT
 blocked_on: null
 needs_bake: false
