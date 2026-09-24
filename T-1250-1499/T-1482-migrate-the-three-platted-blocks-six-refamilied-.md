@@ -1,7 +1,7 @@
 ---
 id: T-1482
 title: Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
-state: blocked-owner
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,10 +12,13 @@ opened: 2026-09-20
 closed: null
 pr: null
 claimed_by: run 9/21/2026, 10:58:15 AM CT
-blocked_on: A yard building refamilied to a dwelling becomes a second principal roof on a lot that already carries one, which multi_building_lot admits only in a principal-street party-line run: clause a rear cottage as ancillary, move the six onto ground that is not there, or withdraw the verdicts — noting that the term that refused them refuses 3 of the 4 evidence records of the clause it was scored against
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35621907359
+claimed_at: null
+decision: pending
+decision_answer: null
 ---
 
 Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark.
@@ -79,3 +82,15 @@ read by `docs/RESEARCH/1835_block_redeal_remedies.md`):
 
 Nothing was adjudicated, nothing moved, no confidence changed and no record was written
 to. **Blocked on the owner.**
+
+## Decision needed
+
+**Question:** Six roofs re-classed from yard building to dwelling would each become a second main house on a lot that already has one. Which way?
+
+- (a) Treat a rear cottage as ancillary, so a lot may carry a main house plus a rear dwelling
+- (b) Move the six onto new ground (there is none today; it waits on the ground work)
+- (c) Withdraw the six re-classings and keep them as yard buildings
+
+**Recommendation:** (a) Treat a rear cottage as ancillary, so a lot may carry a main house plus a rear dwelling — the rule that refused them also refuses 3 of the 4 evidence records it was scored against, so the rule, not the roofs, is what is wrong
+
+**Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.

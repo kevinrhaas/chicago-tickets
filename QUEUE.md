@@ -50,6 +50,8 @@ T-0305 — Four readings the American contradicts itself on need the page images
 #   ? T-0305 DECISION: Four newspaper readings contradict themselves and only the original page images (six Chicago American columns, held outside the repo) can settle them. How should they be handled? — (a) I will get the six column images into the repo  (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive  (c) Leave the four unresolved and out of the scene — recommended: (b)
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
 #   ? T-1479 DECISION: Re-cutting West Division blocks 28 and 45 (question 1 is ruled: a spacing successor is filed first): may the division's standard lot module cut blocks that print no lot figures of their own, and where do the 17 structures on them go? — (a) Yes: cut with the documented module (inferred tier) and re-seat each structure on the new lot nearest its present spot, recording the move  (b) Cut with the module, but withdraw the 17 structures until each is re-argued  (c) Keep both blocks withheld; nothing moves — recommended: (a)
+T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
+#   ? T-1482 DECISION: Six roofs re-classed from yard building to dwelling would each become a second main house on a lot that already has one. Which way? — (a) Treat a rear cottage as ancillary, so a lot may carry a main house plus a rear dwelling  (b) Move the six onto new ground (there is none today; it waits on the ground work)  (c) Withdraw the six re-classings and keep them as yard buildings — recommended: (a)
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
 # --- red on dev for days, and because they are red, smoke_budget reports every leg that
@@ -185,8 +187,6 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #
 # WAITING ON AN OWNER RULING — each names the question it waits on in its own
 # `blocked_on`; the one-liners here are the ask, not the ticket.
-# BLOCKED-OWNER T-1482 (opened 2026-09-20, TOWN) — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: gen…
-#     asks: A yard building refamilied to a dwelling becomes a second principal roof on a lot that already carries one, which multi_building_lot admits only in a…
 #
 # BLOCKED ON TOOLING OR ANOTHER TICKET — no owner decision is wanted; each waits on
 # a capability or a sibling, and unblocks without a ruling when that arrives.
