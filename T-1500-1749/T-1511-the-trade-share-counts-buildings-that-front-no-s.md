@@ -1,7 +1,7 @@
 ---
 id: T-1511
 title: The trade share counts buildings that front no street: nineteen Fort Dearborn reservation roofs 270-420 m from Lake Street vote in the principal class, because nearest_frontage has no distance bound
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 23
 claimed_by: run 9/24/2026, 5:58:57 AM CT
 blocked_on: null
 needs_bake: false
