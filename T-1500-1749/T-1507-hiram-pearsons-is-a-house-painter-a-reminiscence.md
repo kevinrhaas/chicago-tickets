@@ -1,7 +1,7 @@
 ---
 id: T-1507
 title: Hiram Pearsons is a house painter a reminiscence names and a speculator this project inferred, and the card carries the inference at attested: re-adjudicate the 1835 trade field through the role readings
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 7
 claimed_by: run 9/23/2026, 11:03:06 PM CT
 blocked_on: null
 needs_bake: false
