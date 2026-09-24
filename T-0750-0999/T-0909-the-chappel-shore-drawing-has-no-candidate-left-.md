@@ -1,7 +1,7 @@
 ---
 id: T-0909
 title: The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
-state: blocked-owner
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,10 +12,13 @@ opened: 2026-09-06
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Where did the Eliza Chappel shore drawing come from? The file was deposited with a social-media filename and no artist, date or repository, and T-0716 has now eliminated the last candidate on the picture. Every automated route this runner can reach has been run and recorded; the only one with a person behind it is you. If the scan came from a book, a museum page or a Facebook post, one sentence naming it settles what a catalogue sweep may not.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: null
+decision: pending
+decision_answer: null
 ---
 
 The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked.
@@ -57,3 +60,15 @@ It is written up in § 3 of the research file for the next unattributed picture.
 reading that closed the geometric route) · T-0617 ·
 `docs/RESEARCH/chappel_shore_origin_search.md` ·
 `data/sources/eliza_chappel_school_shore_view.json`.
+
+## Decision needed
+
+**Question:** Where did the Eliza Chappel shore drawing come from? It was deposited with a social-media filename and no artist, date or repository, and every automated lead is exhausted.
+
+- (a) I will name the source (book, museum page or post) in this ticket
+- (b) Nobody knows: keep it as text-only evidence, derive no scene assets from it
+- (c) Remove the drawing from the reference corpus
+
+**Recommendation:** (a) I will name the source (book, museum page or post) in this ticket — you deposited it, so one sentence from you settles what no catalogue sweep can; (b) is the safe fallback under rule 6
+
+**Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.

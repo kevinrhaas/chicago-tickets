@@ -43,6 +43,9 @@
 # the file. Filing is free and working is not — add a finding to the ticket it was found in
 # first, which is what the line above already asks for. `split` is exempt: it replaces a
 # ticket rather than adding one. An EPIC states its own cap in children (T-1236: three).
+# --- 0. WAITING ON THE OWNER — answer on Manager's 4D Board; runs skip these until answered
+T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
+#   ? T-0909 DECISION: Where did the Eliza Chappel shore drawing come from? It was deposited with a social-media filename and no artist, date or repository, and every automated lead is exhausted. — (a) I will name the source (book, museum page or post) in this ticket  (b) Nobody knows: keep it as text-only evidence, derive no scene assets from it  (c) Remove the drawing from the reference corpus — recommended: (a)
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
 # --- red on dev for days, and because they are red, smoke_budget reports every leg that
@@ -180,8 +183,6 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 # `blocked_on`; the one-liners here are the ask, not the ticket.
 # BLOCKED-OWNER T-0305 (opened 2026-08-28, META) — Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two fo…
 #     asks: Six columns of Chicago American page images, which are held outside this repository: 1835-06-13 p3 c5 and 1835-07-04 p4 c4 (Sabine and John Dave[s],…
-# BLOCKED-OWNER T-0909 (opened 2026-09-06, META) — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
-#     asks: Where did the Eliza Chappel shore drawing come from? The file was deposited with a social-media filename and no artist, date or repository, and T-071…
 # BLOCKED-OWNER T-1479 (opened 2026-09-20, GROUND) — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's ow…
 #     asks: questions 2 and 3 of 3 (q1 RULED 2026-09-21: a successor is filed for the 367.9 ft vs 458 ft Clinton-Canal spacing). May the DOCUMENTED module cut a block that prints no marginal figures of its own, and what is a structure on a withdrawn lot seated on?
 # BLOCKED-OWNER T-1482 (opened 2026-09-20, TOWN) — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: gen…
