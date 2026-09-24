@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -63,3 +63,14 @@ it is not the same sentence.
 **Acceptance:** the owner rules; the ruling is written into `identity.json`'s note and into
 `data/research/newspapers/README.md`, not only into a PR body; and whichever branch it takes is
 carried out. Filed by T-0392's execution, which is where the eighteenth case was found.
+
+## Decision needed
+
+**Question:** May a merge be declared where one printing sets a forename initial the other does not set AT ALL — an ABSENT initial rather than an unread one — at the same entry of the same list?
+
+- (a) No: an absent initial is not an unread one, nothing on the page says a letter stood there, and the cost is four accepted duplicate persons (Samuel E. Toby / Samuel. Toby, J. W. Smith / [?]. Smith, and the 1 April 1834 return's Duncklo and Denny) documented as a known cost.
+- (b) Yes, bounded exactly as T-0392 was: same list, same entry, the absent side supplying no competing letter, each merge carrying the same positional undo record so it can be split by whoever reads the page.
+
+**Recommendation:** (a) No: an absent initial is not an unread one, nothing on the page says a letter stood there, and the cost is four accepted duplicate persons (Samuel E. Toby / Samuel. Toby, J. W. Smith / [?]. Smith, and the 1 April 1834 return's Duncklo and Denny) documented as a known cost. — T-0392's ground was that the two readings are of ONE LINE and the unread side supplies no competing LETTER. Here one side supplies no SLOT, so a merge would assert that the printing which set 'Samuel. Toby' had an E it did not print — a reading about a compositor, not about a position. That may well be right, and it is a different sentence from the one you ruled on; the four duplicates are cheap beside asserting it by default.
+
+**Asked:** 2026-09-24 by https://github.com/kevinrhaas/polecat-platform/actions/runs/35959220777. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
