@@ -17,8 +17,8 @@ needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35594464608
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated.
@@ -128,3 +128,5 @@ lot is seated on. This ticket stays blocked on those two.
 **Recommendation:** (a) Yes: cut with the documented module (inferred tier) and re-seat each structure on the new lot nearest its present spot, recording the move — it builds at the lowest honest tier instead of leaving a block empty, and records every move so it can be undone
 
 **Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-23, via Manager):** (a) Yes: cut with the documented module (inferred tier) and re-seat each structure on the new lot nearest its present spot, recording the move
