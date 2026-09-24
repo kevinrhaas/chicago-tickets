@@ -235,6 +235,7 @@ T-1520 — A cancelled non-required check leaves a PR unstable for ever: gate gr
 T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one
 T-1519 — smoke_budget --for-diff maps renderers/web/js/people.js to part 13, but the People directory's checks are guarded by stageOn(12), so a run that trusts the mapping runs the wrong leg
 T-1518 — Every blocked ticket is invisible: 19 live tickets appear in no band of QUEUE.md, 13 of them waiting on an owner ruling, the oldest for a month
+T-1541 — The blocked band accumulates duplicate lines: T-1532 and T-1536 each stand twice in QUEUE.md band 8b, and T-1479 stood nowhere at all until a run's gate caught it
 T-1222 — Read the letter-list mint's 798-file drift and give the pass a check the gate can run at its own place in the pipeline
 T-1341 — ticket.mjs --check REPAIRS the mirror it is checking, so on any branch that adds a ticket the gate's queue step mutates tickets.json while the pool reads it — the T-0856 check-that-repairs fault, one tool over
 T-1344 — Splitting a ticket that has a live branch puts two runs on one acceptance: the in-flight run retargets onto a child while the child also enters the queue for a fresh claim, and neither claim contends with the other
