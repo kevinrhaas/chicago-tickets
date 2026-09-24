@@ -1,7 +1,7 @@
 ---
 id: T-1476
 title: A household record and a household in the town model are not the same unit: the layer holds 1,391 records where the model wants 643 houses, because 814 of the 820 rulings are one person and 424 of those are one name off a letter list
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/24/2026, 3:21:19 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35973245129
+claimed_at: 2026-09-24T08:21:19.489Z
+decision: null
+decision_answer: null
 ---
 
 A household record and a household in the town model are not the same unit: the layer holds 1,391 records where the model wants 643 houses, because 814 of the 820 rulings are one person and 424 of those are one name off a letter list.
