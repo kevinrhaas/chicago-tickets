@@ -1,7 +1,7 @@
 ---
 id: T-0991
 title: Eight cards assert an 1835 trade out of a PRE-scene printing, and T-0693's later_occupation pointer cannot hold one: blank the field, or regrade it reconstructed?
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0872
 opened: 2026-09-10
-closed: null
+closed: 2026-09-24
 pr: 13
 claimed_by: run 9/24/2026, 1:08:54 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T07:19:25Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35962901802
 claimed_at: 2026-09-24T06:08:54.961Z
 decision: null
