@@ -65,7 +65,6 @@ T-1528 — May a present forename initial absorb an ABSENT one at the same entry
 T-1537 — Reconcile the lodging households against the roof programme: the lodgers stage built 15 of them and filed no household fill, so the order book orders all 64 a second time and the Reconstructing-the-town bars read zero
 T-1538 — Fill the 131 adult beds and the 49 lodging households still owed, as T-1209 raises the 36 unbuilt lodging roofs: every one of the 144 ordinary night beds is slept in and all 16 built lodging places already hold a household
 T-1531 — Seat the people who slept at the town's institutions: the 11 institutional households the house quota now orders across the three divisions, at the churches, parsonages and schools — T-1189 split and no child of it writes a household
-T-1511 — The trade share counts buildings that front no street: nineteen Fort Dearborn reservation roofs 270-420 m from Lake Street vote in the principal class, because nearest_frontage has no distance bound
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
 T-1299 — Admit the ten scene-reaching press roles into the 1835 occupation field by making the four generators that own it agree
