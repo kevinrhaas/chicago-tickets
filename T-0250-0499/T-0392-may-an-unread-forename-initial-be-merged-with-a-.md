@@ -1,7 +1,7 @@
 ---
 id: T-0392
 title: May an unread forename initial be merged with a read one at the same entry of the same list — the owner's ruling
-state: review
+state: done
 epic: PAPERS
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: T-0348
 opened: 2026-08-29
-closed: null
+closed: 2026-09-24
 pr: 11
 claimed_by: run 9/24/2026, 12:20:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T07:05:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35959220777
 claimed_at: 2026-09-24T05:20:05.682Z
 decision: null
