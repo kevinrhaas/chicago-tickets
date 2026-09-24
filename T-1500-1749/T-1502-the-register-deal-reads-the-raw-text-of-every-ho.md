@@ -25,6 +25,32 @@ The register deal reads the raw text of every household card as a name pool, so 
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
+Written 2026-09-24 before work. Of the ticket's three routes, this takes the second and the
+third together, and NOT the first: reading only `name` fields would drop the prose the
+guard's own docstring says it reads on purpose, and would re-deal roofs today.
+
+1. **The harvest reads declared key paths, not raw text.** `town_surnames()` walks the
+   JSON values of the same three sources and reads a capitalised word only under a key
+   path declared `read` in a committed list, per record kind (structures, households,
+   exclusions). Measured 2026-09-24: the value walk reproduces the raw-text pool exactly
+   (3,127 words, none from a JSON key), under 275 paths. Every one is declared `read`, so
+   **no seat and no refusal changes** — `--report` is identical before and after.
+2. **An undeclared path carrying a proper name is a red gate, not a silent refusal.**
+   `--check` fails if any string under a key path the list does not declare carries a
+   capitalised word, naming the record kind, the path, a file and the word. That is
+   T-1489's `persons[].employment.business_name` caught at the writer's own PR.
+3. **Every `already named in the town` refusal names its cause**: the file and key path the
+   word was read from (and how many other places say it), in `--report` and in `--check`'s
+   drift output when a settled seat is lost — so a collision is never again one
+   unexplained DRIFT line.
+4. **A `--self-test`** proves each assertion fires when broken: an undeclared path, a word
+   under an `ignored` path kept out of the pool, a refusal naming its file and key, a lost
+   seat printing its refusal, and the declaration still reproducing today's raw pool.
+   Registered in check.sh as a self-test step.
+5. **Nothing is re-ruled.** Whether any declared path (e.g. `persons[].workplaces[].business_name`,
+   the same shape as the one that retired Eels) SHOULD be read is reported, with the
+   refusals that rest on it alone, and left for a later ruling.
+
 **Found by T-1489, 2026-09-21, as a red gate rather than as a reading.**
 `tools/replace_invented_residents.py` decides which documented men of the register may
 head an anonymous roof. One of its refusals is `town_surnames()`: every
