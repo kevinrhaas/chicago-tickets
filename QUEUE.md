@@ -67,6 +67,7 @@ T-1476 — A household record and a household in the town model are not the same
 T-1500 — The 278 persons the order book's bed buckets still order have no live owner: T-1175 split, and every piece of its tree that fills a bed has closed
 T-1532 — Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
 T-1533 — Complete the minted keepers' own families: the 86 under-tens the book orders into lodging households, whom the boarders stage refused to draw because a child takes no bed on their own account
+T-1534 — Fill the 131 adult beds the book still orders into lodging households: 11 ordinary night beds stand empty across the 16 built houses and the other 37 the lodging model schedules are unbuilt, so this piece advances as T-1209 raises them
 T-1531 — Seat the people who slept at the town's institutions: the 11 institutional households the house quota now orders across the three divisions, at the churches, parsonages and schools — T-1189 split and no child of it writes a household
 T-1511 — The trade share counts buildings that front no street: nineteen Fort Dearborn reservation roofs 270-420 m from Lake Street vote in the principal class, because nearest_frontage has no distance bound
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
