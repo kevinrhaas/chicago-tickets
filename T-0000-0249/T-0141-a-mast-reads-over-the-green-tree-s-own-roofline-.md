@@ -1,7 +1,7 @@
 ---
 id: T-0141
 title: A mast reads over the Green Tree's own roofline, which its committed placement forbids
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: T-0122
 opened: 2026-08-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/24/2026, 2:29:39 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35969422147
+claimed_at: 2026-09-24T07:29:39.757Z
+decision: null
+decision_answer: null
 ---
 
 A mast reads over the Green Tree's own roofline, which its committed placement forbids.
