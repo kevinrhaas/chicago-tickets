@@ -16,6 +16,9 @@ blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35531496699
+claimed_at: null
+decision: pending
+decision_answer: null
 ---
 
 Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked.
@@ -69,3 +72,14 @@ failing steps to **one**:
 Everything else in the gate is green, including the boundary gate, staleness (0), the
 Newberry index, the population profile, the order book, the lodging model, the hay limits
 and the closing set. The `--for-diff` smoke legs have NOT been run.
+
+## Decision needed
+
+**Question:** One released West Division house (recon_1835_west_033) is 32 x 20 ft, turned so its long side faces the street; its size band is written width-by-depth, so the turn reads as out of band. Which gives?
+
+- (a) The band check follows the rotation: the house stays 32 x 20, turned
+- (b) Shrink the house to a footprint inside the band as written
+
+**Recommendation:** (a) The band check follows the rotation: the house stays 32 x 20, turned — the ticket measured the rectangle as right; only the check's orientation is wrong
+
+**Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.

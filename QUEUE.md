@@ -80,6 +80,7 @@ T-1299 — Admit the ten scene-reaching press roles into the 1835 occupation fie
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 T-1444 — Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
+#   ? T-1444 DECISION: One released West Division house (recon_1835_west_033) is 32 x 20 ft, turned so its long side faces the street; its size band is written width-by-depth, so the turn reads as out of band. Which gives? — (a) The band check follows the rotation: the house stays 32 x 20, turned  (b) Shrink the house to a footprint inside the band as written — recommended: (a)
 T-1523 — Carry the policy-only rung's division back onto the household card and data/residents/index.json through the carry slot the mint stages use, so no rung-5 household reads unplaced and the People view's division filter fills
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
