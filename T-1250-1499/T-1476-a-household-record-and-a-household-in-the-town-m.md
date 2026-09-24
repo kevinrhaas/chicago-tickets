@@ -1,7 +1,7 @@
 ---
 id: T-1476
 title: A household record and a household in the town model are not the same unit: the layer holds 1,391 records where the model wants 643 houses, because 814 of the 820 rulings are one person and 424 of those are one name off a letter list
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-20
 closed: null
-pr: null
+pr: 17
 claimed_by: run 9/24/2026, 3:21:19 AM CT
 blocked_on: null
 needs_bake: false
