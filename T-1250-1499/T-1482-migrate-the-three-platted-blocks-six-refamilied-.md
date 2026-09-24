@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35621907359
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark.
@@ -94,3 +94,5 @@ to. **Blocked on the owner.**
 **Recommendation:** (a) Treat a rear cottage as ancillary, so a lot may carry a main house plus a rear dwelling — the rule that refused them also refuses 3 of the 4 evidence records it was scored against, so the rule, not the roofs, is what is wrong
 
 **Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-23, via Manager):** (a) Treat a rear cottage as ancillary, so a lot may carry a main house plus a rear dwelling
