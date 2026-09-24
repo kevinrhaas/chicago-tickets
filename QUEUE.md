@@ -58,7 +58,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
-T-1526 — dev's gate is red on C3: T-1507 merged and its own spend ruling still hands pearsons_hiram to it, so the sign-off reads NO-GO and every PR into dev inherits the red
 T-1525 — Re-cut the reconstruction order book so the register's 120 documented residents can be minted: the south-side 20-29 trade bucket over-supplies by 25, and businesses/physician is ordered by a closed ticket
 T-1529 — Build the tenth physician the re-cut bracket now orders: businesses/physician stands at 9 of 10 since the parish register's 120 residents moved the town model, and T-1418 has closed
 T-1528 — May a present forename initial absorb an ABSENT one at the same entry of the same list — the two the unread-initial ruling held over
