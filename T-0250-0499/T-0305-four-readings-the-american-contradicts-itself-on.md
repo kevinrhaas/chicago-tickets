@@ -1,7 +1,7 @@
 ---
 id: T-0305
 title: Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-28
 closed: null
-pr: null
+pr: 4
 claimed_by: claude session 9/23/2026, 9:03:10 PM CT
 blocked_on: null
 needs_bake: false
