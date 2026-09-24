@@ -1,7 +1,7 @@
 ---
 id: T-1479
 title: Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-state: blocked-owner
+state: open
 epic: GROUND
 requested_by: loop
 seen: false
@@ -12,10 +12,13 @@ opened: 2026-09-20
 closed: null
 pr: null
 claimed_by: run 9/21/2026, 6:33:58 AM CT
-blocked_on: Blocks 28 and 45 are cut EIGHT lots four-to-a-face; the plat sheet counts TEN in the West Division's two-by-five arrangement, and the re-cut is refused twice over (measured in data/traces/west_grid_migration_order.json). Three rulings are wanted before any line moves. (1) THE STREET SPACING IS UNOWNED: Clinton to Canal stands at 367.9 ft against the plat's 458 ft, and both tickets the refusal names — T-0444, T-0445 — are closed without having moved it. Does a successor get filed, or does the town keep the short spacing? (2) May the West Division's DOCUMENTED module cut a block that prints no marginal figures of its own? T-1455's rule withholds such a block, so as the rule stands the move yields no lots at all rather than ten. (3) The re-cut re-seats 17 structures across 13 lots, and no withheld block in town has ever carried a seating — so the rule for what a structure on a withdrawn lot is seated on has to be written before the move, not found during it. Nothing has been moved; the measurement and its gate are shipped.
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35594464608
+claimed_at: null
+decision: pending
+decision_answer: null
 ---
 
 Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated.
@@ -113,3 +116,15 @@ will close the same way its two predecessors did.
 QUESTIONS 2 AND 3 ARE STILL OPEN — whether the documented module may cut a block printing no
 marginal figures of its own (T-1455's rule withholds it), and what a structure on a withdrawn
 lot is seated on. This ticket stays blocked on those two.
+
+## Decision needed
+
+**Question:** Re-cutting West Division blocks 28 and 45 (question 1 is ruled: a spacing successor is filed first): may the division's standard lot module cut blocks that print no lot figures of their own, and where do the 17 structures on them go?
+
+- (a) Yes: cut with the documented module (inferred tier) and re-seat each structure on the new lot nearest its present spot, recording the move
+- (b) Cut with the module, but withdraw the 17 structures until each is re-argued
+- (c) Keep both blocks withheld; nothing moves
+
+**Recommendation:** (a) Yes: cut with the documented module (inferred tier) and re-seat each structure on the new lot nearest its present spot, recording the move — it builds at the lowest honest tier instead of leaving a block empty, and records every move so it can be undone
+
+**Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
