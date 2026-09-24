@@ -1,7 +1,7 @@
 ---
 id: T-1514
 title: Tier the anonymous compiled business records in compile_businesses.py: 37 records whose only link to the advertisement that compiled them is an untiered claim_ids at the record root, so the 49 readings that built them can never be asserted
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-21
-closed: null
+closed: 2026-09-24
 pr: 24
 claimed_by: run 9/24/2026, 7:19:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T13:12:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35997906255
 claimed_at: 2026-09-24T12:19:56.619Z
 decision: null
