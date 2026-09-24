@@ -58,7 +58,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
-T-1507 — Hiram Pearsons is a house painter a reminiscence names and a speculator this project inferred, and the card carries the inference at attested: re-adjudicate the 1835 trade field through the role readings
 T-1515 — Read Fergus 1839 as a dated directory role like its 1843 and 1844 siblings, so a printing is carried as evidence whether or not the 1835 field is empty
 T-1525 — Re-cut the reconstruction order book so the register's 120 documented residents can be minted: the south-side 20-29 trade bucket over-supplies by 25, and businesses/physician is ordered by a closed ticket
 T-0392 — May an unread forename initial be merged with a read one at the same entry of the same list — the owner's ruling
