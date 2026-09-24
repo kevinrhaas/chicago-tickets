@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35999436151
 claimed_at: 2026-09-24T12:34:36.226Z
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: c
 ---
 
 Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/trade holds 60 drawn against an order of 35, and T-1347 has closed.
@@ -36,3 +36,5 @@ Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: pers
 **Recommendation:** (c) Re-family rather than retire, as one unit for all 463. The book's own words are 'retired OR RE-FAMILIED'; the surplus heads move into the buckets the re-cut GREW instead of being un-written, which honours T-1459 and still fixes the over-supply. T-1530 blocks on that ticket. — It is the only option that fixes the count without contradicting a ruling you made four days ago, and it keeps the decision at the scale the defect actually has — 463 people across 48 buckets — instead of letting one bucket's ticket set the policy. Option (a) also has a defect of its own that no ruling covers: with 34 of 60 heads adopted by the business and lodging layers, the retirement is forced onto the 26 unemployed, so employment decides who the town keeps.
 
 **Asked:** 2026-09-24 by https://github.com/kevinrhaas/polecat-platform/actions/runs/35999436151. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-24, via Manager):** (c) Re-family rather than retire, as one unit for all 463. The book's own words are 'retired OR RE-FAMILIED'; the surplus heads move into the buckets the re-cut GREW instead of being un-written, which honours T-1459 and still fixes the over-supply. T-1530 blocks on that ticket.
