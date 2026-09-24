@@ -1,7 +1,7 @@
 ---
 id: T-0991
 title: Eight cards assert an 1835 trade out of a PRE-scene printing, and T-0693's later_occupation pointer cannot hold one: blank the field, or regrade it reconstructed?
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: T-0872
 opened: 2026-09-10
 closed: null
 pr: null
-claimed_by: run 9/10/2026, 9:27:49 AM CT
+claimed_by: run 9/24/2026, 1:08:54 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/34488496242
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35962901802
+claimed_at: 2026-09-24T06:08:54.961Z
+decision: null
+decision_answer: null
 ---
 
 T-0872's title reads "a later trade", and the population it names no longer is one. Five of
