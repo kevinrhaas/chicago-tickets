@@ -78,6 +78,7 @@ T-1299 — Admit the ten scene-reaching press roles into the 1835 occupation fie
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1514 — Tier the anonymous compiled business records in compile_businesses.py: 37 records whose only link to the advertisement that compiled them is an untiered claim_ids at the record root, so the 49 readings that built them can never be asserted
 T-1506 — Retire the surplus reconstructed lawyer: businesses/lawyer is held at 2 drawn against an order of 1, because T-1299 admitted a documented attorney the town can name
+T-1530 — Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/trade holds 60 drawn against an order of 35, and T-1347 has closed
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
