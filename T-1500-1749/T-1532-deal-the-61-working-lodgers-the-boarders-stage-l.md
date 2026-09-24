@@ -1,7 +1,7 @@
 ---
 id: T-1532
 title: Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
-state: claimed
+state: blocked-tech
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-24
 closed: null
 pr: null
 claimed_by: run 9/24/2026, 3:43:45 AM CT
-blocked_on: null
+blocked_on: THE BEDS ARE NOT THERE, and the wall is one refusal rather than a shortage. data/reconstruction/1835_lodgers_seated.json measures ordinary_night_beds 144, occupied_after_this_stage 133, ordinary_night_beds_still_empty 11 — and all 11 are in the only two houses the boarders stage refuses by name: new_york_house (7 empty) and sauganash_hotel (4 empty), both held under refusal 1, 'NO DIVISION, NO MINT'. Every one of the other 14 built lodging places reads at_its_ordinary_night_figure true. So the bed bound acceptance 4 asks me to state is ZERO in any house this stage may mint into, and a working lodger cannot be minted at all until either those two houses are given a division or T-1209/T-1187 raise the 37 unbuilt boarding houses (315 ordinary beds). Re-labelling one of the 50 lodgers the boarders stage already minted at none_recorded would lower a lodging/none bucket's filled count, which T-1459 refuses by name. THE SAME WALL HOLDS T-1533 AND T-1534: T-1534's own body counts those 11 beds as its own, and they are not available to it either. Unblock when the division refusal is lifted or the boarding houses stand.
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35976447879
