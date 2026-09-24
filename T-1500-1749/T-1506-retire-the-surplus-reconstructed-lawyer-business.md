@@ -1,7 +1,7 @@
 ---
 id: T-1506
 title: Retire the surplus reconstructed lawyer: businesses/lawyer is held at 2 drawn against an order of 1, because T-1299 admitted a documented attorney the town can name
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-21
-closed: null
+closed: 2026-09-24
 pr: 10
 claimed_by: run 9/24/2026, 12:01:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T17:30:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35957629711
 claimed_at: 2026-09-24T05:01:33.894Z
 decision: null
