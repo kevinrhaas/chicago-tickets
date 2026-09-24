@@ -1,7 +1,7 @@
 ---
 id: T-1500
 title: The 278 persons the order book's bed buckets still order have no live owner: T-1175 split, and every piece of its tree that fills a bed has closed
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/24/2026, 3:30:44 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35975126208
+claimed_at: 2026-09-24T08:30:44.572Z
+decision: null
+decision_answer: null
 ---
 
 The 278 persons the order book's bed buckets still order have no live owner: T-1175 split, and every piece of its tree that fills a bed has closed.
