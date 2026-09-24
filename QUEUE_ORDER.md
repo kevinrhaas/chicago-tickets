@@ -1,4 +1,5 @@
 # RE-RANK LEDGER — owner decisions, first lines only; details remain in Git history.
+#   2026-09-24  THE UNPLACED TICKETS PLACED INTO THE BANDS THAT EXIST, on the owner's instruction: "reorganize the queue and move any of the not placed tickets at the bottom into the correct chunk of work block area as it exists today". The 30 under the four MERGED-IN-NOT-YET-PLACED blocks and the four answered decisions of band 0 went to 0/1/2/4/5A/5B/5D/9/10 by subject, each appended at its band's foot (band 9's four PR-lap/stuck-report/budget tickets at its head); the empty WAITING band and the NOT-YET-PLACED headers were removed; no ranked ticket moved.
 #   2026-09-17  ARRIVAL/JAUNTS (5F-5J) RE-ORDERED BY DEPENDENCY, on the owner's instruction to "review the
 #               queue and the overall project and decompose these into tickets ... push these tickets in queue
 #               in this or logical dependency order": inside each subsection the tickets with no predecessor

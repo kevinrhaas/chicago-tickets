@@ -43,15 +43,6 @@
 # the file. Filing is free and working is not — add a finding to the ticket it was found in
 # first, which is what the line above already asks for. `split` is exempt: it replaces a
 # ticket rather than adding one. An EPIC states its own cap in children (T-1236: three).
-# --- 0. WAITING ON THE OWNER — answer on Manager's 4D Board; runs skip these until answered
-T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
-#   ? T-0909 DECISION: Where did the Eliza Chappel shore drawing come from? It was deposited with a social-media filename and no artist, date or repository, and every automated lead is exhausted. — (a) I will name the source (book, museum page or post) in this ticket  (b) Nobody knows: keep it as text-only evidence, derive no scene assets from it  (c) Remove the drawing from the reference corpus — recommended: (a)
-T-0305 — Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery
-#   ? T-0305 DECISION: Four newspaper readings contradict themselves and only the original page images (six Chicago American columns, held outside the repo) can settle them. How should they be handled? — (a) I will get the six column images into the repo  (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive  (c) Leave the four unresolved and out of the scene — recommended: (b)
-T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-#   ? T-1479 DECISION: Re-cutting West Division blocks 28 and 45 (question 1 is ruled: a spacing successor is filed first): may the division's standard lot module cut blocks that print no lot figures of their own, and where do the 17 structures on them go? — (a) Yes: cut with the documented module (inferred tier) and re-seat each structure on the new lot nearest its present spot, recording the move  (b) Cut with the module, but withdraw the 17 structures until each is re-argued  (c) Keep both blocks withheld; nothing moves — recommended: (a)
-T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
-#   ? T-1482 DECISION: Six roofs re-classed from yard building to dwelling would each become a second main house on a lot that already has one. Which way? — (a) Treat a rear cottage as ancillary, so a lot may carry a main house plus a rear dwelling  (b) Move the six onto new ground (there is none today; it waits on the ground work)  (c) Withdraw the six re-classings and keep them as yard buildings — recommended: (a)
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
 # --- red on dev for days, and because they are red, smoke_budget reports every leg that
@@ -64,25 +55,45 @@ T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancilla
 # --- because its leg went green: the fix landed on #1605 and is proved on dev by the
 # --- stage's own 25 rules and by the layer on disk, but desktop part 3 can no longer be
 # --- RUN inside the foreground ceiling — it is killed in the block before the assertion,
-# --- which has therefore been unevaluated since 2026-09-18. That is T-1501, at the bottom.
-
+# --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
+T-1501 — The desktop smoke's part 3 no longer finishes inside the 600 s foreground ceiling: it stalls in the reconstruction-contract block and reports the body-completion sentinel, so no steward run can measure it
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
+T-0305 — Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery
+T-1502 — The register deal reads the raw text of every household card as a name pool, so any pass writing a proper name onto one can silently retire a documented man from it
+T-1505 — The borderline roster refuses 254 rows as 'a surname and no person' and three of them are forenames: Matanacqua, Lieu and Miranda are each named as the parent of a named child, so the refusal is right and its sentence is false
+T-1507 — Hiram Pearsons is a house painter a reminiscence names and a speculator this project inferred, and the card carries the inference at attested: re-adjudicate the 1835 trade field through the role readings
+T-1515 — Read Fergus 1839 as a dated directory role like its 1843 and 1844 siblings, so a printing is carried as evidence whether or not the 1835 field is empty
+T-0841 — The keeper of the St Cyr register is graded G5, not G2c: may the officiant of a parish register be graded on it?
+T-0392 — May an unread forename initial be merged with a read one at the same entry of the same list — the owner's ruling
+T-0991 — Eight cards assert an 1835 trade out of a PRE-scene printing, and T-0693's later_occupation pointer cannot hold one: blank the field, or regrade it reconstructed?
+T-1087 — place_vocabulary's B4 names Wabansia and Kinzie's Addition as surveys this project commits none of, and it commits both: the owner's ruling, at a cost of one person
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
+T-1476 — A household record and a household in the town model are not the same unit: the layer holds 1,391 records where the model wants 643 houses, because 814 of the 820 rulings are one person and 424 of those are one name off a letter list
+T-1500 — The 278 persons the order book's bed buckets still order have no live owner: T-1175 split, and every piece of its tree that fills a bed has closed
+T-1511 — The trade share counts buildings that front no street: nineteen Fort Dearborn reservation roofs 270-420 m from Lake Street vote in the principal class, because nearest_frontage has no distance bound
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
 T-1299 — Admit the ten scene-reaching press roles into the 1835 occupation field by making the four generators that own it agree
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
+T-1514 — Tier the anonymous compiled business records in compile_businesses.py: 37 records whose only link to the advertisement that compiled them is an untiered claim_ids at the record root, so the 49 readings that built them can never be asserted
+T-1506 — Retire the surplus reconstructed lawyer: businesses/lawyer is held at 2 drawn against an order of 1, because T-1299 admitted a documented attorney the town can name
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
+T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
+T-1490 — Trace Jefferson Street north to Ohio so the corporate boundary's west leg stops being a 1,188 m extrapolation, and seat the five West Division roofs held on it
+T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
+T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 T-1444 — Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
-#   ? T-1444 DECISION: One released West Division house (recon_1835_west_033) is 32 x 20 ft, turned so its long side faces the street; its size band is written width-by-depth, so the turn reads as out of band. Which gives? — (a) The band check follows the rotation: the house stays 32 x 20, turned  (b) Shrink the house to a footprint inside the band as written — recommended: (a)
 T-1523 — Carry the policy-only rung's division back onto the household card and data/residents/index.json through the carry slot the mint stages use, so no rung-5 household reads unplaced and the People view's division filter fills
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
+T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
+T-0251 — first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
+T-0141 — A mast reads over the Green Tree's own roofline, which its committed placement forbids
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
@@ -100,6 +111,7 @@ T-1211 — Plank sidewalks, stoops, hitching posts and street crossings for ever
 T-1212 — Yards for every household: lot-line and dooryard fences, gardens, woodpiles, wells, privies and stables assigned by household type, wagons and barrels and trade goods at the shops by trade — the enclosure, yard and outbuilding layers extended to the reconstructed town
 T-1213 — Signboards for every business that would have hung one: the reconstructed firms' names and trades in period lettering and forms, the attested signs untouched, the signless trades left signless by rule
 T-1214 — Build the camps of the summer of 1835: a tent and wagon-camp archetype, the encampments on the grounds the transient ticket evidenced — the land-sale crowd south of the fort, the immigrants' wagons at the west approach, the pier gang at the river mouth — bounded, labelled, and empty of figures
+T-0772 — Twelve dooryard gardens went with the retired households: should a garden follow the house or the household?
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1215 — Converge the reconstructed town: every person housed, every business roofed, every roof occupied or its use stated, the census's dwellings ratio met, the programme reconciled, the budgets re-measured and set — the completion report a visitor can open
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
@@ -205,6 +217,10 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #     waits: T-1193 — the modelled ground ends at local east -320 m and Jefferson, Des Plaines and the whole Wabansia grid lie west of it; docs/RESEARCH/west_divi…
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
+T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
+T-1510 — The stuck reporter cannot see a red gate: a PR whose gate failed and whose owning run has finished is the one state no automation in this repo owns
+T-1520 — A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
+T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one
 T-1519 — smoke_budget --for-diff maps renderers/web/js/people.js to part 13, but the People directory's checks are guarded by stageOn(12), so a run that trusts the mapping runs the wrong leg
 T-1518 — Every blocked ticket is invisible: 19 live tickets appear in no band of QUEUE.md, 13 of them waiting on an owner ruling, the oldest for a month
 T-1222 — Read the letter-list mint's 798-file drift and give the pass a check the gate can run at its own place in the pipeline
@@ -241,40 +257,5 @@ T-1315 — Spend the three dated birth and age enrichments T-1301 routed to T-11
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1273 — Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
 T-1274 — Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair
-
-# --- MERGED IN, NOT YET PLACED. These arrived on the branch being merged and were
-# --- appended here rather than guessed into a band. Rank them or leave them.
-T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
-T-1490 — Trace Jefferson Street north to Ohio so the corporate boundary's west leg stops being a 1,188 m extrapolation, and seat the five West Division roofs held on it
-T-1500 — The 278 persons the order book's bed buckets still order have no live owner: T-1175 split, and every piece of its tree that fills a bed has closed
-T-1501 — The desktop smoke's part 3 no longer finishes inside the 600 s foreground ceiling: it stalls in the reconstruction-contract block and reports the body-completion sentinel, so no steward run can measure it
-
-# --- MERGED IN, NOT YET PLACED. These arrived on the branch being merged and were
-# --- appended here rather than guessed into a band. Rank them or leave them.
-T-1502 — The register deal reads the raw text of every household card as a name pool, so any pass writing a proper name onto one can silently retire a documented man from it
+T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
 T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
-T-1505 — The borderline roster refuses 254 rows as 'a surname and no person' and three of them are forenames: Matanacqua, Lieu and Miranda are each named as the parent of a named child, so the refusal is right and its sentence is false
-T-1506 — Retire the surplus reconstructed lawyer: businesses/lawyer is held at 2 drawn against an order of 1, because T-1299 admitted a documented attorney the town can name
-T-1507 — Hiram Pearsons is a house painter a reminiscence names and a speculator this project inferred, and the card carries the inference at attested: re-adjudicate the 1835 trade field through the role readings
-
-# --- MERGED IN, NOT YET PLACED. These arrived on the branch being merged and were
-# --- appended here rather than guessed into a band. Rank them or leave them.
-T-1510 — The stuck reporter cannot see a red gate: a PR whose gate failed and whose owning run has finished is the one state no automation in this repo owns
-T-1511 — The trade share counts buildings that front no street: nineteen Fort Dearborn reservation roofs 270-420 m from Lake Street vote in the principal class, because nearest_frontage has no distance bound
-T-0772 — Twelve dooryard gardens went with the retired households: should a garden follow the house or the household?
-T-0841 — The keeper of the St Cyr register is graded G5, not G2c: may the officiant of a parish register be graded on it?
-T-0392 — May an unread forename initial be merged with a read one at the same entry of the same list — the owner's ruling
-T-1520 — A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
-T-1476 — A household record and a household in the town model are not the same unit: the layer holds 1,391 records where the model wants 643 houses, because 814 of the 820 rulings are one person and 424 of those are one name off a letter list
-T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
-T-0991 — Eight cards assert an 1835 trade out of a PRE-scene printing, and T-0693's later_occupation pointer cannot hold one: blank the field, or regrade it reconstructed?
-T-0251 — first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
-T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one
-T-0141 — A mast reads over the Green Tree's own roofline, which its committed placement forbids
-T-1087 — place_vocabulary's B4 names Wabansia and Kinzie's Addition as surveys this project commits none of, and it commits both: the owner's ruling, at a cost of one person
-
-# --- MERGED IN, NOT YET PLACED. These arrived on the branch being merged and were
-# --- appended here rather than guessed into a band. Rank them or leave them.
-T-1514 — Tier the anonymous compiled business records in compile_businesses.py: 37 records whose only link to the advertisement that compiled them is an untiered claim_ids at the record root, so the 49 readings that built them can never be asserted
-T-1515 — Read Fergus 1839 as a dated directory role like its 1843 and 1844 siblings, so a printing is carried as evidence whether or not the 1835 field is empty
-T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
