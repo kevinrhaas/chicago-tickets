@@ -1,7 +1,7 @@
 ---
 id: T-1505
 title: The borderline roster refuses 254 rows as 'a surname and no person' and three of them are forenames: Matanacqua, Lieu and Miranda are each named as the parent of a named child, so the refusal is right and its sentence is false
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/23/2026, 10:34:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-24T03:34:16.345Z
+decision: null
+decision_answer: null
 ---
 
 The borderline roster refuses 254 rows as 'a surname and no person' and three of them are forenames: Matanacqua, Lieu and Miranda are each named as the parent of a named child, so the refusal is right and its sentence is false.
