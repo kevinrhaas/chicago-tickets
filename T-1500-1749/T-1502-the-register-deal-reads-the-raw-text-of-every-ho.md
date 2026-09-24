@@ -1,7 +1,7 @@
 ---
 id: T-1502
 title: The register deal reads the raw text of every household card as a name pool, so any pass writing a proper name onto one can silently retire a documented man from it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 5
 claimed_by: run 9/23/2026, 10:18:39 PM CT
 blocked_on: null
 needs_bake: false
