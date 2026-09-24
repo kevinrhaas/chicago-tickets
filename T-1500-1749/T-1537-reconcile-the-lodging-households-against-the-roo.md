@@ -1,7 +1,7 @@
 ---
 id: T-1537
 title: Reconcile the lodging households against the roof programme: the lodgers stage built 15 of them and filed no household fill, so the order book orders all 64 a second time and the Reconstructing-the-town bars read zero
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1534
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 22
 claimed_by: run 9/24/2026, 5:32:24 AM CT
 blocked_on: null
 needs_bake: false
