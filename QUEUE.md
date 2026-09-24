@@ -64,7 +64,8 @@ T-1528 — May a present forename initial absorb an ABSENT one at the same entry
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 T-1533 — Complete the minted keepers' own families: the 86 under-tens the book orders into lodging households, whom the boarders stage refused to draw because a child takes no bed on their own account
 T-1536 — Seat the other 76 under-tens the book orders into lodging households: the children of DOCUMENTED keepers, and of the 37 boarding houses the lodging model schedules and nobody has built — T-1533 drew the 10 its own minted keepers could hold and the rest have no keeper here to be kin to
-T-1534 — Fill the 131 adult beds the book still orders into lodging households: 11 ordinary night beds stand empty across the 16 built houses and the other 37 the lodging model schedules are unbuilt, so this piece advances as T-1209 raises them
+T-1537 — Reconcile the lodging households against the roof programme: the lodgers stage built 15 of them and filed no household fill, so the order book orders all 64 a second time and the Reconstructing-the-town bars read zero
+T-1538 — Fill the 131 adult beds and the 49 lodging households still owed, as T-1209 raises the 36 unbuilt lodging roofs: every one of the 144 ordinary night beds is slept in and all 16 built lodging places already hold a household
 T-1531 — Seat the people who slept at the town's institutions: the 11 institutional households the house quota now orders across the three divisions, at the churches, parsonages and schools — T-1189 split and no child of it writes a household
 T-1511 — The trade share counts buildings that front no street: nineteen Fort Dearborn reservation roofs 270-420 m from Lake Street vote in the principal class, because nearest_frontage has no distance bound
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)

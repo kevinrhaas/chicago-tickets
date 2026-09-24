@@ -1,7 +1,7 @@
 ---
 id: T-1534
 title: Fill the 131 adult beds the book still orders into lodging households: 11 ordinary night beds stand empty across the 16 built houses and the other 37 the lodging model schedules are unbuilt, so this piece advances as T-1209 raises them
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-09-24
 pr: null
 claimed_by: run 9/24/2026, 5:21:48 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T10:32:14.504Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35986294348
 claimed_at: 2026-09-24T10:21:48.138Z
 decision: null
