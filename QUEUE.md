@@ -74,6 +74,7 @@ T-1530 — Retire the 25 surplus reconstructed tradesmen in the south-side 20-29
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1490 — Trace Jefferson Street north to Ohio so the corporate boundary's west leg stops being a 1,188 m extrapolation, and seat the five West Division roofs held on it
+T-1545 — west_rec_027 and west_rec_037 stand INSIDE the platted Jefferson corridor, 12.02 m and 9.51 m in: re-deal them off it by the recipe that seated them, or refuse the corridor in writing — T-1444's boundary hold had been covering for it
 T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
