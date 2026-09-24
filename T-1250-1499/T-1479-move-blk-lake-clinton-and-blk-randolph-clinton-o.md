@@ -1,7 +1,7 @@
 ---
 id: T-1479
 title: Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-state: open
+state: claimed
 epic: GROUND
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-20
 closed: null
 pr: null
-claimed_by: run 9/21/2026, 6:33:58 AM CT
+claimed_by: run 9/24/2026, 7:56:00 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35594464608
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36001914710
+claimed_at: 2026-09-24T12:56:00.910Z
 decision: answered
 decision_answer: a
 ---
