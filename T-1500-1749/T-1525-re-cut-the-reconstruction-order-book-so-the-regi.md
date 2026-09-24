@@ -1,7 +1,7 @@
 ---
 id: T-1525
 title: Re-cut the reconstruction order book so the register's 120 documented residents can be minted: the south-side 20-29 trade bucket over-supplies by 25, and businesses/physician is ordered by a closed ticket
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/24/2026, 1:08:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35962896257
+claimed_at: 2026-09-24T06:08:47.167Z
 decision: null
 decision_answer: null
 ---
