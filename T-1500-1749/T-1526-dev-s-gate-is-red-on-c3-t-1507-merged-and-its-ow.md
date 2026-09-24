@@ -1,7 +1,7 @@
 ---
 id: T-1526
 title: dev's gate is red on C3: T-1507 merged and its own spend ruling still hands pearsons_hiram to it, so the sign-off reads NO-GO and every PR into dev inherits the red
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 14
 claimed_by: run 9/24/2026, 2:09:33 AM CT
 blocked_on: null
 needs_bake: false
