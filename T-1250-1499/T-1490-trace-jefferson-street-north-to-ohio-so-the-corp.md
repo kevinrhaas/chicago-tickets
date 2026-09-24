@@ -1,7 +1,7 @@
 ---
 id: T-1490
 title: Trace Jefferson Street north to Ohio so the corporate boundary's west leg stops being a 1,188 m extrapolation, and seat the five West Division roofs held on it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-20
 closed: null
-pr: null
+pr: 28
 claimed_by: run 9/24/2026, 9:01:51 AM CT
 blocked_on: null
 needs_bake: false
