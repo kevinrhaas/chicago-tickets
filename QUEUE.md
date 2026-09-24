@@ -56,7 +56,6 @@
 # --- stage's own 25 rules and by the layer on disk, but desktop part 3 can no longer be
 # --- RUN inside the foreground ceiling — it is killed in the block before the assertion,
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
-T-1501 — The desktop smoke's part 3 no longer finishes inside the 600 s foreground ceiling: it stalls in the reconstruction-contract block and reports the body-completion sentinel, so no steward run can measure it
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 T-0305 — Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery

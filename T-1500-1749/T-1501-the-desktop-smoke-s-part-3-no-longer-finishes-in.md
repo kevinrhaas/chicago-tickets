@@ -1,7 +1,7 @@
 ---
 id: T-1501
 title: The desktop smoke's part 3 no longer finishes inside the 600 s foreground ceiling: it stalls in the reconstruction-contract block and reports the body-completion sentinel, so no steward run can measure it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-21
-closed: null
+closed: 2026-09-23
 pr: 3
 claimed_by: claude session 9/23/2026, 8:40:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T01:58:38Z
 claimed_run: null
 claimed_at: 2026-09-24T01:40:06.036Z
 decision: null
