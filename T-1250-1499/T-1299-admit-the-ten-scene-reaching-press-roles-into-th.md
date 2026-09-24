@@ -1,7 +1,7 @@
 ---
 id: T-1299
 title: Admit the ten scene-reaching press roles into the 1835 occupation field by making the four generators that own it agree
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-24
 pr: 26
 claimed_by: run 9/21/2026, 3:47:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T15:07:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35579423122
 claimed_at: null
 decision: null

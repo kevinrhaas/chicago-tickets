@@ -65,8 +65,6 @@ T-1528 — May a present forename initial absorb an ABSENT one at the same entry
 T-1531 — Seat the people who slept at the town's institutions: the 11 institutional households the house quota now orders across the three divisions, at the churches, parsonages and schools — T-1189 split and no child of it writes a household
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
-T-1299 — Admit the ten scene-reaching press roles into the 1835 occupation field by making the four generators that own it agree
-T-1539 — T-1299 is finished but still reads claimed by a run that died on 2026-09-21: close it, or say what is left. Its acceptance 1-4 and 6 are demonstrably in dev, and T-1515 fixed the acceptance-5 root it was held on
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge

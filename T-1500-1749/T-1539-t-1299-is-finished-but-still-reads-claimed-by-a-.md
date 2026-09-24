@@ -1,7 +1,7 @@
 ---
 id: T-1539
 title: T-1299 is finished but still reads claimed by a run that died on 2026-09-21: close it, or say what is left. Its acceptance 1-4 and 6 are demonstrably in dev, and T-1515 fixed the acceptance-5 root it was held on
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-09-24
 pr: 26
 claimed_by: run 9/24/2026, 8:16:58 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T15:07:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36004171336
 claimed_at: 2026-09-24T13:16:58.285Z
 decision: null
