@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35531496699
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked.
@@ -83,3 +83,5 @@ and the closing set. The `--for-diff` smoke legs have NOT been run.
 **Recommendation:** (a) The band check follows the rotation: the house stays 32 x 20, turned — the ticket measured the rectangle as right; only the check's orientation is wrong
 
 **Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-23, via Manager):** (a) The band check follows the rotation: the house stays 32 x 20, turned
