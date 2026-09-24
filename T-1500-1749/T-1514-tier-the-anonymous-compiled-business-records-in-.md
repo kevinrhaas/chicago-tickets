@@ -1,7 +1,7 @@
 ---
 id: T-1514
 title: Tier the anonymous compiled business records in compile_businesses.py: 37 records whose only link to the advertisement that compiled them is an untiered claim_ids at the record root, so the 49 readings that built them can never be asserted
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 24
 claimed_by: run 9/24/2026, 7:19:56 AM CT
 blocked_on: null
 needs_bake: false
