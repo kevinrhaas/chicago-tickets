@@ -1,7 +1,7 @@
 ---
 id: T-0392
 title: May an unread forename initial be merged with a read one at the same entry of the same list — the owner's ruling
-state: open
+state: claimed
 epic: PAPERS
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: T-0348
 opened: 2026-08-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/24/2026, 12:20:05 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35959220777
+claimed_at: 2026-09-24T05:20:05.682Z
+decision: null
+decision_answer: null
 ---
 
 The question T-0348 was opened for, kept whole and separated from the parser repair that
