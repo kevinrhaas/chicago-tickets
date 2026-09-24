@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: b
 ---
 
 Four readings the American contradicts itself on need the page images: the tailor's street, which Water street two forwarding houses stood in, and the corner of Cobb's saddlery.
@@ -97,3 +97,5 @@ Two of those columns serve two questions each, so six columns close four questio
 **Recommendation:** (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive — AGENTS.md: a missing reading is not a reason to stop building; an inferred tier with a named replacement is honest
 
 **Asked:** 2026-09-23. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-23, via Manager):** (b) Build from the best transcription reading now, marked inferred, and replace it if the images ever arrive
