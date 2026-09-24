@@ -62,3 +62,30 @@ open. Two further reasons the count cannot simply be minted:
 5. `tier`, `basis`, `seed`, `replaceable_by` on every minted person (T-1158).
 6. `build_order_book_1835.py --check`, `converge_resident_layer.py --run` and
    `./tools/check.sh` green.
+
+## …and 64 lodging HOUSEHOLDS, reopened the same day by T-1476
+
+`households/boarding_house/*` and `households/inn_tavern/*` were DISCHARGED when T-1420
+swept them — every boarding house and inn the model wanted was standing. T-1476 landed on
+dev on 2026-09-24, separated a household RECORD from a household in the town model, and took
+the count from 124 to 563. Those six cells carry work again:
+
+| cell | target | known | to reconstruct |
+|---|---|---|---|
+| `households/boarding_house/north` | 11 | 1 | 10 |
+| `households/boarding_house/south` | 40 | 7 | 33 |
+| `households/boarding_house/west` | 9 | 1 | 8 |
+| `households/inn_tavern/north` | 3 | 0 | 3 |
+| `households/inn_tavern/south` | 7 | 1 | 6 |
+| `households/inn_tavern/west` | 4 | 0 | 4 |
+
+**64 lodging houses**, and they are this ticket's for the same reason the 131 beds are: a
+house has to stand before it holds anybody. They are also the other half of the same fact —
+the lodging model schedules 42 boarding houses and 5 stand, and the book now orders 51
+boarding-house households and 13 inn-tavern households against that. Reconcile the two
+counts before minting either; a household and a roof are not the same unit, which is exactly
+what T-1476 was filed to establish.
+
+So this ticket's order, as of the merge: **131 beds and 64 houses**, both waiting on roofs.
+If reconciling the house count against the lodging model's 42-roof programme turns out to be
+a demonstration of its own, `ticket.mjs split` it rather than shipping a self-invented half.
