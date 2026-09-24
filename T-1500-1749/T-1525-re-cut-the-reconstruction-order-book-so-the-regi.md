@@ -1,7 +1,7 @@
 ---
 id: T-1525
 title: Re-cut the reconstruction order book so the register's 120 documented residents can be minted: the south-side 20-29 trade bucket over-supplies by 25, and businesses/physician is ordered by a closed ticket
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-23
 closed: null
-pr: null
+pr: 12
 claimed_by: run 9/24/2026, 1:08:47 AM CT
 blocked_on: null
 needs_bake: false
