@@ -1,7 +1,7 @@
 ---
 id: T-1087
 title: place_vocabulary's B4 names Wabansia and Kinzie's Addition as surveys this project commits none of, and it commits both: the owner's ruling, at a cost of one person
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-09-12
-closed: null
+closed: 2026-09-24
 pr: 15
 claimed_by: run 9/24/2026, 2:33:53 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T08:05:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35969073460
 claimed_at: 2026-09-24T07:33:53.093Z
 decision: null
