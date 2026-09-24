@@ -1,7 +1,7 @@
 ---
 id: T-1548
 title: Stop the two repeat costs: register the merge drivers or fail the gate, and refuse to close a ticket a committed file still records as open
-state: open
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 999
 claimed_by: null
 blocked_on: null
 needs_bake: false
