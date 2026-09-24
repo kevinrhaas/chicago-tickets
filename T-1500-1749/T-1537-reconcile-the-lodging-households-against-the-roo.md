@@ -1,7 +1,7 @@
 ---
 id: T-1537
 title: Reconcile the lodging households against the roof programme: the lodgers stage built 15 of them and filed no household fill, so the order book orders all 64 a second time and the Reconstructing-the-town bars read zero
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1534
 opened: 2026-09-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/24/2026, 5:32:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35986294348
+claimed_at: 2026-09-24T10:32:24.953Z
 decision: null
 decision_answer: null
 ---
