@@ -67,6 +67,6 @@ of one rule and not a re-reading of anything.
   the sign-off reads **GO** again.
 - `./tools/check.sh` green — all four steps, on a tree cut from dev.
 
-**Found by T-1506** (PR kevinrhaas/chicago#8x), which gated clean on its own diff — 606 of
+**Found by T-1506** (PR kevinrhaas/chicago#10), which gated clean on its own diff — 606 of
 610 steps, the same four red on its branch as on untouched `origin/dev` — and could not
 merge because of this. It is parked on `hold` until this lands.
