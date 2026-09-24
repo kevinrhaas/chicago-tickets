@@ -1,7 +1,7 @@
 ---
 id: T-1500
 title: The 278 persons the order book's bed buckets still order have no live owner: T-1175 split, and every piece of its tree that fills a bed has closed
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-20
 closed: null
-pr: null
+pr: 18
 claimed_by: run 9/24/2026, 3:30:44 AM CT
 blocked_on: null
 needs_bake: false
