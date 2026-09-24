@@ -1,7 +1,7 @@
 ---
 id: T-1506
 title: Retire the surplus reconstructed lawyer: businesses/lawyer is held at 2 drawn against an order of 1, because T-1299 admitted a documented attorney the town can name
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 10
 claimed_by: run 9/24/2026, 12:01:33 AM CT
 blocked_on: null
 needs_bake: false
