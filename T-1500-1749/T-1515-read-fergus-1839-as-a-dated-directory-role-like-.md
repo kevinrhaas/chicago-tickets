@@ -1,7 +1,7 @@
 ---
 id: T-1515
 title: Read Fergus 1839 as a dated directory role like its 1843 and 1844 siblings, so a printing is carried as evidence whether or not the 1835 field is empty
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 9
 claimed_by: run 9/23/2026, 11:03:19 PM CT
 blocked_on: null
 needs_bake: false
