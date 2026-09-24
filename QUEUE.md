@@ -272,3 +272,4 @@ T-1274 — Move the renderers and tools off the singular lives_at/works_at once 
 T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
 T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
 T-1527 — The ratchet and the remainder self-test are red on dev: pass_02_75_cohort and a remainder rule both hand on to T-1507, which has settled to done
+T-1542 — The research sign-off reads NO-GO on dev: 49 unresolved reading units defer to T-1514, which closed, so C3 fails and both research reports are stale — re-point the units at live work or state what would reopen them
