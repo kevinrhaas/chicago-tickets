@@ -85,7 +85,6 @@ T-1523 — Carry the policy-only rung's division back onto the household card an
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
 T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 T-0251 — first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
-T-0141 — A mast reads over the Green Tree's own roofline, which its committed placement forbids
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
@@ -272,5 +271,4 @@ T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows
 T-1527 — The ratchet and the remainder self-test are red on dev: pass_02_75_cohort and a remainder rule both hand on to T-1507, which has settled to done
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
-T-1548 — Stop the two repeat costs: register the merge drivers or fail the gate, and refuse to close a ticket a committed file still records as open
 T-1549 — The West Division spacing compares five lines at five different traced extents: mean_east is an unweighted vertex mean, so extending or truncating any trace moves that line's measured position
