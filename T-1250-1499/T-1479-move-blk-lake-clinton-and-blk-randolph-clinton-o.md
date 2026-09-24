@@ -1,7 +1,7 @@
 ---
 id: T-1479
 title: Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-state: claimed
+state: blocked-tech
 epic: GROUND
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-20
 closed: null
 pr: null
 claimed_by: run 9/24/2026, 7:56:00 AM CT
-blocked_on: null
+blocked_on: T-1540. The owner's ruling of 2026-09-21 (question 1 of 3) is that the Clinton-to-Canal successor is FILED BEFORE blocks 28 and 45 move, and that this ticket names it: re-cutting 32 lots against a grid short of the plat module would bake the error into everything seated on them. T-1540 is that successor and it is now filed. Unblock when it lands.
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36001914710
