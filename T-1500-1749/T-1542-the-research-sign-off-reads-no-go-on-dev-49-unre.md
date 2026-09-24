@@ -1,7 +1,7 @@
 ---
 id: T-1542
 title: The research sign-off reads NO-GO on dev: 49 unresolved reading units defer to T-1514, which closed, so C3 fails and both research reports are stale — re-point the units at live work or state what would reopen them
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-09-24
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: Not a defect: dev had already fixed it. T-1514's own PR (#24) re-pointed the 49 units when it merged, and both reports read GREEN on origin/dev. What was actually stale was this run's branch, cut from dev one commit before #24 landed — the NO-GO was measured against that stale base. Filed in error, withdrawn the same run.
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T13:52:36.856Z
 claimed_run: null
 claimed_at: null
 decision: null
