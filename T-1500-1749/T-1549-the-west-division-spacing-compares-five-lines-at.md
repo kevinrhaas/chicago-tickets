@@ -1,7 +1,7 @@
 ---
 id: T-1549
 title: The West Division spacing compares five lines at five different traced extents: mean_east is an unweighted vertex mean, so extending or truncating any trace moves that line's measured position
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-09-24
 pr: 30
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-24T22:09:54Z
 claimed_run: null
 claimed_at: null
 decision: null
