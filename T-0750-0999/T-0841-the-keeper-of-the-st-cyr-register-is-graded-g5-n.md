@@ -113,3 +113,21 @@ and the next register would have to be argued from scratch.
 THE BOUND IS THE SIGNING. He is attested where he signs, on the dates he signs, and the
 register's existence attests nothing about the days between. A run taking this ruling wider
 than the signed entries has gone past it.
+
+## The ruling is landed but parked — PR kevinrhaas/chicago#8, 2026-09-24
+
+The ladder half of this ticket is written, measured and pushed: the rung rewritten as the
+reason, `read_church()` reading the baptismal register, one officiant appearance per signed
+entry, `saint` in the particle list with a spelling rule so no second priest is minted, the
+`church_out_of_town` place refusal, the policy doc write-up, and the four re-derived ladder
+files. **Fr St Cyr takes G2c and stops being a G5 abstention.** 6,798 identities → 6,966;
+G2c 34 → 172; G1c 25 → 28; G5 45 → 43. Ten people already in the layer move and every one
+moves UP; no identity loses a rung.
+
+**It is on `hold` because `check.sh` is red on 5 of 610 steps** — the three passes that SPEND
+`grading_proposal.json` plus the two research reports downstream of them. Re-deriving those
+works and mints 120 new household cards; the order book then refuses, and the piece that
+clears it is **T-1525**, which this ticket is now blocked on. The full measurement, both
+faults with their numbers, and what is already fixed on the branch are written into T-1525
+and into the PR body. Rebase on `steward/t0841-register-grades-its-keeper`; do not re-derive
+the register reading from scratch.
