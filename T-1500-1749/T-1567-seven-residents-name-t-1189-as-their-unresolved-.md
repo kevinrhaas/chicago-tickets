@@ -50,3 +50,29 @@ own rebuild; the gate itself is green, because `check.sh` runs
 - A gate step catches the next one: `split` is not a rare event, and `--check --quiet`
   passed this by. Either the gate runs `--ledger-build`, or `ticket.mjs split` refuses to
   leave a record pointing at the ticket it just closed, or both — argue which.
+
+## THE TRIGGER, FOUND 2026-09-25 17:2xZ — it is #40 landing, and it will happen again
+
+`ticket_states()` reports a `split` parent as **`split_live`** while at least one
+descendant is still open, and plain `split` once every child has closed — T-1237's rule,
+deepened by T-1421 to climb the whole chain. `split_live` is an open state; `split` is not.
+
+T-1189 was split into T-1432, T-1433 and T-1434, and T-1448 is a descendant (T-1448 → of
+T-1434 → of T-1189). **`dev` took #40 (T-1448) at about 17:00Z, T-1448 settled to `done`,
+and it was the last live descendant** — so T-1189 dropped from `split_live` to `split` in
+that moment and twelve research units that had not moved began reading as deferred to
+finished work. Measured either side of it, with the SAME tree:
+
+    16:00Z, T-1448 `claimed`   ./tools/check.sh -> CHECK PASS, 619 steps
+    17:30Z, T-1448 `done`      ./tools/check.sh -> CHECK FAIL, 4 of 619
+                               and plain origin/dev (a49570d7) fails identically
+
+That is exactly the fault T-1237's docstring describes and exactly the mechanism it was
+written to prevent — the mechanism is working; **the twelve rows are the problem.** The
+work they wait on really has stopped, because the last piece of T-1189 is done. So they
+are not to be healed by touching `ticket_states()`; they want re-pointing at the ticket
+that owns each question, or resolving.
+
+This is a FLEET-WIDE red: four gate steps on dev, so every PR's required gate is red and
+nothing can merge until it is cleared. It landed as a side effect of closing a ticket
+nobody would think to check against, which is the case the last acceptance line asks for.
