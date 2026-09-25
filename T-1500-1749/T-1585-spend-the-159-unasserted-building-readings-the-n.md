@@ -39,9 +39,12 @@ Spend the 159 unasserted BUILDING readings the newspapers, books, directories, c
    for this corpus goes DOWN by the number this ticket spends — stated in the PR.
 4. Nothing here invents a coordinate, a source or a confidence. Rule 1 of AGENTS.md binds.
 
-**This is effort L on purpose: 159 units is more than one run's demonstration.** Split
-it before claiming — the natural cut is by corpus (newspapers / books / directories +
-civic + church), and each piece names the units it spends.
+**159 units is more than one run's demonstration, so this was filed `L` and cut by
+corpus in the same run:** T-1589 takes the 122 readings in the Chicago Democrat and the
+Chicago American, T-1590 the 37 in the books, directories, civic and church corpora.
+Between them they spend every unit that points at this parent, which is what keeps the
+chain honest — the failure this repair is for (T-1198) was a parent whose children spent
+a different corpus, so the chain could close with all 270 units untouched.
 
 ## Why this ticket exists
 

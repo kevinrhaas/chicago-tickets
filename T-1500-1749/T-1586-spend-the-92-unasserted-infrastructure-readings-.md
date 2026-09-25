@@ -41,8 +41,10 @@ Spend the 92 unasserted INFRASTRUCTURE readings: the bridges, ferries, wharves, 
 4. `python3 tools/measure_research_spend.py --check` is green and the PR states how many
    units moved and to what.
 
-**Effort L on purpose.** Split before claiming; the natural cut is by what the reading
-names (river works and bridges / the fort's supply / the ordinances' town geography).
+**92 units is more than one run's demonstration, so this was filed `L` and cut by corpus
+in the same run:** T-1591 takes the 79 readings in the Chicago Democrat and the Chicago
+American, T-1592 the 13 in the books, directories and civic corpora. Between them they
+spend every unit that points at this parent.
 
 ## Why this ticket exists
 
