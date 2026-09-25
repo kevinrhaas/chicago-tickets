@@ -1,7 +1,7 @@
 ---
 id: T-1523
 title: Carry the policy-only rung's division back onto the household card and data/residents/index.json through the carry slot the mint stages use, so no rung-5 household reads unplaced and the People view's division filter fills
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1513
 opened: 2026-09-21
-closed: null
+closed: 2026-09-25
 pr: 49
 claimed_by: run 9/25/2026, 2:49:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T22:26:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36181111897
 claimed_at: 2026-09-25T19:49:53.428Z
 decision: null
