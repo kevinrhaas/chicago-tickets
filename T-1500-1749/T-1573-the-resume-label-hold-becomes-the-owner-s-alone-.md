@@ -1,7 +1,7 @@
 ---
 id: T-1573
 title: The resume label: hold becomes the owner's alone and a run's unfinished handoff gets its own label with a structured reason line, read by chicago's lap, merger and stuck reporter, with a fixture proving resume is picked up and hold is not — and the PRs open now relabelled
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1571
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 46
 claimed_by: run 9/25/2026, 12:59:26 PM CT
 blocked_on: null
 needs_bake: false
