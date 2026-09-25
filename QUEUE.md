@@ -58,7 +58,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
-T-1555 — employment_coverage_1835.py writes but measured as a non-writer, so rederive never runs it
 T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations

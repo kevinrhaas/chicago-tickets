@@ -1,7 +1,7 @@
 ---
 id: T-1555
 title: employment_coverage_1835.py writes but measured as a non-writer, so rederive never runs it
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 38
 claimed_by: run 9/25/2026, 9:42:25 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T15:16:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36149056077
 claimed_at: 2026-09-25T14:42:25.135Z
 decision: null
