@@ -1,7 +1,7 @@
 ---
 id: T-1521
 title: The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-21
-closed: null
+closed: 2026-09-25
 pr: 41
 claimed_by: run 9/25/2026, 10:19:47 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T19:24:14Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36153067423
 claimed_at: 2026-09-25T15:19:47.423Z
 decision: null
