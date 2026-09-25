@@ -1,7 +1,7 @@
 ---
 id: T-1581
 title: Closing a leaf ticket can strand work owned by its split ancestors and turn dev red for every PR: ticket.mjs done and the gate must catch it before the PR merges, not after
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 6:44:41 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36201998560
+claimed_at: 2026-09-25T23:44:41.798Z
 decision: null
 decision_answer: null
 ---
