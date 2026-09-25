@@ -282,3 +282,4 @@ T-1569 — Spend the twelve civic, church, school and garrison post enrichments 
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
+T-1580 — Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-merge checks fail on a clean origin/dev, most likely since T-0141 moved the Green Tree off its corner post
