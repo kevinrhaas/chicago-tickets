@@ -1,7 +1,7 @@
 ---
 id: T-1545
 title: west_rec_027 and west_rec_037 stand INSIDE the platted Jefferson corridor, 12.02 m and 9.51 m in: re-deal them off it by the recipe that seated them, or refuse the corridor in writing — T-1444's boundary hold had been covering for it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 45
 claimed_by: run 9/25/2026, 11:36:33 AM CT
 blocked_on: null
 needs_bake: false
