@@ -59,6 +59,7 @@
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
+T-1565 — The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
