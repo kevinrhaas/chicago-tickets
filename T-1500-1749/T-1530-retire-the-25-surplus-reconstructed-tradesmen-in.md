@@ -1,7 +1,7 @@
 ---
 id: T-1530
 title: Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/trade holds 60 drawn against an order of 35, and T-1347 has closed
-state: claimed
+state: blocked-tech
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-24
 closed: null
 pr: null
 claimed_by: run 9/25/2026, 6:25:51 AM CT
-blocked_on: null
+blocked_on: T-1556 — the owner's answer of 2026-09-24 is option (c): the surplus is re-familied, never retired, as ONE unit for all 523 across the 48 refused buckets. T-1530's own bucket (persons/male/20_29/south/family/trade, now a surplus of 28 rather than 25) is discharged by T-1556's pieces, and this unblocks when it is inside their re-family ledger.
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36128327074

@@ -66,7 +66,6 @@ T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reco
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
-T-1530 — Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/trade holds 60 drawn against an order of 35, and T-1347 has closed
 T-1557 — The re-family ledger and the order book's accounting of a move, with zero moves made
 T-1558 — The rule that chooses WHICH held heads move, modelled against the adoption layers
 T-1559 — The 265 re-family moves themselves, in bucket-family stages
