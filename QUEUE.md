@@ -59,6 +59,7 @@
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 T-1561 — Samuel Toby's resident card still displays 'Samuel. Toby', the spelling that sets no middle initial, while its only cited press reading is now the 1834-07-02 'Samuel E. Toby': carry the merge's read side onto the mint's display name, or say in writing why the card keeps the unset form
+T-1562 — The Toby card records one impression of a return the T-1528 merge showed was printed three times: decide whether letter_list_returns and the presence leg follow the merged record's own first and last printings, or stay on the impression this pass reached
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
