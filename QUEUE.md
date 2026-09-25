@@ -56,10 +56,12 @@
 # --- stage's own 25 rules and by the layer on disk, but desktop part 3 can no longer be
 # --- RUN inside the foreground ceiling — it is killed in the block before the assertion,
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
+# --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
+# --- ahead of the re-family and seating work that is about to touch that layer.
+T-1555 — employment_coverage_1835.py writes but measured as a non-writer, so rederive never runs it
+T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
-T-1561 — Samuel Toby's resident card still displays 'Samuel. Toby', the spelling that sets no middle initial, while its only cited press reading is now the 1834-07-02 'Samuel E. Toby': carry the merge's read side onto the mint's display name, or say in writing why the card keeps the unset form
-T-1562 — The Toby card records one impression of a return the T-1528 merge showed was printed three times: decide whether letter_list_returns and the presence leg follow the merged record's own first and last printings, or stay on the impression this pass reached
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
@@ -72,8 +74,8 @@ T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invente
 T-1560 — LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
+T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
 T-1545 — west_rec_027 and west_rec_037 stand INSIDE the platted Jefferson corridor, 12.02 m and 9.51 m in: re-deal them off it by the recipe that seated them, or refuse the corridor in writing — T-1444's boundary hold had been covering for it
-T-1547 — The Green Tree's south-east corner stands 0.20 m INSIDE the West Water track, and the street's trace ends at that corner: re-seat it clear, carry the trace past it, or refuse the corridor in writing
 T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
@@ -102,6 +104,7 @@ T-1212 — Yards for every household: lot-line and dooryard fences, gardens, woo
 T-1213 — Signboards for every business that would have hung one: the reconstructed firms' names and trades in period lettering and forms, the attested signs untouched, the signless trades left signless by rule
 T-1214 — Build the camps of the summer of 1835: a tent and wagon-camp archetype, the encampments on the grounds the transient ticket evidenced — the land-sale crowd south of the fort, the immigrants' wagons at the west approach, the pier gang at the river mouth — bounded, labelled, and empty of figures
 T-0772 — Twelve dooryard gardens went with the retired households: should a garden follow the house or the household?
+T-1547 — The Green Tree's south-east corner stands 0.20 m INSIDE the West Water track, and the street's trace ends at that corner: re-seat it clear, carry the trace past it, or refuse the corridor in writing
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1215 — Converge the reconstructed town: every person housed, every business roofed, every roof occupied or its use stated, the census's dwellings ratio met, the programme reconciled, the budgets re-measured and set — the completion report a visitor can open
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
@@ -226,7 +229,6 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #     waits: T-1556 — the owner ANSWERED on 2026-09-24 with option (c): the surplus is re-familied, never retired, and as ONE unit for all 523 across the 48 refu…
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
-T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
 T-1510 — The stuck reporter cannot see a red gate: a PR whose gate failed and whose owning run has finished is the one state no automation in this repo owns
 T-1520 — A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
 T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one
@@ -261,20 +263,22 @@ T-0371 — The lattice path's block rotation is dead code that measure_rank_bias
 T-0433 — T-0346's measured costs for the new desktop parts 4, 5 and 6 were never filed, and the two places they are written down disagree
 T-0030 — A queue card in Manager reading tickets.json
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
+T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
+T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
+T-1273 — Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
+T-1274 — Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair
+T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
+T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
+T-1551 — Own the 1830 census and directory residue T-1297 left behind: the unasserted name-on-a-roll units that reach no ruling now the register's 120 residents are minted
+T-1552 — Own the remainder units T-1298 left behind: the reserved resident-pass people, the church register entries and the surviving letter-list name suspicions that reach no ruling
+T-1527 — The ratchet and the remainder self-test are red on dev: pass_02_75_cohort and a remainder rule both hand on to T-1507, which has settled to done
+# Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
+# small and card-local, they do not move the city.
 T-1219 — The three re-spelled cards still say in prose that the papers print the reading T-1139 overturned: hh_fraser_wm_h reads 'Wm. H. Frazer' and its own note says the papers print 'Wm. H. Fraser'
 T-1281 — Is the Democrat's 'A. Sweet' of 4 June 1834 Alanson Sweet or the Alon[s]on Sweet of the same column
 T-1315 — Spend the three dated birth and age enrichments T-1301 routed to T-1168: robinson_alexander, kimberly_edmund_s and maxwell_philip each carry a sourced birth date or age no field held when the reading was made, and both fields exist now
-T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
-T-1273 — Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
-T-1274 — Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair
-T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
-T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
-T-1527 — The ratchet and the remainder self-test are red on dev: pass_02_75_cohort and a remainder rule both hand on to T-1507, which has settled to done
-T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
-T-1551 — Own the 1830 census and directory residue T-1297 left behind: the unasserted name-on-a-roll units that reach no ruling now the register's 120 residents are minted
-T-1552 — Own the remainder units T-1298 left behind: the reserved resident-pass people, the church register entries and the surviving letter-list name suspicions that reach no ruling
-T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
-T-1555 — employment_coverage_1835.py writes but measured as a non-writer, so rederive never runs it
+T-1561 — Samuel Toby's resident card still displays 'Samuel. Toby', the spelling that sets no middle initial, while its only cited press reading is now the 1834-07-02 'Samuel E. Toby': carry the merge's read side onto the mint's display name, or say in writing why the card keeps the unset form
+T-1562 — The Toby card records one impression of a return the T-1528 merge showed was printed three times: decide whether letter_list_returns and the presence leg follow the merged record's own first and last printings, or stay on the impression this pass reached
