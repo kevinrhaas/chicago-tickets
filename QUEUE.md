@@ -58,7 +58,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
-T-1528 — May a present forename initial absorb an ABSENT one at the same entry of the same list — the two the unread-initial ruling held over
 T-1561 — Samuel Toby's resident card still displays 'Samuel. Toby', the spelling that sets no middle initial, while its only cited press reading is now the 1834-07-02 'Samuel E. Toby': carry the merge's read side onto the mint's display name, or say in writing why the card keeps the unset form
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
