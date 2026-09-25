@@ -63,6 +63,7 @@ T-1578 — tools/check.sh no longer fits a steward run's 600 s foreground comman
 T-1580 — Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-merge checks fail on a clean origin/dev, most likely since T-0141 moved the Green Tree off its corner post
 T-1581 — Closing a leaf ticket can strand work owned by its split ancestors and turn dev red for every PR: ticket.mjs done and the gate must catch it before the PR merges, not after
 T-1584 — dev is red for every PR: T-1523 settled done at 22:35Z and the 272 landholding units deferring to split parent T-1198 lost their last live leaf — repoint them at the live ticket that owns their question, or file one
+T-1585 — Spend the 159 unasserted BUILDING readings the newspapers, books, directories, civic and church corpora hold: a roof, a church, a school house, a store or a fort quarter a source names, read against the address book and the structure layer T-1198's chain finished, and each one asserted, limited or refused
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
