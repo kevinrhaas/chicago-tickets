@@ -1,7 +1,7 @@
 ---
 id: T-1568
 title: Twelve resident cohort units still name T-1189 unresolved, and its last live leaf closed with #40: the dev gate is red for every run
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: Duplicate of T-1567 (claimed 2026-09-25 17:03Z), which names the same fault — the twelve resident cohort units still pointing at the split T-1189 after #40 closed its last live leaf. Withdrawn so two runs do not repair dev's gate in parallel.
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T17:38:35.662Z
 claimed_run: null
 claimed_at: null
 decision: null
