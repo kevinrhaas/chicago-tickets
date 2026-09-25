@@ -1,7 +1,7 @@
 ---
 id: T-1563
 title: Spend the 19 trade-household re-family moves: the spender that writes the book's ledger, and the move carried onto the reconstructed trade head's own card
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1559
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 39
 claimed_by: run 9/25/2026, 9:12:45 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T21:04:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36145139091
 claimed_at: 2026-09-25T14:12:45.512Z
 decision: null

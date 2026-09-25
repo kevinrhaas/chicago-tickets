@@ -69,7 +69,6 @@ T-1566 — The staffing mint's payment never prices the DIVISION axis: a north l
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
-T-1563 — Spend the 19 trade-household re-family moves: the spender that writes the book's ledger, and the move carried onto the reconstructed trade head's own card
 T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
