@@ -1,7 +1,7 @@
 ---
 id: T-1575
 title: The order book's re-family owner table names T-1556, which is split with no live piece: build_order_book_1835.py --build refuses on dev, so no branch can re-derive the book
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 44
 claimed_by: run 9/25/2026, 1:35:48 PM CT
 blocked_on: null
 needs_bake: false
