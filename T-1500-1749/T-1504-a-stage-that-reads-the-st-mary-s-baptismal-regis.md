@@ -1,7 +1,7 @@
 ---
 id: T-1504
 title: A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 50
 claimed_by: run 9/25/2026, 2:31:55 PM CT
 blocked_on: null
 needs_bake: false
