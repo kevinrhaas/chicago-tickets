@@ -1,7 +1,7 @@
 ---
 id: T-1560
 title: LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1556
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 43
 claimed_by: run 9/25/2026, 12:23:48 PM CT
 blocked_on: null
 needs_bake: false
