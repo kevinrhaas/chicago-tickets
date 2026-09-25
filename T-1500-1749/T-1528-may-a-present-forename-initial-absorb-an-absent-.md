@@ -1,7 +1,7 @@
 ---
 id: T-1528
 title: May a present forename initial absorb an ABSENT one at the same entry of the same list — the two the unread-initial ruling held over
-state: open
+state: claimed
 epic: PAPERS
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 6:17:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36128313766
+claimed_at: 2026-09-25T11:17:30.251Z
 decision: answered
 decision_answer: b
 ---

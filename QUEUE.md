@@ -59,7 +59,6 @@
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 T-1528 — May a present forename initial absorb an ABSENT one at the same entry of the same list — the two the unread-initial ruling held over
-#   ? T-1528 DECISION: May a merge be declared where one printing sets a forename initial the other does not set AT ALL — an ABSENT initial rather than an unread one — at the same entry of the same list? — (a) No: an absent initial is not an unread one, nothing on the page says a letter stood there, and the cost is four accepted duplicate persons (Samuel E. Toby / Samuel. Toby, J. W. Smith / [?]. Smith, and the 1 April 1834 return's Duncklo and Denny) documented as a known cost.  (b) Yes, bounded exactly as T-0392 was: same list, same entry, the absent side supplying no competing letter, each merge carrying the same positional undo record so it can be split by whoever reads the page. — recommended: (a)
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
