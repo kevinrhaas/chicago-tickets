@@ -62,6 +62,7 @@ T-1577 — The fleet steward prompt and janitor in polecat-platform switched ont
 T-1578 — tools/check.sh no longer fits a steward run's 600 s foreground command: 322 and 326 of its 357 steps in two runs at the ceiling, and AGENTS.md still calls it 'seconds'
 T-1580 — Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-merge checks fail on a clean origin/dev, most likely since T-0141 moved the Green Tree off its corner post
 T-1581 — Closing a leaf ticket can strand work owned by its split ancestors and turn dev red for every PR: ticket.mjs done and the gate must catch it before the PR merges, not after
+T-1593 — check.sh's ticket-queue step turns every code PR red the moment an unsplit L ticket is filed: T-1585 and T-1586 did it at 23:07Z and no code change can clear it
 T-1584 — dev is red for every PR: T-1523 settled done at 22:35Z and the 272 landholding units deferring to split parent T-1198 lost their last live leaf — repoint them at the live ticket that owns their question, or file one
 T-1589 — The 122 BUILDING readings in the Chicago Democrat and the Chicago American: each one read against the address book and the structure layer, and asserted, limited or refused
 T-1590 — The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
