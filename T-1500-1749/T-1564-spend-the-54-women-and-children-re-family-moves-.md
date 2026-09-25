@@ -1,7 +1,7 @@
 ---
 id: T-1564
 title: Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1559
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 52
 claimed_by: run 9/25/2026, 4:15:17 PM CT
 blocked_on: null
 needs_bake: false
