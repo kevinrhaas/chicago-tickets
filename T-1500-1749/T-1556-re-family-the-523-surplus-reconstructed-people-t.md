@@ -105,3 +105,14 @@ names: (i) the re-family ledger and the book's accounting of a move, with zero m
 (iii) the 265 moves themselves, in bucket-family stages; (iv) LIBERTIES.md and the report.
 Do not ship a self-invented "(1/4)".
 
+**The book now names this programme, and the gate holds it (T-1530, PR on dev).**
+`data/reconstruction/1835_reconstruction_order_book.json` carries a `held_surplus`
+block — the 523, the 48 buckets, the 427 slots of open headroom, the 265 moves that land
+the town on the model's point, and `owner: T-1556`. `every_work_order_names_a_live_ticket`
+checks that owner on every `--build` and `--check`, and this is the one place the book
+accepts a `split` id: T-1556 is live while ONE of T-1557..T-1560 is live, and the gate
+goes red the moment the last piece closes with people still held. So the last piece to
+close must either take the surplus to zero or hand `HELD_SURPLUS_OWNER` (in
+`tools/build_order_book_1835.py`) to whatever carries on — that hand-off is the whole
+reason this field exists, since the prose one it replaced named T-1196, T-1197 and
+T-1179 for four days after all three had closed.
