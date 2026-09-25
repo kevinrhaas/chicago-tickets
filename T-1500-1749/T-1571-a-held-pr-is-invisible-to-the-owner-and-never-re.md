@@ -1,7 +1,7 @@
 ---
 id: T-1571
 title: A held PR is invisible to the owner and never resumed: split hold into the owner's park switch and a run's unfinished handoff that the next run picks up, and put every held PR on the 4D Board with its reason
-state: claimed
+state: split
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: null
 claimed_by: run 9/25/2026, 12:56:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T17:59:15.723Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36169824583
 claimed_at: 2026-09-25T17:56:06.452Z
 decision: null

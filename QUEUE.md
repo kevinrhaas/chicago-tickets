@@ -60,7 +60,8 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
 T-1567 — Seven residents name T-1189 as their unresolved ticket and it was SPLIT five days ago, so the research-spend ledger cannot build on dev at all
-T-1571 — A held PR is invisible to the owner and never resumed: split hold into the owner's park switch and a run's unfinished handoff that the next run picks up, and put every held PR on the 4D Board with its reason
+T-1573 — The resume label: hold becomes the owner's alone and a run's unfinished handoff gets its own label with a structured reason line, read by chicago's lap, merger and stuck reporter, with a fixture proving resume is picked up and hold is not — and the PRs open now relabelled
+T-1574 — Every open hold or resume PR on the 4D Board with its reason and age, and the fleet steward prompt and janitor in polecat-platform switched onto resume
 T-1565 — The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
 T-1572 — pr-automerge MERGES IMMEDIATELY on this repo, because auto-merge is disabled on kevinrhaas/chicago — a steward slice cannot arm-and-walk-away and lands its PR on whatever state dev is in
 
