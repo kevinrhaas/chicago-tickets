@@ -1,7 +1,7 @@
 ---
 id: T-1558
 title: The rule that chooses WHICH held heads move, modelled against the adoption layers
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1556
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 35
 claimed_by: run 9/25/2026, 7:50:53 AM CT
 blocked_on: null
 needs_bake: false
