@@ -1,7 +1,7 @@
 ---
 id: T-1578
 title: tools/check.sh no longer fits a steward run's 600 s foreground command: 322 and 326 of its 357 steps in two runs at the ceiling, and AGENTS.md still calls it 'seconds'
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 51
 claimed_by: run 9/25/2026, 3:41:04 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T23:17:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36186957649
 claimed_at: 2026-09-25T20:41:04.395Z
 decision: null
