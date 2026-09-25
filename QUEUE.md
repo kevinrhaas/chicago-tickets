@@ -61,7 +61,6 @@
 T-1576 — The 4D Board shows every open hold or resume PR on the code repo with its reason and its age, so the owner can see why a PR is parked without opening it
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
 T-1565 — The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
-T-1572 — pr-automerge MERGES IMMEDIATELY on this repo, because auto-merge is disabled on kevinrhaas/chicago — a steward slice cannot arm-and-walk-away and lands its PR on whatever state dev is in
 T-1578 — tools/check.sh no longer fits a steward run's 600 s foreground command: 322 and 326 of its 357 steps in two runs at the ceiling, and AGENTS.md still calls it 'seconds'
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
