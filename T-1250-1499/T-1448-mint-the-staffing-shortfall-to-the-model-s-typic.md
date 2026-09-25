@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36128320428
 claimed_at: 2026-09-25T11:16:49.471Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -182,3 +182,15 @@ stage used to, so re-cutting a cell they have drawn against re-deals their whole
 book names them bucket by bucket in `trade_re_cut.held_by_an_unaudited_stage`, and the fix
 for each is the one T-1503 made: a committed basis, then a line in
 `REMAINDER_STABLE_STAGES`.
+
+## Decision needed
+
+**Question:** T-1448's mint cannot reach the staffing model's typical band, and your ruling of 2026-09-20 on it — re-cut the book — has now RUN and is SPENT: the re-cut opened the 10-19 band the apprentices and shop boys stand in, and it refused the sex axis on the evidence, so the shortfall stayed. Re-derived on dev today (PR #31): the shops want 130 hands over 88 houses; the book has 56 outstanding trade slots, 24 of them women's and unspendable on these roles; 32 are payable and 98 have nowhere to come from. At the model's own LOW band — priced for the first time in that PR, because count_low had never actually been carried on a row — the demand is 47 hands over 44 houses, 26 payable and 21 short. Every payable slot at either band is a lodging/trade bucket owned by T-1532, so any mint here spends another stage's quota. Which does the town take?
+
+- (a) Mint to the model's LOW band. 26 hands minted out of T-1532's lodging/trade slots, 21 houses left short and saying so on the business card.
+- (b) Mint the 32 the book can pay at the TYPICAL band, and let the other 98 stand short. More hands on the cards, but the gap it leaves is four times larger and which houses get filled is settled by the order the purse happens to be spent in rather than by a stated band.
+- (c) Mint nothing. The shops stand short, the business card prints the shortfall as the honest state of the evidence, and T-1448 closes on the order alone. It invents nobody and it spends nobody else's quota.
+
+**Recommendation:** (a) Mint to the model's LOW band. 26 hands minted out of T-1532's lodging/trade slots, 21 houses left short and saying so on the business card. — it is the band the staffing model itself wrote for this case, it leaves the smallest unexplained gap (21 against 98), and unlike (b) the houses it fills are chosen by a stated rule rather than by the order the arithmetic runs in
+
+**Asked:** 2026-09-25 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36128320428. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
