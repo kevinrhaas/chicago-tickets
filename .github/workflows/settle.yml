@@ -54,12 +54,21 @@ jobs:
         env:
           CHICAGO_TICKETS_DIR: ${{ github.workspace }}/tickets
         run: node code/chicago/4d/tools/ticket.mjs check
+      # `--parked` is what puts every open `hold`/`resume` pull request on the board
+      # with its reason and its age (T-1576). It is opt-in because `board` also runs
+      # inside `publish.sh`, `pr-lap.sh` and the merge driver, all of which must stay
+      # offline — and THIS is the board the owner and Manager actually read, which is
+      # the whole reason the reading exists. The token is the code repo's PR list: both
+      # repos are public, so `github.token` reaches it and no secret is needed; without
+      # one the step still succeeds and the board says the list was NOT READ rather
+      # than printing an empty section that reads as "nothing is parked".
       - name: Publish the board branch (tickets.json + BOARD.md)
         if: always()
         env:
           CHICAGO_TICKETS_DIR: ${{ github.workspace }}/tickets
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
-          node code/chicago/4d/tools/ticket.mjs board
+          node code/chicago/4d/tools/ticket.mjs board --parked
           rm -rf board && mkdir board && cd board
           git init -q -b board
           cp ../tickets/tickets.json ../tickets/BOARD.md .
