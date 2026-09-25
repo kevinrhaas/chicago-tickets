@@ -60,5 +60,8 @@ instead, so an unsplit L cannot enter QUEUE.md in the first place; and the gate'
 either by reporting an inherited queue fault as a WARN naming the filing that caused it and
 the one command that clears it, or by the tickets repo's own check catching it on push.
 Prove it by filing an L against a fixture and watching the refusal, and by re-running the
-step against the state that failed here. Split T-1585 and T-1586 as part of the same unit,
-since dev stays red for every PR until somebody does.
+step against the state that failed here. T-1585 and T-1586 were themselves split
+(into T-1590, T-1591, T-1592) about half an hour later and the step went green again on its
+own, so the standing red is already gone — what is left to fix is that it could happen at
+all, and that the run which met it had to prove the red was not its own before it could
+merge.
