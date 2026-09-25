@@ -1,7 +1,7 @@
 ---
 id: T-1490
 title: Trace Jefferson Street north to Ohio so the corporate boundary's west leg stops being a 1,188 m extrapolation, and seat the five West Division roofs held on it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-20
-closed: null
+closed: 2026-09-24
 pr: 28
 claimed_by: run 9/24/2026, 9:01:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T00:03:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36009347374
 claimed_at: 2026-09-24T14:01:51.304Z
 decision: null
