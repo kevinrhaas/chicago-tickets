@@ -67,7 +67,10 @@ T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reco
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1530 — Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/trade holds 60 drawn against an order of 35, and T-1347 has closed
-T-1556 — Re-family the 523 surplus reconstructed people the re-cut held rather than clamped, as ONE unit across all 48 buckets: the unadopted heads move into the buckets the re-cut GREW instead of being un-written — the owner's ruling of 2026-09-24 on T-1530
+T-1557 — The re-family ledger and the order book's accounting of a move, with zero moves made
+T-1558 — The rule that chooses WHICH held heads move, modelled against the adoption layers
+T-1559 — The 265 re-family moves themselves, in bucket-family stages
+T-1560 — LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1545 — west_rec_027 and west_rec_037 stand INSIDE the platted Jefferson corridor, 12.02 m and 9.51 m in: re-deal them off it by the recipe that seated them, or refuse the corridor in writing — T-1444's boundary hold had been covering for it

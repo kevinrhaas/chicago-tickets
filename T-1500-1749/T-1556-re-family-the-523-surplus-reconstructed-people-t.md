@@ -1,7 +1,7 @@
 ---
 id: T-1556
 title: Re-family the 523 surplus reconstructed people the re-cut held rather than clamped, as ONE unit across all 48 buckets: the unadopted heads move into the buckets the re-cut GREW instead of being un-written — the owner's ruling of 2026-09-24 on T-1530
-state: open
+state: split
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: L
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: null
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T12:04:22.206Z
 claimed_run: null
 claimed_at: null
 decision: null
