@@ -75,6 +75,7 @@ T-1568 — Twelve resident cohort units still name T-1189 unresolved, and its la
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1563 — Spend the 19 trade-household re-family moves: the spender that writes the book's ledger, and the move carried onto the reconstructed trade head's own card
 T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
+T-1575 — The order book's re-family owner table names T-1556, which is split with no live piece: build_order_book_1835.py --build refuses on dev, so no branch can re-derive the book
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
