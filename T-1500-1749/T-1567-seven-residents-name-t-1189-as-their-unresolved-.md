@@ -1,7 +1,7 @@
 ---
 id: T-1567
 title: Seven residents name T-1189 as their unresolved ticket and it was SPLIT five days ago, so the research-spend ledger cannot build on dev at all
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 44
 claimed_by: run 9/25/2026, 12:03:40 PM CT
 blocked_on: null
 needs_bake: false
