@@ -66,6 +66,7 @@ T-1584 — dev is red for every PR: T-1523 settled done at 22:35Z and the 272 la
 T-1585 — Spend the 159 unasserted BUILDING readings the newspapers, books, directories, civic and church corpora hold: a roof, a church, a school house, a store or a fort quarter a source names, read against the address book and the structure layer T-1198's chain finished, and each one asserted, limited or refused
 T-1586 — Spend the 92 unasserted INFRASTRUCTURE readings: the bridges, ferries, wharves, wells, the fort's woodpile, the ward geography and the fire ordinances' apparatus the papers and books print, read against the corridor, yard and structure layers that now exist, and each one asserted, limited or refused
 T-1587 — Spend the 19 unasserted STREET readings: the trails, roads and street lines the papers, Hubbard and Norris name that reach no corridor in the street layer, each one asserted onto the corridor it names, limited to the division it reaches, or refused in writing
+T-1588 — Spend the two landholding enrichments T-1301 routed to T-1198: wright_john_s's Chicago land purchases and original-town lots and kingston_paul's Chicago landholding, written onto the held cards by a field that says what a person held — the same shape as T-1315, T-1335 and T-1569 for the births, the kin and the posts
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
