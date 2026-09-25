@@ -1,7 +1,7 @@
 ---
 id: T-1560
 title: LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-1556
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 12:23:48 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36166427210
+claimed_at: 2026-09-25T17:23:48.533Z
 decision: null
 decision_answer: null
 ---
