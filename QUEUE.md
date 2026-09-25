@@ -62,6 +62,7 @@ T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156:
 T-1567 — Seven residents name T-1189 as their unresolved ticket and it was SPLIT five days ago, so the research-spend ledger cannot build on dev at all
 T-1571 — A held PR is invisible to the owner and never resumed: split hold into the owner's park switch and a run's unfinished handoff that the next run picks up, and put every held PR on the 4D Board with its reason
 T-1565 — The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
+T-1572 — pr-automerge MERGES IMMEDIATELY on this repo, because auto-merge is disabled on kevinrhaas/chicago — a steward slice cannot arm-and-walk-away and lands its PR on whatever state dev is in
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
