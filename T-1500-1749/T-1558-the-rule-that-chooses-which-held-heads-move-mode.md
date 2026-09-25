@@ -1,7 +1,7 @@
 ---
 id: T-1558
 title: The rule that chooses WHICH held heads move, modelled against the adoption layers
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1556
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 35
 claimed_by: run 9/25/2026, 7:50:53 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T14:04:19Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36136939143
 claimed_at: 2026-09-25T12:50:53.107Z
 decision: null

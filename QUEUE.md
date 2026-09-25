@@ -67,7 +67,6 @@ T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reco
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
-T-1558 — The rule that chooses WHICH held heads move, modelled against the adoption layers
 T-1559 — The 265 re-family moves themselves, in bucket-family stages
 T-1560 — LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
 
