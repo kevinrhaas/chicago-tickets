@@ -280,5 +280,4 @@ T-1315 — Spend the three dated birth and age enrichments T-1301 routed to T-11
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
-T-1561 — Samuel Toby's resident card still displays 'Samuel. Toby', the spelling that sets no middle initial, while its only cited press reading is now the 1834-07-02 'Samuel E. Toby': carry the merge's read side onto the mint's display name, or say in writing why the card keeps the unset form
 T-1562 — The Toby card records one impression of a return the T-1528 merge showed was printed three times: decide whether letter_list_returns and the presence leg follow the merged record's own first and last printings, or stay on the impression this pass reached
