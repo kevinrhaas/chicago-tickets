@@ -1,7 +1,7 @@
 ---
 id: T-1555
 title: employment_coverage_1835.py writes but measured as a non-writer, so rederive never runs it
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 38
 claimed_by: run 9/25/2026, 9:42:25 AM CT
 blocked_on: null
 needs_bake: false
