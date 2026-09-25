@@ -1,7 +1,7 @@
 ---
 id: T-1572
 title: pr-automerge MERGES IMMEDIATELY on this repo, because auto-merge is disabled on kevinrhaas/chicago — a steward slice cannot arm-and-walk-away and lands its PR on whatever state dev is in
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 1:53:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36175706148
+claimed_at: 2026-09-25T18:53:48.236Z
 decision: null
 decision_answer: null
 ---
