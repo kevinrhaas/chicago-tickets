@@ -1,7 +1,7 @@
 ---
 id: T-1565
 title: The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 42
 claimed_by: run 9/25/2026, 11:00:48 AM CT
 blocked_on: null
 needs_bake: false
