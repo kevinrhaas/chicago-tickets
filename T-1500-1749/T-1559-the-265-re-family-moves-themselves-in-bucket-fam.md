@@ -1,7 +1,7 @@
 ---
 id: T-1559
 title: The 265 re-family moves themselves, in bucket-family stages
-state: claimed
+state: split
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1556
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: null
 claimed_by: run 9/25/2026, 9:07:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T14:12:38.103Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36145139091
 claimed_at: 2026-09-25T14:07:33.991Z
 decision: null

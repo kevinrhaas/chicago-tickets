@@ -67,7 +67,8 @@ T-1448 — Mint the staffing shortfall to the model's typical band: the 105 reco
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
-T-1559 — The 265 re-family moves themselves, in bucket-family stages
+T-1563 — Spend the 19 trade-household re-family moves: the spender that writes the book's ledger, and the move carried onto the reconstructed trade head's own card
+T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
 T-1560 — LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
