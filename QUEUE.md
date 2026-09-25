@@ -84,6 +84,7 @@ T-0419 — The re-centred South Water corridor stands 8.58 m off its own block f
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
 T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
+T-1579 — T-1377's seven free Black cards are written and never reach the town: compile_scene reads one sub-stage report of the underdocumented stage and the People view has never held them
 T-1444 — Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
 T-1523 — Carry the policy-only rung's division back onto the household card and data/residents/index.json through the carry slot the mint stages use, so no rung-5 household reads unplaced and the People view's division filter fills
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
