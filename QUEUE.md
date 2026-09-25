@@ -59,7 +59,6 @@
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1521 — The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
-T-1567 — Seven residents name T-1189 as their unresolved ticket and it was SPLIT five days ago, so the research-spend ledger cannot build on dev at all
 T-1573 — The resume label: hold becomes the owner's alone and a run's unfinished handoff gets its own label with a structured reason line, read by chicago's lap, merger and stuck reporter, with a fixture proving resume is picked up and hold is not — and the PRs open now relabelled
 T-1574 — Every open hold or resume PR on the 4D Board with its reason and age, and the fleet steward prompt and janitor in polecat-platform switched onto resume
 T-1565 — The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
@@ -69,13 +68,11 @@ T-1572 — pr-automerge MERGES IMMEDIATELY on this repo, because auto-merge is d
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
 T-1566 — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
-T-1568 — Twelve resident cohort units still name T-1189 unresolved, and its last live leaf closed with #40: the dev gate is red for every run
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1563 — Spend the 19 trade-household re-family moves: the spender that writes the book's ledger, and the move carried onto the reconstructed trade head's own card
 T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
-T-1575 — The order book's re-family owner table names T-1556, which is split with no live piece: build_order_book_1835.py --build refuses on dev, so no branch can re-derive the book
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated

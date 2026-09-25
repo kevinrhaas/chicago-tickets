@@ -1,7 +1,7 @@
 ---
 id: T-1567
 title: Seven residents name T-1189 as their unresolved ticket and it was SPLIT five days ago, so the research-spend ledger cannot build on dev at all
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 44
 claimed_by: run 9/25/2026, 12:03:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T18:50:34Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36164480807
 claimed_at: 2026-09-25T17:03:40.795Z
 decision: null
