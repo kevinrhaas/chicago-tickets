@@ -1,7 +1,7 @@
 ---
 id: T-1557
 title: The re-family ledger and the order book's accounting of a move, with zero moves made
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1556
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 32
 claimed_by: run 9/25/2026, 7:04:28 AM CT
 blocked_on: null
 needs_bake: false
