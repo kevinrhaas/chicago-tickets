@@ -1,7 +1,7 @@
 ---
 id: T-1564
 title: Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-1559
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 4:15:17 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36190306717
+claimed_at: 2026-09-25T21:15:17.340Z
 decision: null
 decision_answer: null
 ---
