@@ -1,7 +1,7 @@
 ---
 id: T-1565
 title: The PR lap says only `checkout failed` when it cannot check out a branch, and #1629 was left alone on no evidence at all
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 11:00:48 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36157433279
+claimed_at: 2026-09-25T16:00:48.969Z
 decision: null
 decision_answer: null
 ---
