@@ -1,7 +1,7 @@
 ---
 id: T-1557
 title: The re-family ledger and the order book's accounting of a move, with zero moves made
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-1556
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 7:04:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36132515332
+claimed_at: 2026-09-25T12:04:28.318Z
 decision: null
 decision_answer: null
 ---
