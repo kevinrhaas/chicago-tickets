@@ -58,7 +58,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
-T-1576 — The 4D Board shows every open hold or resume PR on the code repo with its reason and its age, so the owner can see why a PR is parked without opening it
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
 T-1578 — tools/check.sh no longer fits a steward run's 600 s foreground command: 322 and 326 of its 357 steps in two runs at the ceiling, and AGENTS.md still calls it 'seconds'
 

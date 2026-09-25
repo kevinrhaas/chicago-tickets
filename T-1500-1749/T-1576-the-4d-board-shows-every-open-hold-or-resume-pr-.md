@@ -1,7 +1,7 @@
 ---
 id: T-1576
 title: The 4D Board shows every open hold or resume PR on the code repo with its reason and its age, so the owner can see why a PR is parked without opening it
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1574
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 48
 claimed_by: run 9/25/2026, 1:57:42 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T20:37:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36176240724
 claimed_at: 2026-09-25T18:57:42.657Z
 decision: null
