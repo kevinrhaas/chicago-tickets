@@ -1,7 +1,7 @@
 ---
 id: T-1577
 title: The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1574
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 177
 claimed_by: run 9/25/2026, 2:18:53 PM CT
 blocked_on: null
 needs_bake: false
