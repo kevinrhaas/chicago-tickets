@@ -1,7 +1,7 @@
 ---
 id: T-1521
 title: The PR lap can never finish a rebuild that reaches manifest step 156: it runs rederive without publishing, so rebuild_closing_set refuses and the PR is left alone on every lap for ever
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 41
 claimed_by: run 9/25/2026, 10:19:47 AM CT
 blocked_on: null
 needs_bake: false
