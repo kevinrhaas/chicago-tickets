@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to.
@@ -194,3 +194,5 @@ for each is the one T-1503 made: a committed basis, then a line in
 **Recommendation:** (a) Mint to the model's LOW band. 26 hands minted out of T-1532's lodging/trade slots, 21 houses left short and saying so on the business card. — it is the band the staffing model itself wrote for this case, it leaves the smallest unexplained gap (21 against 98), and unlike (b) the houses it fills are chosen by a stated rule rather than by the order the arithmetic runs in
 
 **Asked:** 2026-09-25 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36128320428. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-25, in session):** (a) Mint to the model's LOW band. 26 hands minted out of T-1532's lodging/trade slots, 21 houses left short and saying so on the business card.
