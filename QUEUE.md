@@ -58,7 +58,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
-T-1525 — Re-cut the reconstruction order book so the register's 120 documented residents can be minted: the south-side 20-29 trade bucket over-supplies by 25, and businesses/physician is ordered by a closed ticket
 T-1528 — May a present forename initial absorb an ABSENT one at the same entry of the same list — the two the unread-initial ruling held over
 #   ? T-1528 DECISION: May a merge be declared where one printing sets a forename initial the other does not set AT ALL — an ABSENT initial rather than an unread one — at the same entry of the same list? — (a) No: an absent initial is not an unread one, nothing on the page says a letter stood there, and the cost is four accepted duplicate persons (Samuel E. Toby / Samuel. Toby, J. W. Smith / [?]. Smith, and the 1 April 1834 return's Duncklo and Denny) documented as a known cost.  (b) Yes, bounded exactly as T-0392 was: same list, same entry, the absent side supplying no competing letter, each merge carrying the same positional undo record so it can be split by whoever reads the page. — recommended: (a)
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
