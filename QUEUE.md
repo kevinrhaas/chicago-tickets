@@ -72,6 +72,7 @@ T-1566 — The staffing mint's payment never prices the DIVISION axis: a north l
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
 T-1582 — The re-family programme's second and third rounds are spent but nothing says a fourth cannot appear: assert the fixpoint rather than reaching it by hand
+T-1583 — T-1198's research units point at a dead ticket chain: four gate steps are red on clean dev because T-1491-T-1493 all closed and 60-odd book, newspaper and resident claims still name their parent
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
