@@ -60,6 +60,7 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
 T-1578 — tools/check.sh no longer fits a steward run's 600 s foreground command: 322 and 326 of its 357 steps in two runs at the ceiling, and AGENTS.md still calls it 'seconds'
+T-1580 — Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-merge checks fail on a clean origin/dev, most likely since T-0141 moved the Green Tree off its corner post
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
@@ -282,4 +283,3 @@ T-1569 — Spend the twelve civic, church, school and garrison post enrichments 
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
-T-1580 — Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-merge checks fail on a clean origin/dev, most likely since T-0141 moved the Green Tree off its corner post
