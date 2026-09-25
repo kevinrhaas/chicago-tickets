@@ -280,4 +280,3 @@ T-1315 — Spend the three dated birth and age enrichments T-1301 routed to T-11
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
-T-1562 — The Toby card records one impression of a return the T-1528 merge showed was printed three times: decide whether letter_list_returns and the presence leg follow the merged record's own first and last printings, or stay on the impression this pass reached
