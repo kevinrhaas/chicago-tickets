@@ -1,7 +1,7 @@
 ---
 id: T-1448
 title: Mint the staffing shortfall to the model's typical band: the 105 reconstructed hands 96 houses are still short, written as a stage of the resident reconstruction programme into cards of their own, each carrying its house, its role and where it slept, and nothing already committed written to
-state: claimed
+state: withdrawn
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1434
 opened: 2026-09-20
-closed: null
+closed: 2026-09-25
 pr: null
 claimed_by: run 9/25/2026, 6:16:49 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T11:58:22.092Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36128320428
 claimed_at: 2026-09-25T11:16:49.471Z
 decision: pending
