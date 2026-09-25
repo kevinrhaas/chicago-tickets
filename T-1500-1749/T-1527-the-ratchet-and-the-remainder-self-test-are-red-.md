@@ -1,7 +1,7 @@
 ---
 id: T-1527
 title: The ratchet and the remainder self-test are red on dev: pass_02_75_cohort and a remainder rule both hand on to T-1507, which has settled to done
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-09-25
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: Both reds were cleared on dev by T-1526 (#14, merged 2026-09-24): pass_02_75_cohort no longer names T-1507 and spend_trade_premises retired HANDED_TICKET. Withdrawn during the owner's re-rank of 2026-09-25.
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-25T14:30:16.957Z
 claimed_run: null
 claimed_at: null
 decision: null

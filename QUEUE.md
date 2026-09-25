@@ -271,7 +271,6 @@ T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows
 T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
 T-1551 — Own the 1830 census and directory residue T-1297 left behind: the unasserted name-on-a-roll units that reach no ruling now the register's 120 residents are minted
 T-1552 — Own the remainder units T-1298 left behind: the reserved resident-pass people, the church register entries and the surviving letter-list name suspicions that reach no ruling
-T-1527 — The ratchet and the remainder self-test are red on dev: pass_02_75_cohort and a remainder rule both hand on to T-1507, which has settled to done
 # Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
 # small and card-local, they do not move the city.
 T-1219 — The three re-spelled cards still say in prose that the papers print the reading T-1139 overturned: hh_fraser_wm_h reads 'Wm. H. Frazer' and its own note says the papers print 'Wm. H. Fraser'
