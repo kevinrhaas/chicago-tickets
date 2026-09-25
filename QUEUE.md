@@ -72,7 +72,6 @@ T-1566 — The staffing mint's payment never prices the DIVISION axis: a north l
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1563 — Spend the 19 trade-household re-family moves: the spender that writes the book's ledger, and the move carried onto the reconstructed trade head's own card
 T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
-T-1560 — LIBERTIES.md and the re-familying report: the counts, the rule, and the owner's ruling behind them
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
