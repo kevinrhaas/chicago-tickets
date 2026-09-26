@@ -1,7 +1,7 @@
 ---
 id: T-1593
 title: check.sh's ticket-queue step turns every code PR red the moment an unsplit L ticket is filed: T-1585 and T-1586 did it at 23:07Z and no code change can clear it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 56
 claimed_by: run 9/25/2026, 7:12:50 PM CT
 blocked_on: null
 needs_bake: false
