@@ -1,7 +1,7 @@
 ---
 id: T-1630
 title: The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 12:28:09 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36258994691
+claimed_at: 2026-09-26T17:28:09.876Z
 decision: null
 decision_answer: null
 ---
