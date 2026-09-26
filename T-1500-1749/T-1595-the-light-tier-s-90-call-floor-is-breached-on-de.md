@@ -1,7 +1,7 @@
 ---
 id: T-1595
 title: The light tier's 90-call floor is breached on dev at 99 calls at the open aerial, and it was 94 six days ago
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 5:45:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36236599918
+claimed_at: 2026-09-26T10:45:32.128Z
 decision: null
 decision_answer: null
 ---
