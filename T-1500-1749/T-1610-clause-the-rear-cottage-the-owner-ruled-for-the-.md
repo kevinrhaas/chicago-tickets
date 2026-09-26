@@ -1,7 +1,7 @@
 ---
 id: T-1610
 title: Clause the rear cottage the owner ruled for: the placement policy admits a D-family roof at a yard setback behind its own lot's principal roof as ancillary, the class derivation reads the position and not only the family group, and the six platted-block verdicts stop being refused by the parcel gate
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1482
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 2:29:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36226704346
+claimed_at: 2026-09-26T07:29:57.919Z
 decision: null
 decision_answer: null
 ---
