@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 The four roofs the platted deal asked of blk_south_water_dearborn and blk_south_water_wells stand on the one lot each block's schedule sizing reserves open: a ruling on whether a block may be dealt out of its open lot.
@@ -37,3 +37,5 @@ Piece 2 of 2 of **T-1621 — The extended block recipes re-derived from the seat
 **Recommendation:** (a) Leave the four owed. The two blocks keep their vacant corner lot, and the seating pass stops requesting a slot on a lot the schedule's sizing reserves open — the request is refused in writing rather than standing unfulfillable. — The reserved open lot is not an accounting slack this project can spend: the schedule sizes principal room at one free lot LESS ONE for exactly this reason, and the placement rule says in its own words that a block at capacity is a claim about 1835 the evidence does not support. Option b keeps the arithmetic green by calling lot 0 open while two documented stores stand on it, which is a false statement about the town in the file that documents the town. The four households are owed to T-1200..T-1214, which build the district's ground where there is room — a shortfall handed on is the direction this pass is already allowed to be wrong in. But the alternating-vacancy assumption is a claim about what the town looked like, and the density standard is yours: you ruled toward density twice (2026-08-18 and 2026-08-27) and a run should not extrapolate a third ruling from those two.
 
 **Asked:** 2026-09-26 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36242356844. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-26, via Manager):** (a) Leave the four owed. The two blocks keep their vacant corner lot, and the seating pass stops requesting a slot on a lot the schedule's sizing reserves open — the request is refused in writing rather than standing unfulfillable.
