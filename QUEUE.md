@@ -72,7 +72,6 @@ T-1577 — The fleet steward prompt and janitor in polecat-platform switched ont
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
-T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.

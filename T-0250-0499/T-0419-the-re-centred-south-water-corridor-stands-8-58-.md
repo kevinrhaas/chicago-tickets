@@ -1,7 +1,7 @@
 ---
 id: T-0419
 title: The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-29
-closed: null
+closed: 2026-09-26
 pr: 60
 claimed_by: run 9/25/2026, 10:02:12 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T05:03:36Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36211783381
 claimed_at: 2026-09-26T03:02:12.043Z
 decision: null
