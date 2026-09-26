@@ -1,7 +1,7 @@
 ---
 id: T-0135
 title: The draw-call ceiling is checked at one camera, and it is not the worst one
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-08-21
 closed: null
 pr: null
-claimed_by: run 8/21/2026, 11:05:00 PM CT
+claimed_by: run 9/26/2026, 3:47:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36230606504
+claimed_at: 2026-09-26T08:47:10.697Z
+decision: null
+decision_answer: null
 ---
 
 The draw-call ceiling is checked at one camera, and it is not the worst one.
