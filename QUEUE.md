@@ -71,6 +71,11 @@
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
+# Owner, 2026-09-26: the river front's own bank first. He flew it against Wright and Hathaway, and T-1200 builds on this waterline.
+T-1628 — The La Salle slough runs inland to Randolph off Conley/Stelzer, and the owner rules it to Wright and Hathaway: in from the river just past South Water Street and into the lot, no deeper
+T-1629 — Two notches enter the main stem near the foot of State Street and Wright and Hathaway draw one: the State Street slough enters at Wright's re-entrant just east of State, and the second notch goes
+T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
+T-1631 — From the air and at distance the 1835 world looks flooded: the horizon reads as open water with trees standing in it
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
@@ -293,7 +298,3 @@ T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sherif
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
 T-1606 — The two research reports embed live ticket state from a separate repository, so a sibling run claiming a ticket turns every code branch's gate red on a diff that cannot touch it
-T-1628 — The La Salle slough runs inland to Randolph off Conley/Stelzer, and the owner rules it to Wright and Hathaway: in from the river just past South Water Street and into the lot, no deeper
-T-1629 — Two notches enter the main stem near the foot of State Street and Wright and Hathaway draw one: the State Street slough enters at Wright's re-entrant just east of State, and the second notch goes
-T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
-T-1631 — From the air and at distance the 1835 world looks flooded: the horizon reads as open water with trees standing in it
