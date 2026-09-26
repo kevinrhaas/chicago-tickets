@@ -1,7 +1,7 @@
 ---
 id: T-1638
 title: Every South Water roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the letter-list names refused in writing with the ruling that refuses them
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1200
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 5:38:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36276009189
+claimed_at: 2026-09-26T22:38:29.946Z
 decision: null
 decision_answer: null
 ---
