@@ -1,7 +1,7 @@
 ---
 id: T-1607
 title: The anchor the paper prints for the Exchange Coffee House is 'the Exchange', and whole-set anchor matching resolves it to no building in the town
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 1:17:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36222265041
+claimed_at: 2026-09-26T06:17:36.504Z
 decision: null
 decision_answer: null
 ---
