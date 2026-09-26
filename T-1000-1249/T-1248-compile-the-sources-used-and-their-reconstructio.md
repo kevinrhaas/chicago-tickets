@@ -1,7 +1,7 @@
 ---
 id: T-1248
 title: Compile the sources used and their reconstruction backlinks
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 90
 claimed_by: steward 9/26/2026, 2:15:06 PM CT
 blocked_on: null
 needs_bake: false
