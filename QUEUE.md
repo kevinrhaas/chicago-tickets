@@ -89,6 +89,7 @@ T-1202 — Build the Randolph–Washington tier and the public square's neighbou
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
 T-1624 — The 23 pre-scene-date building placements the Chicago Democrat gives on the plat: T-1599's lot-and-block, named-corner and held-neighbour readings of 1833-34 carried forward to 1835-07-01 or refused, with the plat and the block recipes in front of them
+T-1625 — The six prose building placements the books and Norris give by corner, cross street and neighbour: the First Baptist meeting house, Hamilton's own house, Mark Beaubien's frame building by Noble's, Tippecanoe Hall, the Dearborn and South Water log building with the block 14 building, and Owings's house south of the Fur Company's — each carried forward to 1835-07-01 or refused
 T-1590 — The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
 T-1591 — The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
 T-1592 — The 13 INFRASTRUCTURE readings in the books, directories and civic corpora: Hubbard's river and portage works, Fergus, Andreas and Norris, each one asserted, limited or refused
