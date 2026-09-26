@@ -1,7 +1,7 @@
 ---
 id: T-1275
 title: Give the loading journey 160 varied source and reconstruction statuses
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 96
 claimed_by: run 9/26/2026, 4:04:56 PM CT
 blocked_on: null
 needs_bake: false
