@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 The re-family rule has reached its fixpoint with 395 of the 523 held people still held in
@@ -87,3 +87,5 @@ book and by running `python3 tools/ticket_liveness.py --closing` against this ti
 **Recommendation:** (a) They remain held, recorded as held, and the programme is settled at its fixpoint rather than at zero — the refusals stand as written and the book says so. — Every one of the 44 refusals is a rule you approved, not a gap: option (a) changes no person and no confidence, and it makes the book state the true finish line instead of one it can never reach. (b) buys a smaller residue by loosening a constraint that exists to stop a mother being counted on one side of the river and her daughter on the other, which is the worse record.
 
 **Asked:** 2026-09-25 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36205104435. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-25, in session):** (a) They remain held, recorded as held, and the programme is settled at its fixpoint rather than at zero — the refusals stand as written and the book says so.
