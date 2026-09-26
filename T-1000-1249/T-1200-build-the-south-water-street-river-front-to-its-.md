@@ -1,7 +1,7 @@
 ---
 id: T-1200
 title: Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-09-26
 pr: null
 claimed_by: run 9/26/2026, 5:27:35 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-09-26T22:35:28.141Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36276009189
 claimed_at: 2026-09-26T22:27:35.349Z
 decision: null

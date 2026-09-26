@@ -80,7 +80,10 @@ T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
+T-1638 — Every South Water roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the letter-list names refused in writing with the ruling that refuses them
+T-1639 — The South Water street line stands as stores and warehouses and not cottages: the C2-C4 store fronts and F1-F3 warehouses at the crosswalk's required variants, raised on the party lines and baked
+T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
+T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
 T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
