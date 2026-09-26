@@ -1,7 +1,7 @@
 ---
 id: T-1580
 title: Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-merge checks fail on a clean origin/dev, most likely since T-0141 moved the Green Tree off its corner post
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 54
 claimed_by: run 9/25/2026, 6:07:20 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T00:29:11Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36198919206
 claimed_at: 2026-09-25T23:07:20.589Z
 decision: null
