@@ -63,3 +63,14 @@ So, settled:
 - **The outer plank walk runs straight** along the new bank and **crosses the slough straight**, parallel to the Water Street road's own crossing (`lasalle_slough_crossing`), not by curving round a point. East of the slough it already follows the bank, and west of it should read the same.
 - **The docks move south with the bank.** Every landing, wharf and freight shed on this reach (`data/wharves/`, the river-front sheds) re-seats against the new waterline at the same relation to the bank the ones east of the slough keep. Say each one's move in metres.
 - **Acceptance adds:** the bank from the western bend to the La Salle mouth stands on the owner's line, stated as the northing, within the georeference tolerance. No land and no planting stands north of it. The walk and the docks sit on it.
+
+## Owner, third message, 2026-09-26: Wright is the guide, and do not overcorrect
+
+*"yes that's the right bend, follow wright in general, bring it in appropriately per my request but dont go crazy on either way, im sure wright is right bit that bend and the river does not appear correct compared to it"*
+
+This sets the order of evidence for the whole ticket:
+- **The bend is the one near the forks**, where the south bank turns (E ≈ +160..+260, bank rising from N +1 to +35). The corrected run goes from that turn east to the La Salle mouth.
+- **Wright 1834's drawn bank is the target, not the red line.** The owner's reading is that Wright is right and the model's river no longer matches it through the bend and the swell. So step 1 comes first and decides the answer: measure the committed run against Wright's inked bank (both scans, NA/HUP and BPL) from the bend to the La Salle mouth, and find where and why they part. The Clark-reach loop was lettering read as ground, so check the same failure here.
+- **Re-trace to Wright's ink.** Where the committed bank stands north of it, bring it in to the ink. Where it already sits on the ink, leave it. The owner's red line shows the direction and rough size of the change (south, level with the bank east of the slough). It is not a coordinate to force onto the map: "dont go crazy on either way". A correction that goes past Wright's ink is as wrong as the swell.
+- Hathaway corroborates. It does not override Wright.
+- **Acceptance, amended:** from the bend to the La Salle mouth, the south bank sits on Wright's inked bank within the trace's own ink-distance tolerance (report median and p90 against the ink, as `shoreline.geojson` already does). The swell is gone. The walk, the crossing and the docks follow that bank as above.
