@@ -76,7 +76,6 @@ T-0419 — The re-centred South Water corridor stands 8.58 m off its own block f
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
-T-1579 — T-1377's seven free Black cards are written and never reach the town: compile_scene reads one sub-stage report of the underdocumented stage and the People view has never held them
 T-1444 — Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 T-1600 — Assert the ten named-building corroborations the 1835 newspaper run carries onto the structure layer: the Presbyterian Church, the Baptist meeting house, the Exchange and Eagle Coffee Houses, the Sauganash's refit, the Lake House going up in Kinzie's Addition and Bates' new auction room on Dearborn, each written onto the record it names with the issue that names it
