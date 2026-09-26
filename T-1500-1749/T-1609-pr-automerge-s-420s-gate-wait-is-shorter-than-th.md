@@ -1,7 +1,7 @@
 ---
 id: T-1609
 title: pr-automerge's 420s gate wait is shorter than this repo's own CI gate, so a finished green unit ends as a resume PR and the janitor pays a lap for it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: 179
 claimed_by: run 9/26/2026, 12:45:06 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T05:54:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36221512163
 claimed_at: 2026-09-26T05:45:06.749Z
 decision: null
@@ -66,3 +66,5 @@ is the same contract: what a run does when it cannot finish.
 
 **Found by:** the T-1603 run, which hit it on its own merge after watching it happen to
 PR #60 earlier in the same hour.
+
+**Settled by hand (2026-09-26, owner's session):** this ticket's PR is **kevinrhaas/polecat-platform#179**, merged 2026-09-26T05:54:59Z, not a kevinrhaas/chicago pull request. The settle workflow reads `pr:` as a chicago PR number only, so it could never close this ticket; and once chicago's own numbering reaches #179 it would have read an unrelated PR. See T-1616.

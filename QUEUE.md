@@ -62,8 +62,6 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
-T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
-T-1609 — pr-automerge's 420s gate wait is shorter than this repo's own CI gate, so a finished green unit ends as a resume PR and the janitor pays a lap for it
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
@@ -299,3 +297,4 @@ T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charl
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
 T-1606 — The two research reports embed live ticket state from a separate repository, so a sibling run claiming a ticket turns every code branch's gate red on a diff that cannot touch it
 T-1616 — The order book still orders 104 work orders from T-1444, which is done: sweep the west-division ground and structure buckets onto live successors
+T-1617 — settle reads every ticket's pr: as a kevinrhaas/chicago PR, so a ticket whose PR is in polecat-platform never settles, and will be settled by an unrelated chicago PR once the numbers meet
