@@ -79,6 +79,7 @@ T-1444 — Release generate_west_infill's 35 held slots onto the extended ground
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 T-1603 — The Eagle Coffee House, Trowbridge's, is a named public house of the scene year that the structure layer does not hold: build the record or refuse it in writing
 T-1604 — The Exchange Coffee House stands on Andreas's corner of Lake and Wells and Heacock's own 1835 advertisement puts it at Lake and Franklin, one block west: rule the conflict or state it on the position
+T-1607 — The anchor the paper prints for the Exchange Coffee House is 'the Exchange', and whole-set anchor matching resolves it to no building in the town
 T-1605 — Two land-sale entries the structure layer's land_owner blocks name are refused by the derived register and spent by a building: rule ls0057 and ls0058 one way or the other
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
 T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
