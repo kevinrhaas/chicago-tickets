@@ -1,7 +1,7 @@
 ---
 id: T-1199
 title: Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-09-26
 pr: null
 claimed_by: run 9/26/2026, 3:27:55 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T08:29:20.499Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36229532871
 claimed_at: 2026-09-26T08:27:56.097Z
 decision: null
