@@ -1,7 +1,7 @@
 ---
 id: T-1626
 title: The street-face adoption policy takes a roof raised in answer to a household's slot request before the household can adopt it: T-1622 raised the D3 and D4 blk_south_water_franklin asked for and two documented firms took both, so the two tradesmen came back owed — decide whether that precedence should hold for a roof the seating itself requested
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 84
 claimed_by: run 9/26/2026, 9:41:40 AM CT
 blocked_on: null
 needs_bake: false
