@@ -45,8 +45,21 @@ So the bank swells about **15–20 m** into the channel over E +260..+450 and fa
 ## The work
 
 1. **Read the reach on Hathaway 1834 and on the NA/HUP Wright sheet**, E +200..+520, and measure the drawn bank against the trace. If the swell is in neither sheet's ink, it is a tracing artefact. Re-trace or correct the run so the bank stays even with the reach either side, keeping Wright's La Salle re-entrant as the one break in it (the owner: "recognizing and using the slough location from the wright map").
-2. If a sheet does draw a swell, record the reading and ask the owner (`ticket.mjs ask`) before building against his line.
+2. If a sheet does draw a swell, record that reading in the research note as the one the owner's ruling set aside, and log the change in docs/LIBERTIES.md. Build to his line either way. He has ruled on it twice (below), so this is not an `ask`.
 3. **Straighten the outer plank walk.** Re-derive `river_walk_frontage.json` against the corrected bank so it runs roughly straight along it, as the owner asked, with its crossing at the slough mouth.
 4. Re-derive what fronts the bank (South Water corridor, wharves, landings, block faces) and bake (`needs_bake`). Say what moved.
 
 **Acceptance:** between E +220 and E +720 the south bank departs from a straight fit through the reach by no more than the georeference's own tolerance, stated as a number, except at the La Salle mouth. The plank walk follows it without the bend. `check.sh` and the named smoke legs are green at both widths.
+
+## Owner confirmation, 2026-09-26 (with a screenshot looking along South Water Street from the west, red line drawn)
+
+*"ok yes and dont forget about adjusting this river width and removing the extra land in the river west of the slight around the bend, the walk should go straight and cross straght just like the water street road and follow the bank of the river just like east of the slough, of course the docks will move in south as you move that river bank aling south water south so it is even with the bank to the east"*
+
+His red line runs straight along South Water Street's river side, from the west edge of his view to the La Salle slough mouth and on east, level with the bank east of the slough. Everything north of it on this reach is the extra land: the wooded strip, the three landing sheds standing out on it, and the rounded point where the plank walk curves south to the crossing.
+
+So, settled:
+- **The bank moves SOUTH to his line**, even with the bank east of the slough, from the bend in the west to the La Salle mouth. The river gets **wider** on this reach by exactly that amount. The water polygon, the waterline run, the heightfield bank, the water mask and collision all move together. The north bank does not move.
+- **The extra land goes.** Remove the ground standing in the river west of the slough, round the bend, and whatever is planted on it (the shrub and tree belt on the point) with it. Re-derive the flora so nothing grows in water.
+- **The outer plank walk runs straight** along the new bank and **crosses the slough straight**, parallel to the Water Street road's own crossing (`lasalle_slough_crossing`), not by curving round a point. East of the slough it already follows the bank, and west of it should read the same.
+- **The docks move south with the bank.** Every landing, wharf and freight shed on this reach (`data/wharves/`, the river-front sheds) re-seats against the new waterline at the same relation to the bank the ones east of the slough keep. Say each one's move in metres.
+- **Acceptance adds:** the bank from the western bend to the La Salle mouth stands on the owner's line, stated as the northing, within the georeference tolerance. No land and no planting stands north of it. The walk and the docks sit on it.
