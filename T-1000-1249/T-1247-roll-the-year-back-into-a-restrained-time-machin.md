@@ -1,7 +1,7 @@
 ---
 id: T-1247
 title: Roll the year back into a restrained time-machine arrival
-state: review
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: 87
-claimed_by: run 9/26/2026, 12:56:00 PM CT
+claimed_by: recovery 9/26/2026, 1:17:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-26T18:17:11.616Z
+decision: null
+decision_answer: null
 ---
 
 The loading screen becomes the **arrival**: a welcome that says you are entering a digital reconstruction of 1835, a year that rolls back from 2026 and lands on exactly 1835 at the moment the town is ready, and statuses that read like the reconstruction is being assembled as you travel. The owner's brief, verbatim where it matters: *"a tick back rolling back of the years from 2026 … the year ticker … should roll back at a pace so that when the screen is fully loaded it lands exactly at 1835 … it might slow down or speed up over a section towards 1835 so it goes smoothly to the user in a Time Machine fashion. The UI should pick up a modern gently steampunk retro 60s Time Machine feel style, don't get cutesy or go overboard there."* This ticket is the presentation over T-1246's events; T-1275 fills the status library.
