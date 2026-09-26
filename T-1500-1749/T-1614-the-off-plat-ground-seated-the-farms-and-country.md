@@ -1,7 +1,7 @@
 ---
 id: T-1614
 title: The off-plat ground seated: the farms and country seats, the additions' small lots, the fringes' labourer cabins, the branches' noxious trades and the camp grounds — every reconstructed household and business the plat does not hold given its ground by the same policy order
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1199
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: 73
 claimed_by: run 9/26/2026, 5:11:25 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T11:29:40Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36234898106
 claimed_at: 2026-09-26T10:11:25.350Z
 decision: null

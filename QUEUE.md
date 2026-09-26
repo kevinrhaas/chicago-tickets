@@ -75,7 +75,6 @@
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
-T-1614 — The off-plat ground seated: the farms and country seats, the additions' small lots, the fringes' labourer cabins, the branches' noxious trades and the camp grounds — every reconstructed household and business the plat does not hold given its ground by the same policy order
 T-1615 — Carry the seats through to the builders and the views: the extended block recipes regenerated from the seats so generate_*_infill.py --check is green on every one, the People and Businesses 'Go to' resolving for every reconstructed card, and the 'Reconstructing the town' card showing seats against roofs
 T-1611 — Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
