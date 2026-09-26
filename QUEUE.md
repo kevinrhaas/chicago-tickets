@@ -79,7 +79,6 @@ T-1620 — The 'Reconstructing the town' card shows the seats against the roofs:
 T-1621 — The extended block recipes re-derived from the seats' six requested slots: the D7, H1, D3, D4, D5 and D6 roofs the platted deal asked of blk_south_water_dearborn, blk_south_water_franklin and blk_south_water_wells, written into their recipes and rebaked
 T-1611 — Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
-T-1595 — The light tier's 90-call floor is breached on dev at 99 calls at the open aerial, and it was 94 six days ago
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
