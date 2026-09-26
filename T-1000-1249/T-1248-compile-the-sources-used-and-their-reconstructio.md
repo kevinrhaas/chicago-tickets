@@ -1,7 +1,7 @@
 ---
 id: T-1248
 title: Compile the sources used and their reconstruction backlinks
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: steward 9/26/2026, 2:15:06 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-26T19:15:06.095Z
+decision: null
+decision_answer: null
 ---
 
 Compile, at build time, **which sources this reconstruction actually used and for what** — the data behind the Sources browser (T-1276) and the loading-screen source cards (T-1275). The owner wants *"all the sources that you have used in building this … a link library or summary link to the items from that source, like what was pulled from that source for the reconstruction."* This ticket is compiler and published data only; no visitor-facing surface changes. (Visible-progress exemption 3: it is the gate blocking T-1275 and T-1276 — name both in the PR body.)
