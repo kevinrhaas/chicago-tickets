@@ -93,7 +93,6 @@ T-1202 — Build the Randolph–Washington tier and the public square's neighbou
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
-T-1598 — The 34 BUILDING readings in the 1835 issues of the Chicago Democrat and the Chicago American: the scene-year notices read against the address book and the structure layer, and asserted, limited or refused
 T-1599 — The 88 BUILDING readings in the 1833 and 1834 issues of the Chicago Democrat: the pre-scene-year notices read against the address book and the structure layer, and asserted, limited or refused
 T-1590 — The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
 T-1591 — The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
