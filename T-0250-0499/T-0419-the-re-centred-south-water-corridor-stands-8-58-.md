@@ -1,7 +1,7 @@
 ---
 id: T-0419
 title: The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-29
 closed: null
-pr: 1240
+pr: 60
 claimed_by: run 9/25/2026, 10:02:12 PM CT
 blocked_on: null
 needs_bake: false
