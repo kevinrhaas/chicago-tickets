@@ -1,7 +1,7 @@
 ---
 id: T-1595
 title: The light tier's 90-call floor is breached on dev at 99 calls at the open aerial, and it was 94 six days ago
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 76
 claimed_by: run 9/26/2026, 5:45:32 AM CT
 blocked_on: null
 needs_bake: false
