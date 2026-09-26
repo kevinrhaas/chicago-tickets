@@ -1,7 +1,7 @@
 ---
 id: T-1584
 title: dev is red for every PR: T-1523 settled done at 22:35Z and the 272 landholding units deferring to split parent T-1198 lost their last live leaf — repoint them at the live ticket that owns their question, or file one
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 53
 claimed_by: run 9/25/2026, 5:54:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T00:08:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36198552225
 claimed_at: 2026-09-25T22:54:32.593Z
 decision: null

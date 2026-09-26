@@ -63,7 +63,6 @@ T-1580 — Mobile smoke parts 1-2 and 5-6 are red on dev: 10 frontage and far-me
 T-1581 — Closing a leaf ticket can strand work owned by its split ancestors and turn dev red for every PR: ticket.mjs done and the gate must catch it before the PR merges, not after
 T-1593 — check.sh's ticket-queue step turns every code PR red the moment an unsplit L ticket is filed: T-1585 and T-1586 did it at 23:07Z and no code change can clear it
 T-1594 — A step label in check.sh carries backticks inside double quotes, so every gate run prints a bash syntax error to stderr and the label loses the word it quoted
-T-1584 — dev is red for every PR: T-1523 settled done at 22:35Z and the 272 landholding units deferring to split parent T-1198 lost their last live leaf — repoint them at the live ticket that owns their question, or file one
 T-1589 — The 122 BUILDING readings in the Chicago Democrat and the Chicago American: each one read against the address book and the structure layer, and asserted, limited or refused
 T-1590 — The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
 T-1591 — The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
