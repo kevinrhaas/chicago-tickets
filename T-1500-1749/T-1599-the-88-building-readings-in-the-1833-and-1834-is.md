@@ -1,7 +1,7 @@
 ---
 id: T-1599
 title: The 88 BUILDING readings in the 1833 and 1834 issues of the Chicago Democrat: the pre-scene-year notices read against the address book and the structure layer, and asserted, limited or refused
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1589
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 7:57:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36243353818
+claimed_at: 2026-09-26T12:57:02.488Z
 decision: null
 decision_answer: null
 ---
