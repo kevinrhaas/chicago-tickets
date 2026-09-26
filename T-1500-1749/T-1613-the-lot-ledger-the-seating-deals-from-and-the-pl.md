@@ -1,7 +1,7 @@
 ---
 id: T-1613
 title: The lot ledger the seating deals from, and the platted ground seated on it: every lot of the committed plat enumerated with its block, frontage, street class, standing roofs and multi-building rule, and every reconstructed household and business the policy puts inside the plat dealt onto a named lot, party-line packed to the density standard, order-book buckets decremented
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1199
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 3:29:44 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36229532871
+claimed_at: 2026-09-26T08:29:44.362Z
 decision: null
 decision_answer: null
 ---
