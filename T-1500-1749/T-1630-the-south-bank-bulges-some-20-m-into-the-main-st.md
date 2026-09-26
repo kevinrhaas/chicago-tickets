@@ -17,7 +17,7 @@ needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36258994691
 claimed_at: 2026-09-26T17:28:09.876Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -74,3 +74,15 @@ This sets the order of evidence for the whole ticket:
 - **Re-trace to Wright's ink.** Where the committed bank stands north of it, bring it in to the ink. Where it already sits on the ink, leave it. The owner's red line shows the direction and rough size of the change (south, level with the bank east of the slough). It is not a coordinate to force onto the map: "dont go crazy on either way". A correction that goes past Wright's ink is as wrong as the swell.
 - Hathaway corroborates. It does not override Wright.
 - **Acceptance, amended:** from the bend to the La Salle mouth, the south bank sits on Wright's inked bank within the trace's own ink-distance tolerance (report median and p90 against the ink, as `shoreline.geojson` already does). The swell is gone. The walk, the crossing and the docks follow that bank as above.
+
+## Decision needed
+
+**Question:** The committed south bank IS Wright's inked bank (median 1.87 m, p90 3.96 m over 103 stations, measured on the NA/HUP scan under its own registration — PR #88). Wright himself draws the swell: the ground he puts between his bank and his block tier runs 34.9 / 39.0 / 31.7 / 19.8 m across blocks 20, 19, 18, 17, where Hathaway's runs 29.3 / 28.2 / 24.2 / 21.3 m with no maximum in it. So the bank cannot be brought in to your line without going PAST Wright's ink, which your third message forbids. Which governs on this reach?
+
+- (a) Keep Wright. The waterline stays on the ink of the sheet the datum, the plat and the block grid are all fitted to. The swell stays; the walk keeps its bend and the docks do not move. T-1630 closes on the reading.
+- (b) Follow Hathaway on this reach. Re-cut the bank to Hathaway's even taper from the bend to the La Salle mouth — about 6 to 11 m south, peaking at block 19 — keeping Wright's La Salle re-entrant. The bank's grade drops from a documented trace to reconstructed and goes in LIBERTIES; the walk straightens, the sheds and planting on the point come off, the docks re-seat south, and it needs a bake.
+- (c) Split the difference: hold the bank but fix only what does not depend on it — straighten the plank walk and its crossing where the bank allows, and re-seat anything standing proud of the waterline.
+
+**Recommendation:** (a) Keep Wright. The waterline stays on the ink of the sheet the datum, the plat and the block grid are all fitted to. The swell stays; the walk keeps its bend and the docks do not move. T-1630 closes on the reading. — The reconstruction's waterline is fitted to the same survey as its datum, its plat and all 41 of its blocks; departing from that sheet on one reach, on the eye rather than on evidence, buys 6-11 m of evenness for a documented line downgraded to an invention, on exactly the reach T-1200 is about to build its lots, landings and plank walk against. The 20 m read off the scene is about half Wright-vs-Hathaway and about half the block grid's own 8.58 m corridor-line offset, which T-0419 already refused to move.
+
+**Asked:** 2026-09-26 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36258994691. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
