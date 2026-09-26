@@ -1,7 +1,7 @@
 ---
 id: T-1609
 title: pr-automerge's 420s gate wait is shorter than this repo's own CI gate, so a finished green unit ends as a resume PR and the janitor pays a lap for it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 179
 claimed_by: run 9/26/2026, 12:45:06 AM CT
 blocked_on: null
 needs_bake: false
