@@ -73,6 +73,7 @@
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 # Owner, 2026-09-26: the river front's own bank first. He flew it against Wright and Hathaway, and T-1200 builds on this waterline.
 T-1637 — The fort road takes a water gap at the State slough's new mouth, and nothing says whether the town laid anything over it
+T-1642 — The south bank's 81 released positions: the fort road left the strip between South Water's end and the Reservation line, and the only reason that ground was empty left with it
 T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
