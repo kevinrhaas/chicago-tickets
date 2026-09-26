@@ -295,3 +295,4 @@ T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: i
 T-1606 — The two research reports embed live ticket state from a separate repository, so a sibling run claiming a ticket turns every code branch's gate red on a diff that cannot touch it
 T-1628 — The La Salle slough runs inland to Randolph off Conley/Stelzer, and the owner rules it to Wright and Hathaway: in from the river just past South Water Street and into the lot, no deeper
 T-1629 — Two notches enter the main stem near the foot of State Street and Wright and Hathaway draw one: the State Street slough enters at Wright's re-entrant just east of State, and the second notch goes
+T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
