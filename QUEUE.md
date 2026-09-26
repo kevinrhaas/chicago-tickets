@@ -160,7 +160,6 @@ T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-0475 — Build the 1904 Prairie Avenue landmark mansion core
 T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
 T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
-T-1633 — The Prairie Avenue 1904 research library and the pre-fire viewer's 1834 Wright shortcut, as the owner asked
 T-1286 — Cross-check the derived 1812 pre-cut shore against the Harrison 1830 trace, and record what the two readings disagree about
 T-1243 — Author the e1830_natural terrain spec and generate the 1812 heightfield and the ground and water meshes across the Fort-to-Eighteenth-Street corridor
 T-0469 — Reconstruct the first Fort Dearborn complex as it stood in August 1812
