@@ -1,7 +1,7 @@
 ---
 id: T-1590
 title: The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1585
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 80
 claimed_by: run 9/26/2026, 8:40:56 AM CT
 blocked_on: null
 needs_bake: false
