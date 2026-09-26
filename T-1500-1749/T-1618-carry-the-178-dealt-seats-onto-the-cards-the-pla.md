@@ -1,7 +1,7 @@
 ---
 id: T-1618
 title: Carry the 178 dealt seats onto the cards: the plat and off-plat seats written onto the address book's rows, so the People and Businesses 'Go to' resolves for every household the placement policy seated at a roof
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1615
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 75
 claimed_by: run 9/26/2026, 6:35:50 AM CT
 blocked_on: null
 needs_bake: false
