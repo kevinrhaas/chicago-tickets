@@ -1,7 +1,7 @@
 ---
 id: T-1589
 title: The 122 BUILDING readings in the Chicago Democrat and the Chicago American: each one read against the address book and the structure layer, and asserted, limited or refused
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1585
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/25/2026, 8:53:22 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36207160834
+claimed_at: 2026-09-26T01:53:22.724Z
 decision: null
 decision_answer: null
 ---
