@@ -1,7 +1,7 @@
 ---
 id: T-1620
 title: The 'Reconstructing the town' card shows the seats against the roofs: the 178 dealt seats, the 1,302 still owed and the six requested slots, derived into the order book and rendered on the card
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1619
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 78
 claimed_by: run 9/26/2026, 7:24:44 AM CT
 blocked_on: null
 needs_bake: false
