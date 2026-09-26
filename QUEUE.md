@@ -77,6 +77,7 @@ T-1566 — The staffing mint's payment never prices the DIVISION axis: a north l
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
 T-1564 — Spend the 54 women-and-children re-family moves onto their 17 invented households, head and members alike
+T-1597 — The re-family rule has reached its fixpoint with 395 of the 523 held people still held in 44 refused buckets: the order book's programme step needs a live owner for them, and the owner's ruling of 2026-09-24 that they are re-familied and never retired needs somewhere to land
 T-1582 — The re-family programme's second and third rounds are spent but nothing says a fourth cannot appear: assert the fixpoint rather than reaching it by hand
 T-1583 — T-1198's research units point at a dead ticket chain: four gate steps are red on clean dev because T-1491-T-1493 all closed and 60-odd book, newspaper and resident claims still name their parent
 
