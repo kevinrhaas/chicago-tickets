@@ -1,7 +1,7 @@
 ---
 id: T-1607
 title: The anchor the paper prints for the Exchange Coffee House is 'the Exchange', and whole-set anchor matching resolves it to no building in the town
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 66
 claimed_by: run 9/26/2026, 1:17:36 AM CT
 blocked_on: null
 needs_bake: false
