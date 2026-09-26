@@ -1,7 +1,7 @@
 ---
 id: T-1596
 title: The PR lap's ticket-id collision step crashes where tickets/ is absent, so a green PR that merges dev cleanly is left alone as a 'TICKET ID COLLISION': resolve_id_collisions answers 'not applicable' where the tickets live in their own repository
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-25
 pr: 57
 claimed_by: run 9/25/2026, 7:59:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T01:17:53Z
 claimed_run: null
 claimed_at: 2026-09-26T00:59:32.871Z
 decision: null
