@@ -1,7 +1,7 @@
 ---
 id: T-1444
 title: Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
-state: claimed
+state: review
 epic: GROUND
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1431
 opened: 2026-09-20
 closed: null
-pr: null
+pr: 67
 claimed_by: run 9/26/2026, 2:02:30 AM CT
 blocked_on: null
 needs_bake: false
