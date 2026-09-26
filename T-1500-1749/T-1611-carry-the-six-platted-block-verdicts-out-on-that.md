@@ -1,7 +1,7 @@
 ---
 id: T-1611
 title: Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1482
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 4:47:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36233634139
+claimed_at: 2026-09-26T09:47:11.967Z
 decision: null
 decision_answer: null
 ---
