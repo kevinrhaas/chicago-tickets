@@ -1,7 +1,7 @@
 ---
 id: T-1247
 title: Roll the year back into a restrained time-machine arrival
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 87
 claimed_by: run 9/26/2026, 12:56:00 PM CT
 blocked_on: null
 needs_bake: false
