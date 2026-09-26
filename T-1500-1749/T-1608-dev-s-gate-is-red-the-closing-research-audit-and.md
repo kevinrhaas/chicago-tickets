@@ -1,7 +1,7 @@
 ---
 id: T-1608
 title: dev's gate is red: the closing research audit and the sign-off are derived from the whole tree, so two branches that each re-derived them merge clean and land stale
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 64
 claimed_by: run 9/26/2026, 12:18:40 AM CT
 blocked_on: null
 needs_bake: false
