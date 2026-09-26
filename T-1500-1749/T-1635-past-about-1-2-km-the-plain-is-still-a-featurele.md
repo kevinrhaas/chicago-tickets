@@ -1,7 +1,7 @@
 ---
 id: T-1635
 title: Past about 1.2 km the plain is still a featureless band: the haze DENSITY, not its colour, is what is left of the flooded horizon
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: 93
 claimed_by: run 9/26/2026, 2:48:24 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T21:37:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36267031326
 claimed_at: 2026-09-26T19:48:25.006Z
 decision: null

@@ -75,7 +75,6 @@
 T-1637 — The fort road takes a water gap at the State slough's new mouth, and nothing says whether the town laid anything over it
 T-1636 — T-0134 is re-opened by the filled State slough mouth: 26.5 m of dry bank now stands outside South Water's corridor at E +813, where the old channel and its approach cuts used to take it
 T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
-T-1635 — Past about 1.2 km the plain is still a featureless band: the haze DENSITY, not its colour, is what is left of the flooded horizon
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
