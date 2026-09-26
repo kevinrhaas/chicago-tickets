@@ -1,7 +1,7 @@
 ---
 id: T-1504
 title: A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-21
-closed: null
+closed: 2026-09-25
 pr: 50
 claimed_by: run 9/25/2026, 2:31:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T02:47:23Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36179789474
 claimed_at: 2026-09-25T19:31:55.066Z
 decision: null
