@@ -83,7 +83,6 @@ T-1583 — T-1198's research units point at a dead ticket chain: four gate steps
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-T-1545 — west_rec_027 and west_rec_037 stand INSIDE the platted Jefferson corridor, 12.02 m and 9.51 m in: re-deal them off it by the recipe that seated them, or refuse the corridor in writing — T-1444's boundary hold had been covering for it
 T-1570 — Six West Division roofs stand inside a platted street corridor the corridor gate cannot see: two in Jefferson, two in Fulton, two in Des Plaines, west_046 12.08 m in
 T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
