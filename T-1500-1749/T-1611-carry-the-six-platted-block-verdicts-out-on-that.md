@@ -1,7 +1,7 @@
 ---
 id: T-1611
 title: Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1482
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 74
 claimed_by: run 9/26/2026, 4:47:11 AM CT
 blocked_on: null
 needs_bake: false
