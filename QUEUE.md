@@ -99,6 +99,7 @@ T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancilla
 T-0251 — first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one
+T-1595 — The light tier's 90-call floor is breached on dev at 99 calls at the open aerial, and it was 94 six days ago
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
