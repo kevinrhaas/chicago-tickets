@@ -67,4 +67,4 @@ is the same contract: what a run does when it cannot finish.
 **Found by:** the T-1603 run, which hit it on its own merge after watching it happen to
 PR #60 earlier in the same hour.
 
-**Settled by hand (2026-09-26, owner's session):** this ticket's PR is **kevinrhaas/polecat-platform#179**, merged 2026-09-26T05:54:59Z, not a kevinrhaas/chicago pull request. The settle workflow reads `pr:` as a chicago PR number only, so it could never close this ticket; and once chicago's own numbering reaches #179 it would have read an unrelated PR. See T-1616.
+**Settled by hand (2026-09-26, owner's session):** this ticket's PR is **kevinrhaas/polecat-platform#179**, merged 2026-09-26T05:54:59Z, not a kevinrhaas/chicago pull request. The settle workflow reads `pr:` as a chicago PR number only, so it could never close this ticket; and once chicago's own numbering reaches #179 it would have read an unrelated PR. See T-1617.

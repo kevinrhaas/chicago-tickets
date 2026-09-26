@@ -242,6 +242,7 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #     waits: T-1556 — the owner ANSWERED on 2026-09-24 with option (c): the surplus is re-familied, never retired, and as ONE unit for all 523 across the 48 refu…
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
+T-1617 — settle reads every ticket's pr: as a kevinrhaas/chicago PR, so a ticket whose PR is in polecat-platform never settles, and will be settled by an unrelated chicago PR once the numbers meet
 T-1601 — The claim check reads a MINT lock as work in flight, so every freshly filed ticket looks already taken and the only way past is --force
 T-1612 — A dead claim parks a queue row for days: list --workable prints 'claimed' without saying the claim is three hours stale, and the picking rule says skip anything claimed
 T-1582 — The re-family programme's second and third rounds are spent but nothing says a fourth cannot appear: assert the fixpoint rather than reaching it by hand
@@ -297,4 +298,3 @@ T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charl
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
 T-1606 — The two research reports embed live ticket state from a separate repository, so a sibling run claiming a ticket turns every code branch's gate red on a diff that cannot touch it
 T-1616 — The order book still orders 104 work orders from T-1444, which is done: sweep the west-division ground and structure buckets onto live successors
-T-1617 — settle reads every ticket's pr: as a kevinrhaas/chicago PR, so a ticket whose PR is in polecat-platform never settles, and will be settled by an unrelated chicago PR once the numbers meet

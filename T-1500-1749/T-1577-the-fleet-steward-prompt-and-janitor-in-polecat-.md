@@ -27,4 +27,4 @@ Piece 2 of 2 of **T-1574 — Every open hold or resume PR on the 4D Board with i
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
-**Settled by hand (2026-09-26, owner's session):** this ticket's PR is **kevinrhaas/polecat-platform#177**, merged 2026-09-25T19:26:52Z, not a kevinrhaas/chicago pull request. The settle workflow reads `pr:` as a chicago PR number only, so it could never close this ticket; and once chicago's own numbering reaches #177 it would have read an unrelated PR. See T-1616.
+**Settled by hand (2026-09-26, owner's session):** this ticket's PR is **kevinrhaas/polecat-platform#177**, merged 2026-09-25T19:26:52Z, not a kevinrhaas/chicago pull request. The settle workflow reads `pr:` as a chicago PR number only, so it could never close this ticket; and once chicago's own numbering reaches #177 it would have read an unrelated PR. See T-1617.
