@@ -1,7 +1,7 @@
 ---
 id: T-0251
 title: first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-27
-closed: null
+closed: 2026-09-26
 pr: 70
 claimed_by: run 9/26/2026, 3:10:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T09:42:21Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36228755639
 claimed_at: 2026-09-26T08:10:37.257Z
 decision: null
