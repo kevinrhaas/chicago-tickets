@@ -79,7 +79,6 @@ T-1614 — The off-plat ground seated: the farms and country seats, the addition
 T-1615 — Carry the seats through to the builders and the views: the extended block recipes regenerated from the seats so generate_*_infill.py --check is green on every one, the People and Businesses 'Go to' resolving for every reconstructed card, and the 'Reconstructing the town' card showing seats against roofs
 T-1611 — Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
-T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one
 T-1595 — The light tier's 90-call floor is breached on dev at 99 calls at the open aerial, and it was 94 six days ago
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
