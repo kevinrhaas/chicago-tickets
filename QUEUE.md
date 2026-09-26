@@ -77,6 +77,7 @@
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 T-1623 — The four roofs the platted deal asked of blk_south_water_dearborn and blk_south_water_wells stand on the one lot each block's schedule sizing reserves open: a ruling on whether a block may be dealt out of its open lot
 T-1626 — The street-face adoption policy takes a roof raised in answer to a household's slot request before the household can adopt it: T-1622 raised the D3 and D4 blk_south_water_franklin asked for and two documented firms took both, so the two tradesmen came back owed — decide whether that precedence should hold for a roof the seating itself requested
+T-1627 — T-1622 re-dealt blk_south_water_franklin out from under the agencies smoke fixture: mobile part 3 asks recon_1835_blk_south_water_franklin_d5_01 for its REFUSED agency holding and 1835_agencies.json no longer names that roof at all
 T-1611 — Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
