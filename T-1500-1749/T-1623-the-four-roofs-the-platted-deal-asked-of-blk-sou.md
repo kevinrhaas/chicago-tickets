@@ -1,7 +1,7 @@
 ---
 id: T-1623
 title: The four roofs the platted deal asked of blk_south_water_dearborn and blk_south_water_wells stand on the one lot each block's schedule sizing reserves open: a ruling on whether a block may be dealt out of its open lot
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1621
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 9:02:23 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36246981287
+claimed_at: 2026-09-26T14:02:23.752Z
 decision: answered
 decision_answer: a
 ---
