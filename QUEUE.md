@@ -75,7 +75,6 @@
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
-T-1620 — The 'Reconstructing the town' card shows the seats against the roofs: the 178 dealt seats, the 1,302 still owed and the six requested slots, derived into the order book and rendered on the card
 T-1622 — The D3 and D4 roofs the platted deal asked of blk_south_water_franklin, written into a third deal on that block's recipe and built on lot 4 — the one of the three requested blocks whose ground holds its request without touching a reserved open lot
 T-1623 — The four roofs the platted deal asked of blk_south_water_dearborn and blk_south_water_wells stand on the one lot each block's schedule sizing reserves open: a ruling on whether a block may be dealt out of its open lot
 T-1626 — The street-face adoption policy takes a roof raised in answer to a household's slot request before the household can adopt it: T-1622 raised the D3 and D4 blk_south_water_franklin asked for and two documented firms took both, so the two tradesmen came back owed — decide whether that precedence should hold for a roof the seating itself requested
