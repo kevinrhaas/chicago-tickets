@@ -59,7 +59,6 @@
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
-T-1581 — Closing a leaf ticket can strand work owned by its split ancestors and turn dev red for every PR: ticket.mjs done and the gate must catch it before the PR merges, not after
 T-1596 — The PR lap's ticket-id collision step crashes where tickets/ is absent, so a green PR that merges dev cleanly is left alone as a 'TICKET ID COLLISION': resolve_id_collisions answers 'not applicable' where the tickets live in their own repository
 T-1593 — check.sh's ticket-queue step turns every code PR red the moment an unsplit L ticket is filed: T-1585 and T-1586 did it at 23:07Z and no code change can clear it
 T-1594 — A step label in check.sh carries backticks inside double quotes, so every gate run prints a bash syntax error to stderr and the label loses the word it quoted
