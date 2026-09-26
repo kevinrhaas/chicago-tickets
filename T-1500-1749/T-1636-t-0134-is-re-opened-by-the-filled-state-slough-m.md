@@ -1,7 +1,7 @@
 ---
 id: T-1636
 title: T-0134 is re-opened by the filled State slough mouth: 26.5 m of dry bank now stands outside South Water's corridor at E +813, where the old channel and its approach cuts used to take it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 94
 claimed_by: run 9/26/2026, 3:02:12 PM CT
 blocked_on: null
 needs_bake: false
