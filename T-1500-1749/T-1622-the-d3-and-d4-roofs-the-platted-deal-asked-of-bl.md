@@ -1,7 +1,7 @@
 ---
 id: T-1622
 title: The D3 and D4 roofs the platted deal asked of blk_south_water_franklin, written into a third deal on that block's recipe and built on lot 4 — the one of the three requested blocks whose ground holds its request without touching a reserved open lot
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1621
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 8:00:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36242356844
+claimed_at: 2026-09-26T13:00:10.947Z
 decision: null
 decision_answer: null
 ---
