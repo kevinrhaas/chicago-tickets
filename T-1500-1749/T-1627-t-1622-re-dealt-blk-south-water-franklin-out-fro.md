@@ -1,7 +1,7 @@
 ---
 id: T-1627
 title: T-1622 re-dealt blk_south_water_franklin out from under the agencies smoke fixture: mobile part 3 asks recon_1835_blk_south_water_franklin_d5_01 for its REFUSED agency holding and 1835_agencies.json no longer names that roof at all
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 11:42:27 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36256256604
+claimed_at: 2026-09-26T16:42:27.478Z
 decision: null
 decision_answer: null
 ---
