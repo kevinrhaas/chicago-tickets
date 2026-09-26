@@ -63,6 +63,7 @@
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
+T-1609 — pr-automerge's 420s gate wait is shorter than this repo's own CI gate, so a finished green unit ends as a resume PR and the janitor pays a lap for it
 T-1608 — dev's gate is red: the closing research audit and the sign-off are derived from the whole tree, so two branches that each re-derived them merge clean and land stale
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
