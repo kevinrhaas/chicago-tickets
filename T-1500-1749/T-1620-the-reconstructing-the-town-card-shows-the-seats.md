@@ -1,7 +1,7 @@
 ---
 id: T-1620
 title: The 'Reconstructing the town' card shows the seats against the roofs: the 178 dealt seats, the 1,302 still owed and the six requested slots, derived into the order book and rendered on the card
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1619
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 7:24:44 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36241568861
+claimed_at: 2026-09-26T12:24:44.972Z
 decision: null
 decision_answer: null
 ---
