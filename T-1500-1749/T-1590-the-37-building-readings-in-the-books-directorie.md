@@ -1,7 +1,7 @@
 ---
 id: T-1590
 title: The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1585
 opened: 2026-09-25
-closed: null
+closed: 2026-09-26
 pr: 80
 claimed_by: run 9/26/2026, 8:40:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T15:19:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36245691838
 claimed_at: 2026-09-26T13:40:56.899Z
 decision: null
