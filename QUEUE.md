@@ -78,7 +78,6 @@ T-0419 — The re-centred South Water corridor stands 8.58 m off its own block f
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
 T-1444 — Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
-T-1600 — Assert the ten named-building corroborations the 1835 newspaper run carries onto the structure layer: the Presbyterian Church, the Baptist meeting house, the Exchange and Eagle Coffee Houses, the Sauganash's refit, the Lake House going up in Kinzie's Addition and Bates' new auction room on Dearborn, each written onto the record it names with the issue that names it
 T-1603 — The Eagle Coffee House, Trowbridge's, is a named public house of the scene year that the structure layer does not hold: build the record or refuse it in writing
 T-1604 — The Exchange Coffee House stands on Andreas's corner of Lake and Wells and Heacock's own 1835 advertisement puts it at Lake and Franklin, one block west: rule the conflict or state it on the position
 T-1605 — Two land-sale entries the structure layer's land_owner blocks name are refused by the derived register and spent by a building: rule ls0057 and ls0058 one way or the other
