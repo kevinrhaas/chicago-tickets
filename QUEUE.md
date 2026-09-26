@@ -60,7 +60,6 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
 T-1593 — check.sh's ticket-queue step turns every code PR red the moment an unsplit L ticket is filed: T-1585 and T-1586 did it at 23:07Z and no code change can clear it
-T-1594 — A step label in check.sh carries backticks inside double quotes, so every gate run prints a bash syntax error to stderr and the label loses the word it quoted
 T-1601 — The claim check reads a MINT lock as work in flight, so every freshly filed ticket looks already taken and the only way past is --force
 T-1598 — The 34 BUILDING readings in the 1835 issues of the Chicago Democrat and the Chicago American: the scene-year notices read against the address book and the structure layer, and asserted, limited or refused
 T-1600 — Assert the ten named-building corroborations the 1835 newspaper run carries onto the structure layer: the Presbyterian Church, the Baptist meeting house, the Exchange and Eagle Coffee Houses, the Sauganash's refit, the Lake House going up in Kinzie's Addition and Bates' new auction room on Dearborn, each written onto the record it names with the issue that names it
