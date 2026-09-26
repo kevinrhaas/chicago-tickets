@@ -1,7 +1,7 @@
 ---
 id: T-1628
 title: The La Salle slough runs inland to Randolph off Conley/Stelzer, and the owner rules it to Wright and Hathaway: in from the river just past South Water Street and into the lot, no deeper
-state: review
+state: done
 epic: GROUND
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: 92
 claimed_by: run 9/26/2026, 12:50:57 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-09-26T21:01:21Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36260347130
 claimed_at: 2026-09-26T17:50:57.277Z
 decision: null
