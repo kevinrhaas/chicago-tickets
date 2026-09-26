@@ -43,6 +43,10 @@
 # the file. Filing is free and working is not — add a finding to the ticket it was found in
 # first, which is what the line above already asks for. `split` is exempt: it replaces a
 # ticket rather than adding one. An EPIC states its own cap in children (T-1236: three).
+# STANDING RULE (owner, 2026-09-25): A NEW TICKET GOES BELOW THE NEXT BUILD TICKET (5C) UNLESS dev's GATE IS RED.
+# Band 0 is for what blocks EVERY run — a red dev gate, a merge that cannot land — and nothing else. A finding
+# that only improves the loop goes to band 9; a new research reading goes below the first district builds.
+# "Put it beside its dependency" (--after) still applies, but never above T-1199 / the next 5C row for loop work.
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
 # --- red on dev for days, and because they are red, smoke_budget reports every leg that
@@ -60,33 +64,15 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 T-1577 — The fleet steward prompt and janitor in polecat-platform switched onto resume: runs never apply hold, and the janitor reads resume as work the loop still owes
 T-1593 — check.sh's ticket-queue step turns every code PR red the moment an unsplit L ticket is filed: T-1585 and T-1586 did it at 23:07Z and no code change can clear it
-T-1601 — The claim check reads a MINT lock as work in flight, so every freshly filed ticket looks already taken and the only way past is --force
-T-1598 — The 34 BUILDING readings in the 1835 issues of the Chicago Democrat and the Chicago American: the scene-year notices read against the address book and the structure layer, and asserted, limited or refused
-T-1600 — Assert the ten named-building corroborations the 1835 newspaper run carries onto the structure layer: the Presbyterian Church, the Baptist meeting house, the Exchange and Eagle Coffee Houses, the Sauganash's refit, the Lake House going up in Kinzie's Addition and Bates' new auction room on Dearborn, each written onto the record it names with the issue that names it
-T-1599 — The 88 BUILDING readings in the 1833 and 1834 issues of the Chicago Democrat: the pre-scene-year notices read against the address book and the structure layer, and asserted, limited or refused
-T-1590 — The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
-T-1591 — The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
-T-1592 — The 13 INFRASTRUCTURE readings in the books, directories and civic corpora: Hubbard's river and portage works, Fergus, Andreas and Norris, each one asserted, limited or refused
-T-1587 — Spend the 19 unasserted STREET readings: the trails, roads and street lines the papers, Hubbard and Norris name that reach no corridor in the street layer, each one asserted onto the corridor it names, limited to the division it reaches, or refused in writing
-T-1588 — Spend the two landholding enrichments T-1301 routed to T-1198: wright_john_s's Chicago land purchases and original-town lots and kingston_paul's Chicago landholding, written onto the held cards by a field that says what a person held — the same shape as T-1315, T-1335 and T-1569 for the births, the kin and the posts
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
 # --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
-T-1566 — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
 # --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
 # --- 3C. RECONSTRUCT RESIDENTS — converge
 # --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
-T-1597 — The re-family rule has reached its fixpoint with 395 of the 523 held people still held in 44 refused buckets: the order book's programme step needs a live owner for them, and the owner's ruling of 2026-09-24 that they are re-familied and never retired needs somewhere to land
-#   ? T-1597 DECISION: Your ruling of 2026-09-24 was that the 523 surplus reconstructed people are re-familied and never retired, as ONE unit. The rule built to carry it has reached its fixpoint: 129 moved, 395 still held in 44 buckets the rule refuses (a house moves whole or not at all; a move may not change a person's sex or age band). The ruling cannot be carried out in full by that rule. What are the other 395? — (a) They remain held, recorded as held, and the programme is settled at its fixpoint rather than at zero — the refusals stand as written and the book says so.  (b) Widen the rule so more of the 395 can move — you name which refusal gives way (whole-house, sex, or age band), and the cost in what the town then claims.  (c) Something else — the 395 are neither held nor moved but handled some third way you name. — recommended: (a)
-T-1582 — The re-family programme's second and third rounds are spent but nothing says a fourth cannot appear: assert the fixpoint rather than reaching it by hand
-T-1583 — T-1198's research units point at a dead ticket chain: four gate steps are red on clean dev because T-1491-T-1493 all closed and 60-odd book, newspaper and resident claims still name their parent
 
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
-T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-T-1570 — Six West Division roofs stand inside a platted street corridor the corridor gate cannot see: two in Jefferson, two in Fulton, two in Des Plaines, west_046 12.08 m in
-T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
-T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-0419 — The re-centred South Water corridor stands 8.58 m off its own block faces, and the strip between belongs to neither
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
@@ -94,6 +80,8 @@ T-0419 — The re-centred South Water corridor stands 8.58 m off its own block f
 T-1504 — A stage that reads the St Mary's baptismal register: the four R6 rows whose Indigenous identity the source states in its own hand are refused only because underdocumented reads the 1832 muster roll and nothing reads the register
 T-1579 — T-1377's seven free Black cards are written and never reach the town: compile_scene reads one sub-stage report of the underdocumented stage and the People view has never held them
 T-1444 — Release generate_west_infill's 35 held slots onto the extended ground: the terrain gate retired, the placements instantiated and baked
+# Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
+T-1600 — Assert the ten named-building corroborations the 1835 newspaper run carries onto the structure layer: the Presbyterian Church, the Baptist meeting house, the Exchange and Eagle Coffee Houses, the Sauganash's refit, the Lake House going up in Kinzie's Addition and Bates' new auction room on Dearborn, each written onto the record it names with the issue that names it
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
 T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 T-0251 — first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
@@ -104,10 +92,28 @@ T-1595 — The light tier's 90-call floor is breached on dev at 99 calls at the 
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
 T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
+# --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
+# --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
+# --- settle accounting; none of them decides where a South Division building stands.
+T-1598 — The 34 BUILDING readings in the 1835 issues of the Chicago Democrat and the Chicago American: the scene-year notices read against the address book and the structure layer, and asserted, limited or refused
+T-1599 — The 88 BUILDING readings in the 1833 and 1834 issues of the Chicago Democrat: the pre-scene-year notices read against the address book and the structure layer, and asserted, limited or refused
+T-1590 — The 37 BUILDING readings in the books, directories, civic and church corpora: Hubbard, Fergus, Moses and Kirkland, Andreas, Norris and the St Mary's register, each one asserted, limited or refused
+T-1591 — The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
+T-1592 — The 13 INFRASTRUCTURE readings in the books, directories and civic corpora: Hubbard's river and portage works, Fergus, Andreas and Norris, each one asserted, limited or refused
+T-1587 — Spend the 19 unasserted STREET readings: the trails, roads and street lines the papers, Hubbard and Norris name that reach no corridor in the street layer, each one asserted onto the corridor it names, limited to the division it reaches, or refused in writing
+T-1588 — Spend the two landholding enrichments T-1301 routed to T-1198: wright_john_s's Chicago land purchases and original-town lots and kingston_paul's Chicago landholding, written onto the held cards by a field that says what a person held — the same shape as T-1315, T-1335 and T-1569 for the births, the kin and the posts
+T-1566 — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
+T-1597 — The re-family rule has reached its fixpoint with 395 of the 523 held people still held in 44 refused buckets: the order book's programme step needs a live owner for them, and the owner's ruling of 2026-09-24 that they are re-familied and never retired needs somewhere to land
+#   ? T-1597 DECISION: Your ruling of 2026-09-24 was that the 523 surplus reconstructed people are re-familied and never retired, as ONE unit. The rule built to carry it has reached its fixpoint: 129 moved, 395 still held in 44 buckets the rule refuses (a house moves whole or not at all; a move may not change a person's sex or age band). The ruling cannot be carried out in full by that rule. What are the other 395? — (a) They remain held, recorded as held, and the programme is settled at its fixpoint rather than at zero — the refusals stand as written and the book says so.  (b) Widen the rule so more of the 395 can move — you name which refusal gives way (whole-house, sex, or age band), and the cost in what the town then claims.  (c) Something else — the 395 are neither held nor moved but handled some third way you name. — recommended: (a)
 T-1203 — Build the South Division's outer ground to its seats: the Fort Dearborn Addition and Michigan Street tract dwellings, the Clark–State cottages south of Washington where the ground allows, the packing and slaughter yards on the South Branch, the country places outside the plat
 T-1204 — Build the fort reach and the lakefront to their seats: the sutler's, the garrison's outbuildings and the Agency establishment as the dossiers allow, the lighthouse keeper's, the pier-works yard at the river mouth, the Lake House's neighbours on the north bank east end
 T-1205 — Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
 T-1206 — Build Kinzie's Addition and the north tier to their seats: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush–Pine fringe, the open ground left honestly open
+# West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
+T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
+T-1570 — Six West Division roofs stand inside a platted street corridor the corridor gate cannot see: two in Jefferson, two in Fulton, two in Des Plaines, west_046 12.08 m in
+T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
+T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-1207 — Build the West Division's Wolf Point and Canal Street approach to their seats: the taverns' yards and stables, the grocery and blacksmith on the approach, the ferry and the bridge heads, the cabins and boarding houses of the forks
 T-1208 — Build the West Division's outer clusters and Wabansia to their seats: the three looser clusters toward the Des Plaines edge, the Wabansia cabins on the North Branch, the farms and barns on the prairie edge, the held 35 slots released on the extended ground
 T-1209 — Build the boarding houses to their beds: the H1–H3 houses the lodging model sized, each with the window rhythm, service wing and stovepipes its capacity implies, its stable and privies, on the seats near the landings and approaches — and re-size the named hotels' outbuildings to their guests
@@ -243,6 +249,9 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #     waits: T-1556 — the owner ANSWERED on 2026-09-24 with option (c): the surplus is re-familied, never retired, and as ONE unit for all 523 across the 48 refu…
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
+T-1601 — The claim check reads a MINT lock as work in flight, so every freshly filed ticket looks already taken and the only way past is --force
+T-1582 — The re-family programme's second and third rounds are spent but nothing says a fourth cannot appear: assert the fixpoint rather than reaching it by hand
+T-1602 — rederive.mjs --run leaves the town model stale on any branch that adds residents: model_town_1835.py reads the sidecar compile_scene rebuilds after it, and the second pass does not carry it, so a clean full rebuild still fails check.sh
 T-1510 — The stuck reporter cannot see a red gate: a PR whose gate failed and whose owning run has finished is the one state no automation in this repo owns
 T-1520 — A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
 T-1519 — smoke_budget --for-diff maps renderers/web/js/people.js to part 13, but the People directory's checks are guarded by stageOn(12), so a run that trusts the mapping runs the wrong leg
@@ -292,4 +301,3 @@ T-1569 — Spend the twelve civic, church, school and garrison post enrichments 
 T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
-T-1602 — rederive.mjs --run leaves the town model stale on any branch that adds residents: model_town_1835.py reads the sidecar compile_scene rebuilds after it, and the second pass does not carry it, so a clean full rebuild still fails check.sh
