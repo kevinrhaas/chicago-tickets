@@ -1,7 +1,7 @@
 ---
 id: T-1605
 title: Two land-sale entries the structure layer's land_owner blocks name are refused by the derived register and spent by a building: rule ls0057 and ls0058 one way or the other
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 68
 claimed_by: run 9/26/2026, 1:51:59 AM CT
 blocked_on: null
 needs_bake: false
