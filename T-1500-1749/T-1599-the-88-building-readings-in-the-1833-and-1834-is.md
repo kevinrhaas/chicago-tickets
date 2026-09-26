@@ -1,7 +1,7 @@
 ---
 id: T-1599
 title: The 88 BUILDING readings in the 1833 and 1834 issues of the Chicago Democrat: the pre-scene-year notices read against the address book and the structure layer, and asserted, limited or refused
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1589
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 77
 claimed_by: run 9/26/2026, 7:57:02 AM CT
 blocked_on: null
 needs_bake: false
