@@ -75,7 +75,6 @@
 T-1637 — The fort road takes a water gap at the State slough's new mouth, and nothing says whether the town laid anything over it
 T-1643 — south_bank_shed_dearborn_e1's northing, bearing and wagon door were read off a road that has since moved off the reach: re-seat it, re-face it, or say in the record why it stands as it is
 T-1642 — The south bank's 81 released positions: the fort road left the strip between South Water's end and the Reservation line, and the only reason that ground was empty left with it
-T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
