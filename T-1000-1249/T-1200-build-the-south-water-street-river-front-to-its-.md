@@ -1,7 +1,7 @@
 ---
 id: T-1200
 title: Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 5:27:35 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36276009189
+claimed_at: 2026-09-26T22:27:35.349Z
+decision: null
+decision_answer: null
 ---
 
 First of the build tickets. Each takes ONE district's slot list from T-1199 (and the
