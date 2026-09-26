@@ -1,7 +1,7 @@
 ---
 id: T-1627
 title: T-1622 re-dealt blk_south_water_franklin out from under the agencies smoke fixture: mobile part 3 asks recon_1835_blk_south_water_franklin_d5_01 for its REFUSED agency holding and 1835_agencies.json no longer names that roof at all
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 86
 claimed_by: run 9/26/2026, 11:42:27 AM CT
 blocked_on: null
 needs_bake: false
