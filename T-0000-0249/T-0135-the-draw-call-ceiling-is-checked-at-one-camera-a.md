@@ -1,7 +1,7 @@
 ---
 id: T-0135
 title: The draw-call ceiling is checked at one camera, and it is not the worst one
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-21
 closed: null
-pr: null
+pr: 72
 claimed_by: run 9/26/2026, 3:47:10 AM CT
 blocked_on: null
 needs_bake: false
