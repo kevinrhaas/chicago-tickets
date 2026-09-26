@@ -123,7 +123,6 @@ T-1215 — Converge the reconstructed town: every person housed, every business 
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
-T-1247 — Roll the year back into a restrained time-machine arrival
 T-1248 — Compile the sources used and their reconstruction backlinks
 T-1275 — Give the loading journey 160 varied source and reconstruction statuses
 T-1276 — Browse every source the reconstruction used, with its counts and used-for links
