@@ -76,7 +76,8 @@
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 T-1618 — Carry the 178 dealt seats onto the cards: the plat and off-plat seats written onto the address book's rows, so the People and Businesses 'Go to' resolves for every household the placement policy seated at a roof
-T-1619 — The 'Reconstructing the town' card showing seats against roofs, and the extended block recipes re-derived from the seats' six requested slots
+T-1620 — The 'Reconstructing the town' card shows the seats against the roofs: the 178 dealt seats, the 1,302 still owed and the six requested slots, derived into the order book and rendered on the card
+T-1621 — The extended block recipes re-derived from the seats' six requested slots: the D7, H1, D3, D4, D5 and D6 roofs the platted deal asked of blk_south_water_dearborn, blk_south_water_franklin and blk_south_water_wells, written into their recipes and rebaked
 T-1611 — Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 T-1595 — The light tier's 90-call floor is breached on dev at 99 calls at the open aerial, and it was 94 six days ago
