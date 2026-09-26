@@ -1,7 +1,7 @@
 ---
 id: T-1631
 title: From the air and at distance the 1835 world looks flooded: the horizon reads as open water with trees standing in it
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 1:27:59 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36262483597
+claimed_at: 2026-09-26T18:27:59.543Z
 decision: null
 decision_answer: null
 ---
