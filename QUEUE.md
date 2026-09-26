@@ -81,7 +81,8 @@ T-1444 — Release generate_west_infill's 35 held slots onto the extended ground
 T-1607 — The anchor the paper prints for the Exchange Coffee House is 'the Exchange', and whole-set anchor matching resolves it to no building in the town
 T-1605 — Two land-sale entries the structure layer's land_owner blocks name are refused by the derived register and spent by a building: rule ls0057 and ls0058 one way or the other
 T-1199 — Seat every reconstructed household, business, lodging house and camp by the placement policy into the extended lot grid: multiple buildings per main-street lot, single roofs on the back streets, labourers on the small lots and fringes, the noxious trades on the branches — deterministic, order-book-counted
-T-1482 — Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
+T-1610 — Clause the rear cottage the owner ruled for: the placement policy admits a D-family roof at a yard setback behind its own lot's principal roof as ancillary, the class derivation reads the position and not only the family group, and the six platted-block verdicts stop being refused by the parcel gate
+T-1611 — Carry the six platted-block verdicts out on that clause: a block plan in execute_roof_redeal (there is none today), the recipe re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
 T-0251 — first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 T-0135 — The draw-call ceiling is checked at one camera, and it is not the worst one

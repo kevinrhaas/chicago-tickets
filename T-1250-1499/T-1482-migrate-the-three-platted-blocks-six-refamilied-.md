@@ -1,7 +1,7 @@
 ---
 id: T-1482
 title: Migrate the three platted blocks' six refamilied roofs, whose ancillary slots cross the principal/ancillary line: generate_block_infill's claimed principal/ancillary mix re-dealt rather than field-edited, the ids carried across the reference list, rebaked and published — with the screenshot from Lake and Clark
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1452
 opened: 2026-09-20
-closed: null
+closed: 2026-09-26
 pr: null
 claimed_by: run 9/26/2026, 1:53:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T06:57:19.762Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36223569456
 claimed_at: 2026-09-26T06:53:10.877Z
 decision: answered
