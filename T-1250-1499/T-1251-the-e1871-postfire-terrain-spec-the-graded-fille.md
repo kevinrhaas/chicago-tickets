@@ -39,3 +39,11 @@ zone table.
    it holds describes the land below Twelfth Street; this epoch's limit will fall somewhere else
    and must be derived, not inherited.
 4. `tools/check.sh` green, with the spec's own re-derivation gated the way the 1835 one is.
+
+## Owner ruling, 2026-09-26: Prairie Avenue is centred on 1904
+
+The owner, working with Glessner House (William Tyre), set **1904** as the year of the Prairie Avenue model. This supersedes the "1880s" framing and T-1249's 1 July 1888 date *for the Prairie Avenue scene*. T-1249's epoch record and `data/terrain/1880s_scene_date_constraints.json` may stay as they are; the owner said "you can leave the 1888 scene if you need to". Nothing here needs to delete them, but nothing Prairie Avenue builds is dated 1888. The scene date defaults to **1904-07-01** (the project's day-of-year convention, as 1835-07-01); a run may argue another day in writing.
+
+**Sources, committed at `chicago/reference/prairie-avenue/sanborn-1911-and-robinson-1886/`** (read its README first): the Sanborn **1911** Chicago vol. 3 **key** and **sheets 20, 28 and 35** (E. 16th to E. 22nd St., Indiana Av. to the IC tracks and Lake Michigan), and **Robinson's 1886 atlas, plate 10** (16th to 18th St.). Glessner House's reading is that on these sheets only two things changed between 1904 and 1911: **1609–1611 Prairie** (two rowhouses in 1904, a commercial building by 1911) and **1620 Prairie** (a house in 1904, an empty lot by 1911). For both, the 1886 Robinson outlines stand in. Each ticket that spends a sheet writes its own `data/sources/*.json` record, in the house format, before citing it.
+
+**For this ticket:** the zone table must serve a **1904** scene. The epoch id `e1871_postfire` may stay, since it names the post-fire grade, not the scene year. Where the ground at 1904 differs from 1888 (lakefront fill, the IC embankment, street grades), say which date each zone describes.

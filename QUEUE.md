@@ -150,20 +150,20 @@ T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
 T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
-# --- 7. SOUTH THROUGH TIME — dated terrain, Fort Dearborn, and Prairie Avenue
+# --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
+T-1250 — Trace the Illinois Central lake edge for the 1904 Prairie Avenue scene and fill shore_1880s_ic_edge, from the Sanborn 1911 sheets and the Robinson 1886 plate
+T-1251 — The e1871_postfire terrain spec: the graded, filled and raised South Side ground as an authored zone table
+T-1252 — Generate and bake the e1871_postfire heightfield over the Prairie Avenue reach
+T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
+T-0475 — Build the 1904 Prairie Avenue landmark mansion core
+T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
+T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
 T-1286 — Cross-check the derived 1812 pre-cut shore against the Harrison 1830 trace, and record what the two readings disagree about
 T-1243 — Author the e1830_natural terrain spec and generate the 1812 heightfield and the ground and water meshes across the Fort-to-Eighteenth-Street corridor
 T-0469 — Reconstruct the first Fort Dearborn complex as it stood in August 1812
 T-0470 — Map the 15 August 1812 evacuation route and battle-location confidence zone
 T-0471 — Build the 1812 lakeshore prairie, vegetation and landscape features
 T-0472 — Build the 1812 interpretive scene with Indigenous-history review gates
-T-1250 — Trace the 1880s Illinois Central lake edge and fill shore_1880s_ic_edge from a sourced period sheet
-T-1251 — The e1871_postfire terrain spec: the graded, filled and raised South Side ground as an authored zone table
-T-1252 — Generate and bake the e1871_postfire heightfield over the Prairie Avenue reach
-T-0474 — Reconstruct the 1880s Prairie Avenue street, parcel and service grid
-T-0475 — Build the Prairie Avenue landmark mansion core
-T-0476 — Fill the 1880s Prairie Avenue corridor with documented residences and outbuildings
-T-0477 — Build the 1880s Prairie Avenue streetscape, vegetation and urban furniture
 # --- 8. UNREAL DELIVERY — repeatable native builds, web parity, then streaming
 # Programme: T-1356; docs/unreal/README.md. Owner-ranked here on 2026-09-18.
 # Remote-workable preparation (still subject to the city-first ordering above):
