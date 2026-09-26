@@ -1,7 +1,7 @@
 ---
 id: T-1615
 title: Carry the seats through to the builders and the views: the extended block recipes regenerated from the seats so generate_*_infill.py --check is green on every one, the People and Businesses 'Go to' resolving for every reconstructed card, and the 'Reconstructing the town' card showing seats against roofs
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1199
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: null
 claimed_by: run 9/26/2026, 6:32:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T11:35:36.259Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36239027503
 claimed_at: 2026-09-26T11:32:24.583Z
 decision: null
