@@ -1,7 +1,7 @@
 ---
 id: T-1630
 title: The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
-state: claimed
+state: open
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,14 +11,14 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: run 9/26/2026, 12:28:09 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36258994691
-claimed_at: 2026-09-26T17:28:09.876Z
-decision: pending
-decision_answer: null
+claimed_run: null
+claimed_at: null
+decision: answered
+decision_answer: b
 ---
 
 The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it.
@@ -86,3 +86,14 @@ This sets the order of evidence for the whole ticket:
 **Recommendation:** (a) Keep Wright. The waterline stays on the ink of the sheet the datum, the plat and the block grid are all fitted to. The swell stays; the walk keeps its bend and the docks do not move. T-1630 closes on the reading. — The reconstruction's waterline is fitted to the same survey as its datum, its plat and all 41 of its blocks; departing from that sheet on one reach, on the eye rather than on evidence, buys 6-11 m of evenness for a documented line downgraded to an invention, on exactly the reach T-1200 is about to build its lots, landings and plank walk against. The 20 m read off the scene is about half Wright-vs-Hathaway and about half the block grid's own 8.58 m corridor-line offset, which T-0419 already refused to move.
 
 **Asked:** 2026-09-26 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36258994691. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+## Owner answer, 2026-09-26: (b), bring the bulge in by at least half
+
+*"ok yes st till want to bring that bulge in some, so the sidewalk is fairly straight and following, at least 50% of what is north of south water street i think"*
+
+He read PR #88's finding (Wright draws the swell, Hathaway does not) and still rules for moving the bank. This is (b) with his amount, and it replaces the "stay on Wright's ink" acceptance above for this reach only:
+- **How much.** Measure the riverfront ground the way PR #88 does: bank to the block tier's north line, per block. Across the swell (blocks 20, 19, 18) **at least half of what stands north of South Water Street comes off**. At the peak, block 19, Wright's 39.0 m becomes about 19.5 m or less. That lands level with the ~19.8 m block 17 already has east of the slough, which is the "even with the bank to the east" of his earlier messages. Taper evenly from the bend near the forks to the La Salle mouth, keeping Wright's re-entrant as the one break. Do not cut past what a straight, even bank needs ("dont go crazy on either way"). State the before and after depth per block.
+- **The walk.** The outer plank walk runs fairly straight along the new bank and crosses the slough straight, as ruled above.
+- **What follows the bank:** the point's sheds and planting come off, the docks and landings re-seat south at the relation the ones east of the slough keep, the heightfield, water mask, collision and minimap move together, and the bake runs (`needs_bake`).
+- **Provenance.** The bank on this reach drops from a documented trace to `reconstructed`, recorded in docs/LIBERTIES.md. The record cites PR #88's reading (`data/traces/south_bank_swell_1834.json`), Hathaway's even taper, and this ruling. Wright's ink stays in the record as the set-aside reading. Update the `read_south_bank_swell_1834.py` gate so it records the deliberate departure instead of failing on it. It must not be deleted.
+- **Acceptance:** blocks 20/19/18's riverfront depth each reduced by at least 50% of Wright's figure (or to block 17's ~20 m where that is the larger remaining depth), stated per block. The walk reads straight from the bend to the slough crossing. No land or planting stands north of the new bank. `check.sh` and the named smoke legs are green at both widths.
