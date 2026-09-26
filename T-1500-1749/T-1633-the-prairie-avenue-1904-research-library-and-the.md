@@ -2,7 +2,7 @@
 id: T-1633
 title: The Prairie Avenue 1904 research library and the pre-fire viewer's 1834 Wright shortcut, as the owner asked
 state: done
-epic: RESEARCH
+epic: SOUTH_TIME
 requested_by: owner
 seen: true
 effort: M

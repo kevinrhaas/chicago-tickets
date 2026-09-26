@@ -2,7 +2,7 @@
 id: T-1634
 title: Desktop smoke part 12 times out waiting 30 s for the scene to be ready after the What's-new reload, when frames cost about 2 s: 2 of 3 runs on a 4-CPU session container, on a tree whose only part-12 change was a changelog stamp
 state: open
-epic: LOOP
+epic: PIPELINE
 requested_by: steward
 seen: false
 effort: S
