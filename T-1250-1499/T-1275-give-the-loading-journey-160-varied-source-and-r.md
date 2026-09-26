@@ -1,7 +1,7 @@
 ---
 id: T-1275
 title: Give the loading journey 160 varied source and reconstruction statuses
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 4:04:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-26T21:04:56.387Z
+decision: null
+decision_answer: null
 ---
 
 The loading-screen **status library**: the flip cards and status lines that make the arrival feel like the reconstruction being assembled as the years roll back. The owner: *"Include statuses while loading show sources we have used, like 'Assessing newspapers… Chicago Democrat' … show flip through the list of the sources in a flip card roll back type view … vary it so it is not the same every time … like extracting from x, and then show a fact periodically like 'Building P. F. W. Peck's Store', make them vary a lot, with a library of maybe a hundred or a few hundred statuses and include humorous ones like 'reticulating splines' very rarely, ideally include facts from the sources you show … feel like it starts by assessing and collecting and preparing and then it is resolving towards landing."* Target 160 entries (100–250 accepted), every fact traceable to T-1248's index.
