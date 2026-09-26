@@ -1,7 +1,7 @@
 ---
 id: T-0251
 title: first_presbyterian_church cannot come onto the Lake Street plat without displacing physicians_office
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-27
 closed: null
-pr: null
+pr: 70
 claimed_by: run 9/26/2026, 3:10:37 AM CT
 blocked_on: null
 needs_bake: false
