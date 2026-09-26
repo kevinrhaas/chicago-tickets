@@ -1,7 +1,7 @@
 ---
 id: T-1629
 title: Two notches enter the main stem near the foot of State Street and Wright and Hathaway draw one: the State Street slough enters at Wright's re-entrant just east of State, and the second notch goes
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 12:58:32 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36260744936
+claimed_at: 2026-09-26T17:58:32.672Z
 decision: null
 decision_answer: null
 ---
