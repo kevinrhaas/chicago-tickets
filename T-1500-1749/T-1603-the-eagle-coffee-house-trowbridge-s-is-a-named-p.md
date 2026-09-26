@@ -1,7 +1,7 @@
 ---
 id: T-1603
 title: The Eagle Coffee House, Trowbridge's, is a named public house of the scene year that the structure layer does not hold: build the record or refuse it in writing
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 63
 claimed_by: run 9/25/2026, 11:51:51 PM CT
 blocked_on: null
 needs_bake: false
