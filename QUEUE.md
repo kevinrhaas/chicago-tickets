@@ -73,7 +73,6 @@
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 # Owner, 2026-09-26: the river front's own bank first. He flew it against Wright and Hathaway, and T-1200 builds on this waterline.
 T-1628 — The La Salle slough runs inland to Randolph off Conley/Stelzer, and the owner rules it to Wright and Hathaway: in from the river just past South Water Street and into the lot, no deeper
-T-1629 — Two notches enter the main stem near the foot of State Street and Wright and Hathaway draw one: the State Street slough enters at Wright's re-entrant just east of State, and the second notch goes
 T-1637 — The fort road takes a water gap at the State slough's new mouth, and nothing says whether the town laid anything over it
 T-1636 — T-0134 is re-opened by the filled State slough mouth: 26.5 m of dry bank now stands outside South Water's corridor at E +813, where the old channel and its approach cuts used to take it
 T-1630 — The south bank bulges some 20 m into the main stem from E +260 to the La Salle slough mouth: bring it level with the rest of the reach as Hathaway draws it, and run the outer plank walk straight along it
