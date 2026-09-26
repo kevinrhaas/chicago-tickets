@@ -1,7 +1,7 @@
 ---
 id: T-1618
 title: Carry the 178 dealt seats onto the cards: the plat and off-plat seats written onto the address book's rows, so the People and Businesses 'Go to' resolves for every household the placement policy seated at a roof
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1615
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: 75
 claimed_by: run 9/26/2026, 6:35:50 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-26T12:33:55Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36239027503
 claimed_at: 2026-09-26T11:35:50.771Z
 decision: null
