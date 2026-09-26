@@ -80,7 +80,6 @@ T-1631 — From the air and at distance the 1835 world looks flooded: the horizo
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
-T-1623 — The four roofs the platted deal asked of blk_south_water_dearborn and blk_south_water_wells stand on the one lot each block's schedule sizing reserves open: a ruling on whether a block may be dealt out of its open lot
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1200 — Build the South Water Street river front to its seats: the forwarding houses, warehouses, stores and store-residences on the party lines from Market to State, the freight sheds and landings behind, every roof with its firm and its keeper
