@@ -1,7 +1,7 @@
 ---
 id: T-1662
 title: F1's freight shed on outbuilding: the wide low cargo openings the freight_shed_low variant requires, drawn and baked
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1660
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 110
 claimed_by: run 9/27/2026, 12:39:17 AM CT
 blocked_on: null
 needs_bake: false
