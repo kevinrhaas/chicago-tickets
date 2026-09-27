@@ -82,6 +82,7 @@ T-1643 — south_bank_shed_dearborn_e1's northing, bearing and wagon door were r
 T-1647 — The Dearborn block's South Water frontage run: the bakery and the wholesale house standing in cottages at the bridge head re-familied to the store families the ground allows, migrated, baked and published
 T-1648 — The Franklin, La Salle, Clark and Wells South Water frontage runs: every remaining roof carrying a documented trade re-familied to a store family, or refused in writing with the face measurement that refuses it
 T-1649 — The crosswalk's required variants for the store and warehouse families: C2's knee-wall store-residence, C3's shop bays and hoist door, C4's hip-roofed mixed block and F1-F3's cargo openings, drawn by the archetypes and baked
+T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
