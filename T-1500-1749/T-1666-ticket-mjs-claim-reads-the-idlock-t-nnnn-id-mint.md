@@ -1,7 +1,7 @@
 ---
 id: T-1666
 title: ticket.mjs claim reads the idlock/t-NNNN ID-mint branch as a rival work branch, so every freshly-minted ticket says 'already being worked' and trains runs to --force
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 108
 claimed_by: run 9/27/2026, 1:11:08 AM CT
 blocked_on: null
 needs_bake: false
