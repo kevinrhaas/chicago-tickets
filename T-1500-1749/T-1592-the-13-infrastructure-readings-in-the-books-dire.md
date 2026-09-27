@@ -1,7 +1,7 @@
 ---
 id: T-1592
 title: The 13 INFRASTRUCTURE readings in the books, directories and civic corpora: Hubbard's river and portage works, Fergus, Andreas and Norris, each one asserted, limited or refused
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1586
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 6:59:32 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36360372232
+claimed_at: 2026-09-27T23:59:32.629Z
 decision: null
 decision_answer: null
 ---
