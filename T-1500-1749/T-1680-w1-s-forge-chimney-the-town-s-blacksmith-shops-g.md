@@ -1,7 +1,7 @@
 ---
 id: T-1680
 title: W1's forge chimney: the town's blacksmith shops get the crosswalk's required variant, so a smithy stands as a smithy and not a shed
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1201
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 128
 claimed_by: run 9/27/2026, 12:37:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T18:55:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36337135202
 claimed_at: 2026-09-27T17:37:53.439Z
 decision: null
