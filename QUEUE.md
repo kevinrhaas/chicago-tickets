@@ -47,6 +47,11 @@
 # Band 0 is for what blocks EVERY run — a red dev gate, a merge that cannot land — and nothing else. A finding
 # that only improves the loop goes to band 9; a new research reading goes below the first district builds.
 # "Put it beside its dependency" (--after) still applies, but never above T-1199 / the next 5C row for loop work.
+# STANDING RULE (owner, 2026-09-27): LOOP FOLLOW-UPS GO TO THE FOOT OF BAND 9, NOT BESIDE THE BUILD. A ticket a run files
+# while working — tooling, lap, bake and rederive faults, deal and seating refinements, measurement gaps — is filed
+# `--after` the LAST band-9 row. Two exceptions only, stated in the ticket's first line: (a) dev's gate is red, or
+# (b) the build ticket being worked, or the next 5C/5D row, cannot be finished without it — then it goes directly above
+# that row. Add a finding to the ticket being worked before filing anything. Owner: "move loop follow-ups to band 9".
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
 # --- red on dev for days, and because they are red, smoke_budget reports every leg that
@@ -78,12 +83,7 @@
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1671 — rederive.mjs --run leaves manifest steps 77-121 standing on the resident cards its second pass rewrote, and only 122-159 are now re-run
 T-1651 — adopt_street_faces pairs businesses by evidence rank with a face's roofs in id order and never reads the roof's family, so a re-family re-deals the whole face and a cabinet shop ends up in a store-residence
-T-1669 — The street-face business deal and the platted household deal take from one pool of roofs and neither can see the other's picks: 40 seats owed, and a re-order of either moves the count with nobody deciding it
-T-1670 — A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
-T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
-T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
 T-1672 — The three south-division freight roofs left after the Dearborn bank filled: the ground for them, or the cell cut so the street-line warehouses and the sheds behind them are owed apart
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
@@ -94,7 +94,6 @@ T-1202 — Build the Randolph–Washington tier and the public square's neighbou
 # --- settle accounting; none of them decides where a South Division building stands.
 T-1624 — The 23 pre-scene-date building placements the Chicago Democrat gives on the plat: T-1599's lot-and-block, named-corner and held-neighbour readings of 1833-34 carried forward to 1835-07-01 or refused, with the plat and the block recipes in front of them
 T-1625 — The six prose building placements the books and Norris give by corner, cross street and neighbour: the First Baptist meeting house, Hamilton's own house, Mark Beaubien's frame building by Noble's, Tippecanoe Hall, the Dearborn and South Water log building with the block 14 building, and Owings's house south of the Fur Company's — each carried forward to 1835-07-01 or refused
-T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of businesses, so every street's roofs_home_named reads 0 and roofs_home_inferred absorbs the named homes
 T-1591 — The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
 T-1592 — The 13 INFRASTRUCTURE readings in the books, directories and civic corpora: Hubbard's river and portage works, Fergus, Andreas and Norris, each one asserted, limited or refused
 T-1587 — Spend the 19 unasserted STREET readings: the trails, roads and street lines the papers, Hubbard and Norris name that reach no corridor in the street layer, each one asserted onto the corridor it names, limited to the division it reaches, or refused in writing
@@ -278,6 +277,12 @@ T-0371 — The lattice path's block rotation is dead code that measure_rank_bias
 T-0433 — T-0346's measured costs for the new desktop parts 4, 5 and 6 were never filed, and the two places they are written down disagree
 T-0030 — A queue card in Manager reading tickets.json
 T-1634 — Desktop smoke part 12 times out waiting 30 s for the scene to be ready after the What's-new reload, when frames cost about 2 s: 2 of 3 runs on a 4-CPU session container, on a tree whose only part-12 change was a changelog stamp
+T-1671 — rederive.mjs --run leaves manifest steps 77-121 standing on the resident cards its second pass rewrote, and only 122-159 are now re-run
+T-1669 — The street-face business deal and the platted household deal take from one pool of roofs and neither can see the other's picks: 40 seats owed, and a re-order of either moves the count with nobody deciding it
+T-1670 — A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
+T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
+T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
+T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of businesses, so every street's roofs_home_named reads 0 and roofs_home_inferred absorbs the named homes
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
