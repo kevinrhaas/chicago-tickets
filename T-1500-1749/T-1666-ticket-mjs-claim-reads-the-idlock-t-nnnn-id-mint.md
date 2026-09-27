@@ -1,7 +1,7 @@
 ---
 id: T-1666
 title: ticket.mjs claim reads the idlock/t-NNNN ID-mint branch as a rival work branch, so every freshly-minted ticket says 'already being worked' and trains runs to --force
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 1:11:08 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36299236519
+claimed_at: 2026-09-27T06:11:08.282Z
 decision: null
 decision_answer: null
 ---
