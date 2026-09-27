@@ -1,7 +1,7 @@
 ---
 id: T-1649
 title: The crosswalk's required variants for the store and warehouse families: C2's knee-wall store-residence, C3's shop bays and hoist door, C4's hip-roofed mixed block and F1-F3's cargo openings, drawn by the archetypes and baked
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1639
 opened: 2026-09-26
-closed: null
+closed: 2026-09-27
 pr: null
 claimed_by: run 9/27/2026, 12:23:30 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T05:25:50.182Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36296924794
 claimed_at: 2026-09-27T05:23:30.399Z
 decision: null
