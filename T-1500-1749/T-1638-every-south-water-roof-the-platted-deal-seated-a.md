@@ -1,7 +1,7 @@
 ---
 id: T-1638
 title: Every South Water roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the letter-list names refused in writing with the ruling that refuses them
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1200
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 98
 claimed_by: run 9/26/2026, 5:38:29 PM CT
 blocked_on: null
 needs_bake: false
@@ -44,6 +44,6 @@ re-derived by a `--check` in `check.sh`, and nothing is raised or baked.
 - No mesh moves — `generators/mesh_inputs.py` hashes archetype parameters, not prose — so
   this piece is bake-free even though the parent is not.
 - **Visible:** the Keepers row on nine building cards a visitor opens on South Water Street.
-- LIBERTIES: L275, over L270's invention.
+- LIBERTIES: L276, over L270's invention.
 
 **Stop condition:** no South Water seat of the platted deal is silent in both directions.
