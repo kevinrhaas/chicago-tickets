@@ -1,7 +1,7 @@
 ---
 id: T-1201
 title: Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-09-27
 pr: null
 claimed_by: run 9/27/2026, 12:32:23 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-09-27T17:37:47.623Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36337135202
 claimed_at: 2026-09-27T17:32:24.007Z
 decision: null

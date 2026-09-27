@@ -84,7 +84,10 @@
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1675 — Eleven South Water dwelling and lodging roofs stand with no household: four D1 cabins, two D2 shanties, two D3 and two D4 cottages and the H1 house
-T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
+T-1680 — W1's forge chimney: the town's blacksmith shops get the crosswalk's required variant, so a smithy stands as a smithy and not a shed
+T-1681 — The Lake frontage of the Dearborn and Clark blocks stands as stores and not cottages, at the crosswalk's required variants, migrated and baked
+T-1682 — The Lake frontage of the Franklin, La Salle, Wells, Market and Clinton blocks stands as stores, and the W2-W4 shops take their State and Dearborn faces
+T-1683 — The Lake district's books closed: the cottages and yard buildings behind on the alleys, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
 T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
