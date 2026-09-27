@@ -1,7 +1,7 @@
 ---
 id: T-1685
 title: Every Randolph roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the refusals said on the roof with the ruling that refuses them
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1202
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 3:29:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36347870531
+claimed_at: 2026-09-27T20:29:56.570Z
 decision: null
 decision_answer: null
 ---
