@@ -1,7 +1,7 @@
 ---
 id: T-1682
 title: The Lake frontage of the Franklin, La Salle, Wells, Market and Clinton blocks stands as stores, and the W2-W4 shops take their State and Dearborn faces
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1201
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 1:35:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36340845272
+claimed_at: 2026-09-27T18:35:40.341Z
 decision: null
 decision_answer: null
 ---
