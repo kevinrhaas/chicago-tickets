@@ -1,7 +1,7 @@
 ---
 id: T-1202
 title: Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 3:26:46 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36347870531
+claimed_at: 2026-09-27T20:26:46.077Z
+decision: null
+decision_answer: null
 ---
 
 Third build ticket, same contract as T-1200. The ground: the Randolph–Washington blocks
