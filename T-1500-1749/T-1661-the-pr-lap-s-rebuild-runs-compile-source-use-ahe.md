@@ -1,7 +1,7 @@
 ---
 id: T-1661
 title: The PR lap's rebuild runs compile_source_use ahead of compile_scene, so a lapped branch loses 38 source-use claims and gates red while looking merged
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 118
 claimed_by: run 9/27/2026, 8:55:56 AM CT
 blocked_on: null
 needs_bake: false
