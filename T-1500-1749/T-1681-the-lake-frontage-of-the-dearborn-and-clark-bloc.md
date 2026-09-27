@@ -1,7 +1,7 @@
 ---
 id: T-1681
 title: The Lake frontage of the Dearborn and Clark blocks stands as stores and not cottages, at the crosswalk's required variants, migrated and baked
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1201
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 130
 claimed_by: run 9/27/2026, 1:07:35 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T23:30:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36339267465
 claimed_at: 2026-09-27T18:07:35.659Z
 decision: null
