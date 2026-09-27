@@ -73,7 +73,6 @@
 # --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
 # Owner, 2026-09-26: the river front's own bank first. He flew it against Wright and Hathaway, and T-1200 builds on this waterline.
 T-1643 — south_bank_shed_dearborn_e1's northing, bearing and wagon door were read off a road that has since moved off the reach: re-seat it, re-face it, or say in the record why it stands as it is
-T-1642 — The south bank's 81 released positions: the fort road left the strip between South Water's end and the Reservation line, and the only reason that ground was empty left with it
 
 # --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
 # Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
