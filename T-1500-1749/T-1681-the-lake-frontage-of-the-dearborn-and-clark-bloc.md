@@ -1,7 +1,7 @@
 ---
 id: T-1681
 title: The Lake frontage of the Dearborn and Clark blocks stands as stores and not cottages, at the crosswalk's required variants, migrated and baked
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1201
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 130
 claimed_by: run 9/27/2026, 1:07:35 PM CT
 blocked_on: null
 needs_bake: false
