@@ -1,7 +1,7 @@
 ---
 id: T-1655
 title: .github/steward/pr-rest.sh reads the repo from $GITHUB_REPOSITORY, so a steward run driving it from a chicago checkout comments on and labels a PR in polecat-platform instead
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 11:40:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36294756723
+claimed_at: 2026-09-27T04:40:10.402Z
 decision: null
 decision_answer: null
 ---
