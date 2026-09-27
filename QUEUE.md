@@ -80,7 +80,6 @@ T-1642 — The south bank's 81 released positions: the fort road left the strip 
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1638 — Every South Water roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the letter-list names refused in writing with the ruling that refuses them
 T-1639 — The South Water street line stands as stores and warehouses and not cottages: the C2-C4 store fronts and F1-F3 warehouses at the crosswalk's required variants, raised on the party lines and baked
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
