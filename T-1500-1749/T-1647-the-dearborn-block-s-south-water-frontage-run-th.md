@@ -1,7 +1,7 @@
 ---
 id: T-1647
 title: The Dearborn block's South Water frontage run: the bakery and the wholesale house standing in cottages at the bridge head re-familied to the store families the ground allows, migrated, baked and published
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1639
 opened: 2026-09-26
-closed: null
+closed: 2026-09-26
 pr: 103
 claimed_by: run 9/26/2026, 8:06:41 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T02:50:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36283733454
 claimed_at: 2026-09-27T01:06:41.242Z
 decision: null
