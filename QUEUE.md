@@ -85,6 +85,7 @@
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
 T-1672 — The three south-division freight roofs left after the Dearborn bank filled: the ground for them, or the cell cut so the street-line warehouses and the sheds behind them are owed apart
+T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
 T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
