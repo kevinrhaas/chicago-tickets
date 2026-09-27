@@ -82,6 +82,7 @@ T-1663 — F2 and F3's cargo-door rhythm and hoist beam on frame_storefront: the
 T-1668 — A generators-touching PR cannot merge inside its own run: the warranted full-town bake outlasts both pr-automerge laps, so every such PR becomes a resume PR the janitor inherits green
 T-1661 — The PR lap's rebuild runs compile_source_use ahead of compile_scene, so a lapped branch loses 38 source-use claims and gates red while looking merged
 T-1651 — adopt_street_faces pairs businesses by evidence rank with a face's roofs in id order and never reads the roof's family, so a re-family re-deals the whole face and a cabinet shop ends up in a store-residence
+T-1669 — The street-face business deal and the platted household deal take from one pool of roofs and neither can see the other's picks: 40 seats owed, and a re-order of either moves the count with nobody deciding it
 T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
 T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
