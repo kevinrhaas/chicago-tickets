@@ -79,6 +79,7 @@
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1661 — The PR lap's rebuild runs compile_source_use ahead of compile_scene, so a lapped branch loses 38 source-use claims and gates red while looking merged
+T-1671 — rederive.mjs --run leaves manifest steps 77-121 standing on the resident cards its second pass rewrote, and only 122-159 are now re-run
 T-1651 — adopt_street_faces pairs businesses by evidence rank with a face's roofs in id order and never reads the roof's family, so a re-family re-deals the whole face and a cabinet shop ends up in a store-residence
 T-1669 — The street-face business deal and the platted household deal take from one pool of roofs and neither can see the other's picks: 40 seats owed, and a re-order of either moves the count with nobody deciding it
 T-1670 — A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
