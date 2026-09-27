@@ -1,7 +1,7 @@
 ---
 id: T-1278
 title: Land on a warm mobile welcome with Jaunts and Explore Myself
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 4:00:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-27T21:00:40.699Z
+decision: null
+decision_answer: null
 ---
 
 The landing surface. When the arrival settles on 1835 the visitor is **on the welcome**: a warm, directed page with two ways in — **Jaunts** and **I'll Explore Myself — Starting At…** — and no dashboard. The owner: *"You should land on the explore on your own / jaunts page when you are completely loaded and landed in Aug 1835 … the opening screen should give you a warmer directed welcome with options for jaunts … it should not be tap to walk, more like tap to enter … That new screen must all fit and work on mobile."* Wording stays the approved "Chicago, summer 1835".
