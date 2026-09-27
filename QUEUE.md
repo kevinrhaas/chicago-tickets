@@ -83,6 +83,7 @@ T-1649 — The crosswalk's required variants for the store and warehouse familie
 T-1652 — bake.sh documents --only a,b,c but build.py compares the id for equality, so a comma list silently bakes nothing and prints '0 asset(s) built'
 T-1654 — generators/build.py is hashed WHOLE into every asset's inputs, so changing its argparse or its docstring stales all 422 assets and demands a full-town rebake
 T-1655 — .github/steward/pr-rest.sh reads the repo from $GITHUB_REPOSITORY, so a steward run driving it from a chicago checkout comments on and labels a PR in polecat-platform instead
+T-1656 — pr-lap.sh, merge-ready.sh and pr-stuck.sh read the repository from $GITHUB_REPOSITORY too, so any pass driven from a clone inside another repo's job acts on that repo
 T-1651 — adopt_street_faces pairs businesses by evidence rank with a face's roofs in id order and never reads the roof's family, so a re-family re-deals the whole face and a cabinet shop ends up in a store-residence
 T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
 T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
