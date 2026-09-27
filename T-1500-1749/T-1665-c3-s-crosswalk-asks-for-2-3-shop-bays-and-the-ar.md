@@ -1,7 +1,7 @@
 ---
 id: T-1665
 title: C3's crosswalk asks for 2-3 shop bays and the archetype's 5 ft bay module cannot give 3 on any footprint in C3's own band: 1 bay is built on 7 of 7, 2 fit on 4 of 7, and SHOPFRONT_MAX_FRACTION refuses even the first
-state: review
+state: done
 epic: TOWN
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 111
 claimed_by: run 9/27/2026, 1:54:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T08:04:15Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36301294944
 claimed_at: 2026-09-27T06:54:23.695Z
 decision: null

@@ -78,7 +78,6 @@
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1665 — C3's crosswalk asks for 2-3 shop bays and the archetype's 5 ft bay module cannot give 3 on any footprint in C3's own band: 1 bay is built on 7 of 7, 2 fit on 4 of 7, and SHOPFRONT_MAX_FRACTION refuses even the first
 T-1667 — The town's single C4 stands at 2 facade bays against an authored 4-6: its 9.32 m front takes 4 (7.702 m needed, 0.81 m of plain wall each end) and SHOPFRONT_MAX_FRACTION refuses 69.8% of the front
 T-1662 — F1's freight shed on outbuilding: the wide low cargo openings the freight_shed_low variant requires, drawn and baked
 T-1663 — F2 and F3's cargo-door rhythm and hoist beam on frame_storefront: the two-storey and river warehouses' upper freight doors and hoist support, drawn and baked
