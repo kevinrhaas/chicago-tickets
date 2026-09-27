@@ -1,7 +1,7 @@
 ---
 id: T-1674
 title: Desktop `balanced` clears its ceiling by 1.91 per cent at the forks: the next downtown parcel needs the headroom measured before it deals, not after it bakes
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 125
 claimed_by: run 9/27/2026, 11:01:27 AM CT
 blocked_on: null
 needs_bake: false
