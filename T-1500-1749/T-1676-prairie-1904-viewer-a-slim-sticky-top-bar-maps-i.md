@@ -1,7 +1,7 @@
 ---
 id: T-1676
 title: Prairie 1904 viewer: a slim sticky top bar, Maps & images, and an explained building count, as the owner asked
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 123
 claimed_by: run 9/27/2026, 11:40:30 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T16:51:19Z
 claimed_run: null
 claimed_at: 2026-09-27T16:40:30.393Z
 decision: null
