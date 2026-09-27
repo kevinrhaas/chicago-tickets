@@ -1,7 +1,7 @@
 ---
 id: T-1668
 title: A generators-touching PR cannot merge inside its own run: the warranted full-town bake outlasts both pr-automerge laps, so every such PR becomes a resume PR the janitor inherits green
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 7:44:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36319836343
+claimed_at: 2026-09-27T12:44:24.323Z
 decision: null
 decision_answer: null
 ---
