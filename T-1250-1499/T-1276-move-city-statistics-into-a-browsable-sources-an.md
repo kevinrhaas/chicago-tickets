@@ -1,7 +1,7 @@
 ---
 id: T-1276
 title: Browse every source the reconstruction used, with its counts and used-for links
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 8:13:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-27T01:13:38.954Z
+decision: null
+decision_answer: null
 ---
 
 The **Sources** browser: every source this reconstruction used, easy to scan though it is long, with per-source attested/inferred/reconstructed counts and a "used for" link library that opens the very cards each source fed. The owner: *"show all the sources that you have used in building this, maybe this is where you also have the stats of the attested inferred reconstructed next to that for the source list … It will be a long list so make that source list easy to review and consume and maybe have some kind of link library or summary link to the items from that source."* Built on T-1248's index; sits beside T-1292's City topic under Evidence so the narrow mobile rail gains no tab.
