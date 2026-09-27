@@ -1,7 +1,7 @@
 ---
 id: T-1673
 title: The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
-state: blocked-tech
+state: open
 epic: TOWN
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-27
 closed: null
 pr: null
 claimed_by: run 9/27/2026, 10:57:36 AM CT
-blocked_on: T-1672 — the south freight cell is still ONE undivided cell (dev c164f8ae: target 11, standing 8, 3 to build); the platted-ground half this ticket builds on only exists if T-1672 cuts it, and T-1672 is in flight
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36331173426
