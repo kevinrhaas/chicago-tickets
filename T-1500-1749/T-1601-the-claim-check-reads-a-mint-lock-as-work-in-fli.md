@@ -1,7 +1,7 @@
 ---
 id: T-1601
 title: The claim check reads a MINT lock as work in flight, so every freshly filed ticket looks already taken and the only way past is --force
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-27
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: duplicate of T-1666, fixed by PR #108 — the rival scan now skips refs/heads/idlock/*. This ticket's own acceptance is the one that shipped.
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T06:49:57.808Z
 claimed_run: null
 claimed_at: null
 decision: null
