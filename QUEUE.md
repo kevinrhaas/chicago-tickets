@@ -84,7 +84,6 @@
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1672 — The three south-division freight roofs left after the Dearborn bank filled: the ground for them, or the cell cut so the street-line warehouses and the sheds behind them are owed apart
-T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
 T-1674 — Desktop `balanced` clears its ceiling by 1.91 per cent at the forks: the next downtown parcel needs the headroom measured before it deals, not after it bakes
 T-1675 — Eleven South Water dwelling and lodging roofs stand with no household: four D1 cabins, two D2 shanties, two D3 and two D4 cottages and the H1 house
