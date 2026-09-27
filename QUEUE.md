@@ -286,6 +286,7 @@ T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of 
 T-1678 — The platted deal is blind to the letter-list ruling: it seats a household T-0379 refuses a roof onto 61 standing roofs, 11 of them on South Water, and the keeper pass must then refuse every one
 T-1679 — Haddock's Tavern may stand one lot east of its seat: five printings of G. Spring's notice put it one lot west of plat lot 7 of block 16, and mansion_house's own position declares a lot's width of slack
 T-1684 — The W2-W4 mechanics' shops have no State or Dearborn face to take: no platted-block slot in the whole recipe is dealt onto a cross-street face, and every Lake-Randolph block reads at_capacity
+T-1689 — Seven household cards are still NAMED a name from the post office's letter lists while their person's letter_list_only flag has been correctly cleared: the minting pass revises the name when it clears the flag, or says why the name stands
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
