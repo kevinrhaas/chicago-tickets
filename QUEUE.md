@@ -297,3 +297,4 @@ T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: i
 T-1606 — The two research reports embed live ticket state from a separate repository, so a sibling run claiming a ticket turns every code branch's gate red on a diff that cannot touch it
 T-1644 — The river walk's east end no longer walks far enough west: T-1630's recut south bank leaves the walker at E 811.5 where the check wants past E 802
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
+T-1646 — claim reads its own idlock/t-NNNN reservation branch as a rival run, so every freshly minted or split ticket refuses its first claim and teaches the next run to reach for --force
