@@ -1,7 +1,7 @@
 ---
 id: T-1672
 title: The three south-division freight roofs left after the Dearborn bank filled: the ground for them, or the cell cut so the street-line warehouses and the sheds behind them are owed apart
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 10:29:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36329575867
+claimed_at: 2026-09-27T15:29:58.036Z
 decision: null
 decision_answer: null
 ---
