@@ -1,7 +1,7 @@
 ---
 id: T-1661
 title: The PR lap's rebuild runs compile_source_use ahead of compile_scene, so a lapped branch loses 38 source-use claims and gates red while looking merged
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 118
 claimed_by: run 9/27/2026, 8:55:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T14:35:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36322660055
 claimed_at: 2026-09-27T13:55:56.933Z
 decision: null
