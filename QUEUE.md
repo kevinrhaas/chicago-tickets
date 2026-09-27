@@ -282,6 +282,7 @@ T-1670 — A counter trade and a works trade want different roofs and the regist
 T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
 T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
 T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of businesses, so every street's roofs_home_named reads 0 and roofs_home_inferred absorbs the named homes
+T-1678 — The platted deal is blind to the letter-list ruling: it seats a household T-0379 refuses a roof onto 61 standing roofs, 11 of them on South Water, and the keeper pass must then refuse every one
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
