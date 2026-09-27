@@ -1,7 +1,7 @@
 ---
 id: T-1674
 title: Desktop `balanced` clears its ceiling by 1.91 per cent at the forks: the next downtown parcel needs the headroom measured before it deals, not after it bakes
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 125
 claimed_by: run 9/27/2026, 11:01:27 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T17:27:36Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36331173426
 claimed_at: 2026-09-27T16:01:27.383Z
 decision: null
