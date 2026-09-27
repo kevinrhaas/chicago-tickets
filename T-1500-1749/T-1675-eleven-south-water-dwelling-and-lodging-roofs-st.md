@@ -1,7 +1,7 @@
 ---
 id: T-1675
 title: Eleven South Water dwelling and lodging roofs stand with no household: four D1 cabins, two D2 shanties, two D3 and two D4 cottages and the H1 house
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 126
 claimed_by: run 9/27/2026, 11:33:06 AM CT
 blocked_on: null
 needs_bake: false
