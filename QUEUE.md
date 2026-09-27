@@ -78,7 +78,6 @@
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1666 — ticket.mjs claim reads the idlock/t-NNNN ID-mint branch as a rival work branch, so every freshly-minted ticket says 'already being worked' and trains runs to --force
 T-1659 — C2's knee-wall store-residence, C3's shop bays and hoist door and C4's hip-roofed mixed block, drawn by frame_storefront and baked
 T-1665 — C3's crosswalk asks for 2-3 shop bays and the archetype's 5 ft bay module cannot give 3 on any footprint in C3's own band: 1 bay is built on 7 of 7, 2 fit on 4 of 7, and SHOPFRONT_MAX_FRACTION refuses even the first
 T-1662 — F1's freight shed on outbuilding: the wide low cargo openings the freight_shed_low variant requires, drawn and baked
