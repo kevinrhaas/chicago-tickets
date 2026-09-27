@@ -79,7 +79,6 @@
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
 T-1667 — The town's single C4 stands at 2 facade bays against an authored 4-6: its 9.32 m front takes 4 (7.702 m needed, 0.81 m of plain wall each end) and SHOPFRONT_MAX_FRACTION refuses 69.8% of the front
-T-1662 — F1's freight shed on outbuilding: the wide low cargo openings the freight_shed_low variant requires, drawn and baked
 T-1663 — F2 and F3's cargo-door rhythm and hoist beam on frame_storefront: the two-storey and river warehouses' upper freight doors and hoist support, drawn and baked
 T-1652 — bake.sh documents --only a,b,c but build.py compares the id for equality, so a comma list silently bakes nothing and prints '0 asset(s) built'
 T-1656 — pr-lap.sh, merge-ready.sh and pr-stuck.sh read the repository from $GITHUB_REPOSITORY too, so any pass driven from a clone inside another repo's job acts on that repo
