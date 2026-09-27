@@ -1,7 +1,7 @@
 ---
 id: T-1648
 title: The Franklin, La Salle, Clark and Wells South Water frontage runs: every remaining roof carrying a documented trade re-familied to a store family, or refused in writing with the face measurement that refuses it
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1639
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 102
 claimed_by: run 9/26/2026, 8:45:46 PM CT
 blocked_on: null
 needs_bake: false
