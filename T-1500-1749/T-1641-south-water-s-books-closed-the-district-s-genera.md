@@ -1,7 +1,7 @@
 ---
 id: T-1641
 title: South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1200
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 122
 claimed_by: run 9/27/2026, 10:39:56 AM CT
 blocked_on: null
 needs_bake: false
