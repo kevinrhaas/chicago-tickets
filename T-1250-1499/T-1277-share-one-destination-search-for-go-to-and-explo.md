@@ -1,7 +1,7 @@
 ---
 id: T-1277
 title: Share one destination search for Go to and Explore Myself
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 9:58:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-27T02:58:21.274Z
+decision: null
+decision_answer: null
 ---
 
 One destination model for both entry points. The owner: *"I'll Explore Myself — Starting At… should let the user search or browse for a historical location, structure, business, resident-associated place, street/intersection … after selection, take them there and return them to normal free-exploration mode. This is like the way Go to works now so integrate all that together so it's not duplicate."* Extract what `goto.js` builds today into a shared `destinations.js`, and let the welcome's start picker and the in-world Go to tab both use it.
