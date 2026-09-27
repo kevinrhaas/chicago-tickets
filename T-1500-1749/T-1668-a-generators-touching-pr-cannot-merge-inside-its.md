@@ -1,7 +1,7 @@
 ---
 id: T-1668
 title: A generators-touching PR cannot merge inside its own run: the warranted full-town bake outlasts both pr-automerge laps, so every such PR becomes a resume PR the janitor inherits green
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 116
 claimed_by: run 9/27/2026, 7:44:24 AM CT
 blocked_on: null
 needs_bake: false
