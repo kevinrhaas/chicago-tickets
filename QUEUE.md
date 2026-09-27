@@ -86,7 +86,6 @@
 T-1681 — The Lake frontage of the Dearborn and Clark blocks stands as stores and not cottages, at the crosswalk's required variants, migrated and baked
 T-1683 — The Lake district's books closed: the cottages and yard buildings behind on the alleys, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
 T-1686 — The Randolph-Washington tier's merchant and professional seats stand as H1/H2 houses and not cottages: the centre-hall, hip and Greek-doorway variants the crosswalk requires, raised and baked
-T-1687 — The civic band's roofs beside the public square: the I1 worship and I2 school roofs the civic dossier allows, the log jail and the estray pen as they stand, and no fourth civic roof invented
 T-1688 — The Randolph tier's books closed: the dwellings falling southward to the modelled edge at Washington, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
