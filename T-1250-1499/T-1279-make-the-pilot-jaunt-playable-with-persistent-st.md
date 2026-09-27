@@ -1,7 +1,7 @@
 ---
 id: T-1279
 title: Make the pilot jaunt playable with persistent stop navigation
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 5:25:03 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-27T22:25:03.365Z
+decision: null
+decision_answer: null
 ---
 
 The **jaunt engine and the persistent navigation**: a session reducer, the stop panel, and the four controls the owner asked for — *"During an active jaunt, provide a persistent, simple navigation control with Previous Stop, Next Stop, End Jaunt, access back to the Jaunts Menu. Ending a jaunt should immediately return the user to the Jaunts Menu."* Demonstrated by playing the T-1253 pilot (`new-in-chicago`) end to end at both viewports. No jaunt-specific code.
