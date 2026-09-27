@@ -1,7 +1,7 @@
 ---
 id: T-1687
 title: The civic band's roofs beside the public square: the I1 worship and I2 school roofs the civic dossier allows, the log jail and the estray pen as they stand, and no fourth civic roof invented
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1202
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 136
 claimed_by: run 9/27/2026, 3:45:10 PM CT
 blocked_on: null
 needs_bake: false
