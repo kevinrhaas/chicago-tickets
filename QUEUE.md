@@ -86,7 +86,10 @@
 T-1681 — The Lake frontage of the Dearborn and Clark blocks stands as stores and not cottages, at the crosswalk's required variants, migrated and baked
 T-1682 — The Lake frontage of the Franklin, La Salle, Wells, Market and Clinton blocks stands as stores, and the W2-W4 shops take their State and Dearborn faces
 T-1683 — The Lake district's books closed: the cottages and yard buildings behind on the alleys, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
-T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
+T-1685 — Every Randolph roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the refusals said on the roof with the ruling that refuses them
+T-1686 — The Randolph-Washington tier's merchant and professional seats stand as H1/H2 houses and not cottages: the centre-hall, hip and Greek-doorway variants the crosswalk requires, raised and baked
+T-1687 — The civic band's roofs beside the public square: the I1 worship and I2 school roofs the civic dossier allows, the log jail and the estray pen as they stand, and no fourth civic roof invented
+T-1688 — The Randolph tier's books closed: the dwellings falling southward to the modelled edge at Washington, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
