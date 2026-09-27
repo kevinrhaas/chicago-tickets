@@ -27,23 +27,29 @@ Desktop `balanced` clears its ceiling by 1.91 per cent at the forks: the next do
 
 
 Read by T-1641, closing South Water's books, on the mirror `tools/publish.sh` built from
-dev at `1adfa5d2`. `node tools/measure_detail_ceilings.mjs --only both` passes every tier
+dev at `c164f8ae`. `node tools/measure_detail_ceilings.mjs --only both` passes every tier
 at both viewports — the town is back inside T-1154's ceilings and T-1244/T-1245's trim is
 why — but the desktop margins are not comfortable:
 
 | tier | ceiling | worst desktop | margin | per cent |
 | --- | --- | --- | --- | --- |
-| `full` | 1,460,000 | 1,408,328 (the forks) | 51,672 | 3.54 |
-| `balanced` | 1,280,000 | 1,255,580 (the forks) | 24,420 | **1.91** |
+| `full` | 1,460,000 | 1,410,306 (the forks) | 49,694 | 3.40 |
+| `balanced` | 1,280,000 | 1,257,120 (the forks) | 22,880 | **1.79** |
 | `light` | 825,000 | 773,206 (the open aerial) | 51,794 | 6.28 |
 
-Mobile is comfortable at every tier (207,179 / 174,909 / 125,813). The reading is committed
+Mobile is comfortable at every tier (205,201 / 173,369 / 125,813). The reading is committed
 at `data/render/south_water_close_out.json`.
+
+**And the price of a roof is now measured, which is the part that makes this urgent.** The
+same sweep was run twice an hour apart, before and after T-1640 merged. That pull request
+added ONE freight shed on the south bank, and desktop `balanced` at the forks went from a
+24,420 margin to 22,880: **1,540 triangles for one shed**. The remaining margin is about
+fifteen sheds wide.
 
 **Why this is a ticket and not a table.** The next build parcel in the queue is T-1201 —
 the Lake Street and Dearborn–Clark–LaSalle core — and it raises roofs inside the same
-downtown frusta the forks stand looks through. Twenty-four thousand triangles is a handful
-of cottages. T-1200's own procedure puts the ceiling reading at the END of a parcel, before
+downtown frusta the forks stand looks through. Twenty-two thousand triangles is fifteen
+freight sheds, and a block core is more than fifteen roofs. T-1200's own procedure puts the ceiling reading at the END of a parcel, before
 the push, which means a parcel discovers it has breached after it has dealt, generated and
 baked. On a 1.91 per cent margin that is the wrong end.
 
