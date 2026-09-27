@@ -1,7 +1,7 @@
 ---
 id: T-1656
 title: pr-lap.sh, merge-ready.sh and pr-stuck.sh read the repository from $GITHUB_REPOSITORY too, so any pass driven from a clone inside another repo's job acts on that repo
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 114
 claimed_by: run 9/27/2026, 6:28:11 AM CT
 blocked_on: null
 needs_bake: false
