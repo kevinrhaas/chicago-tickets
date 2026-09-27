@@ -1,7 +1,7 @@
 ---
 id: T-1654
 title: generators/build.py is hashed WHOLE into every asset's inputs, so changing its argparse or its docstring stales all 422 assets and demands a full-town rebake
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 112
 claimed_by: run 9/27/2026, 2:50:14 AM CT
 blocked_on: null
 needs_bake: false
