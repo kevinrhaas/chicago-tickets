@@ -1,7 +1,7 @@
 ---
 id: T-1640
 title: The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1200
 opened: 2026-09-26
-closed: null
+closed: 2026-09-27
 pr: 119
 claimed_by: run 9/27/2026, 8:56:43 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T15:51:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36323826023
 claimed_at: 2026-09-27T13:56:43.996Z
 decision: null
