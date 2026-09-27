@@ -88,6 +88,7 @@ T-1672 — The three south-division freight roofs left after the Dearborn bank f
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
 T-1674 — Desktop `balanced` clears its ceiling by 1.91 per cent at the forks: the next downtown parcel needs the headroom measured before it deals, not after it bakes
+T-1675 — Eleven South Water dwelling and lodging roofs stand with no household: four D1 cabins, two D2 shanties, two D3 and two D4 cottages and the H1 house
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
 T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
