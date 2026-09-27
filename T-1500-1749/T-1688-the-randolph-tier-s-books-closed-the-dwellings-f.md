@@ -1,7 +1,7 @@
 ---
 id: T-1688
 title: The Randolph tier's books closed: the dwellings falling southward to the modelled edge at Washington, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1202
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 6:30:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36358743292
+claimed_at: 2026-09-27T23:30:11.943Z
 decision: null
 decision_answer: null
 ---
