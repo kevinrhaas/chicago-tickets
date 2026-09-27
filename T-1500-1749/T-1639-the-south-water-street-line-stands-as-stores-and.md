@@ -1,7 +1,7 @@
 ---
 id: T-1639
 title: The South Water street line stands as stores and warehouses and not cottages: the C2-C4 store fronts and F1-F3 warehouses at the crosswalk's required variants, raised on the party lines and baked
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1200
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/26/2026, 7:54:10 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36283733454
+claimed_at: 2026-09-27T00:54:11.040Z
 decision: null
 decision_answer: null
 ---
