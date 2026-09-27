@@ -1,7 +1,7 @@
 ---
 id: T-1656
 title: pr-lap.sh, merge-ready.sh and pr-stuck.sh read the repository from $GITHUB_REPOSITORY too, so any pass driven from a clone inside another repo's job acts on that repo
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-09-27
 pr: 114
 claimed_by: run 9/27/2026, 6:28:11 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T12:00:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36315688900
 claimed_at: 2026-09-27T11:28:12.897Z
 decision: null
