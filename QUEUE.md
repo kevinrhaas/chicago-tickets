@@ -83,7 +83,6 @@
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1672 — The three south-division freight roofs left after the Dearborn bank filled: the ground for them, or the cell cut so the street-line warehouses and the sheds behind them are owed apart
 T-1677 — From the air the far prairie still looks flooded after T-1631 and T-1635: the far ground mesh faces down and draws nothing
 T-1674 — Desktop `balanced` clears its ceiling by 1.91 per cent at the forks: the next downtown parcel needs the headroom measured before it deals, not after it bakes
 T-1675 — Eleven South Water dwelling and lodging roofs stand with no household: four D1 cabins, two D2 shanties, two D3 and two D4 cottages and the H1 house
