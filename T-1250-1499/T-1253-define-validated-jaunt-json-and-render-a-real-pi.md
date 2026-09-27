@@ -1,7 +1,7 @@
 ---
 id: T-1253
 title: Define validated jaunt JSON and render a real pilot preview
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 4:36:06 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-27T21:36:06.540Z
+decision: null
+decision_answer: null
 ---
 
 The **jaunt content contract**: a validated JSON schema, a build-time compiler that produces a light catalog, the semantic validator, an authoring guide, and the first real jaunt file (`new-in-chicago`) as the pilot. The owner: *"Design jaunts as data-driven content — preferably structured JSON plus reusable UI/engine components — so adding a jaunt primarily means authoring its premise, stops, decisions, conditions and outcomes rather than writing custom application logic … support an initial library of roughly 25 jaunts, designed so it can grow to 50+ through data."* Everything the engine (T-1279) and the content batches (5H/5I) rely on is fixed here, so this lands before them and touches no runtime UI beyond listing the catalog on the welcome if T-1278 is already in.
