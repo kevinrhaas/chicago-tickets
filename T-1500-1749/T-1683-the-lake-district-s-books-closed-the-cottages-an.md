@@ -1,7 +1,7 @@
 ---
 id: T-1683
 title: The Lake district's books closed: the cottages and yard buildings behind on the alleys, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1201
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 138
 claimed_by: run 9/27/2026, 4:16:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T23:04:29Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36350856448
 claimed_at: 2026-09-27T21:16:48.246Z
 decision: null
