@@ -85,6 +85,7 @@ T-1670 — A counter trade and a works trade want different roofs and the regist
 T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
 T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
+T-1672 — The three south-division freight roofs left after the Dearborn bank filled: the ground for them, or the cell cut so the street-line warehouses and the sheds behind them are owed apart
 T-1641 — South Water's books closed: the district's generator refusals resolved on evidence, reconcile_665 at capacity or its headroom stated, and the frame budget measured on the published tree
 T-1201 — Build the Lake Street and Dearborn–Clark–LaSalle core to its seats: the store fronts and store-residences, the hotels' neighbours, the professional offices over shops, the mechanics' shops on State and Dearborn, the cottages behind them
 T-1202 — Build the Randolph–Washington tier and the public square's neighbours to their seats: the professional and merchant houses (H1/H2), the churches and schools the civic band established, the log jail and the estray pen as they stand, the dwellings falling southward
