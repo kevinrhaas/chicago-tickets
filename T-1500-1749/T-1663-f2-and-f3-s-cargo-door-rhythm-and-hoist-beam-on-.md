@@ -1,7 +1,7 @@
 ---
 id: T-1663
 title: F2 and F3's cargo-door rhythm and hoist beam on frame_storefront: the two-storey and river warehouses' upper freight doors and hoist support, drawn and baked
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1660
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 115
 claimed_by: run 9/27/2026, 6:29:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T13:49:19Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36315199128
 claimed_at: 2026-09-27T11:29:20.570Z
 decision: null
