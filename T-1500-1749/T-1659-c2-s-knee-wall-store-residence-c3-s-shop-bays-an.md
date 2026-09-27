@@ -1,7 +1,7 @@
 ---
 id: T-1659
 title: C2's knee-wall store-residence, C3's shop bays and hoist door and C4's hip-roofed mixed block, drawn by frame_storefront and baked
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1649
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 12:25:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36296924794
+claimed_at: 2026-09-27T05:25:58.956Z
 decision: null
 decision_answer: null
 ---
