@@ -124,8 +124,6 @@ T-1215 — Converge the reconstructed town: every person housed, every business 
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
-T-1277 — Share one destination search for Go to and Explore Myself
-T-1278 — Land on a warm mobile welcome with Jaunts and Explore Myself
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
 T-1253 — Define validated jaunt JSON and render a real pilot preview
 T-1279 — Make the pilot jaunt playable with persistent stop navigation

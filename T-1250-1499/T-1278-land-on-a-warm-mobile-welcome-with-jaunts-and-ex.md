@@ -1,7 +1,7 @@
 ---
 id: T-1278
 title: Land on a warm mobile welcome with Jaunts and Explore Myself
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-27
 pr: 133
 claimed_by: run 9/27/2026, 4:00:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T21:38:28Z
 claimed_run: null
 claimed_at: 2026-09-27T21:00:40.699Z
 decision: null

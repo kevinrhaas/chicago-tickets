@@ -1,7 +1,7 @@
 ---
 id: T-1277
 title: Share one destination search for Go to and Explore Myself
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-27
 pr: 129
 claimed_by: run 9/27/2026, 7:45:09 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T21:38:30Z
 claimed_run: null
 claimed_at: 2026-09-27T12:45:09.447Z
 decision: null
