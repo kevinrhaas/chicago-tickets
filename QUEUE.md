@@ -82,6 +82,7 @@ T-1643 — south_bank_shed_dearborn_e1's northing, bearing and wagon door were r
 T-1647 — The Dearborn block's South Water frontage run: the bakery and the wholesale house standing in cottages at the bridge head re-familied to the store families the ground allows, migrated, baked and published
 T-1648 — The Franklin, La Salle, Clark and Wells South Water frontage runs: every remaining roof carrying a documented trade re-familied to a store family, or refused in writing with the face measurement that refuses it
 T-1649 — The crosswalk's required variants for the store and warehouse families: C2's knee-wall store-residence, C3's shop bays and hoist door, C4's hip-roofed mixed block and F1-F3's cargo openings, drawn by the archetypes and baked
+T-1652 — bake.sh documents --only a,b,c but build.py compares the id for equality, so a comma list silently bakes nothing and prints '0 asset(s) built'
 T-1651 — adopt_street_faces pairs businesses by evidence rank with a face's roofs in id order and never reads the roof's family, so a re-family re-deals the whole face and a cabinet shop ends up in a store-residence
 T-1650 — tools/bake.sh --only a,b,c silently builds nothing: build.py compares the id by equality, so the comma form its own usage documents reports 0 assets built and exits 1
 T-1640 — The freight sheds and landings behind South Water, on the river-bank band the south-bank ground rule allows
