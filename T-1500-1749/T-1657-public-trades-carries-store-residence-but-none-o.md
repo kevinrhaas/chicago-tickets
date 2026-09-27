@@ -1,7 +1,7 @@
 ---
 id: T-1657
 title: PUBLIC_TRADES carries store_residence but none of the other commercial archetype terms, so a documented store in a C1, C3, C4 or F2 roof gets no signboard and no hitching post
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-09-27
 pr: 107
 claimed_by: run 9/26/2026, 11:56:26 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T06:06:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36295595900
 claimed_at: 2026-09-27T04:56:26.419Z
 decision: null
