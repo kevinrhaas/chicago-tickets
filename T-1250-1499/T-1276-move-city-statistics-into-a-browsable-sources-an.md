@@ -1,7 +1,7 @@
 ---
 id: T-1276
 title: Browse every source the reconstruction used, with its counts and used-for links
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-26
 pr: 101
 claimed_by: run 9/26/2026, 8:13:38 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-27T02:07:44Z
 claimed_run: null
 claimed_at: 2026-09-27T01:13:38.954Z
 decision: null

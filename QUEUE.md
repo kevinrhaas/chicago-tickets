@@ -124,7 +124,6 @@ T-1215 — Converge the reconstructed town: every person housed, every business 
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
 T-1275 — Give the loading journey 160 varied source and reconstruction statuses
-T-1276 — Browse every source the reconstruction used, with its counts and used-for links
 T-1277 — Share one destination search for Go to and Explore Myself
 T-1278 — Land on a warm mobile welcome with Jaunts and Explore Myself
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
