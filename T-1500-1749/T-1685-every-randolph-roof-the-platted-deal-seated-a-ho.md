@@ -1,7 +1,7 @@
 ---
 id: T-1685
 title: Every Randolph roof the platted deal seated a household on names its keeper: occupants and resident_assignment written from the seat, and the refusals said on the roof with the ruling that refuses them
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1202
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 134
 claimed_by: run 9/27/2026, 3:29:56 PM CT
 blocked_on: null
 needs_bake: false
