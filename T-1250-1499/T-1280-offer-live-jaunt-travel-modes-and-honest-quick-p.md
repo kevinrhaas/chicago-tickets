@@ -1,7 +1,7 @@
 ---
 id: T-1280
 title: Offer live jaunt travel modes and honest quick-play estimates
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 9:31:00 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-28T02:31:00.840Z
+decision: null
+decision_answer: null
 ---
 
 **Travel modes and honest durations.** The owner: *"you would have a recommended mode of travel that you can change for each jaunt so it's faster or you can change the mode mid jaunt like if taking a horse seems to take forever it would be boring so someone might want to make it fly instead … if I change a logical horse ride … the default may be to horse and the whole jaunt takes 5 min but if I fly I can do it in 3 min."* The estimate comes from the same router and pace settings that move the visitor, so it cannot lie.
