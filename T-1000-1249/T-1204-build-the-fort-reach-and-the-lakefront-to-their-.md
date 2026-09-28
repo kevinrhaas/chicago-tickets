@@ -1,7 +1,7 @@
 ---
 id: T-1204
 title: Build the fort reach and the lakefront to their seats: the sutler's, the garrison's outbuildings and the Agency establishment as the dossiers allow, the lighthouse keeper's, the pier-works yard at the river mouth, the Lake House's neighbours on the north bank east end
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 12:57:17 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36383747775
+claimed_at: 2026-09-28T05:57:17.549Z
+decision: null
+decision_answer: null
 ---
 
 Fifth build ticket, same contract as T-1200. The ground: the reservation's permitted
