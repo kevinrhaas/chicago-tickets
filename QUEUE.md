@@ -315,3 +315,4 @@ T-1644 — The river walk's east end no longer walks far enough west: T-1630's r
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1729 — Build the Glessner House at 1800 Prairie as it stood in 1904: the first researched version, from the HABS drawings, the Sanborn 1911 sheet and the Prairie library's dossier
+T-1730 — Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version
