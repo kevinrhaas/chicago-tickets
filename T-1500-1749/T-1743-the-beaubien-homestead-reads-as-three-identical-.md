@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: b
 ---
 
 The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road.
@@ -82,3 +82,15 @@ Col. Jean Baptiste Beaubien has three near-identical log houses right by the for
 **Recommendation:** (b) The homestead plus two small outbuildings: fold the new residence into the homestead, draw the trading post and the barn as a shed and a barn rather than houses, and move everything off the road — Andreas and Wentworth ('house, out-buildings, and garden') both attest more than one building, so removing them all under-reads the sources. The duplication and the road are both faults of how T-1712 drew the group, not of the evidence. (b) shows one dwelling, which is what you expected, and still honours the out-buildings.
 
 **Asked:** 2026-09-28. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+## Owner answer, 2026-09-28: (b)
+
+*"go with b for beaubien"*
+
+So the scene shows **one dwelling for Col. Beaubien**, the homestead, with two small outbuildings. That replaces the either-or in "The fix" above:
+
+- Fold `beaubien_new_residence` into `jb_beaubien_homestead`, taking it out of the scene. Record in dossier § 4 that Andreas's "new residence" is read as the house the homestead record already models (§ 6a).
+- Keep `beaubien_trading_post` and `beaubien_barn` as **outbuildings, not dwellings**: the trading post as a small store/shed form, and the barn as a barn. Neither may use the `log_dwelling` archetype.
+- Re-site both off the `fort_road` corridor, behind (west of) the frontage.
+- Add the gate step that refuses any structure footprint inside a street corridor.
+- Update L283 in `docs/LIBERTIES.md` to match.
