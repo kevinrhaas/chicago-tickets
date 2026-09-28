@@ -1,7 +1,7 @@
 ---
 id: T-1729
 title: Build the Glessner House at 1800 Prairie as it stood in 1904: the first researched version, from the HABS drawings, the Sanborn 1911 sheet and the Prairie library's dossier
-state: open
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: null
 blocked_on: T-0474
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T14:57:22.325Z
 claimed_run: null
 claimed_at: null
 decision: null
