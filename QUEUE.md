@@ -94,7 +94,6 @@ T-1717 — The north bank east end and the district's books closed: the Lake Hou
 T-1741 — Read the lot lines Wright draws inside Kinzie's Addition and cut the cells he divides to lots: the rule T-1437 withheld, which is the one gate under this district's roofs
 T-1742 — Build Kinzie's Addition and the north tier to their seats on the lots the reading cuts: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush-Pine fringe, the open ground left honestly open
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-T-1733 — Cut blk_lake_clinton to its ten lots on the West Division arrangement: block 28 transposed at inferred tier on the owner's T-1479 ruling, the pre-plat roofs lapping it re-seated onto the lots they stand nearest, and the rule stated for a block that carries a dealt parcel
 T-1734 — Cut blk_randolph_clinton to its ten lots and re-argue its deal on the transposed grid: block 45's lots front Clinton and Canal and not Randolph and Washington, so the seven dealt roofs are re-placed on the new faces, rebaked, and the parcel's frontage argument re-made
 T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
@@ -137,7 +136,6 @@ T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
-T-1738 — Generate and bake the e1871_postfire heightfield and its ground and water GLBs over the Prairie Avenue reach, wired into the terrain gates
 T-1739 — Write data/scenes/1904.json on e1871_postfire and land /4d/1904/ at Prairie and 18th facing the Glessner lot, with the glessner_house anchor and a smoke assertion at 390x780 and 1280x800
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
