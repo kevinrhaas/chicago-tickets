@@ -93,7 +93,6 @@ T-1736 — Build the Clark block of the plat's last tier to its seats: the seven
 T-1717 — The north bank east end and the district's books closed: the Lake House's neighbours, the frame budget measured, the headroom stated
 T-1742 — Build Kinzie's Addition and the north tier to their seats on the lots the reading cuts: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush-Pine fringe, the open ground left honestly open
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-T-1734 — Cut blk_randolph_clinton to its ten lots and re-argue its deal on the transposed grid: block 45's lots front Clinton and Canal and not Randolph and Washington, so the seven dealt roofs are re-placed on the new faces, rebaked, and the parcel's frontage argument re-made
 T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-1207 — Build the West Division's Wolf Point and Canal Street approach to their seats: the taverns' yards and stables, the grocery and blacksmith on the approach, the ferry and the bridge heads, the cabins and boarding houses of the forks
