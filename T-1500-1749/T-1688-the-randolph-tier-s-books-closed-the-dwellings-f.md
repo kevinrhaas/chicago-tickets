@@ -1,7 +1,7 @@
 ---
 id: T-1688
 title: The Randolph tier's books closed: the dwellings falling southward to the modelled edge at Washington, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1202
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 142
 claimed_by: run 9/27/2026, 6:30:11 PM CT
 blocked_on: null
 needs_bake: false
