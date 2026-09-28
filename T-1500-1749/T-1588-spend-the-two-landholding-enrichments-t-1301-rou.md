@@ -1,7 +1,7 @@
 ---
 id: T-1588
 title: Spend the two landholding enrichments T-1301 routed to T-1198: wright_john_s's Chicago land purchases and original-town lots and kingston_paul's Chicago landholding, written onto the held cards by a field that says what a person held — the same shape as T-1315, T-1335 and T-1569 for the births, the kin and the posts
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 8:09:44 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36364699185
+claimed_at: 2026-09-28T01:09:44.649Z
 decision: null
 decision_answer: null
 ---
