@@ -290,6 +290,7 @@ T-1695 — T-1202's acceptance asks D4-D7 dwellings to fall in SIZE southward an
 T-1696 — Carry the plat's seven north-south columns from local N -400 to Madison: the terrain no longer blocks them (T-0219 reached N -3800, and all 24 boundary points of the Washington-Madison tier are on modelled ground), but thompson_lots.json holds no blk_washington_ block, so the last tier has no committed geometry and no roof can stand there
 T-1698 — Desktop part 1 is red on dev on four fence, pen and dooryard visibility checks, and the smoke record still says PASS
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
+T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
