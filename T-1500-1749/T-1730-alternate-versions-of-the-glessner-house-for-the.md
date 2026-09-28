@@ -12,7 +12,7 @@ opened: 2026-09-28
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-1729
+blocked_on: T-1732
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -58,3 +58,9 @@ The default (T-1729's build) is the same URL without `&version=`.
    his dispatch of the promote workflow.
 
 Blocked on **T-1729** (the default to compare against) and **T-1727** (the version mechanism).
+
+**Repointed 2026-09-28:** T-1729 was split into T-1731 (the exterior specification) and T-1732
+(place and bake the default version). The default this ticket compares against is **T-1732**'s
+build, so `blocked_on` now names T-1732; each alternate version may read T-1731's spec as part of
+the shared source set but must not copy T-1732's geometry.
+
