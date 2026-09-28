@@ -1,7 +1,7 @@
 ---
 id: T-1203
 title: Build the South Division's outer ground to its seats: the Fort Dearborn Addition and Michigan Street tract dwellings, the Clark–State cottages south of Washington where the ground allows, the packing and slaughter yards on the South Branch, the country places outside the plat
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/27/2026, 9:30:06 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36369654404
+claimed_at: 2026-09-28T02:30:06.241Z
+decision: null
+decision_answer: null
 ---
 
 Fourth build ticket, same contract as T-1200. The ground: the Michigan Street tract's
