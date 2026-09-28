@@ -1,7 +1,7 @@
 ---
 id: T-1597
 title: The re-family rule has reached its fixpoint with 395 of the 523 held people still held in 44 refused buckets: the order book's programme step needs a live owner for them, and the owner's ruling of 2026-09-24 that they are re-familied and never retired needs somewhere to land
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-28
 pr: 150
 claimed_by: run 9/28/2026, 12:25:54 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T06:44:02Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36381686962
 claimed_at: 2026-09-28T05:25:55.006Z
 decision: answered
