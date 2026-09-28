@@ -1,7 +1,7 @@
 ---
 id: T-1591
 title: The 79 INFRASTRUCTURE readings in the Chicago Democrat and the Chicago American: the river works, the fort's supply and the ordinances' town geography, each one asserted, limited or refused
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1586
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 140
 claimed_by: run 9/27/2026, 6:34:35 PM CT
 blocked_on: null
 needs_bake: false
