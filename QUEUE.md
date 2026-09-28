@@ -114,7 +114,6 @@ T-1215 — Converge the reconstructed town: every person housed, every business 
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
-T-1256 — Support bounded choices, inventory and alternate jaunt endings
 T-1257 — Connect jaunt stops and travel to optional historical context
 T-1258 — Collect era-themed keepsakes in a five-family Chicago daybook
 T-1259 — Finish the scalable Jaunts Menu and integrated start experience

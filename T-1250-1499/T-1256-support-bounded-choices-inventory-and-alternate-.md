@@ -1,7 +1,7 @@
 ---
 id: T-1256
 title: Support bounded choices, inventory and alternate jaunt endings
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-28
 pr: 174
 claimed_by: run 9/28/2026, 8:08:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T21:37:48Z
 claimed_run: null
 claimed_at: 2026-09-28T13:08:53.417Z
 decision: null
