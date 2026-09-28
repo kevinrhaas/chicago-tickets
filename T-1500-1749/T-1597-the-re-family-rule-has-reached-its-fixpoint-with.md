@@ -1,7 +1,7 @@
 ---
 id: T-1597
 title: The re-family rule has reached its fixpoint with 395 of the 523 held people still held in 44 refused buckets: the order book's programme step needs a live owner for them, and the owner's ruling of 2026-09-24 that they are re-familied and never retired needs somewhere to land
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 150
 claimed_by: run 9/28/2026, 12:25:54 AM CT
 blocked_on: null
 needs_bake: false
