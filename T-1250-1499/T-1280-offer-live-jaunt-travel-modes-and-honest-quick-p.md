@@ -1,7 +1,7 @@
 ---
 id: T-1280
 title: Offer live jaunt travel modes and honest quick-play estimates
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 148
 claimed_by: run 9/27/2026, 9:31:00 PM CT
 blocked_on: null
 needs_bake: false
