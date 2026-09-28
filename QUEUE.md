@@ -91,7 +91,6 @@ T-1707 — Carry the Original Town's seven south columns from their terrain clip
 T-1708 — Build the Clark-State tier south of Washington to its seats: the cottages and yard buildings the South balance deals to the plat's last tier, on the blocks the street carry emitted
 T-1716 — The river mouth: the lighthouse keeper's dwelling ruled and the pier-works yard raised or refused on what the two pier dossiers allow
 T-1717 — The north bank east end and the district's books closed: the Lake House's neighbours, the frame budget measured, the headroom stated
-T-1205 — Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
 T-1206 — Build Kinzie's Addition and the north tier to their seats: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush–Pine fringe, the open ground left honestly open
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
