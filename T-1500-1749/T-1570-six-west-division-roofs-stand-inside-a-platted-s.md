@@ -1,7 +1,7 @@
 ---
 id: T-1570
 title: Six West Division roofs stand inside a platted street corridor the corridor gate cannot see: two in Jefferson, two in Fulton, two in Des Plaines, west_046 12.08 m in
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 159
 claimed_by: run 9/28/2026, 7:53:40 AM CT
 blocked_on: null
 needs_bake: false
