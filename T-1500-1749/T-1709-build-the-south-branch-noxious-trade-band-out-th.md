@@ -1,7 +1,7 @@
 ---
 id: T-1709
 title: Build the South Branch noxious-trade band out: the work bays, cooperage and tannery yards, stables and sheds the four documented packing and slaughter places imply, on the unplatted branch frontage no parcel line draws
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1203
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 12:02:38 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36379922848
+claimed_at: 2026-09-28T05:02:38.504Z
 decision: null
 decision_answer: null
 ---
