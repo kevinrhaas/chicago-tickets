@@ -1,7 +1,7 @@
 ---
 id: T-1739
 title: Write data/scenes/1904.json on e1871_postfire and land /4d/1904/ at Prairie and 18th facing the Glessner lot, with the glessner_house anchor and a smoke assertion at 390x780 and 1280x800
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1252
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 175
 claimed_by: run 9/28/2026, 2:18:33 PM CT
 blocked_on: null
 needs_bake: false
