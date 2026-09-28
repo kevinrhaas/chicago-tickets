@@ -1,7 +1,7 @@
 ---
 id: T-1206
 title: Build Kinzie's Addition and the north tier to their seats: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush–Pine fringe, the open ground left honestly open
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 2:31:22 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36472333670
+claimed_at: 2026-09-28T19:31:22.917Z
+decision: null
+decision_answer: null
 ---
 
 Seventh build ticket, same contract as T-1200, on the extended ground (T-1193)
