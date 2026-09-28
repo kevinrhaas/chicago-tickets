@@ -290,6 +290,7 @@ T-1701 — T-1698's four fence reds are five, and the fifth is at mobile: the fr
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
 T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
 T-1702 — The town's southern land approach is missing from the street layer: the located State road from Vincennes over Hubbard's Trail reaches the modelled ground and no corridor carries it
+T-1703 — The 13 remaining INFRASTRUCTURE readings defer to T-1586, whose whole chain has closed: dev's gate is red on all of them until they are repointed at a live ticket
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
