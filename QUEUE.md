@@ -94,7 +94,6 @@ T-1206 — Build Kinzie's Addition and the north tier to their seats: the labour
 T-1722 — Carry the North Division's ground north to N +760: terrain, hydrology, flora and map coverage, the first half of the gate T-1205 and T-1206 both stand behind
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
 T-1479 — Move blk_lake_clinton and blk_randolph_clinton onto the West Division grid: blocks 28 and 45 re-cut in the sheet's own arrangement, with the structures seated on their lots re-seated
-T-1570 — Six West Division roofs stand inside a platted street corridor the corridor gate cannot see: two in Jefferson, two in Fulton, two in Des Plaines, west_046 12.08 m in
 T-1544 — Carry Jefferson Street the last 288 m from Hubbard to Ohio: modern Jefferson does not survive north of Hubbard, so the corporate boundary's west leg wants a sheet and not a node
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-1207 — Build the West Division's Wolf Point and Canal Street approach to their seats: the taverns' yards and stables, the grocery and blacksmith on the approach, the ferry and the bridge heads, the cabins and boarding houses of the forks
