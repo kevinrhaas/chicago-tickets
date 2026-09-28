@@ -1,7 +1,7 @@
 ---
 id: T-1253
 title: Define validated jaunt JSON and render a real pilot preview
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-27
 pr: 137
 claimed_by: run 9/27/2026, 4:36:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T02:54:40Z
 claimed_run: null
 claimed_at: 2026-09-27T21:36:06.540Z
 decision: null

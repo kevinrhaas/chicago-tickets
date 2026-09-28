@@ -120,7 +120,6 @@ T-1215 — Converge the reconstructed town: every person housed, every business 
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
-T-1253 — Define validated jaunt JSON and render a real pilot preview
 T-1279 — Make the pilot jaunt playable with persistent stop navigation
 T-1280 — Offer live jaunt travel modes and honest quick-play estimates
 T-1256 — Support bounded choices, inventory and alternate jaunt endings
