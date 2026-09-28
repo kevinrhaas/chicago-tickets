@@ -1,7 +1,7 @@
 ---
 id: T-1592
 title: The 13 INFRASTRUCTURE readings in the books, directories and civic corpora: Hubbard's river and portage works, Fergus, Andreas and Norris, each one asserted, limited or refused
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1586
 opened: 2026-09-25
 closed: null
-pr: null
+pr: 141
 claimed_by: run 9/27/2026, 6:59:32 PM CT
 blocked_on: null
 needs_bake: false
