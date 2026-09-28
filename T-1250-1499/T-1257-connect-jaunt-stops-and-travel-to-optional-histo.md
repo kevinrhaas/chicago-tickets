@@ -1,7 +1,7 @@
 ---
 id: T-1257
 title: Connect jaunt stops and travel to optional historical context
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 5:32:53 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-28T22:32:53.228Z
+decision: null
+decision_answer: null
 ---
 
 **Deeper history one tap away, and the road between stops made interesting.** The owner: *"Links into the project's existing deeper information cards so users who want more history can explore it without slowing down the basic jaunt"* and *"make the jaunt interesting with mentioning sites along the way or providing the user more historical context of the story of when you left and when you are getting to the next scene stop."* Two mechanisms: typed card links on every stop, and route-aware leg notes that name what the visitor actually passes.
