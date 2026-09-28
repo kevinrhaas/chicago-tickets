@@ -1,7 +1,7 @@
 ---
 id: T-1722
 title: Carry the North Division's ground north to N +760: terrain, hydrology, flora and map coverage, the first half of the gate T-1205 and T-1206 both stand behind
-state: open
+state: claimed
 epic: TOWN
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 9:18:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36434576939
+claimed_at: 2026-09-28T14:18:29.002Z
 decision: null
 decision_answer: null
 ---
