@@ -289,6 +289,7 @@ T-1693 — dev's frontage census is one refusal out: the walk layer refuses 109 
 T-1695 — T-1202's acceptance asks D4-D7 dwellings to fall in SIZE southward and the programme has no size-by-latitude term: the authored policy grades density, the D4-D7 mean footprint rises 53.0 to 55.2 to 59.0 m2 going south, and the clause should be corrected rather than chased
 T-1696 — Carry the plat's seven north-south columns from local N -400 to Madison: the terrain no longer blocks them (T-0219 reached N -3800, and all 24 boundary points of the Washington-Madison tier are on modelled ground), but thompson_lots.json holds no blk_washington_ block, so the last tier has no committed geometry and no roof can stand there
 T-1698 — Desktop part 1 is red on dev on four fence, pen and dooryard visibility checks, and the smoke record still says PASS
+T-1701 — T-1698's four fence reds are five, and the fifth is at mobile: the frontage layer's walks and posts fail with its own problem list reading [none]
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
 T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
