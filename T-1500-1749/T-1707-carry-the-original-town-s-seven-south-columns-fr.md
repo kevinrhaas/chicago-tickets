@@ -1,7 +1,7 @@
 ---
 id: T-1707
 title: Carry the Original Town's seven south columns from their terrain clip at N -400 to Madison Street, the plat's own south boundary, and emit the plat's last tier: street control on ground T-0219 already modelled, which is the one thing south_plat_beyond_committed_control's 104 roofs still wait on
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1203
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 154
 claimed_by: run 9/28/2026, 1:49:48 AM CT
 blocked_on: null
 needs_bake: false
