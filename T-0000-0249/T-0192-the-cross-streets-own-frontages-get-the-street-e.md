@@ -82,3 +82,36 @@ superseded by this one.
 **Links:** T-0127 (parent) · T-0190 (Randolph, built and measured and taken back out) ·
 T-0193 (the West Division block, blocked on the same rung) · T-0237 (the headroom) ·
 T-0135 (the stands) · T-0223 · T-0146 · T-0209.
+
+## IT NOW COSTS SOMETHING STANDING, NOT JUST SOMETHING MISSING (T-1734, 2026-09-28)
+
+Until this week the gap this ticket records was a gap in coverage: the seven cross streets
+have no walk, no fence and no hitching post, and nothing that HAD one lost it. That is no
+longer true, and the reason is a ruling somewhere else entirely.
+
+T-1479 ruled that a cell of the Original Town's grid standing on West Division ground is
+cut on the DIVISION's module — two columns of five backing onto a north-south alley. T-1733
+cut `blk_lake_clinton` that way and T-1734 cut `blk_randolph_clinton`. Both blocks' lots now
+front Clinton and Canal, which are north-south, so **this generator cannot reach a single lot
+on either of them**: `EDGE_CROSS_STREETS` is empty for the frame budget measured above, and
+`_edge_faces` matches a lot to a face by `lot["tier"] == face`.
+
+**Measured on T-1734's own diff:** `blk_randolph_clinton` lost 3 street-lining board fence
+runs, 176.2 m, and the town's `fence_m` fell 1,606.1 → 1,429.9. Those fences stood in front
+of four invented cottages that had fronted Randolph and Washington; the cottages did not
+move off the block and did not change, they turned ninety degrees to face the streets the
+plat gives them, and the fence-laying does not follow. `blk_lake_clinton` never had any,
+having carried no dealt parcel when T-1733 cut it.
+
+**What was done about it, so nobody re-discovers it:** the silence is now a counted
+assertion. `tools/test_frontage_faces.py` used to assert `no platted lot fronts a cross
+street`, which was a true statement about the Original Town's module and is not one about
+the grid this project now cuts. It asserts instead that every lot fronts a face its own
+block is bounded by, and that the blocks whose lots front a face nothing lays are NAMED —
+`blk_randolph_clinton` today. A third transposed cell arriving makes that check red until
+somebody either adds it and says so or covers the street.
+
+**What this changes about the ticket:** nothing about the block. The frame budget is still
+the whole of it. But the trade is no longer "seven streets gain frontage works"; it is also
+"two blocks' worth of fence and walk stops being absent from ground that had it", and that
+is a stronger case for the headroom work than the one written above.
