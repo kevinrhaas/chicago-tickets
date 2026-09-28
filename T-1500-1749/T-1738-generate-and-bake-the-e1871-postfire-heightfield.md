@@ -1,7 +1,7 @@
 ---
 id: T-1738
 title: Generate and bake the e1871_postfire heightfield and its ground and water GLBs over the Prairie Avenue reach, wired into the terrain gates
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1252
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 173
 claimed_by: run 9/28/2026, 1:18:10 PM CT
 blocked_on: null
 needs_bake: false
