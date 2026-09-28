@@ -1,7 +1,7 @@
 ---
 id: T-1587
 title: Spend the 19 unasserted STREET readings: the trails, roads and street lines the papers, Hubbard and Norris name that reach no corridor in the street layer, each one asserted onto the corridor it names, limited to the division it reaches, or refused in writing
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-09-27
 pr: 144
 claimed_by: run 9/27/2026, 7:23:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T03:59:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36361854651
 claimed_at: 2026-09-28T00:23:52.091Z
 decision: null
