@@ -1,7 +1,7 @@
 ---
 id: T-1717
 title: The north bank east end and the district's books closed: the Lake House's neighbours, the frame budget measured, the headroom stated
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1204
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 161
 claimed_by: run 9/28/2026, 7:43:23 AM CT
 blocked_on: null
 needs_bake: false
