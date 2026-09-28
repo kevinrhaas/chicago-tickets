@@ -1,7 +1,7 @@
 ---
 id: T-1718
 title: The survey-tract gate compares a 2-decimal round of a reprojected coordinate for exact equality, and T-1707 moved the Original Town's east bound onto the knife edge: 825.045 rounds to 825.05 on the steward runner and 825.04 in CI, so no machine can commit a green tract layer
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: misfiled: filed --after T-1707 without --blocks, so it went to the foot of band 9 where a merge-blocker is never reached. Re-filed identically as T-1719, directly under T-1707, with the blocking reason stated. No work was done under this id.
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T08:41:38.700Z
 claimed_run: null
 claimed_at: null
 decision: null
