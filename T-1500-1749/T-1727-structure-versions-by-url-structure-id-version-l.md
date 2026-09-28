@@ -1,7 +1,7 @@
 ---
 id: T-1727
 title: Structure versions by URL: ?structure=<id>&version=<label> loads one committed alternate of one structure, so competing builds of the same house can be compared side by side on dev
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: 168
 claimed_by: run 9/28/2026, 9:56:42 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T18:42:48Z
 claimed_run: null
 claimed_at: 2026-09-28T14:56:42.415Z
 decision: null

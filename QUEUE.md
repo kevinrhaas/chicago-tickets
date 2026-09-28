@@ -139,7 +139,6 @@ T-1272 — Verify arrival, jaunts and source browsing on the published mobile ap
 T-1251 — The e1871_postfire terrain spec: the graded, filled and raised South Side ground as an authored zone table
 T-1738 — Generate and bake the e1871_postfire heightfield and its ground and water GLBs over the Prairie Avenue reach, wired into the terrain gates
 T-1739 — Write data/scenes/1904.json on e1871_postfire and land /4d/1904/ at Prairie and 18th facing the Glessner lot, with the glessner_house anchor and a smoke assertion at 390x780 and 1280x800
-T-1727 — Structure versions by URL: ?structure=<id>&version=<label> loads one committed alternate of one structure, so competing builds of the same house can be compared side by side on dev
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
 T-1732 — Place and bake the Glessner House on the T-0474 parcel and T-1252 ground as the default version, from the T-1729 exterior specification
