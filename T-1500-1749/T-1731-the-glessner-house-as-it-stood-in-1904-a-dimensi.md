@@ -1,7 +1,7 @@
 ---
 id: T-1731
 title: The Glessner House as it stood in 1904: a dimensioned, sourced exterior specification from HABS IL-1015, Sanborn 1911 sheet 28 and the Prairie library dossier
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-1729
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 9:57:49 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-28T14:57:49.477Z
 decision: null
 decision_answer: null
 ---
