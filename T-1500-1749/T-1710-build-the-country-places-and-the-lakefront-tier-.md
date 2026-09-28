@@ -1,7 +1,7 @@
 ---
 id: T-1710
 title: Build the country places and the lakefront tier to their seats: the Harmon and Beaubien country seats' reconstructed neighbours and the Fort Dearborn Addition dwellings the no-build ground allows, and the district's books closed
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1203
 opened: 2026-09-27
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: run 9/28/2026, 12:28:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T05:34:33.171Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36381749987
 claimed_at: 2026-09-28T05:28:23.841Z
 decision: null
