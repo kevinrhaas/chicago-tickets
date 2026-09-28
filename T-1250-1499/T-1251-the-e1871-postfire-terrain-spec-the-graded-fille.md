@@ -1,7 +1,7 @@
 ---
 id: T-1251
 title: The e1871_postfire terrain spec: the graded, filled and raised South Side ground as an authored zone table
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-0473
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 170
 claimed_by: run 9/28/2026, 12:20:14 PM CT
 blocked_on: null
 needs_bake: false
