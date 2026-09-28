@@ -1,7 +1,7 @@
 ---
 id: T-1250
 title: Trace the Illinois Central lake edge for the 1904 Prairie Avenue scene and fill shore_1880s_ic_edge, from the Sanborn 1911 sheets and the Robinson 1886 plate
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,11 +11,14 @@ parent: T-0473
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 10:22:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-28T15:22:47.983Z
+decision: null
+decision_answer: null
 ---
 
 Trace the 1880s Illinois Central lake edge and fill shore_1880s_ic_edge from a sourced period sheet.
