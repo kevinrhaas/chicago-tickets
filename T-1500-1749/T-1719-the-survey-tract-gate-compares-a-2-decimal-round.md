@@ -1,7 +1,7 @@
 ---
 id: T-1719
 title: The survey-tract gate compares a 2-decimal round of a reprojected coordinate for exact equality, and T-1707 moved the Original Town's east bound onto the knife edge: 825.045 rounds to 825.05 on the steward runner and 825.04 in CI, so no machine can commit a green tract layer
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: 156
 claimed_by: run 9/28/2026, 5:12:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T11:24:04Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36407976777
 claimed_at: 2026-09-28T10:12:33.396Z
 decision: null
