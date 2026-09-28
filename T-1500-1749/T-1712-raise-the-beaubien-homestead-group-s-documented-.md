@@ -1,7 +1,7 @@
 ---
 id: T-1712
 title: Raise the Beaubien homestead group's documented out-buildings and garden at the foot of Michigan Avenue: the 1839 reservation sale names a house, out-buildings PLURAL and a garden on lots 6-10, and the town stands one house and one barn
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1710
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 12:34:39 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36381749987
+claimed_at: 2026-09-28T05:34:39.504Z
 decision: null
 decision_answer: null
 ---
