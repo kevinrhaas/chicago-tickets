@@ -135,7 +135,6 @@ T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
-T-1739 — Write data/scenes/1904.json on e1871_postfire and land /4d/1904/ at Prairie and 18th facing the Glessner lot, with the glessner_house anchor and a smoke assertion at 390x780 and 1280x800
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
 T-1732 — Place and bake the Glessner House on the T-0474 parcel and T-1252 ground as the default version, from the T-1729 exterior specification
