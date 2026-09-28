@@ -142,7 +142,6 @@ T-1252 — Generate and bake the e1871_postfire heightfield over the Prairie Ave
 T-1727 — Structure versions by URL: ?structure=<id>&version=<label> loads one committed alternate of one structure, so competing builds of the same house can be compared side by side on dev
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
-T-1731 — The Glessner House as it stood in 1904: a dimensioned, sourced exterior specification from HABS IL-1015, Sanborn 1911 sheet 28 and the Prairie library dossier
 T-1732 — Place and bake the Glessner House on the T-0474 parcel and T-1252 ground as the default version, from the T-1729 exterior specification
 T-1730 — Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version
 T-0475 — Build the 1904 Prairie Avenue landmark mansion core
