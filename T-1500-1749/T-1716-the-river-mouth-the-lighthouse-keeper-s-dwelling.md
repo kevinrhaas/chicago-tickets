@@ -1,7 +1,7 @@
 ---
 id: T-1716
 title: The river mouth: the lighthouse keeper's dwelling ruled and the pier-works yard raised or refused on what the two pier dossiers allow
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1204
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 6:03:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36410720874
+claimed_at: 2026-09-28T11:03:02.891Z
 decision: null
 decision_answer: null
 ---
