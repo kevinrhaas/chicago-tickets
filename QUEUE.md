@@ -90,7 +90,6 @@ T-1566 — The staffing mint's payment never prices the DIVISION axis: a north l
 T-1707 — Carry the Original Town's seven south columns from their terrain clip at N -400 to Madison Street, the plat's own south boundary, and emit the plat's last tier: street control on ground T-0219 already modelled, which is the one thing south_plat_beyond_committed_control's 104 roofs still wait on
 T-1719 — The survey-tract gate compares a 2-decimal round of a reprojected coordinate for exact equality, and T-1707 moved the Original Town's east bound onto the knife edge: 825.045 rounds to 825.05 on the steward runner and 825.04 in CI, so no machine can commit a green tract layer
 T-1708 — Build the Clark-State tier south of Washington to its seats: the cottages and yard buildings the South balance deals to the plat's last tier, on the blocks the street carry emitted
-T-1714 — Raise the Indian Agency's log dwellings at the foot of State Street: the ring Wau-Bun attests and the small log buildings Andreas gives McKee and Caldwell, with the three unseated agency households seated
 T-1715 — Rule the fort's yard: the 1827 inventory's outbuildings against the ten roofs that stand, and the married quarters the barracks carries re-examined against a plan
 T-1716 — The river mouth: the lighthouse keeper's dwelling ruled and the pier-works yard raised or refused on what the two pier dossiers allow
 T-1717 — The north bank east end and the district's books closed: the Lake House's neighbours, the frame budget measured, the headroom stated

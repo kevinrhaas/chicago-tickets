@@ -1,7 +1,7 @@
 ---
 id: T-1714
 title: Raise the Indian Agency's log dwellings at the foot of State Street: the ring Wau-Bun attests and the small log buildings Andreas gives McKee and Caldwell, with the three unseated agency households seated
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1204
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: 153
 claimed_by: run 9/28/2026, 1:00:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T10:30:17Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36383747775
 claimed_at: 2026-09-28T06:00:37.040Z
 decision: null
