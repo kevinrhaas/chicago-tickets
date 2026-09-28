@@ -1,7 +1,7 @@
 ---
 id: T-1256
 title: Support bounded choices, inventory and alternate jaunt endings
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 8:08:20 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-28T13:08:53.417Z
+decision: null
+decision_answer: null
 ---
 
 **Optional mechanics, declared in data, never forced.** The owner: *"Optional inventory, money, time, reputation, information, health, sobriety, cargo or readiness mechanics when they improve that particular jaunt … Alternate outcomes or endings where appropriate … The amount of branching, scoring and decision-making should match the subject rather than being forced into every jaunt."* The schema (T-1253) already carries the shapes; this ticket makes the reducer honour them exactly once, safely, and shows them in the panel only when a jaunt declares them.
