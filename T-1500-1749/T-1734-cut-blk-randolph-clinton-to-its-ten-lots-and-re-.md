@@ -1,7 +1,7 @@
 ---
 id: T-1734
 title: Cut blk_randolph_clinton to its ten lots and re-argue its deal on the transposed grid: block 45's lots front Clinton and Canal and not Randolph and Washington, so the seven dealt roofs are re-placed on the new faces, rebaked, and the parcel's frontage argument re-made
-state: claimed
+state: review
 epic: GROUND
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1479
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 178
 claimed_by: run 9/28/2026, 4:02:57 PM CT
 blocked_on: null
 needs_bake: false
