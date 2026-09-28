@@ -1,7 +1,7 @@
 ---
 id: T-1741
 title: Read the lot lines Wright draws inside Kinzie's Addition and cut the cells he divides to lots: the rule T-1437 withheld, which is the one gate under this district's roofs
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1206
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 176
 claimed_by: run 9/28/2026, 2:38:56 PM CT
 blocked_on: null
 needs_bake: false
