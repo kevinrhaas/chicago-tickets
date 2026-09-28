@@ -134,12 +134,15 @@ T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
 T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
+# --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
 T-1250 — Trace the Illinois Central lake edge for the 1904 Prairie Avenue scene and fill shore_1880s_ic_edge, from the Sanborn 1911 sheets and the Robinson 1886 plate
 T-1251 — The e1871_postfire terrain spec: the graded, filled and raised South Side ground as an authored zone table
 T-1252 — Generate and bake the e1871_postfire heightfield over the Prairie Avenue reach
 T-1727 — Structure versions by URL: ?structure=<id>&version=<label> loads one committed alternate of one structure, so competing builds of the same house can be compared side by side on dev
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
+T-1729 — Build the Glessner House at 1800 Prairie as it stood in 1904: the first researched version, from the HABS drawings, the Sanborn 1911 sheet and the Prairie library's dossier
+T-1730 — Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version
 T-0475 — Build the 1904 Prairie Avenue landmark mansion core
 T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
 T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
@@ -314,5 +317,3 @@ T-1606 — The two research reports embed live ticket state from a separate repo
 T-1644 — The river walk's east end no longer walks far enough west: T-1630's recut south bank leaves the walker at E 811.5 where the check wants past E 802
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
-T-1729 — Build the Glessner House at 1800 Prairie as it stood in 1904: the first researched version, from the HABS drawings, the Sanborn 1911 sheet and the Prairie library's dossier
-T-1730 — Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version

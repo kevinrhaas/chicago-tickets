@@ -53,3 +53,18 @@ The owner, working with Glessner House, set **1904** as the year of the Prairie 
 **Sources, committed at `chicago/reference/prairie-avenue/sanborn-1911-and-robinson-1886/`** (read its README first): the Sanborn **1911** Chicago vol. 3 **key** and **sheets 20, 28 and 35** (E. 16th to E. 22nd St., Indiana Av. to the IC tracks and Lake Michigan), and **Robinson's 1886 atlas, plate 10** (16th to 18th St.). Glessner House's reading is that on these sheets only two things changed between 1904 and 1911: **1609–1611 Prairie** (two rowhouses in 1904, a commercial building by 1911) and **1620 Prairie** (a house in 1904, an empty lot by 1911). For both, the 1886 Robinson outlines stand in. Each ticket that spends a sheet writes its own `data/sources/*.json` record, in the house format, before citing it.
 
 **For this ticket:** the Sanborn 1911 sheets 20 and 28 draw the Illinois Central / Michigan Central right-of-way and the lake edge along exactly this reach. That answers "no sheet has been identified yet" for 16th–20th St. A 1911 sheet **bounds** a 1904 edge from after and Robinson 1886 bounds it from before, the rule already written above. Trace the edge the **1904** scene stands on.
+
+## Owner, 2026-09-28: the Prairie Avenue 1904 research library is a source here
+
+The research library committed with T-1633 (#82), **`chicago/prairie_1904_v1/`**, can be browsed at
+**https://chicago.polecat.live/prairie-1904/viewer/** (dev mirror `/4d/dev/prairie-1904/viewer/`).
+Read its `README.md` and `docs/research-gaps.md` before starting. It holds `data/buildings.csv`,
+`building_events.csv`, `assertions.csv`, `sources.csv`, `map_frontages.csv` (1911 frontage
+readings, 91 of them still tentative), `measurements.csv` and `address_crosswalk.csv`; the five
+original map JPEGs with checksums under `maps/originals/`; and dossiers under `research/`
+(`glessner-dossier.json`, `glessner-chronology-supplement.json`, `civic-dossier.json`,
+`dimensional-claims.json`, `map-inventory.json`). It **supports** this ticket and does not close
+its acceptance. A tentative reading stays tentative until this ticket resolves it against the
+sheets, and every value taken from the library cites the library row or dossier entry it came from.
+
+**For this ticket:** `research/map-inventory.json` catalogues the held sheets; research-gaps items **5** (Illinois Central shore works) and **7** (georeference with a published control-point residual report before tracing) are this ticket's.
