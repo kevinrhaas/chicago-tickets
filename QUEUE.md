@@ -83,7 +83,6 @@
 # Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
 # Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
 # --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-T-1686 — The Randolph-Washington tier's merchant and professional seats stand as H1/H2 houses and not cottages: the centre-hall, hip and Greek-doorway variants the crosswalk requires, raised and baked
 T-1688 — The Randolph tier's books closed: the dwellings falling southward to the modelled edge at Washington, the generator refusals resolved, reconcile_665 at capacity or its headroom stated, and the frame budget measured
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or

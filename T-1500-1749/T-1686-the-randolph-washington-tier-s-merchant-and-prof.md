@@ -1,7 +1,7 @@
 ---
 id: T-1686
 title: The Randolph-Washington tier's merchant and professional seats stand as H1/H2 houses and not cottages: the centre-hall, hip and Greek-doorway variants the crosswalk requires, raised and baked
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1202
 opened: 2026-09-27
-closed: null
+closed: 2026-09-27
 pr: 139
 claimed_by: run 9/27/2026, 6:08:14 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T00:18:14Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36357497874
 claimed_at: 2026-09-27T23:08:14.031Z
 decision: null
