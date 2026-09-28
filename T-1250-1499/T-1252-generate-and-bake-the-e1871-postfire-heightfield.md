@@ -1,7 +1,7 @@
 ---
 id: T-1252
 title: Generate and bake the e1871_postfire heightfield over the Prairie Avenue reach
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0473
 opened: 2026-09-17
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: run 9/28/2026, 1:04:43 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T18:17:06.242Z
 claimed_run: null
 claimed_at: 2026-09-28T18:04:43.827Z
 decision: null

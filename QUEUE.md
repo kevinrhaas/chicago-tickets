@@ -138,7 +138,8 @@ T-1272 — Verify arrival, jaunts and source browsing on the published mobile ap
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
 T-1251 — The e1871_postfire terrain spec: the graded, filled and raised South Side ground as an authored zone table
-T-1252 — Generate and bake the e1871_postfire heightfield over the Prairie Avenue reach
+T-1738 — Generate and bake the e1871_postfire heightfield and its ground and water GLBs over the Prairie Avenue reach, wired into the terrain gates
+T-1739 — Write data/scenes/1904.json on e1871_postfire and land /4d/1904/ at Prairie and 18th facing the Glessner lot, with the glessner_house anchor and a smoke assertion at 390x780 and 1280x800
 T-1727 — Structure versions by URL: ?structure=<id>&version=<label> loads one committed alternate of one structure, so competing builds of the same house can be compared side by side on dev
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
 T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
