@@ -288,6 +288,7 @@ T-1705 — Two tools still hand work to T-1202, which closed with T-1688 and is 
 T-1706 — The walk backend never attaches on a mobile viewport: dev is red on five of part 4's checks — walk intent moves the camera 0.00 m with 'backend none', touch activates nothing, the thumbstick writes forward 0, and a right-half drag turns 180 degrees
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-1720 — The derived manifest has two undeclared rebuild lags a merged tree walks straight into: location_spend reads a reconciliation four steps below it, and the three seating passes hand a row count along outside the sequence entirely
+T-1721 — Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
