@@ -1,7 +1,7 @@
 ---
 id: T-1734
 title: Cut blk_randolph_clinton to its ten lots and re-argue its deal on the transposed grid: block 45's lots front Clinton and Canal and not Randolph and Washington, so the seven dealt roofs are re-placed on the new faces, rebaked, and the parcel's frontage argument re-made
-state: open
+state: claimed
 epic: GROUND
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1479
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 4:02:57 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36483048686
+claimed_at: 2026-09-28T21:02:57.670Z
 decision: null
 decision_answer: null
 ---
