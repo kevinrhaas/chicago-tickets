@@ -1,7 +1,7 @@
 ---
 id: T-1713
 title: Close the South Division's outer books: the country seats off the modelled ground, the Fort Dearborn Addition refused on the unplatted reservation, the lakefront tier's zero-width strip at State Street, and the district's headroom stated
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1710
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 3:51:22 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36399426429
+claimed_at: 2026-09-28T08:51:22.975Z
 decision: null
 decision_answer: null
 ---
