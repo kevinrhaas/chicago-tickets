@@ -1,7 +1,7 @@
 ---
 id: T-1566
 title: The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 12:54:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36383747775
+claimed_at: 2026-09-28T05:54:57.917Z
 decision: null
 decision_answer: null
 ---
