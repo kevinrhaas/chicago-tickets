@@ -1,7 +1,7 @@
 ---
 id: T-1722
 title: Carry the North Division's ground north to N +760: terrain, hydrology, flora and map coverage, the first half of the gate T-1205 and T-1206 both stand behind
-state: claimed
+state: review
 epic: TOWN
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 162
 claimed_by: run 9/28/2026, 9:18:28 AM CT
 blocked_on: null
 needs_bake: false
