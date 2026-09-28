@@ -1,7 +1,7 @@
 ---
 id: T-1204
 title: Build the fort reach and the lakefront to their seats: the sutler's, the garrison's outbuildings and the Agency establishment as the dossiers allow, the lighthouse keeper's, the pier-works yard at the river mouth, the Lake House's neighbours on the north bank east end
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: run 9/28/2026, 12:57:17 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-09-28T06:00:30.497Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36383747775
 claimed_at: 2026-09-28T05:57:17.549Z
 decision: null
