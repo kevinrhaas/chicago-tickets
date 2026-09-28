@@ -1,7 +1,7 @@
 ---
 id: T-1715
 title: Rule the fort's yard: the 1827 inventory's outbuildings against the ten roofs that stand, and the married quarters the barracks carries re-examined against a plan
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1204
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 157
 claimed_by: run 9/28/2026, 5:35:25 AM CT
 blocked_on: null
 needs_bake: false
