@@ -55,3 +55,39 @@ name, a trade, a family and a reason behind it — or an honest empty.
 
 **Links:** every ticket in this band · T-1179 · T-1190 · T-1154 · T-1156 ·
 `data/town_census.json`.
+
+## Two findings from T-1713, the South Division's outer books (2026-09-28)
+
+Added here rather than filed, on QUEUE.md's own rule — *"add a finding to the ticket it was
+found in"*, and the queue stands at its ceiling. Both are convergence items: each is a
+ground or a record that closes wrongly and would close a district's books on a false
+number if it were not written down. The measurements are in
+`data/render/south_outer_close_out.json`.
+
+**1. `harmon_log_cabin` is seated inside the plat and its position note describes somewhere
+else.** The record stands on `blk_randolph_franklin#02` — plat lot 3, fronting Randolph, a
+platted lot of the Original Town, and the lot ledger records that it bars another roof
+there. Its own `position_note` says it "sits in the South Division outer band", which is
+not where it is, and that Harmon's pre-empted ground is "two kilometres south of the
+modelled ground". Measured: Sixteenth Street at Prairie — the line his record names as that
+ground's north boundary — stands at local **N -2949.59** and the box's south wall is at
+**N -3800.0**, so that line has been **850.4 m INSIDE** the modelled ground since T-0464
+carried the wall to Twenty-Second Street. The cabin stands **2 677.6 m north** of it. The
+same stale sentence is carried in three committed files:
+`data/structures/harmon_log_cabin.json`, `data/sidecars/1835/harmon_log_cabin.json` and
+`data/reconstruction/1835_inferred_household_programme.json`. **T-1713 deliberately did not
+move the record**: nothing in this corpus states LAND south of Twelfth Street (`evidence_limit`
+writes every vertex below N -2149.40 conjectural, and the terrain spec calls the 1650 m
+below it frame and not reconstruction), so re-seating him there trades an invention on
+modelled ground for an invention on conjectural ground. What is owed is either a re-seating
+argued on that trade or a note that says what is true.
+
+**2. The Michigan Street tract is named by T-1203's ground list and carried by none of its
+four pieces.** T-1203's body lists "the Michigan Street tract's five seated blocks" first
+among the four grounds of the South Division's outer band. The other three are the titles of
+T-1707/T-1708, T-1709 and T-1710; this one is in no piece's title. And
+`docs/RESEARCH/michigan_st_tract.md` is titled *"The Michigan St tract north of Kinzie
+Street"* and reads it off Wright's 1834 survey immediately north of Kinzie and east of the
+North Branch — the **North** Division. So either the parent's ground list names a tract that
+is not in its district, or a ground of this district has fallen between two tickets. T-1713
+recorded it and adjudicated neither.
