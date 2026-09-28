@@ -88,6 +88,7 @@
 # --- settle accounting; none of them decides where a South Division building stands.
 T-1566 — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
 T-1707 — Carry the Original Town's seven south columns from their terrain clip at N -400 to Madison Street, the plat's own south boundary, and emit the plat's last tier: street control on ground T-0219 already modelled, which is the one thing south_plat_beyond_committed_control's 104 roofs still wait on
+T-1719 — The survey-tract gate compares a 2-decimal round of a reprojected coordinate for exact equality, and T-1707 moved the Original Town's east bound onto the knife edge: 825.045 rounds to 825.05 on the steward runner and 825.04 in CI, so no machine can commit a green tract layer
 T-1708 — Build the Clark-State tier south of Washington to its seats: the cottages and yard buildings the South balance deals to the plat's last tier, on the blocks the street carry emitted
 T-1709 — Build the South Branch noxious-trade band out: the work bays, cooperage and tannery yards, stables and sheds the four documented packing and slaughter places imply, on the unplatted branch frontage no parcel line draws
 T-1713 — Close the South Division's outer books: the country seats off the modelled ground, the Fort Dearborn Addition refused on the unplatted reservation, the lakefront tier's zero-width strip at State Street, and the district's headroom stated
