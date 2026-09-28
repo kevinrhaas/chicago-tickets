@@ -1,7 +1,7 @@
 ---
 id: T-1566
 title: The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
-state: claimed
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-25
 closed: null
 pr: null
-claimed_by: run 9/28/2026, 12:54:57 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36383747775
-claimed_at: 2026-09-28T05:54:57.917Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -65,3 +65,11 @@ and until those stand this axis prices a payment nobody can spend.
   That is a finding for whoever takes this: the axis cannot be priced for them, and
   "unplaceable" may be the wrong word for "elsewhere".
 
+## STEPPED OVER AGAIN, 2026-09-28 — the 2026-09-25 reading re-confirmed, one call spent
+
+A second run claimed this, re-read the note above, and released it in the same minute.
+The note is still exactly right and nothing about the repo has changed to make it wrong:
+`the_owner_s_ruling.mintable_today` is still 0, and the axis still prices a payment
+nobody can spend. **Do not claim this to check whether it is still true — the answer is
+in this file.** It becomes workable the run T-1209 raises the lodging roofs, and it
+should ride along with that parcel rather than open a PR of its own.
