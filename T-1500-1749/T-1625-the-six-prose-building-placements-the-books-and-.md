@@ -1,7 +1,7 @@
 ---
 id: T-1625
 title: The six prose building placements the books and Norris give by corner, cross street and neighbour: the First Baptist meeting house, Hamilton's own house, Mark Beaubien's frame building by Noble's, Tippecanoe Hall, the Dearborn and South Water log building with the block 14 building, and Owings's house south of the Fur Company's — each carried forward to 1835-07-01 or refused
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-09-28
 pr: 147
 claimed_by: run 9/27/2026, 8:56:10 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T05:22:29Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36367507889
 claimed_at: 2026-09-28T01:56:10.246Z
 decision: null

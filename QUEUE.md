@@ -86,7 +86,6 @@
 # --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
-T-1625 — The six prose building placements the books and Norris give by corner, cross street and neighbour: the First Baptist meeting house, Hamilton's own house, Mark Beaubien's frame building by Noble's, Tippecanoe Hall, the Dearborn and South Water log building with the block 14 building, and Owings's house south of the Fur Company's — each carried forward to 1835-07-01 or refused
 T-1566 — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
 T-1597 — The re-family rule has reached its fixpoint with 395 of the 523 held people still held in 44 refused buckets: the order book's programme step needs a live owner for them, and the owner's ruling of 2026-09-24 that they are re-familied and never retired needs somewhere to land
 T-1707 — Carry the Original Town's seven south columns from their terrain clip at N -400 to Madison Street, the plat's own south boundary, and emit the plat's last tier: street control on ground T-0219 already modelled, which is the one thing south_plat_beyond_committed_control's 104 roofs still wait on
