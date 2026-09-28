@@ -91,7 +91,8 @@ T-1708 — Build the Clark-State tier south of Washington to its seats: the cott
 T-1735 — Build the La Salle block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_lasalle
 T-1736 — Build the Clark block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_clark
 T-1717 — The north bank east end and the district's books closed: the Lake House's neighbours, the frame budget measured, the headroom stated
-T-1206 — Build Kinzie's Addition and the north tier to their seats: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush–Pine fringe, the open ground left honestly open
+T-1741 — Read the lot lines Wright draws inside Kinzie's Addition and cut the cells he divides to lots: the rule T-1437 withheld, which is the one gate under this district's roofs
+T-1742 — Build Kinzie's Addition and the north tier to their seats on the lots the reading cuts: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush-Pine fringe, the open ground left honestly open
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
 T-1733 — Cut blk_lake_clinton to its ten lots on the West Division arrangement: block 28 transposed at inferred tier on the owner's T-1479 ruling, the pre-plat roofs lapping it re-seated onto the lots they stand nearest, and the rule stated for a block that carries a dealt parcel
 T-1734 — Cut blk_randolph_clinton to its ten lots and re-argue its deal on the transposed grid: block 45's lots front Clinton and Canal and not Randolph and Washington, so the seven dealt roofs are re-placed on the new faces, rebaked, and the parcel's frontage argument re-made
