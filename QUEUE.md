@@ -139,6 +139,7 @@ T-1251 — The e1871_postfire terrain spec: the graded, filled and raised South 
 T-1252 — Generate and bake the e1871_postfire heightfield over the Prairie Avenue reach
 T-1727 — Structure versions by URL: ?structure=<id>&version=<label> loads one committed alternate of one structure, so competing builds of the same house can be compared side by side on dev
 T-0474 — Reconstruct the 1904 Prairie Avenue street, parcel and service grid
+T-1728 — The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
 T-0475 — Build the 1904 Prairie Avenue landmark mansion core
 T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
 T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
