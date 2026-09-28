@@ -1,7 +1,7 @@
 ---
 id: T-1279
 title: Make the pilot jaunt playable with persistent stop navigation
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-28
 pr: 143
 claimed_by: run 9/27/2026, 5:25:03 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-28T09:24:22Z
 claimed_run: null
 claimed_at: 2026-09-27T22:25:03.365Z
 decision: null
