@@ -1,18 +1,24 @@
 ---
 id: T-0474
 title: Reconstruct the 1904 Prairie Avenue street, parcel and service grid
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
 effort: M
 legacy_id: null
+parent: null
 opened: 2026-09-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 5:35:17 PM CT
 blocked_on: T-1252
 needs_bake: true
+closed_at: null
+claimed_run: null
+claimed_at: 2026-09-28T22:35:17.218Z
+decision: null
+decision_answer: null
 ---
 
 Build the urban framework the mansion records must sit on: Prairie, Calumet and Michigan-area streets and the east-west tiers from roughly 16th through 22nd/Cermak, with period widths, sidewalks, alleys, lots, curbs and service access appropriate to the chosen 1880s scene date.
