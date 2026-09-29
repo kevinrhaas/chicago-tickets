@@ -292,6 +292,7 @@ T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivi
 T-1749 — The frontage smoke's fence census has drifted on dev: 28 fence runs where the clause holds 31, and the two checks that read it are red on dev and on every branch
 T-1752 — dev is RED at mobile smoke parts 1-2 and has been since 2026-09-28: the frontage census has drifted a walk, a crossing and two fence runs past the exact counts the suite asserts, and no CI check looks at it
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
+T-1758 — Build the Market block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_market
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
