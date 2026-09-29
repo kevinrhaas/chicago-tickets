@@ -1,7 +1,7 @@
 ---
 id: T-1736
 title: Build the Clark block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_clark
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: 172
 claimed_by: run 9/28/2026, 12:29:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T01:11:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36458113242
 claimed_at: 2026-09-28T17:29:55.162Z
 decision: null
