@@ -1,7 +1,7 @@
 ---
 id: T-1732
 title: Place and bake the Glessner House on the T-0474 parcel and T-1252 ground as the default version, from the T-1729 exterior specification
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-1729
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 9:22:42 PM CT
 blocked_on: T-0474
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-29T02:22:42.973Z
 decision: null
 decision_answer: null
 ---
