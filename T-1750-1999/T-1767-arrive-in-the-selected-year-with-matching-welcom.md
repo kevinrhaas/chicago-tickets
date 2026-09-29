@@ -1,7 +1,7 @@
 ---
 id: T-1767
 title: Arrive in the selected year with matching welcome, loading facts and jaunts
-state: claimed
+state: review
 epic: ARRIVAL
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-29
 closed: null
-pr: null
+pr: 200
 claimed_by: run 9/29/2026, 2:54:09 PM CT
 blocked_on: null
 needs_bake: false
