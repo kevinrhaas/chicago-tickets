@@ -91,7 +91,8 @@ T-1757 — Build the further cass lots on blk_indiana_north_cass once its first 
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
 T-1760 — Build the Canal and Lake approach block to its first roofs: blk_lake_clinton's requested dwellings and their yard buildings, the rest of its lots left open
 T-1761 — Raise blk_randolph_clinton's two standing requests: the Canal face's remaining dwellings and their yard buildings on the teamster approach
-T-1763 — The ferry landing and the two bridge heads with their furniture, and the grocery and blacksmith the memo seats on the Canal Street approach
+T-1765 — The two bridge heads with their furniture, and the ferry landing the forks' own sources refuse
+T-1766 — The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
 T-1764 — The cabins and boarding houses of the forks, and Wolf Point's books closed: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
 T-1208 — Build the West Division's outer clusters and Wabansia to their seats: the three looser clusters toward the Des Plaines edge, the Wabansia cabins on the North Branch, the farms and barns on the prairie edge, the held 35 slots released on the extended ground
 T-1209 — Build the boarding houses to their beds: the H1–H3 houses the lodging model sized, each with the window rhythm, service wing and stovepipes its capacity implies, its stable and privies, on the seats near the landings and approaches — and re-size the named hotels' outbuildings to their guests
