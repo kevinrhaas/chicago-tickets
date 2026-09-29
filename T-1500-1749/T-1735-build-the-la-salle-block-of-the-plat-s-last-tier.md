@@ -1,7 +1,7 @@
 ---
 id: T-1735
 title: Build the La Salle block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_lasalle
-state: review
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: 181
-claimed_by: run 9/28/2026, 5:53:41 PM CT
+claimed_by: run 9/29/2026, 4:07:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36494676475
-claimed_at: 2026-09-28T22:53:41.052Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36546557065
+claimed_at: 2026-09-29T09:07:02.630Z
 decision: null
 decision_answer: null
 ---
