@@ -1,7 +1,7 @@
 ---
 id: T-1547
 title: The Green Tree's south-east corner stands 0.20 m INSIDE the West Water track, and the street's trace ends at that corner: re-seat it clear, carry the trace past it, or refuse the corridor in writing
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 180
 claimed_by: run 9/28/2026, 7:11:26 PM CT
 blocked_on: null
 needs_bake: false
