@@ -1,7 +1,7 @@
 ---
 id: T-1708
 title: Build the Clark-State tier south of Washington to its seats: the cottages and yard buildings the South balance deals to the plat's last tier, on the blocks the street carry emitted
-state: review
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1203
 opened: 2026-09-27
 closed: null
 pr: 184
-claimed_by: run 9/28/2026, 8:15:06 PM CT
+claimed_by: run 9/29/2026, 12:20:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36506641658
-claimed_at: 2026-09-29T01:15:06.430Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36525402007
+claimed_at: 2026-09-29T05:20:14.620Z
 decision: null
 decision_answer: null
 ---
