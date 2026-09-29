@@ -1,7 +1,7 @@
 ---
 id: T-1750
 title: Build the Franklin block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_franklin
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: re-filed immediately with --blocks so the line sits beside T-1708 rather than at the foot of band 9: the order book's south ordinary-dwellings cell goes red on dev the moment T-1708 closes, which is the blocking reason --blocks exists for
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T02:20:56.029Z
 claimed_run: null
 claimed_at: null
 decision: null
