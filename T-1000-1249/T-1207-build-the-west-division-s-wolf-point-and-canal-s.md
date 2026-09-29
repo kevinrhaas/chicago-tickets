@@ -1,7 +1,7 @@
 ---
 id: T-1207
 title: Build the West Division's Wolf Point and Canal Street approach to their seats: the taverns' yards and stables, the grocery and blacksmith on the approach, the ferry and the bridge heads, the cabins and boarding houses of the forks
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/29/2026, 6:10:15 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36559709133
+claimed_at: 2026-09-29T11:10:15.514Z
+decision: null
+decision_answer: null
 ---
 
 Eighth build ticket, same contract as T-1200, on the ground T-1192 and
