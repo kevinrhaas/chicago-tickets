@@ -89,7 +89,6 @@
 T-1751 — Build the Franklin block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_franklin
 T-1735 — Build the La Salle block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_lasalle
 T-1753 — Build blk_indiana_north_cass's first roofs in Kinzie's Addition: the cottages and yard buildings the addition's reading seats on its Indiana and Illinois faces, the rest of the block's lots left open
-T-1756 — Build the further wolcott lots the north-division memo will carry: two more tradesman cottages and their yard buildings on blk_indiana_north_wolcott, the alternation kept and the rest of the block open
 T-1757 — Build the further cass lots on blk_indiana_north_cass once its first roofs land, and settle the Rush-Pine fringe the district deal apportions no roofs to
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
 T-1460 — The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
