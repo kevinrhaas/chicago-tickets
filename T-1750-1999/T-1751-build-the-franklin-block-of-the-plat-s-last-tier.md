@@ -1,7 +1,7 @@
 ---
 id: T-1751
 title: Build the Franklin block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_franklin
-state: review
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: 186
-claimed_by: run 9/28/2026, 9:28:05 PM CT
+claimed_by: run 9/29/2026, 5:06:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36512524739
-claimed_at: 2026-09-29T02:28:05.430Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36546557065
+claimed_at: 2026-09-29T10:06:34.406Z
 decision: null
 decision_answer: null
 ---
