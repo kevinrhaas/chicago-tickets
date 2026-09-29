@@ -1,7 +1,7 @@
 ---
 id: T-1753
 title: Build blk_indiana_north_cass's first roofs in Kinzie's Addition: the cottages and yard buildings the addition's reading seats on its Indiana and Illinois faces, the rest of the block's lots left open
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1748
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 10:31:12 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36517169966
+claimed_at: 2026-09-29T03:31:12.535Z
 decision: null
 decision_answer: null
 ---
