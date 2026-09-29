@@ -1,7 +1,7 @@
 ---
 id: T-1747
 title: Build blk_indiana_north_wolcott's first roofs in Kinzie's Addition: the cottages and yard buildings the addition's reading seats on its Indiana and Illinois faces, the rest of the block's lots left open
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1742
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 183
 claimed_by: run 9/28/2026, 9:19:28 PM CT
 blocked_on: null
 needs_bake: false
