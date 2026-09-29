@@ -1,7 +1,7 @@
 ---
 id: T-1717
 title: The north bank east end and the district's books closed: the Lake House's neighbours, the frame budget measured, the headroom stated
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1204
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: 161
 claimed_by: run 9/28/2026, 7:43:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T00:03:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36423159485
 claimed_at: 2026-09-28T12:43:23.814Z
 decision: null
