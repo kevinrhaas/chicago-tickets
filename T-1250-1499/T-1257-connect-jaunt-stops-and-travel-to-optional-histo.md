@@ -1,7 +1,7 @@
 ---
 id: T-1257
 title: Connect jaunt stops and travel to optional historical context
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-09-29
 pr: 185
 claimed_by: run 9/28/2026, 5:32:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T07:14:20Z
 claimed_run: null
 claimed_at: 2026-09-28T22:32:53.228Z
 decision: null
