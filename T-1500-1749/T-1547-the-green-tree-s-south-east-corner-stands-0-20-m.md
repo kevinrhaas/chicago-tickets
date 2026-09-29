@@ -1,7 +1,7 @@
 ---
 id: T-1547
 title: The Green Tree's south-east corner stands 0.20 m INSIDE the West Water track, and the street's trace ends at that corner: re-seat it clear, carry the trace past it, or refuse the corridor in writing
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 7:11:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36499536677
+claimed_at: 2026-09-29T00:11:26.902Z
 decision: null
 decision_answer: null
 ---
