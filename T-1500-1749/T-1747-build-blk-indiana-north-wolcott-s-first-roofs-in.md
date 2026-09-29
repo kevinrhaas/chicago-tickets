@@ -1,7 +1,7 @@
 ---
 id: T-1747
 title: Build blk_indiana_north_wolcott's first roofs in Kinzie's Addition: the cottages and yard buildings the addition's reading seats on its Indiana and Illinois faces, the rest of the block's lots left open
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1742
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: 183
 claimed_by: run 9/28/2026, 9:19:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T03:26:13Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36506798138
 claimed_at: 2026-09-29T02:19:28.602Z
 decision: null
