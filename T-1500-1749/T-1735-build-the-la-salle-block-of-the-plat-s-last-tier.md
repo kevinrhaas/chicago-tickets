@@ -1,7 +1,7 @@
 ---
 id: T-1735
 title: Build the La Salle block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_lasalle
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
