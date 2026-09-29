@@ -87,7 +87,6 @@
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
 T-1751 — Build the Franklin block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_franklin
-T-1735 — Build the La Salle block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_lasalle
 T-1753 — Build blk_indiana_north_cass's first roofs in Kinzie's Addition: the cottages and yard buildings the addition's reading seats on its Indiana and Illinois faces, the rest of the block's lots left open
 T-1757 — Build the further cass lots on blk_indiana_north_cass once its first roofs land, and settle the Rush-Pine fringe the district deal apportions no roofs to
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
