@@ -1,7 +1,7 @@
 ---
 id: T-0474
 title: Reconstruct the 1904 Prairie Avenue street, parcel and service grid
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-01
-closed: null
+closed: 2026-09-28
 pr: 179
 claimed_by: run 9/28/2026, 5:35:17 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-09-29T01:44:40Z
 claimed_run: null
 claimed_at: 2026-09-28T22:35:17.218Z
 decision: null
