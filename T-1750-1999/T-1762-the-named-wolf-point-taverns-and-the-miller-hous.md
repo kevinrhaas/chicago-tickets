@@ -1,7 +1,7 @@
 ---
 id: T-1762
 title: The named Wolf Point taverns' and the Miller house's yards: the stables, wagon yards and outbuildings the attested roofs at the forks stand without
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1207
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/29/2026, 7:01:35 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36565080621
+claimed_at: 2026-09-29T12:01:35.967Z
 decision: null
 decision_answer: null
 ---
