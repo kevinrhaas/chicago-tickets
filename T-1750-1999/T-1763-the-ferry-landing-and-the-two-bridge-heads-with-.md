@@ -1,7 +1,7 @@
 ---
 id: T-1763
 title: The ferry landing and the two bridge heads with their furniture, and the grocery and blacksmith the memo seats on the Canal Street approach
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1207
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/29/2026, 9:01:51 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36578909292
+claimed_at: 2026-09-29T14:01:51.532Z
 decision: null
 decision_answer: null
 ---
