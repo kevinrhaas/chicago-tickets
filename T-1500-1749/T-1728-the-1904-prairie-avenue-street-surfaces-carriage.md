@@ -1,7 +1,7 @@
 ---
 id: T-1728
 title: The 1904 Prairie Avenue street surfaces: carriageway paving, curbs, sidewalks and parkways as sourced materials on T-0474's layout
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/28/2026, 9:22:33 PM CT
 blocked_on: T-0474
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-29T02:22:34.002Z
 decision: null
 decision_answer: null
 ---
