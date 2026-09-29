@@ -1,22 +1,22 @@
 ---
 id: T-1730
 title: Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
-seen: false
+seen: true
 effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: steward/glessner-v4
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-29T21:10:00Z
 decision: null
 decision_answer: null
 ---
@@ -64,3 +64,11 @@ Blocked on **T-1729** (the default to compare against) and **T-1727** (the versi
 build, so `blocked_on` now names T-1732; each alternate version may read T-1731's spec as part of
 the shared source set but must not copy T-1732's geometry.
 
+
+## Owner-directed v4, 2026-09-29 — in progress
+
+The owner explicitly asks to use the default as v4's reference; this supersedes the earlier independent-geometry requirement for this version. Keep default/v2/v3 available. Claim: steward/glessner-v4.
+
+Implement and visually verify intersecting east/west gables, west-wing south and courtyard windows, garden-level openings on north/east/west courtyard faces, the continuous northeast copper roof and north-wing return, variable-height rock-faced granite street elevations, brick courtyard walls with stone window surrounds, and east-wing chimneys against HABS. References: HABS/source library plus six owner-supplied images (Pasted Graphic 14–19). Modern imagery informs visible form only; textures are original or licensed, and differences inferred for 1904 are declared.
+
+Acceptance: selectable baked v4, reference-matched views of every exterior/courtyard face and overhead, materially improved stone/brick/roof/window rendering, desktop/mobile evidence, project gates green, and an honest assessment against the owner's near-photographic target. Parallel evidence, geometry and materials work feeds one integrated version. Do not mark complete merely because data or tests pass.
