@@ -17,8 +17,8 @@ needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36535528692
 claimed_at: 2026-09-29T07:20:05.600Z
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded.
@@ -75,3 +75,5 @@ of the eight quietly leaves.
 **Recommendation:** (a) Retire both to record_only: zone 18's swales stay in the dossier and come out of the field. Nothing invented is left in the ground layer, and the eight roofs do not move. — The swale is the conjectural half of the pair, not the roofs. It carries confidence: reconstructed with sources: [], and T-0795 walked the whole Wright 1834 sheet and found NO watercourse anywhere on the West Division prairie — the one sheet that could have sourced it shows nothing. Since T-1416 carried the field to E -705 both heads begin abruptly 385 m inside open modelled prairie that carries no hollow and no reason for one, so what is in the ground today is a drain that starts nowhere. Option (c) trades a recorded liberty for an unrecorded one: it would move eight reviewed, baked roofs to fit an invented line. Option (b) keeps a modelled swale but has to invent a second alignment to replace the first, and nothing attests the new one either. Option (a) is the only one that removes invention rather than relocating it, and it costs nothing built: no roof is standing in a hole today (deepest relief across any of the eight footprints is 0.119 m of a 0.35 m contract), so taking the cut out moves the ground under them by centimetres. All three change the heightfield and need a town bake. Whichever way it goes, the figures are now pinned by tools/measure_west_swale_corridors.py and gated, so they cannot drift again while the question waits.
 
 **Asked:** 2026-09-29 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36535528692. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-09-29, via Manager):** (a) Retire both to record_only: zone 18's swales stay in the dossier and come out of the field. Nothing invented is left in the ground layer, and the eight roofs do not move.
