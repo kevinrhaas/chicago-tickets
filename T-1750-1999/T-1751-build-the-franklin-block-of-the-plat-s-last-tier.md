@@ -1,7 +1,7 @@
 ---
 id: T-1751
 title: Build the Franklin block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_franklin
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-09-29
 pr: 186
 claimed_by: run 9/29/2026, 7:11:38 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T13:49:26Z
 claimed_run: null
 claimed_at: 2026-09-29T12:11:38.258Z
 decision: null
