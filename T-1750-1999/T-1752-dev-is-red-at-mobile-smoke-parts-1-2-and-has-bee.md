@@ -1,7 +1,7 @@
 ---
 id: T-1752
 title: dev is RED at mobile smoke parts 1-2 and has been since 2026-09-28: the frontage census has drifted a walk, a crossing and two fence runs past the exact counts the suite asserts, and no CI check looks at it
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Glessner gate repair 9/29/2026, 5:59:03 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-29T22:59:03.517Z
 decision: null
 decision_answer: null
 ---
