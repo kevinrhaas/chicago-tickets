@@ -1,7 +1,7 @@
 ---
 id: T-1742
 title: Build Kinzie's Addition and the north tier to their seats on the lots the reading cuts: the labourers' and mechanics' cabins, shanties and small cottages on the addition's small lots, the scattered better houses on the Rush-Pine fringe, the open ground left honestly open
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1206
 opened: 2026-09-28
-closed: null
+closed: 2026-09-28
 pr: null
 claimed_by: run 9/28/2026, 8:15:20 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-29T02:19:21.052Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36506798138
 claimed_at: 2026-09-29T01:15:20.638Z
 decision: null
