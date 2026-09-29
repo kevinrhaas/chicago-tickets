@@ -97,6 +97,7 @@ T-1208 — Build the West Division's outer clusters and Wabansia to their seats:
 T-1209 — Build the boarding houses to their beds: the H1–H3 houses the lodging model sized, each with the window rhythm, service wing and stovepipes its capacity implies, its stable and privies, on the seats near the landings and approaches — and re-size the named hotels' outbuildings to their guests
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 T-1210 — Deal building fabric, finish and weathering by who lived and worked there: a physician's or forwarder's house painted and glazed, a tradesman's cottage weathered clapboard, a labourer's cabin unpainted and patched — the rule set on the material sheet, applied to every dwelling and business, no attested finish moved
+T-1211 — Plank sidewalks, stoops, hitching posts and street crossings for every business face, varied by the business — a forwarding house's wide decked walk, a store's board walk and stoop, a smithy's bare ground and rail, a tavern's posts and mounting block — extended to the new fronts town-wide
 T-1212 — Yards for every household: lot-line and dooryard fences, gardens, woodpiles, wells, privies and stables assigned by household type, wagons and barrels and trade goods at the shops by trade — the enclosure, yard and outbuilding layers extended to the reconstructed town
 T-1213 — Signboards for every business that would have hung one: the reconstructed firms' names and trades in period lettering and forms, the attested signs untouched, the signless trades left signless by rule
 T-1214 — Build the camps of the summer of 1835: a tent and wagon-camp archetype, the encampments on the grounds the transient ticket evidenced — the land-sale crowd south of the fort, the immigrants' wagons at the west approach, the pier gang at the river mouth — bounded, labelled, and empty of figures
@@ -210,6 +211,10 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 #     waits: T-1537 and T-1538 (with T-1209's roofs): all 76 are under_10 children of lodging households that do not exist. Every documented keeper's family is alr…
 # BLOCKED-TECH T-1530 (opened 2026-09-24, META) — Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/tr…
 #     waits: T-1556 — the owner ANSWERED on 2026-09-24 with option (c): the surplus is re-familied, never retired, and as ONE unit for all 523 across the 48 refu…
+# BLOCKED-TECH T-1205 (opened 2026-09-16, TOWN) — Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water ban…
+#     waits: the north ground. All 61 remaining north roofs sit in one district_balance row, north_division_beyond_modelled_ground, state gated: terrain, hydrology, flora and map coverage stop short of local N +760 m, 27 of the district's 32 platted block rows are unsubdivided and district headroom is 0. Unblock when the ground is carried and the balance opens.
+# BLOCKED-TECH T-1566 (opened 2026-09-25, META) — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south…
+#     waits: T-1209 — the lodging roofs the beds are in are not raised, so the_owner_s_ruling.mintable_today is 0 and the division axis prices a payment nobody can spend. The ticket's own text says it rides along with T-1209 rather than opening a PR of its own; three runs have claimed it to re-read that same note.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-1617 — settle reads every ticket's pr: as a kevinrhaas/chicago PR, so a ticket whose PR is in polecat-platform never settles, and will be settled by an unrelated chicago PR once the numbers meet
