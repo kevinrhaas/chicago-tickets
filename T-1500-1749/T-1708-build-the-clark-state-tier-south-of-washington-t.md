@@ -1,7 +1,7 @@
 ---
 id: T-1708
 title: Build the Clark-State tier south of Washington to its seats: the cottages and yard buildings the South balance deals to the plat's last tier, on the blocks the street carry emitted
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
