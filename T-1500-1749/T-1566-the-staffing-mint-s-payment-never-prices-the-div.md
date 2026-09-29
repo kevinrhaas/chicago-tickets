@@ -1,7 +1,7 @@
 ---
 id: T-1566
 title: The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south shop, and for 19 of the 26 the register places no premises at all
-state: claimed
+state: blocked-tech
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-25
 closed: null
 pr: null
 claimed_by: run 9/28/2026, 7:04:32 PM CT
-blocked_on: null
+blocked_on: T-1209 has not raised the lodging roofs the beds are in, so the_owner_s_ruling.mintable_today is 0 and the division axis prices a payment nobody can spend. Three runs have now claimed this to re-read the same note (2026-09-25, 2026-09-28, 2026-09-29); the ticket's own text says it must ride along with T-1209 rather than open a PR of its own, so it leaves the workable list until T-1209 lands.
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36499536677
