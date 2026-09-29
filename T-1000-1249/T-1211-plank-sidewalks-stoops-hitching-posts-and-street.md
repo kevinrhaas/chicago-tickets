@@ -1,7 +1,7 @@
 ---
 id: T-1211
 title: Plank sidewalks, stoops, hitching posts and street crossings for every business face, varied by the business — a forwarding house's wide decked walk, a store's board walk and stoop, a smithy's bare ground and rail, a tavern's posts and mounting block — extended to the new fronts town-wide
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
