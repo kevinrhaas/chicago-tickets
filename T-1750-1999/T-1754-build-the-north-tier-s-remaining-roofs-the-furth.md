@@ -1,7 +1,7 @@
 ---
 id: T-1754
 title: Build the north tier's remaining roofs: the further wolcott and cass lots the north-division memo will carry and the scattered better houses on the Rush-Pine fringe, the open ground left honestly open
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1748
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/29/2026, 1:30:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36530981761
+claimed_at: 2026-09-29T06:30:54.363Z
 decision: null
 decision_answer: null
 ---
