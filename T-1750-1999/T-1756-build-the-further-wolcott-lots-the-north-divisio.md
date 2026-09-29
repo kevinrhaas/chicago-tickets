@@ -1,7 +1,7 @@
 ---
 id: T-1756
 title: Build the further wolcott lots the north-division memo will carry: two more tradesman cottages and their yard buildings on blk_indiana_north_wolcott, the alternation kept and the rest of the block open
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1754
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/29/2026, 1:41:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36530981761
+claimed_at: 2026-09-29T06:41:36.347Z
 decision: null
 decision_answer: null
 ---
