@@ -1,7 +1,7 @@
 ---
 id: T-1258
 title: Collect era-themed keepsakes in a five-family Chicago daybook
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/29/2026, 7:19:54 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-09-29T12:19:54.231Z
+decision: null
+decision_answer: null
 ---
 
 **The Chicago daybook**: era-themed keepsakes in five families, and ranks that ask for a little of each. The owner: *"Era-appropriate achievements/rewards rather than generic game XP … different kinds of jaunts could collect different things … 3–5 scoring systems and when you collect enough from all categories that is a level up or something to that effect, use popular and modern gameplay examples for this."* Low pressure — the reference points are everyday-collection games and place-linked waypoint stories, not leaderboards.
