@@ -127,7 +127,6 @@ T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
 T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
-T-1767 — Arrive in the selected year with matching welcome, loading facts and jaunts
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
 T-1730 — Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version
