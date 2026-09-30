@@ -76,3 +76,5 @@ Acceptance: selectable baked v4, reference-matched views of every exterior/court
 ## Owner selection, 2026-09-29
 
 Owner selected v4 as the default in dev and explicitly requested promotion of dev to main production. PR #201 is merged with 712 gate steps and both complete viewport smokes green. Finish the package-aware default promotion in steward/glessner-v4-default, preserve the prior default as pre-v4 and v2/v3, verify the new default at both detail profiles, then use the production workflow after the dev gate passes. Browser workflow dispatch authorized by the owner.
+
+Owner rights ruling, 2026-09-29: “Yes, leave them with rights unresolved.” Retain the courtyard-photo cross-checks in canonical form.detail_profile and form.v4_detail as a documented project-policy exception. Source habs_glessner_photo_05_court_c1923 remains check_required; no license clearance is claimed and no photographic pixels are used as textures. The two new canonical references are recorded through measure_rights_derivation.py --update, with no added unresolved sources.
