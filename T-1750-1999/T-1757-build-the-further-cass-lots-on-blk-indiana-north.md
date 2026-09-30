@@ -1,7 +1,7 @@
 ---
 id: T-1757
 title: Build the further cass lots on blk_indiana_north_cass once its first roofs land, and settle the Rush-Pine fringe the district deal apportions no roofs to
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1754
 opened: 2026-09-29
-closed: null
+closed: 2026-09-30
 pr: 199
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-09-30T19:08:25Z
 claimed_run: null
 claimed_at: null
 decision: null
