@@ -1,7 +1,7 @@
 ---
 id: T-1730
 title: Alternate versions of the Glessner House for the owner's side-by-side comparison: each an independent build from the same sources, registered as a structure version
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 202
 claimed_by: steward/glessner-v4-default
 blocked_on: null
 needs_bake: true
