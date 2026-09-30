@@ -1,7 +1,7 @@
 ---
 id: T-1258
 title: Collect era-themed keepsakes in a five-family Chicago daybook
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: run 9/29/2026, 7:19:54 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-09-29T12:19:54.231Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -45,3 +45,7 @@ decision_answer: null
 **Out of scope:** authoring the 25 keepsakes (content tickets), menu filters (T-1259).
 
 Changelog: one visible entry. Contract: [architecture §G and "Collections"](../docs/ARRIVAL-JAUNTS-ARCHITECTURE.md#collections-without-turning-every-outing-into-a-competition) · [plan](../docs/ARRIVAL-JAUNTS-EXECUTION.md). One PR into `dev`; claim with `ticket.mjs`.
+
+## Owner-requested claim cleanup — 2026-09-30
+
+The claim dated 2026-09-29T12:19:54.231Z is older than the three-hour lease, has no claiming run URL and no matching PR. Released the stale claim; the ticket and acceptance remain open.
