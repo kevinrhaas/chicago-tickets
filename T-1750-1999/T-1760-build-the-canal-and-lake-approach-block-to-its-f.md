@@ -1,7 +1,7 @@
 ---
 id: T-1760
 title: Build the Canal and Lake approach block to its first roofs: blk_lake_clinton's requested dwellings and their yard buildings, the rest of its lots left open
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1207
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive recovery 9/30/2026, 2:41:03 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-30T19:41:03.729Z
 decision: null
 decision_answer: null
 ---
