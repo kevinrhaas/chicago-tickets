@@ -1,7 +1,7 @@
 ---
 id: T-1765
 title: The two bridge heads with their furniture, and the ferry landing the forks' own sources refuse
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1763
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive bridge-head recovery
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-30T22:08:53.916Z
 decision: null
 decision_answer: null
 ---
