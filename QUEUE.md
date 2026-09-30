@@ -293,7 +293,6 @@ T-1744 — L270 says Kinzie's twenty slots are labourers' households and the sea
 T-1745 — The 1904 grid's remaining lots: Robinson 1886 legal lot numbers on 16th-18th Prairie, and the Indiana and Calumet frontage lots
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
 T-1749 — The frontage smoke's fence census has drifted on dev: 28 fence runs where the clause holds 31, and the two checks that read it are red on dev and on every branch
-T-1752 — dev is RED at mobile smoke parts 1-2 and has been since 2026-09-28: the frontage census has drifted a walk, a crossing and two fence runs past the exact counts the suite asserts, and no CI check looks at it
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
 T-1758 — Build the Market block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_market
 T-1759 — Build the South Division's remaining ordinary dwellings on the plat's last tier: the Dearborn, Market and Clark blocks the platted deal still holds slots against, the rest of the tier's open ground left honestly open
