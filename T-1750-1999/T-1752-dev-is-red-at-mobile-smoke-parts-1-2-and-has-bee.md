@@ -1,7 +1,7 @@
 ---
 id: T-1752
 title: dev is RED at mobile smoke parts 1-2 and has been since 2026-09-28: the frontage census has drifted a walk, a crossing and two fence runs past the exact counts the suite asserts, and no CI check looks at it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 201
 claimed_by: Glessner gate repair 9/29/2026, 5:59:03 PM CT
 blocked_on: null
 needs_bake: false
@@ -67,3 +67,32 @@ count moved in `tools/smoke_renderer.mjs` carries a comment naming the ticket an
 cause that moved it, in the style the surrounding block already uses; and no count is
 changed to match a scene that is actually wrong — each of the four figures is argued
 from the rule that produced it, not fitted.
+
+## Repair submitted for review — 2026-09-30
+
+The isolated repair is code commit `0ff8eb2af5f9a9d6b442096337405da53045d227`,
+based on `dev` at `308dcacf1117d78ba62896bbaea4bf067b081b77`. It is integrated in
+Glessner v4 checkpoint 6, `1ac8d5439638bfa446c37404e0a250d8c9bc57eb`, submitted
+in [PR #201](https://github.com/kevinrhaas/chicago/pull/201) into `dev`.
+
+Historical record comparison corrects the initial hypothesis above: T-1734
+transposed Clinton's lots onto Clinton and Canal, retiring three north/south
+fence runs. The four Washington builds then added four walks, seven crossings,
+four fences and four street-edge faces. The final independently derived census
+is 51 walks, 46 crossings, 18 posts, 32 fences, 119 refusals, 58 authored meshes
+(59 with optional lettering) and 40 faces. Exactly seven numeric constants
+change; all assertion conditions, operators and floors remain intact.
+`chicago/4d/docs/measurements/T-1752-frontage-census.md` records the per-commit
+deltas, rule clauses and independent renderer mesh arithmetic.
+
+The generator re-derived all five frontage records byte for byte. The isolated
+published mobile parts 1–2 passed 158/0 in 2 m 50 s with zero page errors on
+`sha256:001a8c5194069f6e`; its standing smoke record is committed. The isolated
+non-browser gate passed all 708 steps. The integrated checkpoint's full
+preflight passed all 712 steps; its complete final desktop/mobile release smoke
+remains pending while the Glessner visual work continues. This ticket stays in
+review until PR #201 merges. T-1730 remains open for the owner's comparison.
+
+Before this review transition, `python3 tools/ticket_liveness.py --closing T-1752`
+on the integrated worktree reported that closing it strands no committed work
+pointer. No code or primary-worktree source changed for this ticket transition.
