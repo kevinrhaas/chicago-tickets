@@ -1,7 +1,7 @@
 ---
 id: T-1460
 title: The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
-state: open
+state: claimed
 epic: GROUND
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive recovery 9/30/2026, 2:38:21 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-09-30T19:38:21.978Z
 decision: answered
 decision_answer: a
 ---
