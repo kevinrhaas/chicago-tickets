@@ -11,7 +11,7 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: steward/glessner-v4
+claimed_by: steward/glessner-v4-default
 blocked_on: null
 needs_bake: true
 closed_at: null
@@ -72,3 +72,7 @@ The owner explicitly asks to use the default as v4's reference; this supersedes 
 Implement and visually verify intersecting east/west gables, west-wing south and courtyard windows, garden-level openings on north/east/west courtyard faces, the continuous northeast copper roof and north-wing return, variable-height rock-faced granite street elevations, brick courtyard walls with stone window surrounds, and east-wing chimneys against HABS. References: HABS/source library plus six owner-supplied images (Pasted Graphic 14–19). Modern imagery informs visible form only; textures are original or licensed, and differences inferred for 1904 are declared.
 
 Acceptance: selectable baked v4, reference-matched views of every exterior/courtyard face and overhead, materially improved stone/brick/roof/window rendering, desktop/mobile evidence, project gates green, and an honest assessment against the owner's near-photographic target. Parallel evidence, geometry and materials work feeds one integrated version. Do not mark complete merely because data or tests pass.
+
+## Owner selection, 2026-09-29
+
+Owner selected v4 as the default in dev and explicitly requested promotion of dev to main production. PR #201 is merged with 712 gate steps and both complete viewport smokes green. Finish the package-aware default promotion in steward/glessner-v4-default, preserve the prior default as pre-v4 and v2/v3, verify the new default at both detail profiles, then use the production workflow after the dev gate passes. Browser workflow dispatch authorized by the owner.
