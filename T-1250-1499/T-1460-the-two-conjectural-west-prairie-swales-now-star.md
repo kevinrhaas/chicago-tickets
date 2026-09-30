@@ -1,7 +1,7 @@
 ---
 id: T-1460
 title: The two conjectural west-prairie swales now start in open ground at E -320 and swale_a's corridor covers eight West Division roofs: review the invented alignments the terrain extension stranded
-state: claimed
+state: open
 epic: GROUND
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-20
 closed: null
 pr: null
-claimed_by: run 9/29/2026, 8:46:11 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36576868467
-claimed_at: 2026-09-29T13:46:11.551Z
+claimed_run: null
+claimed_at: null
 decision: answered
 decision_answer: a
 ---
@@ -77,3 +77,7 @@ of the eight quietly leaves.
 **Asked:** 2026-09-29 by https://github.com/kevinrhaas/polecat-platform/actions/runs/36535528692. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Owner answer (2026-09-29, via Manager):** (a) Retire both to record_only: zone 18's swales stay in the dossier and come out of the field. Nothing invented is left in the ground layer, and the eight roofs do not move.
+
+## Owner-requested claim cleanup — 2026-09-30
+
+The claiming run 36576868467 completed with failure. The owner's answered decision (a) and needs_bake requirement remain in force. PR #195 only measured and asked the question; it did not implement the answer. Inspect the saved steward/t1460-west-prairie-swales branch and related salvage before rebuilding.
