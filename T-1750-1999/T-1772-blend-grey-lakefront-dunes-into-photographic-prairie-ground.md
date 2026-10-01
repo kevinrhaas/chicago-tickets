@@ -1,7 +1,7 @@
 ---
 id: T-1772
 title: Blend grey lakefront sand and gentle dune ridges into photographic-quality prairie grass without a sharp beach boundary
-state: claimed
+state: split
 epic: GROUND
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 1:33:22 PM CT
 blocked_on: T-1769
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-01T18:48:06.160Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36907222854
 claimed_at: 2026-10-01T18:33:22.873Z
 decision: null
