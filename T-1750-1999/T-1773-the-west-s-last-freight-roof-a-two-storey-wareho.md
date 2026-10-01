@@ -1,7 +1,7 @@
 ---
 id: T-1773
 title: The West's last freight roof: a two-storey warehouse at Lake and West Water facing the forks, built and baked
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1764
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 217
 claimed_by: run 10/1/2026, 3:05:07 AM CT
 blocked_on: null
 needs_bake: false
