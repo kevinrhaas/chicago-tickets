@@ -45,4 +45,6 @@ PR: https://github.com/kevinrhaas/chicago/pull/243
 Branch: steward/t-1830-glessner-west-wing-alcove
 Source checkpoint ece92a8; complete model/recovery commit a8fac67. Six full-model views and matching decoded light views reviewed. Planar roof and aperture regressions pass; all mesh versions are fresh and the exact package verifies. Source preflight: 727 steps, none red. Full/light architecture matches; light 188,675 triangles.
 
-Published browser checks on the complete commit are in progress, covering mobile and desktop stages 1–6 and 7–13. Keep the PR draft until they pass; then merge only to dev.
+Full published browser checks passed on a8fac67: mobile 1–6 297/0, mobile 7–13 290/0, desktop 1–6 294/0, desktop 7–13 290/0; zero page errors. After integrating dev's new terrain, stage 5 passed on 6f53477 with 26/0 for each viewport. All six results are recorded with their actual run commits.
+
+Final integration/receipts commit: 99dab70. Source preflight on the integration passes all 727 steps. PR #243 is ready; required source CI is running on its final head before merge to dev: https://github.com/kevinrhaas/chicago/actions/runs/36940452793. Production is not promoted.
