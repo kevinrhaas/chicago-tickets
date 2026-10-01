@@ -1,7 +1,7 @@
 ---
 id: T-1796
 title: The proof assembly: clapboard and log wall samples, a recessed sash, a worn grey-brown plank walk and a painted signboard, the missing maps made, baked through the real glTF path and compared in the browser against the current 1835 treatment and Glessner
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1769
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 6:14:01 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36853627678
+claimed_at: 2026-10-01T11:14:01.379Z
 decision: null
 decision_answer: null
 ---
