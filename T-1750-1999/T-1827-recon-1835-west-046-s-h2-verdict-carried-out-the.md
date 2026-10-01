@@ -1,7 +1,7 @@
 ---
 id: T-1827
 title: recon_1835_west_046's H2 verdict carried out: the lodging model or an argued lodger re-deal (salvage/046-h2-lodgers-open-ceiling), the shed rebaked as a boarding house, 047's stated use restated
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1774
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 247
 claimed_by: run 10/1/2026, 4:41:01 PM CT
 blocked_on: null
 needs_bake: true
