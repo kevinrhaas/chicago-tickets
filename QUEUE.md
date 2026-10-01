@@ -95,7 +95,6 @@ T-1778 — The H3 boarding house's form: two storeys, a rear service wing, 6-10 
 T-1779 — Raise the remaining H3 boarding houses to their beds, each with its stable and privy, keepers and lodgers seated
 T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
-T-1800 — The plank walks leave the signboard's tone: every walk and crossing in the town in the worn grey, brown and grey-brown palette the T-1795 map bounds, varied by owner and by board, checked lit in the browser at both viewports
 T-1801 — The rest of the proof assembly: clapboard and log wall samples on regenerated no-course relief, a recessed sash and a painted signboard, baked through the real glTF path and compared in the browser against the current 1835 treatment and Glessner, costs at all three tiers
 T-1797 — The compact ground strip beside the proof: packed dirt with irregular wear, bank soil, grey sand into sparse prairie through the real terrain/runtime-canvas path, costs measured, findings handed to T-1210–T-1213 and T-1770–T-1772
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
