@@ -1,7 +1,7 @@
 ---
 id: T-1799
 title: Wabansia's books closed: the West district's frame budget read on the published tree with the doctor's house standing, the Canal-approach screenshot looking west, T-1209 handed on with the West's remainder
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1785
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 223
 claimed_by: run 10/1/2026, 6:14:02 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T12:52:23Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36853636526
 claimed_at: 2026-10-01T11:14:03.090Z
 decision: null
