@@ -34,3 +34,7 @@ The ticket budget refused this: the queue stands at 145 lines, at or over its ce
 **References:** Owner attachments 7BDB6525 (historical north-west view), EDA9BB5B and D020980B (current app roof), 15E6A751 (sidewalk), received 2026-10-01. Compare existing public-domain HABS photographs 1 and 15; retain 1904 openings rather than the 1946 replacements.
 
 **Recovery:** Branch `steward/glessner-west-roof-repair`. Push periodic verified checkpoints and record any incomplete bake or validation explicitly.
+
+## Recovery — 2026-10-01
+
+Owner requested continuation of the interrupted session on the same branch. Recovered both remote source checkpoint `e643f977` and the later local full/light bake, cornice trim, sidewalk depth-bias correction and completed Blender review renders. The earlier CI bake failed at 208,041 light triangles; the recovered correction measures 196,687 against the unchanged 200,000 limit. Package and mesh-staleness checks pass. Full source gate and published desktop/mobile browser verification are still outstanding; no PR or merge is claimed yet.
