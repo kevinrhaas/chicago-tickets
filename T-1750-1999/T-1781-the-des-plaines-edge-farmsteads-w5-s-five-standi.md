@@ -1,7 +1,7 @@
 ---
 id: T-1781
 title: The Des Plaines edge farmsteads: w5's five standing redeal verdicts carried out (west_050–052 and 054 to D1 cabins, 053 to an A2 barn beside 055), baked, and the households re-seated on what stands
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1208
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: 210
 claimed_by: run 9/30/2026, 11:16:10 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T06:06:13Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36813517552
 claimed_at: 2026-10-01T04:16:10.022Z
 decision: null
