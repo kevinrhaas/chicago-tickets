@@ -97,7 +97,6 @@ T-1778 — The H3 boarding house's form: two storeys, a rear service wing, 6-10 
 T-1779 — Raise the remaining H3 boarding houses to their beds, each with its stable and privy, keepers and lodgers seated
 T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
-T-1795 — The 1835 photographic-fabric audit and material/integration map: Glessner v4 methods extracted, the 1835 PBR library and ground maps audited, a reuse/regenerate/new decision per substrate, the albedo/variation integration strategy priced at Full/Balanced/Light
 T-1796 — The proof assembly: clapboard and log wall samples, a recessed sash, a worn grey-brown plank walk and a painted signboard, the missing maps made, baked through the real glTF path and compared in the browser against the current 1835 treatment and Glessner
 T-1797 — The compact ground strip beside the proof: packed dirt with irregular wear, bank soil, grey sand into sparse prairie through the real terrain/runtime-canvas path, costs measured, findings handed to T-1210–T-1213 and T-1770–T-1772
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
