@@ -1,7 +1,7 @@
 ---
 id: T-1813
 title: The street-edge fittings by business on the walks already laid: a stoop at each store and inn door, hitching posts counted by trade (two at an inn, one at a store), a mounting block at the inns, a plank wagon apron at the warehouses and forwarding houses, a tie rail at the works trades — reconstructed trades included at their own tier, every fitting naming the business it serves
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1211
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 11:35:51 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36882927031
+claimed_at: 2026-10-01T16:35:51.151Z
 decision: null
 decision_answer: null
 ---
