@@ -1,7 +1,7 @@
 ---
 id: T-1777
 title: Where the H3 boarding houses can stand: every scheduled H3 slot is refused today (the South's only free lots are the ones each block keeps open; no admitting clause North or West) — the placement ruled and the first seat found
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1209
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 219
 claimed_by: run 10/1/2026, 5:06:18 AM CT
 blocked_on: null
 needs_bake: false
