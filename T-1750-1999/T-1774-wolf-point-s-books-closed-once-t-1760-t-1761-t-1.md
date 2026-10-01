@@ -1,7 +1,7 @@
 ---
 id: T-1774
 title: Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1764
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 4:07:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T21:10:04.755Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36924321574
 claimed_at: 2026-10-01T21:07:06.447Z
 decision: null

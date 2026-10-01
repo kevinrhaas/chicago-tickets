@@ -87,7 +87,8 @@
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
+T-1826 — Wolf Point's books closed: the West recipe restated as instantiated, recon_1835_west_020 occupied or its use stated, the frame budget read, a screenshot from the Wolf Point tavern door, T-1208 handed on with the West's exact remainder
+T-1827 — recon_1835_west_046's H2 verdict carried out: the lodging model or an argued lodger re-deal (salvage/046-h2-lodgers-open-ceiling), the shed rebaked as a boarding house, 047's stated use restated
 T-1809 — The second Washington-tier boarding house (hh_sweet_alanson's, blk_washington_clark lot 6) raised to its beds, and a stable and a privy behind both houses, keepers and lodgers seated
 T-1810 — Raise the H3 boarding houses the book still orders beyond the two Washington-tier seats — the South's remaining eight and the West's and North's, whose placement no banded keeper has claimed yet — each with its stable and privy, keepers and lodgers seated
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
