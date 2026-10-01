@@ -230,6 +230,15 @@ T-0252 — Decide once whether a baked town carries the nine renderer-drawn laye
 # BLOCKED-TECH T-1566 (opened 2026-09-25, META) — The staffing mint's payment never prices the DIVISION axis: a north lodging slot pays for a hand in a south…
 #     waits: T-1209 — the lodging roofs the beds are in are not raised, so the_owner_s_ruling.mintable_today is 0 and the division axis prices a payment nobody can spend. The ticket's own text says it rides along with T-1209 rather than opening a PR of its own; three runs have claimed it to re-read that same note.
 #
+# --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
+# Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
+T-1786 — Define the portable Chicago human contract: Blender masters, browser GLB first, Unreal export later
+T-1787 — Build the portable human export pipeline: skinned GLB, textures, LODs and validation from Blender to Chicago 4D
+T-1788 — Give Chicago 4D a reusable browser human actor: skeletal animation, morphs, LODs and interaction hooks
+T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
+T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
+T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
+T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-1617 — settle reads every ticket's pr: as a kevinrhaas/chicago PR, so a ticket whose PR is in polecat-platform never settles, and will be settled by an unrelated chicago PR once the numbers meet
 T-1612 — A dead claim parks a queue row for days: list --workable prints 'claimed' without saying the claim is three hours stale, and the picking rule says skip anything claimed
