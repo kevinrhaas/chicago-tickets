@@ -54,3 +54,18 @@ persons/male/under_10/west/lodging/none, which orders 9 and already holds 5".
 So carrying 046 out needs either the lodging model to leave a deal-seated merchant H2 out of the
 boarding-house class, or the lodger re-deal argued and accepted. 047's stated use (T-1782) names the
 freight shed and must be restated when 046 changes.
+
+**Addendum, same day (a concurrent lap on #211, finished after #211 had merged narrowed):** the
+accepted-re-deal route was carried all the way to green, and is kept for whoever takes this as
+branch `salvage/046-h2-lodgers-open-ceiling` (48ea0dfb, merged with dev@b18a0346, pre-#211 — a
+reference, not a mergeable branch). Beyond (a), it fixes (b) in `seat_lodgers_1835.py`: a house new
+to the deal has its keeper's children drawn after every committed house and under the same
+ceiling (frozen open-order AND the live book less the boarders), so 046's four wanted children are
+refused rather than overrunning the re-family arrivals. With dev's lodging model and ledger the
+patched stage reproduces dev's cards exactly. The rest of the cascade it needed: transients;
+`reconstruct_businesses_1835.py --group lodging_river_and_transport` (*Donnelly's boarding house*,
+an 8th L257 firm); staffing join, reconstructed seating, mint order, re-family rule and report,
+employment coverage; L252 (94 in 17 → 103 in 18), L254/L257–L260/L262 (33 → 34 houses of trade),
+the dossier's closing-table lodgers row, and `build_order_book_1835.py`'s self-test pin on
+`seated` (249 → 250). That tree read `check.sh` CHECK PASS 712/712 and smoke part 1 80/80 on
+desktop and 390×780.
