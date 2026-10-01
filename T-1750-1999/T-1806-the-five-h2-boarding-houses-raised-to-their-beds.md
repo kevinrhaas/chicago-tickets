@@ -1,7 +1,7 @@
 ---
 id: T-1806
 title: The five H2 boarding houses raised to their beds: upper windows and stovepipes sized from capacity, north and west, baked
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1780
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 232
 claimed_by: run 10/1/2026, 9:33:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T16:19:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36867729968
 claimed_at: 2026-10-01T14:33:28.264Z
 decision: null

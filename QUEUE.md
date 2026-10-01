@@ -91,7 +91,6 @@ T-1766 — The grocery and the workshops the memo seats on the Canal Street appr
 T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
 T-1809 — The second Washington-tier boarding house (hh_sweet_alanson's, blk_washington_clark lot 6) raised to its beds, and a stable and a privy behind both houses, keepers and lodgers seated
 T-1810 — Raise the H3 boarding houses the book still orders beyond the two Washington-tier seats — the South's remaining eight and the West's and North's, whose placement no banded keeper has claimed yet — each with its stable and privy, keepers and lodgers seated
-T-1806 — The five H2 boarding houses raised to their beds: upper windows and stovepipes sized from capacity, north and west, baked
 T-1807 — The two H1 boarding houses sized from their beds: frame_dwelling learns stovepipes, north_h1_007 and west_006 baked
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
