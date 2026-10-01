@@ -93,7 +93,6 @@ T-1810 — Raise the H3 boarding houses the book still orders beyond the two Was
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
-T-1811 — The worked roadway surface: every opened street drawn as full-width opaque packed earth with irregular wear laid in its own frame, the paired treads and grassy median retired, intensity by traffic class, every opened corridor enumerated, South Water reviewed at walker height and overhead
 T-1812 — The graded street section: the roadbed lowered below an entrance-level walk shelf in the terrain and the walker's collision, a measured South Water section, doors, crossings and intersections connected without seams, citywide before/after captures and frame costs
 T-1771 — Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
 T-1825 — The inland prairie material and grass improved toward the photographic benchmark: an inland comparison at 390x780 and 1280x800 with the Glessner critique and frame costs
