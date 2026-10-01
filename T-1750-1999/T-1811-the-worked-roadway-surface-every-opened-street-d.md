@@ -1,7 +1,7 @@
 ---
 id: T-1811
 title: The worked roadway surface: every opened street drawn as full-width opaque packed earth with irregular wear laid in its own frame, the paired treads and grassy median retired, intensity by traffic class, every opened corridor enumerated, South Water reviewed at walker height and overhead
-state: claimed
+state: review
 epic: GROUND
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1770
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 235
 claimed_by: run 10/1/2026, 3:10:14 PM CT
 blocked_on: null
 needs_bake: false
