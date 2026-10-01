@@ -1,7 +1,7 @@
 ---
 id: T-1800
 title: The plank walks leave the signboard's tone: every walk and crossing in the town in the worn grey, brown and grey-brown palette the T-1795 map bounds, varied by owner and by board, checked lit in the browser at both viewports
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1796
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 6:14:43 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36853627678
+claimed_at: 2026-10-01T11:14:43.202Z
 decision: null
 decision_answer: null
 ---
