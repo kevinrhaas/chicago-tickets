@@ -59,3 +59,7 @@ a mown courtyard lawn; keep terrain height, collision and vegetation placement a
 ## Browser finding during T-1805 integration — 2026-10-01
 
 Isolated published desktop part 11 on dev commit 21acac92 independently reproduces the sward boundary failure: all 16 bearing bins are present at E -300 N 172, but the drawn boundary spans 3.9 pixels against the unchanged 4-pixel minimum. Ground reaches are 25.18–27.48 m at 1/16 coverage. Run: https://github.com/kevinrhaas/chicago/actions/runs/36895681173. The same reading occurs on the Glessner repair branch, whose changes do not alter flora. The earlier unfiltered September 30 receipt has identical reaches but 8.2 pixels of spread; camera/buffer diagnostics are being checked in PR #230. This ticket remains the owner of broader prairie appearance. Do not lower the boundary threshold to make this reading green.
+
+## Narrow boundary repair landed with T-1805 — 2026-10-01
+
+PR #230 merged to `dev` as `750391af`. Its full-detail mid-distance fringe increases from 3 m to 4 m; the 3.5 m trial remained below the existing threshold. Published desktop runs 36903382901 and 36905832670 pass at 4.94 px across all 16 bearings (E -300 N 172, 800 px buffer, FOV 55°, eye 1.68 m). The 4 px floor, coverage/density, nominal 27 m reach, Light/balanced overrides and rendering budgets are unchanged. This resolves the specific baseline finding above and provides a green starting point; it does not satisfy or close this programme's photographic-quality lakefront/prairie acceptance.
