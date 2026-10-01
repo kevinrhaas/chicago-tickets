@@ -1,7 +1,7 @@
 ---
 id: T-1825
 title: The inland prairie material and grass improved toward the photographic benchmark: an inland comparison at 390x780 and 1280x800 with the Glessner critique and frame costs
-state: review
+state: done
 epic: GROUND
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1820
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 248
 claimed_by: run 10/1/2026, 4:46:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T23:47:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36930475784
 claimed_at: 2026-10-01T21:46:01.510Z
 decision: null
