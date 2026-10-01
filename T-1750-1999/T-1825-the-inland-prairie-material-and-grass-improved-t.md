@@ -1,7 +1,7 @@
 ---
 id: T-1825
 title: The inland prairie material and grass improved toward the photographic benchmark: an inland comparison at 390x780 and 1280x800 with the Glessner critique and frame costs
-state: claimed
+state: review
 epic: GROUND
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1820
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 248
 claimed_by: run 10/1/2026, 4:46:01 PM CT
 blocked_on: null
 needs_bake: false
