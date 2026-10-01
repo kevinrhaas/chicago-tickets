@@ -54,6 +54,6 @@ from the order book, each row already ordered from a live ticket:
 - 42 more roofs are gated on `ground/west_division_beyond_committed_control`, waiting for committed street control west of Clinton and Canal
 
 **The frame budget the West is building against:** the worst stand for `full` and `balanced` is
-now Lake Street at Canal at both viewports. Desktop `full` clears by 32,056 triangles (2.20 %),
+now Lake Street at Canal at both viewports. Desktop `full` clears by 23,035 triangles (1.58 %, read with T-1776's stables standing),
 and the frame draws 205 of 215 calls there. Price any West parcel inside that stand's frustum
 with `tools/measure_detail_ceilings.mjs --price` before it deals.
