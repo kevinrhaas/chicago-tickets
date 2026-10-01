@@ -1,7 +1,7 @@
 ---
 id: T-1766
 title: The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1763
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive Canal approach build 9/30/2026, 9:06:24 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-01T02:06:24.337Z
 decision: null
 decision_answer: null
 ---
