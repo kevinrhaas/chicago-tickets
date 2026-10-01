@@ -331,5 +331,4 @@ T-1644 — The river walk's east end no longer walks far enough west: T-1630's r
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1743 — The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road
-T-1802 — Correct the stale blk_washington_franklin recipe #186 landed: its requests, lot 7's family and the yard mix to dev's seating and 665 plan
 T-1805 — Correct Glessner west-wing roof intersection, gable openings and sidewalk corner
