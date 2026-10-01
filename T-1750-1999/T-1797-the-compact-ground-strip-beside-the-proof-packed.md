@@ -1,7 +1,7 @@
 ---
 id: T-1797
 title: The compact ground strip beside the proof: packed dirt with irregular wear, bank soil, grey sand into sparse prairie through the real terrain/runtime-canvas path, costs measured, findings handed to T-1210–T-1213 and T-1770–T-1772
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1769
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 227
 claimed_by: run 10/1/2026, 7:56:25 AM CT
 blocked_on: null
 needs_bake: false
