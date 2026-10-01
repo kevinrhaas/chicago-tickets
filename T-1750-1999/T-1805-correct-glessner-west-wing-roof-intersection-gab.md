@@ -1,7 +1,7 @@
 ---
 id: T-1805
 title: Correct Glessner west-wing roof intersection, gable openings and sidewalk corner
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 230
 claimed_by: run 10/1/2026, 9:06:57 AM CT
 blocked_on: null
 needs_bake: true
@@ -38,3 +38,5 @@ The ticket budget refused this: the queue stands at 145 lines, at or over its ce
 ## Recovery — 2026-10-01
 
 Owner requested continuation of the interrupted session on the same branch. Recovered both remote source checkpoint `e643f977` and the later local full/light bake, cornice trim, sidewalk depth-bias correction and completed Blender review renders. The earlier CI bake failed at 208,041 light triangles; the recovered correction measures 196,687 against the unchanged 200,000 limit. Package and mesh-staleness checks pass. Full source gate and published desktop/mobile browser verification are still outstanding; no PR or merge is claimed yet.
+
+Recovery update: PR #230 is open as a draft. Full preflight passed with all 717 source checks green. Published mobile/desktop checks are running on GitHub; a subsequent dev merge is being integrated before final validation. Production promotion remains out of scope.
