@@ -1,7 +1,7 @@
 ---
 id: T-1814
 title: The walk itself varied by business and carried to every business face: a forwarding house's wide decked walk, a store's board walk, a works' bare ground, the new fronts town-wide as the frame budget allows, corner crossings at the principal streets
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1211
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 1:40:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T19:44:25.912Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36907201660
 claimed_at: 2026-10-01T18:40:28.716Z
 decision: null
