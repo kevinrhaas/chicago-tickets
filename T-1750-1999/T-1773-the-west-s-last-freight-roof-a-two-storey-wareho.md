@@ -1,7 +1,7 @@
 ---
 id: T-1773
 title: The West's last freight roof: a two-storey warehouse at Lake and West Water facing the forks, built and baked
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1764
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/30/2026, 11:14:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36813536636
+claimed_at: 2026-10-01T04:14:09.263Z
 decision: null
 decision_answer: null
 ---
