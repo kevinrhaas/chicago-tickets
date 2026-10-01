@@ -1,7 +1,7 @@
 ---
 id: T-1783
 title: Open the outer platted West blocks (Des Plaines, Jefferson and Canal faces of Fulton, Lake and Randolph) at a measured lot density and deal the owed D1–D3 cabins, prairie left between the clusters
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1208
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 215
 claimed_by: run 10/1/2026, 1:40:01 AM CT
 blocked_on: null
 needs_bake: false
