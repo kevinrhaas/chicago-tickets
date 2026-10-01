@@ -26,3 +26,15 @@ The five H2 boarding houses raised to their beds: upper windows and stovepipes s
 Piece 1 of 3 of **T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+The five standing H2 houses the lodging model counts as boarding houses
+(`recon_1835_north_h2_022/028/030/045`, `recon_1835_west_035`, all `frame_tavern`,
+`medium_boarding_house`) each carry `form.upper_windows` and `form.stovepipes` sized from a
+`reconstruction.capacity` block that names the lodging-model row it read and the rule that
+turned beds into the count, the way T-1778 sized the H3. The rule is written into their
+generators (`generate_north_infill.py`, `generate_west_infill.py`), so `--check` re-derives
+them; the five are rebaked with `bake.sh --only`; LIBERTIES records the H2 window band.
+Visible: from the street, each house's upper storey shows its chamber rhythm instead of the
+tavern's five bays, and stovepipes stand through the roof beside the two stacks.
+The H2 *merchant* houses (`frame_dwelling`, `merchant_or_professional_house`) are not
+boarding houses in the model and do not move.

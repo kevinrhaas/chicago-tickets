@@ -26,3 +26,9 @@ The two H1 boarding houses sized from their beds: frame_dwelling learns stovepip
 Piece 2 of 3 of **T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+The two H1 small boarding houses (`recon_1835_north_h1_007`, `recon_1835_west_006`) stand
+on `frame_dwelling`, which has no stovepipe parameter; its five-bay centre-passage front is
+the H1 crosswalk's stated "5 bays" and is not resized. `frame_dwelling` gains an off-by-default
+`stovepipes` count (every committed dwelling rebuilds byte-identical), and the two houses
+carry a `capacity` block and stovepipes sized from their beds by T-1806's rule, baked.
