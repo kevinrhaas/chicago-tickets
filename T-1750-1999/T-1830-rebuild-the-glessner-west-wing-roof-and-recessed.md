@@ -1,7 +1,7 @@
 ---
 id: T-1830
 title: Rebuild the Glessner west-wing roof and recessed north entrance from the elevations and floor plans
-state: claimed
+state: review
 epic: PRAIRIE1904
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 243
 claimed_by: interactive Glessner follow-up 10/1/2026, 4:32:52 PM CT
 blocked_on: null
 needs_bake: true
@@ -38,3 +38,11 @@ The ticket budget refused this: the queue stands at 147 lines, at or over its ce
 - Push progress checkpoints and recovery instructions during work.
 
 Owner supplied ten images on 2026-10-01, from image(20261001-210139).png through image(20261001-212524).png. HABS sheets 2 and 3 are included; contemporary photographs bound reconstruction without asserting that modern details are original. No source image pixels are used as textures.
+
+## Review checkpoint — 2026-10-01
+
+PR: https://github.com/kevinrhaas/chicago/pull/243
+Branch: steward/t-1830-glessner-west-wing-alcove
+Source checkpoint ece92a8; complete model/recovery commit a8fac67. Six full-model views and matching decoded light views reviewed. Planar roof and aperture regressions pass; all mesh versions are fresh and the exact package verifies. Source preflight: 727 steps, none red. Full/light architecture matches; light 188,675 triangles.
+
+Published browser checks on the complete commit are in progress, covering mobile and desktop stages 1–6 and 7–13. Keep the PR draft until they pass; then merge only to dev.
