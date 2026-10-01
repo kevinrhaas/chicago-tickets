@@ -87,3 +87,21 @@ checkpoints and keep this run's scope to the common package.
 **Glessner implementation:** [PR #201](https://github.com/kevinrhaas/chicago/pull/201),
 [promotion #202](https://github.com/kevinrhaas/chicago/pull/202);
 [1904 default](https://chicago.polecat.live/4d/dev/1904/?anchor=glessner_house&structure=glessner_house).
+
+
+## Ground and worn-plank extension — owner, 2026-09-30
+
+The preparation also serves T-1770–T-1772: audit the existing soil, mud, sand,
+riverbank and prairie maps (T-1450 explicitly deferred the ground integration).
+Include a compact ground strip adjoining the existing proof assembly: full-width
+packed dirt with irregular wear, worn bank soil, subdued grey/buff sand blending
+into sparse grass and prairie. Prove multi-scale masks and the selected maps in
+the real terrain/runtime-canvas path; do not bind building materials to ground
+without a demonstrated integration change. Supply reusable recipes and measured
+costs; the consuming tickets own citywide grading, docks and rollout.
+
+The proof's plank walk must be worn grey/brown/grey-brown/dark grey-brown, varied
+by owner/use, with grain, worn edges and grime. No default white boards, and no
+lit bleaching back to white. Pass these palette/roughness findings to T-1211 and
+T-1770–T-1771. This extension is part of the same bounded proof package, not a
+new open-ended research programme.

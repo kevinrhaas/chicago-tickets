@@ -78,3 +78,17 @@ Use shared timber/iron materials and bounded seeded variations.
 **Stop condition:** every business front has the street edge its trade would have had.
 
 **Links:** T-0003 · T-0038 · `data/frontage/` · T-1190 · T-1195.
+
+
+## Owner correction — plank colour, 2026-09-30
+
+Plank sidewalks must not read as white. Default to visibly worn grey, brown,
+grey-brown and dark grey-brown timber, with bounded differences by owner/frontage,
+maintenance, age, exposure and traffic; do not assign one uniform pale material
+citywide. Show grain, end grain, board-to-board variation, worn edges, local grime
+and darker damp areas without extreme random colours. A white/painted finish
+requires specific supporting evidence. Inspect albedo and the lit browser result:
+lighting, tone mapping and roughness must not bleach the boards back to white.
+Compare adjacent owners under the same exposure; preserve documented finishes and
+record inferred/reconstructed variation. Coordinate T-1770/T-1771's entrance and
+ramp grades. This is an explicit closure requirement for T-1211.

@@ -96,6 +96,10 @@ T-1209 — Build the boarding houses to their beds: the H1–H3 houses the lodgi
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 T-1769 — Prepare photographic-quality 1835 fabric from the Glessner v4 benchmark: audit textures, transfer proven techniques and publish a reusable proof package
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
+T-1770 — Grade citywide packed-dirt streets with irregular traffic wear and entrance-level plank walks, beginning with South Water
+T-1771 — Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
+T-1772 — Blend grey lakefront sand and gentle dune ridges into photographic-quality prairie grass without a sharp beach boundary
+# Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 T-1210 — Deal building fabric, finish and weathering by who lived and worked there: a physician's or forwarder's house painted and glazed, a tradesman's cottage weathered clapboard, a labourer's cabin unpainted and patched — the rule set on the material sheet, applied to every dwelling and business, no attested finish moved
 T-1211 — Plank sidewalks, stoops, hitching posts and street crossings for every business face, varied by the business — a forwarding house's wide decked walk, a store's board walk and stoop, a smithy's bare ground and rail, a tavern's posts and mounting block — extended to the new fronts town-wide
 T-1212 — Yards for every household: lot-line and dooryard fences, gardens, woodpiles, wells, privies and stables assigned by household type, wagons and barrels and trade goods at the shops by trade — the enclosure, yard and outbuilding layers extended to the reconstructed town
