@@ -34,3 +34,23 @@ the 55 `phase2_west_wolf_point_approaches` roofs adopted/redealt and the recipe'
 storefront standing `roofs_offered_and_unspent`) occupied or its use stated; the frame
 budget read on the published tree (`measure_detail_ceilings.mjs`); a screenshot from the
 Wolf Point tavern door; T-1208 handed on with the West's exact remainder.
+
+## Finding from T-1782 (2026-10-01): recon_1835_west_046's H2 verdict moves the lodger layer
+
+T-1782 carried 046's outstanding T-1445 verdict out alone (`execute_roof_redeal.py --apply --only
+recon_1835_west_046`, the `--only` flag that run added: F1 24×44 → H2 24×36 ft, baked). The
+platted deal then seated `hh_adams_james` on it (`blk_west_randolph_des_plaines#01`,
+merchant_and_professional_dwellings). The run had to back it out, because 046 enters the lodging
+model's H2 `boarding_house` class and re-splits that class's beds by floor area:
+`seat_lodgers_1835.py --build` then re-dealt the boarders ALREADY STANDING in nine houses
+(north_h1_007, north_h2_022/028/030/045, west_006, west_035, steamboat_hotel, kelsey) — west_035's
+six seated names all changed. Two defects surfaced on the way:
+(a) the reconstructed-house keeper is `pick()`ed off the frozen room with no ceiling test, so a house
+new to the deal can mint its keeper into a closed cell (`refuse()` then fails: "drew 2 out of
+persons/male/10_19/west/lodging/trade and the book now orders only 1"); a re-pick-only-when-closed
+patch (closed in the frozen ceiling OR the live book) fixed that without moving any standing keeper;
+(b) after that, `build_order_book_1835.py` faulted: "the re-family ledger lands 6 head(s) in
+persons/male/under_10/west/lodging/none, which orders 9 and already holds 5".
+So carrying 046 out needs either the lodging model to leave a deal-seated merchant H2 out of the
+boarding-house class, or the lodger re-deal argued and accepted. 047's stated use (T-1782) names the
+freight shed and must be restated when 046 changes.
