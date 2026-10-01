@@ -1,7 +1,7 @@
 ---
 id: T-1795
 title: The 1835 photographic-fabric audit and material/integration map: Glessner v4 methods extracted, the 1835 PBR library and ground maps audited, a reuse/regenerate/new decision per substrate, the albedo/variation integration strategy priced at Full/Balanced/Light
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1769
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 5:20:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36848142612
+claimed_at: 2026-10-01T10:20:06.456Z
 decision: null
 decision_answer: null
 ---
