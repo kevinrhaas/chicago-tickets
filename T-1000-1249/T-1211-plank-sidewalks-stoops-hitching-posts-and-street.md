@@ -1,7 +1,7 @@
 ---
 id: T-1211
 title: Plank sidewalks, stoops, hitching posts and street crossings for every business face, varied by the business — a forwarding house's wide decked walk, a store's board walk and stoop, a smithy's bare ground and rail, a tavern's posts and mounting block — extended to the new fronts town-wide
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: 2026-09-29
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 11:33:39 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T16:35:46.084Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36882927031
 claimed_at: 2026-10-01T16:33:40.102Z
 decision: null
