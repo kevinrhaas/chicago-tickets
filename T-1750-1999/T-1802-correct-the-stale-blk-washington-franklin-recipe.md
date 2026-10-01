@@ -1,7 +1,7 @@
 ---
 id: T-1802
 title: Correct the stale blk_washington_franklin recipe #186 landed: its requests, lot 7's family and the yard mix to dev's seating and 665 plan
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 229
 claimed_by: run 10/1/2026, 8:01:31 AM CT
 blocked_on: null
 needs_bake: false
