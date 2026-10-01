@@ -1,7 +1,7 @@
 ---
 id: T-1779
 title: Raise the remaining H3 boarding houses to their beds, each with its stable and privy, keepers and lodgers seated
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1209
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 9:01:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36867831474
+claimed_at: 2026-10-01T14:01:15.196Z
 decision: null
 decision_answer: null
 ---
