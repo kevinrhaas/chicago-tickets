@@ -96,7 +96,8 @@ T-1807 — The two H1 boarding houses sized from their beds: frame_dwelling lear
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
-T-1770 — Grade citywide packed-dirt streets with irregular traffic wear and entrance-level plank walks, beginning with South Water
+T-1811 — The worked roadway surface: every opened street drawn as full-width opaque packed earth with irregular wear laid in its own frame, the paired treads and grassy median retired, intensity by traffic class, every opened corridor enumerated, South Water reviewed at walker height and overhead
+T-1812 — The graded street section: the roadbed lowered below an entrance-level walk shelf in the terrain and the walker's collision, a measured South Water section, doors, crossings and intersections connected without seams, citywide before/after captures and frame costs
 T-1771 — Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
 T-1772 — Blend grey lakefront sand and gentle dune ridges into photographic-quality prairie grass without a sharp beach boundary
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
