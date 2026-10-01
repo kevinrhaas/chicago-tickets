@@ -1,7 +1,7 @@
 ---
 id: T-1799
 title: Wabansia's books closed: the West district's frame budget read on the published tree with the doctor's house standing, the Canal-approach screenshot looking west, T-1209 handed on with the West's remainder
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1785
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 223
 claimed_by: run 10/1/2026, 6:14:02 AM CT
 blocked_on: null
 needs_bake: false
