@@ -1,7 +1,7 @@
 ---
 id: T-1258
 title: Collect era-themed keepsakes in a five-family Chicago daybook
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-01
 pr: 226
 claimed_by: run 10/1/2026, 8:12:22 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T14:37:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36854422861
 claimed_at: 2026-10-01T13:12:22.862Z
 decision: null
