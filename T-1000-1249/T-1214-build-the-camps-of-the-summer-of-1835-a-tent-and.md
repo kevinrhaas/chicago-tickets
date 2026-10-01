@@ -1,7 +1,7 @@
 ---
 id: T-1214
 title: Build the camps of the summer of 1835: a tent and wagon-camp archetype, the encampments on the grounds the transient ticket evidenced — the land-sale crowd south of the fort, the immigrants' wagons at the west approach, the pier gang at the river mouth — bounded, labelled, and empty of figures
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 8:23:42 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-01T13:27:34.007Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36867717332
 claimed_at: 2026-10-01T13:23:42.965Z
 decision: null
