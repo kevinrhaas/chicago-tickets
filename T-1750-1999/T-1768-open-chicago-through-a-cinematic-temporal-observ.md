@@ -1,7 +1,7 @@
 ---
 id: T-1768
 title: Open Chicago through a cinematic temporal observatory with three eras and shared interface skins
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-09-30
 pr: 207
 claimed_by: interactive temporal menu
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T03:57:37Z
 claimed_run: null
 claimed_at: 2026-10-01T03:07:33.236Z
 decision: null
