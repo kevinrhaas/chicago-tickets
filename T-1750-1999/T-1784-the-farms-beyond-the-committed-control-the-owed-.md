@@ -1,7 +1,7 @@
 ---
 id: T-1784
 title: The farms beyond the committed control: the owed West farm households dealt as an off-plat D1 cabin and A2 barn recipe on the extended ground to E −700
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1208
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 1:43:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36825990524
+claimed_at: 2026-10-01T06:43:35.160Z
 decision: null
 decision_answer: null
 ---
