@@ -1,7 +1,7 @@
 ---
 id: T-1778
 title: The H3 boarding house's form: two storeys, a rear service wing, 6-10 upper windows and stovepipes sized from its beds, on the two-storey frame without the tavern's cues — raised on the first seat
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1209
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: 224
 claimed_by: run 10/1/2026, 6:03:02 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T13:57:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36852611268
 claimed_at: 2026-10-01T11:03:02.810Z
 decision: null
