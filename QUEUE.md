@@ -95,7 +95,6 @@ T-1806 — The five H2 boarding houses raised to their beds: upper windows and s
 T-1807 — The two H1 boarding houses sized from their beds: frame_dwelling learns stovepipes, north_h1_007 and west_006 baked
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
-T-1797 — The compact ground strip beside the proof: packed dirt with irregular wear, bank soil, grey sand into sparse prairie through the real terrain/runtime-canvas path, costs measured, findings handed to T-1210–T-1213 and T-1770–T-1772
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
 T-1770 — Grade citywide packed-dirt streets with irregular traffic wear and entrance-level plank walks, beginning with South Water
 T-1771 — Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
