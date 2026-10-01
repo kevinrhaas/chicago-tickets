@@ -1,7 +1,7 @@
 ---
 id: T-1764
 title: The cabins and boarding houses of the forks, and Wolf Point's books closed: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1207
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/30/2026, 11:08:53 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36813536636
+claimed_at: 2026-10-01T04:08:53.207Z
 decision: null
 decision_answer: null
 ---
