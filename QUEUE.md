@@ -93,7 +93,6 @@ T-1783 — Open the outer platted West blocks (Des Plaines, Jefferson and Canal 
 T-1798 — Wabansia's one evidenced household built: the doctor's house with its kitchen ell, the barn and the fenced garden, named records on blk_wabansia_c_t7, baked
 T-1799 — Wabansia's books closed: the West district's frame budget read on the published tree with the doctor's house standing, the Canal-approach screenshot looking west, T-1209 handed on with the West's remainder
 T-1776 — The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
-T-1777 — Where the H3 boarding houses can stand: every scheduled H3 slot is refused today (the South's only free lots are the ones each block keeps open; no admitting clause North or West) — the placement ruled and the first seat found
 T-1778 — The H3 boarding house's form: two storeys, a rear service wing, 6-10 upper windows and stovepipes sized from its beds, on the two-storey frame without the tavern's cues — raised on the first seat
 T-1779 — Raise the remaining H3 boarding houses to their beds, each with its stable and privy, keepers and lodgers seated
 T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on
