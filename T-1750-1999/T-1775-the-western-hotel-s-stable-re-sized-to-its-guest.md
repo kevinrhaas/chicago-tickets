@@ -1,7 +1,7 @@
 ---
 id: T-1775
 title: The Western Hotel's stable re-sized to its guests: the teams the house's beds imply stalled in a stable drawn for about eight horses, the wagon yard kept on its corners
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1209
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 9/30/2026, 11:14:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36813543008
+claimed_at: 2026-10-01T04:14:47.622Z
 decision: null
 decision_answer: null
 ---
