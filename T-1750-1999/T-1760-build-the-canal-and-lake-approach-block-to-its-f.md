@@ -1,7 +1,7 @@
 ---
 id: T-1760
 title: Build the Canal and Lake approach block to its first roofs: blk_lake_clinton's requested dwellings and their yard buildings, the rest of its lots left open
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
