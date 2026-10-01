@@ -89,7 +89,6 @@
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
 T-1766 — The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
 T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
-T-1783 — Open the outer platted West blocks (Des Plaines, Jefferson and Canal faces of Fulton, Lake and Randolph) at a measured lot density and deal the owed D1–D3 cabins, prairie left between the clusters
 T-1778 — The H3 boarding house's form: two storeys, a rear service wing, 6-10 upper windows and stovepipes sized from its beds, on the two-storey frame without the tavern's cues — raised on the first seat
 T-1779 — Raise the remaining H3 boarding houses to their beds, each with its stable and privy, keepers and lodgers seated
 T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on
