@@ -69,3 +69,18 @@ employment coverage; L252 (94 in 17 → 103 in 18), L254/L257–L260/L262 (33 �
 the dossier's closing-table lodgers row, and `build_order_book_1835.py`'s self-test pin on
 `seated` (249 → 250). That tree read `check.sh` CHECK PASS 712/712 and smoke part 1 80/80 on
 desktop and 390×780.
+
+## Finding from T-1783 (2026-10-01): the order book's two West rows now point here
+
+T-1783 (#215) opened the outer platted West blocks at a West lot density and built the four roofs
+on `blk_west_randolph_des_plaines`. Its merge with dev after T-1794 (#216) and T-1773 (#217) left
+two rows of `build_order_book_1835.py`'s owner table on done tickets, which the gate refuses:
+`structures/ordinary_dwellings/west` (19 left, was T-1794) and `structures/warehouses_freight/west`
+(2 of 2, was T-1773). With T-1781..T-1784 all closed, this ticket is the one whose acceptance hands
+T-1208 on "with the West's exact remainder", so both rows now name T-1774. The queue was over its
+ceiling, so this is a finding here, not a new line. The remainder this ticket hands on includes
+`blk_west_lake_canal`'s dealt cottages. T-1773's warehouse now stands on plat lot 1 there, so
+`reconcile_665.py` reads that block at 3 standing / 3 room (6 per 10 lots): **three** cottages, not
+the four T-1783's first reading named. The households the platted deal seats as slots on them are
+in `1835_platted_seats.json`. Hand the cottages and the district balance on as their own build
+(needs_bake) when this closes; do not build them here.
