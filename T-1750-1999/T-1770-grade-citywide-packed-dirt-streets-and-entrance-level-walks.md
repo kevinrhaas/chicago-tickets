@@ -56,3 +56,16 @@ lighting, tone mapping and roughness must not bleach the boards back to white.
 Compare adjacent owners under the same exposure; preserve documented finishes and
 record inferred/reconstructed variation. Coordinate T-1770/T-1771's entrance and
 ramp grades. This is an explicit closure requirement for this street ticket and T-1211.
+
+## Implementation evidence and coverage — 2026-10-01
+
+Read [the shared ground brief](../evidence/1835-ground-photographic-quality-brief.md).
+The current `streets.js::roadTexture` explicitly draws rut bands at 0.29/0.71 and
+allows prairie through the translucent road; the mesh uses `track_width_m` and
+drapes existing terrain. Replace that shared rule with actual broad worked-road
+coverage and a coherent graded section. Keep surveyed street positions/corridors;
+enumerate opened versus merely platted corridors, and do not clear unopened land
+just because it is mapped. Sand approaches retain their appropriate substrate.
+Use one authoritative elevation and wear contract for rendered terrain, walker
+collision, doorstep/walk connections and vegetation exclusion. Include a measured
+South Water section in the acceptance evidence; avoid a uniform citywide trench.

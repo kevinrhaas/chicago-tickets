@@ -42,3 +42,15 @@ Owner request, 2026-09-30: keep the fort's sandy setting, extend the shoreline c
 **Common visual release requirement:** photographic quality, meeting and aiming to surpass the promoted Glessner House v4 benchmark (PR #201/#202 in the code repo). Read its texture research, material library and final QA alongside T-1769, T-1450 and `docs/RESEARCH/materials.md` / `texture_library.md`. Transfer reference-led iteration, metric texture scale, layered variation, physical relief and controlled lighting rather than mansion materials. Inspect actual exported/runtime output at 390×780 and 1280×800, close and context distances under fixed lighting/exposure, with reference comparisons and a written critique. Correct visible defects before closure; automated green checks or offline beauty renders alone do not meet this standard. Measure frame time, draw calls, triangles and texture memory before/after at worst stands and all detail tiers; preserve the Light floor and shared batching. Keep provenance/rights, tiers, seeds and reproducible recipes. Push interim commits so another run can resume. Needs bake includes changed terrain/model derivatives; publish the actual result and recheck collision/height sampling.
 
 **Queue placement:** owner-requested scene improvement beside the finish preparation, below the current 5C builds. This is substantive city rendering work, not a loop follow-up.
+
+## Implementation evidence and coverage — 2026-10-01
+
+Read [the shared ground brief](../evidence/1835-ground-photographic-quality-brief.md).
+The terrain already has a 50 m substrate edge ramp; merely increasing that global
+ramp cannot demonstrate this improvement. Use shore-following landform and material
+masks, coordinating mineral sand, soil, roughness, exposed ground, grass density
+and height. Preserve July 1835's selected shoreline and harbour works, including
+the corrected mouth/bar, rather than an older river-mouth state or modern fill.
+Show north and south fort-to-inland transects and an inland prairie comparison.
+Adapt Glessner's coherent growth/thatch variation to natural prairie, without copying
+a mown courtyard lawn; keep terrain height, collision and vegetation placement aligned.

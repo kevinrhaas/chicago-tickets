@@ -105,3 +105,11 @@ by owner/use, with grain, worn edges and grime. No default white boards, and no
 lit bleaching back to white. Pass these palette/roughness findings to T-1211 and
 T-1770–T-1771. This extension is part of the same bounded proof package, not a
 new open-ended research programme.
+
+## Reference and integration handoff — 2026-10-01
+
+Read [the ground photographic-quality brief](../evidence/1835-ground-photographic-quality-brief.md)
+for the inspected peer-city views, current renderer findings and limits on transferring
+Glessner's lawn techniques to July prairie. Its material and runtime findings belong
+in this package's reusable decisions and compact proof, rather than a second research
+programme. The consuming tickets retain responsibility for grading and citywide rollout.

@@ -42,3 +42,14 @@ Owner request, 2026-09-30: South Water's river work areas should be worn dirt, w
 **Common visual release requirement:** photographic quality, meeting and aiming to surpass the promoted Glessner House v4 benchmark (PR #201/#202 in the code repo). Read its texture research, material library and final QA alongside T-1769, T-1450 and `docs/RESEARCH/materials.md` / `texture_library.md`. Transfer reference-led iteration, metric texture scale, layered variation, physical relief and controlled lighting rather than mansion materials. Inspect actual exported/runtime output at 390×780 and 1280×800, close and context distances under fixed lighting/exposure, with reference comparisons and a written critique. Correct visible defects before closure; automated green checks or offline beauty renders alone do not meet this standard. Measure frame time, draw calls, triangles and texture memory before/after at worst stands and all detail tiers; preserve the Light floor and shared batching. Keep provenance/rights, tiers, seeds and reproducible recipes. Push interim commits so another run can resume. Needs bake includes changed terrain/model derivatives; publish the actual result and recheck collision/height sampling.
 
 **Queue placement:** owner-requested scene improvement beside the finish preparation, below the current 5C builds. This is substantive city rendering work, not a loop follow-up.
+
+## Implementation evidence and coverage — 2026-10-01
+
+Read [the shared ground brief](../evidence/1835-ground-photographic-quality-brief.md).
+Reuse the existing wharf/landing work (including T-0062) and preserve the settled
+T-1628–T-1630 bank/mouth corrections; do not duplicate docks or reshape the surveyed
+bank to fit the St Louis illustration. Account for every active working-bank record,
+including South Water from the forks toward the fort, with explicit exceptions.
+Use the same height and wear masks for ramps, collision, timber contact and plant
+exclusions. Show a measured cross-section from entrance/walk through road, apron,
+ramp and low dock to water, alongside the close and wider browser comparisons.
