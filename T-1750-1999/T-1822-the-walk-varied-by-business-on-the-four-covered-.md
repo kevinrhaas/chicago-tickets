@@ -1,7 +1,7 @@
 ---
 id: T-1822
 title: The walk varied by business on the four covered streets: a forwarding house's 10 ft decked walk, a works' bare ground, stores and inns on the board walk
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1814
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 240
 claimed_by: run 10/1/2026, 2:44:30 PM CT
 blocked_on: null
 needs_bake: false
