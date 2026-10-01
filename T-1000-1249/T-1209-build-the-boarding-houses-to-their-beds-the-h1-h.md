@@ -39,3 +39,21 @@ household in it.
 
 **Links:** T-1200 · T-1164 · T-1187 · T-1175 ·
 `data/structures/brown_boarding_house.json` · `docs/RESEARCH/western_hotel.md`.
+
+## Handed on from T-1208 — the West's remainder (T-1799, 2026-10-01)
+
+T-1208 (the West Division's outer clusters and Wabansia) closed its last piece with T-1799;
+its reading is `data/render/west_close_out.json` in the code repo. What the West still owes,
+from the order book, each row already ordered from a live ticket:
+
+- `larger_boarding_houses/west` — 6 set, 2 standing, **4 to build** → T-1779 (this ticket's own row)
+- `ordinary_dwellings/west` — 75 / 56, **19** → T-1783
+- `barns_stables/west` — 20 / 14, **6** → T-1212; `small_outbuildings/west` — 14 / 6, **8** → T-1212
+- `stores_mixed_use/west` — 6 / 4, **2** and `workshops/west` — 8 / 5, **3** → T-1766
+- inns/taverns, freight and institutional rows are full (0 left)
+- 42 more roofs are gated on `ground/west_division_beyond_committed_control`, waiting for committed street control west of Clinton and Canal
+
+**The frame budget the West is building against:** the worst stand for `full` and `balanced` is
+now Lake Street at Canal at both viewports. Desktop `full` clears by 32,056 triangles (2.20 %),
+and the frame draws 205 of 215 calls there. Price any West parcel inside that stand's frustum
+with `tools/measure_detail_ceilings.mjs --price` before it deals.
