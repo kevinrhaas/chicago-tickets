@@ -1,7 +1,7 @@
 ---
 id: T-1811
 title: The worked roadway surface: every opened street drawn as full-width opaque packed earth with irregular wear laid in its own frame, the paired treads and grassy median retired, intensity by traffic class, every opened corridor enumerated, South Water reviewed at walker height and overhead
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1770
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 10:24:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36878737957
+claimed_at: 2026-10-01T15:24:57.156Z
 decision: null
 decision_answer: null
 ---
