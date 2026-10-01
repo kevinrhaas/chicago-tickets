@@ -1,7 +1,7 @@
 ---
 id: T-1800
 title: The plank walks leave the signboard's tone: every walk and crossing in the town in the worn grey, brown and grey-brown palette the T-1795 map bounds, varied by owner and by board, checked lit in the browser at both viewports
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1796
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 222
 claimed_by: run 10/1/2026, 6:14:43 AM CT
 blocked_on: null
 needs_bake: false
