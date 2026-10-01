@@ -1,7 +1,7 @@
 ---
 id: T-1798
 title: Wabansia's one evidenced household built: the doctor's house with its kitchen ell, the barn and the fenced garden, named records on blk_wabansia_c_t7, baked
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1785
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 218
 claimed_by: run 10/1/2026, 5:30:47 AM CT
 blocked_on: null
 needs_bake: false
