@@ -1,7 +1,7 @@
 ---
 id: T-1803
 title: The camp archetype and the landing-place camps: wall and wedge tents, a covered wagon, fire rings and baggage on the South Water bank for the 28 camp households the transient model seats at the landing (the one documented ground), baked, visible from the landing
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1214
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 227
 claimed_by: run 10/1/2026, 8:27:38 AM CT
 blocked_on: null
 needs_bake: false
