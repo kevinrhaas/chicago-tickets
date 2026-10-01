@@ -1,7 +1,7 @@
 ---
 id: T-1776
 title: The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1209
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: 221
 claimed_by: run 10/1/2026, 5:04:01 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T11:42:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36846442980
 claimed_at: 2026-10-01T10:04:01.409Z
 decision: null
