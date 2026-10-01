@@ -54,3 +54,8 @@ the corrected mouth/bar, rather than an older river-mouth state or modern fill.
 Show north and south fort-to-inland transects and an inland prairie comparison.
 Adapt Glessner's coherent growth/thatch variation to natural prairie, without copying
 a mown courtyard lawn; keep terrain height, collision and vegetation placement aligned.
+
+
+## Browser finding during T-1805 integration — 2026-10-01
+
+Isolated published desktop part 11 on dev commit 21acac92 independently reproduces the sward boundary failure: all 16 bearing bins are present at E -300 N 172, but the drawn boundary spans 3.9 pixels against the unchanged 4-pixel minimum. Ground reaches are 25.18–27.48 m at 1/16 coverage. Run: https://github.com/kevinrhaas/chicago/actions/runs/36895681173. The same reading occurs on the Glessner repair branch, whose changes do not alter flora. The earlier unfiltered September 30 receipt has identical reaches but 8.2 pixels of spread; camera/buffer diagnostics are being checked in PR #230. This ticket remains the owner of broader prairie appearance. Do not lower the boundary threshold to make this reading green.
