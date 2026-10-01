@@ -1,7 +1,7 @@
 ---
 id: T-1807
 title: The two H1 boarding houses sized from their beds: frame_dwelling learns stovepipes, north_h1_007 and west_006 baked
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1780
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 233
 claimed_by: run 10/1/2026, 11:25:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T17:42:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36874944140
 claimed_at: 2026-10-01T16:25:26.729Z
 decision: null
