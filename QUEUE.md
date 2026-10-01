@@ -87,7 +87,6 @@
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-T-1760 — Build the Canal and Lake approach block to its first roofs: blk_lake_clinton's requested dwellings and their yard buildings, the rest of its lots left open
 T-1761 — Raise blk_randolph_clinton's two standing requests: the Canal face's remaining dwellings and their yard buildings on the teamster approach
 T-1766 — The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
 T-1773 — The West's last freight roof: a two-storey warehouse at Lake and West Water facing the forks, built and baked
