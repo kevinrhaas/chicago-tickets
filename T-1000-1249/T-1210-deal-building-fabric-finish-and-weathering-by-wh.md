@@ -1,7 +1,7 @@
 ---
 id: T-1210
 title: Deal building fabric, finish and weathering by who lived and worked there: a physician's or forwarder's house painted and glazed, a tradesman's cottage weathered clapboard, a labourer's cabin unpainted and patched — the rule set on the material sheet, applied to every dwelling and business, no attested finish moved
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 1:36:17 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36907211976
+claimed_at: 2026-10-01T18:36:17.854Z
+decision: null
+decision_answer: null
 ---
 
 The owner: *"be precise where you can and make sure that businesses and residences are correctly
