@@ -1,7 +1,7 @@
 ---
 id: T-1777
 title: Where the H3 boarding houses can stand: every scheduled H3 slot is refused today (the South's only free lots are the ones each block keeps open; no admitting clause North or West) — the placement ruled and the first seat found
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1209
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 5:06:18 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36846685335
+claimed_at: 2026-10-01T10:06:18.662Z
 decision: null
 decision_answer: null
 ---
