@@ -1,7 +1,7 @@
 ---
 id: T-1208
 title: Build the West Division's outer clusters and Wabansia to their seats: the three looser clusters toward the Des Plaines edge, the Wabansia cabins on the North Branch, the farms and barns on the prairie edge, the held 35 slots released on the extended ground
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-09-30
 pr: null
 claimed_by: run 9/30/2026, 11:09:12 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-01T04:16:06.276Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36813517552
 claimed_at: 2026-10-01T04:09:12.475Z
 decision: null

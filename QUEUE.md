@@ -92,7 +92,11 @@ T-1761 — Raise blk_randolph_clinton's two standing requests: the Canal face's 
 T-1766 — The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
 T-1773 — The West's last freight roof: a two-storey warehouse at Lake and West Water facing the forks, built and baked
 T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
-T-1208 — Build the West Division's outer clusters and Wabansia to their seats: the three looser clusters toward the Des Plaines edge, the Wabansia cabins on the North Branch, the farms and barns on the prairie edge, the held 35 slots released on the extended ground
+T-1781 — The Des Plaines edge farmsteads: w5's five standing redeal verdicts carried out (west_050–052 and 054 to D1 cabins, 053 to an A2 barn beside 055), baked, and the households re-seated on what stands
+T-1782 — The Jefferson and Clinton clusters' books closed: the w3/w4 roofs no household holds (036 W5, 037 and 047 A1, 046 F1 under its H2 verdict) seated or their use stated, agreed with T-1764 on the forks' 013 and 020
+T-1783 — Open the outer platted West blocks (Des Plaines, Jefferson and Canal faces of Fulton, Lake and Randolph) at a measured lot density and deal the owed D1–D3 cabins, prairie left between the clusters
+T-1784 — The farms beyond the committed control: the owed West farm households dealt as an off-plat D1 cabin and A2 barn recipe on the extended ground to E −700
+T-1785 — Wabansia's one evidenced household (the doctor's four rooms, kitchen, barn and garden) built or recorded at zero, the district's frame budget read, the Canal-approach screenshot west, T-1209 handed on
 T-1775 — The Western Hotel's stable re-sized to its guests: the teams the house's beds imply stalled in a stable drawn for about eight horses, the wagon yard kept on its corners
 T-1776 — The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
 T-1777 — Where the H3 boarding houses can stand: every scheduled H3 slot is refused today (the South's only free lots are the ones each block keeps open; no admitting clause North or West) — the placement ruled and the first seat found
