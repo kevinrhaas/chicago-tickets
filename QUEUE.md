@@ -310,6 +310,7 @@ T-1749 — The frontage smoke's fence census has drifted on dev: 28 fence runs w
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
 T-1758 — Build the Market block of the plat's last tier to its seats: the seven cottages and yard buildings the platted deal holds on blk_washington_market
 T-1759 — Build the South Division's remaining ordinary dwellings on the plat's last tier: the Dearborn, Market and Clark blocks the platted deal still holds slots against, the rest of the tier's open ground left honestly open
+T-1828 — dev's gate is red on the site budget: T-1821's prairie-1904/research collection (73.3 MB, 250 files) put the published tree at 287 MB against the 256 MB budget — slim or move it so dev and every open PR can gate green
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
