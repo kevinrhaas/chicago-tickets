@@ -90,7 +90,9 @@
 T-1766 — The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
 T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
 T-1779 — Raise the remaining H3 boarding houses to their beds, each with its stable and privy, keepers and lodgers seated
-T-1780 — The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on
+T-1806 — The five H2 boarding houses raised to their beds: upper windows and stovepipes sized from capacity, north and west, baked
+T-1807 — The two H1 boarding houses sized from their beds: frame_dwelling learns stovepipes, north_h1_007 and west_006 baked
+T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 T-1797 — The compact ground strip beside the proof: packed dirt with irregular wear, bank soil, grey sand into sparse prairie through the real terrain/runtime-canvas path, costs measured, findings handed to T-1210–T-1213 and T-1770–T-1772
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.

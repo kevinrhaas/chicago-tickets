@@ -1,7 +1,7 @@
 ---
 id: T-1780
 title: The smaller houses and the books: H1/H2 fenestration and chimneys from capacity once T-1293/T-1196 rule what they are, the frame budget read, a boarding-house row screenshot, T-1214 handed on
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1209
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 9:33:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T14:33:15.455Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36867729968
 claimed_at: 2026-10-01T14:33:04.544Z
 decision: null
