@@ -90,7 +90,6 @@
 T-1766 — The grocery and the workshops the memo seats on the Canal Street approach: the west's two remaining stores and three shops
 T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
 T-1783 — Open the outer platted West blocks (Des Plaines, Jefferson and Canal faces of Fulton, Lake and Randolph) at a measured lot density and deal the owed D1–D3 cabins, prairie left between the clusters
-T-1798 — Wabansia's one evidenced household built: the doctor's house with its kitchen ell, the barn and the fenced garden, named records on blk_wabansia_c_t7, baked
 T-1799 — Wabansia's books closed: the West district's frame budget read on the published tree with the doctor's house standing, the Canal-approach screenshot looking west, T-1209 handed on with the West's remainder
 T-1776 — The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
 T-1778 — The H3 boarding house's form: two storeys, a rear service wing, 6-10 upper windows and stovepipes sized from its beds, on the two-storey frame without the tavern's cues — raised on the first seat
