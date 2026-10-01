@@ -1,7 +1,7 @@
 ---
 id: T-1794
 title: Deal the owed West farm households on the ground the measurement found: raise the farmsteads it admits as an off-plat D1 cabin + A2 barn recipe, baked, seated ahead of the labourers by a farmstead rule, and state the rest as living beyond the modelled ground
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1784
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 216
 claimed_by: run 10/1/2026, 2:58:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T08:36:34Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36833248969
 claimed_at: 2026-10-01T07:58:23.240Z
 decision: null

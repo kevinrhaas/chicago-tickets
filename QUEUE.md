@@ -92,7 +92,6 @@ T-1766 — The grocery and the workshops the memo seats on the Canal Street appr
 T-1773 — The West's last freight roof: a two-storey warehouse at Lake and West Water facing the forks, built and baked
 T-1774 — Wolf Point's books closed once T-1760, T-1761, T-1766, T-1208 and T-1209 land: the pre-plat West roofs reconciled, the refusals resolved, the frame budget read, T-1208 handed on
 T-1783 — Open the outer platted West blocks (Des Plaines, Jefferson and Canal faces of Fulton, Lake and Randolph) at a measured lot density and deal the owed D1–D3 cabins, prairie left between the clusters
-T-1794 — Deal the owed West farm households on the ground the measurement found: raise the farmsteads it admits as an off-plat D1 cabin + A2 barn recipe, baked, seated ahead of the labourers by a farmstead rule, and state the rest as living beyond the modelled ground
 T-1785 — Wabansia's one evidenced household (the doctor's four rooms, kitchen, barn and garden) built or recorded at zero, the district's frame budget read, the Canal-approach screenshot west, T-1209 handed on
 T-1776 — The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
 T-1777 — Where the H3 boarding houses can stand: every scheduled H3 slot is refused today (the South's only free lots are the ones each block keeps open; no admitting clause North or West) — the placement ruled and the first seat found
