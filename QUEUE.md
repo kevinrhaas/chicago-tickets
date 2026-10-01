@@ -97,7 +97,6 @@ T-1782 — The Jefferson and Clinton clusters' books closed: the w3/w4 roofs no 
 T-1783 — Open the outer platted West blocks (Des Plaines, Jefferson and Canal faces of Fulton, Lake and Randolph) at a measured lot density and deal the owed D1–D3 cabins, prairie left between the clusters
 T-1784 — The farms beyond the committed control: the owed West farm households dealt as an off-plat D1 cabin and A2 barn recipe on the extended ground to E −700
 T-1785 — Wabansia's one evidenced household (the doctor's four rooms, kitchen, barn and garden) built or recorded at zero, the district's frame budget read, the Canal-approach screenshot west, T-1209 handed on
-T-1775 — The Western Hotel's stable re-sized to its guests: the teams the house's beds imply stalled in a stable drawn for about eight horses, the wagon yard kept on its corners
 T-1776 — The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
 T-1777 — Where the H3 boarding houses can stand: every scheduled H3 slot is refused today (the South's only free lots are the ones each block keeps open; no admitting clause North or West) — the placement ruled and the first seat found
 T-1778 — The H3 boarding house's form: two storeys, a rear service wing, 6-10 upper windows and stovepipes sized from its beds, on the two-storey frame without the tavern's cues — raised on the first seat
