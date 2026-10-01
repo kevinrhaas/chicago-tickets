@@ -1,7 +1,7 @@
 ---
 id: T-1828
 title: dev's gate is red on the site budget: T-1821's prairie-1904/research collection (73.3 MB, 250 files) put the published tree at 287 MB against the 256 MB budget — slim or move it so dev and every open PR can gate green
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 241
 claimed_by: run 10/1/2026, 4:26:55 PM CT
 blocked_on: null
 needs_bake: false
