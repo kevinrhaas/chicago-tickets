@@ -1,7 +1,7 @@
 ---
 id: T-1793
 title: The West farm ground measured: the off-plat West ground outside the corporation limits, by survey tract, in forties; the documented farm-size entries on it; the programme headroom a farmstead (D1 cabin + A2 barn) would draw on; and the rung of the 44 owed farm households — no roof raised
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1784
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 214
 claimed_by: run 10/1/2026, 1:50:42 AM CT
 blocked_on: null
 needs_bake: false
