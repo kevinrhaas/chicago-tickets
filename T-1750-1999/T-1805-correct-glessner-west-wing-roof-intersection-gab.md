@@ -1,7 +1,7 @@
 ---
 id: T-1805
 title: Correct Glessner west-wing roof intersection, gable openings and sidewalk corner
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 230
 claimed_by: run 10/1/2026, 9:06:57 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-01T19:16:49Z
 claimed_run: null
 claimed_at: 2026-10-01T14:06:57.735Z
 decision: null
