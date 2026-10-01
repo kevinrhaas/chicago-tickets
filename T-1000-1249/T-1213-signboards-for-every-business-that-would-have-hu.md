@@ -38,6 +38,38 @@ reconstructions. Drawn at load — no bake.
 - **Visible:** South Water and Lake Street read as a business street from the walker's eye; a
   sign tap opens the business card (T-1181).
 
+## Photographic-quality benchmark — owner, 2026-09-30
+
+The owner sets **photographic quality** as the standard: the successful Glessner
+House v4 rendering in the 1904 scene is the minimum visual benchmark to live up
+to and surpass. Complete and consume **T-1769's preparation package before closing
+this ticket**. Reuse its proven methods and shared assets where appropriate;
+adapt them to July 1835 materials, construction, age and use.
+
+Acceptance also requires inspection of the **actual published browser output** at
+390×780 and 1280×800: fixed walker's-eye views, closeups and a wider context view,
+with before/after captures, reference comparisons and a written visual critique.
+Compare against the promoted Glessner v4 baseline and record which techniques
+were reused, adapted or rejected, why, and which qualities match or improve on it.
+Review physical scale, relief/silhouette, joinery, surface response, variation,
+contact/depth shadows, tiling and shimmer. A green validator, a texture contact
+sheet or an offline beauty render alone cannot establish photographic quality;
+visible shortcomings must be corrected before closure.
+
+Preserve historical tiers and attested/inferred facts. Photograph-like appearance
+does not make reconstructed detail attested. Measure town-wide costs before and
+after at the relevant worst stands and all detail tiers; retain the Light floor,
+shared-material batching and deliberate, measured re-budgeting under AGENTS.md.
+Glessner's local Full allowance is not a town-wide budget.
+
+**Sign-specific acceptance:** lettering is period-appropriate painted work on
+wood, with credible board thickness, grain, paint coverage, edge wear and attachment.
+Brackets, straps and poles use shared timber/iron materials; shadows and mounting
+depth must read correctly. Text stays legible at the walker's intended viewing
+distance without looking like a modern glowing overlay. Review a store board,
+bracket sign and tavern device, including oblique and mobile views. Wear cannot erase
+the business name or change attested wording, and no sign obscures an opening.
+
 **Stop condition:** every firm that would have hung a sign has one, and every sign says what it
 is.
 

@@ -43,6 +43,38 @@ none. Drawn at load — no bake.
   kerb rule; **visible** at both viewports: a walk along the whole of South Water and Lake, and
   the variety readable from one screenshot.
 
+## Photographic-quality benchmark — owner, 2026-09-30
+
+The owner sets **photographic quality** as the standard: the successful Glessner
+House v4 rendering in the 1904 scene is the minimum visual benchmark to live up
+to and surpass. Complete and consume **T-1769's preparation package before closing
+this ticket**. Reuse its proven methods and shared assets where appropriate;
+adapt them to July 1835 materials, construction, age and use.
+
+Acceptance also requires inspection of the **actual published browser output** at
+390×780 and 1280×800: fixed walker's-eye views, closeups and a wider context view,
+with before/after captures, reference comparisons and a written visual critique.
+Compare against the promoted Glessner v4 baseline and record which techniques
+were reused, adapted or rejected, why, and which qualities match or improve on it.
+Review physical scale, relief/silhouette, joinery, surface response, variation,
+contact/depth shadows, tiling and shimmer. A green validator, a texture contact
+sheet or an offline beauty render alone cannot establish photographic quality;
+visible shortcomings must be corrected before closure.
+
+Preserve historical tiers and attested/inferred facts. Photograph-like appearance
+does not make reconstructed detail attested. Measure town-wide costs before and
+after at the relevant worst stands and all detail tiers; retain the Light floor,
+shared-material batching and deliberate, measured re-budgeting under AGENTS.md.
+Glessner's local Full allowance is not a town-wide budget.
+
+**Street-edge-specific acceptance:** planks have period scale and direction,
+board seams, end grain, worn edges and restrained variation; stoops, posts, mounting
+blocks and rails have convincing thickness, joinery, ground contact and shadows.
+Near-view detail must support silhouettes and depth where a normal map cannot.
+Compare a forwarding frontage, store and tavern/smithy under the same camera and
+lighting settings; remove floating boards, repeated noise and texture stretching.
+Use shared timber/iron materials and bounded seeded variations.
+
 **Stop condition:** every business front has the street edge its trade would have had.
 
 **Links:** T-0003 · T-0038 · `data/frontage/` · T-1190 · T-1195.
