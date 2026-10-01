@@ -127,9 +127,10 @@ T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
-T-0475 — Build the 1904 Prairie Avenue landmark mansion core
-T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
-T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
+# HOLD — owner, 2026-09-30: pause the Prairie Avenue builds in place; complete preliminary studies before resuming them.
+# HOLD T-0475 — Build the 1904 Prairie Avenue landmark mansion core
+# HOLD T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
+# HOLD T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
 T-1286 — Cross-check the derived 1812 pre-cut shore against the Harrison 1830 trace, and record what the two readings disagree about
 T-1243 — Author the e1830_natural terrain spec and generate the 1812 heightfield and the ground and water meshes across the Fort-to-Eighteenth-Street corridor
 T-0469 — Reconstruct the first Fort Dearborn complex as it stood in August 1812
