@@ -1,7 +1,7 @@
 ---
 id: T-1770
 title: Grade citywide packed-dirt streets with irregular traffic wear and entrance-level plank walks, beginning with South Water
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 10:24:07 AM CT
 blocked_on: T-1769
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36878737957
+claimed_at: 2026-10-01T15:24:07.704Z
 decision: null
 decision_answer: null
 ---
