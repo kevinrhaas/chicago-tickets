@@ -1,7 +1,7 @@
 ---
 id: T-1769
 title: Prepare photographic-quality 1835 fabric from the Glessner v4 benchmark: audit textures, transfer proven techniques and publish a reusable proof package
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 5:19:50 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36848142612
+claimed_at: 2026-10-01T10:19:50.483Z
 decision: null
 decision_answer: null
 ---
