@@ -27,3 +27,6 @@ Open Chicago through a cinematic temporal observatory with three eras and shared
 
 
 Implementation checkpoint: kevinrhaas/chicago#207, branch `steward/t1768-temporal-arrival-menu`, commit `b067036ba59bd4ad4866cf4ae53a50392bcedf00`. Published portal checks pass desktop/mobile; mobile scene part 1 passes 80/0. Full CI gate and desktop scene readiness verification remain before merge.
+
+
+Completed 2026-10-01: PR #207 merged into dev as `c2dccdcd6fc8c3d6e1d2ba17e2e62e8d3f5b840b`. Final CI passed on `66ac7d6` (run 36811965569); published renderer part 1 passed 80/0 on desktop and mobile; final menu browser checks passed both sizes, all skins, navigation, and zero page errors. Preview refresh started in run 36812892609. Production awaits the owner's normal promotion dispatch. The settle workflow follows the merged PR for ticket closure.
