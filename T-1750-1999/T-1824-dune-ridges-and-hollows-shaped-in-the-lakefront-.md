@@ -1,7 +1,7 @@
 ---
 id: T-1824
 title: Dune ridges and hollows shaped in the lakefront terrain north and south of the fort: heightfield, terrain bake and walker collision, with fort-to-inland transects at 390x780 and 1280x800 and the frame cost
-state: claimed
+state: review
 epic: GROUND
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1820
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 242
 claimed_by: run 10/1/2026, 3:58:05 PM CT
 blocked_on: null
 needs_bake: false
