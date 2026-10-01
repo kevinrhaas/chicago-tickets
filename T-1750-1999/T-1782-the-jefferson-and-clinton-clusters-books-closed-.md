@@ -1,7 +1,7 @@
 ---
 id: T-1782
 title: The Jefferson and Clinton clusters' books closed: the w3/w4 roofs no household holds (036 W5, 037 and 047 A1, 046 F1 under its H2 verdict) seated or their use stated, agreed with T-1764 on the forks' 013 and 020
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1208
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 211
 claimed_by: run 9/30/2026, 11:54:02 PM CT
 blocked_on: null
 needs_bake: false
