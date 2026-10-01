@@ -42,3 +42,11 @@ dealt frame cottages (T-1773's warehouse holds lot 1, so `reconcile_665.py` read
 `1835_platted_seats.json`), then as many of the other 13 as the West's committed ground and
 `measure_detail_ceilings.mjs` allow, baked, households seated, and the rest stated with the ground
 each waits on. `warehouses_freight/west` moved to T-1827 (046's H2 verdict moves that row).
+
+## Finding from T-1827 (2026-10-01): the West freight row is yours too
+
+T-1827 (PR #247) carried out `recon_1835_west_046`'s H2 verdict: the F1 freight shed on Des
+Plaines is now an H2 merchant's house, so `structures/warehouses_freight/west` reads **1 of 2**
+and orders one freight roof. #244 had pointed that row at T-1827; it closes with #247, so the row
+moves to T-1829 beside the stores and workshops rows you already hold. A freight roof belongs on
+a street line (`commercial_front`): the forks or the Canal approach, not the outer prairie.
