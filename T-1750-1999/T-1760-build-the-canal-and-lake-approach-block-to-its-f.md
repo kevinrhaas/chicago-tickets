@@ -1,7 +1,7 @@
 ---
 id: T-1760
 title: Build the Canal and Lake approach block to its first roofs: blk_lake_clinton's requested dwellings and their yard buildings, the rest of its lots left open
-state: review
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1207
 opened: 2026-09-29
 closed: null
 pr: 208
-claimed_by: run 9/30/2026, 9:49:25 PM CT
+claimed_by: run 10/1/2026, 1:40:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-01T02:49:25.228Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36825719383
+claimed_at: 2026-10-01T06:40:17.688Z
 decision: null
 decision_answer: null
 ---
