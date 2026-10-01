@@ -1,7 +1,7 @@
 ---
 id: T-1761
 title: Raise blk_randolph_clinton's two standing requests: the Canal face's remaining dwellings and their yard buildings on the teamster approach
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1207
 opened: 2026-09-29
-closed: null
+closed: 2026-10-01
 pr: 213
 claimed_by: run 10/1/2026, 2:37:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T10:00:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36831037229
 claimed_at: 2026-10-01T07:37:00.773Z
 decision: null
