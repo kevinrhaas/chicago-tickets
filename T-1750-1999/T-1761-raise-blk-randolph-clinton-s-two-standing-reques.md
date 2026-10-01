@@ -1,7 +1,7 @@
 ---
 id: T-1761
 title: Raise blk_randolph_clinton's two standing requests: the Canal face's remaining dwellings and their yard buildings on the teamster approach
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1207
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: interactive recovery 9/30/2026, 2:39:37 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-09-30T19:39:37.451Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -30,3 +30,7 @@ Piece 2 of 5 of **T-1207 — Build the West Division's Wolf Point and Canal Stre
 ## Owner-requested PR and claim cleanup — 2026-09-30
 
 PR #196 was closed unmerged because it conflicts with dev and its last full gate had 12 of 707 failed derivation steps, with no completed smoke run. This ticket is still unfinished and retains its queue position. Recover existing work from https://github.com/kevinrhaas/chicago/pull/196 and branch `steward/t1761-randolph-clinton-requests` at `66ca80fea48dd9e830f01758f54a79de81fb6a93`; do not rebuild the recipe or baked assets from scratch. Reconcile current dev, run the full re-derivation and seating chain to a fixpoint, and pass the gate and required published viewport checks before reopening or replacing the PR. The old claim has been released.
+
+## Claim audit — 2026-09-30
+
+The 2:39 PM CT interactive-recovery claim was released at the owner's request. No replacement PR or new implementation commit followed the claim; the recoverable work remains preserved on `steward/t1761-randolph-clinton-requests` at `66ca80fea48dd9e830f01758f54a79de81fb6a93`.
