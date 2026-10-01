@@ -1,7 +1,7 @@
 ---
 id: T-1785
 title: Wabansia's one evidenced household (the doctor's four rooms, kitchen, barn and garden) built or recorded at zero, the district's frame budget read, the Canal-approach screenshot west, T-1209 handed on
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1208
 opened: 2026-09-30
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 3:40:12 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T10:30:26.802Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36837472492
 claimed_at: 2026-10-01T08:40:12.776Z
 decision: null
