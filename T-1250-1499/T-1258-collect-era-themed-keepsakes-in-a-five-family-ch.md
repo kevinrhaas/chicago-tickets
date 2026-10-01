@@ -1,7 +1,7 @@
 ---
 id: T-1258
 title: Collect era-themed keepsakes in a five-family Chicago daybook
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 226
 claimed_by: run 10/1/2026, 8:12:22 AM CT
 blocked_on: null
 needs_bake: false
