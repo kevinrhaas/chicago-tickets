@@ -1,7 +1,7 @@
 ---
 id: T-1801
 title: The rest of the proof assembly: clapboard and log wall samples on regenerated no-course relief, a recessed sash and a painted signboard, baked through the real glTF path and compared in the browser against the current 1835 treatment and Glessner, costs at all three tiers
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1796
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 225
 claimed_by: run 10/1/2026, 7:36:22 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T14:15:05Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36862413877
 claimed_at: 2026-10-01T12:36:22.326Z
 decision: null
