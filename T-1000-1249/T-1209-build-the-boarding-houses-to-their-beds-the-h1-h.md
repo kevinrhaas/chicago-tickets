@@ -1,7 +1,7 @@
 ---
 id: T-1209
 title: Build the boarding houses to their beds: the H1–H3 houses the lodging model sized, each with the window rhythm, service wing and stovepipes its capacity implies, its stable and privies, on the seats near the landings and approaches — and re-size the named hotels' outbuildings to their guests
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-09-30
 pr: null
 claimed_by: run 9/30/2026, 11:11:01 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-01T04:14:43.996Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36813543008
 claimed_at: 2026-10-01T04:11:01.389Z
 decision: null
