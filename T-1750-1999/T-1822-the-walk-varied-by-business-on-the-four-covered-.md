@@ -1,7 +1,7 @@
 ---
 id: T-1822
 title: The walk varied by business on the four covered streets: a forwarding house's 10 ft decked walk, a works' bare ground, stores and inns on the board walk
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1814
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 2:44:30 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36907201660
+claimed_at: 2026-10-01T19:44:30.716Z
 decision: null
 decision_answer: null
 ---
