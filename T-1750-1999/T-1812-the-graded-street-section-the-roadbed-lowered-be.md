@@ -1,7 +1,7 @@
 ---
 id: T-1812
 title: The graded street section: the roadbed lowered below an entrance-level walk shelf in the terrain and the walker's collision, a measured South Water section, doors, crossings and intersections connected without seams, citywide before/after captures and frame costs
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1770
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 6:29:14 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36940744555
+claimed_at: 2026-10-01T23:29:15.349Z
 decision: null
 decision_answer: null
 ---
