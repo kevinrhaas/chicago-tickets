@@ -1,7 +1,7 @@
 ---
 id: T-1807
 title: The two H1 boarding houses sized from their beds: frame_dwelling learns stovepipes, north_h1_007 and west_006 baked
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1780
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 233
 claimed_by: run 10/1/2026, 11:25:26 AM CT
 blocked_on: null
 needs_bake: false
