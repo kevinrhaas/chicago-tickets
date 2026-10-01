@@ -35,3 +35,12 @@ at one per forty, and **at least 34** must be stated as farming beyond the box. 
 T-1212's). The cheapest real build: **2 D1+A2 pairs already stand** in the Des Plaines edge cluster
 (`recon_1835_west_039…055`). A farmstead rule that seats farm households in those pairs ahead of
 labourers needs no new roof.
+
+**Finding from T-1783 (2026-10-01):** the order book's `structures/ordinary_dwellings/west`
+row now points here (via T-1784, split). T-1783 opened the three lot-ruled outer West blocks
+in the 665-roof schedule at a density read off West lots (six roofs to ten lots;
+`west_lot_ceiling` in `tools/reconcile_665.py`, L310) and built
+`blk_west_randolph_des_plaines`'s four. Still owed in that row besides this ticket's farmsteads:
+`blk_west_lake_canal`'s four dealt frame cottages (D3–D6; four households already ask for slots
+there in `1835_platted_seats.json`), to be built beside T-1773's warehouse on that block's lot 1
+once it lands, and the dwellings left in `west_division_beyond_committed_control`.
