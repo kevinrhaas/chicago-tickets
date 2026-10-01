@@ -1,7 +1,7 @@
 ---
 id: T-1821
 title: Prairie 1904 image and document collection for every structure and the streetscape, with an Images section (grid, list, site plan)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 237
 claimed_by: run 10/1/2026, 1:53:55 PM CT
 blocked_on: null
 needs_bake: false
