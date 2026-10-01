@@ -1,7 +1,7 @@
 ---
 id: T-1826
 title: Wolf Point's books closed: the West recipe restated as instantiated, recon_1835_west_020 occupied or its use stated, the frame budget read, a screenshot from the Wolf Point tavern door, T-1208 handed on with the West's exact remainder
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1774
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 4:10:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36924321574
+claimed_at: 2026-10-01T21:10:11.028Z
 decision: null
 decision_answer: null
 ---
