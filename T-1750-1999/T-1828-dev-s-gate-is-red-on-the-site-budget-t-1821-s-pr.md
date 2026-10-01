@@ -1,7 +1,7 @@
 ---
 id: T-1828
 title: dev's gate is red on the site budget: T-1821's prairie-1904/research collection (73.3 MB, 250 files) put the published tree at 287 MB against the 256 MB budget — slim or move it so dev and every open PR can gate green
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 241
 claimed_by: run 10/1/2026, 4:26:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-01T22:07:39Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36928437133
 claimed_at: 2026-10-01T21:26:55.319Z
 decision: null
