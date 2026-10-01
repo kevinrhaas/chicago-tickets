@@ -1,7 +1,7 @@
 ---
 id: T-1776
 title: The other named houses' horse-keeping read against their beds: a stable, a yard or a stated absence for each licensed house the lodging model sizes
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1209
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 221
 claimed_by: run 10/1/2026, 5:04:01 AM CT
 blocked_on: null
 needs_bake: false
