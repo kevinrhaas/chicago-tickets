@@ -90,7 +90,6 @@
 T-1951 — The South's remaining H3 boarding houses the book orders — the plan's two on blk_washington_dearborn and two on blk_washington_market, whose every free lot but the kept-open one carries a dwelling slot request — each with its stable and privy, keepers and lodgers seated, the displaced requests re-seated or owed in writing, and the cell's orders the plan holds no H3 for stated
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
-T-1771 — Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 T-1839 — The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
 T-1962 — The lay and the wear by household: board-width irregularity (FIN-L) and phase-age weathering (FIN-W) dealt under the fabric rule on the material sheet, the full bake, lake_market and south_water critic frames and frame costs measured before and after
