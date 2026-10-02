@@ -96,7 +96,6 @@ T-1976 — The light tier back inside its own 825,000 ceiling and 90-call floor 
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
-T-1804 — The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1972 — The uncertain and absent households: ruled in and housed, or counted apart with their reason, the audit's unhoused count at zero
 T-1966 — Place the work: every working person's works_at and every business's primary location resolved or stated, every roof carrying occupants or a stated use, the audit's other gaps at zero
