@@ -1,7 +1,7 @@
 ---
 id: T-1991
 title: The 96 at a trade with no house to join (25 attested, 71 class-held, 61 of them domestics): each joined to the establishment or household that employed them, or the reason none is owed stated from the premises ruling
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1982
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: run 10/2/2026, 2:19:10 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T19:22:49.853Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37052795961
 claimed_at: 2026-10-02T19:19:10.992Z
 decision: null
