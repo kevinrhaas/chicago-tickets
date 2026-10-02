@@ -1,7 +1,7 @@
 ---
 id: T-1833
 title: Correct Glessner west-wing rear ridge, south gable and courtyard eave
-state: review
+state: done
 epic: PRAIRIE1904
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-01
-closed: null
+closed: 2026-10-02
 pr: 251
 claimed_by: interactive Glessner rear-roof correction 10/1/2026, 7:39:38 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-02T06:20:46Z
 claimed_run: null
 claimed_at: 2026-10-02T00:39:38.343Z
 decision: null

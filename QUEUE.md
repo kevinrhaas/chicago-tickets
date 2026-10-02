@@ -326,7 +326,6 @@ T-1644 — The river walk's east end no longer walks far enough west: T-1630's r
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1743 — The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road
-T-1833 — Correct Glessner west-wing rear ridge, south gable and courtyard eave
 
 # --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
