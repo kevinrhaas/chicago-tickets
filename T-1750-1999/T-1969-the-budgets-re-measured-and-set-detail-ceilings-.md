@@ -1,7 +1,7 @@
 ---
 id: T-1969
 title: The budgets re-measured and set: detail ceilings at every stand, the draw-call budget, the boot payload, T-1154 reconciled, smoke green at both viewports
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1215
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 9:03:41 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37016853637
+claimed_at: 2026-10-02T14:03:41.077Z
 decision: null
 decision_answer: null
 ---
