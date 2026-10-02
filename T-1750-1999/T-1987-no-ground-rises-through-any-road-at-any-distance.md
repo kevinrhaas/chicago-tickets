@@ -1,7 +1,7 @@
 ---
 id: T-1987
 title: No ground rises through any road at any distance: base ground holed under the detail tiles, panels laid on the cell ridge at full and balanced, the road texture continuous across panels
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 289
 claimed_by: run 10/2/2026, 11:29:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T21:15:10Z
 claimed_run: null
 claimed_at: 2026-10-02T16:29:20.961Z
 decision: null

@@ -68,7 +68,6 @@
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
 # Owner, 2026-10-02: dev's two smoke reds first — the river walk (mobile part 2) and the boot payload over 12 MB (desktop part 1). #258 and every baked PR wait on them.
-T-1987 — No ground rises through any road at any distance: base ground holed under the detail tiles, panels laid on the cell ridge at full and balanced, the road texture continuous across panels
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
