@@ -1,7 +1,7 @@
 ---
 id: T-1286
 title: Cross-check the derived 1812 pre-cut shore against the Harrison 1830 trace, and record what the two readings disagree about
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 311
 claimed_by: run 10/2/2026, 5:54:36 PM CT
 blocked_on: null
 needs_bake: false
