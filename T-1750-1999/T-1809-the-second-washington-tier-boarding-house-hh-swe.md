@@ -1,7 +1,7 @@
 ---
 id: T-1809
 title: The second Washington-tier boarding house (hh_sweet_alanson's, blk_washington_clark lot 6) raised to its beds, and a stable and a privy behind both houses, keepers and lodgers seated
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1779
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 231
 claimed_by: run 10/1/2026, 10:05:22 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T02:26:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36867831474
 claimed_at: 2026-10-01T15:05:22.077Z
 decision: null

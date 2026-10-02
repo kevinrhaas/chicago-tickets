@@ -87,7 +87,6 @@
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-T-1809 — The second Washington-tier boarding house (hh_sweet_alanson's, blk_washington_clark lot 6) raised to its beds, and a stable and a privy behind both houses, keepers and lodgers seated
 T-1810 — Raise the H3 boarding houses the book still orders beyond the two Washington-tier seats — the South's remaining eight and the West's and North's, whose placement no banded keeper has claimed yet — each with its stable and privy, keepers and lodgers seated
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
