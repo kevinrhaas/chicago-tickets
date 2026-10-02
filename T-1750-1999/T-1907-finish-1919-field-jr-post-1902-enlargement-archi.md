@@ -1,7 +1,7 @@
 ---
 id: T-1907
 title: Finish 1919 Field Jr. post-1902 enlargement architecture
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-01
 closed: null
 pr: null
 claimed_by: null
-blocked_on: "Inherited 2026-09-30 Prairie construction hold; T-0475/T-0476/T-0477"
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -39,6 +39,6 @@ Package **C17B**, one part of the owner-requested [T-1837](../T-1750-1999/T-1837
 
 **Dependencies:** [T-1906](../T-1750-1999/T-1906-build-1919-field-jr-post-1902-enlargement-envelo.md); [T-1851](../T-1750-1999/T-1851-carved-entrances-and-classical-or-gothic-trim.md); [T-1852](../T-1750-1999/T-1852-cornices-parapets-dormer-faces-and-cresting.md); [T-1853](../T-1750-1999/T-1853-ironwork-gates-canopies-and-boundary-walls.md); [T-1856](../T-1750-1999/T-1856-age-surface-variation-and-ground-contact.md)
 
-**Execution gate:** this ticket inherits the existing 2026-09-30 construction hold on T-0475/T-0476/T-0477. It is filed now because the owner expressly requested the complete decomposition. It becomes eligible when that programme resumes and the dependencies above land. This entry does not move unrelated queue work or ask a new owner question.
+**Execution gate:** owner approved resumption on 2026-10-01 (America/Chicago): “Go”, then “Push the tickets to dev queue in one group below”. The inherited 2026-09-30 construction hold is lifted. This ticket is open in the single Prairie programme group at the bottom of QUEUE.md. Its listed dependencies and needs_bake requirement still apply; read their current state before claiming.
 
 **Bound:** complete the stated package using shared components. If full-resolution source inspection or the rear-polygon census makes it larger than one run, split this specific child before claiming; retain the whole acceptance and parent links. Glessner roof repairs remain with T-1830/T-1833; legal-lot work remains with T-1745 and road/sidewalk materials with T-1728.

@@ -1,7 +1,7 @@
 ---
 id: T-1947
 title: Verify the completed 16th-18th Prairie streetscape
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-01
 closed: null
 pr: null
 claimed_by: null
-blocked_on: "Inherited 2026-09-30 Prairie construction hold; T-0475/T-0476/T-0477"
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -35,6 +35,6 @@ Package **Q01**, one part of the owner-requested [T-1837](../T-1750-1999/T-1837-
 
 **Dependencies:** [T-1859](../T-1750-1999/T-1859-build-1600-1604-and-1608-north-west-frontage.md); [T-1860](../T-1750-1999/T-1860-build-1612-goodman-and-1616-neighbour.md); [T-1861](../T-1750-1999/T-1861-build-1620-law-house-restored-for-1904.md); [T-1862](../T-1750-1999/T-1862-build-1626-1628-and-small-frame-1630.md); [T-1863](../T-1750-1999/T-1863-build-1634-and-1636-stone-front-pair.md); [T-1864](../T-1750-1999/T-1864-build-1638-shortall-gregory-gothic-house-envelop.md); [T-1865](../T-1750-1999/T-1865-finish-1638-shortall-gregory-gothic-house-archit.md); [T-1866](../T-1750-1999/T-1866-build-1601-house-and-1603-station-side-envelope.md); [T-1867](../T-1750-1999/T-1867-build-1609-1611-lost-pair-and-1607-association.md); [T-1868](../T-1750-1999/T-1868-build-1613-1615-and-1619-east-row.md); [T-1869](../T-1750-1999/T-1869-build-1621-1623-and-1625-east-row.md); [T-1870](../T-1750-1999/T-1870-build-1635-unresolved-site-and-1637-spalding-rem.md); [T-1871](../T-1750-1999/T-1871-build-1700-1706-glessner-family-townhouses.md); [T-1872](../T-1750-1999/T-1872-build-1708-and-1712-townhouse-fronts.md); [T-1873](../T-1750-1999/T-1873-build-1720-walker-frame-villa.md); [T-1874](../T-1750-1999/T-1874-build-1726-1730-and-1736-replacement-altered-hou.md); [T-1875](../T-1750-1999/T-1875-build-1701-hibbard-house-and-rear-veranda-envelo.md); [T-1876](../T-1750-1999/T-1876-finish-1701-hibbard-house-and-rear-veranda-archi.md); [T-1877](../T-1750-1999/T-1877-build-1709-palmer-kellogg-successor.md); [T-1878](../T-1750-1999/T-1878-build-1719-1721-dexter-address-and-altered-house.md); [T-1879](../T-1750-1999/T-1879-finish-1719-1721-dexter-address-and-altered-hous.md); [T-1880](../T-1750-1999/T-1880-build-1729-pullman-main-house-envelope.md); [T-1881](../T-1750-1999/T-1881-finish-1729-pullman-main-house-architecture.md); [T-1932](../T-1750-1999/T-1932-build-north-west-alley-coach-houses-and-service-.md); [T-1933](../T-1750-1999/T-1933-build-north-east-rear-service-buildings.md); [T-1934](../T-1750-1999/T-1934-build-pullman-stable-additions-and-conservatory-.md); [T-1943](../T-1750-1999/T-1943-finish-north-block-boundaries-gardens-and-fronta.md); [T-1946](../T-1750-1999/T-1946-close-side-street-and-rail-side-background-gaps.md); [T-1830](../T-1750-1999/T-1830-rebuild-the-glessner-west-wing-roof-and-recessed.md); [T-1833](../T-1750-1999/T-1833-correct-glessner-west-wing-rear-ridge-south-gabl.md)
 
-**Execution gate:** this ticket inherits the existing 2026-09-30 construction hold on T-0475/T-0476/T-0477. It is filed now because the owner expressly requested the complete decomposition. It becomes eligible when that programme resumes and the dependencies above land. This entry does not move unrelated queue work or ask a new owner question.
+**Execution gate:** owner approved resumption on 2026-10-01 (America/Chicago): “Go”, then “Push the tickets to dev queue in one group below”. The inherited 2026-09-30 construction hold is lifted. This ticket is open in the single Prairie programme group at the bottom of QUEUE.md. Its listed dependencies and needs_bake requirement still apply; read their current state before claiming.
 
 **Bound:** complete the stated package using shared components. If full-resolution source inspection or the rear-polygon census makes it larger than one run, split this specific child before claiming; retain the whole acceptance and parent links. Glessner roof repairs remain with T-1830/T-1833; legal-lot work remains with T-1745 and road/sidewalk materials with T-1728.

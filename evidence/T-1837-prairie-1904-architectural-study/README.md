@@ -1,5 +1,7 @@
 # Prairie Avenue 1904 architectural design study
 
+**Current execution status — 2026-10-01:** owner approved “Go” and requested one group below the dev queue. All 110 child tickets are now open in that single group; the construction hold described in the original assessment below was lifted by this later ruling. Dependencies and bake requirements remain.
+
 Prepared 2026-10-01 (America/Chicago). Parent: T-1837. Source revision: `b31dc146c63b11e550ce8536048f33dfefa606c5`.
 
 ## Decision

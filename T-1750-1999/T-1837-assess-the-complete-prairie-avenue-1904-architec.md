@@ -38,3 +38,7 @@ Coverage was verified against all **62 named records, 91 map-frontage rows and 9
 The live viewer library and image data match the pinned code snapshot by SHA-256. The study includes specific architectural briefs, source/image handles, per-attribute inference rules, material/geometry/export requirements and Glessner comparison/whole-block browser acceptance.
 
 `split` records that the requested planning result has been delivered and its future implementation belongs to these children. It does **not** claim that models were built or that a code PR merged. The existing construction hold and the owner's queue order are preserved. The user explicitly requested the many-ticket decomposition, authorizing this filing beyond normal incidental-ticket limits.
+
+## Owner resumed and queued the programme — 2026-10-01
+
+Owner: “Go”, then “Push the tickets to dev queue in one group below”. The inherited construction hold is lifted for all 110 implementation tickets, T-1840–T-1949. They are open in one contiguous, dependency-ordered group at the bottom of the dev queue. Existing unrelated queue rows retain their order. The legacy umbrella tickets remain scope references; execute the named child packages and their dependencies, not duplicate umbrella builds.

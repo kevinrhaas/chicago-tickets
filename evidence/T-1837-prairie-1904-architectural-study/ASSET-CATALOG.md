@@ -10,7 +10,7 @@ Anchor every reusable part in metres with explicit grade/sill/storey datums; dec
 
 **Visible acceptance:** No scale drift, hidden origin offsets or duplicated boundary faces; record baseline asset hashes and full/light mesh/texture costs.
 
-**Dependencies:** none after the existing hold is lifted.
+**Dependencies:** none; programme resumed by owner on 2026-10-01.
 
 ## K02 · Stone, mortar and dressed masonry materials · T-1844
 

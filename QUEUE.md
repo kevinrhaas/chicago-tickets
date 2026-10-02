@@ -130,11 +130,11 @@ T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
-# HOLD — owner, 2026-09-30: pause the Prairie Avenue builds in place; complete preliminary studies before resuming them.
-# HOLD T-0475 — Build the 1904 Prairie Avenue landmark mansion core
-# HOLD T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
-# HOLD T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
-# Architectural decomposition: T-1837; T-1840..T-1949 remain held below. See evidence/T-1837-prairie-1904-architectural-study/README.md.
+# RESUMED — owner, 2026-10-01: Go; enqueue the complete T-1837 implementation programme as one group below the existing queue. Legacy umbrellas remain references; work the 110 child tickets at the bottom.
+# UMBRELLA T-0475 — Build the 1904 Prairie Avenue landmark mansion core — execution delegated to T-1837 children below
+# UMBRELLA T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings — execution delegated to T-1837 children below
+# UMBRELLA T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture — execution delegated to T-1837 children below
+# Architectural decomposition: T-1837; T-1840..T-1949 are open in one dependency-ordered group at the bottom. See evidence/T-1837-prairie-1904-architectural-study/README.md.
 T-1286 — Cross-check the derived 1812 pre-cut shore against the Harrison 1830 trace, and record what the two readings disagree about
 T-1243 — Author the e1830_natural terrain spec and generate the 1812 heightfield and the ground and water meshes across the Fort-to-Eighteenth-Street corridor
 T-0469 — Reconstruct the first Fort Dearborn complex as it stood in August 1812
@@ -332,114 +332,116 @@ T-1673 — The four warehouses the South Water and Lake street line still owes: 
 T-1743 — The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road
 T-1833 — Correct Glessner west-wing rear ridge, south gable and courtyard eave
 
-# T-1837 — completed architectural study; 110 staged descendants, inherited Prairie construction hold.
-# HOLD T-1840 — Reconcile sheet 20 building entities for 1904
-# HOLD T-1841 — Reconcile sheet 28 building entities for 1904
-# HOLD T-1842 — Reconcile sheet 35 building entities for 1904
-# HOLD T-1843 — Metric asset contract and Glessner comparison slice
-# HOLD T-1844 — Stone, mortar and dressed masonry materials
-# HOLD T-1845 — Pressed, common and rough brick materials
-# HOLD T-1846 — Period roof coverings and drainage
-# HOLD T-1847 — Mansard, hip, gable and tower roof construction
-# HOLD T-1848 — Windows, glazing and visible interior depth
-# HOLD T-1849 — Entrances, stoops, porches and carriage doors
-# HOLD T-1850 — Bays, oriels and towers
-# HOLD T-1851 — Carved entrances and classical or Gothic trim
-# HOLD T-1852 — Cornices, parapets, dormer faces and cresting
-# HOLD T-1853 — Ironwork, gates, canopies and boundary walls
-# HOLD T-1854 — Coach houses, stable fittings and service wings
-# HOLD T-1855 — Conservatory and greenhouse assemblies
-# HOLD T-1856 — Age, surface variation and ground contact
-# HOLD T-1857 — Chimneys, flues and roof service details
-# HOLD T-1858 — Frame cladding and exterior timber construction
-# HOLD T-1859 — Build 1600, 1604 and 1608 north-west frontage
-# HOLD T-1860 — Build 1612 Goodman and 1616 neighbour
-# HOLD T-1861 — Build 1620 Law house restored for 1904
-# HOLD T-1862 — Build 1626, 1628 and small frame 1630
-# HOLD T-1863 — Build 1634 and 1636 stone-front pair
-# HOLD T-1864 — Build 1638 Shortall-Gregory Gothic house envelope
-# HOLD T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
-# HOLD T-1866 — Build 1601 house and 1603 station-side envelope
-# HOLD T-1867 — Build 1609-1611 lost pair and 1607 association
-# HOLD T-1868 — Build 1613, 1615 and 1619 east row
-# HOLD T-1869 — Build 1621, 1623 and 1625 east row
-# HOLD T-1870 — Build 1635 unresolved site and 1637 Spalding remodel
-# HOLD T-1871 — Build 1700-1706 Glessner family townhouses
-# HOLD T-1872 — Build 1708 and 1712 townhouse fronts
-# HOLD T-1873 — Build 1720 Walker frame villa
-# HOLD T-1874 — Build 1726, 1730 and 1736 replacement/altered houses
-# HOLD T-1875 — Build 1701 Hibbard house and rear veranda envelope
-# HOLD T-1876 — Finish 1701 Hibbard house and rear veranda architecture
-# HOLD T-1877 — Build 1709 Palmer Kellogg successor
-# HOLD T-1878 — Build 1719-1721 Dexter address and altered house envelope
-# HOLD T-1879 — Finish 1719-1721 Dexter address and altered house architecture
-# HOLD T-1880 — Build 1729 Pullman main house envelope
-# HOLD T-1881 — Finish 1729 Pullman main house architecture
-# HOLD T-1882 — Build 1808 Keith-Field neighbour of Glessner envelope
-# HOLD T-1883 — Finish 1808 Keith-Field neighbour of Glessner architecture
-# HOLD T-1884 — Build 1812 Wheeler shaped-gable house envelope
-# HOLD T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-# HOLD T-1886 — Build 1816 Henderson mansard house
-# HOLD T-1887 — Build 1824 Marsh altered front and 1828 neighbour
-# HOLD T-1888 — Build 1834 Jones post-1886 mansard
-# HOLD T-1889 — Build 1801 Kimball corner mansion envelope
-# HOLD T-1890 — Finish 1801 Kimball corner mansion architecture
-# HOLD T-1891 — Build 1811 Coleman-Ames Romanesque house envelope
-# HOLD T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
-# HOLD T-1893 — Build 1815 Sears-Meeker altered house
-# HOLD T-1894 — Build 1823 Dent house
-# HOLD T-1895 — Build 1827 Doane twin-tower mansion envelope
-# HOLD T-1896 — Finish 1827 Doane twin-tower mansion architecture
-# HOLD T-1897 — Build 1900 Elbridge Keith corner house
-# HOLD T-1898 — Build 1906 Edson Keith and attached 1908
-# HOLD T-1899 — Build 1912 Moulton-Lowden Chateauesque house envelope
-# HOLD T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
-# HOLD T-1901 — Build 1916-1930 identity and 1936 Allerton estate envelope
-# HOLD T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
-# HOLD T-1903 — Build 1901 Ream post-fire house
-# HOLD T-1904 — Build 1905 Marshall Field Sr. mansion envelope
-# HOLD T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
-# HOLD T-1906 — Build 1919 Field Jr. post-1902 enlargement envelope
-# HOLD T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
-# HOLD T-1908 — Build 1923 Kellogg and 1945 Armour-Corwith corner
-# HOLD T-1909 — Build 2000 and 2010 detached frame houses
-# HOLD T-1910 — Build 2018 and 2026 masonry houses
-# HOLD T-1911 — Build 2036 Buckingham corner house
-# HOLD T-1912 — Build 2001, 2003 and 2005 attached row
-# HOLD T-1913 — Build 2009 Mayer-Meyer French Gothic house envelope
-# HOLD T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
-# HOLD T-1915 — Build 2011 Romanesque house beside Mayer
-# HOLD T-1916 — Build 2013 Reid classical house
-# HOLD T-1917 — Build 2017, 2021 High and 2027 Cobb-associated group
-# HOLD T-1918 — Build 2031, 2033 and 2035 limestone row
-# HOLD T-1919 — Build 2100 Sherman Victorian Gothic house envelope
-# HOLD T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
-# HOLD T-1921 — Build 2108 Mark Kimball and 2112 Rothschild
-# HOLD T-1922 — Build 2110 Rees at its historical site envelope
-# HOLD T-1923 — Finish 2110 Rees at its historical site architecture
-# HOLD T-1924 — Build 2101 and 2109 Roloson neighbours
-# HOLD T-1925 — Build 2115 Armour Second Empire house
-# HOLD T-1926 — Build 2120 and the 2126 Robbins construction phase
-# HOLD T-1927 — Build 2130 Murdoch rounded-bay house
-# HOLD T-1928 — Build 2140 Tucker-Smith corner mansion envelope
-# HOLD T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
-# HOLD T-1930 — Build 2123 masonry and 2125 frame neighbours
-# HOLD T-1931 — Build 2127-2129 flats and 2141 non-building frontage
-# HOLD T-1932 — Build north-west alley coach houses and service courts
-# HOLD T-1933 — Build north-east rear service buildings
-# HOLD T-1934 — Build Pullman stable, additions and conservatory estate
-# HOLD T-1935 — Build west 1800-1900 service buildings and Glessner boundary
-# HOLD T-1936 — Build east 1800-1900 service buildings
-# HOLD T-1937 — Build south-west service buildings and shared Rees coach house
-# HOLD T-1938 — Build south-east service buildings
-# HOLD T-1939 — Build 213, 215 and 217 East Twentieth Street context
-# HOLD T-1940 — Build 2008 Calumet Hanford exterior
-# HOLD T-1941 — Build 2018 Calumet Wheeler-Kohn exterior
-# HOLD T-1942 — Build Second Presbyterian post-1900 exterior skyline
-# HOLD T-1943 — Finish north-block boundaries, gardens and frontage fittings
-# HOLD T-1944 — Finish 18th-20th block boundaries, gardens and frontage fittings
-# HOLD T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
-# HOLD T-1946 — Close side-street and rail-side background gaps
-# HOLD T-1947 — Verify the completed 16th-18th Prairie streetscape
-# HOLD T-1948 — Verify the completed 18th-20th Prairie streetscape
-# HOLD T-1949 — Verify the completed 20th-22nd Prairie streetscape
+# --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
+# Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
+# One contiguous group below all existing work. Dependencies first; individual dependency and needs_bake gates remain in each ticket.
+T-1840 — Reconcile sheet 20 building entities for 1904
+T-1841 — Reconcile sheet 28 building entities for 1904
+T-1842 — Reconcile sheet 35 building entities for 1904
+T-1843 — Metric asset contract and Glessner comparison slice
+T-1844 — Stone, mortar and dressed masonry materials
+T-1845 — Pressed, common and rough brick materials
+T-1846 — Period roof coverings and drainage
+T-1847 — Mansard, hip, gable and tower roof construction
+T-1848 — Windows, glazing and visible interior depth
+T-1849 — Entrances, stoops, porches and carriage doors
+T-1850 — Bays, oriels and towers
+T-1851 — Carved entrances and classical or Gothic trim
+T-1852 — Cornices, parapets, dormer faces and cresting
+T-1853 — Ironwork, gates, canopies and boundary walls
+T-1854 — Coach houses, stable fittings and service wings
+T-1855 — Conservatory and greenhouse assemblies
+T-1857 — Chimneys, flues and roof service details
+T-1858 — Frame cladding and exterior timber construction
+T-1856 — Age, surface variation and ground contact
+T-1859 — Build 1600, 1604 and 1608 north-west frontage
+T-1860 — Build 1612 Goodman and 1616 neighbour
+T-1861 — Build 1620 Law house restored for 1904
+T-1862 — Build 1626, 1628 and small frame 1630
+T-1863 — Build 1634 and 1636 stone-front pair
+T-1864 — Build 1638 Shortall-Gregory Gothic house envelope
+T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
+T-1866 — Build 1601 house and 1603 station-side envelope
+T-1867 — Build 1609-1611 lost pair and 1607 association
+T-1868 — Build 1613, 1615 and 1619 east row
+T-1869 — Build 1621, 1623 and 1625 east row
+T-1870 — Build 1635 unresolved site and 1637 Spalding remodel
+T-1871 — Build 1700-1706 Glessner family townhouses
+T-1872 — Build 1708 and 1712 townhouse fronts
+T-1873 — Build 1720 Walker frame villa
+T-1874 — Build 1726, 1730 and 1736 replacement/altered houses
+T-1875 — Build 1701 Hibbard house and rear veranda envelope
+T-1876 — Finish 1701 Hibbard house and rear veranda architecture
+T-1877 — Build 1709 Palmer Kellogg successor
+T-1878 — Build 1719-1721 Dexter address and altered house envelope
+T-1879 — Finish 1719-1721 Dexter address and altered house architecture
+T-1880 — Build 1729 Pullman main house envelope
+T-1881 — Finish 1729 Pullman main house architecture
+T-1882 — Build 1808 Keith-Field neighbour of Glessner envelope
+T-1883 — Finish 1808 Keith-Field neighbour of Glessner architecture
+T-1884 — Build 1812 Wheeler shaped-gable house envelope
+T-1885 — Finish 1812 Wheeler shaped-gable house architecture
+T-1886 — Build 1816 Henderson mansard house
+T-1887 — Build 1824 Marsh altered front and 1828 neighbour
+T-1888 — Build 1834 Jones post-1886 mansard
+T-1889 — Build 1801 Kimball corner mansion envelope
+T-1890 — Finish 1801 Kimball corner mansion architecture
+T-1891 — Build 1811 Coleman-Ames Romanesque house envelope
+T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
+T-1893 — Build 1815 Sears-Meeker altered house
+T-1894 — Build 1823 Dent house
+T-1895 — Build 1827 Doane twin-tower mansion envelope
+T-1896 — Finish 1827 Doane twin-tower mansion architecture
+T-1897 — Build 1900 Elbridge Keith corner house
+T-1898 — Build 1906 Edson Keith and attached 1908
+T-1899 — Build 1912 Moulton-Lowden Chateauesque house envelope
+T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
+T-1901 — Build 1916-1930 identity and 1936 Allerton estate envelope
+T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
+T-1903 — Build 1901 Ream post-fire house
+T-1904 — Build 1905 Marshall Field Sr. mansion envelope
+T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
+T-1906 — Build 1919 Field Jr. post-1902 enlargement envelope
+T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
+T-1908 — Build 1923 Kellogg and 1945 Armour-Corwith corner
+T-1909 — Build 2000 and 2010 detached frame houses
+T-1910 — Build 2018 and 2026 masonry houses
+T-1911 — Build 2036 Buckingham corner house
+T-1912 — Build 2001, 2003 and 2005 attached row
+T-1913 — Build 2009 Mayer-Meyer French Gothic house envelope
+T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
+T-1915 — Build 2011 Romanesque house beside Mayer
+T-1916 — Build 2013 Reid classical house
+T-1917 — Build 2017, 2021 High and 2027 Cobb-associated group
+T-1918 — Build 2031, 2033 and 2035 limestone row
+T-1919 — Build 2100 Sherman Victorian Gothic house envelope
+T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
+T-1921 — Build 2108 Mark Kimball and 2112 Rothschild
+T-1922 — Build 2110 Rees at its historical site envelope
+T-1923 — Finish 2110 Rees at its historical site architecture
+T-1924 — Build 2101 and 2109 Roloson neighbours
+T-1925 — Build 2115 Armour Second Empire house
+T-1926 — Build 2120 and the 2126 Robbins construction phase
+T-1927 — Build 2130 Murdoch rounded-bay house
+T-1928 — Build 2140 Tucker-Smith corner mansion envelope
+T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
+T-1930 — Build 2123 masonry and 2125 frame neighbours
+T-1931 — Build 2127-2129 flats and 2141 non-building frontage
+T-1932 — Build north-west alley coach houses and service courts
+T-1933 — Build north-east rear service buildings
+T-1934 — Build Pullman stable, additions and conservatory estate
+T-1935 — Build west 1800-1900 service buildings and Glessner boundary
+T-1936 — Build east 1800-1900 service buildings
+T-1937 — Build south-west service buildings and shared Rees coach house
+T-1938 — Build south-east service buildings
+T-1939 — Build 213, 215 and 217 East Twentieth Street context
+T-1940 — Build 2008 Calumet Hanford exterior
+T-1941 — Build 2018 Calumet Wheeler-Kohn exterior
+T-1942 — Build Second Presbyterian post-1900 exterior skyline
+T-1943 — Finish north-block boundaries, gardens and frontage fittings
+T-1944 — Finish 18th-20th block boundaries, gardens and frontage fittings
+T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
+T-1946 — Close side-street and rail-side background gaps
+T-1947 — Verify the completed 16th-18th Prairie streetscape
+T-1948 — Verify the completed 18th-20th Prairie streetscape
+T-1949 — Verify the completed 20th-22nd Prairie streetscape
