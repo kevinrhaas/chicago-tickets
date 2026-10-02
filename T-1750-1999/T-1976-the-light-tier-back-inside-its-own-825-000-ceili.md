@@ -1,7 +1,7 @@
 ---
 id: T-1976
 title: The light tier back inside its own 825,000 ceiling and 90-call floor at every stand at both viewports by a trim, smoke part 5 green at both viewports
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1974
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 10:14:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37025200780
+claimed_at: 2026-10-02T15:14:07.218Z
 decision: null
 decision_answer: null
 ---
