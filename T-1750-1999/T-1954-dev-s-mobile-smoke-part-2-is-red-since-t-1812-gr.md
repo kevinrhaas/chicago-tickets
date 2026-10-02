@@ -1,7 +1,7 @@
 ---
 id: T-1954
 title: dev's mobile smoke part 2 is red since T-1812 graded the streets: the plank decks sit 0.120 m below grade, and all 25 aims at the inn frontage return nothing
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: re-filed with --blocks so it queues where it unblocks the PRs dev's red refuses
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T06:33:08.116Z
 claimed_run: null
 claimed_at: null
 decision: null
