@@ -25,7 +25,14 @@ The four empty anonymous trade roofs (the W2 joiner's shop on Randolph, the F2 w
 
 Piece 2 of 2 of **T-1986 — The anonymous programme roofs left empty (stables, barns, sheds, a privy and four trade buildings) each tied to the dwelling or establishment it serves by T-1980's part_of, or given a stated use, the audit's empty count at zero**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** (stated before working)
+
+`python3 tools/audit_town_completion_1835.py` lists none of these five in `occupied.empty`: recon_1835_blk_west_randolph_des_plaines_w2_01, recon_1835_forks_freight_f2_001, recon_1835_north_w5_040, recon_1835_south_c3_015, recon_1835_west_013; `empty_owing_somebody.house_of_trade` and `.dwelling` fall by the four's share, and `outbuilding_naming_no_yard` reaches 0 once T-1988's nine land.
+
+- The four trade roofs are offered by a new deal, `tools/seat_trade_roofs_1835.py`, to the keepers the employment ledger owes a house of their own (`keeps_their_own_house`) whose card names no workplace, in the roof's own division, matched by the trade the premises rulings give the roof's family (W2 carpenter/joiner by the crosswalk label; F2 the forwarding store; C3 the store and grocery signage; W5 the heavy-trade signage the heavy_and_noxious clause names), nearest to the keeper's own roof, seeded. A seat reaches the roof's card as "worked here" through compile_scene, the way the housing deal's seats do; it writes no card and no structure record.
+- A roof the deal cannot seat says why on its card (`stated_use`, the T-1985 surface) and in the audit, with the count that proves it — never by inventing a keeper.
+- recon_1835_west_013 is refamilied A5 → D2 by `tools/execute_roof_redeal.py --apply --only` (the redeal's own standing verdict), rebaked with `bake.sh --only`, and the housing deal (`house_the_present_1835.py --build`) re-run so a household waiting on a roof can take it.
+- No confidence is upgraded; every generator `--check` and check.sh green; liberty recorded.
 
 ## Also owned here: recon_1835_west_013 (found by T-1988)
 
