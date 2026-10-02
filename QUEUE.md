@@ -69,7 +69,6 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 # Owner, 2026-10-02: dev's two smoke reds first — the river walk (mobile part 2) and the boot payload over 12 MB (desktop part 1). #258 and every baked PR wait on them.
 T-1987 — No ground rises through any road at any distance: base ground holed under the detail tiles, panels laid on the cell ridge at full and balanced, the road texture continuous across panels
-T-1984 — Storefronts on the walk: nothing stands in a doorway, no sign covers a door or window, no door merges with a window, and the ground at every entrance is trodden
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
