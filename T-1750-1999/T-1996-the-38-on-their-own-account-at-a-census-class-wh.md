@@ -1,7 +1,7 @@
 ---
 id: T-1996
 title: The 38 on their own account at a census class whose printed count is already held (32 at a store, 3 attorneys, 2 forwarders, a watchmaker): each told from the order book's own bucket that no house is owed
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1992
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 304
 claimed_by: run 10/2/2026, 2:40:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T21:41:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37054254990
 claimed_at: 2026-10-02T19:40:52.953Z
 decision: null
