@@ -1,7 +1,7 @@
 ---
 id: T-1823
 title: The walk by business carried to the new business fronts town-wide as the frame budget allows — the cross streets and the West Division — with corner crossings at the principal streets and the cost measured
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1814
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 261
 claimed_by: run 10/2/2026, 1:24:20 AM CT
 blocked_on: null
 needs_bake: false
