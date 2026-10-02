@@ -1,7 +1,7 @@
 ---
 id: T-1980
 title: The fifteen empty roofs that belong to an establishment — the fort's service buildings, the works' sheds and the Beaubien homestead's two — each name the building they are part of, on the card and in the audit
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1966
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 286
 claimed_by: run 10/2/2026, 10:45:35 AM CT
 blocked_on: null
 needs_bake: false
