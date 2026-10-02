@@ -1,7 +1,7 @@
 ---
 id: T-1989
 title: The four empty anonymous trade roofs (the W2 joiner's shop on Randolph, the F2 warehouse at the forks, the W5 work shop on Wolcott the off-plat deal adopted for the Miller and Hall tannery household but never spent, the C3 store on Lake) each seated by a deal or shown unseatable: the order book has an occupant class for each and the policy accepts it where it stands, so a stated use would break 1835_stated_uses' rule (b)
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1986
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 300
 claimed_by: run 10/2/2026, 12:56:49 PM CT
 blocked_on: null
 needs_bake: false
