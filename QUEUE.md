@@ -97,7 +97,8 @@ T-1984 — Storefronts on the walk: nothing stands in a doorway, no sign covers 
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1980 — The fifteen empty roofs that belong to an establishment — the fort's service buildings, the works' sheds and the Beaubien homestead's two — each name the building they are part of, on the card and in the audit
-T-1981 — The other 24 empty roofs — the six Dearborn-reach freight sheds, four named houses and fourteen anonymous programme roofs — given an occupant or a stated use, the audit's empty count at zero
+T-1985 — The six Dearborn-reach freight sheds and the four named houses (Caldwell's agency log house, the Clybourne cabins, the Factor's House, Miller House) each state their use and why nobody is seated there, on the card and in the audit
+T-1986 — The anonymous programme roofs left empty (stables, barns, sheds, a privy and four trade buildings) each tied to the dwelling or establishment it serves by T-1980's part_of, or given a stated use, the audit's empty count at zero
 T-1982 — The 308 working-age persons owed a workplace: each works_at resolved or the reason none is owed stated, the audit's owed count at zero
 T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
