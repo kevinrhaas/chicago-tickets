@@ -1,7 +1,7 @@
 ---
 id: T-1974
 title: The detail ceilings and the draw-call budget re-measured at every stand and set where they are defined, T-1154 reconciled, smoke green at both viewports
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1969
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: run 10/2/2026, 9:16:40 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T14:49:03.753Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37018377388
 claimed_at: 2026-10-02T14:16:40.444Z
 decision: null
