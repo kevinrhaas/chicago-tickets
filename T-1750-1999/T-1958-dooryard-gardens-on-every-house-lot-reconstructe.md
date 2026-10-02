@@ -1,7 +1,7 @@
 ---
 id: T-1958
 title: Dooryard gardens on every house lot, reconstructed houses at their own tier — clause 4 rewritten to T-0772's house rule (owner, 2026-09-21), before/after captures of a back-street block
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1212
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 267
 claimed_by: run 10/2/2026, 3:43:34 AM CT
 blocked_on: null
 needs_bake: false
