@@ -1,7 +1,7 @@
 ---
 id: T-1975
 title: The full and balanced ceilings and the draw-call budget re-measured at every stand at both viewports and set where they are defined, T-1154 reconciled
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1974
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 281
 claimed_by: run 10/2/2026, 9:49:09 AM CT
 blocked_on: null
 needs_bake: false
