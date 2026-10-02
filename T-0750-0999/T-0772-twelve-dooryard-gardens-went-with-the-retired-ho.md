@@ -1,7 +1,7 @@
 ---
 id: T-0772
 title: Twelve dooryard gardens went with the retired households: should a garden follow the house or the household?
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-04
 closed: null
-pr: null
+pr: 267
 claimed_by: run 10/2/2026, 3:43:36 AM CT
 blocked_on: null
 needs_bake: false
