@@ -1,7 +1,7 @@
 ---
 id: T-1212
 title: Yards for every household: lot-line and dooryard fences, gardens, woodpiles, wells, privies and stables assigned by household type, wagons and barrels and trade goods at the shops by trade — the enclosure, yard and outbuilding layers extended to the reconstructed town
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 3:39:20 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36985027465
+claimed_at: 2026-10-02T08:39:20.863Z
+decision: null
+decision_answer: null
 ---
 
 The enclosure layer (`data/enclosures/town_lot_line_*.json`, `town_dooryard_pickets.json`, T-0038,
