@@ -1,7 +1,7 @@
 ---
 id: T-1979
 title: Thin the South Water landing camps to the evidence: four tents at the landing, the open-sky households into the opened store houses, the rest of the tent households out to the shore south of the fort
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 285
 claimed_by: run 10/2/2026, 10:44:42 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-02T19:32:38Z
 claimed_run: null
 claimed_at: 2026-10-02T15:44:42.375Z
 decision: null
