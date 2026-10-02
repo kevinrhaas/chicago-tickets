@@ -1,7 +1,7 @@
 ---
 id: T-1967
 title: The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1215
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 10:44:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37028716285
+claimed_at: 2026-10-02T15:44:53.317Z
 decision: null
 decision_answer: null
 ---
