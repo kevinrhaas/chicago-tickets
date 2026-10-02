@@ -1,7 +1,7 @@
 ---
 id: T-1804
 title: The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1214
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 7:20:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37005779277
+claimed_at: 2026-10-02T12:20:37.364Z
 decision: null
 decision_answer: null
 ---
