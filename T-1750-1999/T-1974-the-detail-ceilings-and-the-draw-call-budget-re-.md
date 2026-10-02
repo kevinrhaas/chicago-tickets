@@ -48,3 +48,9 @@ refused. After liberties.json, the other panel files fetched before any panel op
 `reconstruction/1835_address_book.json` 0.161 MB, `residents/employment_coverage.json`,
 `reconstruction/1835_population_profile.json`, `residents/research_pilot.json` (~0.04 MB each).
 Minifying the 547 boot sidecars saves only 0.07 MB (gzip already takes the whitespace).
+
+**Settled by T-1973 (#280, merged):** after T-1971 (+0.546 MB of household seats in the boot
+sidecars) dev measured 12.575 MB with T-1973's cuts, and the boot budget was **re-set from 12 to
+13 MB** with its reasons in docs/SITE-BUDGET.md § 4b (1.03× the measurement; a 1 MB careless
+import still breaches it). The levers above stand for the next press: liberties.json first,
+then whether household seats belong in the boot sidecars at all.
