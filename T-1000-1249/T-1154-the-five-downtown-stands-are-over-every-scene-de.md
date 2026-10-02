@@ -56,3 +56,25 @@ the ceiling; and the downtown five read inside all three ceilings at both viewpo
 `tools/measure_detail_ceilings.mjs`, with the reading committed beside this one.
 Whatever the southern four do afterwards is T-1148's successor question and belongs with
 T-0467, not here.
+
+## Reconciled, 2026-10-02 (T-1975)
+
+Re-read on `tools/measure_detail_ceilings.mjs`, published mirror of dev @ 652ca8ea, both viewports
+(committed in the code repo as `docs/measurements/t-1975-detail-ceilings-{desktop,mobile}.json`):
+
+| tier | 2026-09-15 worst, desktop | 2026-10-02 worst, desktop | 2026-10-02 worst, mobile |
+| --- | --- | --- | --- |
+| `full` | 1,883,619 (Lake at Canal) | 1,705,768 (Lake at Canal) | 1,556,676 (Lake at Canal) |
+| `balanced` | 1,738,020 (Lake at Canal) | 1,472,889 (Lake at Canal) | 1,332,135 (Lake at Canal) |
+| `light` | 1,287,059 (Lake at Canal) | 944,550 (the forks) | 845,385 (Lake at Canal) |
+
+What this ticket asked for was done by its children: the town came back inside all three ceilings by
+trims (the 2026-09-26 reading in `main.js` had `full` at 1,383,428 worst, 76,572 clear). The breach
+that stands today is NEW and is not this ticket's nine days: `full` grew 322,340 over about sixty
+owner-requested parcels of 2026-09-26..10-02 (T-1215's convergence), none of them a regression.
+
+So this ticket's "a re-budget is forbidden" no longer governs `full` and `balanced`: the owner asked
+in T-1215 for "the budgets re-measured and set", and AGENTS.md's 2026-08-21 ruling makes the scene he
+asked for the justification. T-1975 sets them to the measured worst plus T-0672's recorded headroom
+(1,725,000 / 1,490,000; calls 215 -> 240). It still governs `light`, which AGENTS.md keeps as the
+floor: `light` is not raised, and T-1976 owns the trim that brings it back under 825,000.

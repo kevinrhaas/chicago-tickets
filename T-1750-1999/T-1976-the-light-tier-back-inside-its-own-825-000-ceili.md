@@ -30,7 +30,7 @@ Piece 2 of 2 of **T-1974 — The detail ceilings and the draw-call budget re-mea
 ## The reading this piece starts from (T-1975's run, 2026-10-02)
 
 `node tools/measure_detail_ceilings.mjs` on the published mirror of dev @ 652ca8ea (the reading is
-committed by T-1975 as `data/render/t1975_detail_ceilings_{desktop,mobile}.json`):
+committed by T-1975 as `docs/measurements/t-1975-detail-ceilings-{desktop,mobile}.json`):
 
 | viewport | `light` worst | against 825,000 | worst calls at `light` | against the 90-call floor |
 | --- | --- | --- | --- | --- |
