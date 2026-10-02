@@ -1,7 +1,7 @@
 ---
 id: T-1830
 title: Rebuild the Glessner west-wing roof and recessed north entrance from the elevations and floor plans
-state: review
+state: done
 epic: PRAIRIE1904
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 243
 claimed_by: interactive Glessner follow-up 10/1/2026, 4:32:52 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-02T00:13:55Z
 claimed_run: null
 claimed_at: 2026-10-01T21:32:52.961Z
 decision: null
