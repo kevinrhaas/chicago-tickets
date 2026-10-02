@@ -1,7 +1,7 @@
 ---
 id: T-1808
 title: The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1780
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 256
 claimed_by: run 10/1/2026, 9:58:59 PM CT
 blocked_on: null
 needs_bake: false
