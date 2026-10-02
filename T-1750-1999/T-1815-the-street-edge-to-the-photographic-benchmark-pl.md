@@ -1,7 +1,7 @@
 ---
 id: T-1815
 title: The street edge to the photographic benchmark: planks, stoops, posts and blocks at period scale with joinery, contact and shadow, before/after captures at 390x780 and 1280x800 against Glessner v4, a written critique, town-wide frame costs measured
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1211
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 3:15:48 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36982760345
+claimed_at: 2026-10-02T08:15:49.273Z
 decision: null
 decision_answer: null
 ---
