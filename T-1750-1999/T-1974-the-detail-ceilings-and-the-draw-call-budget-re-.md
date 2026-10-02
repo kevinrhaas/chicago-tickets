@@ -41,3 +41,10 @@ first need (Evidence tab or first card) would leave about 0.57 MB of room. If sc
 outgrow 12 MB as the town completes, re-set the budget here with its reasons
 (docs/SITE-BUDGET.md § 4a). Filed here rather than as a new line: the queue stood at its
 ceiling (249 of 140).
+
+**Update, same day:** with T-1960 (#274) merged under it, T-1973's tree measures **12,582,805
+bytes, 107 bytes inside 12 MB**. The next boot-adding layer (T-1959's woodpiles, #272) will be
+refused. After liberties.json, the other panel files fetched before any panel opens:
+`reconstruction/1835_address_book.json` 0.161 MB, `residents/employment_coverage.json`,
+`reconstruction/1835_population_profile.json`, `residents/research_pilot.json` (~0.04 MB each).
+Minifying the 547 boot sidecars saves only 0.07 MB (gzip already takes the whitespace).
