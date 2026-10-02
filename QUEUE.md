@@ -96,7 +96,13 @@ T-1960 — Wells, privies and stables by household: wells where docs/RESEARCH/we
 T-1961 — Trade goods by trade at the reconstructed businesses: barrels, wagons, lumber, hides and hay within 1835_hay_limits, every record belongs_to its business
 T-1804 — The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
-T-1215 — Converge the reconstructed town: every person housed, every business roofed, every roof occupied or its use stated, the census's dwellings ratio met, the programme reconciled, the budgets re-measured and set — the completion report a visitor can open
+T-1964 — The town's completion audit: tools/audit_town_completion_1835.py measures every join T-1215 names (persons to a dwelling, workers to a workplace, businesses to a roof, roofs to occupants or a stated use) by tier, prints the gaps, and fails check.sh on any dangling id
+T-1965 — House the town: every household's lives_at resolves to a standing structure, a vessel or a camp, the census's dwellings ratio held, the audit's unhoused count at zero
+T-1966 — Place the work: every working person's works_at and every business's primary location resolved or stated, every roof carrying occupants or a stated use, the audit's other gaps at zero
+T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
+T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
+T-1969 — The budgets re-measured and set: detail ceilings at every stand, the draw-call budget, the boot payload, T-1154 reconciled, smoke green at both viewports
+T-1970 — The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
