@@ -1,7 +1,7 @@
 ---
 id: T-1993
 title: The 61 domestics the staffing model could seat in no tavern: the premises ruling puts domestic service in another household's house, so each carries that answer as a stated reason (no house of trade owed) rather than a town owed more hotels
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1991
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 301
 claimed_by: run 10/2/2026, 2:22:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T20:04:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37052795961
 claimed_at: 2026-10-02T19:22:55.337Z
 decision: null
