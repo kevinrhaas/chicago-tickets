@@ -47,4 +47,6 @@ Source checkpoint ece92a8; complete model/recovery commit a8fac67. Six full-mode
 
 Full published browser checks passed on a8fac67: mobile 1–6 297/0, mobile 7–13 290/0, desktop 1–6 294/0, desktop 7–13 290/0; zero page errors. After integrating dev's new terrain, stage 5 passed on 6f53477 with 26/0 for each viewport. All six results are recorded with their actual run commits.
 
-Final integration/receipts commit: 99dab70. Source preflight on the integration passes all 727 steps. PR #243 is ready; required source CI is running on its final head before merge to dev: https://github.com/kevinrhaas/chicago/actions/runs/36940452793. Production is not promoted.
+Final integration/receipts commit: eeb3903. Source preflight on the integration passes all 727 steps. Required source CI passed: https://github.com/kevinrhaas/chicago/actions/runs/36943960044.
+
+PR #243 merged to dev as db576eeb7f0f5cc2e3fa3b36bf4c98a363d72010 on 2026-10-02 at 00:13 UTC. Dev deployment verification is in progress. Production is not promoted.
