@@ -36,6 +36,7 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 > dev's gate is red on it: mobile part 2, 'the plank decks tie into the ground they cross', highest flat-ground deck vertex 0.191 m against 0.18, still red after T-1955 fixed the crossings and the inn pick
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+The river walk stands on the level bank it had before T-1812 (its board stations within 0.04 m of their pre-T-1812 ground), and mobile part 2's 'the plank decks tie into the ground they cross' is green with its 0.18 m band and 0.12 m threshold unchanged.
 
 ## What T-1955 measured (2026-10-02)
 
