@@ -69,7 +69,6 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 # Owner, 2026-10-02: dev's two smoke reds first — the river walk (mobile part 2) and the boot payload over 12 MB (desktop part 1). #258 and every baked PR wait on them.
 T-1956 — Hold T-1812's South Water cut off the river walk: the bank under its south half fell up to 0.19 m, and its edge stands 0.191 m over grade
-T-1975 — The full and balanced ceilings and the draw-call budget re-measured at every stand at both viewports and set where they are defined, T-1154 reconciled
 T-1976 — The light tier back inside its own 825,000 ceiling and 90-call floor at every stand at both viewports by a trim, smoke part 5 green at both viewports
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
@@ -96,7 +95,6 @@ T-1976 — The light tier back inside its own 825,000 ceiling and 90-call floor 
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
-T-1972 — The uncertain and absent households: ruled in and housed, or counted apart with their reason, the audit's unhoused count at zero
 T-1966 — Place the work: every working person's works_at and every business's primary location resolved or stated, every roof carrying occupants or a stated use, the audit's other gaps at zero
 T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures

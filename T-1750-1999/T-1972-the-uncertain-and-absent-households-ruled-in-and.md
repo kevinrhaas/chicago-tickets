@@ -1,7 +1,7 @@
 ---
 id: T-1972
 title: The uncertain and absent households: ruled in and housed, or counted apart with their reason, the audit's unhoused count at zero
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1965
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 282
 claimed_by: run 10/2/2026, 9:41:46 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T15:40:15Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37020388722
 claimed_at: 2026-10-02T14:41:46.730Z
 decision: null

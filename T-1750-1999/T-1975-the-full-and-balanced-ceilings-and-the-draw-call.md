@@ -1,7 +1,7 @@
 ---
 id: T-1975
 title: The full and balanced ceilings and the draw-call budget re-measured at every stand at both viewports and set where they are defined, T-1154 reconciled
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1974
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 281
 claimed_by: run 10/2/2026, 9:49:09 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T15:30:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37018377388
 claimed_at: 2026-10-02T14:49:09.580Z
 decision: null
