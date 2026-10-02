@@ -1,7 +1,7 @@
 ---
 id: T-1992
 title: The 134 on their own account whose house of trade the register does not hold: each house raised by the business band, or the reason none is owed stated
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1982
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 2:37:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37054254990
+claimed_at: 2026-10-02T19:37:11.987Z
 decision: null
 decision_answer: null
 ---
