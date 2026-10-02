@@ -1,7 +1,7 @@
 ---
 id: T-1980
 title: The fifteen empty roofs that belong to an establishment — the fort's service buildings, the works' sheds and the Beaubien homestead's two — each name the building they are part of, on the card and in the audit
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1966
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 286
 claimed_by: run 10/2/2026, 10:45:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T16:33:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37027513024
 claimed_at: 2026-10-02T15:45:35.079Z
 decision: null
