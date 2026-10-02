@@ -1,7 +1,7 @@
 ---
 id: T-1243
 title: Author the e1830_natural terrain spec and generate the 1812 heightfield and the ground and water meshes across the Fort-to-Eighteenth-Street corridor
-state: open
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,13 +9,16 @@ effort: M
 legacy_id: null
 parent: T-0468
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-02T23:09:18.130Z
 claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
 ---
 
 Author the e1830_natural terrain spec and generate the 1812 heightfield and the ground and water meshes across the Fort-to-Eighteenth-Street corridor.
