@@ -1,7 +1,7 @@
 ---
 id: T-1823
 title: The walk by business carried to the new business fronts town-wide as the frame budget allows — the cross streets and the West Division — with corner crossings at the principal streets and the cost measured
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1814
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 1:24:20 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36973151786
+claimed_at: 2026-10-02T06:24:20.519Z
 decision: null
 decision_answer: null
 ---
