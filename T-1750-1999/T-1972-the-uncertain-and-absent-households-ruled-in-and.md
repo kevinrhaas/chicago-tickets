@@ -1,7 +1,7 @@
 ---
 id: T-1972
 title: The uncertain and absent households: ruled in and housed, or counted apart with their reason, the audit's unhoused count at zero
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1965
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 282
 claimed_by: run 10/2/2026, 9:41:46 AM CT
 blocked_on: null
 needs_bake: false
