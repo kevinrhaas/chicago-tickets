@@ -1,7 +1,7 @@
 ---
 id: T-1839
 title: The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1832
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 258
 claimed_by: run 10/1/2026, 11:53:29 PM CT
 blocked_on: null
 needs_bake: false
