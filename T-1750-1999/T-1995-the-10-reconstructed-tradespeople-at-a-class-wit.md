@@ -1,7 +1,7 @@
 ---
 id: T-1995
 title: The 10 reconstructed tradespeople at a class with no room (4 smiths, 2 butchers, a painter, a dressmaker, 2 schoolteachers): each seated, carried on their own account as the premises ruling says, or the house owed stated
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1991
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 2:31:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37054356304
+claimed_at: 2026-10-02T19:31:21.561Z
 decision: null
 decision_answer: null
 ---
