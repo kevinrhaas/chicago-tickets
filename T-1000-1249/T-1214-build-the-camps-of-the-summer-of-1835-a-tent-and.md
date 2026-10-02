@@ -50,3 +50,13 @@ the summer of the land sale.
 
 **Links:** T-1178 · T-1199 · `data/reconstruction/1835_no_build_ground.json` ·
 AGENTS.md § Standing constraint · L1.
+
+## Handed on from T-1808 (2026-10-02): what the boarding houses leave behind
+T-1209's last books piece (T-1808, PR #256) closed the Washington-tier keeper seam: the lodgers
+stage now reads a platted adoption under `lodging_near_the_landings` as the house's keeper, so
+any house T-1950..T-1953 raise for a banded keeper is kept by that household with no keeper drawn.
+The remaining H3 boarding houses are those four tickets'. Carried here for the camps' own frame
+read: on the published tree at dev@d4fbc4a5 all three detail tiers read OVER their ceilings at
+desktop (full 1,516,064 / 1,460,000 at Lake and Canal; balanced 1,330,437 / 1,280,000; light
+885,296 / 825,000 at the forks — `docs/measurements/t-1808-detail-ceilings-desktop.json`).
+Price the camps with `measure_detail_ceilings.mjs --price` before they deal.
