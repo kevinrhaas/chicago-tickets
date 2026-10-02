@@ -1,7 +1,7 @@
 ---
 id: T-1968
 title: The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1215
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 309
 claimed_by: run 10/2/2026, 4:53:40 PM CT
 blocked_on: null
 needs_bake: false
