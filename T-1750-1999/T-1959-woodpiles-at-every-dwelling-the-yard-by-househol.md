@@ -1,7 +1,7 @@
 ---
 id: T-1959
 title: Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1212
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 5:05:59 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36993315621
+claimed_at: 2026-10-02T10:05:59.621Z
 decision: null
 decision_answer: null
 ---
