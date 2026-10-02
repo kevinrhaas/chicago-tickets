@@ -1,7 +1,7 @@
 ---
 id: T-2001
 title: The 9 at an uncounted trade with no count of shops either (3 refectory keepers, 2 auctioneers one of them attested, a miller, a brickmaker, a soap and candle maker) and the physician T-1529's blocked bucket owes: each house raised by the business band, or the reason none is owed stated
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1998
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 308
 claimed_by: run 10/2/2026, 4:19:54 PM CT
 blocked_on: null
 needs_bake: false
