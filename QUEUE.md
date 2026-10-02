@@ -98,7 +98,9 @@ T-1989 — The four empty anonymous trade roofs (the W2 joiner's shop on Randolp
 T-1993 — The 61 domestics the staffing model could seat in no tavern: the premises ruling puts domestic service in another household's house, so each carries that answer as a stated reason (no house of trade owed) rather than a town owed more hotels
 T-1994 — The 25 attested at a no-premises trade (officers and surgeon of the garrison, postmasters, sheriffs, justices, ministers, printers, editor, clerks, insurance agents, teachers, plasterer, surveyor, ship carpenter): each joined to the establishment the register holds for it, or the reason none is owed stated from its premises ruling
 T-1995 — The 10 reconstructed tradespeople at a class with no room (4 smiths, 2 butchers, a painter, a dressmaker, 2 schoolteachers): each seated, carried on their own account as the premises ruling says, or the house owed stated
-T-1992 — The 134 on their own account whose house of trade the register does not hold: each house raised by the business band, or the reason none is owed stated
+T-1996 — The 38 on their own account at a census class whose printed count is already held (32 at a store, 3 attorneys, 2 forwarders, a watchmaker): each told from the order book's own bucket that no house is owed
+T-1997 — The 38 boarding-house keepers on their own account with no house: each kept house raised on a standing roof, or the reason none is owed stated
+T-1998 — The 58 at a trade the December census never counted (20 carpenters, 12 milliners, 9 builders, 3 refectory keepers and 13 more) and the physician T-1529's bucket still owes: each house raised by the business band, or the reason none is owed stated
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
 T-1970 — The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
