@@ -1,7 +1,7 @@
 ---
 id: T-1988
 title: The ten empty anonymous outbuildings (six stables and barns, two sheds, a privy, a stable yard on the north fringe) each given a stated use naming the seated dwelling it serves, or why it serves none, bounded by the recipe's own yard_group, the lot ledger or T-1794's farmstead pairing; the audit's outbuilding_naming_no_yard count at zero
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1986
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 293
 claimed_by: run 10/2/2026, 12:37:51 PM CT
 blocked_on: null
 needs_bake: false
