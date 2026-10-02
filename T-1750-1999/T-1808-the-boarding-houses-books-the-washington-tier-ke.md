@@ -1,7 +1,7 @@
 ---
 id: T-1808
 title: The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1780
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 256
 claimed_by: run 10/1/2026, 9:58:59 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T04:15:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36957918258
 claimed_at: 2026-10-02T02:58:59.060Z
 decision: null
