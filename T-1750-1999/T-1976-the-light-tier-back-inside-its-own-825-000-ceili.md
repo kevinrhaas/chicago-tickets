@@ -1,7 +1,7 @@
 ---
 id: T-1976
 title: The light tier back inside its own 825,000 ceiling and 90-call floor at every stand at both viewports by a trim, smoke part 5 green at both viewports
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1974
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 284
 claimed_by: run 10/2/2026, 10:14:07 AM CT
 blocked_on: null
 needs_bake: false
