@@ -1,7 +1,7 @@
 ---
 id: T-1955
 title: dev's mobile smoke part 2 is red since T-1812 graded the streets: the plank decks sit 0.120 m below grade, and all 25 aims at the inn frontage return nothing
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 260
 claimed_by: run 10/2/2026, 1:36:41 AM CT
 blocked_on: null
 needs_bake: false
