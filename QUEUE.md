@@ -93,7 +93,6 @@
 T-1839 — The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 T-1960 — Wells, privies and stables by household: wells where docs/RESEARCH/wells.md allows, a privy off the alley at every dwelling lot, a stable for the horse-keeping households
-T-1961 — Trade goods by trade at the reconstructed businesses: barrels, wagons, lumber, hides and hay within 1835_hay_limits, every record belongs_to its business
 T-1804 — The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1964 — The town's completion audit: tools/audit_town_completion_1835.py measures every join T-1215 names (persons to a dwelling, workers to a workplace, businesses to a roof, roofs to occupants or a stated use) by tier, prints the gaps, and fails check.sh on any dangling id

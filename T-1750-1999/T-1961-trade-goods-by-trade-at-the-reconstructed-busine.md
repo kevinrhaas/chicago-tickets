@@ -1,7 +1,7 @@
 ---
 id: T-1961
 title: Trade goods by trade at the reconstructed businesses: barrels, wagons, lumber, hides and hay within 1835_hay_limits, every record belongs_to its business
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1212
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 273
 claimed_by: run 10/2/2026, 6:53:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T13:15:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37003220340
 claimed_at: 2026-10-02T11:53:28.133Z
 decision: null
