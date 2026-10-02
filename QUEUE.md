@@ -96,7 +96,8 @@ T-1960 — Wells, privies and stables by household: wells where docs/RESEARCH/we
 T-1804 — The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1964 — The town's completion audit: tools/audit_town_completion_1835.py measures every join T-1215 names (persons to a dwelling, workers to a workplace, businesses to a roof, roofs to occupants or a stated use) by tier, prints the gaps, and fails check.sh on any dangling id
-T-1965 — House the town: every household's lives_at resolves to a standing structure, a vessel or a camp, the census's dwellings ratio held, the audit's unhoused count at zero
+T-1971 — House the present: the 1,003 households present on the scene date seated by a housing deal (rule, ledger, sidecar overlay), every seat on a standing dwelling, the census's people per dwelling held
+T-1972 — The uncertain and absent households: ruled in and housed, or counted apart with their reason, the audit's unhoused count at zero
 T-1966 — Place the work: every working person's works_at and every business's primary location resolved or stated, every roof carrying occupants or a stated use, the audit's other gaps at zero
 T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
