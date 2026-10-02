@@ -1,7 +1,7 @@
 ---
 id: T-1994
 title: The 25 attested at a no-premises trade (officers and surgeon of the garrison, postmasters, sheriffs, justices, ministers, printers, editor, clerks, insurance agents, teachers, plasterer, surveyor, ship carpenter): each joined to the establishment the register holds for it, or the reason none is owed stated from its premises ruling
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1991
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 2:27:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37052657139
+claimed_at: 2026-10-02T19:27:09.702Z
 decision: null
 decision_answer: null
 ---
