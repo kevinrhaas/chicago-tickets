@@ -1,7 +1,7 @@
 ---
 id: T-1834
 title: Signboards for the reconstructed firms that keep their own roofs: the boarding houses, stores and works the business layer records IN a reconstructed roof get a board in the T-1184 house style, graded reconstructed, the card a tap opens naming the same firm
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1213
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 7:56:50 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36947899641
+claimed_at: 2026-10-02T00:56:50.267Z
 decision: null
 decision_answer: null
 ---
