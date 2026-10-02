@@ -1,7 +1,7 @@
 ---
 id: T-1956
 title: Hold T-1812's South Water cut off the river walk: the bank under its south half fell up to 0.19 m, and its edge stands 0.191 m over grade
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 278
 claimed_by: run 10/2/2026, 8:57:29 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-02T17:24:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37010444609
 claimed_at: 2026-10-02T13:57:29.835Z
 decision: null
