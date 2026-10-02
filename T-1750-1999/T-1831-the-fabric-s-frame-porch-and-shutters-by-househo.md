@@ -1,7 +1,7 @@
 ---
 id: T-1831
 title: The fabric's frame, porch and shutters by household: construction by age, porch and shutters by class dealt to every reconstructed frame building through the fabric rule, attested and inferred values never moved (self-test), the changed roofs rebaked
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1817
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 249
 claimed_by: run 10/1/2026, 7:04:22 PM CT
 blocked_on: null
 needs_bake: false
