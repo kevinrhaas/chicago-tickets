@@ -1,7 +1,7 @@
 ---
 id: T-1834
 title: Signboards for the reconstructed firms that keep their own roofs: the boarding houses, stores and works the business layer records IN a reconstructed roof get a board in the T-1184 house style, graded reconstructed, the card a tap opens naming the same firm
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1213
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 252
 claimed_by: run 10/1/2026, 7:56:50 PM CT
 blocked_on: null
 needs_bake: false
