@@ -1,7 +1,7 @@
 ---
 id: T-1808
 title: The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1780
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/1/2026, 7:51:56 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36947899641
-claimed_at: 2026-10-02T00:51:56.049Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -34,3 +34,11 @@ stage reads an adopted platted seat on a lodging roof as that house's keeper hou
 restated either way); the frame budget read on the published tree
 (`measure_detail_ceilings.mjs`); a screenshot of a boarding-house row; successor T-1214
 handed on with the remainder.
+
+## Note (2026-10-02, slice 4/5): taken and handed back unworked
+Claimed and released in the same run without a line written. The keeper seam this ticket closes
+spans BOTH Washington-tier houses, and the second (`_h3_06`, hh_sweet_alanson's) exists only on
+T-1809's PR #231, which was mid-lap at the time; closing the seam on `dev` would have rewritten
+the same derived files (lodgers_seated, roof_keepers, business_reconstruction, staffing,
+employment_coverage, sidecars) #231 rewrites, and handed its lap a second conflict. Take this
+once #231 has merged.
