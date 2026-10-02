@@ -1,7 +1,7 @@
 ---
 id: T-1212
 title: Yards for every household: lot-line and dooryard fences, gardens, woodpiles, wells, privies and stables assigned by household type, wagons and barrels and trade goods at the shops by trade — the enclosure, yard and outbuilding layers extended to the reconstructed town
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: run 10/2/2026, 3:39:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T08:43:30.824Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36985027465
 claimed_at: 2026-10-02T08:39:20.863Z
 decision: null
