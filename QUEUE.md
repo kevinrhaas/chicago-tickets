@@ -91,7 +91,6 @@
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 T-1839 — The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
-T-1963 — The town's walls to the photographic benchmark: T-1769's strategy A — shared wall relief and ORM per substrate with grain strength by finish — so the lay, the wear and the jitter read at walking distance; fresh, maintained and weathered closeups and before/after captures at 390x780 and 1280x800 against Glessner v4 with a written critique and town-wide frame costs, no two neighbouring reconstructed buildings sharing a finish
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 T-1960 — Wells, privies and stables by household: wells where docs/RESEARCH/wells.md allows, a privy off the alley at every dwelling lot, a stable for the horse-keeping households
 T-1961 — Trade goods by trade at the reconstructed businesses: barrels, wagons, lumber, hides and hay within 1835_hay_limits, every record belongs_to its business
