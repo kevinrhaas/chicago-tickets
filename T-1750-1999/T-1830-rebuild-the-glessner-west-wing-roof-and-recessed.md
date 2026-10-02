@@ -49,4 +49,7 @@ Full published browser checks passed on a8fac67: mobile 1–6 297/0, mobile 7–
 
 Final integration/receipts commit: eeb3903. Source preflight on the integration passes all 727 steps. Required source CI passed: https://github.com/kevinrhaas/chicago/actions/runs/36943960044.
 
-PR #243 merged to dev as db576eeb7f0f5cc2e3fa3b36bf4c98a363d72010 on 2026-10-02 at 00:13 UTC. Dev deployment verification is in progress. Production is not promoted.
+PR #243 merged to dev as db576eeb7f0f5cc2e3fa3b36bf4c98a363d72010 on 2026-10-02 at 00:13 UTC. Dev deployment verified: https://github.com/kevinrhaas/chicago/actions/runs/36944995049 succeeded. The live build.json and page banner both read dev@db576ee. The served full model is 47,204,892 bytes with SHA-256 b0a02e4827d856562d5859929c3538d4e60f68f67d5244b82e572b83d353e775; the light model is 25,092,984 bytes with SHA-256 6a5854ec45de8824b2391e698828ea79af4024b17a505e7595a0d2e9a168c8be. Both match the visually reviewed repair exactly.
+
+Preview: https://chicago.polecat.live/4d/dev/1904/?anchor=glessner_house
+The current cloud browser cannot create a WebGL context (its GL renderer is disabled), so final live verification used the build stamp and exact served asset hashes. The published-mirror mobile/desktop Chromium checks already passed with zero page errors. Production is not promoted.
