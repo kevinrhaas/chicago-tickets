@@ -1,7 +1,7 @@
 ---
 id: T-1771
 title: Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
-state: claimed
+state: review
 epic: GROUND
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 265
 claimed_by: run 10/2/2026, 3:07:46 AM CT
 blocked_on: T-1770
 needs_bake: true
