@@ -1,7 +1,7 @@
 ---
 id: T-1213
 title: Signboards for every business that would have hung one: the reconstructed firms' names and trades in period lettering and forms, the attested signs untouched, the signless trades left signless by rule
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 7:53:05 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T00:56:39.844Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36947899641
 claimed_at: 2026-10-02T00:53:05.476Z
 decision: null
