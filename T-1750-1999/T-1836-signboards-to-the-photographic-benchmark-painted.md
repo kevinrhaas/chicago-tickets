@@ -1,7 +1,7 @@
 ---
 id: T-1836
 title: Signboards to the photographic benchmark: painted lettering on wood, grain, edge wear, bracket and strap timber, a store board, bracket sign and tavern device reviewed at 390x780 and 1280x800 against Glessner v4 with before/after captures, a written critique and town-wide frame costs
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1213
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 262
 claimed_by: run 10/2/2026, 1:51:29 AM CT
 blocked_on: null
 needs_bake: false
