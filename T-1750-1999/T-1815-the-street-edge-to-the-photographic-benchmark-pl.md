@@ -1,7 +1,7 @@
 ---
 id: T-1815
 title: The street edge to the photographic benchmark: planks, stoops, posts and blocks at period scale with joinery, contact and shadow, before/after captures at 390x780 and 1280x800 against Glessner v4, a written critique, town-wide frame costs measured
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1211
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 264
 claimed_by: run 10/2/2026, 3:15:48 AM CT
 blocked_on: null
 needs_bake: false
