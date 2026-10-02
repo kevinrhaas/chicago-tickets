@@ -39,3 +39,7 @@ The owner, 2026-10-02, verbatim: "as you walk on dev, the grass area seems to gr
 4. The road texture's across-coordinate is each column's own fraction, so the shoulders, lanes and sod islands no longer jump at every panel edge.
 5. Every junction and street end walked and flown, with before/after shots, and whatever misjoin it finds fixed or recorded here.
 6. check.sh and the smoke by parts green at 1280x800 and 390x780.
+
+## Checked for an existing ticket (owner's question, 2026-10-02)
+
+No open ticket owns this. The street work it follows is T-1770 (split), whose children T-1811 (the worked roadway surface) and T-1812 (the graded street section) are both done; T-1812's lattice-column grids and graded bed are what this ticket re-lays. T-1771 (the working bank, done) is the layer that drew grass over South Water's river edge. T-1856 is a 1904 Prairie Avenue materials package and does not reach the 1835 streets.
