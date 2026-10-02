@@ -1,7 +1,7 @@
 ---
 id: T-1831
 title: The fabric's frame, porch and shutters by household: construction by age, porch and shutters by class dealt to every reconstructed frame building through the fabric rule, attested and inferred values never moved (self-test), the changed roofs rebaked
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1817
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 249
 claimed_by: run 10/1/2026, 7:04:22 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T01:20:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36938257558
 claimed_at: 2026-10-02T00:04:22.297Z
 decision: null
