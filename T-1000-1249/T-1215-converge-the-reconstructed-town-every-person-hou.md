@@ -1,7 +1,7 @@
 ---
 id: T-1215
 title: Converge the reconstructed town: every person housed, every business roofed, every roof occupied or its use stated, the census's dwellings ratio met, the programme reconciled, the budgets re-measured and set — the completion report a visitor can open
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 7:27:00 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37006354978
+claimed_at: 2026-10-02T12:27:00.190Z
+decision: null
+decision_answer: null
 ---
 
 The closeout of the whole reconstruction. The owner's stop condition, verbatim: *"you must
