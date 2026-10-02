@@ -100,7 +100,6 @@ T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placem
 T-1985 — The six Dearborn-reach freight sheds and the four named houses (Caldwell's agency log house, the Clybourne cabins, the Factor's House, Miller House) each state their use and why nobody is seated there, on the card and in the audit
 T-1986 — The anonymous programme roofs left empty (stables, barns, sheds, a privy and four trade buildings) each tied to the dwelling or establishment it serves by T-1980's part_of, or given a stated use, the audit's empty count at zero
 T-1982 — The 308 working-age persons owed a workplace: each works_at resolved or the reason none is owed stated, the audit's owed count at zero
-T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
 T-1970 — The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
