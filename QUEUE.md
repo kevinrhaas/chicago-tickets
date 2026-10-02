@@ -330,3 +330,5 @@ T-1645 — The platted deal seats 60 letter-list households on roofs the ruling 
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 T-1743 — The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road
 T-1833 — Correct Glessner west-wing rear ridge, south gable and courtyard eave
+
+T-1837 — Assess the complete Prairie Avenue 1904 architectural asset programme
