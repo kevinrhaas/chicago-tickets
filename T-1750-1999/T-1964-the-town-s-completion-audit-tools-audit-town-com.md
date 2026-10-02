@@ -1,7 +1,7 @@
 ---
 id: T-1964
 title: The town's completion audit: tools/audit_town_completion_1835.py measures every join T-1215 names (persons to a dwelling, workers to a workplace, businesses to a roof, roofs to occupants or a stated use) by tier, prints the gaps, and fails check.sh on any dangling id
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1215
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 275
 claimed_by: run 10/2/2026, 7:28:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T13:30:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37006354978
 claimed_at: 2026-10-02T12:28:16.630Z
 decision: null
