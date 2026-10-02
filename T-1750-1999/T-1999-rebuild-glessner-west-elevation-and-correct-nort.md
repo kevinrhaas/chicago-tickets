@@ -47,3 +47,5 @@ Owner instruction: commit and push intermediate work so a failed session can be 
 - Preserves the north working tree's four source files, five owner reference review copies with original SHA-256 hashes, and QA scripts. Snapshot base: 10bd9c07e7bf1e02dd0344315aaa435a980167d0.
 - This is unvalidated work in progress, not a completed model or ready-to-merge PR. Roof/west/tower reconstruction, regenerated assets and validation remain.
 - Continue substantive checkpoints during the repair. Before resuming, compare the active branch `steward/t-1999-glessner-elevation-rebuild` and current PRs against this snapshot to avoid overwriting newer work.
+
+Second checkpoint: [525a3cf](https://github.com/kevinrhaas/chicago/commit/525a3cf7cf78172e96dd4adba66156d9a56e3a3e) on the same recovery branch now includes complete patches for the integration, north and roof working trees, including untracked files. Each patch was verified to apply against its recorded base. The handoff explains how to restore each workstream separately and reconcile shared files. Implementation, bake and visual gates are still pending.
