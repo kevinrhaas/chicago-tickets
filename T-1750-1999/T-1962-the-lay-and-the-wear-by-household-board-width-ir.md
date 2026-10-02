@@ -1,7 +1,7 @@
 ---
 id: T-1962
 title: The lay and the wear by household: board-width irregularity (FIN-L) and phase-age weathering (FIN-W) dealt under the fabric rule on the material sheet, the full bake, lake_market and south_water critic frames and frame costs measured before and after
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1818
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 268
 claimed_by: run 10/2/2026, 3:50:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T10:49:55Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36981253769
 claimed_at: 2026-10-02T08:50:34.841Z
 decision: null
