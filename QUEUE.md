@@ -97,7 +97,6 @@ T-1808 — The boarding houses' books: the Washington-tier keepers settled, the 
 T-1812 — The graded street section: the roadbed lowered below an entrance-level walk shelf in the terrain and the walker's collision, a measured South Water section, doors, crossings and intersections connected without seams, citywide before/after captures and frame costs
 T-1771 — Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
-T-1838 — The fabric's glazing by household: sash counts and pane sizes dealt by class and built by the frame dwelling archetype (L23), the windows given sash bars
 T-1839 — The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
 T-1818 — The fabric to the photographic benchmark: T-0002's board-tone jitter, phase-age weathering and board-width irregularity in materials.py under the rule, the full bake, lake_market and south_water critic frames, before/after captures at 390x780 and 1280x800 against Glessner v4 with a written critique and town-wide frame costs, no two neighbouring reconstructed buildings sharing a finish
 T-1823 — The walk by business carried to the new business fronts town-wide as the frame budget allows — the cross streets and the West Division — with corner crossings at the principal streets and the cost measured
