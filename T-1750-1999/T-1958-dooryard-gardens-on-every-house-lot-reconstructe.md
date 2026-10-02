@@ -1,7 +1,7 @@
 ---
 id: T-1958
 title: Dooryard gardens on every house lot, reconstructed houses at their own tier — clause 4 rewritten to T-0772's house rule (owner, 2026-09-21), before/after captures of a back-street block
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1212
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 267
 claimed_by: run 10/2/2026, 3:43:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T10:15:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36985027465
 claimed_at: 2026-10-02T08:43:34.499Z
 decision: null

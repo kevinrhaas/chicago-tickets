@@ -94,12 +94,10 @@ T-1951 — The South's remaining H3 boarding houses the book orders — the plan
 T-1839 — The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
 T-1962 — The lay and the wear by household: board-width irregularity (FIN-L) and phase-age weathering (FIN-W) dealt under the fabric rule on the material sheet, the full bake, lake_market and south_water critic frames and frame costs measured before and after
 T-1963 — The town's walls to the photographic benchmark: T-1769's strategy A — shared wall relief and ORM per substrate with grain strength by finish — so the lay, the wear and the jitter read at walking distance; fresh, maintained and weathered closeups and before/after captures at 390x780 and 1280x800 against Glessner v4 with a written critique and town-wide frame costs, no two neighbouring reconstructed buildings sharing a finish
-T-1958 — Dooryard gardens on every house lot, reconstructed houses at their own tier — clause 4 rewritten to T-0772's house rule (owner, 2026-09-21), before/after captures of a back-street block
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 T-1960 — Wells, privies and stables by household: wells where docs/RESEARCH/wells.md allows, a privy off the alley at every dwelling lot, a stable for the horse-keeping households
 T-1961 — Trade goods by trade at the reconstructed businesses: barrels, wagons, lumber, hides and hay within 1835_hay_limits, every record belongs_to its business
 T-1804 — The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner
-T-0772 — Twelve dooryard gardens went with the retired households: should a garden follow the house or the household?
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1215 — Converge the reconstructed town: every person housed, every business roofed, every roof occupied or its use stated, the census's dwellings ratio met, the programme reconciled, the budgets re-measured and set — the completion report a visitor can open
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
