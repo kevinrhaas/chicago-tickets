@@ -1,7 +1,7 @@
 ---
 id: T-2002
 title: Author the e1830_natural terrain spec: the 1812 zone table, the spit isthmus's surface, and which reading the old channel's west bank stands on
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1243
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 312
 claimed_by: run 10/2/2026, 6:09:21 PM CT
 blocked_on: null
 needs_bake: false
