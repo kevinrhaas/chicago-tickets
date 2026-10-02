@@ -1,7 +1,7 @@
 ---
 id: T-1818
 title: The fabric to the photographic benchmark: T-0002's board-tone jitter, phase-age weathering and board-width irregularity in materials.py under the rule, the full bake, lake_market and south_water critic frames, before/after captures at 390x780 and 1280x800 against Glessner v4 with a written critique and town-wide frame costs, no two neighbouring reconstructed buildings sharing a finish
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1210
 opened: 2026-10-01
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: run 10/2/2026, 2:59:47 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T08:50:29.491Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36981253769
 claimed_at: 2026-10-02T07:59:47.881Z
 decision: null
