@@ -1,7 +1,7 @@
 ---
 id: T-1810
 title: Raise the H3 boarding houses the book still orders beyond the two Washington-tier seats — the South's remaining eight and the West's and North's, whose placement no banded keeper has claimed yet — each with its stable and privy, keepers and lodgers seated
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1779
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: null
 claimed_by: run 10/1/2026, 9:29:23 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T03:16:42.324Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36955670821
 claimed_at: 2026-10-02T02:29:23.249Z
 decision: null

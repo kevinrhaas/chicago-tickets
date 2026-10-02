@@ -87,7 +87,10 @@
 # --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
 # --- settle accounting; none of them decides where a South Division building stands.
 # West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-T-1810 — Raise the H3 boarding houses the book still orders beyond the two Washington-tier seats — the South's remaining eight and the West's and North's, whose placement no banded keeper has claimed yet — each with its stable and privy, keepers and lodgers seated
+T-1950 — The plan's last H3 on blk_washington_clark raised on lot 0, the Washington-and-Clark corner, with its stable and privy, keeper and lodgers seated — the lot's slot request re-seated and any household it displaces owed in writing
+T-1951 — The South's remaining H3 boarding houses the book orders — the plan's two on blk_washington_dearborn and two on blk_washington_market, whose every free lot but the kept-open one carries a dwelling slot request — each with its stable and privy, keepers and lodgers seated, the displaced requests re-seated or owed in writing, and the cell's orders the plan holds no H3 for stated
+T-1952 — The North's H3 boarding house the plan offers on blk_indiana_north_cass, with its stable and privy, keeper and lodgers seated
+T-1953 — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
 T-1808 — The boarding houses' books: the Washington-tier keepers settled, the frame budget read, a boarding-house row screenshot, T-1214 handed on
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
