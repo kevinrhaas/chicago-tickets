@@ -95,7 +95,9 @@ T-1976 — The light tier back inside its own 825,000 ceiling and 90-call floor 
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
-T-1966 — Place the work: every working person's works_at and every business's primary location resolved or stated, every roof carrying occupants or a stated use, the audit's other gaps at zero
+T-1980 — The fifteen empty roofs that belong to an establishment — the fort's service buildings, the works' sheds and the Beaubien homestead's two — each name the building they are part of, on the card and in the audit
+T-1981 — The other 24 empty roofs — the six Dearborn-reach freight sheds, four named houses and fourteen anonymous programme roofs — given an occupant or a stated use, the audit's empty count at zero
+T-1982 — The 308 working-age persons owed a workplace: each works_at resolved or the reason none is owed stated, the audit's owed count at zero
 T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
 T-1970 — The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
