@@ -1,7 +1,7 @@
 ---
 id: T-1995
 title: The 10 reconstructed tradespeople at a class with no room (4 smiths, 2 butchers, a painter, a dressmaker, 2 schoolteachers): each seated, carried on their own account as the premises ruling says, or the house owed stated
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1991
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 303
 claimed_by: run 10/2/2026, 2:31:21 PM CT
 blocked_on: null
 needs_bake: false
