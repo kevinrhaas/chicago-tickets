@@ -1,7 +1,7 @@
 ---
 id: T-1967
 title: The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1215
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 288
 claimed_by: run 10/2/2026, 10:44:53 AM CT
 blocked_on: null
 needs_bake: false
