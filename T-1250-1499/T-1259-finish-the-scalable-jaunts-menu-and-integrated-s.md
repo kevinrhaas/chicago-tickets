@@ -1,7 +1,7 @@
 ---
 id: T-1259
 title: Finish the scalable Jaunts Menu and integrated start experience
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive-jaunts-menu 10/2/2026, 1:29:55 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
+claimed_at: 2026-10-02T18:29:55.134Z
+decision: null
+decision_answer: null
 ---
 
 **The finished Jaunts Menu** — quick to browse at 25 and at 50+, beside the shared Explore Myself option. The owner: *"The Jaunts Menu should show each jaunt's title, one-sentence premise, number of stops, approximate quick-play duration, category, changeable method of travel and that changes the duration … Also include a prominent non-jaunt option: I'll Explore Myself — Starting At…"* This is the last engine ticket; the content batches (5H/5I) then only add JSON.
