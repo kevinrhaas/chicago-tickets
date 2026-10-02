@@ -69,7 +69,8 @@
 # --- ahead of the re-family and seating work that is about to touch that layer.
 # Owner, 2026-10-02: dev's two smoke reds first — the river walk (mobile part 2) and the boot payload over 12 MB (desktop part 1). #258 and every baked PR wait on them.
 T-1956 — Hold T-1812's South Water cut off the river walk: the bank under its south half fell up to 0.19 m, and its edge stands 0.191 m over grade
-T-1969 — The budgets re-measured and set: detail ceilings at every stand, the draw-call budget, the boot payload, T-1154 reconciled, smoke green at both viewports
+T-1973 — The boot payload back within measure_boot_payload.mjs's 12 MB budget on dev, or re-set with the reason
+T-1974 — The detail ceilings and the draw-call budget re-measured at every stand and set where they are defined, T-1154 reconciled, smoke green at both viewports
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
