@@ -1,7 +1,7 @@
 ---
 id: T-1827
 title: recon_1835_west_046's H2 verdict carried out: the lodging model or an argued lodger re-deal (salvage/046-h2-lodgers-open-ceiling), the shed rebaked as a boarding house, 047's stated use restated
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1774
 opened: 2026-10-01
-closed: null
+closed: 2026-10-01
 pr: 247
 claimed_by: run 10/1/2026, 4:41:01 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-02T00:48:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36929937702
 claimed_at: 2026-10-01T21:41:01.627Z
 decision: null
