@@ -1,7 +1,7 @@
 ---
 id: T-1960
 title: Wells, privies and stables by household: wells where docs/RESEARCH/wells.md allows, a privy off the alley at every dwelling lot, a stable for the horse-keeping households
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1212
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 274
 claimed_by: run 10/2/2026, 6:30:58 AM CT
 blocked_on: null
 needs_bake: false
