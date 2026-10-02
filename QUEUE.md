@@ -94,7 +94,6 @@
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
 T-1989 — The four empty anonymous trade roofs (the W2 joiner's shop on Randolph, the F2 warehouse at the forks, the W5 work shop on Wolcott the off-plat deal adopted for the Miller and Hall tannery household but never spent, the C3 store on Lake) each seated by a deal or shown unseatable: the order book has an occupant class for each and the policy accepts it where it stands, so a stated use would break 1835_stated_uses' rule (b)
 T-1997 — The 38 boarding-house keepers on their own account with no house: each kept house raised on a standing roof, or the reason none is owed stated
-T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
 T-1970 — The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
