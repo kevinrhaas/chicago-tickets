@@ -1,7 +1,7 @@
 ---
 id: T-1771
 title: Shape South Water and the working riverfront as worn earth, low docks and connected ramps up to muddy streets
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 12:10:46 AM CT
 blocked_on: T-1770
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36967233005
+claimed_at: 2026-10-02T05:10:46.235Z
 decision: null
 decision_answer: null
 ---
