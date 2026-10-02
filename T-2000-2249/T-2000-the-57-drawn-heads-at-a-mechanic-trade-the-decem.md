@@ -1,7 +1,7 @@
 ---
 id: T-2000
 title: The 57 drawn heads at a mechanic trade the December census never counted (20 carpenters, 12 milliners, 9 builders, 4 smiths and 12 more) told against the Chicago American's twenty-five mechanics' shops, and E. H. Mulford's open identity hold named on his card
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1998
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 307
 claimed_by: run 10/2/2026, 4:09:35 PM CT
 blocked_on: null
 needs_bake: false
