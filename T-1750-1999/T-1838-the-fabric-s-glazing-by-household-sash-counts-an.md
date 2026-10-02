@@ -1,7 +1,7 @@
 ---
 id: T-1838
 title: The fabric's glazing by household: sash counts and pane sizes dealt by class and built by the frame dwelling archetype (L23), the windows given sash bars
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1832
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 254
 claimed_by: run 10/1/2026, 8:47:44 PM CT
 blocked_on: null
 needs_bake: false
