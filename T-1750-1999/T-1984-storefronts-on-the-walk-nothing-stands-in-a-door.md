@@ -1,7 +1,7 @@
 ---
 id: T-1984
 title: Storefronts on the walk: nothing stands in a doorway, no sign covers a door or window, no door merges with a window, and the ground at every entrance is trodden
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 291
 claimed_by: run 10/2/2026, 11:19:55 AM CT
 blocked_on: null
 needs_bake: true
