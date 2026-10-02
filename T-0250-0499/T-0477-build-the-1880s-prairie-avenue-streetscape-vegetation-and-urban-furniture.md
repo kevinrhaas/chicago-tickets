@@ -43,3 +43,7 @@ its acceptance. A tentative reading stays tentative until this ticket resolves i
 sheets, and every value taken from the library cites the library row or dossier entry it came from.
 
 **For this ticket:** road and sidewalk **surfaces** moved to **T-1728**. This ticket keeps trees, lamps, fences, railings, hitching posts, hydrants and wires. Research-gaps item **5** and `research/civic-dossier.json` list the acquisition leads.
+
+## Architectural assessment and implementation decomposition — 2026-10-01
+
+The owner-requested [T-1837 study](../evidence/T-1837-prairie-1904-architectural-study/README.md) now supplies the source-pinned building/frontage registers, common components, dated reconstruction decisions and [110 staged child tickets](../evidence/T-1837-prairie-1904-architectural-study/TICKET-PLAN.md). This umbrella retains programme ownership; use those children for actual execution rather than filing duplicate building/component work. The existing 2026-09-30 construction hold remains unchanged.

@@ -43,3 +43,7 @@ its acceptance. A tentative reading stays tentative until this ticket resolves i
 sheets, and every value taken from the library cites the library row or dossier entry it came from.
 
 **For this ticket:** research-gaps item **1** is this ticket's denominator: the 91 tentative frontages, the three 1904 corrections, the 1700/1702 shared structure, the 1916/1930 alias, and the unnamed rear stables, enumerated separately.
+
+## Architectural assessment and implementation decomposition — 2026-10-01
+
+The owner-requested [T-1837 study](../evidence/T-1837-prairie-1904-architectural-study/README.md) now supplies the source-pinned building/frontage registers, common components, dated reconstruction decisions and [110 staged child tickets](../evidence/T-1837-prairie-1904-architectural-study/TICKET-PLAN.md). This umbrella retains programme ownership; use those children for actual execution rather than filing duplicate building/component work. The existing 2026-09-30 construction hold remains unchanged.

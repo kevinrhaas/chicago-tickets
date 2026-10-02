@@ -1,0 +1,62 @@
+{
+  "assessment_date": "2026-10-01 (America/Chicago)",
+  "code_revision": "b31dc146c63b11e550ce8536048f33dfefa606c5",
+  "source_snapshots": [
+    {
+      "path": "data/buildings.csv",
+      "sha256": "76311a3fed002a15f2d5676cc94bece0623d5f60539898d903c62c92b6df8ff3",
+      "bytes": 83438
+    },
+    {
+      "path": "data/building_events.csv",
+      "sha256": "7f87094100199d50da9df589fe6b1cb023cd1c755846378223549803bff2700f",
+      "bytes": 9672
+    },
+    {
+      "path": "data/map_frontages.csv",
+      "sha256": "a120916230ee47acd1cc3471477d0b31055e0ed513e97274a843198f8c68a95c",
+      "bytes": 14220
+    },
+    {
+      "path": "data/measurements.csv",
+      "sha256": "c8ee58ab9c463b4df3fa94a250718db8e4427e535d39a6fe05bb128473cbfb69",
+      "bytes": 7175
+    },
+    {
+      "path": "data/sources.csv",
+      "sha256": "70351a402f23ed6617df17919bb0efac0b033b59c793a18293c17b769f96b7b9",
+      "bytes": 99205
+    },
+    {
+      "path": "data/images.json",
+      "sha256": "e29688adb6e8139bed3d6bcf452dcee06f8eb3b0b2c37f692afcc16da73bbad2",
+      "bytes": 1817783
+    },
+    {
+      "path": "data/site-plan.json",
+      "sha256": "b2d66fcc056ccca7924a917f81b1baf6893190d4c4fd9cf0f44bf0fe302434cf",
+      "bytes": 47865
+    }
+  ],
+  "live_verification": {
+    "library.json": {
+      "live_sha256": "63ebb802d094644f4345b20f9eab12bb06e987fccd91a66481536a713622966a",
+      "repo_sha256": "63ebb802d094644f4345b20f9eab12bb06e987fccd91a66481536a713622966a",
+      "match": true
+    },
+    "images.json": {
+      "live_sha256": "e29688adb6e8139bed3d6bcf452dcee06f8eb3b0b2c37f692afcc16da73bbad2",
+      "repo_sha256": "e29688adb6e8139bed3d6bcf452dcee06f8eb3b0b2c37f692afcc16da73bbad2",
+      "match": true
+    }
+  },
+  "images_library_counts": {
+    "images": 815,
+    "local": 199,
+    "in_period": 512,
+    "buildings_with_images": 62,
+    "buildings": 62,
+    "lots_with_images": 85,
+    "lots": 92
+  }
+}

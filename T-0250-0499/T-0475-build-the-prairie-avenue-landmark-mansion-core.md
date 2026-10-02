@@ -45,3 +45,7 @@ its acceptance. A tentative reading stays tentative until this ticket resolves i
 sheets, and every value taken from the library cites the library row or dossier entry it came from.
 
 **For this ticket:** the Glessner House is now its own tickets, **T-1729** (first version) and **T-1730** (alternate versions for the owner's comparison). T-0475 covers the rest of the landmark core. Check every candidate's construction and loss dates against 1904 using `data/buildings.csv` and `building_events.csv`, and keep both readings where research-gaps item **6** lists a chronology conflict.
+
+## Architectural assessment and implementation decomposition — 2026-10-01
+
+The owner-requested [T-1837 study](../evidence/T-1837-prairie-1904-architectural-study/README.md) now supplies the source-pinned building/frontage registers, common components, dated reconstruction decisions and [110 staged child tickets](../evidence/T-1837-prairie-1904-architectural-study/TICKET-PLAN.md). This umbrella retains programme ownership; use those children for actual execution rather than filing duplicate building/component work. The existing 2026-09-30 construction hold remains unchanged.
