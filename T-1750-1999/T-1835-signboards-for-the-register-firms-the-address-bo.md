@@ -1,7 +1,7 @@
 ---
 id: T-1835
 title: Signboards for the register firms the address book houses on South Water, Lake and the cross-street faces: the building card names the firm housed in it (the crosswalk carries the adoption), then the board, so South Water and Lake read as a business street
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1213
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 253
 claimed_by: run 10/1/2026, 8:55:36 PM CT
 blocked_on: null
 needs_bake: false
