@@ -1,7 +1,7 @@
 ---
 id: T-1988
 title: The ten empty anonymous outbuildings (six stables and barns, two sheds, a privy, a stable yard on the north fringe) each given a stated use naming the seated dwelling it serves, or why it serves none, bounded by the recipe's own yard_group, the lot ledger or T-1794's farmstead pairing; the audit's outbuilding_naming_no_yard count at zero
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1986
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 12:37:51 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37038248704
+claimed_at: 2026-10-02T17:37:51.346Z
 decision: null
 decision_answer: null
 ---
