@@ -79,3 +79,13 @@ re-derive needs Blender, which the session that took the ruling did not have. So
 **Done when** every tier sits at its measured worst plus the recorded headroom, `light` is at
 or under 785,000 again, and the block comment records the return so the count reads "six
 raises and two returns" rather than six and one.
+
+## Finding, 2026-10-02 (T-1959's run, PR #272): dev is over every tier and the call budget at Lake at Canal
+
+Measured on the published mirror of dev at 729de887, desktop, `full`, at Lake Street at Canal (part 5's
+worst stand), with T-1959's woodpile record refused at the network so the reading is dev's alone:
+**1,654,816 triangles against the 1,460,000 ceiling (+194,816) and 221 draw calls against 215.** Smoke
+part 5 on the T-1959 branch failed all three tiers there (full 1,611,977, balanced 1,413,832, light
+931,682 before #266/#271 landed). T-1959 adds +70,928 triangles and +2 calls at that stand on top. So
+every PR that touches the frame is red on part 5 until this is cut or re-budgeted under AGENTS.md's
+three constraints; `tools/woodpile_shots.mjs --anchor lake_at_canal` takes the before/after reading.
