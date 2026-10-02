@@ -93,7 +93,6 @@ T-1969 — The budgets re-measured and set: detail ceilings at every stand, the 
 # --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
-T-1839 — The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
 T-1959 — Woodpiles at every dwelling: the yard-by-household rule in the placement policy (type x wealth) and a woodpile kind drawn by yard.js, varying house to house, at the photographic benchmark
 T-1960 — Wells, privies and stables by household: wells where docs/RESEARCH/wells.md allows, a privy off the alley at every dwelling lot, a stable for the horse-keeping households
 T-1804 — The conjectural camp grounds and the Native and Métis camps: the land-sale crowd south of the fort, the immigrants' wagons at the west approach, and the trading families from T-1177's evidence (review_required + touches_removal), with the screenshot from the fort's south-west corner

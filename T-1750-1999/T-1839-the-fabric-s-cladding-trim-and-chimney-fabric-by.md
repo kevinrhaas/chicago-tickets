@@ -1,7 +1,7 @@
 ---
 id: T-1839
 title: The fabric's cladding, trim and chimney fabric by household, dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1832
 opened: 2026-10-01
-closed: null
+closed: 2026-10-02
 pr: 258
 claimed_by: run 10/1/2026, 11:53:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T13:59:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36966207381
 claimed_at: 2026-10-02T04:53:29.064Z
 decision: null
