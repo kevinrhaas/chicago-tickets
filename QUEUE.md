@@ -304,6 +304,7 @@ T-1758 — Build the Market block of the plat's last tier to its seats: the seve
 T-1759 — Build the South Division's remaining ordinary dwellings on the plat's last tier: the Dearborn, Market and Clark blocks the platted deal still holds slots against, the rest of the tier's open ground left honestly open
 T-1829 — The West Division's remainder handed on from T-1208: the 16 ordinary dwellings the programme still orders, blk_west_lake_canal's three dealt frame cottages first, built and baked with their households seated
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
+T-1977 — The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
