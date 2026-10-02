@@ -1,7 +1,7 @@
 ---
 id: T-1950
 title: The plan's last H3 on blk_washington_clark raised on lot 0, the Washington-and-Clark corner, with its stable and privy, keeper and lodgers seated — the lot's slot request re-seated and any household it displaces owed in writing
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1810
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 10:16:50 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36955670821
+claimed_at: 2026-10-02T03:16:50.727Z
 decision: null
 decision_answer: null
 ---
