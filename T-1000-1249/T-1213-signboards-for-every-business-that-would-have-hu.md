@@ -77,3 +77,13 @@ the business name or change attested wording, and no sign obscures an opening.
 is.
 
 **Links:** T-0039 · T-0066 · T-0130 · L130 · T-1184 · T-1181.
+
+## Finding from T-1835 (PR #253), 2026-10-02
+
+The Chicago Democrat (`biz_chicago_democrat_printing_office`) is printed in 1835 as "over
+Messrs. Jones & King['s] Hard[ware store]" on South Water Street (T-0403), but the street-face
+adoption (`tools/adopt_street_faces.py`) seats it in `recon_1835_blk_south_water_wells_c2_01`
+and Jones, King & Co. in `recon_1835_blk_south_water_franklin_c2_09`. The signboard rule
+refuses the Democrat's board in words (`ADOPTED_REFUSED`) until the adoption seats the office
+in its landlord's roof. Once it does, the Democrat's board belongs on that roof beside Jones,
+King & Co.'s.
