@@ -1,7 +1,7 @@
 ---
 id: T-1982
 title: The 308 working-age persons owed a workplace: each works_at resolved or the reason none is owed stated, the audit's owed count at zero
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1966
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 1:02:00 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37044092907
+claimed_at: 2026-10-02T18:02:00.073Z
 decision: null
 decision_answer: null
 ---
