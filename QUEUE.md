@@ -67,6 +67,9 @@
 # --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
 # --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
 # --- ahead of the re-family and seating work that is about to touch that layer.
+# Owner, 2026-10-02: dev's two smoke reds first — the river walk (mobile part 2) and the boot payload over 12 MB (desktop part 1). #258 and every baked PR wait on them.
+T-1956 — Hold T-1812's South Water cut off the river walk: the bank under its south half fell up to 0.19 m, and its edge stands 0.191 m over grade
+T-1969 — The budgets re-measured and set: detail ceilings at every stand, the draw-call budget, the boot payload, T-1154 reconciled, smoke green at both viewports
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
@@ -100,7 +103,6 @@ T-1972 — The uncertain and absent households: ruled in and housed, or counted 
 T-1966 — Place the work: every working person's works_at and every business's primary location resolved or stated, every roof carrying occupants or a stated use, the audit's other gaps at zero
 T-1967 — The completion numbers: the town census screen, docs/RESEARCH/1835_town_completion.md by tier, the programme reconciled, the gate screen's completion line and tier shares
 T-1968 — The fixed point: every generator and derived layer drift-zero, every LIBERTIES Scope agreeing with the compiler, substitute_reconstruction covering structures
-T-1969 — The budgets re-measured and set: detail ceilings at every stand, the draw-call budget, the boot payload, T-1154 reconciled, smoke green at both viewports
 T-1970 — The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
@@ -440,4 +442,3 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-1956 — Hold T-1812's South Water cut off the river walk: the bank under its south half fell up to 0.19 m, and its edge stands 0.191 m over grade
