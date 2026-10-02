@@ -1,7 +1,7 @@
 ---
 id: T-1970
 title: The visible walk: fort to Wolf Point along South Water, Lake and Canal with a screenshot at each stand, the Reconstructing-the-town card complete, STATUS.md's unverified list
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1215
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 310
 claimed_by: run 10/2/2026, 5:34:07 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T23:35:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37072906990
 claimed_at: 2026-10-02T22:34:07.426Z
 decision: null
