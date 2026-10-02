@@ -1,7 +1,7 @@
 ---
 id: T-1952
 title: The North's H3 boarding house the plan offers on blk_indiana_north_cass, with its stable and privy, keeper and lodgers seated
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1810
 opened: 2026-10-01
-closed: null
+closed: 2026-10-02
 pr: 257
 claimed_by: run 10/1/2026, 10:27:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T05:40:08Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36960033677
 claimed_at: 2026-10-02T03:27:50.051Z
 decision: null
