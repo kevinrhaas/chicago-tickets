@@ -1,7 +1,7 @@
 ---
 id: T-1832
 title: The fabric's glazing, cladding, trim and chimney fabric by household: sash counts and pane sizes built by the archetypes (L23), cladding, trim and chimney fabric dealt under the same rule, siding stock reconciled with T-0112's neighbour separation
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1817
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/1/2026, 8:45:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36952108242
+claimed_at: 2026-10-02T01:45:54.449Z
 decision: null
 decision_answer: null
 ---
