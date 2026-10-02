@@ -38,3 +38,22 @@ which claims NO elevation anywhere.
 4. The fit and provenance gates pass, including `validate.py --stale`; `./tools/publish.sh`
    runs in the same commit. This ticket is `needs_bake`.
 5. T-0469, T-0470 and T-0471 are blocked on this ticket and unblock when it closes.
+
+## Finding from T-1286 (2026-10-02): the only pre-cut sheet disagrees down the old channel
+
+`data/terrain/1812_harrison_cross_check.json` measures Harrison 1830 (the one pre-cut sheet,
+traced by `tools/trace_shoreline_1830.py`) against the derived `shore_1812_pre_cut`. Near the
+fort they agree (median 9 m, worst 31 m within 100 m), and Harrison draws the bar attached to
+the mainland where L240 attached it (median 7 m). **Down the old southward channel they do
+not**: Harrison's west bank is 40 m west of Wright's at 150 m from the fort, 71 m at 200 m,
+then a median 120 m and worst 157 m; he letters "Old Mouth of River very shallow" at local
+N −69, **357 m north of the adopted station**. Wright still carries the line by the owner's
+ruling of 2026-09-17, and nothing was moved.
+
+**Before this ticket lays ground along the old channel, say which of these it is**, in the
+spec: (a) the single-anchor transform failing away from the fort (though a 25° rotation would
+also throw the main stem out by ~85 m, where it agrees to ~20); (b) the plate's admitted memory
+additions; or (c) a mouth that really moved — Harrison calls his the *old* mouth and letters a
+channel the soldiers cut in 1828, so the outlet of 1830 need not be that of 1812. If it cannot
+be decided from what is held, the channel's ground between N −69 and N −427 is the stretch to
+grade lowest. `docs/RESEARCH/shore_1812_pre_cut.md` § 6 has the full reading.
