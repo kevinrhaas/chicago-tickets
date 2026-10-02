@@ -1,7 +1,7 @@
 ---
 id: T-1998
 title: The 58 at a trade the December census never counted (20 carpenters, 12 milliners, 9 builders, 3 refectory keepers and 13 more) and the physician T-1529's bucket still owes: each house raised by the business band, or the reason none is owed stated
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1992
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 4:03:33 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37064220569
+claimed_at: 2026-10-02T21:03:33.205Z
 decision: null
 decision_answer: null
 ---
