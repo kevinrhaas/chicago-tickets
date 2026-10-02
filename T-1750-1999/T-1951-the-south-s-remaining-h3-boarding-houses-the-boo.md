@@ -1,7 +1,7 @@
 ---
 id: T-1951
 title: The South's remaining H3 boarding houses the book orders — the plan's two on blk_washington_dearborn and two on blk_washington_market, whose every free lot but the kept-open one carries a dwelling slot request — each with its stable and privy, keepers and lodgers seated, the displaced requests re-seated or owed in writing, and the cell's orders the plan holds no H3 for stated
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -14,7 +14,7 @@ pr: 270
 claimed_by: run 10/2/2026, 3:19:45 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: 2026-10-02T11:27:27Z
+closed_at: 2026-10-02T12:20:34Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36983057170
 claimed_at: 2026-10-02T08:19:45.643Z
 decision: null
