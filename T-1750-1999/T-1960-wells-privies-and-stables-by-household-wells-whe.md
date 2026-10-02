@@ -1,7 +1,7 @@
 ---
 id: T-1960
 title: Wells, privies and stables by household: wells where docs/RESEARCH/wells.md allows, a privy off the alley at every dwelling lot, a stable for the horse-keeping households
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1212
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 6:30:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37001175019
+claimed_at: 2026-10-02T11:30:58.663Z
 decision: null
 decision_answer: null
 ---
