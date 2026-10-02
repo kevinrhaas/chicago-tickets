@@ -1,7 +1,7 @@
 ---
 id: T-1978
 title: The distant treeline wobbles and cuts down along Lake Street
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 287
 claimed_by: run 10/2/2026, 10:17:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-02T18:27:03Z
 claimed_run: null
 claimed_at: 2026-10-02T15:17:20.018Z
 decision: null
