@@ -1,7 +1,7 @@
 ---
 id: T-1985
 title: The six Dearborn-reach freight sheds and the four named houses (Caldwell's agency log house, the Clybourne cabins, the Factor's House, Miller House) each state their use and why nobody is seated there, on the card and in the audit
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1981
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 11:29:04 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37026687527
+claimed_at: 2026-10-02T16:29:04.034Z
 decision: null
 decision_answer: null
 ---
