@@ -25,4 +25,6 @@ The ten empty anonymous outbuildings (six stables and barns, two sheds, a privy,
 
 Piece 1 of 2 of **T-1986 — The anonymous programme roofs left empty (stables, barns, sheds, a privy and four trade buildings) each tied to the dwelling or establishment it serves by T-1980's part_of, or given a stated use, the audit's empty count at zero**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** (stated before working)
+
+`python3 tools/audit_town_completion_1835.py` reports `occupied.empty_owing_somebody.outbuilding_naming_no_yard` at **0**, and none of these ten ids in `occupied.empty`: recon_1835_north_a1_047, recon_1835_south_a2_037, recon_1835_west_012, _013, _022, _023, _024, _025, _053, _055. Each one gets a row in `data/reconstruction/1835_stated_uses.json` (T-1782's ledger, spent by tools/inferred_occupancy.py through the generator that owns the roof). Its `serves` is a SEATED dwelling only where something committed ties the two: the West recipe's own `yard_group`, a shared lot in the lot ledger, or T-1794's farmstead pairing. Where nothing does (the north fringe's stable yard, the T-1781 stable on the teamster approach), `serves` is null and the row says so. No row names a person or a household. The generators' `--check` stays drift-free, check.sh is green, and the outbuilding's card shows the stated use.
