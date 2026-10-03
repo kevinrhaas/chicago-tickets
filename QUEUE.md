@@ -384,6 +384,5 @@ T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2012 — South Water Street runs its last 22 m to State Street
-T-2013 — The worn ground at the doors drawn with the road's own surface: same grit, tone and colour, no pixel blocks
 T-2014 — Shrubs seen far down the road: a cheap distant shrub out to 140 m that refines into the full bush, no pop-in
 T-2015 — Replace faceted trees and blocky flora with realistic procedural vegetation
