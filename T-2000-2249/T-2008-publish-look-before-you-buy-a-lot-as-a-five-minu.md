@@ -1,7 +1,7 @@
 ---
 id: T-2008
 title: Publish Look Before You Buy a Lot as a five-minute jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1267
 opened: 2026-10-02
-closed: null
+closed: 2026-10-02
 pr: 322
 claimed_by: run 10/2/2026, 10:17:45 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:58:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37092543643
 claimed_at: 2026-10-03T03:17:45.370Z
 decision: null
