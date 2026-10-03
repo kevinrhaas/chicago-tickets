@@ -1,7 +1,7 @@
 ---
 id: T-2014
 title: Shrubs seen far down the road: a cheap distant shrub out to 140 m that refines into the full bush, no pop-in
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 11:50:24 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-03T04:50:24.623Z
 decision: null
 decision_answer: null
 ---
