@@ -1,7 +1,7 @@
 ---
 id: T-0193
 title: blk_lake_clinton, the West Division block T-0069 refused
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0127
 opened: 2026-08-24
-closed: null
+closed: 2026-10-03
 pr: 332
 claimed_by: run 10/3/2026, 12:19:52 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T07:29:18Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37099361994
 claimed_at: 2026-10-03T05:19:52.914Z
 decision: null
