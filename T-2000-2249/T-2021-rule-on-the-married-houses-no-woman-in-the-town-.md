@@ -34,3 +34,31 @@ have left `households/family_dwelling/*`, `households/store_residence/*` and the
 `tools/build_order_book_1835.py`), because what is left of T-1171's order once T-2020's moves
 are made is exactly this ruling: does the book order more women, or do the heads stand alone.
 The modelled-families stage keeps T-1171 as the ticket on its own fills — that is who drew.
+
+## 2026-10-03 — the ruling, and the acceptance it is held to
+
+**Ruling: both, partitioned by the bound the book already carries.** The town model's own
+range for 1 July 1835 is 2,362–3,265 (its top is the November 1835 town count). The book
+converges to 2,605 without these houses; giving all 277 their drawn kin core (904 people:
+277 wives, 627 children) would carry it to 3,509, past the count. Wives alone would leave
+houses the model drew at 5–8 people as childless couples, and the town's under-ten share is
+already below the model's 0.20–0.27 bracket. So a refused house is given its WHOLE drawn
+family — wife and children, by the stage's own seeds and rules — in a seeded order, while
+the town the book converges to stays at or under 3,265; a house whose family would carry
+it past the count stands alone, and says so. The houses admitted are read once and FROZEN
+(`data/reconstruction/1835_family_ruling.json`), so a later re-cut re-deals nobody. The
+book orders exactly what the ruling's houses drew (fills under T-2021), so no cell is
+overfilled and none is left owing. The adult men already in the town (1,254 present) are
+what pin it near the range top: at the model's 146.8 ratio they imply ~854 adult women
+against 288 present.
+
+**Acceptance:**
+- `reconstruct_modelled_families.py --build` draws the admitted houses' families after the
+  T-2020 folds; `--report` prints the ruling (admitted, standing alone, people added, the
+  town against the range, the adult sex ratio and under-ten share before and after);
+  `--check` re-derives byte for byte; `--self-test` fires the range cap and the frozen list.
+- The order book orders the ruling's fills and the town it converges to is ≤ 3,265.
+- The family rows the book still orders (adult men in family houses, family households)
+  name a live ticket.
+- Visible: the admitted houses' cards show the drawn family; LIBERTIES restated.
+- `./tools/check.sh` green.
