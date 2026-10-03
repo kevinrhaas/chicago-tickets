@@ -382,3 +382,4 @@ T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2035 — Carry grass, reeds and shrubs continuously through walking and flying views
 T-2037 — Keep South Water plank sidewalks continuous in distant and aerial views
 T-2038 — Scatter wild shrubs naturally instead of revealing planted rows
+T-2057 — Quiet the machine selector: one small dial that cycles the four machines, not swatch buttons
