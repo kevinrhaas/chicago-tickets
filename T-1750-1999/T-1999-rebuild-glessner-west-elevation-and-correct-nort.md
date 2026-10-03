@@ -1,7 +1,7 @@
 ---
 id: T-1999
 title: Rebuild Glessner west elevation and correct north openings from owner references
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-03
 pr: 306
 claimed_by: glessner-elevation-repair 10/2/2026, 3:28:31 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-03T05:14:59Z
 claimed_run: null
 claimed_at: 2026-10-02T20:28:31.038Z
 decision: null

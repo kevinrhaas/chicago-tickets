@@ -277,7 +277,6 @@ T-1840 — Reconcile sheet 20 building entities for 1904
 T-1841 — Reconcile sheet 28 building entities for 1904
 T-1842 — Reconcile sheet 35 building entities for 1904
 T-1843 — Metric asset contract and Glessner comparison slice
-T-1999 — Rebuild Glessner west elevation and correct north openings from owner references
 T-1844 — Stone, mortar and dressed masonry materials
 T-1845 — Pressed, common and rough brick materials
 T-1846 — Period roof coverings and drainage
