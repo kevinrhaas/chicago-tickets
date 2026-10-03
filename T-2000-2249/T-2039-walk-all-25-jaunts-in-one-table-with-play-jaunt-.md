@@ -1,7 +1,7 @@
 ---
 id: T-2039
 title: Walk all 25 jaunts in one table with play_jaunt --all and gate the library's shape: 4-8 stops, quiet outings, keepsake families, ranks reachable without replay, subject coverage
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1271
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 363
 claimed_by: run 10/3/2026, 1:52:06 PM CT
 blocked_on: null
 needs_bake: false
