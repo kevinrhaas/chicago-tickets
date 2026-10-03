@@ -1,7 +1,7 @@
 ---
 id: T-2010
 title: Publish Stock the Household as a five-minute jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1267
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 326
 claimed_by: run 10/2/2026, 11:39:37 PM CT
 blocked_on: null
 needs_bake: false
