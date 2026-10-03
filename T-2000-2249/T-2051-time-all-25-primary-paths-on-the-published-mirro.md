@@ -25,4 +25,4 @@ Time all 25 primary paths on the published mirror at the recommended mode, Fly a
 
 Piece 1 of 6 of **T-2041 — Time all 25 primary paths on the published mirror at the recommended mode and at Fly and Instantly, and re-cut any jaunt outside 3-6 minutes**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** `node tools/time_jaunts.mjs` rides every available jaunt's primary path on the published mirror through the travel controller (`travel.simulate`) at the recommended mode, Fly and Instantly — 75 runs — with zero page errors and no stalled ride, and writes docs/measurements/jaunt-timing.json and .md with the menu's estimate beside each reading. This is the measurement half of the split: the out-of-band jaunts are recorded red here and fixed in T-2052–T-2056, so the fix cannot redefine success.

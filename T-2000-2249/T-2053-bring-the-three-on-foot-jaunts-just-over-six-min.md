@@ -25,4 +25,6 @@ Bring the three on-foot jaunts just over six minutes inside it: inspect-a-lot 6.
 
 Piece 3 of 6 of **T-2041 — Time all 25 primary paths on the published mirror at the recommended mode and at Fly and Instantly, and re-cut any jaunt outside 3-6 minutes**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** `node tools/time_jaunts.mjs --only inspect-a-lot,shopping-south-water,fort-dearborn-errand --out /tmp/t.json` reports each named jaunt's recommended-mode primary path at 3–6 min on the published mirror at 390×780 (the reference viewport; it reads a few seconds longer than 1280×800 on most paths), with Fly and Instantly still faster, and docs/measurements/jaunt-timing.md is regenerated with the new rows. Levers, per the parent: re-cut the text, choose a nearer supported stop, or change the recommended mode where the jaunt's own prose allows it. Never touch the estimate formula, and never shave a stop's `read_s` without shortening its text.
+
+**Measured 2026-10-03 (T-2051), 390×780:** inspect-a-lot 6.78 min (137 s reading + 270 s walking; its premise is to "walk its own ground"); shopping-south-water 6.60 (124 + 272; "Walk up to Lake Street"); fort-dearborn-errand 6.18 (112 + 259; 5.98 at 1280×800, so the phone is the binding reading). By wagon each would be about 3.6–4.1 min, but all three are written as walks.
