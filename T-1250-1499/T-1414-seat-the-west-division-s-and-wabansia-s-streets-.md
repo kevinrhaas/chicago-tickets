@@ -1,7 +1,7 @@
 ---
 id: T-1414
 title: Seat the West Division's and Wabansia's streets and alleys as platted corridors with the small lots the sheets draw, on the ground T-1193 extends
-state: open
+state: claimed
 epic: GROUND
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: T-1192
 opened: 2026-09-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 1:18:09 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37102377358
+claimed_at: 2026-10-03T06:18:09.546Z
+decision: null
+decision_answer: null
 ---
 
 Seat the West Division's and Wabansia's streets and alleys as platted corridors with the small lots the sheets draw, on the ground T-1193 extends.
