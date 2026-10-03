@@ -1,7 +1,7 @@
 ---
 id: T-1532
 title: Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 343
 claimed_by: run 10/3/2026, 4:46:48 AM CT
 blocked_on: null
 needs_bake: false
