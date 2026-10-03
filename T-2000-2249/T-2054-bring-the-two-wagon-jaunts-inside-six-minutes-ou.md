@@ -1,7 +1,7 @@
 ---
 id: T-2054
 title: Bring the two wagon jaunts inside six minutes: outfit-for-the-west 9.0 and freight-for-the-store 6.1 min by wagon
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2041
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 5:27:43 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37158388031
+claimed_at: 2026-10-03T22:27:43.723Z
 decision: null
 decision_answer: null
 ---
