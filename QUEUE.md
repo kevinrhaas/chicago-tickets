@@ -105,7 +105,6 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-2034 — Publish An Evening Stroll as the batch's quiet jaunt
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
 T-1271 — Reconcile and time the complete 25-jaunt library
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
