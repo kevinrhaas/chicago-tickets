@@ -1,7 +1,7 @@
 ---
 id: T-2037
 title: Keep South Water plank sidewalks continuous in distant and aerial views
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 364
 claimed_by: flora continuation 10/3/2026, 2:47:41 PM CT
 blocked_on: null
 needs_bake: false
