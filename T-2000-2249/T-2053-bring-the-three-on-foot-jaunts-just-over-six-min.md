@@ -1,7 +1,7 @@
 ---
 id: T-2053
 title: Bring the three on-foot jaunts just over six minutes inside it: inspect-a-lot 6.8, shopping-south-water 6.6, fort-dearborn-errand 6.2 min
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2041
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 5:28:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37158382852
+claimed_at: 2026-10-03T22:28:21.928Z
 decision: null
 decision_answer: null
 ---
