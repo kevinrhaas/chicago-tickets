@@ -121,7 +121,9 @@ T-2047 — Budgets, legacy surfaces and the arrival-jaunts acceptance report, wi
 # UMBRELLA T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings — execution delegated to T-1837 children below
 # UMBRELLA T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture — execution delegated to T-1837 children below
 # Architectural decomposition: T-1837; T-1840..T-1949 are open in one dependency-ordered group at the bottom. See evidence/T-1837-prairie-1904-architectural-study/README.md.
-T-0469 — Reconstruct the first Fort Dearborn complex as it stood in August 1812
+T-2048 — Read Whistler's 25 January 1808 draught of the first Fort Dearborn into a measured component register: the sheet committed with its source record, every index number it draws located in fort feet, the scale and its cross-checks, and what the sheet does not show
+T-2049 — Build the first fort's structure records from the 1808 register (double picket row, the two blockhouses, the barracks ranges, magazine, guard house, stores, gates, flagstaff), dated 1803 to 16 August 1812, and bake them
+T-2050 — Seat the first fort in the 1812 scene with the factor's house, gardens and outbuildings the draught places, gate that the 1803 and 1816 forts never resolve into one scene, and move the 1812-only features out of exclusions-only
 T-0470 — Map the 15 August 1812 evacuation route and battle-location confidence zone
 T-0471 — Build the 1812 lakeshore prairie, vegetation and landscape features
 T-0472 — Build the 1812 interpretive scene with Indigenous-history review gates

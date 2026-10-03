@@ -1,7 +1,7 @@
 ---
 id: T-0469
 title: Reconstruct the first Fort Dearborn complex as it stood in August 1812
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-01
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 10/3/2026, 3:13:29 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-03T20:16:24.044Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37150559146
 claimed_at: 2026-10-03T20:13:29.100Z
 decision: null
