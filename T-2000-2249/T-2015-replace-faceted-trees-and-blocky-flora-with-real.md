@@ -50,3 +50,7 @@ Code branch: `steward/photographic-flora` in `kevinrhaas/chicago`. Attached evid
 The owner explicitly authorized measured budget raises during implementation. T-2014 / chicago PR #328 owns distant shrub visibility and forward-walk continuity. T-2015 preserves its geometry interface and will test the composed rendering without replacing that work.
 
 Implemented in the work branch: open species-family leaf sprays, deterministic leaf and bark atlases, curved/tapered branches and near understory, matching tree wind/cutout/confidence shadows, and readable outward-facing trunk surfaces. The first integrated browser pass exposed a vertex-attribute limit in ground flora; the shader data is now packed into existing attribute slots and is being revalidated. Isolated tree review passes 180 RNG/finite/light-cost cases with zero shader errors. Full scene budget measurements, final before/after views and required gates remain in progress. Do not treat this as accepted photographic quality or a merged delivery yet.
+
+### Saved code checkpoint
+
+[Chicago e9c02d7](https://github.com/kevinrhaas/chicago/commit/e9c02d727d7e6acaaa447ae66b302deb49f2b5a7) saves the implementation, reproducible review tools, before-scene images and bark/tree closeups on `steward/photographic-flora`. The source gate passes all 750 steps. The packed foliage shader passes all four actual-scene desktop views with zero page/console errors. Final budgets, mobile smoke and T-2014 composed walk remain under verification; the ticket stays claimed.
