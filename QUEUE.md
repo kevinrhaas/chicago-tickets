@@ -108,7 +108,6 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
 T-2052 — Bring news-before-breakfast (17.6 min on foot) and new-in-chicago (10.4 min on foot) inside six minutes: nearer stops, or a recommended pace their prose allows
-T-2053 — Bring the three on-foot jaunts just over six minutes inside it: inspect-a-lot 6.8, shopping-south-water 6.6, fort-dearborn-errand 6.2 min
 T-2055 — Bring the three long horse jaunts inside six minutes: from-prairie-to-town 9.4, boots-and-leather 7.7, soap-and-candles 7.1 min on horseback
 T-2056 — Bring the four horse jaunts just over six minutes inside it: sunday-circuit 6.6, schoolday-errand 6.4, work-on-waterfront 6.2, materials-for-a-roof 6.1 min
 T-2044 — Smoke part 14: the integrated arrival-to-jaunt path on the published mirror at both viewports — cold boot, welcome, a jaunt, a card and its source, a mode change, End, a second jaunt, Explore Myself
