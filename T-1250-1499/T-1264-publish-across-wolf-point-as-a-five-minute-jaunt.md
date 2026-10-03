@@ -1,7 +1,7 @@
 ---
 id: T-1264
 title: Publish Across Wolf Point as a five-minute jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: 317
 claimed_by: run 10/2/2026, 8:10:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T02:26:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37084926700
 claimed_at: 2026-10-03T01:10:40.640Z
 decision: null
