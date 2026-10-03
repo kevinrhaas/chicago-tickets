@@ -39,3 +39,16 @@ The ticket budget refused this: the queue stands at 213 lines, at or over its ce
 - **44 lodging households** (boarding_house + inn_tavern; the book orders 66 and the stage fills 22). These also wait on roofs.
 - **29 ordinary-night beds with no order**: 13 North (Kelsey's 4, Chapin's H3 6, the Steamboat 3) and 16 South (the Dearborn and Market H3 houses). No adult `lodging/none` order is open in those divisions, so nobody is minted into them. Either the lodging model over-apportions beds in those divisions or the book under-orders them. Reconcile the two before minting.
 - **The housing deal moves on every resident mint.** One more lodger took one place under the town-wide ceiling, so `hh_pennington_sack_f` (presence `ruled_in`, last in the line) now waits on a roof. The greedy least-crowded pass also re-shuffled about 367 boarded seats. An invented boarder outranking a named ruled-in household for a roof may be backwards (L252: documented people displace invented ones). It is worth a ruling.
+
+## Carried here from T-1532 (2026-10-03): the staffing mint's DIVISION axis is still unpriced
+
+T-1532 dealt the book's last `lodging/trade` order (four South youths, PR #343). It had
+absorbed **T-1566** in the 2026-10-03 queue cleanup, and **T-1566's piece was NOT done
+there**. `tools/staffing_mint_order_1835.py` still pays a hand from the first bucket by
+key, whatever division its house stands in, so a north lodging slot can pay for a hand
+in a south shop. It was not worth a run on its own: the mint pays **0** slots today, and
+pricing the axis mints nobody. It rides with this ticket, because it becomes live the
+moment the lodging roofs rise and the purse can pay again. T-1532's file keeps the
+reading: 7 of 26 hands are derivable (5 `premises` and 2 `street_only` on
+`south_water`), and 19 are not. Five of those 19 are out of town (Flag Creek and
+Naper's Settlement), where "elsewhere" is the honest word rather than "unplaceable".
