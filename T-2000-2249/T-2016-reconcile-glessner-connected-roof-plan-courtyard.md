@@ -1,7 +1,7 @@
 ---
 id: T-2016
 title: Reconcile Glessner connected roof plan, courtyard bay and north chimneys
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 334
 claimed_by: run 10/3/2026, 1:09:24 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-03T20:57:32Z
 claimed_run: null
 claimed_at: 2026-10-03T06:09:24.138Z
 decision: null
