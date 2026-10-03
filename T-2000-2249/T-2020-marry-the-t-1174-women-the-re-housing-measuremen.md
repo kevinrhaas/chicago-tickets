@@ -1,7 +1,7 @@
 ---
 id: T-2020
 title: Marry the T-1174 women the re-housing measurement matches into the refused married houses: her card folds into his, her children come with her, and the seating, the order book's household count and the female-headed share re-derive
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
