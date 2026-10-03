@@ -1,7 +1,7 @@
 ---
 id: T-2031
 title: Publish Gossip or Printed Notice? as a short jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1269
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 10:26:04 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37133038551
+claimed_at: 2026-10-03T15:26:04.416Z
 decision: null
 decision_answer: null
 ---
