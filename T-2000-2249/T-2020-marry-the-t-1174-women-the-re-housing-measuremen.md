@@ -1,7 +1,7 @@
 ---
 id: T-2020
 title: Marry the T-1174 women the re-housing measurement matches into the refused married houses: her card folds into his, her children come with her, and the seating, the order book's household count and the female-headed share re-derive
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1171
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 347
 claimed_by: run 10/3/2026, 8:06:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T15:58:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37124903586
 claimed_at: 2026-10-03T13:06:25.099Z
 decision: null
