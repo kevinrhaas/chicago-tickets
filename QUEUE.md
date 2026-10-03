@@ -255,7 +255,6 @@ T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charl
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
-T-1743 — The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
 # Owner, 2026-10-03: moved to sit directly above the Prairie Avenue 1904 architectural programme.

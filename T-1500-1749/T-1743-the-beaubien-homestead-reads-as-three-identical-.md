@@ -1,7 +1,7 @@
 ---
 id: T-1743
 title: The Beaubien homestead reads as three identical log houses by the fort, and two of them stand on the fort road
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-10-03
 pr: 357
 claimed_by: run 10/3/2026, 11:08:02 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T20:31:54Z
 claimed_run: null
 claimed_at: 2026-10-03T16:08:02.670Z
 decision: answered
