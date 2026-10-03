@@ -1,7 +1,7 @@
 ---
 id: T-2039
 title: Walk all 25 jaunts in one table with play_jaunt --all and gate the library's shape: 4-8 stops, quiet outings, keepsake families, ranks reachable without replay, subject coverage
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1271
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 1:52:06 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37145558025
+claimed_at: 2026-10-03T18:52:06.983Z
 decision: null
 decision_answer: null
 ---
