@@ -66,3 +66,12 @@ a red gate.
   but a label and a comment — and its cancellation costs a pull request. State the
   reading either way rather than changing it silently; if it stays, the reporter has to
   cover the state its own trigger creates, which is the acceptance above.
+
+**Seen again 2026-10-03 on #324 (T-2007), and it now blocks the steward's own merge.** Since
+`pr-automerge` reads a PR's check runs on repos where auto-merge is off, it counts `cancelled` as
+RED (`gh-rest.sh` `RED={…"cancelled"…}`). #324's `report` check, from the push-triggered stuck-PR
+sweep (run 37095687592), was cancelled by concurrency after 21 s. `pr-automerge` exited 3, refused
+and applied `resume`, even though `Chicago 4D — gate` had passed on the same head. The run merged
+with `GH_REST_MERGE_BLIND=1` and wrote the reason on the PR. Every slice that pushes while another
+push's sweep is in flight will hit this. A fix probably belongs in polecat-platform's `gh-rest.sh`
+(ignore `cancelled` on a check whose workflow is not the gate), alongside this ticket's own shapes.
