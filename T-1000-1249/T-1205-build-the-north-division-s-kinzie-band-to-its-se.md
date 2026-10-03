@@ -1,7 +1,7 @@
 ---
 id: T-1205
 title: Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-10-03
 pr: 336
 claimed_by: run 10/3/2026, 2:04:29 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-03T11:52:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37104923065
 claimed_at: 2026-10-03T07:04:29.036Z
 decision: null
