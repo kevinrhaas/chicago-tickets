@@ -1,7 +1,7 @@
 ---
 id: T-2008
 title: Publish Look Before You Buy a Lot as a five-minute jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1267
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 322
 claimed_by: run 10/2/2026, 10:17:45 PM CT
 blocked_on: null
 needs_bake: false
