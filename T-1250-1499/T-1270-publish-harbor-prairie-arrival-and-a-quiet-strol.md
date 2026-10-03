@@ -1,7 +1,7 @@
 ---
 id: T-1270
 title: Publish harbor, prairie arrival and a quiet stroll jaunts
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 10/3/2026, 10:42:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T15:42:12.513Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37134013488
 claimed_at: 2026-10-03T15:42:04.569Z
 decision: null
