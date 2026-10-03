@@ -1,7 +1,7 @@
 ---
 id: T-1261
 title: Publish Taverns of Chicago as a five-minute jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 315
 claimed_by: run 10/2/2026, 7:04:42 PM CT
 blocked_on: null
 needs_bake: false
