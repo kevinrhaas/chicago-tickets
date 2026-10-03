@@ -1,7 +1,7 @@
 ---
 id: T-1267
 title: Publish land, freight, household supplies and clothing jaunts
-state: open
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,13 +9,16 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T03:17:40.926Z
 claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
 ---
 
 Author only this bounded content batch — **4 separate short jaunts** (land, freight, household supplies and clothing): `inspect-a-lot`, `freight-for-the-store`, `household-provisions`, `a-decent-coat`. Each is its own outing with its own file, not stops in one long tour. Content only: JSON, evidence, liberties, regenerated catalog; the engine is finished (5G) and a story that needs an engine change reports it against the engine ticket instead of changing code here.

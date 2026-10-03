@@ -104,7 +104,10 @@ T-1265 — Publish Fort Dearborn Errand as a five-minute jaunt
 T-2005 — Publish A Letter Home as a five-minute jaunt
 T-2006 — Publish A Bed for the Night as a five-minute jaunt
 T-2007 — Publish Work on the Waterfront as a five-minute jaunt
-T-1267 — Publish land, freight, household supplies and clothing jaunts
+T-2008 — Publish Look Before You Buy a Lot as a five-minute jaunt
+T-2009 — Publish Freight for the Store as a five-minute jaunt
+T-2010 — Publish Stock the Household as a five-minute jaunt
+T-2011 — Publish A Decent Coat as a five-minute jaunt
 T-1268 — Publish harness, candles, building materials and leather jaunts
 T-1269 — Publish schooling, social visits and careful news reading jaunts
 T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
