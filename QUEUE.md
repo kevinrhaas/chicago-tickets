@@ -378,4 +378,6 @@ T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2016 — Reconcile Glessner connected roof plan, courtyard bay and north chimneys
 T-2035 — Carry grass, reeds and shrubs continuously through walking and flying views
+T-2037 — Keep South Water plank sidewalks continuous in distant and aerial views
+T-2038 — Scatter wild shrubs naturally instead of revealing planted rows
 T-2036 — Restyle the front door and arrival as the Temporal Observatory: four machine skins and the observatory copy deck
