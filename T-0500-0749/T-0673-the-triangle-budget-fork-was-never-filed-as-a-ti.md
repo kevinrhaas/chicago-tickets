@@ -1,7 +1,7 @@
 ---
 id: T-0673
 title: The triangle-budget fork was never filed as a ticket, so the owner's answer had nothing to land against: record the ruling and spend it only where a breach is measured
-state: open
+state: withdrawn
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-03
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: The ruling is recorded at main.js (\"T-0673 is that receipt\"), spent by the sixth re-basing and superseded by T-1975's re-basing."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 ---
 
@@ -112,3 +112,7 @@ lands, not between its pieces — or it will be re-sized once per piece.
 Filed rather than worked, under the queue's FILING RULE (a): this ticket already owns the
 question of where a measured breach is spent. Related: **T-0672** (take every tier back down),
 **T-0727** (the boot payload), **T-0231** (a retirement that can actually fall due).
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** The ruling is recorded at main.js ("T-0673 is that receipt"), spent by the sixth re-basing and superseded by T-1975's re-basing.

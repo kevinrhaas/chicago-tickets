@@ -1,7 +1,7 @@
 ---
 id: T-1671
 title: rederive.mjs --run leaves manifest steps 77-121 standing on the resident cards its second pass rewrote, and only 122-159 are now re-run
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "merged into T-1602"
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -95,3 +95,6 @@ the hole is invisible except to an operator running `--run` on a merge — which
 the situation `--resolve` exists for. A merge lap that cannot get past step 99 has no
 message telling it to run step 104 first.
 
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Merged into T-1602.** All three are the derived manifest re-running steps out of order or too narrowly after the second pass; one run of manifest work fixes them together (measure with rederive --prove and audit_manifest_coverage). Work it there.

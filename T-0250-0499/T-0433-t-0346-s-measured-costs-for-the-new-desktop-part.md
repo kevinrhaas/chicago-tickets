@@ -1,7 +1,7 @@
 ---
 id: T-0433
 title: T-0346's measured costs for the new desktop parts 4, 5 and 6 were never filed, and the two places they are written down disagree
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,10 +9,10 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-08-29
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: tools/dev-smoke-state.json now records measured costs for the re-cut parts (e.g. desktop part 5 at 523 s on 2026-10-01); the 2026-08-30 figures are moot."
 needs_bake: false
 ---
 
@@ -52,3 +52,7 @@ being breached.
 
 **Links:** T-0346 (the cut) · T-0235 (`tools/smoke_budget.mjs`, docs/SMOKE-BUDGET.md) ·
 T-0216 (the record) · T-0170, T-0173, T-0181 (the margins this would let them re-take)
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** tools/dev-smoke-state.json now records measured costs for the re-cut parts (e.g. desktop part 5 at 523 s on 2026-10-01); the 2026-08-30 figures are moot.

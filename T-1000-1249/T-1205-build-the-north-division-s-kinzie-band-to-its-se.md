@@ -1,7 +1,7 @@
 ---
 id: T-1205
 title: Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
-state: blocked-tech
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-09-16
 closed: null
 pr: null
 claimed_by: run 9/28/2026, 7:49:32 AM CT
-blocked_on: The North Division has no schedulable ground, so this ticket's slot list is empty and its stop condition cannot be reached. Measured on dev at 9aa42564 against data/reconstruction/1835_665_roof_programme.json: all 61 remaining north roofs sit in one district_balance row, north_division_beyond_modelled_ground, state gated — 'terrain, hydrology, flora and map coverage stop short of local N +760 m' and no plat-grid street control. Of the district's 32 platted block rows, 27 (Kinzie's Addition) are unsubdivided — 'no lot rule has been read for this plat' — and the 4 Michigan Street tract rows are gated on a placement policy for that survey (T-1080, the tract's name and platter unsettled). Committed north lots: 32, all in that tract, all gated; headroom anywhere in the district: 0. The only open rows in the whole programme are blk_south_water_wells and blk_south_water_dearborn (4 each). The memo this ticket cites says the same in its own build order: items 4-6 extend terrain to N +760 and add the Illinois/Indiana/Ohio corridors BEFORE 'Design the remaining 90 North roofs after the extent is visible'. T-1206 sits on the same gate. Unblock when the north ground is carried and the district balance opens — the T-1707 shape, applied to the north.
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36422545481
@@ -39,3 +39,7 @@ successor T-1206.
 **Links:** T-1200 · T-1191 · `docs/RESEARCH/1835_north_division_extent_and_infill.md`
 · `docs/RESEARCH/north_water_street_and_the_bank.md` · `docs/RESEARCH/jh_kinzie_forwarding_store.md`
 · `docs/RESEARCH/north_side_school_1833.md`.
+
+## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
+
+**Unblocked.** T-1193 (ground to N +760) is done. On dev the north district balance reads complete and five north platted blocks are open with headroom.

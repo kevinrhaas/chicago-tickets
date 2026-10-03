@@ -1,7 +1,7 @@
 ---
 id: T-1606
 title: The two research reports embed live ticket state from a separate repository, so a sibling run claiming a ticket turns every code branch's gate red on a diff that cannot touch it
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: Fixed by T-1608 (done, #64): the reports no longer emit the live state word."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -68,3 +68,7 @@ at all times the expected number of laps paid for this is not small.
    pass, with a case for the new behaviour among them.
 
 Found by T-1579, whose PR paid the lap.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Fixed by T-1608 (done, #64): the reports no longer emit the live state word.

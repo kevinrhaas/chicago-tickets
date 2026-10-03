@@ -1,7 +1,7 @@
 ---
 id: T-1749
 title: The frontage smoke's fence census has drifted on dev: 28 fence runs where the clause holds 31, and the two checks that read it are red on dev and on every branch
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: T-1752 (#201) restated the fence census with its cause (32); the checks are green on dev."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -75,3 +75,7 @@ which three and why before touching the number.
 
 `tools/dev-smoke-state.mjs` had desktop part 2 recorded PASS at
 2026-09-28T18:06:58Z (stage 2-3), so the drift arrived on dev after that.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** T-1752 (#201) restated the fence census with its cause (32); the checks are green on dev.

@@ -1,7 +1,7 @@
 ---
 id: T-1634
 title: Desktop smoke part 12 times out waiting 30 s for the scene to be ready after the What's-new reload, when frames cost about 2 s: 2 of 3 runs on a 4-CPU session container, on a tree whose only part-12 change was a changelog stamp
-state: open
+state: withdrawn
 epic: PIPELINE
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: The 30 s wait is gone: the What's-new reload-ready uses the 90 s default since T-1279 (closed 2026-09-28), and no part-12 failure of this shape appears in dev-smoke-state.json."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -38,3 +38,7 @@ Both failures are the same step. "the HUD toggle drives the confidence view" pas
 **Acceptance:** desktop part 12 passes three consecutive runs on a 4-CPU container, with the reload wait's budget stated and derived. Every What's-new assertion is unchanged.
 
 Low priority, filed in band 9 below the building work: the loop's own runners are not hitting it today.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** The 30 s wait is gone: the What's-new reload-ready uses the 90 s default since T-1279 (closed 2026-09-28), and no part-12 failure of this shape appears in dev-smoke-state.json.

@@ -1,7 +1,7 @@
 ---
 id: T-0364
 title: Two byte-identical copies of changelog.js are 7.2 per cent of the published payload, and they grow on every release
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,10 +9,10 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-29
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: Fixed by T-0722: publish.sh mirrors the changelog once, walk/js/changelog.js is a re-export shim, and validate.py refuses identical files over 64 KB."
 needs_bake: false
 ---
 Two byte-identical copies of changelog.js are 7.2 per cent of the published payload, and they grow on every release.
@@ -52,3 +52,7 @@ next raise is not a surprise. Never by moving a contract URL.
 **Links:** T-0317 (found it, and the re-budget) - T-0154, T-0155 (the publish/stamp order the two
 mirrors come from) - `tools/publish.sh` - `tools/validate.py` § SITE_BUDGET_MB - AGENTS.md §
 changelog.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Fixed by T-0722: publish.sh mirrors the changelog once, walk/js/changelog.js is a re-export shim, and validate.py refuses identical files over 64 KB.

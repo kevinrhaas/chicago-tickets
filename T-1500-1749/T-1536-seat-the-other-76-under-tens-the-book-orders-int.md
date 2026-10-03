@@ -1,7 +1,7 @@
 ---
 id: T-1536
 title: Seat the other 76 under-tens the book orders into lodging households: the children of DOCUMENTED keepers, and of the 37 boarding houses the lodging model schedules and nobody has built — T-1533 drew the 10 its own minted keepers could hold and the rest have no keeper here to be kin to
-state: blocked-tech
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-24
 closed: null
 pr: null
 claimed_by: run 9/24/2026, 6:24:24 AM CT
-blocked_on: T-1537 and T-1538 (with T-1209's roofs): all 76 are under_10 children of lodging households that do not exist. Every documented keeper's family is already drawn or source-ruled, and the other half belongs to the 37 unbuilt boarding houses. A child is kin of a named keeper and there is no keeper left here to be kin to. The cell-by-cell measurement is in the ticket.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35992528938
@@ -76,3 +76,7 @@ against the roof programme, `T-1538` fills the households and beds as `T-1209` r
 the 36 unbuilt lodging roofs. The children come with the household, drawn at the same
 1840 size histogram T-1533 used — this is a row in those tickets, not a stage of its
 own, and `unblock` should re-open it only if they land without drawing kin.
+
+## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
+
+**Unblocked.** Lodging households can now be filled (225 beds, 30 empty on dev). Work it with or right after T-1538: the children come with the households.

@@ -1,7 +1,7 @@
 ---
 id: T-1345
 title: step_isolation exempts gitignored build products by a hand-kept path list, when git check-ignore can classify them: a write to an ignored path is a build product and a write to a tracked one is a tree mutation, and the gate should ask rather than be told
-state: open
+state: withdrawn
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-18
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "merged into T-1341"
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 ---
 
@@ -56,3 +56,7 @@ The residual caveat stays true either way and should stay written down: an ignor
 product is still SHARED STATE that a concurrent gate step can read mid-write, and
 regeneration is idempotent rather than atomic. Classifying it correctly is not the same as
 proving it safe — it only says which of the two questions the gate is entitled to ask.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Merged into T-1341.** Both are step-isolation faults in the gate's view of generated files: a check that repairs the mirror, and a hand-kept exempt list git check-ignore can replace. Work it there.

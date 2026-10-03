@@ -1,7 +1,7 @@
 ---
 id: T-1678
 title: The platted deal is blind to the letter-list ruling: it seats a household T-0379 refuses a roof onto 61 standing roofs, 11 of them on South Water, and the keeper pass must then refuse every one
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "merged into T-1645"
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -58,3 +58,7 @@ it is.
 `tools/seat_platted_ground_1835.py` · `tools/name_the_keepers_1835.py`.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Merged into T-1645.** Same defect: the platted deal ignores the T-0379 letter-list ruling. T-1678 carried the measurement (now 79 of 150 adopted roofs refused) and the acceptance; size it first and split if it is over one run. Work it there.

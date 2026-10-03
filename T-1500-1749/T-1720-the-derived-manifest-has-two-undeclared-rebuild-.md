@@ -1,7 +1,7 @@
 ---
 id: T-1720
 title: The derived manifest has two undeclared rebuild lags a merged tree walks straight into: location_spend reads a reconciliation four steps below it, and the three seating passes hand a row count along outside the sequence entirely
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "merged into T-1602"
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -80,3 +80,7 @@ reports nothing moved.
 
 Nothing about the seating rules, the order book's buckets, or any count. This is
 the manifest's order and only that.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Merged into T-1602.** All three are the derived manifest re-running steps out of order or too narrowly after the second pass; one run of manifest work fixes them together (measure with rederive --prove and audit_manifest_coverage). Work it there.

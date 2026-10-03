@@ -1,7 +1,7 @@
 ---
 id: T-0386
 title: W. Montgomery's new auction and commission room takes David Carver's old stand on South Water Street
-state: blocked-tech
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-08-29
 closed: null
 pr: null
 claimed_by: run 8/29/2026, 2:33:12 PM CT
-blocked_on: T-0414 first (the street-face adoption refuses W. Montgomery for being L. W. Montgomery, against identity.json's own two_houses ruling), which in turn wants T-0009's roofs because South Water Street is out of supply. Both of the paper's own anchors are exhausted: the town holds no Carver building and can hold none, and J. Wright's two buildings stand at invented positions on Randolph Street. The ticket's stated prerequisite - an anchor that refuses ambiguity instead of taking the first - shipped in this PR.
+blocked_on: null
 needs_bake: true
 ---
 
@@ -66,3 +66,7 @@ J. Wright's."* Neither anchor resolves: the town holds no Carver record at all, 
 `J. Wright's` would have to be read onto `wright_building_to_let_a` / `_b`, which are two
 records sharing one name — `match_landmark` would have to refuse the ambiguity rather
 than take the first. Register action today: `street_only` on `south_water`.
+
+## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
+
+**Unblocked.** T-0414 and T-0009 are both done, so the street-face adoption question it waited on is settled. The Carver anchor is still exhausted; seat it by the adoption policy or say why not.

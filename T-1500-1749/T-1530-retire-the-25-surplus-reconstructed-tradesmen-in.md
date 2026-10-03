@@ -1,7 +1,7 @@
 ---
 id: T-1530
 title: Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: persons/male/20_29/south/family/trade holds 60 drawn against an order of 35, and T-1347 has closed
-state: blocked-tech
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 9/25/2026, 6:25:51 AM CT
-blocked_on: T-1556 — the owner's answer of 2026-09-24 is option (c): the surplus is re-familied, never retired, as ONE unit for all 523 across the 48 refused buckets. T-1530's own bucket (persons/male/20_29/south/family/trade, now a surplus of 28 rather than 25) is discharged by T-1556's pieces, and this unblocks when it is inside their re-family ledger.
+blocked_on: "obsolete: Discharged by T-1556's pieces, all done: the owner's answer (c) re-familied the surplus as one unit, and this bucket is inside that ledger. Nothing is left for this ticket to do."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36128327074
 claimed_at: 2026-09-25T11:25:51.742Z
 decision: answered
@@ -38,3 +38,7 @@ Retire the 25 surplus reconstructed tradesmen in the south-side 20-29 band: pers
 **Asked:** 2026-09-24 by https://github.com/kevinrhaas/polecat-platform/actions/runs/35999436151. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Owner answer (2026-09-24, via Manager):** (c) Re-family rather than retire, as one unit for all 463. The book's own words are 'retired OR RE-FAMILIED'; the surplus heads move into the buckets the re-cut GREW instead of being un-written, which honours T-1459 and still fixes the over-supply. T-1530 blocks on that ticket.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Discharged by T-1556's pieces, all done: the owner's answer (c) re-familied the surplus as one unit, and this bucket is inside that ledger. Nothing is left for this ticket to do.

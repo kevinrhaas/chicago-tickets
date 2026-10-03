@@ -1,7 +1,7 @@
 ---
 id: T-0237
 title: The full ceiling has 1,145 triangles clear on the published mirror, twelve hours after T-0229 raised it
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,10 +9,10 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: The 1,425,000 full ceiling it measured no longer exists; T-0229 returned it and T-1975/T-1959 re-based full against fresh readings."
 needs_bake: false
 ---
 
@@ -65,3 +65,7 @@ T-0229 and the count written into `main.js` all exist to make harder.
 **Links:** T-0223 (the layer table and the costed cull) · T-0229 (the raise, and its expiry) ·
 T-0147 · T-0135 (the five stands and the instrument) · `tools/measure_stand_budget.mjs` ·
 `renderers/web/js/main.js` `DETAIL`.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** The 1,425,000 full ceiling it measured no longer exists; T-0229 returned it and T-1975/T-1959 re-based full against fresh readings.

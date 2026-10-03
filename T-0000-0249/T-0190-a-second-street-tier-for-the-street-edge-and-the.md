@@ -1,7 +1,7 @@
 ---
 id: T-0190
 title: A second street tier for the street edge, and the ceiling that refuses it
-state: open
+state: withdrawn
 epic: META
 requested_by: owner
 seen: false
@@ -9,10 +9,10 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-24
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: Randolph got the street edge via T-0240 (done); generate_frontage_works.py EDGE_STREETS carries south_water, lake, randolph, washington. T-0193, which waited on this, is unblocked."
 needs_bake: false
 ---
 
@@ -85,3 +85,7 @@ definition site against the erosion table above and never silently. Never by wea
 **Links:** T-0127 (parent ask) · T-0188 (built it, measured it, took it back out) · T-0115 (the tier
 ledger — this run's rows are in it) · T-0135 (the worst-stand instrument and the ceilings) · T-0147
 · T-0149 · T-0150.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Randolph got the street edge via T-0240 (done); generate_frontage_works.py EDGE_STREETS carries south_water, lake, randolph, washington. T-0193, which waited on this, is unblocked.

@@ -1,7 +1,7 @@
 ---
 id: T-0193
 title: blk_lake_clinton, the West Division block T-0069 refused
-state: blocked-tech
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-08-24
 closed: null
 pr: 421
 claimed_by: run 8/27/2026, 6:18:32 PM CT
-blocked_on: T-0190 — a second street tier for the street edge. Built and measured: both faces generate cleanly (+192.2 m of walk) but desktop 'balanced' reads 1,228,110 of 1,210,000 at the lake_at_canal stand, over by 18,110, and the Lake face alone is still over by 13,890. 'balanced' had 8,656 triangles of headroom before this was tried, so no street frontage of any size fits under that rung today; T-0237 refuses buying it with a ceiling raise.
+blocked_on: null
 needs_bake: false
 ---
 
@@ -73,3 +73,7 @@ beside `EDGE_SKIP_BLOCKS` so the next run does not re-measure it.
 **Links:** T-0127 (parent) · T-0069 (the original refusal) · T-0190 (what unblocks this)
 · T-0240 (Randolph, which shipped) · T-0241 (Washington, refused by the same rung) ·
 T-0218 · T-0237.
+
+## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
+
+**Unblocked.** T-0190 is done (Randolph got the street edge via T-0240) and the budgets were re-set by T-1975. Re-measure at lake_at_canal before building.

@@ -1,7 +1,7 @@
 ---
 id: T-1524
 title: A row carrying a printing's controlled word and a row carrying the same printing without one are two rows on the card: rule on derive_resident_roles._key
-state: blocked-tech
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-09-23
 closed: null
 pr: null
 claimed_by: run 9/23/2026, 11:58:23 PM CT
-blocked_on: T-1515 must land first. On dev, derive_resident_roles reads only the 1839 REGISTER crosswalk (REGISTER_1839 / fergus_1839_register_crosswalk_1835.json); the 1839 DIRECTORY crosswalk is not read by directory_roles at all, so William Jones carries ONE 1839 row (role: null, no claim) and there is no pair to fold. The pair this ticket rules on comes into existence only when T-1515 puts Fergus 1839 on directory_roles()'s footing. Unblock when T-1515 merges.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35957629711
@@ -51,3 +51,7 @@ clause is inert for all seven people it keeps, and can go.
 - T-1299's narrow clause in `crosswalk_fergus_1839.py` is re-decided in the same
   commit, since it was kept only because this pair does not fold.
 - `tools/check.sh` green.
+
+## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
+
+**Unblocked.** T-1515 is done.

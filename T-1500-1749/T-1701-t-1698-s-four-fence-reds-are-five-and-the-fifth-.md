@@ -1,7 +1,7 @@
 ---
 id: T-1701
 title: T-1698's four fence reds are five, and the fifth is at mobile: the frontage layer's walks and posts fail with its own problem list reading [none]
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: Fixed by T-1752 (#201); the frontage check passes at mobile (parts 1-6 297/0, 2026-10-01)."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -49,3 +49,7 @@ five**. So the fifth is dev's too, and no branch introduced it.
 T-1698's complaint: `dev-smoke-state.mjs ask --viewport mobile --stage 1-2` reported
 part 1 FAIL (23:13Z) beside part 2 PASS (06:50Z), so a run asking the record before
 re-running a part would have been told this leg was clean.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Fixed by T-1752 (#201); the frontage check passes at mobile (parts 1-6 297/0, 2026-10-01).

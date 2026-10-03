@@ -1,7 +1,7 @@
 ---
 id: T-0841
 title: The keeper of the St Cyr register is graded G5, not G2c: may the officiant of a parish register be graded on it?
-state: blocked-tech
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-05
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 9/23/2026, 11:03:55 PM CT
-blocked_on: T-1525
+blocked_on: "obsolete: The ruling landed on dev: resident-grading-policy.md § \"The parish register, and the man who kept it — RULED 2026-09-21 (T-0841)\", and consolidate_resident_evidence.py reads the baptisms with one #officiant row per entry and church_out_of_town. PR #8 was closed when T-1525 (#12) carried it."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/35953842300
 claimed_at: 2026-09-24T04:03:55.635Z
 decision: null
@@ -131,3 +131,7 @@ clears it is **T-1525**, which this ticket is now blocked on. The full measureme
 faults with their numbers, and what is already fixed on the branch are written into T-1525
 and into the PR body. Rebase on `steward/t0841-register-grades-its-keeper`; do not re-derive
 the register reading from scratch.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** The ruling landed on dev: resident-grading-policy.md § "The parish register, and the man who kept it — RULED 2026-09-21 (T-0841)", and consolidate_resident_evidence.py reads the baptisms with one #officiant row per entry and church_out_of_town. PR #8 was closed when T-1525 (#12) carried it.

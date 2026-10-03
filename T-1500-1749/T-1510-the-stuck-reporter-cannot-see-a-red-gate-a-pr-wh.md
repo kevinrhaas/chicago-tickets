@@ -1,7 +1,7 @@
 ---
 id: T-1510
 title: The stuck reporter cannot see a red gate: a PR whose gate failed and whose owning run has finished is the one state no automation in this repo owns
-state: open
+state: withdrawn
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-21
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: Implemented: .github/steward/pr-stuck.sh carries the \"redgate\" shape and names the failing steps from the job."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 ---
 
@@ -67,3 +67,7 @@ contradicting its own table — so the fix is NOT to automate the repair.
 - No new workflow. `chicago-4d-pr-stuck.yml` already fires on `steward/**` as well as
   `dev`, which is the trigger that matters — `pr-lap` and `merge-ready` fire on `dev`
   pushes alone, so when the queue jams they stop running with it.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Implemented: .github/steward/pr-stuck.sh carries the "redgate" shape and names the failing steps from the job.

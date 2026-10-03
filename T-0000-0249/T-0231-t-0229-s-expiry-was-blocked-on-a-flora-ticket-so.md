@@ -1,7 +1,7 @@
 ---
 id: T-0231
 title: T-0229's expiry was blocked on a flora ticket, so the raised ceilings would never have come down
-state: open
+state: withdrawn
 epic: META
 requested_by: steward
 seen: false
@@ -9,10 +9,10 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-08-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: T-0229 is done and its raise was taken back out (renderers/web/js/main.js, \"THE 2026-08-27 RAISE IS TAKEN BACK OUT, T-0229\")."
 needs_bake: false
 ---
 
@@ -116,3 +116,7 @@ costed cull — the ticket that should have been named) · T-0209 (the flora tic
 that should never have been in this chain) · T-0207 (a consistency check cannot
 see a fault both sides reproduce) · T-0217 (`ticket.mjs restamp` damaging a queue
 line — the other id-handling defect open right now).
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** T-0229 is done and its raise was taken back out (renderers/web/js/main.js, "THE 2026-08-27 RAISE IS TAKEN BACK OUT, T-0229").

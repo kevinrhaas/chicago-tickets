@@ -1,7 +1,7 @@
 ---
 id: T-0192
 title: The cross streets' own frontages get the street edge
-state: blocked-tech
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-08-24
 closed: null
 pr: null
 claimed_by: run 8/29/2026, 3:20:54 AM CT
-blocked_on: the frame budget: all three scene-detail ceilings go over with the seven cross streets in (full +145,639, balanced +122,299, light +15,372 at T-0135's worst stand), and dev itself stands 6,927 and 6,107 triangles inside full and balanced before a board is laid, so not even the smallest cross street fits. The code half is done and shipped; this is one tuple when the headroom is won back.
+blocked_on: null
 needs_bake: false
 ---
 
@@ -115,3 +115,7 @@ somebody either adds it and says so or covers the street.
 the whole of it. But the trade is no longer "seven streets gain frontage works"; it is also
 "two blocks' worth of fence and walk stops being absent from ground that had it", and that
 is a stronger case for the headroom work than the one written above.
+
+## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
+
+**Unblocked.** The frame budget it waited on was re-measured and re-set by T-1969/T-1975 (done 2026-10-02). Price the seven streets with measure_detail_ceilings.mjs --price --deal first; per the owner's 2026-08-21 ruling a measured raise argued where the ceiling is defined is allowed, and light stays the floor.

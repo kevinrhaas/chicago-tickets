@@ -1,7 +1,7 @@
 ---
 id: T-1644
 title: The river walk's east end no longer walks far enough west: T-1630's recut south bank leaves the walker at E 811.5 where the check wants past E 802
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: T-1956 (done, #278) rebuilt the river walk on its bank; the east-end check passes at both viewports on 2026-10-01."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -59,3 +59,7 @@ along it, which is exactly the geometry this check walks.
 **Acceptance.** The check passes at mobile AND desktop on a published tree; whichever of
 the two readings above resolved it is written down with its numbers; and if the constant
 moved, it is derived from something committed rather than chosen to fit.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** T-1956 (done, #278) rebuilt the river walk on its bank; the east-end check passes at both viewports on 2026-10-01.

@@ -1,7 +1,7 @@
 ---
 id: T-1698
 title: Desktop part 1 is red on dev on four fence, pen and dooryard visibility checks, and the smoke record still says PASS
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: Its four fence/pen checks pass: desktop parts 1-6 294/0 on 2026-10-01."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -58,3 +58,7 @@ stops disagreeing with the tree.
 the reading for: which landing took them red. The candidates visible in the window are
 the enclosure, dooryard and frontage layers, which several 2026-09-27 landings
 re-derived. `dev` was green at this part at 19:28Z and red by 23:50Z.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** Its four fence/pen checks pass: desktop parts 1-6 294/0 on 2026-10-01.

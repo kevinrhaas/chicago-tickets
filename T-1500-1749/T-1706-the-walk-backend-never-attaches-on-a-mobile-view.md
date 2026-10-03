@@ -1,7 +1,7 @@
 ---
 id: T-1706
 title: The walk backend never attaches on a mobile viewport: dev is red on five of part 4's checks — walk intent moves the camera 0.00 m with 'backend none', touch activates nothing, the thumbstick writes forward 0, and a right-half drag turns 180 degrees
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "obsolete: All five walk checks pass: mobile parts 1-6 297/0 on 2026-10-01, which includes part 4."
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T04:52:33.000Z
 claimed_run: null
 claimed_at: null
 decision: null
@@ -51,3 +51,7 @@ the smoke's entry into the scene still reaches the state where the backend binds
 
 **Mobile is a release gate.** Until this is answered, no run can take a clean mobile part 4
 reading, and a run whose diff touches the walk has no way to tell its own red from this one.
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Withdrawn as obsolete.** All five walk checks pass: mobile parts 1-6 297/0 on 2026-10-01, which includes part 4.

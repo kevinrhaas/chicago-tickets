@@ -1,7 +1,7 @@
 ---
 id: T-0286
 title: The AO unwrap leaves 68.9 per cent of every atlas empty, and the map is priced as if it were full
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,10 +9,10 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-28
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: "merged into T-0285"
 needs_bake: false
 ---
 
@@ -40,3 +40,7 @@ rather than a tidiness one: at full occupancy the same coverage fits a 288² atl
   the islands has bought nothing.
 - No claim about how the result looks without a `tools/measure_ao_frame.mjs` reading
   behind it (T-0227's rule: an atlas statistic is not a statement about the walls).
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Merged into T-0285.** Both are the AO map's cost: the batch break and the empty atlas space are one AO-pipeline unit. Work it there.

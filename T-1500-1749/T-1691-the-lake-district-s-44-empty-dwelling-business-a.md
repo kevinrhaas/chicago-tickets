@@ -24,3 +24,14 @@ decision_answer: null
 The Lake district's 44 empty dwelling, business and civic roofs: extend the roof-keeper layer past south_water and write a household onto every Lake-Randolph roof the platted deal seated one on, or say on the roof what refuses it.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+
+## Queue cleanup 2026-10-03 (owner: "clean out any tickets that … no longer need to be there or are obsolete")
+
+**Merged into this ticket:** T-1697. T-1697's prefix-vs-position fix is what lets the keeper layer reach the Lake district (and blk_randolph_clinton) correctly; both fit one run of name_the_keepers_1835.py.
+
+### Folded in from T-1697 — The roof-keeper layer selects by ID PREFIX and a roof's block is a matter of POSITION: recon_1835_west_018, _019 and _021 stand on blk_randolph_clinton and were invisible to T-1685's pass by construction, which will recur in every district where a block's ground and a roof's id disagree
+
+The roof-keeper layer selects by ID PREFIX and a roof's block is a matter of POSITION: recon_1835_west_018, _019 and _021 stand on blk_randolph_clinton and were invisible to T-1685's pass by construction, which will recur in every district where a block's ground and a roof's id disagree.
+
+**Acceptance:** (state it before working — the definition of done, never weakened to pass)
