@@ -1,7 +1,7 @@
 ---
 id: T-0192
 title: The cross streets' own frontages get the street edge
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0127
 opened: 2026-08-24
-closed: null
+closed: 2026-10-03
 pr: 331
 claimed_by: run 10/3/2026, 12:01:55 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T06:31:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37098340840
 claimed_at: 2026-10-03T05:01:56.478Z
 decision: null
