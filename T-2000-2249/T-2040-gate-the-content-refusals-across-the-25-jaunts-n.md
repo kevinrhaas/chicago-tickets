@@ -1,7 +1,7 @@
 ---
 id: T-2040
 title: Gate the content refusals across the 25 jaunts: no reconstructed Indigenous encounter, no human-figure depiction, no quotation put in a named person's mouth, asset rights respected
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1271
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 362
 claimed_by: run 10/3/2026, 2:11:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T22:04:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37146787304
 claimed_at: 2026-10-03T19:11:29.822Z
 decision: null

@@ -107,7 +107,6 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
-T-2040 — Gate the content refusals across the 25 jaunts: no reconstructed Indigenous encounter, no human-figure depiction, no quotation put in a named person's mouth, asset rights respected
 T-2052 — Bring news-before-breakfast (17.6 min on foot) and new-in-chicago (10.4 min on foot) inside six minutes: nearer stops, or a recommended pace their prose allows
 T-2053 — Bring the three on-foot jaunts just over six minutes inside it: inspect-a-lot 6.8, shopping-south-water 6.6, fort-dearborn-errand 6.2 min
 T-2054 — Bring the two wagon jaunts inside six minutes: outfit-for-the-west 9.0 and freight-for-the-store 6.1 min by wagon
