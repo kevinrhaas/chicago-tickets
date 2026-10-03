@@ -1,7 +1,7 @@
 ---
 id: T-2015
 title: Replace faceted trees and blocky flora with realistic procedural vegetation
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 333
 claimed_by: run 10/3/2026, 12:02:14 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T14:14:28Z
 claimed_run: null
 claimed_at: 2026-10-03T05:02:15.000Z
 decision: null

@@ -379,5 +379,4 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2015 — Replace faceted trees and blocky flora with realistic procedural vegetation
 T-2016 — Reconcile Glessner connected roof plan, courtyard bay and north chimneys
