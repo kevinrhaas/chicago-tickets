@@ -75,7 +75,6 @@
 # "Queue cleanup 2026-10-03" section names what landed. T-1953 stays blocked on T-1414 (band 8b).
 # Owner, 2026-10-03: T-2017 first. PR #329 (T-2012) cannot merge until its terrain is rebaked.
 T-1205 — Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
-T-1414 — Seat the West Division's and Wabansia's streets and alleys as platted corridors with the small lots the sheets draw, on the ground T-1193 extends
 T-1529 — Build the tenth physician the re-cut bracket now orders: businesses/physician stands at 9 of 10 since the parish register's 120 residents moved the town model, and T-1418 has closed
 T-1536 — Seat the other 76 under-tens the book orders into lodging households: the children of DOCUMENTED keepers, and of the 37 boarding houses the lodging model schedules and nobody has built — T-1533 drew the 10 its own minted keepers could hold and the rest have no keeper here to be kin to
 T-1532 — Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
