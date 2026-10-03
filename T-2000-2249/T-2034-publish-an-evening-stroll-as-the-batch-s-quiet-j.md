@@ -1,7 +1,7 @@
 ---
 id: T-2034
 title: Publish An Evening Stroll as the batch's quiet jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1270
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 358
 claimed_by: run 10/3/2026, 12:22:13 PM CT
 blocked_on: null
 needs_bake: false
