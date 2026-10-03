@@ -1,7 +1,7 @@
 ---
 id: T-1268
 title: Publish harness, candles, building materials and leather jaunts
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 10/3/2026, 3:59:50 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T09:00:01.418Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37110751038
 claimed_at: 2026-10-03T08:59:50.408Z
 decision: null

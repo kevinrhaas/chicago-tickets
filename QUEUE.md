@@ -115,7 +115,10 @@ T-1524 — A row carrying a printing's controlled word and a row carrying the sa
 T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-1268 — Publish harness, candles, building materials and leather jaunts
+T-2024 — Publish Mend the Harness as a short jaunt
+T-2025 — Publish Soap and Candles as the batch's quiet jaunt
+T-2026 — Publish Materials for a Roof as a short jaunt
+T-2027 — Publish Boots, Leather and the Road as a short jaunt
 T-1269 — Publish schooling, social visits and careful news reading jaunts
 T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
