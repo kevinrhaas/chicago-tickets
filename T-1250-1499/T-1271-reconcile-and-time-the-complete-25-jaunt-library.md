@@ -1,7 +1,7 @@
 ---
 id: T-1271
 title: Reconcile and time the complete 25-jaunt library
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 10/3/2026, 1:51:39 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T18:52:01.085Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37145558025
 claimed_at: 2026-10-03T18:51:39.876Z
 decision: null

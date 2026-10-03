@@ -106,7 +106,10 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
-T-1271 — Reconcile and time the complete 25-jaunt library
+T-2039 — Walk all 25 jaunts in one table with play_jaunt --all and gate the library's shape: 4-8 stops, quiet outings, keepsake families, ranks reachable without replay, subject coverage
+T-2040 — Gate the content refusals across the 25 jaunts: no reconstructed Indigenous encounter, no human-figure depiction, no quotation put in a named person's mouth, asset rights respected
+T-2041 — Time all 25 primary paths on the published mirror at the recommended mode and at Fly and Instantly, and re-cut any jaunt outside 3-6 minutes
+T-2042 — Prove the growth path with a 26th jaunt added by JSON and compile_jaunts.py alone, and write the library acceptance report
 T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
