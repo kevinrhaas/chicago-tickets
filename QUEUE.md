@@ -103,7 +103,10 @@ T-1262 — Publish New in Chicago as a five-minute jaunt
 T-1264 — Publish Across Wolf Point as a five-minute jaunt
 T-1265 — Publish Fort Dearborn Errand as a five-minute jaunt
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-1266 — Publish news, mail, lodging and work jaunts
+T-2004 — Publish News Before Breakfast as a five-minute jaunt
+T-2005 — Publish A Letter Home as a five-minute jaunt
+T-2006 — Publish A Bed for the Night as a five-minute jaunt
+T-2007 — Publish Work on the Waterfront as a five-minute jaunt
 T-1267 — Publish land, freight, household supplies and clothing jaunts
 T-1268 — Publish harness, candles, building materials and leather jaunts
 T-1269 — Publish schooling, social visits and careful news reading jaunts

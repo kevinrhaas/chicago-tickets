@@ -1,7 +1,7 @@
 ---
 id: T-1266
 title: Publish news, mail, lodging and work jaunts
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: null
 claimed_by: run 10/2/2026, 8:48:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T01:49:01.594Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37087343214
 claimed_at: 2026-10-03T01:48:52.215Z
 decision: null
