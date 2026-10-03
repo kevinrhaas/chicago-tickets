@@ -1,7 +1,7 @@
 ---
 id: T-0386
 title: W. Montgomery's new auction and commission room takes David Carver's old stand on South Water Street
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-0306
 opened: 2026-08-29
-closed: null
+closed: 2026-10-03
 pr: 335
 claimed_by: run 10/3/2026, 12:51:37 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-03T07:47:37Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37101048195
 claimed_at: 2026-10-03T05:51:37.878Z
 decision: null
