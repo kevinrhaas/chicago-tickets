@@ -1,7 +1,7 @@
 ---
 id: T-2052
 title: Bring news-before-breakfast (17.6 min on foot) and new-in-chicago (10.4 min on foot) inside six minutes: nearer stops, or a recommended pace their prose allows
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2041
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 370
 claimed_by: run 10/3/2026, 4:40:09 PM CT
 blocked_on: null
 needs_bake: false
