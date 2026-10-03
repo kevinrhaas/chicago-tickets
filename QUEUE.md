@@ -127,7 +127,6 @@ T-0472 — Build the 1812 interpretive scene with Indigenous-history review gate
 # Programme: T-1356; docs/unreal/README.md. Owner-ranked here on 2026-09-18.
 # Remote-workable preparation (still subject to the city-first ordering above):
 T-1357 — Publish a versioned Chicago scene bundle from every successful scheduled asset bake
-T-0252 — Decide once whether a baked town carries the nine renderer-drawn layers, or none of them
 # LOCAL / QUALIFIED UNREAL ONLY — NOT WORKABLE BY THE REMOTE WEB WORKER.
 # HOLD references below are comments, not claimable queue entries. Tickets are blocked-tech.
 # HOLD T-1472 — on-demand latest-validated Mac build/release; qualified Mac + release access.

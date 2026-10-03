@@ -1,7 +1,7 @@
 ---
 id: T-0252
 title: Decide once whether a baked town carries the nine renderer-drawn layers, or none of them
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-27
-closed: null
+closed: 2026-10-03
 pr: 359
 claimed_by: run 10/3/2026, 1:22:07 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T19:07:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37143662707
 claimed_at: 2026-10-03T18:22:08.066Z
 decision: null
