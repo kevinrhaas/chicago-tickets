@@ -1,7 +1,7 @@
 ---
 id: T-1271
 title: Reconcile and time the complete 25-jaunt library
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 1:51:39 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37145558025
+claimed_at: 2026-10-03T18:51:39.876Z
+decision: null
+decision_answer: null
 ---
 
 **Converge the 25-jaunt library** into one coherent, measured collection. A bounded acceptance pass with in-scope corrections — not a research epic and not a deferral list. The owner: *"a normal jaunt should take roughly 5 minutes … roughly 4–8 stops … jaunts should not all feel like games … a varied initial set of approximately 25."*
