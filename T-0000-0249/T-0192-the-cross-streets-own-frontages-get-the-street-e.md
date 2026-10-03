@@ -1,7 +1,7 @@
 ---
 id: T-0192
 title: The cross streets' own frontages get the street edge
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-0127
 opened: 2026-08-24
 closed: null
-pr: null
+pr: 331
 claimed_by: run 10/3/2026, 12:01:55 AM CT
 blocked_on: null
 needs_bake: false
