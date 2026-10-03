@@ -1,7 +1,7 @@
 ---
 id: T-2052
 title: Bring news-before-breakfast (17.6 min on foot) and new-in-chicago (10.4 min on foot) inside six minutes: nearer stops, or a recommended pace their prose allows
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2041
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 4:40:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37155697219
+claimed_at: 2026-10-03T21:40:09.941Z
 decision: null
 decision_answer: null
 ---
