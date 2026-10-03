@@ -1,7 +1,7 @@
 ---
 id: T-2025
 title: Publish Soap and Candles as the batch's quiet jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1268
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 6:55:19 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37121049782
+claimed_at: 2026-10-03T11:55:19.074Z
 decision: null
 decision_answer: null
 ---
