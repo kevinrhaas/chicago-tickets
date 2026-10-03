@@ -77,7 +77,6 @@
 T-1205 — Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
 T-1414 — Seat the West Division's and Wabansia's streets and alleys as platted corridors with the small lots the sheets draw, on the ground T-1193 extends
 T-1529 — Build the tenth physician the re-cut bracket now orders: businesses/physician stands at 9 of 10 since the parish register's 120 residents moved the town model, and T-1418 has closed
-T-1538 — Fill the 131 adult beds and the 49 lodging households still owed, as T-1209 raises the 36 unbuilt lodging roofs: every one of the 144 ordinary night beds is slept in and all 16 built lodging places already hold a household
 T-1536 — Seat the other 76 under-tens the book orders into lodging households: the children of DOCUMENTED keepers, and of the 37 boarding houses the lodging model schedules and nobody has built — T-1533 drew the 10 its own minted keepers could hold and the rest have no keeper here to be kin to
 T-1532 — Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
 T-2020 — Marry the T-1174 women the re-housing measurement matches into the refused married houses: her card folds into his, her children come with her, and the seating, the order book's household count and the female-headed share re-derive
