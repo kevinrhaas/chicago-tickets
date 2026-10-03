@@ -1,7 +1,7 @@
 ---
 id: T-2042
 title: Prove the growth path with a 26th jaunt added by JSON and compile_jaunts.py alone, and write the library acceptance report
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1271
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 2:55:01 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37149476832
+claimed_at: 2026-10-03T19:55:01.132Z
 decision: null
 decision_answer: null
 ---
