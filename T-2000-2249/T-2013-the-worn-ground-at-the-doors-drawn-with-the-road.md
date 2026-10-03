@@ -30,3 +30,15 @@ The ticket budget refused this: the queue stands at 238 lines, at or over its ce
 > the owner asked for it directly on 2026-10-03, a follow-up to T-1984 he is looking at on dev
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## The owner's words (2026-10-03, on dev, Matthias Mason & Co. on Lake Street)
+
+> the road looks overall good and i like the way that you put stuff in front of places that were worn dirt but that texture is not nearly as nice as the road texture and it shows through so make those areas with dirt the same as where the road is the same texture color so it does not look pixely and jagged
+
+## Cause
+
+T-1984's worn ground (`data/enclosures/town_entrance_aprons.json`) is drawn by `yards.js` as `trodden_earth`, the estray pen's surface: a 128 px canvas of 2 px hash blocks over 3.1 m, darker than the road. Next to T-1811's road (256 px grit over 1.6 m, shaded per fragment in the road's tones) it reads as blocky and a different dirt.
+
+## Done when
+
+The door ground is drawn from the road's own grit tile and dirt tones in world coordinates, so a path that meets the road continues it with no seam in texture or colour, and its edge into the grass is soft.
