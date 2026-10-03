@@ -109,7 +109,10 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 T-2026 — Publish Materials for a Roof as a short jaunt
 T-2027 — Publish Boots, Leather and the Road as a short jaunt
-T-1269 — Publish schooling, social visits and careful news reading jaunts
+T-2028 — Publish A Schoolday Errand as a short jaunt
+T-2029 — Publish A Sunday Circuit as the batch's quiet jaunt
+T-2030 — Publish Calling on Neighbors as a short jaunt
+T-2031 — Publish Gossip or Printed Notice? as a short jaunt
 T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
 T-1271 — Reconcile and time the complete 25-jaunt library

@@ -1,7 +1,7 @@
 ---
 id: T-1269
 title: Publish schooling, social visits and careful news reading jaunts
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 10/3/2026, 9:06:50 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T14:07:00.452Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37128330022
 claimed_at: 2026-10-03T14:06:50.758Z
 decision: null
