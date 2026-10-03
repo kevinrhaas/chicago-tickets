@@ -107,7 +107,6 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-2028 — Publish A Schoolday Errand as a short jaunt
 T-2029 — Publish A Sunday Circuit as the batch's quiet jaunt
 T-2030 — Publish Calling on Neighbors as a short jaunt
 T-2031 — Publish Gossip or Printed Notice? as a short jaunt

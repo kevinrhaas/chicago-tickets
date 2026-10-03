@@ -1,7 +1,7 @@
 ---
 id: T-2028
 title: Publish A Schoolday Errand as a short jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1269
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 350
 claimed_by: run 10/3/2026, 9:07:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T15:22:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37128330022
 claimed_at: 2026-10-03T14:07:04.702Z
 decision: null
