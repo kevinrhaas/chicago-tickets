@@ -1,7 +1,7 @@
 ---
 id: T-1529
 title: Build the tenth physician the re-cut bracket now orders: businesses/physician stands at 9 of 10 since the parish register's 120 residents moved the town model, and T-1418 has closed
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 337
 claimed_by: run 10/3/2026, 2:32:22 AM CT
 blocked_on: null
 needs_bake: false
