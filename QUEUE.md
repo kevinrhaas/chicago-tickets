@@ -99,7 +99,6 @@
 T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-2005 — Publish A Letter Home as a five-minute jaunt
 T-2008 — Publish Look Before You Buy a Lot as a five-minute jaunt
 T-2009 — Publish Freight for the Store as a five-minute jaunt
 T-2010 — Publish Stock the Household as a five-minute jaunt
