@@ -1,7 +1,7 @@
 ---
 id: T-1261
 title: Publish Taverns of Chicago as a five-minute jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 7:04:42 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37080264136
+claimed_at: 2026-10-03T00:04:42.585Z
+decision: null
+decision_answer: null
 ---
 
 Author the complete priority jaunt **Taverns of Chicago** (`taverns-of-chicago`) — one of the six the owner named first — from [brief 02](../docs/JAUNTS-INITIAL-LIBRARY.md#02-taverns-of-chicago). Content only: one JSON file, its evidence, its liberties, the regenerated catalog. The engine (5G) is finished; if a story needs an engine change, that is a finding for the engine's ticket, not a change in this PR.
