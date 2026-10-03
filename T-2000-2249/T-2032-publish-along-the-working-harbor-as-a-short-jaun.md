@@ -1,7 +1,7 @@
 ---
 id: T-2032
 title: Publish Along the Working Harbor as a short jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1270
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 353
 claimed_by: run 10/3/2026, 10:42:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T17:30:07Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37134013488
 claimed_at: 2026-10-03T15:42:16.404Z
 decision: null
