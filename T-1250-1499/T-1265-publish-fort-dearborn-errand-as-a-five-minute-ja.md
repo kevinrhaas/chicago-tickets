@@ -1,7 +1,7 @@
 ---
 id: T-1265
 title: Publish Fort Dearborn Errand as a five-minute jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 8:33:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37086434464
+claimed_at: 2026-10-03T01:33:54.711Z
+decision: null
+decision_answer: null
 ---
 
 Author the complete priority jaunt **Fort Dearborn Errand** (`fort-dearborn-errand`) — one of the six the owner named first — from [brief 06](../docs/JAUNTS-INITIAL-LIBRARY.md#06-fort-dearborn-errand). Content only: one JSON file, its evidence, its liberties, the regenerated catalog. The engine (5G) is finished; if a story needs an engine change, that is a finding for the engine's ticket, not a change in this PR.
