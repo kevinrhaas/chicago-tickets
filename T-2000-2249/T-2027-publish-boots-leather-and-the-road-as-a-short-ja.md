@@ -1,7 +1,7 @@
 ---
 id: T-2027
 title: Publish Boots, Leather and the Road as a short jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1268
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 348
 claimed_by: run 10/3/2026, 8:40:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T14:45:35Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37126829846
 claimed_at: 2026-10-03T13:40:33.144Z
 decision: null
