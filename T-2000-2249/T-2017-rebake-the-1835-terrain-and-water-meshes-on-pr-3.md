@@ -35,4 +35,15 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 
 > PR #329's gate is red on terrain__e1834_harbor_cut and water__e1834_harbor_cut, stale against the regenerated heightfield
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** `terrain__e1834_harbor_cut.glb` and `water__e1834_harbor_cut.glb` are rebuilt under the pinned Blender from the heightfield committed on branch `claude/road-grass-artifacts-96hemx` (PR #329), with their web derivatives, and pushed to THAT branch, so `python3 tools/validate.py --all` reports neither as stale and the terrain fit gates pass. Nothing else on the branch changes.
+
+**What to run** (on a checkout of `claude/road-grass-artifacts-96hemx`, from `chicago/4d`):
+
+```
+"$BLENDER" -b -noaudio --factory-startup --python generators/terrain_gen.py -- --epoch e1834_harbor_cut --glb
+tools/web_derivatives.sh --only terrain__e1834_harbor_cut
+tools/web_derivatives.sh --only water__e1834_harbor_cut
+./tools/check.sh
+```
+
+Commit as `T-2017: rebake the 1835 terrain and water for South Water's carried 22 m` and push to the branch. The heightfield is already regenerated there (commit 42503f5a: 50 cells under the new stretch move by -0.29 to +0.13 m). Do not open a second PR; T-2012's PR carries the change. If the gate shows anything else red, report it on PR #329 rather than widening this.
