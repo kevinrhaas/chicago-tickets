@@ -1,7 +1,7 @@
 ---
 id: T-2025
 title: Publish Soap and Candles as the batch's quiet jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1268
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 345
 claimed_by: run 10/3/2026, 6:55:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T12:54:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37121049782
 claimed_at: 2026-10-03T11:55:19.074Z
 decision: null

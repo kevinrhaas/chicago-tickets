@@ -109,7 +109,6 @@ T-1524 — A row carrying a printing's controlled word and a row carrying the sa
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-2025 — Publish Soap and Candles as the batch's quiet jaunt
 T-2026 — Publish Materials for a Roof as a short jaunt
 T-2027 — Publish Boots, Leather and the Road as a short jaunt
 T-1269 — Publish schooling, social visits and careful news reading jaunts
