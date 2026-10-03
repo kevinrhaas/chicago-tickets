@@ -1,7 +1,7 @@
 ---
 id: T-1286
 title: Cross-check the derived 1812 pre-cut shore against the Harrison 1830 trace, and record what the two readings disagree about
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: 311
 claimed_by: run 10/2/2026, 5:54:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T02:00:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37074710246
 claimed_at: 2026-10-02T22:54:36.644Z
 decision: null
