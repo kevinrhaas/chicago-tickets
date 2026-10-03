@@ -1,7 +1,7 @@
 ---
 id: T-2044
 title: Smoke part 14: the integrated arrival-to-jaunt path on the published mirror at both viewports — cold boot, welcome, a jaunt, a card and its source, a mode change, End, a second jaunt, Explore Myself
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1272
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 367
 claimed_by: run 10/3/2026, 3:14:07 PM CT
 blocked_on: null
 needs_bake: false
