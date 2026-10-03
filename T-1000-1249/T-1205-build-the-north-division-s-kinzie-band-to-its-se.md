@@ -1,7 +1,7 @@
 ---
 id: T-1205
 title: Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-16
 closed: null
-pr: null
+pr: 336
 claimed_by: run 10/3/2026, 2:04:29 AM CT
 blocked_on: null
 needs_bake: true
