@@ -1,7 +1,7 @@
 ---
 id: T-1524
 title: A row carrying a printing's controlled word and a row carrying the same printing without one are two rows on the card: rule on derive_resident_roles._key
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-23
-closed: null
+closed: 2026-10-03
 pr: 346
 claimed_by: run 10/3/2026, 6:24:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T13:16:36Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37119389357
 claimed_at: 2026-10-03T11:24:24.469Z
 decision: null

@@ -78,7 +78,6 @@ T-1536 — Seat the other 76 under-tens the book orders into lodging households:
 T-1532 — Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
 T-2020 — Marry the T-1174 women the re-housing measurement matches into the refused married houses: her card folds into his, her children come with her, and the seating, the order book's household count and the female-headed share re-derive
 T-2021 — Rule on the married houses no woman in the town can be wife to: the whole layer reads about 299 adult men per 100 women against the model's 121-150 and the order book has no woman left in their cells — a re-cut that orders more women, or heads that stand alone
-T-1524 — A row carrying a printing's controlled word and a row carrying the same printing without one are two rows on the card: rule on derive_resident_roles._key
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
 # --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
