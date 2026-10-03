@@ -1,7 +1,7 @@
 ---
 id: T-1414
 title: Seat the West Division's and Wabansia's streets and alleys as platted corridors with the small lots the sheets draw, on the ground T-1193 extends
-state: claimed
+state: review
 epic: GROUND
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1192
 opened: 2026-09-19
 closed: null
-pr: null
+pr: 341
 claimed_by: run 10/3/2026, 3:48:37 AM CT
 blocked_on: null
 needs_bake: false
