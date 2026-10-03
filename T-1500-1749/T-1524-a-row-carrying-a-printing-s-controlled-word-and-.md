@@ -1,7 +1,7 @@
 ---
 id: T-1524
 title: A row carrying a printing's controlled word and a row carrying the same printing without one are two rows on the card: rule on derive_resident_roles._key
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-23
 closed: null
-pr: null
+pr: 346
 claimed_by: run 10/3/2026, 6:24:24 AM CT
 blocked_on: null
 needs_bake: false
