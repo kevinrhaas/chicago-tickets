@@ -116,7 +116,6 @@ T-1524 — A row carrying a printing's controlled word and a row carrying the sa
 T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-2010 — Publish Stock the Household as a five-minute jaunt
 T-1268 — Publish harness, candles, building materials and leather jaunts
 T-1269 — Publish schooling, social visits and careful news reading jaunts
 T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
