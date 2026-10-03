@@ -101,7 +101,6 @@ T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 T-1262 — Publish New in Chicago as a five-minute jaunt
 T-1265 — Publish Fort Dearborn Errand as a five-minute jaunt
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-T-2004 — Publish News Before Breakfast as a five-minute jaunt
 T-2005 — Publish A Letter Home as a five-minute jaunt
 T-2006 — Publish A Bed for the Night as a five-minute jaunt
 T-2007 — Publish Work on the Waterfront as a five-minute jaunt
