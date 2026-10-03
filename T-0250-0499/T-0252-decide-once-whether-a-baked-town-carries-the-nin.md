@@ -1,7 +1,7 @@
 ---
 id: T-0252
 title: Decide once whether a baked town carries the nine renderer-drawn layers, or none of them
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-27
 closed: null
-pr: null
+pr: 359
 claimed_by: run 10/3/2026, 1:22:07 PM CT
 blocked_on: null
 needs_bake: false
