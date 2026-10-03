@@ -114,7 +114,6 @@ T-2053 — Bring the three on-foot jaunts just over six minutes inside it: inspe
 T-2054 — Bring the two wagon jaunts inside six minutes: outfit-for-the-west 9.0 and freight-for-the-store 6.1 min by wagon
 T-2055 — Bring the three long horse jaunts inside six minutes: from-prairie-to-town 9.4, boots-and-leather 7.7, soap-and-candles 7.1 min on horseback
 T-2056 — Bring the four horse jaunts just over six minutes inside it: sunday-circuit 6.6, schoolday-errand 6.4, work-on-waterfront 6.2, materials-for-a-roof 6.1 min
-T-2042 — Prove the growth path with a 26th jaunt added by JSON and compile_jaunts.py alone, and write the library acceptance report
 T-2044 — Smoke part 14: the integrated arrival-to-jaunt path on the published mirror at both viewports — cold boot, welcome, a jaunt, a card and its source, a mode change, End, a second jaunt, Explore Myself
 T-2045 — Boot variants for the arrival and jaunts path: warm, throttled slow, essential and optional failure, reduced motion, background and resume, stale timing history, a failed catalog fetch
 T-2046 — Layouts for the arrival and jaunts path: 320 px, landscape, on-screen keyboard in the picker, safe areas, focus order, 44 px targets, no overlap among panels
