@@ -1,7 +1,7 @@
 ---
 id: T-2019
 title: Measure the re-housing the refused married houses can take from the town's own women: T-1174's woman-headed houses matched to them by the wife cell's division, the spacing rule and the child cap, written into the modelled-families ledger and report
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1171
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 2:57:08 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37107550471
+claimed_at: 2026-10-03T07:57:08.227Z
 decision: null
 decision_answer: null
 ---
