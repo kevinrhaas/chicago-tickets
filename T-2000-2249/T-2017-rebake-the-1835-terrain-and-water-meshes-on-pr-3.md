@@ -41,8 +41,8 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 
 ```
 "$BLENDER" -b -noaudio --factory-startup --python generators/terrain_gen.py -- --epoch e1834_harbor_cut --glb
-tools/web_derivatives.sh --only terrain__e1834_harbor_cut
-tools/web_derivatives.sh --only water__e1834_harbor_cut
+tools/web_derivatives.sh --only terrain__e1834_harbor_cut.glb
+tools/web_derivatives.sh --only water__e1834_harbor_cut.glb
 ./tools/check.sh
 ```
 
