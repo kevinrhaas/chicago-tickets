@@ -1,7 +1,7 @@
 ---
 id: T-1263
 title: Publish Shopping South Water Street as a five-minute jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: 314
 claimed_by: run 10/2/2026, 7:48:07 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T01:31:02Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37083372463
 claimed_at: 2026-10-03T00:48:09.085Z
 decision: null
