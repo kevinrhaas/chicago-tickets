@@ -1,7 +1,7 @@
 ---
 id: T-2003
 title: Generate the 1812 river polygon, heightfield and ground and water meshes from the e1830_natural spec across the Fort-to-Eighteenth-Street corridor, and bake them
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1243
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 360
 claimed_by: run 10/3/2026, 12:48:09 PM CT
 blocked_on: null
 needs_bake: false
