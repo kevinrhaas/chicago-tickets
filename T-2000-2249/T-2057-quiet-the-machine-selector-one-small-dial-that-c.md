@@ -1,7 +1,7 @@
 ---
 id: T-2057
 title: Quiet the machine selector: one small dial that cycles the four machines, not swatch buttons
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 369
 claimed_by: run 10/3/2026, 4:55:32 PM CT
 blocked_on: null
 needs_bake: false
