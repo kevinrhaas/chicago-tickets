@@ -1,7 +1,7 @@
 ---
 id: T-1268
 title: Publish harness, candles, building materials and leather jaunts
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 3:59:50 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37110751038
+claimed_at: 2026-10-03T08:59:50.408Z
+decision: null
+decision_answer: null
 ---
 
 Author only this bounded content batch — **4 separate short jaunts** (harness, candles, building materials and leather): `mend-the-harness`, `soap-and-candles`, `materials-for-a-roof`, `boots-and-leather`. Each is its own outing with its own file, not stops in one long tour. Content only: JSON, evidence, liberties, regenerated catalog; the engine is finished (5G) and a story that needs an engine change reports it against the engine ticket instead of changing code here.
