@@ -44,3 +44,9 @@ The two supplied screenshots show solid polygonal crowns and rectangular green u
 ## Recovery
 
 Code branch: `steward/photographic-flora` in `kevinrhaas/chicago`. Attached evidence: user uploads `image(5).png` and `image(6).png` in this conversation. Implementation and render evidence will be checkpointed on the branch.
+
+## Implementation checkpoint — 2026-10-03
+
+The owner explicitly authorized measured budget raises during implementation. T-2014 / chicago PR #328 owns distant shrub visibility and forward-walk continuity. T-2015 preserves its geometry interface and will test the composed rendering without replacing that work.
+
+Implemented in the work branch: open species-family leaf sprays, deterministic leaf and bark atlases, curved/tapered branches and near understory, matching tree wind/cutout/confidence shadows, and readable outward-facing trunk surfaces. The first integrated browser pass exposed a vertex-attribute limit in ground flora; the shader data is now packed into existing attribute slots and is being revalidated. Isolated tree review passes 180 RNG/finite/light-cost cases with zero shader errors. Full scene budget measurements, final before/after views and required gates remain in progress. Do not treat this as accepted photographic quality or a merged delivery yet.
