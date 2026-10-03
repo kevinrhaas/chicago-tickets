@@ -1,5 +1,6 @@
 # QUEUE — top is next. The parser reads only T-NNNN lines; ticket files hold evidence and acceptance.
-# The owner sets the order. Work top-down, skipping a blocked or already-claimed ticket.
+# The owner sets the order. Work top-down, skipping a blocked ticket or a LIVE claim. A claim
+# past the 3h run window is a dead run: `list --workable` prints it TAKEABLE and `claim` steals it.
 # Add findings to an existing ticket first. Put new one-run work beside its dependency;
 # add new research readings to RESEARCH COMPLETION so the spend band can drain.
 # Split multi-run epics into bounded tickets when reached; do not create a refill at the top.

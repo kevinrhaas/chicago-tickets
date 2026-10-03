@@ -125,6 +125,8 @@ merge that decides mergeability (T-0857). Everything that needs one now builds i
 2. Take the **topmost ticket you can actually do** on your runner (a `needs-bake`
    note means the improve runner cannot close it). Do not cherry-pick lower for
    comfort; skipping a workable topmost ticket needs a stated reason in the PR.
+   A row printed `TAKEABLE dead claim …` IS workable: its claim outlived the
+   three-hour run window, and `claim` steals it. Only a live claim is skipped.
 3. `node tools/ticket.mjs claim T-NNNN` BEFORE any work — it is pushed to this repo's
    `main` at once, and that push is the collision lock.
 4. Work it under AGENTS.md's standing rules (gates, changelog contract, publish
