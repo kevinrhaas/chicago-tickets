@@ -89,3 +89,14 @@ part 5 on the T-1959 branch failed all three tiers there (full 1,611,977, balanc
 931,682 before #266/#271 landed). T-1959 adds +70,928 triangles and +2 calls at that stand on top. So
 every PR that touches the frame is red on part 5 until this is cut or re-budgeted under AGENTS.md's
 three constraints; `tools/woodpile_shots.mjs --anchor lake_at_canal` takes the before/after reading.
+
+## `light` is over on dev again — read 2026-10-03 (T-0192)
+
+Read with `tools/measure_detail_ceilings.mjs`, published mirror of dev @ d8b7748d, T-0135's five
+stands, desktop 1280x800: `light` worst **851,431 at the forks** against 825,000 (over by 26,431),
+open aerial 813,093, Lake at Canal 801,916. T-1976 had trimmed it to 803,067 at the forks on
+2026-10-02, so about 48,000 came back in a day of parcels; not bisected. Desktop smoke part 5 is
+red on `light` alone. T-0192 (#331) hid its cross-street walks at `light`
+(`light.crossStreetWalks: false`) and still reads 856,275 there (+4,844, inferred from the walks'
+planting keep-outs, which apply at every tier). `full`/`balanced` were re-set to 2,140,000 /
+1,820,000 in the same PR. The floor is this ticket's, or a trim's, to win back.
