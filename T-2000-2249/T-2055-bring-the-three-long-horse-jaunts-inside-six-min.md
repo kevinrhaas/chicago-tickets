@@ -1,7 +1,7 @@
 ---
 id: T-2055
 title: Bring the three long horse jaunts inside six minutes: from-prairie-to-town 9.4, boots-and-leather 7.7, soap-and-candles 7.1 min on horseback
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2041
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 371
 claimed_by: run 10/3/2026, 5:17:04 PM CT
 blocked_on: null
 needs_bake: false
