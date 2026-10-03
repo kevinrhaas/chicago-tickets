@@ -74,7 +74,6 @@
 # Visible builds first, then the lodging/resident layer they feed, then the one ruling. Each ticket's own
 # "Queue cleanup 2026-10-03" section names what landed. T-1953 stays blocked on T-1414 (band 8b).
 # Owner, 2026-10-03: T-2017 first. PR #329 (T-2012) cannot merge until its terrain is rebaked.
-T-1532 — Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
 T-2021 — Rule on the married houses no woman in the town can be wife to: the whole layer reads about 299 adult men per 100 women against the model's 121-150 and the order book has no woman left in their cells — a re-cut that orders more women, or heads that stand alone
 
 # --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
@@ -107,7 +106,6 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 T-2030 — Publish Calling on Neighbors as a short jaunt
-T-2031 — Publish Gossip or Printed Notice? as a short jaunt
 T-2032 — Publish Along the Working Harbor as a short jaunt
 T-2033 — Publish From Prairie to Town as a short jaunt
 T-2034 — Publish An Evening Stroll as the batch's quiet jaunt

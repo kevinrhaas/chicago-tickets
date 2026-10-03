@@ -1,7 +1,7 @@
 ---
 id: T-1532
 title: Deal the 61 working lodgers the boarders stage left open: the book's 30 persons/*/lodging/trade cells, whose machinery lost its owner when T-1173's tree ended at T-1347
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-10-03
 pr: 343
 claimed_by: run 10/3/2026, 4:46:48 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T16:48:29Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37114015896
 claimed_at: 2026-10-03T09:46:48.266Z
 decision: null
