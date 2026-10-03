@@ -1,7 +1,7 @@
 ---
 id: T-2013
 title: The worn ground at the doors drawn with the road's own surface: same grit, tone and colour, no pixel blocks
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 325
 claimed_by: run 10/2/2026, 11:31:13 PM CT
 blocked_on: null
 needs_bake: false
