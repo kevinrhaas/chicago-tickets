@@ -1,7 +1,7 @@
 ---
 id: T-1263
 title: Publish Shopping South Water Street as a five-minute jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 314
 claimed_by: run 10/2/2026, 7:48:07 PM CT
 blocked_on: null
 needs_bake: false
