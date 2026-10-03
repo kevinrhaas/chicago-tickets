@@ -1,7 +1,7 @@
 ---
 id: T-1259
 title: Finish the scalable Jaunts Menu and integrated start experience
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-03
 pr: 323
 claimed_by: interactive-jaunts-menu 10/2/2026, 1:29:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T12:22:17Z
 claimed_run: null
 claimed_at: 2026-10-02T18:29:55.134Z
 decision: null

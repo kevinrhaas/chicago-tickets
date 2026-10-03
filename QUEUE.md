@@ -107,7 +107,6 @@ T-1524 — A row carrying a printing's controlled word and a row carrying the sa
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
-T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 T-2025 — Publish Soap and Candles as the batch's quiet jaunt
