@@ -1,7 +1,7 @@
 ---
 id: T-2006
 title: Publish A Bed for the Night as a five-minute jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1266
 opened: 2026-10-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 9:30:12 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37089876422
+claimed_at: 2026-10-03T02:30:12.362Z
 decision: null
 decision_answer: null
 ---
