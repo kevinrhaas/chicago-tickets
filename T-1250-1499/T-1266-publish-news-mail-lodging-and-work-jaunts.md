@@ -1,7 +1,7 @@
 ---
 id: T-1266
 title: Publish news, mail, lodging and work jaunts
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 8:48:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37087343214
+claimed_at: 2026-10-03T01:48:52.215Z
+decision: null
+decision_answer: null
 ---
 
 Author only this bounded content batch — **4 separate short jaunts** (news, mail, lodging and work): `news-before-breakfast`, `letter-home`, `bed-for-the-night`, `work-on-waterfront`. Each is its own outing with its own file, not stops in one long tour. Content only: JSON, evidence, liberties, regenerated catalog; the engine is finished (5G) and a story that needs an engine change reports it against the engine ticket instead of changing code here.
