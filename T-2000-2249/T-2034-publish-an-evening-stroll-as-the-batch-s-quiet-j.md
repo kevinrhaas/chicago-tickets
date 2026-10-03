@@ -1,7 +1,7 @@
 ---
 id: T-2034
 title: Publish An Evening Stroll as the batch's quiet jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1270
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 12:22:13 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37140029765
+claimed_at: 2026-10-03T17:22:13.827Z
 decision: null
 decision_answer: null
 ---
