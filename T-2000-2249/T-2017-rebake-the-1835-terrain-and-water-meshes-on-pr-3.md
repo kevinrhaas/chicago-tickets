@@ -1,7 +1,7 @@
 ---
 id: T-2017
 title: Rebake the 1835 terrain and water meshes on PR #329's branch, for South Water's carried 22 m
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 1:37:51 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37103533927
+claimed_at: 2026-10-03T06:37:51.445Z
 decision: null
 decision_answer: null
 ---
