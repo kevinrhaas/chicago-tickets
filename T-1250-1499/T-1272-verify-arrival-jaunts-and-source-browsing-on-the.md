@@ -1,7 +1,7 @@
 ---
 id: T-1272
 title: Verify arrival, jaunts and source browsing on the published mobile app
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-03
 pr: null
 claimed_by: run 10/3/2026, 3:13:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T20:13:59.102Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37150554286
 claimed_at: 2026-10-03T20:13:15.077Z
 decision: null

@@ -110,7 +110,10 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 T-2040 — Gate the content refusals across the 25 jaunts: no reconstructed Indigenous encounter, no human-figure depiction, no quotation put in a named person's mouth, asset rights respected
 T-2041 — Time all 25 primary paths on the published mirror at the recommended mode and at Fly and Instantly, and re-cut any jaunt outside 3-6 minutes
 T-2042 — Prove the growth path with a 26th jaunt added by JSON and compile_jaunts.py alone, and write the library acceptance report
-T-1272 — Verify arrival, jaunts and source browsing on the published mobile app
+T-2044 — Smoke part 14: the integrated arrival-to-jaunt path on the published mirror at both viewports — cold boot, welcome, a jaunt, a card and its source, a mode change, End, a second jaunt, Explore Myself
+T-2045 — Boot variants for the arrival and jaunts path: warm, throttled slow, essential and optional failure, reduced motion, background and resume, stale timing history, a failed catalog fetch
+T-2046 — Layouts for the arrival and jaunts path: 320 px, landscape, on-screen keyboard in the picker, safe areas, focus order, 44 px targets, no overlap among panels
+T-2047 — Budgets, legacy surfaces and the arrival-jaunts acceptance report, with a STATUS section and named successors
 # --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
 # --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
 # RESUMED — owner, 2026-10-01: Go; enqueue the complete T-1837 implementation programme as one group below the existing queue. Legacy umbrellas remain references; work the 110 child tickets at the bottom.
