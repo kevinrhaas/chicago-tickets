@@ -1,7 +1,7 @@
 ---
 id: T-1272
 title: Verify arrival, jaunts and source browsing on the published mobile app
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 3:13:15 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37150554286
+claimed_at: 2026-10-03T20:13:15.077Z
+decision: null
+decision_answer: null
 ---
 
 **The published, integrated experience, end to end** — cold boot → arrival → welcome → a jaunt → a detail card and a source → a mode change → End → a second jaunt → Explore Myself — on the published mirror at both gate viewports, with concrete integration failures fixed inside this slice. This closes the section.
