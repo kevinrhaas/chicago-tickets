@@ -172,7 +172,6 @@ T-1357 — Publish a versioned Chicago scene bundle from every successful schedu
 #     waits: T-1414 (now open in band 0B). Unblock when T-1414 lands.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
-T-1612 — A dead claim parks a queue row for days: list --workable prints 'claimed' without saying the claim is three hours stale, and the picking rule says skip anything claimed
 T-1602 — rederive.mjs --run leaves the town model stale on any branch that adds residents: model_town_1835.py reads the sidecar compile_scene rebuilds after it, and the second pass does not carry it, so a clean full rebuild still fails check.sh
 T-1520 — A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
 T-1519 — smoke_budget --for-diff maps renderers/web/js/people.js to part 13, but the People directory's checks are guarded by stageOn(12), so a run that trusts the mapping runs the wrong leg
