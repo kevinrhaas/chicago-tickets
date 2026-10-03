@@ -1,7 +1,7 @@
 ---
 id: T-1263
 title: Publish Shopping South Water Street as a five-minute jaunt
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/2/2026, 7:48:07 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37083372463
+claimed_at: 2026-10-03T00:48:09.085Z
+decision: null
+decision_answer: null
 ---
 
 Author the complete priority jaunt **Shopping South Water Street** (`shopping-south-water`) — one of the six the owner named first — from [brief 04](../docs/JAUNTS-INITIAL-LIBRARY.md#04-shopping-south-water-street). Content only: one JSON file, its evidence, its liberties, the regenerated catalog. The engine (5G) is finished; if a story needs an engine change, that is a finding for the engine's ticket, not a change in this PR.
