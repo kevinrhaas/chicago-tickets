@@ -1,7 +1,7 @@
 ---
 id: T-2011
 title: Publish A Decent Coat as a five-minute jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1267
 opened: 2026-10-02
-closed: null
+closed: 2026-10-03
 pr: 330
 claimed_by: run 10/2/2026, 11:42:51 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T05:48:22Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37097291593
 claimed_at: 2026-10-03T04:42:51.781Z
 decision: null

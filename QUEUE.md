@@ -117,7 +117,6 @@ T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 T-2009 — Publish Freight for the Store as a five-minute jaunt
 T-2010 — Publish Stock the Household as a five-minute jaunt
-T-2011 — Publish A Decent Coat as a five-minute jaunt
 T-1268 — Publish harness, candles, building materials and leather jaunts
 T-1269 — Publish schooling, social visits and careful news reading jaunts
 T-1270 — Publish harbor, prairie arrival and a quiet stroll jaunts
