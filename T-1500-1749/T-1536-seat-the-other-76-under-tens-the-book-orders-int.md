@@ -1,7 +1,7 @@
 ---
 id: T-1536
 title: Seat the other 76 under-tens the book orders into lodging households: the children of DOCUMENTED keepers, and of the 37 boarding houses the lodging model schedules and nobody has built — T-1533 drew the 10 its own minted keepers could hold and the rest have no keeper here to be kin to
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 344
 claimed_by: run 10/3/2026, 5:26:59 AM CT
 blocked_on: null
 needs_bake: false
