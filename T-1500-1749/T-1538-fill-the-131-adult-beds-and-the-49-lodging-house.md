@@ -1,7 +1,7 @@
 ---
 id: T-1538
 title: Fill the 131 adult beds and the 49 lodging households still owed, as T-1209 raises the 36 unbuilt lodging roofs: every one of the 144 ordinary night beds is slept in and all 16 built lodging places already hold a household
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1534
 opened: 2026-09-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 2:39:05 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37106927188
+claimed_at: 2026-10-03T07:39:05.750Z
 decision: null
 decision_answer: null
 ---
