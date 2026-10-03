@@ -1,7 +1,7 @@
 ---
 id: T-2048
 title: Read Whistler's 25 January 1808 draught of the first Fort Dearborn into a measured component register: the sheet committed with its source record, every index number it draws located in fort feet, the scale and its cross-checks, and what the sheet does not show
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-0469
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 366
 claimed_by: run 10/3/2026, 3:16:28 PM CT
 blocked_on: null
 needs_bake: false
