@@ -1,7 +1,7 @@
 ---
 id: T-1262
 title: Publish New in Chicago as a five-minute jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: 316
 claimed_by: run 10/2/2026, 7:29:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T03:13:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37082023818
 claimed_at: 2026-10-03T00:29:08.918Z
 decision: null

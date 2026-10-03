@@ -98,7 +98,6 @@
 # --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
 T-1259 — Finish the scalable Jaunts Menu and integrated start experience
 # --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
-T-1262 — Publish New in Chicago as a five-minute jaunt
 T-1265 — Publish Fort Dearborn Errand as a five-minute jaunt
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 T-2005 — Publish A Letter Home as a five-minute jaunt
