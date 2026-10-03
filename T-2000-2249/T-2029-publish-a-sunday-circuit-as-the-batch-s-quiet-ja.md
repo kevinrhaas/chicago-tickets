@@ -1,7 +1,7 @@
 ---
 id: T-2029
 title: Publish A Sunday Circuit as the batch's quiet jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1269
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 351
 claimed_by: run 10/3/2026, 9:17:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T15:38:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37128956767
 claimed_at: 2026-10-03T14:17:52.149Z
 decision: null
