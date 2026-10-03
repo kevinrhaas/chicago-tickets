@@ -1,7 +1,7 @@
 ---
 id: T-2036
 title: Restyle the front door and arrival as the Temporal Observatory: four machine skins and the observatory copy deck
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 352
 claimed_by: run 10/3/2026, 11:08:06 AM CT
 blocked_on: null
 needs_bake: false
