@@ -1,7 +1,7 @@
 ---
 id: T-2015
 title: Replace faceted trees and blocky flora with realistic procedural vegetation
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 333
 claimed_by: run 10/3/2026, 12:02:14 AM CT
 blocked_on: null
 needs_bake: false
@@ -54,3 +54,7 @@ Implemented in the work branch: open species-family leaf sprays, deterministic l
 ### Saved code checkpoint
 
 [Chicago e9c02d7](https://github.com/kevinrhaas/chicago/commit/e9c02d727d7e6acaaa447ae66b302deb49f2b5a7) saves the implementation, reproducible review tools, before-scene images and bark/tree closeups on `steward/photographic-flora`. The source gate passes all 750 steps. The packed foliage shader passes all four actual-scene desktop views with zero page/console errors. Final budgets, mobile smoke and T-2014 composed walk remain under verification; the ticket stays claimed.
+
+### Recovery PR — 2026-10-03
+
+[PR #333](https://github.com/kevinrhaas/chicago/pull/333) is a draft against dev. Checkpoint `c328395c5e367f797e25effd2d3c14b8db4a81b4` preserves the final grass/floret/leaf refinements and eight comparison views. All 750 source checks and preflight pass on the checkpoint. Current dev cross-street walks are being integrated and measured; final published desktop/touch-mobile smoke remains in progress.
