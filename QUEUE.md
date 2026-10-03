@@ -74,7 +74,6 @@
 # Visible builds first, then the lodging/resident layer they feed, then the one ruling. Each ticket's own
 # "Queue cleanup 2026-10-03" section names what landed. T-1953 stays blocked on T-1414 (band 8b).
 # Owner, 2026-10-03: T-2017 first. PR #329 (T-2012) cannot merge until its terrain is rebaked.
-T-2017 — Rebake the 1835 terrain and water meshes on PR #329's branch, for South Water's carried 22 m
 T-1205 — Build the North Division's Kinzie band to its seats: the Kinzie properties' neighbours, the North Water bank's forwarding and heavy trades, the Wolcott–Kinzie core's stores and taverns, the brickyard and the school, the dwellings between Kinzie and Michigan
 T-1414 — Seat the West Division's and Wabansia's streets and alleys as platted corridors with the small lots the sheets draw, on the ground T-1193 extends
 T-1529 — Build the tenth physician the re-cut bracket now orders: businesses/physician stands at 9 of 10 since the parish register's 120 residents moved the town model, and T-1418 has closed
@@ -386,6 +385,5 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2012 — South Water Street runs its last 22 m to State Street
 T-2015 — Replace faceted trees and blocky flora with realistic procedural vegetation
 T-2016 — Reconcile Glessner connected roof plan, courtyard bay and north chimneys

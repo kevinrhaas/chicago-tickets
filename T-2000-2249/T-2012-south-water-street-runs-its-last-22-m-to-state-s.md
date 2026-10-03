@@ -1,7 +1,7 @@
 ---
 id: T-2012
 title: South Water Street runs its last 22 m to State Street
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-03
 pr: 329
 claimed_by: run 10/2/2026, 11:03:20 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T09:21:35Z
 claimed_run: null
 claimed_at: 2026-10-03T04:03:20.088Z
 decision: null
