@@ -92,7 +92,6 @@
 # Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
 # Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
 # --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
-T-1989 — The four empty anonymous trade roofs (the W2 joiner's shop on Randolph, the F2 warehouse at the forks, the W5 work shop on Wolcott the off-plat deal adopted for the Miller and Hall tannery household but never spent, the C3 store on Lake) each seated by a deal or shown unseatable: the order book has an occupant class for each and the policy accepts it where it stands, so a stated use would break 1835_stated_uses' rule (b)
 # Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
 # Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
 # --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
