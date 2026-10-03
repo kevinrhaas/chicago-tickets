@@ -1,7 +1,7 @@
 ---
 id: T-1612
 title: A dead claim parks a queue row for days: list --workable prints 'claimed' without saying the claim is three hours stale, and the picking rule says skip anything claimed
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 1:31:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37144343848
+claimed_at: 2026-10-03T18:31:52.336Z
 decision: null
 decision_answer: null
 ---
