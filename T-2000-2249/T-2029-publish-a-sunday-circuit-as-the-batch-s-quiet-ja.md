@@ -1,7 +1,7 @@
 ---
 id: T-2029
 title: Publish A Sunday Circuit as the batch's quiet jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1269
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 351
 claimed_by: run 10/3/2026, 9:17:51 AM CT
 blocked_on: null
 needs_bake: false
