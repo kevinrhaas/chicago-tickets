@@ -1,7 +1,7 @@
 ---
 id: T-1260
 title: Publish Outfit for the West as a five-minute jaunt
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-02
 pr: 313
 claimed_by: run 10/2/2026, 6:39:41 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T00:21:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37078377145
 claimed_at: 2026-10-02T23:39:41.683Z
 decision: null
