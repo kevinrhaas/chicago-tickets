@@ -1,7 +1,7 @@
 ---
 id: T-2024
 title: Publish Mend the Harness as a short jaunt
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1268
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 342
 claimed_by: run 10/3/2026, 4:00:06 AM CT
 blocked_on: null
 needs_bake: false
