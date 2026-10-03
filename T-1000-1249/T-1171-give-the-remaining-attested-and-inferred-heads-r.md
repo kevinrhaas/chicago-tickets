@@ -142,3 +142,31 @@ acceptance:
 ## Queue cleanup 2026-10-03 (owner: "see if there are any tickets that were blocked in the queue from before but now can be worked")
 
 **Unblocked.** T-1179's convergence is done (every child closed), which was the stated blocker for re-housing the women into the 310 married houses.
+
+## 2026-10-03 — sized before working the last bullet: it is three demonstrations, not one
+
+A run claimed this after the queue cleanup and measured the bullet before building it.
+
+* **The count has moved: 368 married houses stand refused, not 310** (`reconstruct_modelled_families.py --report`).
+  356 of them are heads whose card says `unplaced`; their wife's cell takes its division from the
+  stage's seeded ledger allocation (`bucket_for`), so a match has to be made on THAT division.
+* **Moving a woman cannot move the sex ratio.** The stage's `what_closes_it` says re-housing
+  "is what closes this ratio". It is not: a move puts nobody new in the town. The whole compiled
+  layer (`data/sidecars/1835/people.json`, present, age known) reads 1,490 adult men to 499 adult
+  women — about 299 per 100 against the model's 120.9–150.0 — and the book has no woman left in
+  any of the refused cells. Closing that is an order-book question, not a re-housing one.
+* **Who could be the wife.** The bullet names T-1174's and T-1347's women.
+  - T-1347's 111 women stand outside `data/residents/households/` in `reconstructed_trades/`, which
+    25 tools read (seating, staffing, the business band that adopts them as proprietors, the
+    lodging stage). 57 of them are `domestic` — a live-in servant, the person this model should
+    marry last — and 34 are boarding-house keepers, which T-1538 is working right now.
+  - T-1174's 124 woman-headed houses stand in the same directory as the heads and are the
+    natural pool: 148 of 574 present households are female-headed after T-1174 (25.8%), and the
+    1840 extract carries no head sex to defend that share with. Matched on the wife-cell division,
+    the spacing rule (her band never above his) and the child cap (her eldest is no older than his
+    band's low minus 20), with a merged house of at most 8: **114 of the 368 can be married, 91 if
+    the 25 houses T-1564 already re-familied are left where that move put them.**
+  - **254 or more stay refused whatever is moved.** No woman in the town fits them.
+
+Split below: the measurement into the stage's own ledger first (so the move cannot redefine its
+own success), then the move, then the ruling on the houses nothing can fill.
