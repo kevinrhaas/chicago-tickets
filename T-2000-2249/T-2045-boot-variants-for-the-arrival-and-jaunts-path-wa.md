@@ -1,7 +1,7 @@
 ---
 id: T-2045
 title: Boot variants for the arrival and jaunts path: warm, throttled slow, essential and optional failure, reduced motion, background and resume, stale timing history, a failed catalog fetch
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1272
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 376
 claimed_by: run 10/3/2026, 6:42:40 PM CT
 blocked_on: null
 needs_bake: false
