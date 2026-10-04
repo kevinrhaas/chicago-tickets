@@ -55,3 +55,16 @@ that is now wrong in two places.
    firing self-test.
 3. Consider `merge=union` in `.gitattributes` for `renderers/web/js/changelog.js`, which is
    what the fleet contract assumes is already there.
+
+## Finding, 2026-10-04 (T-1355's run, PR #403) — the same file now carries one release TWICE
+
+`origin/dev`'s changelog holds "Kelsey's boarding-house on the sand hills is painted
+yellow" as both **v1411** (2026-10-04T08:31Z) and **v1397** (2026-10-03T03:36Z).
+`git log -S` names #380 (T-1724) and #393 (T-2070). This is the opposite failure from the
+one this ticket was filed for: a version that no longer names a release, rather than a
+release that has lost its version. `check-changelog.mjs` passes the file, because its
+duplicate rule reads `v` and not the title. The changelog merge driver then re-adds BOTH
+copies on top of a branch's own entry as if they were "ours'" (measured on #403:
+"3 entry(s) of ours placed on top" for a branch that wrote one). #403 rebuilt its file
+from dev's copy with one entry on top. A duplicate-title rule in `check-changelog.mjs`
+would catch it, and so would this ticket's acceptance 2 read for titles.
