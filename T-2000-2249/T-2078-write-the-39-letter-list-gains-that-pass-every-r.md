@@ -1,7 +1,7 @@
 ---
 id: T-2078
 title: Write the 39 letter-list gains that pass every refusal read right; the population they add shrinks orders the re-family ledger landed moves in, and the order book faults (a move needs an open order to fill, persons/female/40_49/north/lodging/trade first) — T-1717's finding, which wants its ruling first
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2072
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 406
 claimed_by: run 10/4/2026, 6:03:31 AM CT
 blocked_on: null
 needs_bake: false
