@@ -58,7 +58,8 @@
 # --- every grass and land texture rebuilt the road's way (owner, same day), kept lots, then road shoulders, alleys,
 # --- frontages and paths. Trees and the prairie outside the town are kept.
 # Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
-T-2096 — Lag while moving, in every mode and year: measure scripted walks, turns, flights and travel at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is one suspect), and hold the moving p95 frame time
+T-2105 — Moving frames measured (walk, turn, flight at both viewports and every tier, phone at 4x CPU throttle) and flora's rebuild halved by an exact floor index and cell cull, with a per-tier moving-frame ceiling
+T-2106 — Spread the flora rebuild across frames so no turn or step hitch remains on the phone profile (a turn at light still reads 44 ms p95 throttled after T-2096's first half), read travel and the 1812 and 1904 walks, and run the moving-frame gate in a CI leg
 T-2099 — Lag in every view, not only when walking: read still-frame GPU and CPU time at every stand, the aerial and overview, arrival and jaunt views and the 1812 and 1904 scenes, attribute it by layer and pass, fix the largest causes, and hold a frame-time ceiling per tier
 T-2097 — Newberry & Dole's warehouse stands in South Water Street at the Franklin crossing: set it back into the corner of the block west of Franklin and south of South Water, still facing the river, with its dock re-derived and a tree kept at the corner
 T-2104 — Storefront header boards flicker as you turn: the fascia, pilasters and sills are built with their street face missing
