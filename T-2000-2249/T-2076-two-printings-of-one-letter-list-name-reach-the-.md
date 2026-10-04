@@ -30,3 +30,13 @@ The ticket budget refused this: the queue stands at 191 lines, at or over its ce
 > T-2073 reads 27 ledgered cards and must hand three on: their drift is a derivation rule (which printings a card is built from) that a trial measured at 85 cards, which no open ticket owns and which is far larger than one ledger slice
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+**Found by T-2073 (PR #400), 2026-10-04.** Six `rewritten` rows of `data/research/letter_list_mint_ledger.json` are handed here (`handed_on.from: T-2073`, each with its reason):
+
+- `hh_palmer_n_h`: the register has two rows enriching it, `N. H. Palmer` (Democrat 20 May 1835 c013) and `Palmer N. H.` (1 July 1835 c005). The mint reads only the first-ranked one, so the card follows whichever ranks first. Read alone, the 1 July printing loosens the arrival bound from 1835-03-31 to 1835-06-30 and drops the May return. The card's own `last_dated_appearance` already reads 1 July.
+- `hh_elliot_william`, `hh_wilson_john`: the 4 March 1834 reprint (c026/c027) prints `Elliot 3` and `Wilson 4`. That is the office's letter count, but the gazetteer reads it as a separate person (`person_william_elliot_3`, `person_john_wilson_4`), so the re-derivation loses that printing.
+- `hh_fraser_wm_h`, `hh_provis_joshua`, `hh_vandino_john`: two spellings from two printings of the 1 January 1834 return (28 January c001, 4 March c026/c027). Writing the mint's spelling was tried. The other spelling then stopped resolving to the card and was minted as a second household. T-2071's re-minted rows `hh_frazer_wm_h`, `hh_pruvis_joshua` and `hh_vandine_john` are the other face of these pairs.
+
+A trial rule, "union the gazetteer mentions of every register row enriching the same card", moved **85** cards' mint-owned keys. So this needs deciding as a rule, not card by card.
+
+**Acceptance:** (state it before working — one demonstration, never weakened to pass)
