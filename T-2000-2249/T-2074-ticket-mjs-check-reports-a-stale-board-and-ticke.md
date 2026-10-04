@@ -1,7 +1,7 @@
 ---
 id: T-2074
 title: ticket.mjs check reports a stale board and tickets.json instead of repairing them, writing nothing on a consistent or a stale tree
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1341
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 391
 claimed_by: run 10/4/2026, 2:35:41 AM CT
 blocked_on: null
 needs_bake: false
