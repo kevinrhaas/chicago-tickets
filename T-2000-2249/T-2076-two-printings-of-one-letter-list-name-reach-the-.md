@@ -62,3 +62,13 @@ path this rule lives in — and writes `hh_fraser_wm_h`, `hh_provis_joshua` and 
 Two concurrent rewrites of one function and three cards is a conflict, not parallel work. Build
 this on `dev` after T-2071 merges.
 
+
+## Finding, 2026-10-04 (T-2078) — one more surname-first line, alone on its return
+
+T-2078 wrote 38 of the 39 letter-list gains. The 39th, `Conant Augustus H` (1 January 1834
+return), is printed surname first and the mint reads it given-first, so it would mint
+`hh_augustus_h_conant` displayed as `Conant Augustus H`; `--gate` refuses both the display
+(T-1217) and the id (T-1218). It is not a second printing, but it is the same name-order
+question as `hh_palmer_n_h`'s reprint, so it is carried here: its row on
+`data/research/letter_list_mint_ledger.json` now names this ticket as its reader. Read the
+order (Augustus H. Conant) or refuse the line in writing, and retire the row.
