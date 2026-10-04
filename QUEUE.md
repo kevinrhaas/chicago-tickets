@@ -227,6 +227,7 @@ T-2059 — The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's 
 T-2060 — Re-measure boot-weights.js: the terrain phase grew 0.7 to 3.7 s and the boot moved 25-70 % since its reading
 T-2061 — Touch targets the arrival-and-jaunts path still reaches under 44px: HUD chips 38px, the drawer's Back and Close 30px and its tabs 37px wide at 320, the place card's 'why' toggles 19x17
 T-2062 — Place the first fort's factor's house, gardens and outbuildings in the 1812 scene: the 1808 draught draws them without any regular rule (sheet_only) or not at all (not_located), so find a scaled source or rule how they may stand
+T-2066 — Raise the 1812 shore bank south of Twelfth to Moses & Kirkland's 10-20 ft, with low broken sand-hills and swales the sand prairie can stand in
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
