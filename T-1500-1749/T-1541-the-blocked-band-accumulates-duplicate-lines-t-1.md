@@ -1,7 +1,7 @@
 ---
 id: T-1541
 title: The blocked band accumulates duplicate lines: T-1532 and T-1536 each stand twice in QUEUE.md band 8b, and T-1479 stood nowhere at all until a run's gate caught it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 389
 claimed_by: run 10/4/2026, 2:03:39 AM CT
 blocked_on: null
 needs_bake: false
