@@ -58,7 +58,6 @@
 # --- every grass and land texture rebuilt the road's way (owner, same day), kept lots, then road shoulders, alleys,
 # --- frontages and paths. Trees and the prairie outside the town are kept.
 T-2092 — Read T-2084's derived town ground at both viewports and every tier: T-0135's five stands and the three in-town poses with the flora share, the phone heap, and before/after captures at the three poses against the production tree
-T-2085 — Short town turf drawn cheaply: one reusable seeded 1835 turf texture under the settled-town ground, near tufts only on turf, the Scene detail tiers made town-aware, and the full and balanced ceilings taken back down
 T-2086 — Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant
 T-2087 — Road shoulders, alleys, store frontages and paths go to trodden earth grading into turf, replacing the prairie left in the 80-foot corridor beside the wagon track
 

@@ -1,7 +1,7 @@
 ---
 id: T-2085
 title: Short town turf drawn cheaply: one reusable seeded 1835 turf texture under the settled-town ground, near tufts only on turf, the Scene detail tiers made town-aware, and the full and balanced ceilings taken back down
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 413
 claimed_by: run 10/4/2026, 10:50:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T17:13:04Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37214323374
 claimed_at: 2026-10-04T15:50:24.654Z
 decision: null
