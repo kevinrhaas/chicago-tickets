@@ -1,7 +1,7 @@
 ---
 id: T-2111
 title: Read the arrival screen and a jaunt view, and hold a still-frame time ceiling per tier at the worst stand beside T-1975's triangle ceilings
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2099
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 432
 claimed_by: run 10/4/2026, 4:33:40 PM CT
 blocked_on: null
 needs_bake: false
