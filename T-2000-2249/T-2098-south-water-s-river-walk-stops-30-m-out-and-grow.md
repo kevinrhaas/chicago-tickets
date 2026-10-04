@@ -1,7 +1,7 @@
 ---
 id: T-2098
 title: South Water's river walk stops ~30 m out and grows back as you approach: the working bank's biased depth hides its boards
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 12:25:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-04T17:25:46.395Z
 decision: null
 decision_answer: null
 ---
