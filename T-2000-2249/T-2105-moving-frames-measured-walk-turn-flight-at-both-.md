@@ -1,7 +1,7 @@
 ---
 id: T-2105
 title: Moving frames measured (walk, turn, flight at both viewports and every tier, phone at 4x CPU throttle) and flora's rebuild halved by an exact floor index and cell cull, with a per-tier moving-frame ceiling
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2096
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 424
 claimed_by: run 10/4/2026, 2:12:45 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T21:50:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37221734625
 claimed_at: 2026-10-04T19:12:45.179Z
 decision: null
