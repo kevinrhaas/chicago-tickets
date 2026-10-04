@@ -61,7 +61,6 @@
 T-2105 — Moving frames measured (walk, turn, flight at both viewports and every tier, phone at 4x CPU throttle) and flora's rebuild halved by an exact floor index and cell cull, with a per-tier moving-frame ceiling
 T-2106 — Spread the flora rebuild across frames so no turn or step hitch remains on the phone profile (a turn at light still reads 44 ms p95 throttled after T-2096's first half), read travel and the 1812 and 1904 walks, and run the moving-frame gate in a CI leg
 T-2099 — Lag in every view, not only when walking: read still-frame GPU and CPU time at every stand, the aerial and overview, arrival and jaunt views and the 1812 and 1904 scenes, attribute it by layer and pass, fix the largest causes, and hold a frame-time ceiling per tier
-T-2097 — Newberry & Dole's warehouse stands in South Water Street at the Franklin crossing: set it back into the corner of the block west of Franklin and south of South Water, still facing the river, with its dock re-derived and a tree kept at the corner
 T-2104 — Storefront header boards flicker as you turn: the fascia, pilasters and sills are built with their street face missing
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
