@@ -1,7 +1,7 @@
 ---
 id: T-2075
 title: step_isolation classifies a measured write by git check-ignore rather than a hand-kept exempt list, and records wrote vs wrote_ignored (folded in from T-1345)
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1341
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 394
 claimed_by: run 10/4/2026, 3:22:25 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T09:05:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37188567387
 claimed_at: 2026-10-04T08:22:25.542Z
 decision: null
