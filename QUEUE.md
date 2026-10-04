@@ -370,3 +370,4 @@ T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2103 — The far treeline still draws a moving blob down South Water and a slab from the air
 T-2112 — Gates in the town's fences: every fenced street front and yard gateway gets a period gate or opening, varied by lot
+T-2114 — Jaunts: Next Stop sat greyed out at a stop that needs a choice, with the options hidden below the fold on a phone
