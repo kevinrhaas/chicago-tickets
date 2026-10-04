@@ -1,7 +1,7 @@
 ---
 id: T-2099
 title: Lag in every view, not only when walking: read still-frame GPU and CPU time at every stand, the aerial and overview, arrival and jaunt views and the 1812 and 1904 scenes, attribute it by layer and pass, fix the largest causes, and hold a frame-time ceiling per tier
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 1:01:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37222558236
+claimed_at: 2026-10-04T18:01:30.181Z
 decision: null
 decision_answer: null
 ---
