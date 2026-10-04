@@ -1,7 +1,7 @@
 ---
 id: T-1344
 title: Splitting a ticket that has a live branch puts two runs on one acceptance: the in-flight run retargets onto a child while the child also enters the queue for a fresh claim, and neither claim contends with the other
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-18
-closed: null
+closed: 2026-10-04
 pr: 392
 claimed_by: run 10/4/2026, 2:44:29 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T08:19:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37186579337
 claimed_at: 2026-10-04T07:44:29.094Z
 decision: null

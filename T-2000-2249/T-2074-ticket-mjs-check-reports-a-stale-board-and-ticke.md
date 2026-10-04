@@ -1,7 +1,7 @@
 ---
 id: T-2074
 title: ticket.mjs check reports a stale board and tickets.json instead of repairing them, writing nothing on a consistent or a stale tree
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1341
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 391
 claimed_by: run 10/4/2026, 2:35:41 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T08:19:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37185951501
 claimed_at: 2026-10-04T07:35:42.003Z
 decision: null
