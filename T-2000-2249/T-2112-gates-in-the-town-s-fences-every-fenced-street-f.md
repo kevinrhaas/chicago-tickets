@@ -30,3 +30,13 @@ The ticket budget refused this: the queue stands at 189 lines, at or over its ce
 > owner-reported (Kevin, 2026-10-04, follow-up to T-2102): street fences run across the front of houses with no gate
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+1. Every street-lining fence (T-0069, `data/frontage/town_street_edge.json`) has a way in for each improved lot it covers, placed in front of the lot's front building: a hung foot gate for a dwelling, a pair of carriage leaves for a trade.
+2. The lot-line yard fences' existing 10 ft gateways (alley and street, T-0068/T-2102) carry a period gate: double board or picket leaves, slip bars on split rail, and some left as a plain opening.
+3. Variety is deterministic per gate (re-derived byte for byte): closed, ajar or standing open; leaf stock; which side it hangs.
+4. Drawn by the renderer at both viewports; triangle and call cost measured against dev.
+5. Recorded as a numbered liberty (next free at merge).
+
+## Owner's words (2026-10-04)
+
+> fences overall look good, if someone has a property and the fence runs the front of the property they should have a gate or opening, i imagine a gate is period appropriate, but there would be opening on properties that have a fence in the front, so put what is sensible and of course vary by property what kind of gate/opening entrance they have based on correct 1835
