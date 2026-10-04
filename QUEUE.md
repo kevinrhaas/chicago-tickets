@@ -60,7 +60,6 @@
 T-2091 — The settled town's ground derived over every built block, street corridor and alley from the plat, the standing footprints and the forks seed, gated in check.sh, trees held, with the in-town flora reading before and after at 1280x800
 T-2092 — Read T-2084's derived town ground at both viewports and every tier: T-0135's five stands and the three in-town poses with the flora share, the phone heap, and before/after captures at the three poses against the production tree
 T-2085 — Short town turf drawn cheaply: one reusable seeded 1835 turf texture under the settled-town ground, near tufts only on turf, the Scene detail tiers made town-aware, and the full and balanced ceilings taken back down
-T-2089 — A grass grain-and-normal tile under the terrain's prairie ground: blade-and-thatch relief lit by the sun in world space, shared by the ground strip and the worked bank through PRAIRIE_FRAGMENT, every zone's mean albedo held
 T-2090 — The yard canvases, bank soil and sand edges on the shared tiles: worn and trodden earth on the road's grit and tones, the dooryard green (and T-2085's turf) on the grass grain, no seam at a road, yard or zone edge
 T-2086 — Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant
 T-2087 — Road shoulders, alleys, store frontages and paths go to trodden earth grading into turf, replacing the prairie left in the 80-foot corridor beside the wagon track

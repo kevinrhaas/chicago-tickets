@@ -1,7 +1,7 @@
 ---
 id: T-2089
 title: A grass grain-and-normal tile under the terrain's prairie ground: blade-and-thatch relief lit by the sun in world space, shared by the ground strip and the worked bank through PRAIRIE_FRAGMENT, every zone's mean albedo held
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2088
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 411
 claimed_by: run 10/4/2026, 8:42:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T15:16:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37206300067
 claimed_at: 2026-10-04T13:42:19.199Z
 decision: null
