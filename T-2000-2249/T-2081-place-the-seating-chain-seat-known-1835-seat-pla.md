@@ -1,7 +1,7 @@
 ---
 id: T-2081
 title: Place the seating chain (seat_known_1835 -> seat_platted_ground_1835 -> seat_off_plat_ground_1835 -> build_order_book_1835) in the manifest in hand-off order, measured under _must_reproduce, or say in writer_inventory.json why it cannot be — seat_known_1835 reads the order book and both seat files back, so the chain is a cycle and wants its own measured pass
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2065
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 7:05:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37200569548
+claimed_at: 2026-10-04T12:05:11.275Z
 decision: null
 decision_answer: null
 ---
