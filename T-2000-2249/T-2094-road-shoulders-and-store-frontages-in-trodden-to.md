@@ -1,7 +1,7 @@
 ---
 id: T-2094
 title: Road shoulders and store frontages in trodden town ground: nothing above the town turf's own height in an opened street's corridor, a few weeds kept at the lot line
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2087
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 12:18:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37219697905
+claimed_at: 2026-10-04T17:18:26.451Z
 decision: null
 decision_answer: null
 ---
