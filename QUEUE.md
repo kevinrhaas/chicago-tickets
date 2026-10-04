@@ -62,7 +62,6 @@ T-2096 — Lag while moving, in every mode and year: measure scripted walks, tur
 T-2099 — Lag in every view, not only when walking: read still-frame GPU and CPU time at every stand, the aerial and overview, arrival and jaunt views and the 1812 and 1904 scenes, attribute it by layer and pass, fix the largest causes, and hold a frame-time ceiling per tier
 T-2097 — Newberry & Dole's warehouse stands in South Water Street at the Franklin crossing: set it back into the corner of the block west of Franklin and south of South Water, still facing the river, with its dock re-derived and a tree kept at the corner
 T-2104 — Storefront header boards flicker as you turn: the fascia, pilasters and sills are built with their street face missing
-T-2094 — Road shoulders and store frontages in trodden town ground: nothing above the town turf's own height in an opened street's corridor, a few weeds kept at the lot line
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
