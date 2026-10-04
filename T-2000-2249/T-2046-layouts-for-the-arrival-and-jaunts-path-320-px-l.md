@@ -1,7 +1,7 @@
 ---
 id: T-2046
 title: Layouts for the arrival and jaunts path: 320 px, landscape, on-screen keyboard in the picker, safe areas, focus order, 44 px targets, no overlap among panels
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1272
 opened: 2026-10-03
-closed: null
+closed: 2026-10-04
 pr: 378
 claimed_by: run 10/4/2026, 6:35:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T13:29:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37199067902
 claimed_at: 2026-10-04T11:35:37.965Z
 decision: null
