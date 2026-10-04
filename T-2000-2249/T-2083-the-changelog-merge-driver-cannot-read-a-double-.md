@@ -1,7 +1,7 @@
 ---
 id: T-2083
 title: The changelog merge driver cannot read a double-quoted title, so every lap copies Kelsey's yellow-house note again: six copies on dev, four from one merge
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 405
 claimed_by: run 10/4/2026, 6:39:02 AM CT
 blocked_on: null
 needs_bake: false
