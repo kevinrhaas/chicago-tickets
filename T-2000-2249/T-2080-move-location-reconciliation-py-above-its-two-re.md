@@ -1,7 +1,7 @@
 ---
 id: T-2080
 title: Move location_reconciliation.py above its two readers (location_spend.py, report_convergence_coverage.py) and gate the edge, so a merged tree with a moved seat passes --run without a hand step
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2065
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 404
 claimed_by: run 10/4/2026, 5:53:41 AM CT
 blocked_on: null
 needs_bake: false
