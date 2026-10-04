@@ -178,6 +178,7 @@ T-1341 — ticket.mjs --check REPAIRS the mirror it is checking, so on any branc
 T-1344 — Splitting a ticket that has a live branch puts two runs on one acceptance: the in-flight run retargets onto a child while the child also enters the queue for a fresh claim, and neither claim contends with the other
 T-1355 — The four derived research reports conflict on every merge: decide whether they come off the PR surface the way T-0937 and T-0938 took the board and the mirror, with the reading written down
 T-1362 — The lap re-derives only when it merges, so a branch already current with dev stays stale against a gate dev just added: #1487 sat red on four manifest-owned files while the lap said 'already current — nothing to lap'
+T-2065 — The derived manifest's in-sequence lags T-1602 left: location_spend reads the reconciliation a later step rebuilds, the seating passes sit outside the manifest, and nothing gates the 84-132 answer
 T-1380 — A squash merge dropped a shipped release note and re-used its version: v971 named 'Six dates that would not stick' on dev at 06:06 and names 'How many people each tavern and boarding house could sleep' at 06:31, and the first entry is gone from the file the launcher and Manager parse
 T-1282 — The lap cannot re-derive a resident household card, so any PR that conflicts on hh_*.json is refused whole
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
