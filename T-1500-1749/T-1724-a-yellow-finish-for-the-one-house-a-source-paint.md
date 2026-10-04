@@ -1,7 +1,7 @@
 ---
 id: T-1724
 title: A yellow finish for the one house a source paints: Bonnell's small yellow house builds in unpainted clapboard because no archetype in this project has a yellow, and white was refused as a substitute
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 380
 claimed_by: run 10/3/2026, 9:21:54 PM CT
 blocked_on: null
 needs_bake: false
