@@ -1,7 +1,7 @@
 ---
 id: T-2085
 title: Short town turf drawn cheaply: one reusable seeded 1835 turf texture under the settled-town ground, near tufts only on turf, the Scene detail tiers made town-aware, and the full and balanced ceilings taken back down
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
