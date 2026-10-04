@@ -1,7 +1,7 @@
 ---
 id: T-1690
 title: Place the First Baptist meeting house on South Water Street near Franklin: the small frame building that was a Baptist meeting house on Sunday, Sproat's boys' school on weekdays and the first Episcopal services' room on 19 October 1834
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 395
 claimed_by: run 10/4/2026, 3:05:54 AM CT
 blocked_on: null
 needs_bake: false
