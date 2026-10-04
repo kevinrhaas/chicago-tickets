@@ -1,7 +1,7 @@
 ---
 id: T-2092
 title: Read T-2084's derived town ground at both viewports and every tier: T-0135's five stands and the three in-town poses with the flora share, the phone heap, and before/after captures at the three poses against the production tree
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2084
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 11:10:00 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37215539928
+claimed_at: 2026-10-04T16:10:00.318Z
 decision: null
 decision_answer: null
 ---
