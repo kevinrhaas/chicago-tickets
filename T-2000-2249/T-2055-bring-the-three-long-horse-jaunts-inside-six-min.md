@@ -1,7 +1,7 @@
 ---
 id: T-2055
 title: Bring the three long horse jaunts inside six minutes: from-prairie-to-town 9.4, boots-and-leather 7.7, soap-and-candles 7.1 min on horseback
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2041
 opened: 2026-10-03
-closed: null
+closed: 2026-10-04
 pr: 371
 claimed_by: run 10/3/2026, 5:17:04 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T05:53:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37157538464
 claimed_at: 2026-10-03T22:17:04.667Z
 decision: null
