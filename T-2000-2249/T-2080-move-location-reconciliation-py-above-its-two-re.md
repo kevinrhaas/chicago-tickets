@@ -1,7 +1,7 @@
 ---
 id: T-2080
 title: Move location_reconciliation.py above its two readers (location_spend.py, report_convergence_coverage.py) and gate the edge, so a merged tree with a moved seat passes --run without a hand step
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2065
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 5:53:41 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37196588788
+claimed_at: 2026-10-04T10:53:41.956Z
 decision: null
 decision_answer: null
 ---
