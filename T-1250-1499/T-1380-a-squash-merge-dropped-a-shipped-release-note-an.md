@@ -68,3 +68,11 @@ copies on top of a branch's own entry as if they were "ours'" (measured on #403:
 "3 entry(s) of ours placed on top" for a branch that wrote one). #403 rebuilt its file
 from dev's copy with one entry on top. A duplicate-title rule in `check-changelog.mjs`
 would catch it, and so would this ticket's acceptance 2 read for titles.
+
+## Finding, 2026-10-04 (steward run, while resuming #400)
+The same family of fault, the other way round: after #404 (T-2080) squash-merged into `dev`
+at about 11:33Z, `renderers/web/js/changelog.js` on `dev` carried **the same entry four
+times** — "Kelsey's boarding-house on the sand hills is painted yellow" as v1421, v1422,
+v1423 and v1424, all with one `ts` (`2026-10-04T11:33:38.774Z`), above v1425.
+`check-changelog.mjs` read the file as "contract OK", so nothing asserts that one entry
+is not repeated under several version numbers.
