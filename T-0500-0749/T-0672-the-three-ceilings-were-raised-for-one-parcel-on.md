@@ -1,7 +1,7 @@
 ---
 id: T-0672
 title: The three ceilings were raised for one parcel on 2026-09-03 and light's floor was spent: re-measure once #432 lands and take every tier back down
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 6:06:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37242356570
+claimed_at: 2026-10-04T23:06:47.802Z
+decision: null
+decision_answer: null
 ---
 
 **THIS TICKET EXISTS TO TAKE THEM BACK DOWN.** It is the retirement the owner's ruling
