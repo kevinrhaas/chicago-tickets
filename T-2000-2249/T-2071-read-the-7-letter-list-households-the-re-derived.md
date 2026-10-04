@@ -1,7 +1,7 @@
 ---
 id: T-2071
 title: Read the 7 letter-list households the re-derived mint no longer holds and the 10 it re-mints under new ids, and write or refuse each, retiring their ledger rows
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1222
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 408
 claimed_by: run 10/4/2026, 6:35:43 AM CT
 blocked_on: null
 needs_bake: false
