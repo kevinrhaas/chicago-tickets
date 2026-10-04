@@ -34,3 +34,4 @@ When T-2087 was split (2026-10-04T17:18:19.326Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37219697905) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+In every opened street's corridor inside the settled town, past the recorded track's cleared shoulder, no plant taller than the town turf's own low layer stands (the cap is read off the zone record: the tallest of its matrix and ground species, 0.25 m today), except a sparse scatter of weeds kept along the lot line; the worked roadway's dirt grades into T-2085's turf with nothing tall standing in it. Before/after captures at both viewports at a road-edge pose and a storefront pose; triangles and draw calls at the in-town poses do not rise; check.sh green; the --for-diff smoke legs green; changelog entry; the reconstruction recorded as a liberty.
