@@ -1,7 +1,7 @@
 ---
 id: T-2073
 title: Read the letter-list cards whose mint-owned keys moved (arrival, returns, names, cohort flag) and write the mint's re-derivation onto them, retiring their ledger rows
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1222
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 400
 claimed_by: run 10/4/2026, 4:08:45 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T11:58:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37191054802
 claimed_at: 2026-10-04T09:08:45.885Z
 decision: null
