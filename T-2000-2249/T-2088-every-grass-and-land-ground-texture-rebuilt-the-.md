@@ -1,7 +1,7 @@
 ---
 id: T-2088
 title: Every grass and land ground texture rebuilt the road's way: the prairie tile, the sand, marsh and sedge ground, the bank soil and the yard canvases get T-1811's shared grain-and-normal tile with world-space multi-scale variation and recorded tones
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 8:40:42 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37206300067
+claimed_at: 2026-10-04T13:40:42.305Z
 decision: null
 decision_answer: null
 ---
