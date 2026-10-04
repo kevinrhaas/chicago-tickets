@@ -1,7 +1,7 @@
 ---
 id: T-2047
 title: Budgets, legacy surfaces and the arrival-jaunts acceptance report, with a STATUS section and named successors
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1272
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 377
 claimed_by: run 10/3/2026, 7:59:50 PM CT
 blocked_on: null
 needs_bake: false
