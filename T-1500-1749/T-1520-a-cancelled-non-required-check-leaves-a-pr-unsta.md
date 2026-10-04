@@ -1,7 +1,7 @@
 ---
 id: T-1520
 title: A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 1:46:18 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37181220574
+claimed_at: 2026-10-04T06:46:18.034Z
+decision: null
+decision_answer: null
 ---
 
 A cancelled non-required check leaves a PR `unstable` for ever: the gate is green,
