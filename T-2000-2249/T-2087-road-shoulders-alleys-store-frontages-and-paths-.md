@@ -1,7 +1,7 @@
 ---
 id: T-2087
 title: Road shoulders, alleys, store frontages and paths go to trodden earth grading into turf, replacing the prairie left in the 80-foot corridor beside the wagon track
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 12:16:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37219697905
+claimed_at: 2026-10-04T17:16:26.862Z
 decision: null
 decision_answer: null
 ---
