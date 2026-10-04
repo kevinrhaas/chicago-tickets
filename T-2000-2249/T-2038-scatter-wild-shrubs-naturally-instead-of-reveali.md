@@ -1,7 +1,7 @@
 ---
 id: T-2038
 title: Scatter wild shrubs naturally instead of revealing planted rows
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 364
 claimed_by: flora continuation 10/3/2026, 2:47:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T03:30:30Z
 claimed_run: null
 claimed_at: 2026-10-03T19:47:52.557Z
 decision: null
