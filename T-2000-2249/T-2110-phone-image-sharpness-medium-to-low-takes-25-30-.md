@@ -48,3 +48,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Recommendation:** (a) phone starts at Low; desktop stays at Medium — Phones are where the frame budget binds (the owner's lag report was on an iPhone), and Low is the single largest lever measured: 26-29% per frame against ~3-5% for the leaf-bump fix in #435. The softness is real but small at phone viewing distance, and anyone who prefers sharpness keeps it with one setting.
 
 **Asked:** 2026-10-04 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37238704416. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+## Finding — #435 (2026-10-04)
+
+The shader half is done in #435. Leaf cards now skip the bump, which they kept only 3.5 % of. Trees cost 12–13.5 % less, and the picture differs by at most 2 of 255 on 0.1 % of pixels. Trees' and the ground's fragment cost is read piece by piece in `docs/measurements/T-2110-fragment-cost.md`. No same-picture saving was found in the ground shader. The remaining levers there (bake the turf noises, a Lambert ground) change the picture, so they belong to the owner. **What is left once the owner answers:** make the phone's default `quality` in `hud.js` `DEFAULT_SETTINGS` follow his pick (only when the visitor has stored no choice), and re-read `measure_still_frame.mjs --gate`'s phone ceilings.
