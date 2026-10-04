@@ -58,5 +58,4 @@ other surfaces that the path still reaches on touch. Reading of 2026-10-04
   touch by T-2046).
 
 These belong to the HUD, drawer and card contracts, not the path's, so T-2046 did not
-change them. The acceptance report should name them as one successor (or fold them into
-an existing HUD/drawer ticket) rather than as a tail line.
+change them. Filed as **T-2061** once this report had merged.

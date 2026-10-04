@@ -30,3 +30,17 @@ The ticket budget refused this: the queue stands at 204 lines, at or over its ce
 > T-2046's layout reading measures these on the path but they belong to the HUD, drawer and card contracts; T-2047, the report that names this section's successors, merged while T-2046 was in flight, so no live ticket owns the finding
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## The reading (T-2046, 2026-10-04)
+
+`node tools/measure_arrival_layouts.mjs --layout <name>` lists these per layout under
+`elsewhere` in `docs/measurements/arrival-layouts.json`. It reports them and does not gate them:
+
+- HUD chips 38px tall at every touch layout (Start / Jaunts, Confidence, ▾ 26px wide, Walk,
+  Fly, theme, Menu). Raising them to 44 moves the wrapped HUD's foot from ~92px to ~104px,
+  so the jaunt panel's and the overlays' `100px` top at ≤900px must move with it.
+- The drawer's Back and Close 30x30; its eight tabs 37px wide at 320px.
+- The place card's inline `why` toggles 19x17 (its firm buttons went to 44 on touch in T-2046).
+
+**Acceptance:** move each surface into the tool's owned set (`owned` in
+`readLayout`) and all four layouts still PASS.
