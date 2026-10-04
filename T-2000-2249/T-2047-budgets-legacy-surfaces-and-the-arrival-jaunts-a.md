@@ -1,7 +1,7 @@
 ---
 id: T-2047
 title: Budgets, legacy surfaces and the arrival-jaunts acceptance report, with a STATUS section and named successors
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1272
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 377
 claimed_by: run 10/3/2026, 7:59:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T02:34:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37166472201
 claimed_at: 2026-10-04T00:59:50.420Z
 decision: null
