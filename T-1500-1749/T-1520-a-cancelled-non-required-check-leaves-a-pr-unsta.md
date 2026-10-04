@@ -1,7 +1,7 @@
 ---
 id: T-1520
 title: A cancelled non-required check leaves a PR unstable for ever: gate green, merge-ready passes over it, and the stuck reporter calls it moving — pr-stuck's third shape
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-21
 closed: null
-pr: null
+pr: 388
 claimed_by: run 10/4/2026, 1:46:18 AM CT
 blocked_on: null
 needs_bake: false
