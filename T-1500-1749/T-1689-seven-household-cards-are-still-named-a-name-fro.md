@@ -1,7 +1,7 @@
 ---
 id: T-1689
 title: Seven household cards are still NAMED a name from the post office's letter lists while their person's letter_list_only flag has been correctly cleared: the minting pass revises the name when it clears the flag, or says why the name stands
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 398
 claimed_by: run 10/4/2026, 3:25:21 AM CT
 blocked_on: null
 needs_bake: false
