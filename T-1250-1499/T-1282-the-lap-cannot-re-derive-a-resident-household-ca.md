@@ -1,7 +1,7 @@
 ---
 id: T-1282
 title: The lap cannot re-derive a resident household card, so any PR that conflicts on hh_*.json is refused whole
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 425
 claimed_by: run 10/4/2026, 2:08:54 PM CT
 blocked_on: null
 needs_bake: false
