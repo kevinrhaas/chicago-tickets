@@ -1,18 +1,24 @@
 ---
 id: T-0470
 title: Map the 15 August 1812 evacuation route and battle-location confidence zone
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
 effort: S
 legacy_id: null
+parent: null
 opened: 2026-09-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/3/2026, 11:14:01 PM CT
 blocked_on: null
 needs_bake: false
+closed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37176233882
+claimed_at: 2026-10-04T04:14:01.586Z
+decision: null
+decision_answer: null
 ---
 
 Georeference the Fort Dearborn evacuation route south along the 1812 lakeshore and represent the battle site as an evidence-weighted corridor/zone rather than one falsely exact pin. Reconcile the traditional 18th/Prairie-Calumet marker area with historical accounts, maps and later scholarship.
