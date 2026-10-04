@@ -57,8 +57,8 @@
 # --- triangles for it. In order: the ground carried over the built town, the turf drawn cheaply with Scene detail,
 # --- every grass and land texture rebuilt the road's way (owner, same day), kept lots, then road shoulders, alleys,
 # --- frontages and paths. Trees and the prairie outside the town are kept.
-# Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — walking lag first.
-T-2096 — Walking lag: measure a scripted walk through the town at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is the suspect), and hold the walk's p95 frame time
+# Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
+T-2096 — Lag while moving, in every mode and year: measure scripted walks, turns, flights and travel at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is one suspect), and hold the moving p95 frame time
 T-2099 — Lag in every view, not only when walking: read still-frame GPU and CPU time at every stand, the aerial and overview, arrival and jaunt views and the 1812 and 1904 scenes, attribute it by layer and pass, fix the largest causes, and hold a frame-time ceiling per tier
 T-2092 — Read T-2084's derived town ground at both viewports and every tier: T-0135's five stands and the three in-town poses with the flora share, the phone heap, and before/after captures at the three poses against the production tree
 T-2086 — Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant

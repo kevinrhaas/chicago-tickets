@@ -1,6 +1,6 @@
 ---
 id: T-2096
-title: Walking lag: measure a scripted walk through the town at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is the suspect), and hold the walk's p95 frame time
+title: Lag while moving, in every mode and year: measure scripted walks, turns, flights and travel at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is one suspect), and hold the moving p95 frame time
 state: open
 epic: RENDERING
 requested_by: owner
@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-Walking lag: measure a scripted walk through the town at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is the suspect), and hold the walk's p95 frame time.
+Lag while moving, in every mode and year: measure scripted walks, turns, flights and travel at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is one suspect), and hold the moving p95 frame time.
 
 ## FILED OVER THE BUDGET, AND HERE IS THE REASON
 
@@ -30,6 +30,8 @@ The ticket budget refused this: the queue stands at 188 lines, at or over its ce
 > Owner, 2026-10-04: walking is laggy now; asked for focused effort on lag at the top. No open ticket measures walking frame time; T-1969/T-1975/T-1976 set still-frame triangle ceilings only
 
 ## Why this ticket exists (owner, 2026-10-04)
+
+**Widened 2026-10-04 17:26Z** on the owner's "that lag is all over not just walking of course". This ticket now covers every kind of MOVING frame: walking, turning in place, flying, the overview and aerial camera moves, travel between destinations, and the 1812 and 1904 scenes. Still frames (standing, looking at a stand) are T-2099, the sibling directly below. The plant-rebuild theory below is one suspect among several, not the assumed answer.
 
 Kevin, 17:18 UTC: "when you walk it is laggy now. i think some of the flora tickets will help but maybe some focused effort on that will help as well." The town-ground tickets (T-2092, T-2086, T-2094, T-2095) cut what the town DRAWS. This ticket is about what WALKING costs, frame by frame, on desktop and on his iPhone (Chrome on iOS). Nothing open in the queue measures or owns it: T-1969 / T-1975 / T-1976 set triangle and draw-call ceilings at fixed stands, which is a still frame, not a walk.
 
@@ -41,7 +43,7 @@ Kevin, 17:18 UTC: "when you walk it is laggy now. i think some of the flora tick
 
 ## The work
 
-1. **Measure a walk, not a stand.** Add a tool (or extend `tools/measure_stand_budget.mjs`) that drives a fixed, scripted walk through the town (for example along Lake Street from Canal, then into a back lot, with a few turns) on the published mirror at 1280x800 and at 390x780. Run the mobile one under a CPU throttle that stands in for an iPhone (state the factor and why). Record the frame-time distribution (median, p95, p99, and the count of frames over 33 ms and 50 ms), long tasks, and per-layer time per frame (flora rebuild, trees, streets/yards lookups, render), at all three Scene detail tiers. Commit the reading under `docs/measurements/`.
+1. **Measure movement, not a stand.** Add a tool (or extend `tools/measure_stand_budget.mjs`; share it with T-2099) that drives fixed, scripted moves: a walk through the town (along Lake Street from Canal, then into a back lot), a slow 360° turn in place, a flight or aerial pan over the town, a travel between two destinations, and a walk in the 1812 and 1904 scenes, on the published mirror at 1280x800 and at 390x780. Run the mobile one under a CPU throttle that stands in for an iPhone (state the factor and why). Record the frame-time distribution (median, p95, p99, and the count of frames over 33 ms and 50 ms), long tasks, and per-layer time per frame (flora rebuild, trees, streets/yards lookups, render), at all three Scene detail tiers. Commit the reading under `docs/measurements/`.
 2. **Fix the biggest cause the reading names.** If it is the flora rebuild, the likely fixes are: spread the rebuild over several frames, since `rebuildAll` is already a generator and the boot path already iterates it; rebuild only the ring band that changed instead of the whole cone; cache `station()` answers per lattice cell, since the lattice is world-anchored; or move the deal off the main thread. Keep flora.js's invariants: the same plant at the same slot (world lattice, fixed seed) and no plant popping in inside the nine-metre verge (`tools/measure_near_verge.mjs`). If the reading names something else, fix that instead and say why.
 3. **Hold the gain.** Add the walk's p95 frame time (or over-budget frame count) as a measured number with a ceiling, the way T-1975 holds triangles, so the next layer that makes walking worse is caught before it merges.
 
