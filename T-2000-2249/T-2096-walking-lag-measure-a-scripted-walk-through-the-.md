@@ -1,7 +1,7 @@
 ---
 id: T-2096
 title: Lag while moving, in every mode and year: measure scripted walks, turns, flights and travel at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is one suspect), and hold the moving p95 frame time
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 12:48:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37221734625
+claimed_at: 2026-10-04T17:48:29.246Z
 decision: null
 decision_answer: null
 ---
