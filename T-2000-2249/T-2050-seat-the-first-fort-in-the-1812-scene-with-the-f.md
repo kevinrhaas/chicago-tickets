@@ -1,7 +1,7 @@
 ---
 id: T-2050
 title: Seat the first fort in the 1812 scene with the factor's house, gardens and outbuildings the draught places, gate that the 1803 and 1816 forts never resolve into one scene, and move the 1812-only features out of exclusions-only
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0469
 opened: 2026-10-03
-closed: null
+closed: 2026-10-04
 pr: 383
 claimed_by: run 10/3/2026, 10:12:49 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T05:25:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37173285313
 claimed_at: 2026-10-04T03:12:49.201Z
 decision: null
