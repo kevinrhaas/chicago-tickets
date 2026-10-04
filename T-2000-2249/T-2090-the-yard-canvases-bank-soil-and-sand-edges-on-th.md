@@ -1,7 +1,7 @@
 ---
 id: T-2090
 title: The yard canvases, bank soil and sand edges on the shared tiles: worn and trodden earth on the road's grit and tones, the dooryard green (and T-2085's turf) on the grass grain, no seam at a road, yard or zone edge
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2088
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 10:20:03 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37212443069
+claimed_at: 2026-10-04T15:20:03.044Z
 decision: null
 decision_answer: null
 ---
