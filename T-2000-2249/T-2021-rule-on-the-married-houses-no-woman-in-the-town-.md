@@ -1,7 +1,7 @@
 ---
 id: T-2021
 title: Rule on the married houses no woman in the town can be wife to: the whole layer reads about 299 adult men per 100 women against the model's 121-150 and the order book has no woman left in their cells — a re-cut that orders more women, or heads that stand alone
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1171
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 374
 claimed_by: run 10/3/2026, 6:42:52 PM CT
 blocked_on: null
 needs_bake: false
