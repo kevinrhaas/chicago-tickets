@@ -1,7 +1,7 @@
 ---
 id: T-2082
 title: Gate the 84-132 sensitivity answer: a step inserted between the second pass and after_the_pass.tail_from must not reopen it (T-1671's step 3)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2065
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 412
 claimed_by: run 10/4/2026, 9:47:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T16:05:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37210306187
 claimed_at: 2026-10-04T14:47:00.661Z
 decision: null
