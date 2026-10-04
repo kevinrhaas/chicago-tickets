@@ -1,7 +1,7 @@
 ---
 id: T-0471
 title: Build the 1812 lakeshore prairie, vegetation and landscape features
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-01
 closed: null
-pr: null
+pr: 385
 claimed_by: run 10/4/2026, 12:03:51 AM CT
 blocked_on: null
 needs_bake: true
