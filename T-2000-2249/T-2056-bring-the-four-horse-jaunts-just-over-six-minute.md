@@ -1,7 +1,7 @@
 ---
 id: T-2056
 title: Bring the four horse jaunts just over six minutes inside it: sunday-circuit 6.6, schoolday-errand 6.4, work-on-waterfront 6.2, materials-for-a-roof 6.1 min
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2041
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 375
 claimed_by: run 10/3/2026, 6:38:11 PM CT
 blocked_on: null
 needs_bake: false
