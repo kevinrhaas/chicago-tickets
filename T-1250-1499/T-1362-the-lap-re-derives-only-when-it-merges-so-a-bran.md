@@ -1,7 +1,7 @@
 ---
 id: T-1362
 title: The lap re-derives only when it merges, so a branch already current with dev stays stale against a gate dev just added: #1487 sat red on four manifest-owned files while the lap said 'already current — nothing to lap'
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-18
 closed: null
-pr: null
+pr: 401
 claimed_by: run 10/4/2026, 5:19:10 AM CT
 blocked_on: null
 needs_bake: false
