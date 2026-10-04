@@ -1,7 +1,7 @@
 ---
 id: T-2082
 title: Gate the 84-132 sensitivity answer: a step inserted between the second pass and after_the_pass.tail_from must not reopen it (T-1671's step 3)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2065
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 412
 claimed_by: run 10/4/2026, 9:47:00 AM CT
 blocked_on: null
 needs_bake: false
