@@ -1,7 +1,7 @@
 ---
 id: T-0470
 title: Map the 15 August 1812 evacuation route and battle-location confidence zone
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-01
-closed: null
+closed: 2026-10-04
 pr: 384
 claimed_by: run 10/3/2026, 11:14:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T06:53:21Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37176233882
 claimed_at: 2026-10-04T04:14:01.586Z
 decision: null
