@@ -1,7 +1,7 @@
 ---
 id: T-2108
 title: Read and attribute a still frame's time at every stand, tier, viewport and year (tools/measure_still_frame.mjs and the committed table)
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2099
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 426
 claimed_by: run 10/4/2026, 2:55:12 PM CT
 blocked_on: null
 needs_bake: false
