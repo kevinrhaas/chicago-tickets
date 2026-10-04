@@ -167,7 +167,10 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-1519 — smoke_budget --for-diff maps renderers/web/js/people.js to part 13, but the People directory's checks are guarded by stageOn(12), so a run that trusts the mapping runs the wrong leg
 T-1541 — The blocked band accumulates duplicate lines: T-1532 and T-1536 each stand twice in QUEUE.md band 8b, and T-1479 stood nowhere at all until a run's gate caught it
-T-1222 — Read the letter-list mint's 798-file drift and give the pass a check the gate can run at its own place in the pipeline
+T-2070 — The letter-list mint's --check compares what the mint owns, names in the file which keys a later pass owns and why, and runs green in check.sh against a shrink-only ledger of the drift still to be read
+T-2071 — Read the 7 letter-list households the re-derived mint no longer holds and the 10 it re-mints under new ids, and write or refuse each, retiring their ledger rows
+T-2072 — Read the 43 people a re-derived letter-list mint would add, on no committed card, and write or refuse each, retiring their ledger rows
+T-2073 — Read the letter-list cards whose mint-owned keys moved (arrival, returns, names, cohort flag) and write the mint's re-derivation onto them, retiring their ledger rows
 T-1341 — ticket.mjs --check REPAIRS the mirror it is checking, so on any branch that adds a ticket the gate's queue step mutates tickets.json while the pool reads it — the T-0856 check-that-repairs fault, one tool over
 T-1344 — Splitting a ticket that has a live branch puts two runs on one acceptance: the in-flight run retargets onto a child while the child also enters the queue for a fresh claim, and neither claim contends with the other
 T-1355 — The four derived research reports conflict on every merge: decide whether they come off the PR surface the way T-0937 and T-0938 took the board and the mirror, with the reading written down

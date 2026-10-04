@@ -1,7 +1,7 @@
 ---
 id: T-1222
 title: Read the letter-list mint's 798-file drift and give the pass a check the gate can run at its own place in the pipeline
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-04
 pr: null
 claimed_by: run 10/4/2026, 2:30:43 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T07:31:52.670Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37185846396
 claimed_at: 2026-10-04T07:30:43.353Z
 decision: null
