@@ -1,7 +1,7 @@
 ---
 id: T-0470
 title: Map the 15 August 1812 evacuation route and battle-location confidence zone
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-01
 closed: null
-pr: null
+pr: 384
 claimed_by: run 10/3/2026, 11:14:01 PM CT
 blocked_on: null
 needs_bake: false
