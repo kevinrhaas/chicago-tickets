@@ -165,7 +165,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
-T-1541 — The blocked band accumulates duplicate lines: T-1532 and T-1536 each stand twice in QUEUE.md band 8b, and T-1479 stood nowhere at all until a run's gate caught it
 T-2070 — The letter-list mint's --check compares what the mint owns, names in the file which keys a later pass owns and why, and runs green in check.sh against a shrink-only ledger of the drift still to be read
 T-2071 — Read the 7 letter-list households the re-derived mint no longer holds and the 10 it re-mints under new ids, and write or refuse each, retiring their ledger rows
 T-2072 — Read the 43 people a re-derived letter-list mint would add, on no committed card, and write or refuse each, retiring their ledger rows
