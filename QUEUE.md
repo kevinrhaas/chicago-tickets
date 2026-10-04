@@ -168,6 +168,7 @@ T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one bra
 T-2071 — Read the 7 letter-list households the re-derived mint no longer holds and the 10 it re-mints under new ids, and write or refuse each, retiring their ledger rows
 T-2072 — Read the 43 people a re-derived letter-list mint would add, on no committed card, and write or refuse each, retiring their ledger rows
 T-2073 — Read the letter-list cards whose mint-owned keys moved (arrival, returns, names, cohort flag) and write the mint's re-derivation onto them, retiring their ledger rows
+T-2076 — Two printings of one letter-list name reach the mint as two candidates and only the first-ranked is read: union them, or say per card why not (hh_palmer_n_h's surname-first reprint, hh_elliot_william and hh_wilson_john's letter counts read as name tokens; a trial union moves 85 cards)
 T-1355 — The four derived research reports conflict on every merge: decide whether they come off the PR surface the way T-0937 and T-0938 took the board and the mirror, with the reading written down
 T-1362 — The lap re-derives only when it merges, so a branch already current with dev stays stale against a gate dev just added: #1487 sat red on four manifest-owned files while the lap said 'already current — nothing to lap'
 T-2065 — The derived manifest's in-sequence lags T-1602 left: location_spend reads the reconciliation a later step rebuilds, the seating passes sit outside the manifest, and nothing gates the 84-132 answer
