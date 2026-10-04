@@ -1,7 +1,7 @@
 ---
 id: T-2086
 title: Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 416
 claimed_by: run 10/4/2026, 11:16:28 AM CT
 blocked_on: null
 needs_bake: false
