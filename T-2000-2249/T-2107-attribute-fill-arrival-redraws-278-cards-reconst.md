@@ -1,7 +1,7 @@
 ---
 id: T-2107
 title: attribute_fill_arrival redraws 278 cards' reconstructed arrival years when three known bounds move from 1835 to 1834 (a 0.2-point table shift): a seeded draw should move only the cards near a boundary, and this instability turns every evidence change into a town-wide fabric re-cut and bake (found by T-2076, PR #421)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 429
 claimed_by: run 10/4/2026, 2:43:25 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T22:34:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37229087604
 claimed_at: 2026-10-04T19:43:25.679Z
 decision: null
