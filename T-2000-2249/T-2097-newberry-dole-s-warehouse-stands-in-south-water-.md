@@ -1,7 +1,7 @@
 ---
 id: T-2097
 title: Newberry & Dole's warehouse stands in South Water Street at the Franklin crossing: set it back into the corner of the block west of Franklin and south of South Water, still facing the river, with its dock re-derived and a tree kept at the corner
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 12:25:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-04T17:25:26.444Z
 decision: null
 decision_answer: null
 ---
