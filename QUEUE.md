@@ -190,7 +190,6 @@ T-1670 — A counter trade and a works trade want different roofs and the regist
 T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
 T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of businesses, so every street's roofs_home_named reads 0 and roofs_home_inferred absorbs the named homes
 T-1684 — The W2-W4 mechanics' shops have no State or Dearborn face to take: no platted-block slot in the whole recipe is dealt onto a cross-street face, and every Lake-Randolph block reads at_capacity
-T-1689 — Seven household cards are still NAMED a name from the post office's letter lists while their person's letter_list_only flag has been correctly cleared: the minting pass revises the name when it clears the flag, or says why the name stands
 T-1691 — The Lake district's 44 empty dwelling, business and civic roofs: extend the roof-keeper layer past south_water and write a household onto every Lake-Randolph roof the platted deal seated one on, or say on the roof what refuses it
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
 T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
