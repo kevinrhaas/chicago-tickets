@@ -1,7 +1,7 @@
 ---
 id: T-1357
 title: Publish a versioned Chicago scene bundle from every successful scheduled asset bake
-state: claimed
+state: split
 epic: PIPELINE
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1356
 opened: 2026-09-18
-closed: null
+closed: 2026-10-04
 pr: null
 claimed_by: run 10/4/2026, 1:23:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T06:25:06.575Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37182479150
 claimed_at: 2026-10-04T06:23:23.058Z
 decision: null
