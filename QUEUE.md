@@ -207,7 +207,6 @@ T-1705 — Two tools still hand work to T-1202, which closed with T-1688 and is 
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-1721 — Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
 T-1723 — Newberry & Dole's warehouse: Bonnell puts it on the north bank east end eight weeks after the scene date, so the south-bank reading now rests on an untraceable dossier tag against a contemporaneous witness
-T-1724 — A yellow finish for the one house a source paints: Bonnell's small yellow house builds in unpainted clapboard because no archetype in this project has a yellow, and white was refused as a substitute
 T-1725 — The Pruyne-Kimberly partnership household split, and the two Kelsey identities merged: Bonnell puts one partner's residence on the north bank and spells Kelsey both ways in one sentence
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find
 T-1740 — In the 1904 scene the drawer's text panels are still the 1835 town's (What is not here, Residents, Businesses, Wildlife, Plants, Population, order book, jaunts, source index): gate them by the scene's layers list as T-1739 gated the drawn layers
