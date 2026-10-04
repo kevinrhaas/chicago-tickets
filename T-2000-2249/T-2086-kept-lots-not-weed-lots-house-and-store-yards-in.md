@@ -1,7 +1,7 @@
 ---
 id: T-2086
 title: Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 416
 claimed_by: run 10/4/2026, 11:16:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T17:57:37Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37215922897
 claimed_at: 2026-10-04T16:16:28.040Z
 decision: null
