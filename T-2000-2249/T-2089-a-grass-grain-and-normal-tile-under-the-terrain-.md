@@ -1,7 +1,7 @@
 ---
 id: T-2089
 title: A grass grain-and-normal tile under the terrain's prairie ground: blade-and-thatch relief lit by the sun in world space, shared by the ground strip and the worked bank through PRAIRIE_FRAGMENT, every zone's mean albedo held
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2088
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 411
 claimed_by: run 10/4/2026, 8:42:19 AM CT
 blocked_on: null
 needs_bake: false
