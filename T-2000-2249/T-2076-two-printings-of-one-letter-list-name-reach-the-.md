@@ -1,7 +1,7 @@
 ---
 id: T-2076
 title: Two printings of one letter-list name reach the mint as two candidates and only the first-ranked is read: union them, or say per card why not (hh_palmer_n_h's surname-first reprint, hh_elliot_william and hh_wilson_john's letter counts read as name tokens; a trial union moves 85 cards)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 7:02:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37200569548
+claimed_at: 2026-10-04T12:02:11.379Z
 decision: null
 decision_answer: null
 ---
