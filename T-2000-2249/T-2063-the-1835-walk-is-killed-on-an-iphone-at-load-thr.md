@@ -1,7 +1,7 @@
 ---
 id: T-2063
 title: The 1835 walk is killed on an iPhone at load: three town layers keep ~400 MB of build scratch alive
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 381
 claimed_by: run 10/3/2026, 10:55:35 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T04:37:04Z
 claimed_run: null
 claimed_at: 2026-10-04T03:55:35.764Z
 decision: null
