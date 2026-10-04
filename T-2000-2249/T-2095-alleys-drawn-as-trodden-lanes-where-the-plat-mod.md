@@ -1,7 +1,7 @@
 ---
 id: T-2095
 title: Alleys drawn as trodden lanes where the plat model places an alley strip, and the lot paths meeting the road shoulder with no seam
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2087
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 420
 claimed_by: run 10/4/2026, 12:19:56 PM CT
 blocked_on: null
 needs_bake: false
