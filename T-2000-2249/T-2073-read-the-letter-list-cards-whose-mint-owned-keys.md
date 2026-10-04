@@ -1,7 +1,7 @@
 ---
 id: T-2073
 title: Read the letter-list cards whose mint-owned keys moved (arrival, returns, names, cohort flag) and write the mint's re-derivation onto them, retiring their ledger rows
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1222
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 400
 claimed_by: run 10/4/2026, 4:08:45 AM CT
 blocked_on: null
 needs_bake: false
