@@ -1,7 +1,7 @@
 ---
 id: T-2083
 title: The changelog merge driver cannot read a double-quoted title, so every lap copies Kelsey's yellow-house note again: six copies on dev, four from one merge
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 6:39:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37199204419
+claimed_at: 2026-10-04T11:39:02.254Z
 decision: null
 decision_answer: null
 ---
