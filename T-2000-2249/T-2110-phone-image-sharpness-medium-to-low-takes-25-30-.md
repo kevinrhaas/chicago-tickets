@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37238704416
 claimed_at: 2026-10-04T22:08:35.476Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -36,3 +36,15 @@ When T-2099 was split (2026-10-04T19:55:00.196Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37222558236) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Decision needed
+
+**Question:** On a phone, Image sharpness Low (pixel ratio 1) draws a frame 26-29% faster than today's default Medium (1.5) at Light detail, but softer: log courses and roofs from the air lose crispness (side by side: docs/measurements/t-2110-sharpness/phone-light-low-medium.jpg in kevinrhaas/chicago). Should a phone start at Low? A visitor can already pick it in Settings, and a stored choice is never overridden.
+
+- (a) phone starts at Low; desktop stays at Medium
+- (b) keep Medium on every device (today)
+- (c) phone starts at Low only at Light detail; Medium at Balanced and Full
+
+**Recommendation:** (a) phone starts at Low; desktop stays at Medium — Phones are where the frame budget binds (the owner's lag report was on an iPhone), and Low is the single largest lever measured: 26-29% per frame against ~3-5% for the leaf-bump fix in #435. The softness is real but small at phone viewing distance, and anyone who prefers sharpness keeps it with one setting.
+
+**Asked:** 2026-10-04 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37238704416. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
