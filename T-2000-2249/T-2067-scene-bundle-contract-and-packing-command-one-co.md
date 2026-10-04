@@ -1,7 +1,7 @@
 ---
 id: T-2067
 title: Scene-bundle contract and packing command: one commit's scene packed with per-file checksums and a digest, a fresh-consumer verifier that refuses tampered, missing or extra files, and a twice-built reproducibility check
-state: review
+state: done
 epic: PIPELINE
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1357
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 386
 claimed_by: run 10/4/2026, 1:25:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T07:16:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37182479150
 claimed_at: 2026-10-04T06:25:18.081Z
 decision: null

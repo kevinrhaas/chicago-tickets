@@ -118,7 +118,6 @@ T-0472 — Build the 1812 interpretive scene with Indigenous-history review gate
 # --- 8. UNREAL DELIVERY — repeatable native builds, web parity, then streaming
 # Programme: T-1356; docs/unreal/README.md. Owner-ranked here on 2026-09-18.
 # Remote-workable preparation (still subject to the city-first ordering above):
-T-2067 — Scene-bundle contract and packing command: one commit's scene packed with per-file checksums and a digest, a fresh-consumer verifier that refuses tampered, missing or extra files, and a twice-built reproducibility check
 T-2068 — Attach the scene bundle to the scheduled content build and its manual dispatch, publish it with a discovery manifest and a latest-good pointer, and record a fresh-download receipt (a workflow change)
 # LOCAL / QUALIFIED UNREAL ONLY — NOT WORKABLE BY THE REMOTE WEB WORKER.
 # HOLD references below are comments, not claimable queue entries. Tickets are blocked-tech.
