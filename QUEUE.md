@@ -108,7 +108,6 @@ T-2021 — Rule on the married houses no woman in the town can be wife to: the w
 # --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
 # --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
 T-2055 — Bring the three long horse jaunts inside six minutes: from-prairie-to-town 9.4, boots-and-leather 7.7, soap-and-candles 7.1 min on horseback
-T-2056 — Bring the four horse jaunts just over six minutes inside it: sunday-circuit 6.6, schoolday-errand 6.4, work-on-waterfront 6.2, materials-for-a-roof 6.1 min
 T-2045 — Boot variants for the arrival and jaunts path: warm, throttled slow, essential and optional failure, reduced motion, background and resume, stale timing history, a failed catalog fetch
 T-2046 — Layouts for the arrival and jaunts path: 320 px, landscape, on-screen keyboard in the picker, safe areas, focus order, 44 px targets, no overlap among panels
 T-2047 — Budgets, legacy surfaces and the arrival-jaunts acceptance report, with a STATUS section and named successors

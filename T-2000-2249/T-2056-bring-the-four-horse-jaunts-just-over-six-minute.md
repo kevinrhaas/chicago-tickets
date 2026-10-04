@@ -1,7 +1,7 @@
 ---
 id: T-2056
 title: Bring the four horse jaunts just over six minutes inside it: sunday-circuit 6.6, schoolday-errand 6.4, work-on-waterfront 6.2, materials-for-a-roof 6.1 min
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2041
 opened: 2026-10-03
-closed: null
+closed: 2026-10-03
 pr: 375
 claimed_by: run 10/3/2026, 6:38:11 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T00:55:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37162225136
 claimed_at: 2026-10-03T23:38:11.657Z
 decision: null
