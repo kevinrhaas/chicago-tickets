@@ -1,7 +1,7 @@
 ---
 id: T-2078
 title: Write the 39 letter-list gains that pass every refusal read right; the population they add shrinks orders the re-family ledger landed moves in, and the order book faults (a move needs an open order to fill, persons/female/40_49/north/lodging/trade first) — T-1717's finding, which wants its ruling first
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2072
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 406
 claimed_by: run 10/4/2026, 10:52:09 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T17:44:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37214434268
 claimed_at: 2026-10-04T15:52:09.416Z
 decision: null
