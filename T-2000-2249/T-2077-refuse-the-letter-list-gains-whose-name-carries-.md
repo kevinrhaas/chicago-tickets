@@ -1,7 +1,7 @@
 ---
 id: T-2077
 title: Refuse the letter-list gains whose name carries the office's letter count and so were tested on the wrong family name: Peter Temple 3 (the identity master's Peter Temple), Chester Marshall 2 (refusal 7), Miranda Miner 2 (refusal 8), Mr. Roult 2 (refusal 5), with Salmon Rutherford 3's re-mint
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2072
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 4:22:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37191087956
+claimed_at: 2026-10-04T09:22:56.421Z
 decision: null
 decision_answer: null
 ---
