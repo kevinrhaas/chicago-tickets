@@ -1,7 +1,7 @@
 ---
 id: T-2102
 title: Lot fences enclose the whole lot or none: no half-built yard fences open to the street
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 428
 claimed_by: run 10/4/2026, 1:59:03 PM CT
 blocked_on: null
 needs_bake: false
