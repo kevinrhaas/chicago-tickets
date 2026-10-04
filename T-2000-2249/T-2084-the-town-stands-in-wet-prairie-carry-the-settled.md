@@ -1,7 +1,7 @@
 ---
 id: T-2084
 title: The town stands in wet prairie: carry the settled-town ground from the 1835 forks polygon over every built block, street corridor and alley by a derived extent, trees held, with a before reading at three in-town poses
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 9:03:15 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37205826122
+claimed_at: 2026-10-04T14:03:15.243Z
 decision: null
 decision_answer: null
 ---
