@@ -1,7 +1,7 @@
 ---
 id: T-2112
 title: Gates in the town's fences: every fenced street front and yard gateway gets a period gate or opening, varied by lot
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 4:58:42 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-04T21:58:42.758Z
 decision: null
 decision_answer: null
 ---
