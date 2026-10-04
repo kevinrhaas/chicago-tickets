@@ -1,7 +1,7 @@
 ---
 id: T-1740
 title: In the 1904 scene the drawer's text panels are still the 1835 town's (What is not here, Residents, Businesses, Wildlife, Plants, Population, order book, jaunts, source index): gate them by the scene's layers list as T-1739 gated the drawn layers
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-10-04
 pr: 397
 claimed_by: run 10/4/2026, 4:21:42 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T10:48:22Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37191735855
 claimed_at: 2026-10-04T09:21:43.023Z
 decision: null
