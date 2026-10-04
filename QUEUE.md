@@ -55,7 +55,8 @@
 # that row. Add a finding to the ticket being worked before filing anything. Owner: "move loop follow-ups to band 9".
 # --- TOP (owner, 2026-10-04): the town's ground reads as kept, lived-in ground, not wet prairie, and the town costs fewer
 # --- triangles for it. In order: the ground carried over the built town, the turf drawn cheaply with Scene detail,
-# --- kept lots, then road shoulders, alleys, frontages and paths. Trees and the prairie outside the town are kept.
+# --- every grass and land texture rebuilt the road's way (owner, same day), kept lots, then road shoulders, alleys,
+# --- frontages and paths. Trees and the prairie outside the town are kept.
 T-2084 — The town stands in wet prairie: carry the settled-town ground from the 1835 forks polygon over every built block, street corridor and alley by a derived extent, trees held, with a before reading at three in-town poses
 T-2085 — Short town turf drawn cheaply: one reusable seeded 1835 turf texture under the settled-town ground, near tufts only on turf, the Scene detail tiers made town-aware, and the full and balanced ceilings taken back down
 T-2088 — Every grass and land ground texture rebuilt the road's way: the prairie tile, the sand, marsh and sedge ground, the bank soil and the yard canvases get T-1811's shared grain-and-normal tile with world-space multi-scale variation and recorded tones
