@@ -35,3 +35,17 @@ When T-2065 was split (2026-10-04T10:53:32.875Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37196588788) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Acceptance as worked (2026-10-04, steward run)
+
+1. `seat_platted_ground_1835`, `seat_off_plat_ground_1835` and `seat_known_1835` are steps of
+   `tools/derived_manifest.json`, each resolving its own outputs, with `writer_inventory.json`
+   saying `manifest` for all three and `audit_manifest_coverage.mjs` green.
+2. `_must_reproduce`: on clean `dev`, each `--build` moves no byte.
+3. The order is MEASURED on a merged-tree shape: the chain's seven outputs taken from before
+   #396, every input at `dev`, the manifest's own steps run from the chain through
+   `seat_trade_roofs_1835.py` and then the whole `second_pass` — the tree comes back
+   byte-identical to `dev`. Hand-off order from `seat_known_1835` is reported as refusing, with
+   the refusal quoted, rather than adopted.
+4. The cycle (the platted deal reads the address book `seat_known` rebuilds below it) is a
+   `second_pass` entry with `reads_rebuilt`, and `rederive.mjs --check`/`--self-test` pass.
