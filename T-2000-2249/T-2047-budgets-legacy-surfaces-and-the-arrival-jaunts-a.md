@@ -42,3 +42,21 @@ section, that read on dev the four things this piece owns and leave nothing rela
 Each budget that fails is either fixed here (if the section caused it) or leaves as a
 named successor with its measurement written into it. Budgets are not raised.
 
+
+## Finding from T-2046 (layouts) — a successor for the report to name
+
+`tools/measure_arrival_layouts.mjs` gates the controls the path owns (the welcome, the
+jaunt panel, the context card) at 44px and **reports, without gating**, the ones owned by
+other surfaces that the path still reaches on touch. Reading of 2026-10-04
+(`docs/measurements/arrival-layouts.json`, `elsewhere` per layout):
+
+- HUD chips are 38px tall at every touch layout (Start / Jaunts, Confidence, ▾ 26px wide,
+  Walk, Fly, theme, Menu). Raising them to 44 moves the wrapped HUD's foot from ~92px to
+  ~104px, so the jaunt panel's and the overlays' `100px` top at ≤900px moves with it.
+- The drawer's Back and Close are 30x30; its eight tabs are 37px wide at 320px.
+- The place card's inline `why` toggles are 19x17 (its firm buttons were raised to 44 on
+  touch by T-2046).
+
+These belong to the HUD, drawer and card contracts, not the path's, so T-2046 did not
+change them. The acceptance report should name them as one successor (or fold them into
+an existing HUD/drawer ticket) rather than as a tail line.
