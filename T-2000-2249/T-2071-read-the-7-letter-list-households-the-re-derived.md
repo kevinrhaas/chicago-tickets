@@ -1,7 +1,7 @@
 ---
 id: T-2071
 title: Read the 7 letter-list households the re-derived mint no longer holds and the 10 it re-mints under new ids, and write or refuse each, retiring their ledger rows
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1222
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 3:49:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37189996915
+claimed_at: 2026-10-04T08:49:02.331Z
 decision: null
 decision_answer: null
 ---
