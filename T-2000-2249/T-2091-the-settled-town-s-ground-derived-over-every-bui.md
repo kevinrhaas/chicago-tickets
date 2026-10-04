@@ -1,7 +1,7 @@
 ---
 id: T-2091
 title: The settled town's ground derived over every built block, street corridor and alley from the plat, the standing footprints and the forks seed, gated in check.sh, trees held, with the in-town flora reading before and after at 1280x800
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2084
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 410
 claimed_by: run 10/4/2026, 9:32:43 AM CT
 blocked_on: null
 needs_bake: false
