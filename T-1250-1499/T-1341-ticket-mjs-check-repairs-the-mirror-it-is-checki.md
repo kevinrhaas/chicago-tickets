@@ -1,7 +1,7 @@
 ---
 id: T-1341
 title: ticket.mjs --check REPAIRS the mirror it is checking, so on any branch that adds a ticket the gate's queue step mutates tickets.json while the pool reads it — the T-0856 check-that-repairs fault, one tool over
-state: claimed
+state: split
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-18
-closed: null
+closed: 2026-10-04
 pr: null
 claimed_by: run 10/4/2026, 2:32:40 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T07:35:30.440Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37185951501
 claimed_at: 2026-10-04T07:32:40.906Z
 decision: null
