@@ -1,7 +1,7 @@
 ---
 id: T-1282
 title: The lap cannot re-derive a resident household card, so any PR that conflicts on hh_*.json is refused whole
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 2:08:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37226965603
+claimed_at: 2026-10-04T19:08:54.539Z
+decision: null
+decision_answer: null
 ---
 
 `tools/derived_manifest.json` enumerates, deliberately rather than by glob, every generated
