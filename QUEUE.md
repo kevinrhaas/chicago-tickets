@@ -370,4 +370,3 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2098 — South Water's river walk stops ~30 m out and grows back as you approach: the working bank's biased depth hides its boards
