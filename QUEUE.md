@@ -60,7 +60,6 @@
 # Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
 T-2105 — Moving frames measured (walk, turn, flight at both viewports and every tier, phone at 4x CPU throttle) and flora's rebuild halved by an exact floor index and cell cull, with a per-tier moving-frame ceiling
 T-2106 — Spread the flora rebuild across frames so no turn or step hitch remains on the phone profile (a turn at light still reads 44 ms p95 throttled after T-2096's first half), read travel and the 1812 and 1904 walks, and run the moving-frame gate in a CI leg
-T-2108 — Read and attribute a still frame's time at every stand, tier, viewport and year (tools/measure_still_frame.mjs and the committed table)
 T-2109 — 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
 T-2110 — Phone Image sharpness Medium to Low takes 25-30% off a still frame: ask the owner whether a phone should boot at Low, and read trees' and terrain's fragment cost in 1835 for a cheaper shader that draws the same picture
 T-2111 — Read the arrival screen and a jaunt view, and hold a still-frame time ceiling per tier at the worst stand beside T-1975's triangle ceilings

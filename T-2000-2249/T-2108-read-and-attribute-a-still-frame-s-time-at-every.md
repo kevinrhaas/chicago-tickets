@@ -1,7 +1,7 @@
 ---
 id: T-2108
 title: Read and attribute a still frame's time at every stand, tier, viewport and year (tools/measure_still_frame.mjs and the committed table)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2099
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 426
 claimed_by: run 10/4/2026, 2:55:12 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T21:29:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37222558236
 claimed_at: 2026-10-04T19:55:12.576Z
 decision: null
