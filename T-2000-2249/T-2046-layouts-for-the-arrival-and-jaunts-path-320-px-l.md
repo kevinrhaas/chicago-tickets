@@ -1,7 +1,7 @@
 ---
 id: T-2046
 title: Layouts for the arrival and jaunts path: 320 px, landscape, on-screen keyboard in the picker, safe areas, focus order, 44 px targets, no overlap among panels
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
