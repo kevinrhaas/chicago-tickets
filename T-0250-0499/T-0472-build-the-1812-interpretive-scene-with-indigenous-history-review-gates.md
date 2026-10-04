@@ -1,7 +1,7 @@
 ---
 id: T-0472
 title: Build the 1812 interpretive scene with Indigenous-history review gates
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-01
 closed: null
-pr: null
+pr: 387
 claimed_by: run 10/4/2026, 1:18:59 AM CT
 blocked_on: T-0470
 needs_bake: false
