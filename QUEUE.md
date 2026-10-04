@@ -180,7 +180,6 @@ T-1118 — A bake whose ref merged mid-run still spends the whole bake before th
 T-0672 — The three ceilings were raised for one parcel on 2026-09-03 and light's floor was spent: re-measure once #432 lands and take every tier back down
 T-0438 — The letter-list cohort is 2.54 MiB of the published tree, and it is now the largest single item in it
 T-0776 — A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible
-T-0829 — A repeated string in a provenance or coverage list is the same merge artefact as a repeated id, and nothing asserts it
 T-0239 — Nothing tests the party-line note's prose against the placement it describes
 T-0253 — May an invented building stand on the river margin of a platted street corridor
 T-0285 — An asset carrying its own AO map cannot batch with the town: +2 draw calls for one building
@@ -369,6 +368,5 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2103 — The far treeline still draws a moving blob down South Water and a slab from the air
 T-2112 — Gates in the town's fences: every fenced street front and yard gateway gets a period gate or opening, varied by lot
 T-2114 — Jaunts: Next Stop sat greyed out at a stop that needs a choice, with the options hidden below the fold on a phone

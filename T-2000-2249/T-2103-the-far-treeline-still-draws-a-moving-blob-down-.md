@@ -1,7 +1,7 @@
 ---
 id: T-2103
 title: The far treeline still draws a moving blob down South Water and a slab from the air
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 423
 claimed_by: run 10/4/2026, 2:03:03 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T23:44:08Z
 claimed_run: null
 claimed_at: 2026-10-04T19:03:03.275Z
 decision: null
