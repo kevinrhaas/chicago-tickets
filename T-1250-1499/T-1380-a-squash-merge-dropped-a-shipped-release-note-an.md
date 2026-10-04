@@ -1,7 +1,7 @@
 ---
 id: T-1380
 title: A squash merge dropped a shipped release note and re-used its version: v971 named 'Six dates that would not stick' on dev at 06:06 and names 'How many people each tavern and boarding house could sleep' at 06:31, and the first entry is gone from the file the launcher and Manager parse
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-19
 closed: null
-pr: null
+pr: 427
 claimed_by: run 10/4/2026, 1:57:05 PM CT
 blocked_on: null
 needs_bake: false
