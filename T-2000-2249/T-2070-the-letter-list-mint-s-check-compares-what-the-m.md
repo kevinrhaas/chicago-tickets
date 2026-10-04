@@ -1,7 +1,7 @@
 ---
 id: T-2070
 title: The letter-list mint's --check compares what the mint owns, names in the file which keys a later pass owns and why, and runs green in check.sh against a shrink-only ledger of the drift still to be read
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1222
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 2:31:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37185846396
+claimed_at: 2026-10-04T07:31:57.195Z
 decision: null
 decision_answer: null
 ---
