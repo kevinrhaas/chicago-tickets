@@ -1,7 +1,7 @@
 ---
 id: T-2109
 title: 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2099
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: run 10/4/2026, 3:44:48 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37231030032
-claimed_at: 2026-10-04T20:44:48.879Z
+claimed_run: null
+claimed_at: null
 decision: pending
 decision_answer: null
 ---
@@ -49,3 +49,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Recommendation:** (a) clear at balanced and light; full keeps today's glass (looks almost the same as today) — Clear halves the frame and changes the least in the capture. Keeping transmission at full leaves the inspection model's best glass where the frame budget is spent on purpose. Shipped in #431 behind ?glass=, default unchanged until you choose.
 
 **Asked:** 2026-10-04 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37231030032. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+## Finding — #431 (2026-10-04)
+
+Both candidates shipped behind `?glass=clear|dark` in #431 (`renderers/web/js/glass.js`), with the default unchanged. The reading and the capture are in `docs/measurements/T-2109-glessner-glass.md`: either pane halves the 1904 landing frame at balanced and light on both viewports. **What is left once the owner answers:** change `DEFAULT_GLASS` (or make it per tier) to his pick, and update `tools/check_glass_modes.mjs` to match. The claim was released when the question was asked, so the run that ships his answer can take it.
