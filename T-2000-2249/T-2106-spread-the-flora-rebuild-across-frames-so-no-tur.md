@@ -1,7 +1,7 @@
 ---
 id: T-2106
 title: Spread the flora rebuild across frames so no turn or step hitch remains on the phone profile (a turn at light still reads 44 ms p95 throttled after T-2096's first half), read travel and the 1812 and 1904 walks, and run the moving-frame gate in a CI leg
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2096
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 436
 claimed_by: run 10/4/2026, 4:54:34 PM CT
 blocked_on: null
 needs_bake: false
