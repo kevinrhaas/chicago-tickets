@@ -1,7 +1,7 @@
 ---
 id: T-2075
 title: step_isolation classifies a measured write by git check-ignore rather than a hand-kept exempt list, and records wrote vs wrote_ignored (folded in from T-1345)
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1341
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 394
 claimed_by: run 10/4/2026, 3:22:25 AM CT
 blocked_on: null
 needs_bake: false
