@@ -1,7 +1,7 @@
 ---
 id: T-1679
 title: Haddock's Tavern may stand one lot east of its seat: five printings of G. Spring's notice put it one lot west of plat lot 7 of block 16, and mansion_house's own position declares a lot's width of slack
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-04
 pr: 396
 claimed_by: run 10/4/2026, 2:21:06 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T09:17:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37185337889
 claimed_at: 2026-10-04T07:21:06.777Z
 decision: null
