@@ -1,7 +1,7 @@
 ---
 id: T-1362
 title: The lap re-derives only when it merges, so a branch already current with dev stays stale against a gate dev just added: #1487 sat red on four manifest-owned files while the lap said 'already current — nothing to lap'
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 5:19:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37194803613
+claimed_at: 2026-10-04T10:19:10.214Z
+decision: null
+decision_answer: null
 ---
 
 The lap re-derives only when it merges, so a branch already current with dev stays stale against a gate dev just added: #1487 sat red on four manifest-owned files while the lap said 'already current — nothing to lap'.
