@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37231030032
 claimed_at: 2026-10-04T20:44:48.879Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -36,3 +36,16 @@ When T-2099 was split (2026-10-04T19:55:00.196Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37222558236) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Decision needed
+
+**Question:** 1904's Glessner glass costs half of every frame. Two cheaper panes are on the dev preview: /4d/dev/?year=1904&glass=clear and &glass=dark (side by side: docs/measurements/t-2109-glass/desktop-transmission-clear-dark.jpg). Either one halves the 1904 landing frame (desktop 9.1 s to 4.4 s, phone 6.0 s to 2.9 s on the test machine). Which should ship by default, and at which Scene detail settings?
+
+- (a) clear at balanced and light; full keeps today's glass (looks almost the same as today)
+- (b) clear at every setting
+- (c) dark at balanced and light (every pane a darker plate)
+- (d) keep today's glass everywhere
+
+**Recommendation:** (a) clear at balanced and light; full keeps today's glass (looks almost the same as today) — Clear halves the frame and changes the least in the capture. Keeping transmission at full leaves the inspection model's best glass where the frame budget is spent on purpose. Shipped in #431 behind ?glass=, default unchanged until you choose.
+
+**Asked:** 2026-10-04 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37231030032. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
