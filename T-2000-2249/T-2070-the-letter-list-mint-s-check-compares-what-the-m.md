@@ -1,7 +1,7 @@
 ---
 id: T-2070
 title: The letter-list mint's --check compares what the mint owns, names in the file which keys a later pass owns and why, and runs green in check.sh against a shrink-only ledger of the drift still to be read
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1222
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 393
 claimed_by: run 10/4/2026, 2:31:57 AM CT
 blocked_on: null
 needs_bake: false
