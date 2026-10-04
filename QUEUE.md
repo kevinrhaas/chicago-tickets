@@ -59,6 +59,7 @@
 # --- frontages and paths. Trees and the prairie outside the town are kept.
 # Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — walking lag first.
 T-2096 — Walking lag: measure a scripted walk through the town at both viewports and every tier on a throttled phone profile, fix the largest per-frame cost it names (the flora lattice rebuilt synchronously every 0.6 m and every small turn is the suspect), and hold the walk's p95 frame time
+T-2099 — Lag in every view, not only when walking: read still-frame GPU and CPU time at every stand, the aerial and overview, arrival and jaunt views and the 1812 and 1904 scenes, attribute it by layer and pass, fix the largest causes, and hold a frame-time ceiling per tier
 T-2092 — Read T-2084's derived town ground at both viewports and every tier: T-0135's five stands and the three in-town poses with the flora share, the phone heap, and before/after captures at the three poses against the production tree
 T-2086 — Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant
 T-2097 — Newberry & Dole's warehouse stands in South Water Street at the Franklin crossing: set it back into the corner of the block west of Franklin and south of South Water, still facing the river, with its dock re-derived and a tree kept at the corner
