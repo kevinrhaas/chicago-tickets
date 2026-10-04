@@ -1,7 +1,7 @@
 ---
 id: T-0471
 title: Build the 1812 lakeshore prairie, vegetation and landscape features
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-01
-closed: null
+closed: 2026-10-04
 pr: 385
 claimed_by: run 10/4/2026, 12:03:51 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-04T06:19:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37178033956
 claimed_at: 2026-10-04T05:03:51.569Z
 decision: null
