@@ -1,7 +1,7 @@
 ---
 id: T-2076
 title: Two printings of one letter-list name reach the mint as two candidates and only the first-ranked is read: union them, or say per card why not (hh_palmer_n_h's surname-first reprint, hh_elliot_william and hh_wilson_john's letter counts read as name tokens; a trial union moves 85 cards)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 421
 claimed_by: run 10/4/2026, 1:28:59 PM CT
 blocked_on: "T-2071 — build the union over T-2071's mint-onto-the-standing-card rule (PR #402), which rewrites the same record()/build() path and the same three cards"
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T20:55:40Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37224423316
 claimed_at: 2026-10-04T18:28:59.237Z
 decision: null
