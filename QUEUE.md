@@ -172,6 +172,7 @@ T-2076 — Two printings of one letter-list name reach the mint as two candidate
 T-2081 — Place the seating chain (seat_known_1835 -> seat_platted_ground_1835 -> seat_off_plat_ground_1835 -> build_order_book_1835) in the manifest in hand-off order, measured under _must_reproduce, or say in writer_inventory.json why it cannot be — seat_known_1835 reads the order book and both seat files back, so the chain is a cycle and wants its own measured pass
 T-2082 — Gate the 84-132 sensitivity answer: a step inserted between the second pass and after_the_pass.tail_from must not reopen it (T-1671's step 3)
 T-1380 — A squash merge dropped a shipped release note and re-used its version: v971 named 'Six dates that would not stick' on dev at 06:06 and names 'How many people each tavern and boarding house could sleep' at 06:31, and the first entry is gone from the file the launcher and Manager parse
+T-2083 — The changelog merge driver cannot read a double-quoted title, so every lap copies Kelsey's yellow-house note again: six copies on dev, four from one merge
 T-1282 — The lap cannot re-derive a resident household card, so any PR that conflicts on hh_*.json is refused whole
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
 T-0672 — The three ceilings were raised for one parcel on 2026-09-03 and light's floor was spent: re-measure once #432 lands and take every tier back down
