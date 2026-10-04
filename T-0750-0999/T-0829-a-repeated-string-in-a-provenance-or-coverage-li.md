@@ -1,7 +1,7 @@
 ---
 id: T-0829
 title: A repeated string in a provenance or coverage list is the same merge artefact as a repeated id, and nothing asserts it
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 5:38:44 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37240555153
+claimed_at: 2026-10-04T22:38:44.661Z
+decision: null
+decision_answer: null
 ---
 
 A repeated string in a provenance or coverage list is the same merge artefact as a repeated id, and nothing asserts it.
