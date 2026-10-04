@@ -1,7 +1,7 @@
 ---
 id: T-2065
 title: The derived manifest's in-sequence lags T-1602 left: location_spend reads the reconciliation a later step rebuilds, the seating passes sit outside the manifest, and nothing gates the 84-132 answer
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-04
 pr: null
 claimed_by: run 10/4/2026, 5:52:08 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T10:53:38.328Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37196588788
 claimed_at: 2026-10-04T10:52:08.625Z
 decision: null
