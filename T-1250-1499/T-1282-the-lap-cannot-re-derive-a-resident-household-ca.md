@@ -1,7 +1,7 @@
 ---
 id: T-1282
 title: The lap cannot re-derive a resident household card, so any PR that conflicts on hh_*.json is refused whole
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-04
 pr: 425
 claimed_by: run 10/4/2026, 2:08:54 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T19:57:36Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37226965603
 claimed_at: 2026-10-04T19:08:54.539Z
 decision: null
