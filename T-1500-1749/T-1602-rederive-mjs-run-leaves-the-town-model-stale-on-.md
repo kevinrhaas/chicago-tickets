@@ -1,7 +1,7 @@
 ---
 id: T-1602
 title: rederive.mjs --run leaves the town model stale on any branch that adds residents: model_town_1835.py reads the sidecar compile_scene rebuilds after it, and the second pass does not carry it, so a clean full rebuild still fails check.sh
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-10-03
 pr: 382
 claimed_by: run 10/3/2026, 10:13:25 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T04:18:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37173280386
 claimed_at: 2026-10-04T03:13:25.954Z
 decision: null
