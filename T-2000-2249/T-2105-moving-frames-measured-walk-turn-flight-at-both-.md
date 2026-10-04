@@ -1,7 +1,7 @@
 ---
 id: T-2105
 title: Moving frames measured (walk, turn, flight at both viewports and every tier, phone at 4x CPU throttle) and flora's rebuild halved by an exact floor index and cell cull, with a per-tier moving-frame ceiling
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2096
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 424
 claimed_by: run 10/4/2026, 2:12:45 PM CT
 blocked_on: null
 needs_bake: false
