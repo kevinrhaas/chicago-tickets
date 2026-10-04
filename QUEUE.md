@@ -364,3 +364,4 @@ T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2084 — The town stands in wet prairie: carry the settled-town ground from the 1835 forks polygon over every built block, street corridor and alley by a derived extent, trees held, with a before reading at three in-town poses
 T-2085 — Short town turf drawn cheaply: one reusable seeded 1835 turf texture under the settled-town ground, near tufts only on turf, the Scene detail tiers made town-aware, and the full and balanced ceilings taken back down
 T-2086 — Kept lots, not weed lots: house and store yards in short grazed turf with worn paths, weeds and flowers moved to fence lines, corners and dooryard beds, vacant lots left as flowering prairie remnant
+T-2087 — Road shoulders, alleys, store frontages and paths go to trodden earth grading into turf, replacing the prairie left in the 80-foot corridor beside the wagon track
