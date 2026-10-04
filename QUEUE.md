@@ -62,7 +62,6 @@ T-2106 — Spread the flora rebuild across frames so no turn or step hitch remai
 T-2109 — 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
 #   ? T-2109 DECISION: 1904's Glessner glass costs half of every frame. Two cheaper panes are on the dev preview: /4d/dev/?year=1904&glass=clear and &glass=dark (side by side: docs/measurements/t-2109-glass/desktop-transmission-clear-dark.jpg). Either one halves the 1904 landing frame (desktop 9.1 s to 4.4 s, phone 6.0 s to 2.9 s on the test machine). Which should ship by default, and at which Scene detail settings? — (a) clear at balanced and light; full keeps today's glass (looks almost the same as today)  (b) clear at every setting  (c) dark at balanced and light (every pane a darker plate)  (d) keep today's glass everywhere — recommended: (a)
 T-2110 — Phone Image sharpness Medium to Low takes 25-30% off a still frame: ask the owner whether a phone should boot at Low, and read trees' and terrain's fragment cost in 1835 for a cheaper shader that draws the same picture
-T-2111 — Read the arrival screen and a jaunt view, and hold a still-frame time ceiling per tier at the worst stand beside T-1975's triangle ceilings
 T-2104 — Storefront header boards flicker as you turn: the fascia, pilasters and sills are built with their street face missing
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop

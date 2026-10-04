@@ -1,7 +1,7 @@
 ---
 id: T-2111
 title: Read the arrival screen and a jaunt view, and hold a still-frame time ceiling per tier at the worst stand beside T-1975's triangle ceilings
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2099
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 432
 claimed_by: run 10/4/2026, 4:33:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T22:49:21Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37236351393
 claimed_at: 2026-10-04T21:33:40.341Z
 decision: null
