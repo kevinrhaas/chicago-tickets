@@ -1,7 +1,7 @@
 ---
 id: T-1691
 title: The Lake district's 44 empty dwelling, business and civic roofs: extend the roof-keeper layer past south_water and write a household onto every Lake-Randolph roof the platted deal seated one on, or say on the roof what refuses it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-04
 pr: 409
 claimed_by: run 10/4/2026, 8:10:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-04T14:42:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37204469691
 claimed_at: 2026-10-04T13:10:24.857Z
 decision: null
