@@ -1,7 +1,7 @@
 ---
 id: T-2117
 title: check.sh no longer fits a steward run's 600 s on four cores: 763 of 774 steps done at 595 s, 2,288 CPU-seconds, slowest steps derive_resident_roles --check 168 s and placement_policy_1835 --self-test 162 s
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 476
 claimed_by: run 10/5/2026, 7:23:54 AM CT
 blocked_on: null
 needs_bake: false
