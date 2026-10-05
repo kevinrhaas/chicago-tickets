@@ -1,7 +1,7 @@
 ---
 id: T-2079
 title: The Sources topic reads sidecars/1835/sources/ in every scene: compile a per-scene source index so 1904's Sources lists the sources its own records cite, not the 1835 catalog
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 5:25:45 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37296146152
+claimed_at: 2026-10-05T10:25:45.336Z
 decision: null
 decision_answer: null
 ---
