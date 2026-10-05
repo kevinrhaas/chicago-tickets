@@ -175,7 +175,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
 T-2127 — The AO unwrap leaves 68.9 per cent of every atlas empty: make one packing change and re-measure occupancy and bytes across a representative set of masters, with texel density on a named wall held (T-0286's half of T-0285)
-T-1669 — The street-face business deal and the platted household deal take from one pool of roofs and neither can see the other's picks: 40 seats owed, and a re-order of either moves the count with nobody deciding it
 T-1670 — A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
 T-1653 — bake.sh --only <one-id> still runs web_derivatives.sh over all 422 assets, so a one-roof re-bake costs ~18 minutes of a run's foreground budget
 T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of businesses, so every street's roofs_home_named reads 0 and roofs_home_inferred absorbs the named homes
