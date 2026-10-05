@@ -1,7 +1,7 @@
 ---
 id: T-2134
 title: Deal the W2-W4 mechanics' shops onto a Dearborn face with the cross-street term: State is a light street and refuses a workshop, and every Dearborn corner lot of the blocks whose best face Dearborn is will be built or reserved once T-2130 lands, so first decide whether a corner lot's side street may carry a second principal roof, then deal, seat and bake
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1684
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 481
 claimed_by: run 10/5/2026, 8:31:38 AM CT
 blocked_on: null
 needs_bake: false
