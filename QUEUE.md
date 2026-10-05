@@ -176,7 +176,6 @@ T-2134 — Deal the W2-W4 mechanics' shops onto a Dearborn face with the cross-s
 T-2141 — The street-face adopter reads T-2134's four side-street workshops on Dearborn as yard buildings, so no documented Dearborn maker can be adopted into one
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-2142 — Resolve the register's 'Newberry & Dole's store' anchor to dole_warehouse_south and seat D. Graves, Wm. H. Taylor and W. H. Brown off it
-T-2139 — The two Kelsey directory identities, ruled: Bonnell prints Parnick twice and never Patrick, so the committed 'both ways in one sentence' is corrected, and Fergus 1843's Patrick is merged with Norris 1844's Parnick on the trade and the block they share
 T-2140 — Split the Pruyne-Kimberly partnership household: Dr Kimberly to a household of his own (carrying the Vermont the arrival note holds for him), seated on kimberly_residence on Bonnell's walk, Pruyne staying with the south-bank store
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find
 T-1744 — L270 says Kinzie's twenty slots are labourers' households and the seats file says thirteen tradesmen's, six merchant and professional and one labourer's: correct the register to the ground it scopes
