@@ -1,7 +1,7 @@
 ---
 id: T-2141
 title: The street-face adopter reads T-2134's four side-street workshops on Dearborn as yard buildings, so no documented Dearborn maker can be adopted into one
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 486
 claimed_by: run 10/5/2026, 12:21:58 PM CT
 blocked_on: null
 needs_bake: false
