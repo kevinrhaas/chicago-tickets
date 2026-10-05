@@ -1,7 +1,7 @@
 ---
 id: T-0253
 title: May an invented building stand on the river margin of a platted street corridor
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-27
-closed: null
+closed: 2026-10-04
 pr: 443
 claimed_by: run 10/4/2026, 8:40:56 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T02:26:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37252218826
 claimed_at: 2026-10-05T01:40:56.183Z
 decision: null
