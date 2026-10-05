@@ -1,7 +1,7 @@
 ---
 id: T-1670
 title: A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 464
 claimed_by: run 10/5/2026, 1:17:00 AM CT
 blocked_on: null
 needs_bake: false
