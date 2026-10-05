@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: b
 ---
 
 Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted.
@@ -47,3 +47,5 @@ So the ticket's own premise ("on the blocks the street carry emitted") is spent.
 **Recommendation:** (a) Densify inside the plat: rear dwellings behind houses already standing on occupied South lots, extending your 2026-09-23 rear-cottage ruling past the 154:508 yard-building ratio — 1835 houses clustered inside the Original Town and few stood south of Madison, so (b) would move about a quarter of the South's houses onto ground that was mostly empty. (a) keeps the town's shape and matches your 2026-08-18 ruling ('more and denser buildings'). It builds at the reconstructed tier and is recorded in LIBERTIES.
 
 **Asked:** 2026-10-05 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37343630267. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-05, via Manager):** (b) Cross Madison: build them on the School Section's Madison–Monroe tier (80 lots sold in October 1833, cut by T-1477), so the town spills over its south line
