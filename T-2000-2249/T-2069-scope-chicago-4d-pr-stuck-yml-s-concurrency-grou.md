@@ -34,3 +34,19 @@ The ticket budget refused this: the queue stands at 196 lines, at or over its ce
 **Finding, 2026-10-05 (#455):** seen again in the merge path, not only on the report. Pushing ef74426 to #455 started a `stuck PR report` run (37270266231) that was cancelled 78 s in. `gh-rest.sh pr-automerge` read the cancelled `report` as a red check, refused (exit 3) and applied `resume` to a PR whose gate and moving-frames were still running green. Re-running that one report workflow cleared it, and the PR merged on the next lap. So this defect also costs a refusal and a resume lap on a PR that should have merged.
 
 **Finding, 2026-10-05 (#488, T-2132):** the same defect, twice on one PR. The `stuck PR report` run 37363856560 was cancelled on push, so `pr-automerge` refused (exit 3) and applied `resume` while `gate` and `moving-frames` were still running. Its re-run (attempt 2) was cancelled again while it sat queued. A third attempt, started after the gate went green, held, and the PR merged on that lap. Cost: two refusals, one stray `resume` label and about ten minutes, on a PR whose real checks never went red.
+
+## Finding, 2026-10-05 (loop, lapping #491): not every `cancelled` gate is this defect
+
+#491's `gate` (run 37370208875, attempt 1) read `cancelled` after 15 min, and the
+resume note called it a timeout. It was neither a timeout nor this concurrency
+group: the job annotation says **"The job was not acquired by Runner of type hosted
+even after multiple attempts"** — no runner ever took it. A REST re-run
+(`POST …/actions/runs/37370208875/rerun`) got a runner at once, and then spent
+**24 of its 31 minutes in `actions/checkout@v4`** (21:24:41 → 21:48:56Z, the
+`fetch-depth: 0` full-history clone) before `check.sh` passed in about 6 min. It
+merged green on the second `pr-automerge` lap. So, when you take this ticket: (1) a
+gate `cancelled` with that annotation needs a re-run, not a fix, and a report that
+said so would save the next run reading the job; (2) the gate's full-history clone is
+now the slowest step on a busy day, and C4D_GATE_REQUIRE_BASE only needs the merge
+base. A bounded `fetch-depth` plus a `git fetch --deepen` fallback may be worth
+measuring.
