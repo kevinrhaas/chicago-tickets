@@ -1,7 +1,7 @@
 ---
 id: T-2129
 title: Build the Market block of the plat's last tier to its seats: the five houses the platted deal requests on blk_washington_market, with the five yard buildings its plan holds
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1758
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 465
 claimed_by: run 10/5/2026, 1:09:51 AM CT
 blocked_on: null
 needs_bake: false
