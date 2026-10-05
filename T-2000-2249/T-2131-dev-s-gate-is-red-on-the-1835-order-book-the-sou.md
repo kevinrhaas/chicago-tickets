@@ -1,7 +1,7 @@
 ---
 id: T-2131
 title: Dev's gate is red on the 1835 order book: the south ordinary-dwellings row still names T-1758, split at 06:09Z into T-2129/T-2130; repoint it at live work so dev, #460 and #461 go green again
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 462
 claimed_by: run 10/5/2026, 1:41:11 AM CT
 blocked_on: null
 needs_bake: false
