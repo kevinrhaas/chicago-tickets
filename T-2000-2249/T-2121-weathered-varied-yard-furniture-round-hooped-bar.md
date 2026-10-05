@@ -1,7 +1,7 @@
 ---
 id: T-2121
 title: Weathered, varied yard furniture: round hooped barrels, grained crates, wagons and carts in differing weathered wood tones
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 10:01:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-05T03:01:27.071Z
 decision: null
 decision_answer: null
 ---
