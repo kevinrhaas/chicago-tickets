@@ -1,7 +1,7 @@
 ---
 id: T-1721
 title: Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-28
-closed: null
+closed: 2026-10-05
 pr: 473
 claimed_by: run 10/5/2026, 6:58:48 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T12:50:15Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37305986225
 claimed_at: 2026-10-05T11:58:48.897Z
 decision: null
