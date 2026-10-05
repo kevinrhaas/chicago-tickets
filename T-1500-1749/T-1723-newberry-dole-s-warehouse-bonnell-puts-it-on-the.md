@@ -1,7 +1,7 @@
 ---
 id: T-1723
 title: Newberry & Dole's warehouse: Bonnell puts it on the north bank east end eight weeks after the scene date, so the south-bank reading now rests on an untraceable dossier tag against a contemporaneous witness
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 477
 claimed_by: run 10/5/2026, 7:56:10 AM CT
 blocked_on: null
 needs_bake: false
