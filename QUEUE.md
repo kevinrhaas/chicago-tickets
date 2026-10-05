@@ -188,7 +188,6 @@ T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of 
 T-1684 — The W2-W4 mechanics' shops have no State or Dearborn face to take: no platted-block slot in the whole recipe is dealt onto a cross-street face, and every Lake-Randolph block reads at_capacity
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
 T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
-T-1702 — The town's southern land approach is missing from the street layer: the located State road from Vincennes over Hubbard's Trail reaches the modelled ground and no corridor carries it
 T-1705 — Two tools still hand work to T-1202, which closed with T-1688 and is now a spent split parent: build_order_book_1835.py routes (south, institutional_public) to it and name_the_keepers_1835.py names it as a live parent — each needs a live owner or the reference retired
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-1721 — Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
