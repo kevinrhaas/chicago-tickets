@@ -61,6 +61,7 @@
 T-2109 — 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
 T-2122 — No close-up grass tufts popping in around the walker in town: drop the near tufts on short turf, keep only fence-line weeds and draw them on the full forb ring
 T-2123 — Fort Dearborn's roofs sit on their walls and its timber reads weathered: the artillery house's shed roof gets its gable walls, gable ends are timber not shingle, the pickets are split and irregular with a ribband and a grained face, in 1812 and 1835
+T-2124 — A period US flag flies on Fort Dearborn's staff: 15 stars and 15 stripes in 1812, 24 stars in 1835, with a gentle wind flutter that costs no lag
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
