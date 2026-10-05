@@ -173,7 +173,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
-T-0239 — Nothing tests the party-line note's prose against the placement it describes
 T-2118 — north_bank_shed_dearborn_e1, an invented freight shed, laps Dearborn North's platted corridor by 6.63 m with its centroid inside it, banked in the corridor baseline and refused in writing nowhere — the act T-0253 refuses on the south bank
 T-0285 — An asset carrying its own AO map cannot batch with the town: +2 draw calls for one building
 T-0053 — A patched lit material silently inherits another layer's shader program
