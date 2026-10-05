@@ -1,7 +1,7 @@
 ---
 id: T-2140
 title: Split the Pruyne-Kimberly partnership household: Dr Kimberly to a household of his own (carrying the Vermont the arrival note holds for him), seated on kimberly_residence on Bonnell's walk, Pruyne staying with the south-bank store
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1725
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 483
 claimed_by: run 10/5/2026, 10:03:20 AM CT
 blocked_on: null
 needs_bake: false
