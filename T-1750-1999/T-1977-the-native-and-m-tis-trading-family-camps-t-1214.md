@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: b
 ---
 
 The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp.
@@ -41,3 +41,5 @@ The ticket budget refused this: the queue stands at 248 lines, at or over its ce
 **Recommendation:** (a) Wait for a source that counts or places the families; build nothing until one is found — AGENTS.md says Native presence is not a gap to fill by inference, and the population this camp would stand for is the one T-1177 declined to invent
 
 **Asked:** 2026-10-02 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37018234882. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-04, via Manager):** (b) Build one small camp at Wolf Point or the Agency as a declared reconstruction (review_required + touches_removal, no figures), bounded by a stated figure rather than a count
