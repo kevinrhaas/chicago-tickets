@@ -179,7 +179,6 @@ T-2142 — Resolve the register's 'Newberry & Dole's store' anchor to dole_wareh
 T-2140 — Split the Pruyne-Kimberly partnership household: Dr Kimberly to a household of his own (carrying the Vermont the arrival note holds for him), seated on kimberly_residence on Bonnell's walk, Pruyne staying with the south-bank store
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find
 T-1744 — L270 says Kinzie's twenty slots are labourers' households and the seats file says thirteen tradesmen's, six merchant and professional and one labourer's: correct the register to the ground it scopes
-T-2117 — check.sh no longer fits a steward run's 600 s on four cores: 763 of 774 steps done at 595 s, 2,288 CPU-seconds, slowest steps derive_resident_roles --check 168 s and placement_policy_1835 --self-test 162 s
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
 T-2132 — The West Division's remainder after T-1829: 12 ordinary dwellings and one freight roof the programme still orders, with every lot-ruled West block at capacity and 19 unruled blocks gated on a lot line

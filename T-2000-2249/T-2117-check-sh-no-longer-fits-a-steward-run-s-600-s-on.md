@@ -1,7 +1,7 @@
 ---
 id: T-2117
 title: check.sh no longer fits a steward run's 600 s on four cores: 763 of 774 steps done at 595 s, 2,288 CPU-seconds, slowest steps derive_resident_roles --check 168 s and placement_policy_1835 --self-test 162 s
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-05
 pr: 476
 claimed_by: run 10/5/2026, 7:23:54 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T16:16:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37308752130
 claimed_at: 2026-10-05T12:23:54.515Z
 decision: null
