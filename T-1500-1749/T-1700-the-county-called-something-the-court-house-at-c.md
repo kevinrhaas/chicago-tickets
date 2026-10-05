@@ -1,7 +1,7 @@
 ---
 id: T-1700
 title: The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 474
 claimed_by: run 10/5/2026, 6:47:16 AM CT
 blocked_on: null
 needs_bake: false
