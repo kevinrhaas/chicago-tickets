@@ -344,5 +344,4 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2125 — Zone edges blend and wander: the town, the prairies and the fort's apron meet in a ragged margin about 100 m wide, and a lone cabin's clearing is no longer a disc
 T-2135 — The smoke's plant panel still asserts ten communities and 155 species, and dev has served eleven and 166 since #460 (T-2101's vacant-lot prairie): part 13 is red on dev at mobile, three checks
