@@ -365,3 +365,4 @@ T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2119 — Front door as a working machine: boot scan, lamps, gauges, live coordinate holds and an operator's manual
+T-2120 — Arrival menu: three equal choices, quick starts, compact typed jaunt list, clear back navigation
