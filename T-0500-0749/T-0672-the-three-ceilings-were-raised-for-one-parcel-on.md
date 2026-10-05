@@ -1,7 +1,7 @@
 ---
 id: T-0672
 title: The three ceilings were raised for one parcel on 2026-09-03 and light's floor was spent: re-measure once #432 lands and take every tier back down
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-03
 closed: null
-pr: null
+pr: 439
 claimed_by: run 10/4/2026, 6:06:47 PM CT
 blocked_on: null
 needs_bake: false
