@@ -203,6 +203,7 @@ T-2066 — Raise the 1812 shore bank south of Twelfth to Moses & Kirkland's 10-2
 T-2093 — dev's smoke part 2 is red at both viewports since #396: the frontage layer lays 33 fence runs and the check still asserts 32 — T-1679 changed town_street_edge.json and not the count; read the 33rd run and restate the count or refuse the run
 T-2100 — Re-pose town_backyard and town_south_water_store: both stand a metre from a wall, so their captures cannot show the yard or shop front T-2085..T-2087 are judged by
 T-2113 — The arrival and welcome screens redraw an unchanged town on every frame: draw it once under the menu and again only when something under it changes
+T-2138 — claim steals a dead claim on a ticket an open PR already carries when that PR's branch names no ticket: T-2122 was rebuilt in full while #449 (claude/project-thread-*) sat open with it
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
