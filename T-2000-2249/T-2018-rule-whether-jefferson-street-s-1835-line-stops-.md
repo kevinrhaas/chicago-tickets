@@ -1,7 +1,7 @@
 ---
 id: T-2018
 title: Rule whether Jefferson Street's 1835 line stops at Kinzie: its committed reach north to Hubbard crosses Wabansia block 59, which Wright's 1834 survey draws whole
-state: claimed
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: run 10/5/2026, 2:13:10 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37360845139
-claimed_at: 2026-10-05T19:13:10.737Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -48,3 +48,9 @@ Kinzie. Then either cut the record's reach at Kinzie and add `jefferson` to
 `west_bank.tiers.west_division.axis.ns`, or keep the reach with the reading that licenses
 it and re-seat the two reconstructed bodies (they are placements under L316, not readings).
 `measure_corridor_intrusion.py --gate` holds either way.
+
+## Measured 2026-10-05 (slice 3/5 run 37360845139, claim released, nothing committed)
+
+- **Block 59 holds the whole corridor.** `generate_plat_lots.wabansia()` seats `blk_wabansia_c_t7` at east -489.45..-394.11, north 276.13..382.09. Jefferson's committed line crosses it at east -407.3 (north 276) and -409.9 (north 381.9). With the 12.192 m half-corridor that is -419.5..-395.1, so all 24.4 m of the roadway lies inside a block Wright 1834 draws whole, 1 m clear of its east rule. The survey does not place the street at the block's edge.
+- **The cut is cheap downstream.** `measure_corporation_limits.limits_ring()` extends the West Division line on its own bearing to Ohio, so ending it at Kinzie leaves the ring collinear and its area unchanged. Only the "Jefferson, north to Ohio" reach grows from 288.3 m to about 406 m, and that is the stretch `measure_jefferson_continuation.py` already reads as undrawn. That tool and `data/traces/jefferson_continuation.json` pin +381.887 and 288.3 and would need re-deriving. `CORRIDOR_NS` in `generate_plat_lots.py` feeds the corridor layer only, not block cutting, so adding `jefferson` to `west_bank.tiers.west_division.axis.ns` re-cuts no lot.
+- **Why released: it is invisible.** `jefferson` is `opened: false` with `track_width_m: 0`, so `streets.js createStreets` draws nothing for it either way. The visible-progress cap was already spent by v1500 ("Nothing you can see"), so this run took a visible ticket. Pair this with a visible unit, or take it under exemption 3 if a parcel waits on the corridor layer.
