@@ -174,7 +174,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
-T-2127 — The AO unwrap leaves 68.9 per cent of every atlas empty: make one packing change and re-measure occupancy and bytes across a representative set of masters, with texel density on a named wall held (T-0286's half of T-0285)
 T-1670 — A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
 T-2133 — The block-infill generator learns a cross-street term: a slot may front the side street of a corner lot, framed off that lot's own side line and held to the light-street and better-face clauses unchanged, proved by a self-test in the gate with no roof dealt
 T-2134 — Deal the W2-W4 mechanics' shops onto a Dearborn face with the cross-street term: State is a light street and refuses a workshop, and every Dearborn corner lot of the blocks whose best face Dearborn is will be built or reserved once T-2130 lands, so first decide whether a corner lot's side street may carry a second principal roof, then deal, seat and bake

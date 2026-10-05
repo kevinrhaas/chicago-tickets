@@ -1,7 +1,7 @@
 ---
 id: T-2127
 title: The AO unwrap leaves 68.9 per cent of every atlas empty: make one packing change and re-measure occupancy and bytes across a representative set of masters, with texel density on a named wall held (T-0286's half of T-0285)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0285
 opened: 2026-10-04
-closed: null
+closed: 2026-10-05
 pr: 468
 claimed_by: run 10/5/2026, 3:44:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T09:52:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37285047883
 claimed_at: 2026-10-05T08:44:51.697Z
 decision: null
