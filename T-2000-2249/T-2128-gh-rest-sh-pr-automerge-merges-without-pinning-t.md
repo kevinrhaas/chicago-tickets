@@ -1,7 +1,7 @@
 ---
 id: T-2128
 title: gh-rest.sh pr-automerge merges without pinning the sha it gated, so a push that lands between its check read and its merge PUT goes into dev ungated
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 6:48:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37304844038
+claimed_at: 2026-10-05T11:48:25.501Z
 decision: null
 decision_answer: null
 ---
