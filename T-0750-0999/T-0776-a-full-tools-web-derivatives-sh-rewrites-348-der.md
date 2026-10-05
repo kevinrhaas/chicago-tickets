@@ -1,7 +1,7 @@
 ---
 id: T-0776
 title: A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-05
 closed: null
-pr: null
+pr: 444
 claimed_by: run 10/4/2026, 8:12:38 PM CT
 blocked_on: null
 needs_bake: false
