@@ -1,7 +1,7 @@
 ---
 id: T-2104
 title: Storefront header boards flicker as you turn: the fascia, pilasters and sills are built with their street face missing
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 422
 claimed_by: run 10/4/2026, 2:05:55 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-05T00:21:56Z
 claimed_run: null
 claimed_at: 2026-10-04T19:05:55.873Z
 decision: null

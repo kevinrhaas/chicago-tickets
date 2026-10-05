@@ -1,7 +1,7 @@
 ---
 id: T-0672
 title: The three ceilings were raised for one parcel on 2026-09-03 and light's floor was spent: re-measure once #432 lands and take every tier back down
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-03
-closed: null
+closed: 2026-10-04
 pr: 439
 claimed_by: run 10/4/2026, 6:06:47 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T00:33:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37242356570
 claimed_at: 2026-10-04T23:06:47.802Z
 decision: null

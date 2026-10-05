@@ -63,7 +63,6 @@ T-2109 — 1904's Glessner glass: its transmission pass is half of every frame a
 #   ? T-2109 DECISION: 1904's Glessner glass costs half of every frame. Two cheaper panes are on the dev preview: /4d/dev/?year=1904&glass=clear and &glass=dark (side by side: docs/measurements/t-2109-glass/desktop-transmission-clear-dark.jpg). Either one halves the 1904 landing frame (desktop 9.1 s to 4.4 s, phone 6.0 s to 2.9 s on the test machine). Which should ship by default, and at which Scene detail settings? — (a) clear at balanced and light; full keeps today's glass (looks almost the same as today)  (b) clear at every setting  (c) dark at balanced and light (every pane a darker plate)  (d) keep today's glass everywhere — recommended: (a)
 T-2110 — Phone Image sharpness Medium to Low takes 25-30% off a still frame: ask the owner whether a phone should boot at Low, and read trees' and terrain's fragment cost in 1835 for a cheaper shader that draws the same picture
 #   ? T-2110 DECISION: On a phone, Image sharpness Low (pixel ratio 1) draws a frame 26-29% faster than today's default Medium (1.5) at Light detail, but softer: log courses and roofs from the air lose crispness (side by side: docs/measurements/t-2110-sharpness/phone-light-low-medium.jpg in kevinrhaas/chicago). Should a phone start at Low? A visitor can already pick it in Settings, and a stored choice is never overridden. — (a) phone starts at Low; desktop stays at Medium  (b) keep Medium on every device (today)  (c) phone starts at Low only at Light detail; Medium at Balanced and Full — recommended: (a)
-T-2104 — Storefront header boards flicker as you turn: the fascia, pilasters and sills are built with their street face missing
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
@@ -177,7 +176,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
-T-0672 — The three ceilings were raised for one parcel on 2026-09-03 and light's floor was spent: re-measure once #432 lands and take every tier back down
 T-0438 — The letter-list cohort is 2.54 MiB of the published tree, and it is now the largest single item in it
 T-0776 — A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible
 T-0239 — Nothing tests the party-line note's prose against the placement it describes
