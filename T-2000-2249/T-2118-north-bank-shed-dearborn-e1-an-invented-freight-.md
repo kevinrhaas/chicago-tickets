@@ -1,7 +1,7 @@
 ---
 id: T-2118
 title: north_bank_shed_dearborn_e1, an invented freight shed, laps Dearborn North's platted corridor by 6.63 m with its centroid inside it, banked in the corridor baseline and refused in writing nowhere — the act T-0253 refuses on the south bank
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 448
 claimed_by: run 10/4/2026, 10:03:14 PM CT
 blocked_on: null
 needs_bake: false
