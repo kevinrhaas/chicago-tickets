@@ -178,7 +178,6 @@ T-2144 — The School Section tier joins the platted grid and the roof schedule:
 T-2145 — Build the School Section tier's Clark blocks south of Madison (118, 119): ordinary dwellings dealt on the tier's own lots
 T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
-T-2132 — The West Division's remainder after T-1829: 12 ordinary dwellings and one freight roof the programme still orders, with every lot-ruled West block at capacity and 19 unruled blocks gated on a lot line
 T-2143 — The West Division's remainder after T-2132: 8 ordinary dwellings and one freight roof, with every lot-ruled West block at capacity and 18 unruled blocks gated on a lot line
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
 T-1977 — The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
