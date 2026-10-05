@@ -189,7 +189,6 @@ T-2043 — Reconcile the family rows the order book still orders after T-2021's 
 T-2058 — Take liberties.json off the boot path: a first visit downloads 13.122 MB against the 13 MB budget
 T-2059 — The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's leaf-scale trees, past the 250 ms check
 T-2060 — Re-measure boot-weights.js: the terrain phase grew 0.7 to 3.7 s and the boot moved 25-70 % since its reading
-T-2062 — Place the first fort's factor's house, gardens and outbuildings in the 1812 scene: the 1808 draught draws them without any regular rule (sheet_only) or not at all (not_located), so find a scaled source or rule how they may stand
 T-2066 — Raise the 1812 shore bank south of Twelfth to Moses & Kirkland's 10-20 ft, with low broken sand-hills and swales the sand prairie can stand in
 T-2093 — dev's smoke part 2 is red at both viewports since #396: the frontage layer lays 33 fence runs and the check still asserts 32 — T-1679 changed town_street_edge.json and not the count; read the 33rd run and restate the count or refuse the run
 T-2100 — Re-pose town_backyard and town_south_water_store: both stand a metre from a wall, so their captures cannot show the yard or shop front T-2085..T-2087 are judged by

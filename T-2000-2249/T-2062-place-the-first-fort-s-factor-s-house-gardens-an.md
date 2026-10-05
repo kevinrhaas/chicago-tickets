@@ -1,7 +1,7 @@
 ---
 id: T-2062
 title: Place the first fort's factor's house, gardens and outbuildings in the 1812 scene: the 1808 draught draws them without any regular rule (sheet_only) or not at all (not_located), so find a scaled source or rule how they may stand
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-05
 pr: 485
 claimed_by: run 10/5/2026, 12:17:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T18:34:17Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37343630267
 claimed_at: 2026-10-05T17:17:15.094Z
 decision: null
