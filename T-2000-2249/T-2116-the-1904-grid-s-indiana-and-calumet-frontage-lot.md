@@ -1,7 +1,7 @@
 ---
 id: T-2116
 title: The 1904 grid's Indiana and Calumet frontage lots: lot lines between the alleys and Indiana (sheets 20, 35) and Calumet (sheets 28, 35), with their printed addresses
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: T-1745
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 12:12:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37266481592
+claimed_at: 2026-10-05T05:12:47.093Z
 decision: null
 decision_answer: null
 ---
