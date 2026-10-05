@@ -1,7 +1,7 @@
 ---
 id: T-1702
 title: The town's southern land approach is missing from the street layer: the located State road from Vincennes over Hubbard's Trail reaches the modelled ground and no corridor carries it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: null
-pr: null
+pr: 441
 claimed_by: run 10/4/2026, 7:03:59 PM CT
 blocked_on: null
 needs_bake: false
