@@ -176,7 +176,6 @@ T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one bra
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
 T-2127 — The AO unwrap leaves 68.9 per cent of every atlas empty: make one packing change and re-measure occupancy and bytes across a representative set of masters, with texel density on a named wall held (T-0286's half of T-0285)
 T-1670 — A counter trade and a works trade want different roofs and the register holds no reading that tells them apart, so a cabinet manufactory can still be seated in a store-residence
-T-1632 — adopt_street_faces.derive() shadows named_dwellings() with a list of businesses, so every street's roofs_home_named reads 0 and roofs_home_inferred absorbs the named homes
 T-1684 — The W2-W4 mechanics' shops have no State or Dearborn face to take: no platted-block slot in the whole recipe is dealt onto a cross-street face, and every Lake-Randolph block reads at_capacity
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
 T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
