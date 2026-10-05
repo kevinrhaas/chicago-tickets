@@ -1,7 +1,7 @@
 ---
 id: T-0776
 title: A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 8:12:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37250269619
+claimed_at: 2026-10-05T01:12:38.229Z
+decision: null
+decision_answer: null
 ---
 
 A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible.
