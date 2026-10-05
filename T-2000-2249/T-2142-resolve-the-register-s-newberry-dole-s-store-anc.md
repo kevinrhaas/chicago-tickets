@@ -1,7 +1,7 @@
 ---
 id: T-2142
 title: Resolve the register's 'Newberry & Dole's store' anchor to dole_warehouse_south and seat D. Graves, Wm. H. Taylor and W. H. Brown off it
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 10:18:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37331280705
+claimed_at: 2026-10-05T15:18:11.716Z
 decision: null
 decision_answer: null
 ---
