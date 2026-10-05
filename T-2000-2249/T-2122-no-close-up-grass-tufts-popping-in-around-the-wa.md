@@ -1,7 +1,7 @@
 ---
 id: T-2122
 title: No close-up grass tufts popping in around the walker in town: drop the near tufts on short turf, keep only fence-line weeds and draw them on the full forb ring
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 449
 claimed_by: run 10/5/2026, 7:11:17 AM CT
 blocked_on: null
 needs_bake: false
