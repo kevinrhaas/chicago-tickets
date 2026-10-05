@@ -1,7 +1,7 @@
 ---
 id: T-1699
 title: Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-05
 pr: 472
 claimed_by: run 10/5/2026, 6:05:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T12:07:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37300304429
 claimed_at: 2026-10-05T11:05:51.204Z
 decision: null
