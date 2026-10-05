@@ -176,7 +176,6 @@ T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivi
 T-2145 — Build the School Section tier's Clark blocks south of Madison (118, 119): ordinary dwellings dealt on the tier's own lots
 T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
-T-2143 — The West Division's remainder after T-2132: 8 ordinary dwellings and one freight roof, with every lot-ruled West block at capacity and 18 unruled blocks gated on a lot line
 T-2148 — The West Division's remainder after T-2143: 2 ordinary dwellings and one freight roof. Carry Clinton, Jefferson and Des Plaines to Madison as T-2143 carried Canal and West Water, so plat blocks 48-50 (180 ft printed) join the layer
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
 T-1977 — The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
