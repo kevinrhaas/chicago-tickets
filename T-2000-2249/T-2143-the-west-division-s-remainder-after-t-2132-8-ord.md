@@ -1,7 +1,7 @@
 ---
 id: T-2143
 title: The West Division's remainder after T-2132: 8 ordinary dwellings and one freight roof, with every lot-ruled West block at capacity and 18 unruled blocks gated on a lot line
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 2:49:06 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37365476085
+claimed_at: 2026-10-05T19:49:06.925Z
 decision: null
 decision_answer: null
 ---
