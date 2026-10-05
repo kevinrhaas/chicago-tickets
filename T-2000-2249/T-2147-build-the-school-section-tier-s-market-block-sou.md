@@ -1,7 +1,7 @@
 ---
 id: T-2147
 title: Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1755
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 493
 claimed_by: run 10/5/2026, 5:03:32 PM CT
 blocked_on: null
 needs_bake: false
