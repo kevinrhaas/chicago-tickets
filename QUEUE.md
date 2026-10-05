@@ -59,7 +59,6 @@
 # --- frontages and paths. Trees and the prairie outside the town are kept.
 # Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
 T-2109 — 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
-T-2110 — Phone Image sharpness Medium to Low takes 25-30% off a still frame: ask the owner whether a phone should boot at Low, and read trees' and terrain's fragment cost in 1835 for a cheaper shader that draws the same picture
 T-2122 — No close-up grass tufts popping in around the walker in town: drop the near tufts on short turf, keep only fence-line weeds and draw them on the full forb ring
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop

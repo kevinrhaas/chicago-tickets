@@ -1,7 +1,7 @@
 ---
 id: T-2110
 title: Phone Image sharpness Medium to Low takes 25-30% off a still frame: ask the owner whether a phone should boot at Low, and read trees' and terrain's fragment cost in 1835 for a cheaper shader that draws the same picture
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2099
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 447
 claimed_by: run 10/4/2026, 8:59:20 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T03:11:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37253395996
 claimed_at: 2026-10-05T01:59:20.281Z
 decision: answered
