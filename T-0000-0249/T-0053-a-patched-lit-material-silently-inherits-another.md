@@ -1,7 +1,7 @@
 ---
 id: T-0053
 title: A patched lit material silently inherits another layer's shader program
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-17
 closed: null
-pr: null
+pr: 451
 claimed_by: run 10/4/2026, 10:30:06 PM CT
 blocked_on: null
 needs_bake: false
