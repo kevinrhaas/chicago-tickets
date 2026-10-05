@@ -60,6 +60,7 @@
 # Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
 T-2109 — 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
 T-2122 — No close-up grass tufts popping in around the walker in town: drop the near tufts on short turf, keep only fence-line weeds and draw them on the full forb ring
+T-2123 — Fort Dearborn's roofs sit on their walls and its timber reads weathered: the artillery house's shed roof gets its gable walls, gable ends are timber not shingle, the pickets are split and irregular with a ribband and a grained face, in 1812 and 1835
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
