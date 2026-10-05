@@ -1,7 +1,7 @@
 ---
 id: T-2127
 title: The AO unwrap leaves 68.9 per cent of every atlas empty: make one packing change and re-measure occupancy and bytes across a representative set of masters, with texel density on a named wall held (T-0286's half of T-0285)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-0285
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 468
 claimed_by: run 10/5/2026, 3:44:51 AM CT
 blocked_on: null
 needs_bake: false
