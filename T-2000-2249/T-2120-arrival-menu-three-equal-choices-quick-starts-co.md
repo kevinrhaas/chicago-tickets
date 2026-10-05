@@ -1,7 +1,7 @@
 ---
 id: T-2120
 title: Arrival menu: three equal choices, quick starts, compact typed jaunt list, clear back navigation
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 9:27:04 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-05T02:27:04.660Z
 decision: null
 decision_answer: null
 ---
