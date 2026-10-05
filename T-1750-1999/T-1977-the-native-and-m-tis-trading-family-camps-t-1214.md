@@ -1,7 +1,7 @@
 ---
 id: T-1977
 title: The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
-state: claimed
+state: review
 epic: TOWN
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-02
 closed: null
-pr: null
+pr: 495
 claimed_by: run 10/5/2026, 4:33:37 PM CT
 blocked_on: null
 needs_bake: false
