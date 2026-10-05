@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Phone Image sharpness Medium to Low takes 25-30% off a still frame: ask the owner whether a phone should boot at Low, and read trees' and terrain's fragment cost in 1835 for a cheaper shader that draws the same picture.
@@ -52,3 +52,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 ## Finding — #435 (2026-10-04)
 
 The shader half is done in #435. Leaf cards now skip the bump, which they kept only 3.5 % of. Trees cost 12–13.5 % less, and the picture differs by at most 2 of 255 on 0.1 % of pixels. Trees' and the ground's fragment cost is read piece by piece in `docs/measurements/T-2110-fragment-cost.md`. No same-picture saving was found in the ground shader. The remaining levers there (bake the turf noises, a Lambert ground) change the picture, so they belong to the owner. **What is left once the owner answers:** make the phone's default `quality` in `hud.js` `DEFAULT_SETTINGS` follow his pick (only when the visitor has stored no choice), and re-read `measure_still_frame.mjs --gate`'s phone ceilings.
+
+**Owner answer (2026-10-04, via Manager):** (a) phone starts at Low; desktop stays at Medium
