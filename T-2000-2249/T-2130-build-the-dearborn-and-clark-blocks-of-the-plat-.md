@@ -1,7 +1,7 @@
 ---
 id: T-2130
 title: Build the Dearborn and Clark blocks of the plat's last tier to their seats: the slots the platted deal still requests on blk_washington_dearborn and blk_washington_clark, the rest of the tier's open ground left honestly open
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1758
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 466
 claimed_by: run 10/5/2026, 1:33:19 AM CT
 blocked_on: null
 needs_bake: false
