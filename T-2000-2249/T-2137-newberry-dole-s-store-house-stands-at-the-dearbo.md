@@ -1,7 +1,7 @@
 ---
 id: T-2137
 title: Newberry & Dole's store house stands at the Dearborn end of South Water Street by its neighbours' advertisements, and the committed warehouse stands four blocks west at Franklin: rule which building the paper means, then move or keep it
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 9:20:10 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37323431765
+claimed_at: 2026-10-05T14:20:11.135Z
 decision: null
 decision_answer: null
 ---
