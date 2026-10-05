@@ -193,7 +193,6 @@ T-2116 — The 1904 grid's Indiana and Calumet frontage lots: lot lines between 
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
 T-2129 — Build the Market block of the plat's last tier to its seats: the five houses the platted deal requests on blk_washington_market, with the five yard buildings its plan holds
-T-2131 — Dev's gate is red on the 1835 order book: the south ordinary-dwellings row still names T-1758, split at 06:09Z into T-2129/T-2130; repoint it at live work so dev, #460 and #461 go green again
 T-2130 — Build the Dearborn and Clark blocks of the plat's last tier to their seats: the slots the platted deal still requests on blk_washington_dearborn and blk_washington_clark, the rest of the tier's open ground left honestly open
 T-1829 — The West Division's remainder handed on from T-1208: the 16 ordinary dwellings the programme still orders, blk_west_lake_canal's three dealt frame cottages first, built and baked with their households seated
 T-2132 — The West Division's remainder after T-1829: 12 ordinary dwellings and one freight roof the programme still orders, with every lot-ruled West block at capacity and 19 unruled blocks gated on a lot line
