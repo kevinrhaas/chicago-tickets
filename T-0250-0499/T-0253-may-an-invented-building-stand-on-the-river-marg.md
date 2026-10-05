@@ -1,7 +1,7 @@
 ---
 id: T-0253
 title: May an invented building stand on the river margin of a platted street corridor
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-27
 closed: null
-pr: null
+pr: 443
 claimed_by: run 10/4/2026, 8:40:56 PM CT
 blocked_on: null
 needs_bake: false
