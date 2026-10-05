@@ -1,7 +1,7 @@
 ---
 id: T-2062
 title: Place the first fort's factor's house, gardens and outbuildings in the 1812 scene: the 1808 draught draws them without any regular rule (sheet_only) or not at all (not_located), so find a scaled source or rule how they may stand
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 485
 claimed_by: run 10/5/2026, 12:17:15 PM CT
 blocked_on: null
 needs_bake: false
