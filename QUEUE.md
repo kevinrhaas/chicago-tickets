@@ -179,6 +179,7 @@ T-2134 — Deal the W2-W4 mechanics' shops onto a Dearborn face with the cross-s
 T-1699 — Make data/wharves and data/frontage target surfaces for the research-spend ledger: the wharfing ordinance's eighty feet and the South Water Street footway have a layer and cannot reach it
 T-1700 — The county called something the Court House at Chicago in December 1834 and the town holds only the brick one erected that fall: find where the May 1835 term sat, or refuse it in writing
 T-1705 — Two tools still hand work to T-1202, which closed with T-1688 and is now a spent split parent: build_order_book_1835.py routes (south, institutional_public) to it and name_the_keepers_1835.py names it as a live parent — each needs a live owner or the reference retired
+T-2136 — Name or refuse the keepers on the 24 roofs the platted deal seats outside the keepers pass's three districts — 18 on the Washington tier's blocks, the rest West and North: run name_the_keepers_1835.py over them, adding each district with the ticket that carries it
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-1721 — Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
 T-2128 — gh-rest.sh pr-automerge merges without pinning the sha it gated, so a push that lands between its check read and its merge PUT goes into dev ungated
