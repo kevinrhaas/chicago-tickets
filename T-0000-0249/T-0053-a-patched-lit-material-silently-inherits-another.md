@@ -1,7 +1,7 @@
 ---
 id: T-0053
 title: A patched lit material silently inherits another layer's shader program
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,9 +11,14 @@ parent: null
 opened: 2026-08-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 10:30:06 PM CT
 blocked_on: null
 needs_bake: false
+closed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37259486589
+claimed_at: 2026-10-05T03:30:06.186Z
+decision: null
+decision_answer: null
 ---
 
 A patched lit material silently inherits another layer's shader program.
