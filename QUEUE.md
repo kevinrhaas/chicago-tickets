@@ -364,5 +364,4 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2112 — Gates in the town's fences: every fenced street front and yard gateway gets a period gate or opening, varied by lot
 T-2119 — Front door as a working machine: boot scan, lamps, gauges, live coordinate holds and an operator's manual
