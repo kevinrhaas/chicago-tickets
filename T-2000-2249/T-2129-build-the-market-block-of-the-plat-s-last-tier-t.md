@@ -1,7 +1,7 @@
 ---
 id: T-2129
 title: Build the Market block of the plat's last tier to its seats: the five houses the platted deal requests on blk_washington_market, with the five yard buildings its plan holds
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1758
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 1:09:51 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37269152706
+claimed_at: 2026-10-05T06:09:51.346Z
 decision: null
 decision_answer: null
 ---
