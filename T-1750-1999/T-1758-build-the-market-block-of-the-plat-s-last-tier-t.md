@@ -1,7 +1,7 @@
 ---
 id: T-1758
 title: Build the plat's last tier to its seats: the Dearborn, Market and Clark blocks' 13 slots the platted deal still holds, the rest of the tier's open ground left honestly open
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 12:48:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37269152706
+claimed_at: 2026-10-05T05:48:47.814Z
 decision: null
 decision_answer: null
 ---
