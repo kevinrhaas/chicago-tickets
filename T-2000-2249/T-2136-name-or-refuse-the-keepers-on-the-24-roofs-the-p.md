@@ -1,7 +1,7 @@
 ---
 id: T-2136
 title: Name or refuse the keepers on the 24 roofs the platted deal seats outside the keepers pass's three districts — 18 on the Washington tier's blocks, the rest West and North: run name_the_keepers_1835.py over them, adding each district with the ticket that carries it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-05
-closed: null
+closed: 2026-10-05
 pr: 478
 claimed_by: run 10/5/2026, 8:17:06 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T14:58:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37315151311
 claimed_at: 2026-10-05T13:17:06.800Z
 decision: null
