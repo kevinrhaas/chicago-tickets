@@ -34,3 +34,9 @@ When T-1684 was split (2026-10-05T09:51:18.949Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37291989694) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Found while building T-2133 (#469), 2026-10-05.** The term is on dev: a slot whose `fronts` names its corner lot's side street stands off that side line (`generate_block_infill.py` `slot_frame` / `cross_street_frame`, demonstrated by `--self-test`). What this piece still has to settle:
+
+- **Where.** `check_non_dwelling_slot` is unchanged, so State (`light`) refuses a workshop outright. A workshop on Dearborn (`ordinary`) is admitted only where no face of the block outranks it: `blk_washington_dearborn` and `blk_washington_clark` (Dearborn against `light`/unclassed faces), and `blk_randolph_dearborn` / `blk_randolph_clark` (a tie with Randolph). It is refused wherever Lake or South Water bounds the block. The schedule apportions `blk_washington_dearborn` **2 trade roofs**.
+- **Density.** Once T-2130 (#466) lands, the Washington-Dearborn corner of `blk_washington_dearborn` carries a D7 and its Madison-Dearborn corner (lot 1) is the block's reserved open lot. The Clark block's Dearborn corners carry boarding houses. So a shop on Dearborn needs a corner lot's side street to carry a **second** principal roof behind the long-face house, which `check_block`'s "two principal roofs on one lot" refuses today. Decide that (with its arithmetic against `ROW_UNITS_PER_LOT` and the lot-ceiling sizing), or release the reserved corner with a written reason.
+- **Downstream readers of `fronts`.** No committed record has ever fronted a cross street, so check the street-face tables (`adopt_street_faces`), the seating chain and `lot_addresses` against the first one dealt.
