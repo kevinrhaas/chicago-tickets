@@ -65,3 +65,14 @@ This ticket is about the chicago-side tools (`inflight`, and whatever the ticket
 assert); the prompt rules themselves live in `kevinrhaas/polecat-platform`
 (`.github/steward/improve.md`) and changing them is a platform unit, not this repo's — name
 that in the PR rather than reaching for it here.
+
+## Seen again, 2026-10-05 (PR #442, T-2115)
+
+It happened again. Slice 5/5 (a refill) took `resume` PR #442 at 02:31Z. At 02:33:46Z
+another run had already pushed its own lap (`cacb545`, "restamp the changelog after lapping
+dev"). Both laps merged the same `dev` (`eb0a5117`) and differed only in the changelog's
+stamp instant. The PR merged from `cacb545` at 02:47:40Z. Slice 5's push of `32c1d20f` landed
+on the branch after the PR had moved past it, so a whole check.sh run and a mobile part-13
+smoke went into duplicate work. `inflight` printed `PR #442 OPEN · resume` and had no way to
+show that another run was lapping it right then. What would have caught it: a marker for
+"a run is lapping this PR now", like a claim, that `inflight` reads.
