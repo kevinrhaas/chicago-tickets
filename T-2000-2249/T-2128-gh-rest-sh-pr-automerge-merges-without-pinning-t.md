@@ -30,3 +30,5 @@ The ticket budget refused this: the queue stands at 183 lines, at or over its ce
 > A gate bypass of the T-1572 class (#43), not a finding about an existing ticket: PR #450 was merged at head 0c99665 on the green checks of 2b461e2, because the PR API still reported the old head seconds after the push. The fix is one field: pass "sha" in the PUT pulls/N/merge payload so GitHub answers 409 when the head moved. (The merged tree was re-gated afterwards: check.sh 780/780 green on dev 1de230b.)
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+**Finding, 2026-10-05 (#468, T-2127):** seen live. After a push of `df31afc0` (a dev merge plus a changelog conflict fix), `pr-automerge` printed `every check on faecc49 is green — merging`, which was the PREVIOUS head, and merged `df31afc0` within seconds. The PR's head ref had not yet moved when the checks were read. Harmless this time: the delta was dev's own gated #467 plus a changelog the run had verified locally with `check-changelog.mjs`. It is the exact shape this ticket names, and it also happens when the run's OWN push races the read, not only a third party's.
