@@ -1,7 +1,7 @@
 ---
 id: T-2066
 title: Raise the 1812 shore bank south of Twelfth to Moses & Kirkland's 10-20 ft, with low broken sand-hills and swales the sand prairie can stand in
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-05
 pr: 490
 claimed_by: run 10/5/2026, 2:16:46 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-05T23:53:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37360845139
 claimed_at: 2026-10-05T19:16:46.277Z
 decision: null
