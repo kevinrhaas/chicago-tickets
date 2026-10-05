@@ -1,7 +1,7 @@
 ---
 id: T-1118
 title: A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 8:17:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37315020296
+claimed_at: 2026-10-05T13:17:58.958Z
+decision: null
+decision_answer: null
 ---
 
 `bake_ref.py --check-base` now answers whether the ref a bake was built from still
