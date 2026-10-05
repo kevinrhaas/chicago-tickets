@@ -1,7 +1,7 @@
 ---
 id: T-2123
 title: Fort Dearborn's roofs sit on their walls and its timber reads weathered: the artillery house's shed roof gets its gable walls, gable ends are timber not shingle, the pickets are split and irregular with a ribband and a grained face, in 1812 and 1835
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 459
 claimed_by: run 10/4/2026, 11:05:01 PM CT
 blocked_on: null
 needs_bake: false
