@@ -1,7 +1,7 @@
 ---
 id: T-2119
 title: Front door as a working machine: boot scan, lamps, gauges, live coordinate holds and an operator's manual
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 446
 claimed_by: run 10/4/2026, 9:06:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T04:36:23Z
 claimed_run: null
 claimed_at: 2026-10-05T02:06:29.692Z
 decision: null

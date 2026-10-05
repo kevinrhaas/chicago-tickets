@@ -359,7 +359,6 @@ T-1946 — Close side-street and rail-side background gaps
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-T-2119 — Front door as a working machine: boot scan, lamps, gauges, live coordinate holds and an operator's manual
 T-2120 — Arrival menu: three equal choices, quick starts, compact typed jaunt list, clear back navigation
 T-2121 — Weathered, varied yard furniture: round hooped barrels, grained crates, wagons and carts in differing weathered wood tones
 T-2125 — Zone edges blend and wander: the town, the prairies and the fort's apron meet in a ragged margin about 100 m wide, and a lone cabin's clearing is no longer a disc
