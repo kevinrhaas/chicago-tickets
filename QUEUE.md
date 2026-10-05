@@ -193,7 +193,8 @@ T-2117 — check.sh no longer fits a steward run's 600 s on four cores: 763 of 7
 T-2116 — The 1904 grid's Indiana and Calumet frontage lots: lot lines between the alleys and Indiana (sheets 20, 35) and Calumet (sheets 28, 35), with their printed addresses
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
-T-1758 — Build the plat's last tier to its seats: the Dearborn, Market and Clark blocks' 13 slots the platted deal still holds, the rest of the tier's open ground left honestly open
+T-2129 — Build the Market block of the plat's last tier to its seats: the five houses the platted deal requests on blk_washington_market, with the five yard buildings its plan holds
+T-2130 — Build the Dearborn and Clark blocks of the plat's last tier to their seats: the slots the platted deal still requests on blk_washington_dearborn and blk_washington_clark, the rest of the tier's open ground left honestly open
 T-1829 — The West Division's remainder handed on from T-1208: the 16 ordinary dwellings the programme still orders, blk_west_lake_canal's three dealt frame cottages first, built and baked with their households seated
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
 T-1977 — The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
