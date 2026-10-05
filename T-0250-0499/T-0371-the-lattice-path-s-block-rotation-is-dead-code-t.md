@@ -1,7 +1,7 @@
 ---
 id: T-0371
 title: The lattice path's block rotation is dead code that measure_rank_bias.mjs's drift guard pins in place
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-29
 closed: null
-pr: null
+pr: 454
 claimed_by: run 10/4/2026, 10:51:30 PM CT
 blocked_on: null
 needs_bake: false
