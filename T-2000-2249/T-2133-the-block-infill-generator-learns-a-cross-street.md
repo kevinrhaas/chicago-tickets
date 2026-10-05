@@ -1,7 +1,7 @@
 ---
 id: T-2133
 title: The block-infill generator learns a cross-street term: a slot may front the side street of a corner lot, framed off that lot's own side line and held to the light-street and better-face clauses unchanged, proved by a self-test in the gate with no roof dealt
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1684
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 469
 claimed_by: run 10/5/2026, 4:51:28 AM CT
 blocked_on: null
 needs_bake: false
