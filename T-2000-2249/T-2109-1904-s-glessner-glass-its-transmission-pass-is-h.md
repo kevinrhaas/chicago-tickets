@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: c
 ---
 
 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light.
@@ -53,3 +53,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 ## Finding — #431 (2026-10-04)
 
 Both candidates shipped behind `?glass=clear|dark` in #431 (`renderers/web/js/glass.js`), with the default unchanged. The reading and the capture are in `docs/measurements/T-2109-glessner-glass.md`: either pane halves the 1904 landing frame at balanced and light on both viewports. **What is left once the owner answers:** change `DEFAULT_GLASS` (or make it per tier) to his pick, and update `tools/check_glass_modes.mjs` to match. The claim was released when the question was asked, so the run that ships his answer can take it.
+
+**Owner answer (2026-10-04, via Manager):** (c) dark at balanced and light (every pane a darker plate)
