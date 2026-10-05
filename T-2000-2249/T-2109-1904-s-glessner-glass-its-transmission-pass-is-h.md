@@ -1,7 +1,7 @@
 ---
 id: T-2109
 title: 1904's Glessner glass: its transmission pass is half of every frame at both viewports — put a cheaper glass to the owner with before/after captures and ship the one he picks, at least at balanced and light
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2099
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 450
 claimed_by: run 10/4/2026, 9:39:26 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T04:46:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37256033617
 claimed_at: 2026-10-05T02:39:26.975Z
 decision: answered
