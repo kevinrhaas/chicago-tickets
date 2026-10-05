@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Attach the scene bundle to the scheduled content build and its manual dispatch, publish it with a discovery manifest and a latest-good pointer, and record a fresh-download receipt (a workflow change).
@@ -37,3 +37,5 @@ Piece 2 of 2 of **T-1357 — Publish a versioned Chicago scene bundle from every
 **Recommendation:** (a) An interactive session with you makes the workflow edit; the packer and verifier it calls (tools/scene_bundle.py, T-2067) are already on dev — It is the standing rule in AGENTS.md, and the code it needs has already landed, so the workflow change is small. Publication storage is also a cost/access question (GitHub Release assets vs expiring Actions artifacts), which is yours either way.
 
 **Asked:** 2026-10-04 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37182479150. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-04, via Manager):** (a) An interactive session with you makes the workflow edit; the packer and verifier it calls (tools/scene_bundle.py, T-2067) are already on dev
