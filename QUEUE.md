@@ -189,7 +189,6 @@ T-1744 — L270 says Kinzie's twenty slots are labourers' households and the sea
 T-2117 — check.sh no longer fits a steward run's 600 s on four cores: 763 of 774 steps done at 595 s, 2,288 CPU-seconds, slowest steps derive_resident_roles --check 168 s and placement_policy_1835 --self-test 162 s
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
-T-2129 — Build the Market block of the plat's last tier to its seats: the five houses the platted deal requests on blk_washington_market, with the five yard buildings its plan holds
 T-2130 — Build the Dearborn and Clark blocks of the plat's last tier to their seats: the slots the platted deal still requests on blk_washington_dearborn and blk_washington_clark, the rest of the tier's open ground left honestly open
 T-2132 — The West Division's remainder after T-1829: 12 ordinary dwellings and one freight roof the programme still orders, with every lot-ruled West block at capacity and 19 unruled blocks gated on a lot line
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
