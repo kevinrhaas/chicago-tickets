@@ -1,7 +1,7 @@
 ---
 id: T-1746
 title: The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 494
 claimed_by: run 10/5/2026, 4:32:36 PM CT
 blocked_on: null
 needs_bake: false
