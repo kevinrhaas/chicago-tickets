@@ -1,7 +1,7 @@
 ---
 id: T-1744
 title: L270 says Kinzie's twenty slots are labourers' households and the seats file says thirteen tradesmen's, six merchant and professional and one labourer's: correct the register to the ground it scopes
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 484
 claimed_by: run 10/5/2026, 11:21:20 AM CT
 blocked_on: null
 needs_bake: false
