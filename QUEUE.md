@@ -215,7 +215,6 @@ T-2043 — Reconcile the family rows the order book still orders after T-2021's 
 T-2058 — Take liberties.json off the boot path: a first visit downloads 13.122 MB against the 13 MB budget
 T-2059 — The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's leaf-scale trees, past the 250 ms check
 T-2060 — Re-measure boot-weights.js: the terrain phase grew 0.7 to 3.7 s and the boot moved 25-70 % since its reading
-T-2061 — Touch targets the arrival-and-jaunts path still reaches under 44px: HUD chips 38px, the drawer's Back and Close 30px and its tabs 37px wide at 320, the place card's 'why' toggles 19x17
 T-2062 — Place the first fort's factor's house, gardens and outbuildings in the 1812 scene: the 1808 draught draws them without any regular rule (sheet_only) or not at all (not_located), so find a scaled source or rule how they may stand
 T-2066 — Raise the 1812 shore bank south of Twelfth to Moses & Kirkland's 10-20 ft, with low broken sand-hills and swales the sand prairie can stand in
 T-2079 — The Sources topic reads sidecars/1835/sources/ in every scene: compile a per-scene source index so 1904's Sources lists the sources its own records cite, not the 1835 catalog

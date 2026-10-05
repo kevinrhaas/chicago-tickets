@@ -1,7 +1,7 @@
 ---
 id: T-2061
 title: Touch targets the arrival-and-jaunts path still reaches under 44px: HUD chips 38px, the drawer's Back and Close 30px and its tabs 37px wide at 320, the place card's 'why' toggles 19x17
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-04
 pr: 437
 claimed_by: run 10/4/2026, 5:27:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T00:46:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37239878195
 claimed_at: 2026-10-04T22:27:55.031Z
 decision: null
