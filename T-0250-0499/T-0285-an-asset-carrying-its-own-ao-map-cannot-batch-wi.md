@@ -1,7 +1,7 @@
 ---
 id: T-0285
 title: An asset carrying its own AO map cannot batch with the town: +2 draw calls for one building
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,9 +11,14 @@ parent: null
 opened: 2026-08-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 10:15:55 PM CT
 blocked_on: null
 needs_bake: false
+closed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37258515015
+claimed_at: 2026-10-05T03:15:55.243Z
+decision: null
+decision_answer: null
 ---
 
 An asset carrying its own AO map cannot batch with the town: +2 draw calls for one building.
