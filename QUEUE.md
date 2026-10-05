@@ -175,7 +175,10 @@ T-1711 — A steward run cancelled at the 150-minute cap does not tell the sched
 T-2140 — Split the Pruyne-Kimberly partnership household: Dr Kimberly to a household of his own (carrying the Vermont the arrival note holds for him), seated on kimberly_residence on Bonnell's walk, Pruyne staying with the south-bank store
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
-T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
+T-2144 — The School Section tier joins the platted grid and the roof schedule: its five dry South blocks south of Madison (81, 94, 95, 118, 119; 40 lots) take the South's 40 owed dwellings off the district balance
+T-2145 — Build the School Section tier's Clark blocks south of Madison (118, 119): ordinary dwellings dealt on the tier's own lots
+T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
+T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
 T-2132 — The West Division's remainder after T-1829: 12 ordinary dwellings and one freight roof the programme still orders, with every lot-ruled West block at capacity and 19 unruled blocks gated on a lot line
 T-2143 — The West Division's remainder after T-2132: 8 ordinary dwellings and one freight roof, with every lot-ruled West block at capacity and 18 unruled blocks gated on a lot line
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for

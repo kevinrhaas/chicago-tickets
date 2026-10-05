@@ -1,7 +1,7 @@
 ---
 id: T-1755
 title: Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-29
-closed: null
+closed: 2026-10-05
 pr: null
 claimed_by: run 10/5/2026, 1:53:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T18:55:49.216Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37358954436
 claimed_at: 2026-10-05T18:53:01.914Z
 decision: answered
