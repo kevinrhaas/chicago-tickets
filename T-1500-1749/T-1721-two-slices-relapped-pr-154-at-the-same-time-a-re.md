@@ -1,7 +1,7 @@
 ---
 id: T-1721
 title: Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-28
 closed: null
-pr: null
+pr: 473
 claimed_by: run 10/5/2026, 6:58:48 AM CT
 blocked_on: null
 needs_bake: false
