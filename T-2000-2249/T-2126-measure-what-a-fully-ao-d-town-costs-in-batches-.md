@@ -1,7 +1,7 @@
 ---
 id: T-2126
 title: Measure what a fully AO'd town costs in batches and draws at the critic stations at both viewports, and name which route that implies — a shared atlas across masters, a per-batch atlas built at load, or per-vertex AO
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-0285
 opened: 2026-10-04
-closed: null
+closed: 2026-10-05
 pr: 458
 claimed_by: run 10/4/2026, 11:38:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T05:29:18Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37258515015
 claimed_at: 2026-10-05T04:38:52.764Z
 decision: null
