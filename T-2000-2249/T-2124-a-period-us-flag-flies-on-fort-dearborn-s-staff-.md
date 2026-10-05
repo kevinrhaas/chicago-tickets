@@ -1,7 +1,7 @@
 ---
 id: T-2124
 title: A period US flag flies on Fort Dearborn's staff: 15 stars and 15 stripes in 1812, 24 stars in 1835, with a gentle wind flutter that costs no lag
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 11:05:04 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-05T04:05:04.103Z
 decision: null
 decision_answer: null
 ---
