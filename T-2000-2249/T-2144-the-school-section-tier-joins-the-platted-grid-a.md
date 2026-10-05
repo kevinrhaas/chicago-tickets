@@ -1,7 +1,7 @@
 ---
 id: T-2144
 title: The School Section tier joins the platted grid and the roof schedule: its five dry South blocks south of Madison (81, 94, 95, 118, 119; 40 lots) take the South's 40 owed dwellings off the district balance
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1755
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 1:55:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37358954436
+claimed_at: 2026-10-05T18:55:54.604Z
 decision: null
 decision_answer: null
 ---
