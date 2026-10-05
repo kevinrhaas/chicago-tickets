@@ -1,7 +1,7 @@
 ---
 id: T-0438
 title: The letter-list cohort is 2.54 MiB of the published tree, and it is now the largest single item in it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-08-30
 closed: null
-pr: null
+pr: 440
 claimed_by: run 10/4/2026, 6:46:47 PM CT
 blocked_on: null
 needs_bake: false
