@@ -1,7 +1,7 @@
 ---
 id: T-2115
 title: The 1904 grid's legal lots: Robinson 1886 lot, block and subdivision on the 16th-18th Prairie parcels and HABS's on prairie_1800, shown on the lot card
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1745
 opened: 2026-10-04
-closed: null
+closed: 2026-10-04
 pr: 442
 claimed_by: run 10/4/2026, 7:49:23 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T02:47:40Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37248032401
 claimed_at: 2026-10-05T00:49:23.525Z
 decision: null
