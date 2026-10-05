@@ -1,7 +1,7 @@
 ---
 id: T-2101
 title: Vacant platted lots as grazed, flowering prairie remnant: shorter and patchier than the open prairie, with its flowers, instead of the settled-town weed mix (T-2086's second half)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-05
 pr: 460
 claimed_by: run 10/4/2026, 11:59:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T08:52:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37265644679
 claimed_at: 2026-10-05T04:59:55.872Z
 decision: null
