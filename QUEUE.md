@@ -58,8 +58,6 @@
 # --- every grass and land texture rebuilt the road's way (owner, same day), kept lots, then road shoulders, alleys,
 # --- frontages and paths. Trees and the prairie outside the town are kept.
 # Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
-T-2123 — Fort Dearborn's roofs sit on their walls and its timber reads weathered: the artillery house's shed roof gets its gable walls, gable ends are timber not shingle, the pickets are split and irregular with a ribband and a grained face, in 1812 and 1835
-T-2124 — A period US flag flies on Fort Dearborn's staff: 15 stars and 15 stripes in 1812, 24 stars in 1835, with a gentle wind flutter that costs no lag
 
 # --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
 # --- cannot judge its own work until they are done. THREE assertions have been standing
