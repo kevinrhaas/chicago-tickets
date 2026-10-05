@@ -1,7 +1,7 @@
 ---
 id: T-2101
 title: Vacant platted lots as grazed, flowering prairie remnant: shorter and patchier than the open prairie, with its flowers, instead of the settled-town weed mix (T-2086's second half)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 460
 claimed_by: run 10/4/2026, 11:59:55 PM CT
 blocked_on: null
 needs_bake: false
