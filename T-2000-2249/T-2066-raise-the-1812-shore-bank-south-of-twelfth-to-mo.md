@@ -1,7 +1,7 @@
 ---
 id: T-2066
 title: Raise the 1812 shore bank south of Twelfth to Moses & Kirkland's 10-20 ft, with low broken sand-hills and swales the sand prairie can stand in
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 490
 claimed_by: run 10/5/2026, 2:16:46 PM CT
 blocked_on: null
 needs_bake: true
