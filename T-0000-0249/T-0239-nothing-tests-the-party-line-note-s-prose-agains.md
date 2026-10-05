@@ -1,7 +1,7 @@
 ---
 id: T-0239
 title: Nothing tests the party-line note's prose against the placement it describes
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,9 +11,14 @@ parent: null
 opened: 2026-08-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 8:42:09 PM CT
 blocked_on: null
 needs_bake: false
+closed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37252213975
+claimed_at: 2026-10-05T01:42:09.095Z
+decision: null
+decision_answer: null
 ---
 
 Nothing tests the party-line note's prose against the placement it describes.
