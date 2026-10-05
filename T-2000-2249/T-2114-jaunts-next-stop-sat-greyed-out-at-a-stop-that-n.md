@@ -1,7 +1,7 @@
 ---
 id: T-2114
 title: Jaunts: Next Stop sat greyed out at a stop that needs a choice, with the options hidden below the fold on a phone
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 434
 claimed_by: run 10/4/2026, 6:15:42 PM CT
 blocked_on: null
 needs_bake: false
