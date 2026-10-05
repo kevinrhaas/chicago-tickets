@@ -1,7 +1,7 @@
 ---
 id: T-2139
 title: The two Kelsey directory identities, ruled: Bonnell prints Parnick twice and never Patrick, so the committed 'both ways in one sentence' is corrected, and Fergus 1843's Patrick is merged with Norris 1844's Parnick on the trade and the block they share
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1725
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 480
 claimed_by: run 10/5/2026, 9:31:22 AM CT
 blocked_on: null
 needs_bake: false
