@@ -173,7 +173,6 @@ T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one bra
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-2140 — Split the Pruyne-Kimberly partnership household: Dr Kimberly to a household of his own (carrying the Vermont the arrival note holds for him), seated on kimberly_residence on Bonnell's walk, Pruyne staying with the south-bank store
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
-T-2144 — The School Section tier joins the platted grid and the roof schedule: its five dry South blocks south of Madison (81, 94, 95, 118, 119; 40 lots) take the South's 40 owed dwellings off the district balance
 T-2145 — Build the School Section tier's Clark blocks south of Madison (118, 119): ordinary dwellings dealt on the tier's own lots
 T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
