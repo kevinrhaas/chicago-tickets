@@ -1,7 +1,7 @@
 ---
 id: T-1745
 title: The 1904 grid's remaining lots: Robinson 1886 legal lot numbers on 16th-18th Prairie, and the Indiana and Calumet frontage lots
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/4/2026, 7:38:05 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37248032401
+claimed_at: 2026-10-05T00:38:06.010Z
 decision: null
 decision_answer: null
 ---
