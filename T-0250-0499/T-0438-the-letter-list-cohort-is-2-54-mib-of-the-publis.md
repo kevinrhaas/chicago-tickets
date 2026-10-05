@@ -1,7 +1,7 @@
 ---
 id: T-0438
 title: The letter-list cohort is 2.54 MiB of the published tree, and it is now the largest single item in it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-08-30
-closed: null
+closed: 2026-10-04
 pr: 440
 claimed_by: run 10/4/2026, 6:46:47 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T01:37:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37244803697
 claimed_at: 2026-10-04T23:46:47.836Z
 decision: null

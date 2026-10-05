@@ -175,7 +175,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
-T-0438 — The letter-list cohort is 2.54 MiB of the published tree, and it is now the largest single item in it
 T-0776 — A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible
 T-0239 — Nothing tests the party-line note's prose against the placement it describes
 T-0253 — May an invented building stand on the river margin of a platted street corridor
