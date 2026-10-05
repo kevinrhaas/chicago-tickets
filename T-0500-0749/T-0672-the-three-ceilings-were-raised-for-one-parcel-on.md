@@ -103,3 +103,14 @@ red on `light` alone. T-0192 (#331) hid its cross-street walks at `light`
 (`light.crossStreetWalks: false`) and still reads 856,275 there (+4,844, inferred from the walks'
 planting keep-outs, which apply at every tier). `full`/`balanced` were re-set to 2,140,000 /
 1,820,000 in the same PR. The floor is this ticket's, or a trim's, to win back.
+
+## Worked 2026-10-04 (PR #439): every tier back down; `light` to 1,005,000, not 785,000
+
+Re-read with `tools/measure_detail_ceilings.mjs` on the published mirror of dev @ 7504e4fc
+(#432 in), six stands, both viewports (`docs/measurements/t-0672-detail-ceilings.json`).
+Desktop is worst at every tier: full 2,665,994, balanced 2,072,747, light 988,055. By this
+ticket's own rule: full 2,840,000 -> 2,685,000, balanced 2,145,000 -> 2,090,000, light
+1,040,000 -> 1,005,000. The "light at or under 785,000" clause is superseded: the owner
+explicitly authorized light's raises past it on 2026-10-03 (T-2015, T-2035/T-2037), after
+this ticket was written, and the later ruling stands. Getting back under 785,000 would mean
+trimming the vegetation he authorized, which is a new question and not this retirement.
