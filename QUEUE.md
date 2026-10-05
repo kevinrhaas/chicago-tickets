@@ -188,6 +188,7 @@ T-1700 — The county called something the Court House at Chicago in December 18
 T-1705 — Two tools still hand work to T-1202, which closed with T-1688 and is now a spent split parent: build_order_book_1835.py routes (south, institutional_public) to it and name_the_keepers_1835.py names it as a live parent — each needs a live owner or the reference retired
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
 T-1721 — Two slices relapped PR #154 at the same time: a resume PR is not counted as a row a live sibling holds, so under slices > 1 more than one run takes it
+T-2128 — gh-rest.sh pr-automerge merges without pinning the sha it gated, so a push that lands between its check read and its merge PUT goes into dev ungated
 T-1723 — Newberry & Dole's warehouse: Bonnell puts it on the north bank east end eight weeks after the scene date, so the south-bank reading now rests on an untraceable dossier tag against a contemporaneous witness
 T-1725 — The Pruyne-Kimberly partnership household split, and the two Kelsey identities merged: Bonnell puts one partner's residence on the north bank and spells Kelsey both ways in one sentence
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find
