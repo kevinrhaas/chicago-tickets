@@ -1,7 +1,7 @@
 ---
 id: T-2061
 title: Touch targets the arrival-and-jaunts path still reaches under 44px: HUD chips 38px, the drawer's Back and Close 30px and its tabs 37px wide at 320, the place card's 'why' toggles 19x17
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 437
 claimed_by: run 10/4/2026, 5:27:55 PM CT
 blocked_on: null
 needs_bake: false
