@@ -198,7 +198,8 @@ T-1723 — Newberry & Dole's warehouse: Bonnell puts it on the north bank east e
 T-1725 — The Pruyne-Kimberly partnership household split, and the two Kelsey identities merged: Bonnell puts one partner's residence on the north bank and spells Kelsey both ways in one sentence
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find
 T-1744 — L270 says Kinzie's twenty slots are labourers' households and the seats file says thirteen tradesmen's, six merchant and professional and one labourer's: correct the register to the ground it scopes
-T-1745 — The 1904 grid's remaining lots: Robinson 1886 legal lot numbers on 16th-18th Prairie, and the Indiana and Calumet frontage lots
+T-2115 — The 1904 grid's legal lots: Robinson 1886 lot, block and subdivision on the 16th-18th Prairie parcels and HABS's on prairie_1800, shown on the lot card
+T-2116 — The 1904 grid's Indiana and Calumet frontage lots: lot lines between the alleys and Indiana (sheets 20, 35) and Calumet (sheets 28, 35), with their printed addresses
 T-1746 — The seating pass asks twenty roofs of Kinzie's Addition's two subdivided blocks and the north-division memo will not carry twenty: rule which of the two moves, or carry the surplus off the addition
 T-1755 — Build the South Division's remaining ordinary dwellings: the roofs the district still owes after the plat's last tier and the outer books closed, on the blocks the street carry emitted
 T-1758 — Build the plat's last tier to its seats: the Dearborn, Market and Clark blocks' 13 slots the platted deal still holds, the rest of the tier's open ground left honestly open
