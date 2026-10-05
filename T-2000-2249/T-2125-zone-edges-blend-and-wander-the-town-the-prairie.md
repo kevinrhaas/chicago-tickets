@@ -1,7 +1,7 @@
 ---
 id: T-2125
 title: Zone edges blend and wander: the town, the prairies and the fort's apron meet in a ragged margin about 100 m wide, and a lone cabin's clearing is no longer a disc
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 456
 claimed_by: run 10/4/2026, 11:34:21 PM CT
 blocked_on: null
 needs_bake: false
