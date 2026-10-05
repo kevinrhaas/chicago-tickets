@@ -1,7 +1,7 @@
 ---
 id: T-1829
 title: The West Division's remainder handed on from T-1208: the 16 ordinary dwellings the programme still orders, blk_west_lake_canal's three dealt frame cottages first, built and baked with their households seated
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1208
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 12:58:10 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37269845291
+claimed_at: 2026-10-05T05:58:10.433Z
 decision: null
 decision_answer: null
 ---
