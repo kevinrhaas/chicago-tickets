@@ -172,11 +172,9 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
-T-1118 — A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
 T-2134 — Deal the W2-W4 mechanics' shops onto a Dearborn face with the cross-street term: State is a light street and refuses a workshop, and every Dearborn corner lot of the blocks whose best face Dearborn is will be built or reserved once T-2130 lands, so first decide whether a corner lot's side street may carry a second principal roof, then deal, seat and bake
 T-2136 — Name or refuse the keepers on the 24 roofs the platted deal seats outside the keepers pass's three districts — 18 on the Washington tier's blocks, the rest West and North: run name_the_keepers_1835.py over them, adding each district with the ticket that carries it
 T-1711 — A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
-T-1723 — Newberry & Dole's warehouse: Bonnell puts it on the north bank east end eight weeks after the scene date, so the south-bank reading now rests on an untraceable dossier tag against a contemporaneous witness
 T-2137 — Newberry & Dole's store house stands at the Dearborn end of South Water Street by its neighbours' advertisements, and the committed warehouse stands four blocks west at Franklin: rule which building the paper means, then move or keep it
 T-1725 — The Pruyne-Kimberly partnership household split, and the two Kelsey identities merged: Bonnell puts one partner's residence on the north bank and spells Kelsey both ways in one sentence
 T-1726 — The platted-corridor gate sees 33 of the 79 streets this town draws: decide whether the corridor layer should reach the other 46, and adjudicate what turning it on would find

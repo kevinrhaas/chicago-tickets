@@ -1,7 +1,7 @@
 ---
 id: T-1118
 title: A bake whose ref merged mid-run still spends the whole bake before the PR is withheld
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-13
-closed: null
+closed: 2026-10-05
 pr: 475
 claimed_by: run 10/5/2026, 8:17:58 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T13:59:39Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37315020296
 claimed_at: 2026-10-05T13:17:58.958Z
 decision: null
