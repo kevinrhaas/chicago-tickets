@@ -1,7 +1,7 @@
 ---
 id: T-2130
 title: Build the Dearborn and Clark blocks of the plat's last tier to their seats: the slots the platted deal still requests on blk_washington_dearborn and blk_washington_clark, the rest of the tier's open ground left honestly open
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1758
 opened: 2026-10-05
-closed: null
+closed: 2026-10-05
 pr: 466
 claimed_by: run 10/5/2026, 1:33:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-05T13:27:02Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37272737086
 claimed_at: 2026-10-05T06:33:19.844Z
 decision: null
