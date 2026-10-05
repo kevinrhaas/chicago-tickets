@@ -178,6 +178,7 @@ T-1118 — A bake whose ref merged mid-run still spends the whole bake before th
 T-0776 — A full tools/web_derivatives.sh rewrites 348 derivatives with identical byte counts: the derivative step is not reproducible
 T-0239 — Nothing tests the party-line note's prose against the placement it describes
 T-0253 — May an invented building stand on the river margin of a platted street corridor
+T-2118 — north_bank_shed_dearborn_e1, an invented freight shed, laps Dearborn North's platted corridor by 6.63 m with its centroid inside it, banked in the corridor baseline and refused in writing nowhere — the act T-0253 refuses on the south bank
 T-0285 — An asset carrying its own AO map cannot batch with the town: +2 draw calls for one building
 T-0053 — A patched lit material silently inherits another layer's shader program
 T-0371 — The lattice path's block rotation is dead code that measure_rank_bias.mjs's drift guard pins in place
