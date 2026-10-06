@@ -1,7 +1,7 @@
 ---
 id: T-2152
 title: The 1835 walk is killed on an iPhone again: halve the sign and yard-mark atlases on a phone, and stop the plank-walk and fence builders churning a gigabyte of garbage
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/6/2026, 1:35:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-06T18:35:52.806Z
 decision: null
 decision_answer: null
 ---
