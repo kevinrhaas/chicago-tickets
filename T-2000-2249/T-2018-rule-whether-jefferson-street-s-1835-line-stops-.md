@@ -1,7 +1,7 @@
 ---
 id: T-2018
 title: Rule whether Jefferson Street's 1835 line stops at Kinzie: its committed reach north to Hubbard crosses Wabansia block 59, which Wright's 1834 survey draws whole
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 501
 claimed_by: run 10/6/2026, 12:25:20 PM CT
 blocked_on: null
 needs_bake: false
