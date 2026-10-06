@@ -1,7 +1,7 @@
 ---
 id: T-2058
 title: Take liberties.json off the boot path: a first visit downloads 13.122 MB against the 13 MB budget
-state: open
+state: claimed
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/6/2026, 12:52:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37501087501
+claimed_at: 2026-10-06T17:52:20.702Z
 decision: null
 decision_answer: null
 ---
