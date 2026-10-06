@@ -1,7 +1,7 @@
 ---
 id: T-2140
 title: Split the Pruyne-Kimberly partnership household: Dr Kimberly to a household of his own (carrying the Vermont the arrival note holds for him), seated on kimberly_residence on Bonnell's walk, Pruyne staying with the south-bank store
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1725
 opened: 2026-10-05
-closed: null
+closed: 2026-10-05
 pr: 483
 claimed_by: run 10/5/2026, 10:03:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-06T00:24:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37329198297
 claimed_at: 2026-10-05T15:03:20.954Z
 decision: null
