@@ -1,7 +1,7 @@
 ---
 id: T-2149
 title: The School Section tier's Monroe face fronts no street: plat_corridors.py carries no corridor for Monroe, so the frontage census, placement policy and redeal audit read every Monroe-face roof on blocks 81/94/95/118/119 as fronting none (Madison, 98 m off, is the nearest), the audit re-families three of block 81's houses and measure_block_redeal_remedies --self-test goes red. Rule how Monroe enters the frontage reading
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 499
 claimed_by: run 10/6/2026, 12:10:29 PM CT
 blocked_on: null
 needs_bake: false
