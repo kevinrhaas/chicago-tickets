@@ -1,7 +1,7 @@
 ---
 id: T-2022
 title: Seat the North Division's one owed F3 warehouse on the North Water bank: a bank-landing clause or a regrade of North Water argued on its own evidence, since no committed clause builds a warehouse on a light street
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 504
 claimed_by: run 10/6/2026, 3:20:51 PM CT
 blocked_on: null
 needs_bake: false
