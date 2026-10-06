@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-27
 closed: 2026-10-06
-pr: null
+pr: 190
 claimed_by: run 10/6/2026, 2:56:06 PM CT
 blocked_on: null
 needs_bake: false
@@ -74,9 +74,9 @@ Band 9 (owner, 2026-09-27: "file it as a band 9 ticket").
 ## Closed 2026-10-06 — kevinrhaas/polecat-platform PR #190 (merged, 18b586a)
 
 The fix lives in polecat-platform, so the receipt is a PR there:
-https://github.com/kevinrhaas/polecat-platform/pull/190. `pr:` is left null because this
-repo's `pr` field and `settle` read kevinrhaas/chicago PR numbers. The ticket was closed by
-hand, after the merge, rather than through `done --pr`.
+https://github.com/kevinrhaas/polecat-platform/pull/190. `pr: 190` is that repo's number, as on
+T-1577, T-1609 and T-2128. `settle` reads kevinrhaas/chicago numbers, so the ticket was closed
+by hand after the merge, not through `done --pr`.
 
 1. Done. The refill step admits `cancelled`, and `.github/steward/refill-kick.sh` kicks on
    success or on a cancel within 10 minutes of the cap. A failure still does not kick (#106).
