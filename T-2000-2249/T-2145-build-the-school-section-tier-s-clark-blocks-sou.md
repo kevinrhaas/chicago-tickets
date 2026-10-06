@@ -1,7 +1,7 @@
 ---
 id: T-2145
 title: Build the School Section tier's Clark blocks south of Madison (118, 119): ordinary dwellings dealt on the tier's own lots
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1755
 opened: 2026-10-05
-closed: null
+closed: 2026-10-06
 pr: 503
 claimed_by: run 10/6/2026, 12:32:09 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-06T19:51:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37501045348
 claimed_at: 2026-10-06T17:32:10.024Z
 decision: null
