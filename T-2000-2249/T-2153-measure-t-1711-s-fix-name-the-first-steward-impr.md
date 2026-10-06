@@ -30,3 +30,12 @@ The ticket budget refused this: the queue stands at 155 lines, at or over its ce
 > T-1711's acceptance 4 (a measured refill with run IDs) can only be met by a real cap cancel after its merge; T-1711 leaves the queue in the same pass, so the line count is unchanged
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## What to record
+
+polecat-platform PR #190 (merged 2026-10-06, 18b586a) lets a steward-improve run cancelled
+within 10 minutes of its 150-minute cap kick steward-focus, via `.github/steward/refill-kick.sh`.
+The first such run's `Free this slot…` step should log `→ cancelled at NNNm, the 150m cap;
+kicking steward-focus`. Record that run's id, the steward-focus run it dispatched, and the
+refill run's start time, and write them into T-1711 under its acceptance item 4. If the step
+logs `not kicking` on a cap cancel, the threshold or the start stamp is wrong: say which.
