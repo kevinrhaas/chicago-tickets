@@ -1,7 +1,7 @@
 ---
 id: T-1977
 title: The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
-state: review
+state: done
 epic: TOWN
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-06
 pr: 495
 claimed_by: run 10/5/2026, 4:33:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-06T15:35:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37374714692
 claimed_at: 2026-10-05T21:33:37.939Z
 decision: answered

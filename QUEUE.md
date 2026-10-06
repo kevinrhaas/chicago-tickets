@@ -178,7 +178,6 @@ T-2149 — The School Section tier's Monroe face fronts no street: plat_corridor
 T-2148 — The West Division's remainder after T-2143: 2 ordinary dwellings and one freight roof. Carry Clinton, Jefferson and Des Plaines to Madison as T-2143 carried Canal and West Water, so plat blocks 48-50 (180 ft printed) join the layer
 T-2150 — The West Division's one owed freight roof (F3): seat it on the South Branch bank or at the forks, since the only West block that dealt it (plat block 50) is a module inland
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
-T-1977 — The Native and Métis trading-family camps T-1214 asked for: wait for a source that counts or places them, or build one declared camp
 T-1983 — The programme reconciled: the order book's stable and outbuilding roofs built or re-budgeted, dwellings against the census's 398, residents/transients/garrison on the census screen
 T-2018 — Rule whether Jefferson Street's 1835 line stops at Kinzie: its committed reach north to Hubbard crosses Wabansia block 59, which Wright's 1834 survey draws whole
 T-2022 — Seat the North Division's one owed F3 warehouse on the North Water bank: a bank-landing clause or a regrade of North Water argued on its own evidence, since no committed clause builds a warehouse on a light street
