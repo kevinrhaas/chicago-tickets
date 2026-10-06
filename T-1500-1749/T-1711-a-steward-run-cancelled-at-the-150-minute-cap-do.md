@@ -1,7 +1,7 @@
 ---
 id: T-1711
 title: A steward run cancelled at the 150-minute cap does not tell the scheduler its slot is free, so the lane sits empty until a cron tick that arrives 20-40 minutes apart
-state: open
+state: claimed
 epic: PIPELINE
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/6/2026, 2:56:06 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37522151367
+claimed_at: 2026-10-06T19:56:06.178Z
 decision: null
 decision_answer: null
 ---
