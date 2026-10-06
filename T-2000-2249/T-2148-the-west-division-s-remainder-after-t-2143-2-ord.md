@@ -1,7 +1,7 @@
 ---
 id: T-2148
 title: The West Division's remainder after T-2143: 2 ordinary dwellings and one freight roof. Carry Clinton, Jefferson and Des Plaines to Madison as T-2143 carried Canal and West Water, so plat blocks 48-50 (180 ft printed) join the layer
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/5/2026, 7:28:57 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37393911440
+claimed_at: 2026-10-06T00:28:57.998Z
 decision: null
 decision_answer: null
 ---
