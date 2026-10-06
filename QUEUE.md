@@ -335,3 +335,4 @@ T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 T-2135 — The smoke's plant panel still asserts ten communities and 155 species, and dev has served eleven and 166 since #460 (T-2101's vacant-lot prairie): part 13 is red on dev at mobile, three checks
+T-2152 — The 1835 walk is killed on an iPhone again: halve the sign and yard-mark atlases on a phone, and stop the plank-walk and fence builders churning a gigabyte of garbage
