@@ -1,7 +1,7 @@
 ---
 id: T-2022
 title: Seat the North Division's one owed F3 warehouse on the North Water bank: a bank-landing clause or a regrade of North Water argued on its own evidence, since no committed clause builds a warehouse on a light street
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/6/2026, 3:20:51 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37523361307
+claimed_at: 2026-10-06T20:20:51.196Z
 decision: null
 decision_answer: null
 ---
