@@ -1,7 +1,7 @@
 ---
 id: T-2058
 title: Take liberties.json off the boot path: a first visit downloads 13.122 MB against the 13 MB budget
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 500
 claimed_by: run 10/6/2026, 12:52:20 PM CT
 blocked_on: null
 needs_bake: false
