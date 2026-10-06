@@ -12,7 +12,7 @@ opened: 2026-10-05
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2148
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -66,3 +66,5 @@ It would also add a second West PR conflicting on the same generated files (orde
 ground, yard layers) that #496's lap is already fighting. So `blocked_on: T-2148`, state open,
 rank kept. When T-2148 settles done the ticket gate flags that field, and the next run clears
 it and builds here.
+
+**Unblocked 2026-10-06 ~22:00Z:** T-2148 merged as #496, so blocks 48-50 are on dev and this ticket is buildable from there.
