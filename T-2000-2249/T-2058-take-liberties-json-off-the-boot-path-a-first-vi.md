@@ -1,7 +1,7 @@
 ---
 id: T-2058
 title: Take liberties.json off the boot path: a first visit downloads 13.122 MB against the 13 MB budget
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-06
 pr: 500
 claimed_by: run 10/6/2026, 12:52:20 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-06T20:17:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37501087501
 claimed_at: 2026-10-06T17:52:20.702Z
 decision: null
