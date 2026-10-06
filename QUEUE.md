@@ -173,7 +173,6 @@ T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one bra
 T-2153 — Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the steward-focus run its kick dispatched within a minute
 T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
-T-2148 — The West Division's remainder after T-2143: 2 ordinary dwellings and one freight roof. Carry Clinton, Jefferson and Des Plaines to Madison as T-2143 carried Canal and West Water, so plat blocks 48-50 (180 ft printed) join the layer
 T-2150 — The West Division's one owed freight roof (F3): seat it on the South Branch bank or at the forks, since the only West block that dealt it (plat block 50) is a module inland
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
 T-1983 — The programme reconciled: the order book's stable and outbuilding roofs built or re-budgeted, dwellings against the census's 398, residents/transients/garrison on the census screen
