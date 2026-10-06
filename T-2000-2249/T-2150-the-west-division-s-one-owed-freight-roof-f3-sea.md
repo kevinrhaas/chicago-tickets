@@ -1,7 +1,7 @@
 ---
 id: T-2150
 title: The West Division's one owed freight roof (F3): seat it on the South Branch bank or at the forks, since the only West block that dealt it (plat block 50) is a module inland
-state: claimed
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-05
 closed: null
 pr: null
-claimed_by: run 10/6/2026, 3:19:23 PM CT
-blocked_on: null
+claimed_by: null
+blocked_on: T-2148
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37523361307
-claimed_at: 2026-10-06T20:19:23.772Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -54,3 +54,15 @@ the forks; the same argument on one of those open West Water lots is the obvious
 **Acceptance:** either (a) the F3 dealt onto a West Water lot (or the forks) by an argument
 made on its own evidence, generated, baked and seated; or (b) the roof restated in writing as
 unbuildable on committed ground, with the row moved to whichever ticket owns that decision.
+
+## Finding, 2026-10-06 (slice 3/5 run 37523361307): this waits on T-2148 landing
+
+Claimed and handed straight back, unbuilt. Everything above is read off T-2148's branch, and
+that branch is not on dev: PR #496 was `dirty` at 20:13Z, conflicting with dev on about 200
+paths after T-2145 (#503), and a sibling holds its lap lock. On dev today blocks 48-50 are not
+on the layer and the West F3 still stands in the gated `west_division_beyond_committed_control`
+balance, so an F3 built here now would be dealt against a schedule T-2148 is about to rewrite.
+It would also add a second West PR conflicting on the same generated files (order book, kept
+ground, yard layers) that #496's lap is already fighting. So `blocked_on: T-2148`, state open,
+rank kept. When T-2148 settles done the ticket gate flags that field, and the next run clears
+it and builds here.
