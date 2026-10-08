@@ -1,7 +1,7 @@
 ---
 id: T-2069
 title: Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 534
 claimed_by: run 10/8/2026, 1:02:48 PM CT
 blocked_on: null
 needs_bake: false
