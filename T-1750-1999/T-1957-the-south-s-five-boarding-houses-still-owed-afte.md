@@ -17,7 +17,7 @@ needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -57,3 +57,15 @@ The schedule now places the South's three owed boarding houses on School Section
 PR #498 (T-2146) closed unmerged and was continued as #511, which merged; T-2147 (#493) merged. Neither raised its block's H3: both deals left the lot open for this ticket and said why (`1835_platted_block_parcels.json`, blk_school_section_tier_95 and _81) — raising a boarding house moves the lodging model, and `seat_lodgers_1835.py` then draws eight lodgers out of `persons/male/10_19/south/lodging/trade` where the order book holds seven, which that stage refuses until the lodger basis is deliberately re-frozen.
 
 Since then the seating walked to its fixpoint and the schedule re-dealt both open lots to dwellings (block 81 lot 1 a D4, block 95 lot 1 a D5 — T-2176's work, in flight). The order book's South `larger_boarding_houses` cell reads **28 ordered, 26 standing, 2 owed to T-1957**, and the 668-roof schedule now holds those two H3s on **`blk_south_water_market`, state `gated`** — the Market wedge (`refused_control.market_south_water`) the 2026-08-29 closure ruling could not cut. No open ticket carries that question (T-2175 and T-2182 also have roofs waiting on the same block). So nothing here is buildable today. Whoever takes this next: either take the wedge to the owner (`ticket.mjs ask`), or re-budget the two through the order book, and take the lodger re-freeze question before raising any H3 anywhere.
+
+## Decision needed
+
+**Question:** The 668-roof schedule still deals 8 roofs (D2, D4, D5, D6, F3, F4 and these two H3 boarding houses) onto blk_south_water_market, the Market-and-South-Water wedge your 2026-08-29 closure ruling could not cut: the ground leaves 2.8 m of block depth at Market against a 24.4 m lot, so the block stays 'gated' and T-1957, T-2175 and T-2182 all wait on it. What should happen to those 8 roofs?
+
+- (a) Re-deal them onto the School Section's Madison–Monroe tier, extending your 2026-10-05 ruling on T-1755 (b) from the 40 dwellings to the wedge's 8 roofs
+- (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES
+- (c) Return them: cut the South's targets by these 8 and re-close the order book (folds into T-1983)
+
+**Recommendation:** (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES — (b) keeps the roofs inside the Original Town where 1835's houses clustered, on ground the plat really drew; only the wedge's west third is pinched out by the South Branch. (a) is the precedent you already set and is the safe fallback for whatever the wedge's east end cannot hold. Whichever you pick, the two boarding houses here also need the lodger basis re-frozen before they are raised (seat_lodgers_1835 refuses a new house's lodgers today), which the run that builds them will take first.
+
+**Asked:** 2026-10-08 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37827267592. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
