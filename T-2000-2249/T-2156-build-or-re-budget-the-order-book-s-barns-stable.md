@@ -1,7 +1,7 @@
 ---
 id: T-2156
 title: Build or re-budget the order book's barns_stables and small_outbuildings roofs (North, South, West), pricing the yard buildings against the dwellings they serve (T-1692)
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1983
 opened: 2026-10-07
-closed: null
+closed: 2026-10-08
 pr: null
 claimed_by: run 10/8/2026, 12:41:30 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T06:20:02.442Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37733398534
 claimed_at: 2026-10-08T05:41:30.432Z
 decision: null
