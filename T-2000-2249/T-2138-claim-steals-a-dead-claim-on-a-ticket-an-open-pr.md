@@ -1,7 +1,7 @@
 ---
 id: T-2138
 title: claim steals a dead claim on a ticket an open PR already carries when that PR's branch names no ticket: T-2122 was rebuilt in full while #449 (claude/project-thread-*) sat open with it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-05
-closed: null
+closed: 2026-10-08
 pr: 526
 claimed_by: run 10/8/2026, 8:31:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T14:15:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37784276575
 claimed_at: 2026-10-08T13:31:18.891Z
 decision: null
