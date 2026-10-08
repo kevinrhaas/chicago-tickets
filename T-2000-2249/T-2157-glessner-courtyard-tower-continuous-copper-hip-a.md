@@ -1,7 +1,7 @@
 ---
 id: T-2157
 title: Glessner courtyard tower: continuous copper hip and crested tile connection
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 516
 claimed_by: run 10/8/2026, 12:24:20 AM CT
 blocked_on: null
 needs_bake: false
