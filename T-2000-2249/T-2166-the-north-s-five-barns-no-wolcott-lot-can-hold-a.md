@@ -1,7 +1,7 @@
 ---
 id: T-2166
 title: The North's five barns no Wolcott lot can hold and the West's seven yard roofs: stand them behind the houses they serve or re-budget the rows, priced against the dwellings (T-1692)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2156
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 1:22:45 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37735631230
+claimed_at: 2026-10-08T06:22:45.433Z
 decision: null
 decision_answer: null
 ---
