@@ -1,7 +1,7 @@
 ---
 id: T-2155
 title: Make the census's people.housed count a household a roof's residents[] seats, as the completion audit does, and reconcile who is present on 1 July between the two files or say why they differ
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1983
 opened: 2026-10-07
 closed: null
-pr: null
+pr: 508
 claimed_by: run 10/7/2026, 11:13:50 PM CT
 blocked_on: null
 needs_bake: false
