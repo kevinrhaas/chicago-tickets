@@ -176,7 +176,6 @@ T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
 T-2150 — The West Division's one owed freight roof (F3): seat it on the South Branch bank or at the forks, since the only West block that dealt it (plat block 50) is a module inland
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
-T-2154 — Show the census screen's dwellings standing against the November census's 398, bracketed by whether boarding houses and taverns count, and the residents / transients / garrison split
 T-2155 — Make the census's people.housed count a household a roof's residents[] seats, as the completion audit does, and reconcile who is present on 1 July between the two files or say why they differ
 T-2156 — Build or re-budget the order book's barns_stables and small_outbuildings roofs (North, South, West), pricing the yard buildings against the dwellings they serve (T-1692)
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
