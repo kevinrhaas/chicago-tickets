@@ -1,7 +1,7 @@
 ---
 id: T-2178
 title: Six St Mary's children were born after 1 July 1835 by their own baptismal entries (1835-07, -09, -10, -12, -13, -14) and their cards read present 'uncertain': rule them not yet born on the scene date
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 9:45:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37794453975
+claimed_at: 2026-10-08T14:45:30.253Z
 decision: null
 decision_answer: null
 ---
