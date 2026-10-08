@@ -176,7 +176,6 @@ T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one bra
 T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
-T-2155 — Make the census's people.housed count a household a roof's residents[] seats, as the completion audit does, and reconcile who is present on 1 July between the two files or say why they differ
 T-2165 — Deal the yard roofs the schedule places on lots that can hold them: the North's stable on the Wolcott block, the South's barn on South Water-Wells and smokehouse on South Water-Dearborn
 T-2169 — Build the West's last three yard roofs (A2, A4, A5) the 668-roof schedule now deals to blk_washington_clinton, mid-yard behind the Canal Street houses of plat block 50
 T-2170 — The North's five A2 barns no Wolcott lot can hold: price a yard building against the yard it stands in (tools/reconcile_665.py ancillary room) and stand them behind the Kinzie core's houses, or re-budget the North barns_stables row with the reasoning in district_group_matrix_note (T-1692)

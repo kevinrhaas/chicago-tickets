@@ -1,7 +1,7 @@
 ---
 id: T-2155
 title: Make the census's people.housed count a household a roof's residents[] seats, as the completion audit does, and reconcile who is present on 1 July between the two files or say why they differ
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1983
 opened: 2026-10-07
-closed: null
+closed: 2026-10-08
 pr: 508
 claimed_by: run 10/7/2026, 11:13:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T08:34:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37726160280
 claimed_at: 2026-10-08T04:13:50.655Z
 decision: null
