@@ -1,7 +1,7 @@
 ---
 id: T-2183
 title: Glessner courtyard window proportions, continuous rear eave and dark glass default
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: courtyard-repair 10/8/2026, 12:53:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-08T17:53:20.330Z
 decision: null
 decision_answer: null
 ---
