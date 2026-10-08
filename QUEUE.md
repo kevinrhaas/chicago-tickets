@@ -184,7 +184,6 @@ T-2059 — The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's 
 T-2060 — Re-measure boot-weights.js: the terrain phase grew 0.7 to 3.7 s and the boot moved 25-70 % since its reading
 T-2093 — dev's smoke part 2 is red at both viewports since #396: the frontage layer lays 33 fence runs and the check still asserts 32 — T-1679 changed town_street_edge.json and not the count; read the 33rd run and restate the count or refuse the run
 T-2100 — Re-pose town_backyard and town_south_water_store: both stand a metre from a wall, so their captures cannot show the yard or shop front T-2085..T-2087 are judged by
-T-2113 — The arrival and welcome screens redraw an unchanged town on every frame: draw it once under the menu and again only when something under it changes
 T-2138 — claim steals a dead claim on a ticket an open PR already carries when that PR's branch names no ticket: T-2122 was rebuilt in full while #449 (claude/project-thread-*) sat open with it
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
