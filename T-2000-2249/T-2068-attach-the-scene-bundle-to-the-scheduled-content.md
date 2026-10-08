@@ -1,7 +1,7 @@
 ---
 id: T-2068
 title: Attach the scene bundle to the scheduled content build and its manual dispatch, publish it with a discovery manifest and a latest-good pointer, and record a fresh-download receipt (a workflow change)
-state: claimed
+state: review
 epic: PIPELINE
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1357
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 533
 claimed_by: run 10/8/2026, 11:49:17 AM CT
 blocked_on: null
 needs_bake: false
