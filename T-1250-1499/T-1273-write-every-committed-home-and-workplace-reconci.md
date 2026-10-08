@@ -1,7 +1,7 @@
 ---
 id: T-1273
 title: Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,11 +11,14 @@ parent: T-1253
 opened: 2026-09-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 2:08:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37828113425
+claimed_at: 2026-10-08T19:08:28.570Z
+decision: null
+decision_answer: null
 ---
 
 Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source.
