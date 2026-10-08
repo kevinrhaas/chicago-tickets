@@ -88,5 +88,9 @@ by hand after the merge, not through `done --pr`.
    (`cancel-in-progress: false`). A lane switched off is refused by `isDueAt` (schedule.mjs).
    `test-refill-kick.sh` in ci.yml gates every case, plus the cap staying equal to the job's
    `timeout-minutes`.
-4. Owed to T-2153. It needs a real cap cancel after the merge.
+4. Owed to T-2153. It needs a real cap cancel after the merge. Reading on 2026-10-08: none
+   yet in the 61 runs after the merge. The lane hit its weekly usage limit at 22:17Z on
+   2026-10-06 and could not run to the cap. The success path through the same step is
+   measured: 37523361307 → steward-focus 37537576369 → refill 37537597325, 13 s from kick to
+   start. T-2153 is blocked on the first cap cancel.
 
