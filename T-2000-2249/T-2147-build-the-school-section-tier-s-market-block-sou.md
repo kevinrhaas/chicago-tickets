@@ -1,7 +1,7 @@
 ---
 id: T-2147
 title: Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1755
 opened: 2026-10-05
-closed: null
+closed: 2026-10-08
 pr: 493
 claimed_by: run 10/5/2026, 5:03:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T15:01:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37378847462
 claimed_at: 2026-10-05T22:03:32.769Z
 decision: null
