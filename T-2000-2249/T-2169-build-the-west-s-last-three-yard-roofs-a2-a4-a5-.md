@@ -1,7 +1,7 @@
 ---
 id: T-2169
 title: Build the West's last three yard roofs (A2, A4, A5) the 668-roof schedule now deals to blk_washington_clinton, mid-yard behind the Canal Street houses of plat block 50
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2168
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 2:03:40 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37740701331
+claimed_at: 2026-10-08T07:03:40.969Z
 decision: null
 decision_answer: null
 ---
