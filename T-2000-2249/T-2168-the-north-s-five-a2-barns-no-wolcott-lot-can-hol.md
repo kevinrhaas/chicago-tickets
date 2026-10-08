@@ -1,7 +1,7 @@
 ---
 id: T-2168
 title: The North's five A2 barns no Wolcott lot can hold and the West's three yard roofs on west_division_beyond_committed_control: stand them behind the houses they serve or re-budget the rows, priced against the dwellings (T-1692)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2166
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 2:02:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37740701331
+claimed_at: 2026-10-08T07:02:25.426Z
 decision: null
 decision_answer: null
 ---
