@@ -1,7 +1,7 @@
 ---
 id: T-2167
 title: Build the West's four yard roofs the schedule deals to blk_washington_clinton (A2, A3, A4, A5) behind the Canal Street houses T-2148 raised
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2166
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 515
 claimed_by: run 10/8/2026, 1:25:39 AM CT
 blocked_on: null
 needs_bake: false
