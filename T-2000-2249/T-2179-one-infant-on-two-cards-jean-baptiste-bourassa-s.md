@@ -1,7 +1,7 @@
 ---
 id: T-2179
 title: One infant on two cards: Jean Baptiste Bourassa (St Mary's 1835-04, born 4 June 1835) is John Baptist son of Leon Bourrassa (St Cyr burial 5, 2 July 1835, 28 days old), and Léon is on two cards too (hh_bourassa_lon, hh_bourrassa_leon). Merge or rule
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 529
 claimed_by: run 10/8/2026, 9:30:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T21:50:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37792329343
 claimed_at: 2026-10-08T14:30:56.975Z
 decision: null
