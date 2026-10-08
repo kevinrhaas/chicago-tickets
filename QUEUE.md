@@ -202,7 +202,8 @@ T-1543 — Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sherif
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: is L Franchere Louis Franchere
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
-T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
+T-2174 — Raise the street line's F2 two-storey warehouse the schedule deals to blk_south_water_dearborn, on the South Water frontage of lot 6 between the C3 row and the bank shed
+T-2175 — The street line's other three warehouses: the F3 the schedule deals to blk_south_water_wells, which generate_block_infill refuses on a platted lot for want of river access (T-0275), and the F3 and F4 on gated blk_south_water_market
 
 # --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.

@@ -1,7 +1,7 @@
 ---
 id: T-1673
 title: The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
-state: claimed
+state: split
 epic: TOWN
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-27
-closed: null
+closed: 2026-10-08
 pr: null
 claimed_by: run 10/8/2026, 5:42:36 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-08T10:45:11.961Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37764746400
 claimed_at: 2026-10-08T10:42:36.147Z
 decision: null
