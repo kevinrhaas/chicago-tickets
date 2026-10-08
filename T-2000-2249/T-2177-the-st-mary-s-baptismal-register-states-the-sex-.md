@@ -1,7 +1,7 @@
 ---
 id: T-2177
 title: The St Mary's baptismal register states the sex of 42 people whose cards carry a drawn sex that contradicts it: 22 children (fils/fille, son/daughter) and 20 mothers drawn male. Read the entry's role and term onto the card and retire the draws
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 12:39:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37817443904
+claimed_at: 2026-10-08T17:39:16.297Z
 decision: null
 decision_answer: null
 ---
