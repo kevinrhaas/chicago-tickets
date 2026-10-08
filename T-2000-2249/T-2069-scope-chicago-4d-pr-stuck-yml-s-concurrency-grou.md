@@ -50,3 +50,5 @@ said so would save the next run reading the job; (2) the gate's full-history clo
 now the slowest step on a busy day, and C4D_GATE_REQUIRE_BASE only needs the merge
 base. A bounded `fetch-depth` plus a `git fetch --deepen` fallback may be worth
 measuring.
+
+**Finding, 2026-10-08 (#530, T-2180):** again. `stuck PR report` run 37811301944 was cancelled while `gate` and `moving-frames` were in progress; `pr-automerge` refused (exit 3) and applied `resume` to a PR gated green locally (check.sh 790/790, smoke parts mobile 13/3 and desktop 3). The run re-ran the report via REST and left the merge to the next lap.
