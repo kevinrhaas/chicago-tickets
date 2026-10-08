@@ -1,7 +1,7 @@
 ---
 id: T-1219
 title: The three re-spelled cards still say in prose that the papers print the reading T-1139 overturned: hh_fraser_wm_h reads 'Wm. H. Frazer' and its own note says the papers print 'Wm. H. Fraser'
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-08
 pr: 539
 claimed_by: run 10/8/2026, 1:56:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T20:49:21Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37827267592
 claimed_at: 2026-10-08T18:56:20.001Z
 decision: null
