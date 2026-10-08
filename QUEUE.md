@@ -178,7 +178,6 @@ T-2147 — Build the School Section tier's Market block south of Madison (81): o
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
 T-2155 — Make the census's people.housed count a household a roof's residents[] seats, as the completion audit does, and reconcile who is present on 1 July between the two files or say why they differ
 T-2165 — Deal the yard roofs the schedule places on lots that can hold them: the North's stable on the Wolcott block, the South's barn on South Water-Wells and smokehouse on South Water-Dearborn
-T-2167 — Build the West's four yard roofs the schedule deals to blk_washington_clinton (A2, A3, A4, A5) behind the Canal Street houses T-2148 raised
 T-2168 — The North's five A2 barns no Wolcott lot can hold and the West's three yard roofs on west_division_beyond_committed_control: stand them behind the houses they serve or re-budget the rows, priced against the dwellings (T-1692)
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 T-2043 — Reconcile the family rows the order book still orders after T-2021's ruling: 464 family and store households and 208 adult men in family houses, against the 1,293 head records awaiting a household and a town at its 3,265 ceiling
