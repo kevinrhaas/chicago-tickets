@@ -1,7 +1,7 @@
 ---
 id: T-2190
 title: Chester Ingersoll's house carries a modelled wife, 'Martha Ingersoll', while the Democrat of 17 December 1833 prints his marriage to Betsy Weaver, who sits on her own card (hh_weaver_betsy): seat the printed bride as the wife, withdraw the modelled one, and write the husband/wife tie
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 547
 claimed_by: run 10/8/2026, 4:29:53 PM CT
 blocked_on: null
 needs_bake: false
