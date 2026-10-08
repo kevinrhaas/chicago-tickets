@@ -1,7 +1,7 @@
 ---
 id: T-2113
 title: The arrival and welcome screens redraw an unchanged town on every frame: draw it once under the menu and again only when something under it changes
-state: open
+state: claimed
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/7/2026, 11:09:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37725712604
+claimed_at: 2026-10-08T04:09:11.411Z
 decision: null
 decision_answer: null
 ---
