@@ -1,7 +1,7 @@
 ---
 id: T-2146
 title: Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1755
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 511
 claimed_by: run 10/8/2026, 1:03:05 AM CT
 blocked_on: null
 needs_bake: false
