@@ -1,7 +1,7 @@
 ---
 id: T-2165
 title: Deal the yard roofs the schedule places on lots that can hold them: the North's stable on the Wolcott block, the South's barn on South Water-Wells and smokehouse on South Water-Dearborn
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2156
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 1:20:16 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37733398534
+claimed_at: 2026-10-08T06:20:16.665Z
 decision: null
 decision_answer: null
 ---
