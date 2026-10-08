@@ -1,7 +1,7 @@
 ---
 id: T-2176
 title: Build the South's ordinary dwellings and barn still owed after T-2147: the D4 slot on block 81's lot 1, the D5 slot on block 95's lot 1, and the A2 the re-dealt block 81 no longer carries
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 11:45:46 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37807547340
+claimed_at: 2026-10-08T16:45:46.897Z
 decision: null
 decision_answer: null
 ---
