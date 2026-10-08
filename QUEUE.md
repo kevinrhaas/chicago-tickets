@@ -181,7 +181,6 @@ T-2043 — Reconcile the family rows the order book still orders after T-2021's 
 T-2180 — /1904/ fails to boot on mobile smoke part 13: TypeError in walk/js/spatial-batch.js:27 (BufferAttribute.getX on a null array) — first seen on PR #528's branch, which touches no 1904 data; spatial-batch.js last moved in #511
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
-T-1553 — Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
 T-2179 — One infant on two cards: Jean Baptiste Bourassa (St Mary's 1835-04, born 4 June 1835) is John Baptist son of Leon Bourrassa (St Cyr burial 5, 2 July 1835, 28 days old), and Léon is on two cards too (hh_bourassa_lon, hh_bourrassa_leon). Merge or rule
 T-2178 — Six St Mary's children were born after 1 July 1835 by their own baptismal entries (1835-07, -09, -10, -12, -13, -14) and their cards read present 'uncertain': rule them not yet born on the scene date
 T-2177 — The St Mary's baptismal register states the sex of 42 people whose cards carry a drawn sex that contradicts it: 22 children (fils/fille, son/daughter) and 20 mothers drawn male. Read the entry's role and term onto the card and retire the draws

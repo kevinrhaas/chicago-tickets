@@ -1,7 +1,7 @@
 ---
 id: T-1553
 title: Land the 61 stated kin ties the register's 120 minted residents made landable: St Mary's parentage with both ends now in the town, reciprocal rows on both cards
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-10-08
 pr: 528
 claimed_by: run 10/8/2026, 9:19:36 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T15:57:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37791025695
 claimed_at: 2026-10-08T14:19:36.346Z
 decision: null
