@@ -1,7 +1,7 @@
 ---
 id: T-2174
 title: Raise the street line's F2 two-storey warehouse the schedule deals to blk_south_water_dearborn, on the South Water frontage of lot 6 between the C3 row and the bank shed
-state: claimed
+state: review
 epic: TOWN
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1673
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 525
 claimed_by: run 10/8/2026, 5:45:16 AM CT
 blocked_on: null
 needs_bake: false
