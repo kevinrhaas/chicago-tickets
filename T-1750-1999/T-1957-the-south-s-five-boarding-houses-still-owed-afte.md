@@ -17,8 +17,8 @@ needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: b
 ---
 
 The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for.
@@ -69,3 +69,5 @@ Since then the seating walked to its fixpoint and the schedule re-dealt both ope
 **Recommendation:** (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES — (b) keeps the roofs inside the Original Town where 1835's houses clustered, on ground the plat really drew; only the wedge's west third is pinched out by the South Branch. (a) is the precedent you already set and is the safe fallback for whatever the wedge's east end cannot hold. Whichever you pick, the two boarding houses here also need the lodger basis re-frozen before they are raised (seat_lodgers_1835 refuses a new house's lodgers today), which the run that builds them will take first.
 
 **Asked:** 2026-10-08 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37827267592. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-08, via Manager):** (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES
