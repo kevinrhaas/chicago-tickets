@@ -176,7 +176,6 @@ T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one bra
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
 T-2176 — Build the South's ordinary dwellings and barn still owed after T-2147: the D4 slot on block 81's lot 1, the D5 slot on block 95's lot 1, and the A2 the re-dealt block 81 no longer carries
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
-T-2169 — Build the West's last three yard roofs (A2, A4, A5) the 668-roof schedule now deals to blk_washington_clinton, mid-yard behind the Canal Street houses of plat block 50
 T-2170 — The North's five A2 barns no Wolcott lot can hold: price a yard building against the yard it stands in (tools/reconcile_665.py ancillary room) and stand them behind the Kinzie core's houses, or re-budget the North barns_stables row with the reasoning in district_group_matrix_note (T-1692)
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 T-2043 — Reconcile the family rows the order book still orders after T-2021's ruling: 464 family and store households and 208 adult men in family houses, against the 1,293 head records awaiting a household and a town at its 3,265 ceiling
