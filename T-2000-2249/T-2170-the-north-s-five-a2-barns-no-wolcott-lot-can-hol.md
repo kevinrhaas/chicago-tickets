@@ -1,7 +1,7 @@
 ---
 id: T-2170
 title: The North's five A2 barns no Wolcott lot can hold: price a yard building against the yard it stands in (tools/reconcile_665.py ancillary room) and stand them behind the Kinzie core's houses, or re-budget the North barns_stables row with the reasoning in district_group_matrix_note (T-1692)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2168
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 3:48:50 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37750890645
+claimed_at: 2026-10-08T08:48:50.689Z
 decision: null
 decision_answer: null
 ---
