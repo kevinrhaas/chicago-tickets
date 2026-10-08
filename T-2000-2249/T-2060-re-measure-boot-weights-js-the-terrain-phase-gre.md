@@ -1,7 +1,7 @@
 ---
 id: T-2060
 title: Re-measure boot-weights.js: the terrain phase grew 0.7 to 3.7 s and the boot moved 25-70 % since its reading
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 517
 claimed_by: run 10/8/2026, 1:57:14 AM CT
 blocked_on: null
 needs_bake: false
