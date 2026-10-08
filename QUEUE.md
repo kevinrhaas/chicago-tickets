@@ -341,3 +341,4 @@ T-1790 — Build the portable human animation library: idle, walk, talk, gesture
 T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 T-2171 — 1812: remove the unsupported lake-facing notch at the sand spit
+T-2173 — dev's gate is red since #520 (T-2172): assets/gltf/glessner_house__as_built_1887.glb differs from the packed Glessner v4 recovery archive — run tools/recover_glessner_v4.py --pack and commit the archive parts and manifest
