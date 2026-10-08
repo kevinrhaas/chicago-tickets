@@ -1,7 +1,7 @@
 ---
 id: T-1957
 title: The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
-state: open
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-08
 pr: null
 claimed_by: null
 blocked_on: T-2144
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-08T23:01:14.998Z
 claimed_run: null
 claimed_at: null
 decision: answered
