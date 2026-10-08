@@ -1,7 +1,7 @@
 ---
 id: T-1219
 title: The three re-spelled cards still say in prose that the papers print the reading T-1139 overturned: hh_fraser_wm_h reads 'Wm. H. Frazer' and its own note says the papers print 'Wm. H. Fraser'
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 539
 claimed_by: run 10/8/2026, 1:56:19 PM CT
 blocked_on: null
 needs_bake: false
