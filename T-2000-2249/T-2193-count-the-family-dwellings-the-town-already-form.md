@@ -1,7 +1,7 @@
 ---
 id: T-2193
 title: Count the family dwellings the town already forms around held heads: the 1,243 records awaiting a household that the address book's dealt roofs and the housing seats' family rung put under a standing dwelling fill households/family_dwelling, nobody minted or moved
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2188
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 5:37:37 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37853789922
+claimed_at: 2026-10-08T22:37:37.343Z
 decision: null
 decision_answer: null
 ---
