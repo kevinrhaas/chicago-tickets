@@ -1,7 +1,7 @@
 ---
 id: T-2172
 title: Glessner courtyard tower: align upper windows and shorten copper cap
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 520
 claimed_by: run 10/8/2026, 4:15:56 AM CT
 blocked_on: null
 needs_bake: false
