@@ -179,7 +179,6 @@ T-2169 — Build the West's last three yard roofs (A2, A4, A5) the 668-roof sche
 T-2170 — The North's five A2 barns no Wolcott lot can hold: price a yard building against the yard it stands in (tools/reconcile_665.py ancillary room) and stand them behind the Kinzie core's houses, or re-budget the North barns_stables row with the reasoning in district_group_matrix_note (T-1692)
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 T-2043 — Reconcile the family rows the order book still orders after T-2021's ruling: 464 family and store households and 208 adult men in family houses, against the 1,293 head records awaiting a household and a town at its 3,265 ceiling
-T-2059 — The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's leaf-scale trees, past the 250 ms check
 T-2100 — Re-pose town_backyard and town_south_water_store: both stand a metre from a wall, so their captures cannot show the yard or shop front T-2085..T-2087 are judged by
 T-2138 — claim steals a dead claim on a ticket an open PR already carries when that PR's branch names no ticket: T-2122 was rebuilt in full while #449 (claude/project-thread-*) sat open with it
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
