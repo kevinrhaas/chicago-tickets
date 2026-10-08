@@ -2,6 +2,21 @@
 
 Owner resumed the programme on 2026-10-01 (“Go”) and directed all 110 tickets into one group below the dev queue. T-1840–T-1949 are open as a single contiguous group at the bottom of QUEUE.md, in dependency order. The inherited construction hold is lifted. Ticket dependencies and bake requirements still apply. The legacy umbrella tickets remain scope references, with execution in these children.
 
+## District draft pass first (owner, 2026-10-08)
+
+The owner asked for a controlled first pass of the whole district before any per-building work: after the reconciliations (T-1840 to T-1842) and the shared components (T-1843 to T-1858), five tickets draft every frontage, rear service building, edge and ground from these registers and the component kit, and every per-building ticket then refines that draft in place.
+
+| Ticket | Draft | Refined later by |
+|---|---|---|
+| [T-2159](../../T-2000-2249/T-2159-draft-the-18th-20th-prairie-block-around-glessne.md) | 18th-20th block (sheet 28, 23 frontages, R28W/R28E) and the reusable draft builder | T-1882 to T-1908, T-1935, T-1936 |
+| [T-2160](../../T-2000-2249/T-2160-draft-the-16th-18th-prairie-block-with-the-draft.md) | 16th-18th block (sheet 20, 35 frontages, R20W/R20E, Pullman estate) | T-1859 to T-1881, T-1932 to T-1934 |
+| [T-2161](../../T-2000-2249/T-2161-draft-the-20th-22nd-prairie-block-with-the-draft.md) | 20th-22nd block (sheet 35, 33 frontages, R35W/R35E) | T-1909 to T-1931, T-1937, T-1938 |
+| [T-2162](../../T-2000-2249/T-2162-draft-the-district-s-edges-east-twentieth-street.md) | East Twentieth Street, Calumet, Second Presbyterian, side-street and rail-side background | T-1939 to T-1942, T-1946 |
+| [T-2163](../../T-2000-2249/T-2163-draft-the-district-s-grounds-and-walk-the-whole-.md) | Grounds on all three blocks, and the whole-district walk measured on a phone | T-1943 to T-1945 |
+
+The per-building packages below are unchanged in scope and acceptance; "Build" packages are retitled "Refine", and each depends on its block's draft. Block acceptance (T-1947 to T-1949) is unchanged.
+
+
 | Ticket | Package | Category | Dependencies |
 |---|---|---|---|
 | [T-1840](../../T-1750-1999/T-1840-reconcile-sheet-20-building-entities-for-1904.md) | D20 — Reconcile sheet 20 building entities for 1904 | reconciliation | none |

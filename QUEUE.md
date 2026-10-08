@@ -119,6 +119,7 @@
 # UMBRELLA T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings — execution delegated to T-1837 children below
 # UMBRELLA T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture — execution delegated to T-1837 children below
 # Architectural decomposition: T-1837; T-1840..T-1949 are open in one dependency-ordered group at the bottom. See evidence/T-1837-prairie-1904-architectural-study/README.md.
+# DRAFT PASS FIRST (owner, 2026-10-08): after the reconciliations and shared components (T-1840..T-1858), five tickets T-2159..T-2163 draft the whole district; every per-building ticket refines that draft and depends on it. No new per-building tickets.
 # --- 8. UNREAL DELIVERY — repeatable native builds, web parity, then streaming
 # Programme: T-1356; docs/unreal/README.md. Owner-ranked here on 2026-09-18.
 # Remote-workable preparation (still subject to the city-first ordering above):
@@ -219,6 +220,10 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
 # One contiguous group below all existing work. Dependencies first; individual dependency and needs_bake gates remain in each ticket.
+# Owner, 2026-10-08: "a controlled set of tickets to do an initial pass of the whole district ... then the tickets later for each building can refine
+# your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
+# draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
+# REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-1840 — Reconcile sheet 20 building entities for 1904
 T-1841 — Reconcile sheet 28 building entities for 1904
 T-1842 — Reconcile sheet 35 building entities for 1904
@@ -243,90 +248,90 @@ T-2160 — Draft the 16th-18th Prairie block with the draft builder: every front
 T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
-T-1859 — Build 1600, 1604 and 1608 north-west frontage
-T-1860 — Build 1612 Goodman and 1616 neighbour
-T-1861 — Build 1620 Law house restored for 1904
-T-1862 — Build 1626, 1628 and small frame 1630
-T-1863 — Build 1634 and 1636 stone-front pair
-T-1864 — Build 1638 Shortall-Gregory Gothic house envelope
+T-1859 — Refine 1600, 1604 and 1608 north-west frontage
+T-1860 — Refine 1612 Goodman and 1616 neighbour
+T-1861 — Refine 1620 Law house restored for 1904
+T-1862 — Refine 1626, 1628 and small frame 1630
+T-1863 — Refine 1634 and 1636 stone-front pair
+T-1864 — Refine 1638 Shortall-Gregory Gothic house envelope
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
-T-1866 — Build 1601 house and 1603 station-side envelope
-T-1867 — Build 1609-1611 lost pair and 1607 association
-T-1868 — Build 1613, 1615 and 1619 east row
-T-1869 — Build 1621, 1623 and 1625 east row
-T-1870 — Build 1635 unresolved site and 1637 Spalding remodel
-T-1871 — Build 1700-1706 Glessner family townhouses
-T-1872 — Build 1708 and 1712 townhouse fronts
-T-1873 — Build 1720 Walker frame villa
-T-1874 — Build 1726, 1730 and 1736 replacement/altered houses
-T-1875 — Build 1701 Hibbard house and rear veranda envelope
+T-1866 — Refine 1601 house and 1603 station-side envelope
+T-1867 — Refine 1609-1611 lost pair and 1607 association
+T-1868 — Refine 1613, 1615 and 1619 east row
+T-1869 — Refine 1621, 1623 and 1625 east row
+T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel
+T-1871 — Refine 1700-1706 Glessner family townhouses
+T-1872 — Refine 1708 and 1712 townhouse fronts
+T-1873 — Refine 1720 Walker frame villa
+T-1874 — Refine 1726, 1730 and 1736 replacement/altered houses
+T-1875 — Refine 1701 Hibbard house and rear veranda envelope
 T-1876 — Finish 1701 Hibbard house and rear veranda architecture
-T-1877 — Build 1709 Palmer Kellogg successor
-T-1878 — Build 1719-1721 Dexter address and altered house envelope
+T-1877 — Refine 1709 Palmer Kellogg successor
+T-1878 — Refine 1719-1721 Dexter address and altered house envelope
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
-T-1880 — Build 1729 Pullman main house envelope
+T-1880 — Refine 1729 Pullman main house envelope
 T-1881 — Finish 1729 Pullman main house architecture
-T-1882 — Build 1808 Keith-Field neighbour of Glessner envelope
+T-1882 — Refine 1808 Keith-Field neighbour of Glessner envelope
 T-1883 — Finish 1808 Keith-Field neighbour of Glessner architecture
-T-1884 — Build 1812 Wheeler shaped-gable house envelope
+T-1884 — Refine 1812 Wheeler shaped-gable house envelope
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-1886 — Build 1816 Henderson mansard house
-T-1887 — Build 1824 Marsh altered front and 1828 neighbour
-T-1888 — Build 1834 Jones post-1886 mansard
-T-1889 — Build 1801 Kimball corner mansion envelope
+T-1886 — Refine 1816 Henderson mansard house
+T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
+T-1888 — Refine 1834 Jones post-1886 mansard
+T-1889 — Refine 1801 Kimball corner mansion envelope
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-1891 — Build 1811 Coleman-Ames Romanesque house envelope
+T-1891 — Refine 1811 Coleman-Ames Romanesque house envelope
 T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
-T-1893 — Build 1815 Sears-Meeker altered house
-T-1894 — Build 1823 Dent house
-T-1895 — Build 1827 Doane twin-tower mansion envelope
+T-1893 — Refine 1815 Sears-Meeker altered house
+T-1894 — Refine 1823 Dent house
+T-1895 — Refine 1827 Doane twin-tower mansion envelope
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
-T-1897 — Build 1900 Elbridge Keith corner house
-T-1898 — Build 1906 Edson Keith and attached 1908
-T-1899 — Build 1912 Moulton-Lowden Chateauesque house envelope
+T-1897 — Refine 1900 Elbridge Keith corner house
+T-1898 — Refine 1906 Edson Keith and attached 1908
+T-1899 — Refine 1912 Moulton-Lowden Chateauesque house envelope
 T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
-T-1901 — Build 1916-1930 identity and 1936 Allerton estate envelope
+T-1901 — Refine 1916-1930 identity and 1936 Allerton estate envelope
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
-T-1903 — Build 1901 Ream post-fire house
-T-1904 — Build 1905 Marshall Field Sr. mansion envelope
+T-1903 — Refine 1901 Ream post-fire house
+T-1904 — Refine 1905 Marshall Field Sr. mansion envelope
 T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
-T-1906 — Build 1919 Field Jr. post-1902 enlargement envelope
+T-1906 — Refine 1919 Field Jr. post-1902 enlargement envelope
 T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
-T-1908 — Build 1923 Kellogg and 1945 Armour-Corwith corner
-T-1909 — Build 2000 and 2010 detached frame houses
-T-1910 — Build 2018 and 2026 masonry houses
-T-1911 — Build 2036 Buckingham corner house
-T-1912 — Build 2001, 2003 and 2005 attached row
-T-1913 — Build 2009 Mayer-Meyer French Gothic house envelope
+T-1908 — Refine 1923 Kellogg and 1945 Armour-Corwith corner
+T-1909 — Refine 2000 and 2010 detached frame houses
+T-1910 — Refine 2018 and 2026 masonry houses
+T-1911 — Refine 2036 Buckingham corner house
+T-1912 — Refine 2001, 2003 and 2005 attached row
+T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
 T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
-T-1915 — Build 2011 Romanesque house beside Mayer
-T-1916 — Build 2013 Reid classical house
-T-1917 — Build 2017, 2021 High and 2027 Cobb-associated group
-T-1918 — Build 2031, 2033 and 2035 limestone row
-T-1919 — Build 2100 Sherman Victorian Gothic house envelope
+T-1915 — Refine 2011 Romanesque house beside Mayer
+T-1916 — Refine 2013 Reid classical house
+T-1917 — Refine 2017, 2021 High and 2027 Cobb-associated group
+T-1918 — Refine 2031, 2033 and 2035 limestone row
+T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
-T-1921 — Build 2108 Mark Kimball and 2112 Rothschild
-T-1922 — Build 2110 Rees at its historical site envelope
+T-1921 — Refine 2108 Mark Kimball and 2112 Rothschild
+T-1922 — Refine 2110 Rees at its historical site envelope
 T-1923 — Finish 2110 Rees at its historical site architecture
-T-1924 — Build 2101 and 2109 Roloson neighbours
-T-1925 — Build 2115 Armour Second Empire house
-T-1926 — Build 2120 and the 2126 Robbins construction phase
-T-1927 — Build 2130 Murdoch rounded-bay house
-T-1928 — Build 2140 Tucker-Smith corner mansion envelope
+T-1924 — Refine 2101 and 2109 Roloson neighbours
+T-1925 — Refine 2115 Armour Second Empire house
+T-1926 — Refine 2120 and the 2126 Robbins construction phase
+T-1927 — Refine 2130 Murdoch rounded-bay house
+T-1928 — Refine 2140 Tucker-Smith corner mansion envelope
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
-T-1930 — Build 2123 masonry and 2125 frame neighbours
-T-1931 — Build 2127-2129 flats and 2141 non-building frontage
-T-1932 — Build north-west alley coach houses and service courts
-T-1933 — Build north-east rear service buildings
-T-1934 — Build Pullman stable, additions and conservatory estate
-T-1935 — Build west 1800-1900 service buildings and Glessner boundary
-T-1936 — Build east 1800-1900 service buildings
-T-1937 — Build south-west service buildings and shared Rees coach house
-T-1938 — Build south-east service buildings
-T-1939 — Build 213, 215 and 217 East Twentieth Street context
-T-1940 — Build 2008 Calumet Hanford exterior
-T-1941 — Build 2018 Calumet Wheeler-Kohn exterior
-T-1942 — Build Second Presbyterian post-1900 exterior skyline
+T-1930 — Refine 2123 masonry and 2125 frame neighbours
+T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
+T-1932 — Refine north-west alley coach houses and service courts
+T-1933 — Refine north-east rear service buildings
+T-1934 — Refine Pullman stable, additions and conservatory estate
+T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
+T-1936 — Refine east 1800-1900 service buildings
+T-1937 — Refine south-west service buildings and shared Rees coach house
+T-1938 — Refine south-east service buildings
+T-1939 — Refine 213, 215 and 217 East Twentieth Street context
+T-1940 — Refine 2008 Calumet Hanford exterior
+T-1941 — Refine 2018 Calumet Wheeler-Kohn exterior
+T-1942 — Refine Second Presbyterian post-1900 exterior skyline
 T-1943 — Finish north-block boundaries, gardens and frontage fittings
 T-1944 — Finish 18th-20th block boundaries, gardens and frontage fittings
 T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
