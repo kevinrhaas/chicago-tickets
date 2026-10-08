@@ -1,7 +1,7 @@
 ---
 id: T-2150
 title: The West Division's one owed freight roof (F3): seat it on the South Branch bank or at the forks, since the only West block that dealt it (plat block 50) is a module inland
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-05
-closed: null
+closed: 2026-10-08
 pr: 510
 claimed_by: run 10/7/2026, 11:08:03 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T06:00:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37725699610
 claimed_at: 2026-10-08T04:08:03.340Z
 decision: null
