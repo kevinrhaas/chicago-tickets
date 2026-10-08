@@ -333,4 +333,3 @@ T-1789 — Build the first modular 1835 human library in Blender on the shared p
 T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-T-2181 — 1904 stops at the ground on a phone: the ground base is re-cut after its arrays were let go
