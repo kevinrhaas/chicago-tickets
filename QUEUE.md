@@ -241,6 +241,7 @@ T-1856 — Age, surface variation and ground contact
 T-2159 — Draft the 18th-20th Prairie block around Glessner: a serviceable kit-built house on every frontage, and the draft builder the other blocks reuse
 T-2160 — Draft the 16th-18th Prairie block with the draft builder: every frontage and its rear service buildings
 T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
+T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-1859 — Build 1600, 1604 and 1608 north-west frontage
 T-1860 — Build 1612 Goodman and 1616 neighbour
 T-1861 — Build 1620 Law house restored for 1904
