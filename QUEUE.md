@@ -124,7 +124,6 @@
 # Programme: T-1356; docs/unreal/README.md. Owner-ranked here on 2026-09-18.
 # Remote-workable preparation (still subject to the city-first ordering above):
 T-2068 — Attach the scene bundle to the scheduled content build and its manual dispatch, publish it with a discovery manifest and a latest-good pointer, and record a fresh-download receipt (a workflow change)
-#   ? T-2068 DECISION: T-2068 edits .github/workflows/chicago-4d-bake.yml (pack the scene bundle after a green bake, publish it, keep a latest-good pointer). AGENTS.md puts workflow files outside a run's scope ('needs an interactive, owner-visible PR'). Who makes that change? — (a) An interactive session with you makes the workflow edit; the packer and verifier it calls (tools/scene_bundle.py, T-2067) are already on dev  (b) A loop run may open the workflow PR and leave it for your review before merge — recommended: (a)
 # LOCAL / QUALIFIED UNREAL ONLY — NOT WORKABLE BY THE REMOTE WEB WORKER.
 # HOLD references below are comments, not claimable queue entries. Tickets are blocked-tech.
 # HOLD T-1472 — on-demand latest-validated Mac build/release; qualified Mac + release access.
