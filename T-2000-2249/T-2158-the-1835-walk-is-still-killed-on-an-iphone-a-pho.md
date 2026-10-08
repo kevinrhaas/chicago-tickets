@@ -1,7 +1,7 @@
 ---
 id: T-2158
 title: The 1835 walk is still killed on an iPhone: a phone hands each heavy layer to the GPU as it is built and lets go of the page copy, the ground tiles stay indexed, and three builders stop churning
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 512
 claimed_by: run 10/8/2026, 12:25:53 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T08:54:34Z
 claimed_run: null
 claimed_at: 2026-10-08T05:25:53.497Z
 decision: null
