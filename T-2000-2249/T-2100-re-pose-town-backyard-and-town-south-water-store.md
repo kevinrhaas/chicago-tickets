@@ -1,7 +1,7 @@
 ---
 id: T-2100
 title: Re-pose town_backyard and town_south_water_store: both stand a metre from a wall, so their captures cannot show the yard or shop front T-2085..T-2087 are judged by
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-04
 closed: null
-pr: null
+pr: 527
 claimed_by: run 10/8/2026, 8:06:51 AM CT
 blocked_on: null
 needs_bake: false
