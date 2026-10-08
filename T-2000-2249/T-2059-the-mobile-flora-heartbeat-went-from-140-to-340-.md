@@ -1,7 +1,7 @@
 ---
 id: T-2059
 title: The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's leaf-scale trees, past the 250 ms check
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-03
 closed: null
-pr: null
+pr: 513
 claimed_by: run 10/8/2026, 12:44:01 AM CT
 blocked_on: null
 needs_bake: false
