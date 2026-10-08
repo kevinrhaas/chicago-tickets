@@ -35,3 +35,12 @@ When T-2156 was split (2026-10-08T06:19:58.375Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37733398534) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding, 2026-10-08 (T-2059's run, PR #513): dev's gate is red on the split until the owner tables move
+
+`check.sh` on dev now fails one step: *"the book orders work from tickets nobody can claim"*.
+The order book's owner tables still name **T-2156** for `structures/barns_stables/{north,south,west}`
+and `structures/small_outbuildings/{south,west}`, and T-2156 has been `split` since 05:58Z.
+Every PR's gate goes red on it, whatever the PR touches (#513 is parked on `resume`, waiting on this).
+Sweep those rows onto the live successors (T-2165 / T-2166's pieces / T-2167) in the first PR that
+lands, as T-1420 asks.
