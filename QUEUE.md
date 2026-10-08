@@ -181,7 +181,6 @@ T-2186 — Desktop smoke part 3 is red on dev: T-1727's 'the HUD and the card bo
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-2179 — One infant on two cards: Jean Baptiste Bourassa (St Mary's 1835-04, born 4 June 1835) is John Baptist son of Leon Bourrassa (St Cyr burial 5, 2 July 1835, 28 days old), and Léon is on two cards too (hh_bourassa_lon, hh_bourrassa_leon). Merge or rule
-T-2178 — Six St Mary's children were born after 1 July 1835 by their own baptismal entries (1835-07, -09, -10, -12, -13, -14) and their cards read present 'uncertain': rule them not yet born on the scene date
 T-2184 — The St Mary's children and fathers: read the entry's fils/fille, son/daughter and the father's and godfather's place onto the card, retiring the draws (23 children corrected, 19 confirmed, 34 men read)
 T-2185 — The St Mary's mothers and godmothers drawn male (28): read them female, and withdraw the modelled wives and children the modelled-families stage gave the ones heading a house, through the women-and-children re-family fixpoint
 T-1273 — Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
