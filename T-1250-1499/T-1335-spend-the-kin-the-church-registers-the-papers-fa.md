@@ -1,7 +1,7 @@
 ---
 id: T-1335
 title: Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-18
 closed: null
-pr: null
+pr: 544
 claimed_by: run 10/8/2026, 2:43:03 PM CT
 blocked_on: null
 needs_bake: false
