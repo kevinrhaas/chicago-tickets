@@ -1,7 +1,7 @@
 ---
 id: T-1273
 title: Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1253
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 541
 claimed_by: run 10/8/2026, 2:08:28 PM CT
 blocked_on: null
 needs_bake: false
