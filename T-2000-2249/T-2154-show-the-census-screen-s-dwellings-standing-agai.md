@@ -1,7 +1,7 @@
 ---
 id: T-2154
 title: Show the census screen's dwellings standing against the November census's 398, bracketed by whether boarding houses and taverns count, and the residents / transients / garrison split
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1983
 opened: 2026-10-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/7/2026, 11:09:35 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37725719363
+claimed_at: 2026-10-08T04:09:35.519Z
 decision: null
 decision_answer: null
 ---
