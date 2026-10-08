@@ -1,7 +1,7 @@
 ---
 id: T-2180
 title: /1904/ fails to boot on mobile smoke part 13: TypeError in walk/js/spatial-batch.js:27 (BufferAttribute.getX on a null array) — first seen on PR #528's branch, which touches no 1904 data; spatial-batch.js last moved in #511
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 11:09:00 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37805053909
+claimed_at: 2026-10-08T16:09:00.508Z
 decision: null
 decision_answer: null
 ---
