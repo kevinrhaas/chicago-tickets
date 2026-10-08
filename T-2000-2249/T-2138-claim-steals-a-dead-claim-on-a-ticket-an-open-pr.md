@@ -1,7 +1,7 @@
 ---
 id: T-2138
 title: claim steals a dead claim on a ticket an open PR already carries when that PR's branch names no ticket: T-2122 was rebuilt in full while #449 (claude/project-thread-*) sat open with it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 526
 claimed_by: run 10/8/2026, 8:31:18 AM CT
 blocked_on: null
 needs_bake: false
