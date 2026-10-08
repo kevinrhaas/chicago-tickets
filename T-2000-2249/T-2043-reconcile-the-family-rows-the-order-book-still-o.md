@@ -1,7 +1,7 @@
 ---
 id: T-2043
 title: Reconcile the family rows the order book still orders after T-2021's ruling: 464 family and store households and 208 adult men in family houses, against the 1,293 head records awaiting a household and a town at its 3,265 ceiling
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-10-08
 pr: null
 claimed_by: run 10/8/2026, 1:38:30 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T18:38:42.379Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37825101507
 claimed_at: 2026-10-08T18:38:30.337Z
 decision: null
