@@ -173,7 +173,6 @@ T-2068 — Attach the scene bundle to the scheduled content build and its manual
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
-T-2146 — Build the School Section tier's Wells blocks south of Madison (94, 95): ordinary dwellings dealt on the tier's own lots
 T-2147 — Build the School Section tier's Market block south of Madison (81): ordinary dwellings dealt on the tier's own lots
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
 T-2169 — Build the West's last three yard roofs (A2, A4, A5) the 668-roof schedule now deals to blk_washington_clinton, mid-yard behind the Canal Street houses of plat block 50
