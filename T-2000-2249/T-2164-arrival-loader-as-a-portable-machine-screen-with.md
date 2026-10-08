@@ -1,7 +1,7 @@
 ---
 id: T-2164
 title: Arrival loader as a portable machine screen, with a forecast clock
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 514
 claimed_by: run 10/8/2026, 12:57:31 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T07:09:43Z
 claimed_run: null
 claimed_at: 2026-10-08T05:57:31.168Z
 decision: null
