@@ -180,7 +180,6 @@ T-2170 — The North's five A2 barns no Wolcott lot can hold: price a yard build
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 T-2043 — Reconcile the family rows the order book still orders after T-2021's ruling: 464 family and store households and 208 adult men in family houses, against the 1,293 head records awaiting a household and a town at its 3,265 ceiling
 T-2059 — The mobile flora heartbeat went from 140 to 340-390 ms with T-2015's leaf-scale trees, past the 250 ms check
-T-2060 — Re-measure boot-weights.js: the terrain phase grew 0.7 to 3.7 s and the boot moved 25-70 % since its reading
 T-2100 — Re-pose town_backyard and town_south_water_store: both stand a metre from a wall, so their captures cannot show the yard or shop front T-2085..T-2087 are judged by
 T-2138 — claim steals a dead claim on a ticket an open PR already carries when that PR's branch names no ticket: T-2122 was rebuilt in full while #449 (claude/project-thread-*) sat open with it
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
@@ -339,4 +338,3 @@ T-1789 — Build the first modular 1835 human library in Blender on the shared p
 T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-T-2173 — dev's gate is red since #520 (T-2172): assets/gltf/glessner_house__as_built_1887.glb differs from the packed Glessner v4 recovery archive — run tools/recover_glessner_v4.py --pack and commit the archive parts and manifest

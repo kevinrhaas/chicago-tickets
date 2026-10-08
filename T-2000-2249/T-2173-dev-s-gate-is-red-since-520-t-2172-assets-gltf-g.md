@@ -1,7 +1,7 @@
 ---
 id: T-2173
 title: dev's gate is red since #520 (T-2172): assets/gltf/glessner_house__as_built_1887.glb differs from the packed Glessner v4 recovery archive — run tools/recover_glessner_v4.py --pack and commit the archive parts and manifest
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 524
 claimed_by: run 10/8/2026, 6:00:13 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T12:07:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37766823335
 claimed_at: 2026-10-08T11:00:14.009Z
 decision: null
