@@ -39,3 +39,7 @@ Piece 2 of 2 of **T-1357 — Publish a versioned Chicago scene bundle from every
 **Asked:** 2026-10-04 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37182479150. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Owner answer (2026-10-04, via Manager):** (a) An interactive session with you makes the workflow edit; the packer and verifier it calls (tools/scene_bundle.py, T-2067) are already on dev
+
+## Finding (2026-10-08, after #533 merged)
+
+The first dispatched bake of dev on the new workflow (run 37821085278) baked, pushed its branch, and **packed and verified the bundle** (`Pack the scene bundle (T-2068)` green). Nothing was published, because `publish-bundle` needs the smoke and dev's smoke is red for reasons that predate this ticket: the desktop boot payload is 13.237 MB, over the 13.000 MB budget (SITE-BUDGET §4), and mobile stage 1-2 fails four frontage and business-front checks. The release, latest-good pointer and fresh-download receipt therefore still wait on the first bake whose smoke is green. The nightly runs `main`'s copy of the workflow, so until a promotion only a dispatch on dev can publish. An earlier dispatch (run 37815173886) hit the bake job's 30-minute limit after an 11.5-minute checkout.
