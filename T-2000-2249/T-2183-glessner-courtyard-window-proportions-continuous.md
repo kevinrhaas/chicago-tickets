@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: courtyard-repair 10/8/2026, 12:53:20 PM CT
+claimed_by: owner-requested recovery 10/8/2026, 1:49:49 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-08T17:53:20.330Z
+claimed_at: 2026-10-08T18:49:49.332Z
 decision: null
 decision_answer: null
 ---
