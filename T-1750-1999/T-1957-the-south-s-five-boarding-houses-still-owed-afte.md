@@ -47,3 +47,7 @@ Read on dev @ c0d973c3. The South `larger_boarding_houses` cell now reads **28 o
 The re-apportioned H3 on `blk_washington_market` that this title names **no longer exists**: the schedule gives that block nothing now.
 
 So this ticket waits on **T-2144**, and it keeps its queue rank. When T-2144 merges, re-read the schedule: build whatever H-family roof it places on School Section ground, and take the wedge's two either to the owner or to T-1983's re-budget.
+
+## Finding, 2026-10-08 (T-2165's run): T-2144 has landed and the three owed houses are all in flight
+
+The schedule now places the South's three owed boarding houses on School Section ground: H3 on `blk_school_section_tier_81` (T-2147, PR #493) and H1 on `blk_school_section_tier_94` + H3 on `blk_school_section_tier_95` (T-2146, PR #498). Both PRs are open on `resume`. When they merge, the order book's South `larger_boarding_houses` cell should read 28/28 and this ticket closes on their work — there is nothing left for a run to build here meanwhile.
