@@ -181,7 +181,8 @@ T-2043 — Reconcile the family rows the order book still orders after T-2021's 
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
 T-2179 — One infant on two cards: Jean Baptiste Bourassa (St Mary's 1835-04, born 4 June 1835) is John Baptist son of Leon Bourrassa (St Cyr burial 5, 2 July 1835, 28 days old), and Léon is on two cards too (hh_bourassa_lon, hh_bourrassa_leon). Merge or rule
 T-2178 — Six St Mary's children were born after 1 July 1835 by their own baptismal entries (1835-07, -09, -10, -12, -13, -14) and their cards read present 'uncertain': rule them not yet born on the scene date
-T-2177 — The St Mary's baptismal register states the sex of 42 people whose cards carry a drawn sex that contradicts it: 22 children (fils/fille, son/daughter) and 20 mothers drawn male. Read the entry's role and term onto the card and retire the draws
+T-2184 — The St Mary's children and fathers: read the entry's fils/fille, son/daughter and the father's and godfather's place onto the card, retiring the draws (23 children corrected, 19 confirmed, 34 men read)
+T-2185 — The St Mary's mothers and godmothers drawn male (28): read them female, and withdraw the modelled wives and children the modelled-families stage gave the ones heading a house, through the women-and-children re-family fixpoint
 T-1273 — Write every committed home and workplace reconciliation row as an associated_with row on the record it belongs to, changing no value, confidence or source
 T-1274 — Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair
 T-0909 — The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
