@@ -1,7 +1,7 @@
 ---
 id: T-2069
 title: Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-04
-closed: null
+closed: 2026-10-08
 pr: 534
 claimed_by: run 10/8/2026, 1:02:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T18:31:41Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37819437880
 claimed_at: 2026-10-08T18:02:48.723Z
 decision: null

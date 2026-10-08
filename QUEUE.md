@@ -172,7 +172,6 @@
 #     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
-T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-2176 — Build the South's ordinary dwellings and barn still owed after T-2147: the D4 slot on block 81's lot 1, the D5 slot on block 95's lot 1, and the A2 the re-dealt block 81 no longer carries
 T-2182 — The South's ordinary dwellings still ordered after T-2176, with no household asking for them: the D4 and D5 the schedule deals blk_south_water_wells, the D6 on blk_south_water_dearborn, and the D4, D5 and D6 on gated blk_south_water_market — build where the ground allows, or re-budget
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
