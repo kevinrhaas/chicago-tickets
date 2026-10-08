@@ -1,7 +1,7 @@
 ---
 id: T-2181
 title: 1904 stops at the ground on a phone: the ground base is re-cut after its arrays were let go
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 532
 claimed_by: run 10/8/2026, 11:37:54 AM CT
 blocked_on: null
 needs_bake: false
