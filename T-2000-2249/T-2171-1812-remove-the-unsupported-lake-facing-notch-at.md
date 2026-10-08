@@ -1,7 +1,7 @@
 ---
 id: T-2171
 title: 1812: remove the unsupported lake-facing notch at the sand spit
-state: claimed
+state: review
 epic: TERRAIN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 521
 claimed_by: shoreline-session 10/8/2026, 4:04:54 AM CT
 blocked_on: null
 needs_bake: true
