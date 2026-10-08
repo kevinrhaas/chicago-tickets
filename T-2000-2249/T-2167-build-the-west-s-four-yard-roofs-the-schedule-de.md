@@ -1,7 +1,7 @@
 ---
 id: T-2167
 title: Build the West's four yard roofs the schedule deals to blk_washington_clinton (A2, A3, A4, A5) behind the Canal Street houses T-2148 raised
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2166
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 1:25:39 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37735631230
+claimed_at: 2026-10-08T06:25:39.994Z
 decision: null
 decision_answer: null
 ---
