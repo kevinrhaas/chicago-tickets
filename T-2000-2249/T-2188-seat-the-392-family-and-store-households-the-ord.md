@@ -1,7 +1,7 @@
 ---
 id: T-2188
 title: Seat the 392 family and store households the order book still orders around the 1,244 present head records awaiting a household, forming each house around a head the town already holds rather than minting a new one, under the town's 3,265 ceiling
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2043
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: null
 claimed_by: run 10/8/2026, 5:33:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T22:37:33.135Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37853789922
 claimed_at: 2026-10-08T22:33:50.193Z
 decision: null
