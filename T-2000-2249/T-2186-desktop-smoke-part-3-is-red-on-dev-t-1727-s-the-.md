@@ -1,7 +1,7 @@
 ---
 id: T-2186
 title: Desktop smoke part 3 is red on dev: T-1727's 'the HUD and the card both name the version' finds the version chip with text 'version fixture' and tone 'active' but visible:false after enterTown — reproduced on a clean dev worktree at 16938b331 (102 pass, this the one red)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 537
 claimed_by: run 10/8/2026, 1:33:55 PM CT
 blocked_on: null
 needs_bake: false
