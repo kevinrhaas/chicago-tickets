@@ -34,3 +34,16 @@ When T-1755 was split (2026-10-05T18:55:43.668Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37358954436) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding (loop, 2026-10-08): a green DRAFT PR cannot be finished by any run
+
+PR #493 was lapped over T-2148, T-2058, T-2022, T-2151, T-2152, T-2154 and T-2113. Its head is 428ea8166, and every check on it is green: gate, report, moving-frames, and still-frame on mobile and desktop. CHECK PASS 786/786 locally. The merge was still refused with HTTP 405 "Pull Request is still a draft".
+
+- REST has no endpoint to mark a PR ready for review. That takes GraphQL `markPullRequestReadyForReview`.
+- `gh-rest.sh` has no verb wrapping that mutation, and runs may not write GraphQL of their own.
+- `pr-lap.sh`, `merge-ready.sh` and `pr-stuck.sh` all filter `draft==false`.
+
+So a salvage-opened draft (AGENTS.md says "FINISH THAT PR") is parked where no machine can merge it.
+
+- **Fix:** add a `pr-ready` verb to polecat-platform's `.github/steward/gh-rest.sh`, one mutation like `pr-automerge`'s. `pr-automerge` should call it when the PR it is about to merge is a draft.
+- **Until then:** a person marks #493 ready, and it merges as-is.
