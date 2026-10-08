@@ -1,7 +1,7 @@
 ---
 id: T-2184
 title: The St Mary's children and fathers: read the entry's fils/fille, son/daughter and the father's and godfather's place onto the card, retiring the draws (23 children corrected, 19 confirmed, 34 men read)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2177
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 12:55:37 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37817443904
+claimed_at: 2026-10-08T17:55:37.542Z
 decision: null
 decision_answer: null
 ---
