@@ -205,17 +205,6 @@ T-1554 — Read St Cyr's 1834 marriage witness against St Mary's 1833 sponsor: i
 T-1645 — The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
 T-1673 — The four warehouses the South Water and Lake street line still owes: the platted-ground half of the south freight cell, raised on the party lines at the crosswalk's required F-family variants
 
-# --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
-# Owner, 2026-10-03: moved to sit directly above the Prairie Avenue 1904 architectural programme.
-# Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
-T-1786 — Define the portable Chicago human contract: Blender masters, browser GLB first, Unreal export later
-T-1787 — Build the portable human export pipeline: skinned GLB, textures, LODs and validation from Blender to Chicago 4D
-T-1788 — Give Chicago 4D a reusable browser human actor: skeletal animation, morphs, LODs and interaction hooks
-T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
-T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
-T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-
 # --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
 # One contiguous group below all existing work. Dependencies first; individual dependency and needs_bake gates remain in each ticket.
@@ -342,3 +331,15 @@ T-2135 — The smoke's plant panel still asserts ten communities and 155 species
 T-2157 — Glessner courtyard tower: continuous copper hip and crested tile connection
 T-2158 — The 1835 walk is still killed on an iPhone: a phone hands each heavy layer to the GPU as it is built and lets go of the page copy, the ground tiles stay indexed, and three builders stop churning
 T-2164 — Arrival loader as a portable machine screen, with a forecast clock
+
+# --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
+# Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
+# Owner, 2026-10-03: had moved it to sit directly above the Prairie Avenue 1904 architectural programme.
+# Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
+T-1786 — Define the portable Chicago human contract: Blender masters, browser GLB first, Unreal export later
+T-1787 — Build the portable human export pipeline: skinned GLB, textures, LODs and validation from Blender to Chicago 4D
+T-1788 — Give Chicago 4D a reusable browser human actor: skeletal animation, morphs, LODs and interaction hooks
+T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
+T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
+T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
+T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
