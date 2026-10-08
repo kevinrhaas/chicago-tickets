@@ -1,7 +1,7 @@
 ---
 id: T-1335
 title: Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,11 +11,14 @@ parent: null
 opened: 2026-09-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 2:43:03 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37832541132
+claimed_at: 2026-10-08T19:43:03.938Z
+decision: null
+decision_answer: null
 ---
 
 Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted.
