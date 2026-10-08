@@ -30,3 +30,12 @@ The ticket budget refused this: the queue stands at 147 lines, at or over its ce
 > T-1335's family pass found it: each card claims the burial or death notice as its own evidence, and 1835_presence_rulings.json still rules all five present at the reconstructed tier; a death is the one departure no later source can undo, and no open ticket owns presence by death
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Two more, found while T-1335 ruled the burials (2026-10-08)
+
+The readmission stage (`data/reconstruction/1835_readmissions.json` `minted[]`) mints two
+more cards off St Cyr's burial entries and prices their presence off the BURIAL'S OWN DATE
+as `dated_evidence`: `hh_one_of_daughters_of_m_colewell` (burial 1, 1834-06) and
+`hh_william_bourque_burke` (burial 4, 1835-06). A burial is a departure, not a sighting;
+the persistence model cannot read it as evidence of presence. Same fix, and the class is
+worth a gate: no card whose dated evidence is its own burial or death notice is present.
