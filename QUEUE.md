@@ -168,13 +168,14 @@
 #     waits: T-1414 (now open in band 0B). Unblock when T-1414 lands.
 # BLOCKED-TECH T-2153 (opened 2026-10-06, META) — Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the stewa…
 #     waits: the first steward-improve run cancelled at its 150-minute cap after polecat-platform#190 (2026-10-06T19:59:48Z): none in the 61 runs to 2026-10-08T04:04Z — the lane hit its weekly usage limit at 22:17Z and no run could reach the cap; the read is ~6 tool calls, see the ticket's 2026-10-08 reading
+# BLOCKED-TECH T-2023 (opened 2026-10-03, META) — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house…
+#     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2069 — Scope chicago-4d-pr-stuck.yml's concurrency group per ref, so one branch's push stops cancelling another PR's report check and leaving it unstable (a workflow change; T-1520's reading)
 T-2176 — Build the South's ordinary dwellings and barn still owed after T-2147: the D4 slot on block 81's lot 1, the D5 slot on block 95's lot 1, and the A2 the re-dealt block 81 no longer carries
 T-2182 — The South's ordinary dwellings still ordered after T-2176, with no household asking for them: the D4 and D5 the schedule deals blk_south_water_wells, the D6 on blk_south_water_dearborn, and the D4, D5 and D6 on gated blk_south_water_market — build where the ground allows, or re-budget
 T-1957 — The South's five boarding houses still owed after T-1951: the schedule's re-apportioned H3 on blk_washington_market, the gated one on blk_south_water_market, and the three the plan holds no roof for
-T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 T-2043 — Reconcile the family rows the order book still orders after T-2021's ruling: 464 family and store households and 208 adult men in family houses, against the 1,293 head records awaiting a household and a town at its 3,265 ceiling
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-1335 — Spend the kin the church registers, the papers' family columns and the completed resident enrichments state — the 166 units T-1320's book pass was never scoped for, plus the two book relatives it left unruled: ties written onto held cards, nobody minted

@@ -1,7 +1,7 @@
 ---
 id: T-2023
 title: Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
-state: claimed
+state: blocked-tech
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-03
 closed: null
 pr: null
 claimed_by: run 10/8/2026, 12:37:12 PM CT
-blocked_on: null
+blocked_on: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37817443904
@@ -52,3 +52,32 @@ moment the lodging roofs rise and the purse can pay again. T-1532's file keeps t
 reading: 7 of 26 hands are derivable (5 `premises` and 2 `street_only` on
 `south_water`), and 19 are not. Five of those 19 are out of town (Flag Creek and
 Naper's Settlement), where "elsewhere" is the honest word rather than "unplaceable".
+
+## RE-MEASURED 2026-10-08 (slice 5/5): nothing here can be seated yet, and the visible half is blocked on T-1953
+
+Read on `dev` at 74d9f3949. `seat_lodgers_1835.py --check` is green, so the stage already
+matches the roofs that stand: 27 built lodging places, 243 ordinary-night beds, 224 slept in.
+From `1835_lodgers_seated.json` → `quota_basis.top_up.what_is_left`:
+
+- **The 7 West adults are still ordered with no bed** (`ordered_with_no_bed`: south 0,
+  north 0, west 7). Seating them needs a West lodging roof, and the only ticket that raises
+  one is **T-1953** (the West's three H3 boarding houses), which is `blocked-tech` on
+  T-1414: no platted West block's plan carries an H3, and the programme schedules the
+  West's H3s only on ground beyond committed control. Nothing else in the queue puts a
+  lodging roof in the West. When T-1953 lands, the top-up deals those roofs to these
+  seven automatically and `seat_lodgers_1835.py --build` is the whole job.
+- **The beds with no order are 24 now, not 29**: north 19 and south 5 (`beds_with_no_order`).
+  Reconciling them is still owed before anybody is minted into them, and it is still
+  invisible work. It rides with the West roof or with T-1957's South houses.
+- **`hh_pennington_sack_f` HAS A ROOF.** `1835_housing_seats.json` boards it in
+  `recon_1835_south_d6_012` (rung `boarder`, "boarding in the division's least crowded
+  dwelling"), so the ruled-in household no longer waits behind invented boarders. That
+  item is settled and needs no ruling.
+- **The staffing mint's division axis has nothing to price.** `1835_staffing_mint_order.json`
+  → `what_the_book_can_pay.slots_outstanding` is **0**: T-1532 dealt the last
+  `lodging/trade` order, so the purse is empty and `mintable_today` is 0. Pricing the axis
+  now changes no figure and nothing a visitor sees (AGENTS.md § THE VISIBLE-PROGRESS RULE,
+  no exemption applies). It becomes live only when new lodging roofs reopen the purse.
+
+**So it is blocked, not finished**: every remaining piece waits on a West roof (T-1953 →
+T-1414) or on T-1957's South houses. Don't claim it to re-check; re-check when T-1953 merges.
