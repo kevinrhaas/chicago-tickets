@@ -1,7 +1,7 @@
 ---
 id: T-1983
 title: The programme reconciled: the order book's stable and outbuilding roofs built or re-budgeted, dwellings against the census's 398, residents/transients/garrison on the census screen
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-02
-closed: null
+closed: 2026-10-07
 pr: null
 claimed_by: run 10/7/2026, 11:09:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T04:09:30.775Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37725719363
 claimed_at: 2026-10-08T04:09:19.645Z
 decision: null
