@@ -1,7 +1,7 @@
 ---
 id: T-2195
 title: Cut the Market wedge's eastern two-thirds into reconstructed lots (owner ruling b, 2026-10-08): emit blk_south_water_market where the block has a lot's depth, re-deal what it cannot hold, and open it in the roof schedule for T-1957, T-2175 and T-2182
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1957
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 551
 claimed_by: run 10/8/2026, 6:01:19 PM CT
 blocked_on: null
 needs_bake: false
