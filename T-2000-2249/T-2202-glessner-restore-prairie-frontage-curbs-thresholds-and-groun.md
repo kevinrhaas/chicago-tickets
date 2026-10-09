@@ -64,3 +64,9 @@ Coordinate T-1728 street/sidewalk scope and T-1745 legal-lot datums. Re-read lin
 ## Filing and execution record
 
 The owner explicitly requested filing the entire reviewed programme as a held group; this authorizes the multi-ticket filing beyond the usual automatic-follow-up budget. Four original L estimates were each split into two bounded M passes before filing. No geometry, rendering or historical-source metadata was changed by this filing. Each visual implementation must provide before/after browser evidence and the repository-required checks; release and claim only after the owner selects this specific ticket.
+
+## T-2199 retrieval finding — 2026-10-09 UTC
+
+IIT 1945 shows continuous low boundary stones and front ground interfaces; Cornell ca.1887 shows construction-period ground disturbance and temporary frames. Neither date alone proves the 1904 pavement/curb arrangement. NRHP photo 4 (1972, PDF pp.32–33) shows later street conditions and must remain a separate phase.
+
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

@@ -65,3 +65,9 @@ Frontage tree context coordinated with T-2159; no new neighborhood ticket. Re-re
 ## Filing and execution record
 
 The owner explicitly requested filing the entire reviewed programme as a held group; this authorizes the multi-ticket filing beyond the usual automatic-follow-up budget. Four original L estimates were each split into two bounded M passes before filing. No geometry, rendering or historical-source metadata was changed by this filing. Each visual implementation must provide before/after browser evidence and the repository-required checks; release and claim only after the owner selects this specific ticket.
+
+## T-2199 retrieval finding — 2026-10-09 UTC
+
+IIT 1945 shows heavy climbing vegetation on the Prairie facade; it is not a 1904 planting map. Report #017 duplicates undated Taylor 9974 and does not independently date the trees. H06 requests dated circa-1904 summer courtyard/street coverage with season stated separately.
+
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

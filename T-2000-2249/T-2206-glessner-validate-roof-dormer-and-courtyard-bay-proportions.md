@@ -66,3 +66,9 @@ Protect T-1805/T-1830/T-1833/T-1999/T-2016/T-2157/T-2172/T-2183. Re-read linked 
 ## Filing and execution record
 
 The owner explicitly requested filing the entire reviewed programme as a held group; this authorizes the multi-ticket filing beyond the usual automatic-follow-up budget. Four original L estimates were each split into two bounded M passes before filing. No geometry, rendering or historical-source metadata was changed by this filing. Each visual implementation must provide before/after browser evidence and the repository-required checks; release and claim only after the owner selects this specific ticket.
+
+## T-2199 retrieval finding — 2026-10-09 UTC
+
+The recovered NRHP elevated image (#166, 1972, photo/form pp.30–31) shows roof masses at limited detail; it does not resolve hidden junctions or authorize the 1904 roof shape. #046 is the same unbuilt central-gable design family, excluded. Prioritized elevated roof and courtyard east/west requests are in the new brief; T-2231 remains the current landed roof correction.
+
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

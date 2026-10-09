@@ -63,3 +63,9 @@ New proposal. Re-read linked ticket states before execution. Reuse existing infr
 ## Filing and execution record
 
 The owner explicitly requested filing the entire reviewed programme as a held group; this authorizes the multi-ticket filing beyond the usual automatic-follow-up budget. Four original L estimates were each split into two bounded M passes before filing. No geometry, rendering or historical-source metadata was changed by this filing. Each visual implementation must provide before/after browser evidence and the repository-required checks; release and claim only after the owner selects this specific ticket.
+
+## T-2199 retrieval finding — 2026-10-09 UTC
+
+No pre-1904 courtyard surface/edging photograph was recovered. The ownership map (#164) is a 1972 parcel/owner diagram, not a courtyard paving survey. The arterial sketch (#165) is an unbuilt later proposal, now explicitly excluded and unknown/link-only; federal custody does not clear contributed-drawing rights.
+
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
