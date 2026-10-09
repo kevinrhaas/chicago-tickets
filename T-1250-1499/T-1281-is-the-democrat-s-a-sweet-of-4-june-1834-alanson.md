@@ -1,7 +1,7 @@
 ---
 id: T-1281
 title: Is the Democrat's 'A. Sweet' of 4 June 1834 Alanson Sweet or the Alon[s]on Sweet of the same column
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-17
-closed: null
+closed: 2026-10-09
 pr: 567
 claimed_by: run 10/9/2026, 5:01:09 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T11:18:04Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37914205148
 claimed_at: 2026-10-09T10:01:09.370Z
 decision: null
