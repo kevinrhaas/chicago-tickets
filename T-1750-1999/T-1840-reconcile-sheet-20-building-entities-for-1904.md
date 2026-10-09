@@ -1,7 +1,7 @@
 ---
 id: T-1840
 title: Reconcile sheet 20 building entities for 1904
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 1:44:59 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37974828735
+claimed_at: 2026-10-09T18:44:59.980Z
 decision: null
 decision_answer: null
 ---
