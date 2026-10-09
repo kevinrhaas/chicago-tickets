@@ -1,7 +1,7 @@
 ---
 id: T-2237
 title: The order book's household quota reads the residents index only: count the 309 trade households T-1347 drew as heads of their own and seated (244 in dwellings, 58 in boarding houses, 7 in inns), and the readmitted and underdocumented cards seated on a roof, as households the town holds; the completion audit reads 3,579 present against the 3,265 ceiling, so the family-dwelling order still open is set against them before anything is minted
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 560
 claimed_by: run 10/9/2026, 1:21:21 AM CT
 blocked_on: null
 needs_bake: false
