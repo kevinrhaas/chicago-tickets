@@ -1,7 +1,7 @@
 ---
 id: T-2242
 title: Re-budget the South's five gated ordinary dwellings (D2, D2, D4, D4, D5 on south_plat_beyond_committed_control) by name: the South's district target feeds the order book's household division shares (build_order_book_1835.division_shares), so shedding them moves family households between divisions and the household layer has to be walked to its fixpoint in the same PR
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2239
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: Owner decision (a), 2026-10-09 via Manager: keep the five gated South dwellings (D2, D2, D4, D4, D5) owed in the gated balance beyond committed street control until the S9 street work lands; no cut to the South target
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T14:28:09.817Z
 claimed_run: null
 claimed_at: null
 decision: answered
