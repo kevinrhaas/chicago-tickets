@@ -46,3 +46,15 @@ Measured with #555's code on #554 over dev: lap 1 moved, lap 2 moved nothing. Th
 - **T-2019's female-headed promise** now nets out a printed bride's own folded house, which moved the count from 128/1448 to the promised 129/1449.
 
 Women-and-children's deal does not move at all, and the re-family rule changes by 8 lines.
+
+## Finding (slice 4/5 lap, 2026-10-09): C. H. Bennett's only reading may be Springfield's
+
+The column-title rule this ticket extends now reads "Mr. C. H. Bennett" onto `hh_bennett_c_h`
+from the Chicago Democrat of 10 September 1834, c018. That closes the unit, so the ruling
+`the_earlier_building_stands_outside_the_reconstruction_ground` in `data/research/spend_rulings.json`
+has to be retired (`research_spend_ledger`: "already closed without it"). That ruling held the
+only recorded doubt about the notice: it is a tavern "lately occupied by Mr. C. H. Bennett", and
+its fuller witness is datelined "Springfidl, Aug. 11, 1834". So the house is most likely
+Springfield's. The card rests on c018 alone, and its note says the paper "prints this person by
+name in the town". Whether `hh_bennett_c_h` is a Chicago resident at all wants a ruling; the
+sex reading itself is not in question.
