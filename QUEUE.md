@@ -172,7 +172,6 @@
 #     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
-T-2176 — Build the South's ordinary dwellings and barn still owed after T-2147: the D4 slot on block 81's lot 1, the D5 slot on block 95's lot 1, and the A2 the re-dealt block 81 no longer carries
 T-2182 — The South's ordinary dwellings still ordered after T-2176, with no household asking for them: the D4 and D5 the schedule deals blk_south_water_wells, the D6 on blk_south_water_dearborn, and the D4, D5 and D6 on gated blk_south_water_market — build where the ground allows, or re-budget
 T-2195 — Cut the Market wedge's eastern two-thirds into reconstructed lots (owner ruling b, 2026-10-08): emit blk_south_water_market where the block has a lot's depth, re-deal what it cannot hold, and open it in the roof schedule for T-1957, T-2175 and T-2182
 T-2196 — Raise the South's two owed boarding houses on the Market wedge's new lots, re-freezing the lodger basis first so seat_lodgers_1835 seats their lodgers
