@@ -1,7 +1,7 @@
 ---
 id: T-2237
 title: The order book's household quota reads the residents index only: count the 309 trade households T-1347 drew as heads of their own and seated (244 in dwellings, 58 in boarding houses, 7 in inns), and the readmitted and underdocumented cards seated on a roof, as households the town holds; the completion audit reads 3,579 present against the 3,265 ceiling, so the family-dwelling order still open is set against them before anything is minted
-state: claimed
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: run 10/8/2026, 11:26:21 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37883602428
-claimed_at: 2026-10-09T04:26:21.087Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
