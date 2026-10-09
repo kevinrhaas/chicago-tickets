@@ -1,7 +1,7 @@
 ---
 id: T-2175
 title: The street line's other three warehouses: the F3 the schedule deals to blk_south_water_wells, which generate_block_infill refuses on a platted lot for want of river access (T-0275), and the F3 and F4 on gated blk_south_water_market
-state: open
+state: claimed
 epic: TOWN
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1673
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 6:45:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38005649772
+claimed_at: 2026-10-09T23:45:11.573Z
 decision: null
 decision_answer: null
 ---
