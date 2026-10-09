@@ -373,3 +373,4 @@ T-2199 — Recover unavailable Glessner references and resolve missing exterior 
 # BLOCKED-OWNER T-2226 — Glessner: balance lighting, contact shadows and restrained surface aging [GA-24]
 # BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
 # BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
+T-2235 — Glessner: restore the west-wing level ridge and courtyard awning after T-2231
