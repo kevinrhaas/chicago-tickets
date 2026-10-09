@@ -374,3 +374,4 @@ T-2198 — Glessner: repair source identity, captions and evidence families
 # BLOCKED-OWNER T-2226 — Glessner: balance lighting, contact shadows and restrained surface aging [GA-24]
 # BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
 # BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
+T-2231 — Glessner: correct west front gable pitch and rear width from owner photographs
