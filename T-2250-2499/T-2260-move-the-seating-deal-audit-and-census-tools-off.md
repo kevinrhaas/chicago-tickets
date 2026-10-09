@@ -1,7 +1,7 @@
 ---
 id: T-2260
 title: Move the seating, deal, audit and census tools off the singular lives_at/works_at onto associated_with rows
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1274
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 598
 claimed_by: run 10/9/2026, 5:53:38 PM CT
 blocked_on: null
 needs_bake: false
