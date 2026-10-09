@@ -35,3 +35,18 @@ When T-2239 was split (2026-10-09T09:51:21.466Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37913002798) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Measured when it was split (2026-10-09, T-2241's run)
+
+- After T-2241 all five owed South dwellings stand on `south_plat_beyond_committed_control`
+  (gated, 10 roofs: D2 2, D4 2, D5 1, F3 2, F4 1, H3 2). The F3s and F4 are T-2175's, the H3s T-2196's.
+- Shedding them is not a matrix-only edit. The column must sum to `districts.south.target`
+  (`generate_inferred_infill.validate_programme`), and `build_order_book_1835.division_shares` reads
+  those targets to split the HOUSEHOLD targets: South 365 → 360 moves the South share from 0.5598 to
+  0.5564 (West 0.2071 → 0.2087, North 0.2331 → 0.2349). households/family_dwelling/south reads 258 today,
+  so about two South family households move to West and North, and `seat_known_1835`'s policy-only deal
+  takes its division shape from those buckets. `model_town_1835` also prints the matrix's
+  ordinary-dwelling division table. Budget a fixpoint walk of the household layer, or argue in the PR for
+  decoupling division_shares from the roof target.
+- `roof_total` 668 → 663, `principal_functional` 510 → 505, `family_targets` D2/D4/D5 and the
+  `roof_total_note` would all move with it; 663 is inside the 565-765 range.

@@ -34,3 +34,8 @@ When T-1673 was split (2026-10-08T10:45:07.914Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37764746400) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Note from T-2241 (2026-10-09)
+
+The schedule no longer deals `blk_south_water_wells` any roof: its lot 0 is refused as a narrow business
+front, so the F4 the wedge had moved there is back on the gated South balance with the two F3s.

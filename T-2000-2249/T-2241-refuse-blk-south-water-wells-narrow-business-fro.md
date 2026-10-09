@@ -34,4 +34,4 @@ When T-2239 was split (2026-10-09T09:51:21.466Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37913002798) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** `reconcile_665.py` refuses, in its free-lot sizing, any lot freed only by the business-front clause whose widest stretch of face not under a standing footprint is under one party-line unit (24.384 m / 3); `blk_south_water_wells` reads `at_capacity` with lot 0 listed under `narrow_front_lots`, its D2, D4 and F4 move to the gated South balance, `check.sh` is green, and no household seat moves.
