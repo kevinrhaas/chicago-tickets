@@ -1,7 +1,7 @@
 ---
 id: T-2202
 title: Glessner: restore Prairie frontage curbs, thresholds and ground contact
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 9:22:56 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-09T14:22:56.906Z
 decision: null
 decision_answer: null
 ---
