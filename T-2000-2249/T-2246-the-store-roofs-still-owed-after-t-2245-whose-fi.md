@@ -1,7 +1,7 @@
 ---
 id: T-2246
 title: The store roofs still owed after T-2245 whose firm's partner the town holds no card for (H. Doty & Co., Rockwell, the Chicago Bakery's D. Graves; Harmon, Loomis & Co.'s adopted roof beside its documented harmon_loomis_store) and the firmless west store recon_1835_west_020: rule each a store nobody is seated over, or form the keeper's household
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 579
 claimed_by: run 10/9/2026, 10:25:10 AM CT
 blocked_on: null
 needs_bake: false
