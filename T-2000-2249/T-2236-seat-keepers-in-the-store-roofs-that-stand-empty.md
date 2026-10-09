@@ -1,7 +1,7 @@
 ---
 id: T-2236
 title: Seat keepers in the store roofs that stand empty: the 31 store residences T-2194's ruling leaves on order, on the 38 civil store roofs no household sits in (29 south, 5 west, 4 north), formed by moving store-trade heads the town already holds (64 grocers, merchants, milliners and the like T-1347 drew into dwellings and boarding houses) rather than minting
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 565
 claimed_by: run 10/9/2026, 3:24:18 AM CT
 blocked_on: null
 needs_bake: false
