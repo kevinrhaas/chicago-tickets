@@ -29,4 +29,10 @@ The ticket budget refused this: the queue stands at 149 lines, at or over its ce
 
 > Explicit owner correction selected for immediate work; bounded west/northwest geometry repair while the broader audit group remains manually held.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+## Acceptance
+
+Correct the taller front west gable slope and its transition to the lower rear section using the two owner-supplied west and northwest images (9 October 2026). The owner clarified that the front gable angle is the roof defect. Keep the measured stable footprint; correct the relative frontage allocated to the tall gable and rear roof. Record any inferred/reconstructed dimensions explicitly.
+
+Validate actual rebuilt full/light geometry against both references, with repeatable west and northwest before/after renders and a control-point/proportion table. Check roof continuity and aperture clearances, preserve the recent courtyard/window/dark-glass work, run repository source and applicable published desktop/mobile gates, then merge into dev. No production promotion.
+
+This is the specifically authorized repair; the broader T-2206 audit and other manually held programme tickets remain held.
