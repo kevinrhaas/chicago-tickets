@@ -1,7 +1,7 @@
 ---
 id: T-1543
 title: Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 570
 claimed_by: run 10/9/2026, 6:55:08 AM CT
 blocked_on: null
 needs_bake: false
