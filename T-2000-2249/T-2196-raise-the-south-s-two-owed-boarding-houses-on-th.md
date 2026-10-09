@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37914561384
 claimed_at: 2026-10-09T10:01:14.962Z
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Raise the South's two owed boarding houses on the Market wedge's new lots, re-freezing the lodger basis first so seat_lodgers_1835 seats their lodgers.
@@ -48,3 +48,5 @@ houses go elsewhere, is this ticket's first question.
 **Recommendation:** (a) Lot 7 as a short row: name a two-unit party-line row on the wedge's Lake Street face so one H3 stands beside the D5 (the lot is 24.38 m, and the D5 at 6.85 m plus an H3 at about 10 m plus the plat's 1.5 m end margins is about 19.9 m). This change is for this block only. The second H3 waits in the gated balance for the S9 street work. — (a) keeps your ruling's intent: it builds on the Original Town ground the plat drew, uses the party-line row the town already uses on principal streets, and moves no target. The H3 it cannot place waits on owed street work instead of being cut. (b) undoes a choice you made a day ago. (c) breaks the rule that every block keeps a lot open, which the schedule adopted so that no block reads fully built (a claim the evidence does not support). NOTE: T-2242 plans to cut the South's five gated ordinary dwellings the same way, from the same South target. That is the kind of cut you declined as option (c), so your answer here bears on that ticket too. (The schedule re-apportions the district's remainder across all its units, so which of the gated roofs 'came from' the wedge cannot be traced roof by roof.)
 
 **Asked:** 2026-10-09 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37914561384. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-09, via Manager):** (a) Lot 7 as a short row: name a two-unit party-line row on the wedge's Lake Street face so one H3 stands beside the D5 (the lot is 24.38 m, and the D5 at 6.85 m plus an H3 at about 10 m plus the plat's 1.5 m end margins is about 19.9 m). This change is for this block only. The second H3 waits in the gated balance for the S9 street work.
