@@ -180,7 +180,10 @@ T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boar
 T-2249 — The housing deal counts 31 present households as housed by a workplace row alone (hh_harmon_brothers, hh_calhoun_john, hh_dole_george_w, hh_clybourne_archibald…): they sleep under no roof in the scene; seat them or rule where they slept
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-2233 — Seat Mary Noble as George Bickerdyke's printed wife (Democrat 3 Dec 1833, c007): his house is one the order book refused a wife, so seating her takes him out of T-2020's wife match, which re-pairs about ten houses after him (measured 2026-10-09: hh_rc_ryan_bridget moves to hh_boardman_harry, and so on down to hh_markle_joseph_w; hh_rc_crandall_clarissa stands alone again). Carry that through the fixpoint, or rule that the pairs stay and only his own wife changes
-T-1274 — Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair
+T-2258 — The household card names a home and a workplace only from its dated associated_with rows: drop the undated Lived at / Worked at rows, and validate.py refuses a singular lives_at/works_at that no plural row carries
+T-2259 — compile_scene.py derives the resident rows' lives_at/works_at and the building sidecar's lived/worked-here links from associated_with rows instead of the singular pair (people.js, destinations.js and residents.js read the compiled rows)
+T-2260 — Move the seating, deal, audit and census tools off the singular lives_at/works_at onto associated_with rows
+T-2261 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads them
 # Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
 # small and card-local, they do not move the city.
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename

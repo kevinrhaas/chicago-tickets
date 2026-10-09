@@ -1,7 +1,7 @@
 ---
 id: T-1274
 title: Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair
-state: open
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,13 +9,16 @@ effort: S
 legacy_id: null
 parent: T-1253
 opened: 2026-09-17
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T19:32:08.702Z
 claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
 ---
 
 Move the renderers and tools off the singular lives_at/works_at once the plural rows carry every claim, and retire the pair.
