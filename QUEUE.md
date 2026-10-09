@@ -172,7 +172,6 @@
 #     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
-T-2241 — Refuse blk_south_water_wells' narrow business-front lot in reconcile_665's sizing: lot 0 is free only under the clause, and H. Jones's store leaves 7.46 m of face against an 8.128 m party-line unit, so the schedule stops dealing the block a D2, D4 and F4 it cannot build (they join the gated South balance)
 T-2242 — Re-budget the South's five gated ordinary dwellings (D2, D2, D4, D4, D5 on south_plat_beyond_committed_control) by name: the South's district target feeds the order book's household division shares (build_order_book_1835.division_shares), so shedding them moves family households between divisions and the household layer has to be walked to its fixpoint in the same PR
 T-2243 — Repoint the order book's three T-2239 rows (South ordinary_dwellings, barns_stables, small_outbuildings) onto T-2242, the live piece that owns the five dwellings: T-2239 was split and build_order_book_1835 --check refuses the book
 T-2196 — Raise the South's two owed boarding houses on the Market wedge's new lots, re-freezing the lodger basis first so seat_lodgers_1835 seats their lodgers
