@@ -1,7 +1,7 @@
 ---
 id: T-2258
 title: The household card names a home and a workplace only from its dated associated_with rows: drop the undated Lived at / Worked at rows, and validate.py refuses a singular lives_at/works_at that no plural row carries
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1274
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 591
 claimed_by: run 10/9/2026, 2:32:14 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T22:49:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37980259048
 claimed_at: 2026-10-09T19:32:14.246Z
 decision: null
