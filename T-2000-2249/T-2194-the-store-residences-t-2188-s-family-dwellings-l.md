@@ -1,7 +1,7 @@
 ---
 id: T-2194
 title: The store residences T-2188's family dwellings leave: 56 store households the book orders that no standing store roof seats a held head in, and the 661 present people the census reads beyond the index — rule whether the book over-orders or the index is short
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2188
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 10:32:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37879197006
+claimed_at: 2026-10-09T03:32:56.721Z
 decision: null
 decision_answer: null
 ---
