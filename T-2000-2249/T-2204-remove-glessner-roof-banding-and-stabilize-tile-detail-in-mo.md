@@ -1,7 +1,7 @@
 ---
 id: T-2204
 title: Remove Glessner roof banding and stabilize tile detail in motion
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 594
 claimed_by: run 10/9/2026, 3:15:50 PM CT
 blocked_on: null
 needs_bake: true
