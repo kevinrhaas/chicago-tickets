@@ -1,7 +1,7 @@
 ---
 id: T-2197
 title: Three readmitted cards are second copies of St Mary's rows a households card already carries: hh_joseph_l_tendre (hh_ltendre_joseph), hh_baptiste_l_tendre (hh_ltendre_baptiste) and hh_louis_franch_re (hh_franchre_louis) — retire them through consolidate_town_cards.py
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 552
 claimed_by: run 10/8/2026, 6:52:38 PM CT
 blocked_on: null
 needs_bake: false
