@@ -1,7 +1,7 @@
 ---
 id: T-2232
 title: Seat Charlotte Wesencraft as Mark Noble jun.'s printed wife and land the column-title sex readings (Mark jun. male, Charlotte, Anne Maria Barney female, Alson Woodruff male): the code is on steward/t2230-noble-brides; re-derive the layer, carrying the T-2021 families the flips withdraw through the modelled-families / women-and-children / re-family-rule fixpoint, the seating and any rebake, and gate
-state: open
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2230
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 554
 claimed_by: null
 blocked_on: null
 needs_bake: false
