@@ -1,7 +1,7 @@
 ---
 id: T-2203
 title: Correct Glessner roof tile scale and coverage on every roof plane
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Owner-directed manual hold (2026-10-09 UTC): commented Glessner group below portable people; activate only the single ticket explicitly selected by the owner.
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -69,3 +69,8 @@ New proposal. Re-read linked ticket states before execution. Reuse existing infr
 ## Filing and execution record
 
 The owner explicitly requested filing the entire reviewed programme as a held group; this authorizes the multi-ticket filing beyond the usual automatic-follow-up budget. Four original L estimates were each split into two bounded M passes before filing. No geometry, rendering or historical-source metadata was changed by this filing. Each visual implementation must provide before/after browser evidence and the repository-required checks; release and claim only after the owner selects this specific ticket.
+
+
+## Owner selection — 2026-10-09
+
+The owner selected this ticket: “Take 2203 next.” Release only T-2203 in its existing manual group; all other holds remain in place.
