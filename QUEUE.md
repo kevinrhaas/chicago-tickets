@@ -198,7 +198,6 @@ T-2175 — The street line's other three warehouses: the F3 the schedule deals t
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-1840 — Reconcile sheet 20 building entities for 1904
 T-1841 — Reconcile sheet 28 building entities for 1904
 T-1842 — Reconcile sheet 35 building entities for 1904
 T-1843 — Metric asset contract and Glessner comparison slice
