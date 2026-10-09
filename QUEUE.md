@@ -343,7 +343,7 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # 31 held tickets: 26 audit packages (four split into two bounded passes) plus one missing-reference retrieval pass.
 # Every row is commented and every ticket is blocked-owner. Do not auto-unblock, claim, or activate this group.
 # Programme/evidence/release instructions: evidence/glessner-exterior-audit-2026-10-08/README.md
-# BLOCKED-OWNER T-2198 — Glessner: repair source identity, captions and evidence families [GA-01]
+T-2198 — Glessner: repair source identity, captions and evidence families
 # BLOCKED-OWNER T-2199 — Recover unavailable Glessner references and resolve missing exterior views [GA-R1]
 # BLOCKED-OWNER T-2200 — Glessner: establish a dated, camera-matched exterior acceptance baseline [GA-02]
 # BLOCKED-OWNER T-2201 — Glessner: close the south courtyard boundary and resolve its junctions [GA-03]
