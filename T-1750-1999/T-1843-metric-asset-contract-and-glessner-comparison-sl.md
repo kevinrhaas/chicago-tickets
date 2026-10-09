@@ -1,7 +1,7 @@
 ---
 id: T-1843
 title: Metric asset contract and Glessner comparison slice
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: run 10/9/2026, 6:40:48 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-09T23:41:22.827Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38005209869
 claimed_at: 2026-10-09T23:40:48.259Z
 decision: null
