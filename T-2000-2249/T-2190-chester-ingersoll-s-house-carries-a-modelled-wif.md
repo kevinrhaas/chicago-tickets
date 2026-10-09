@@ -1,7 +1,7 @@
 ---
 id: T-2190
 title: Chester Ingersoll's house carries a modelled wife, 'Martha Ingersoll', while the Democrat of 17 December 1833 prints his marriage to Betsy Weaver, who sits on her own card (hh_weaver_betsy): seat the printed bride as the wife, withdraw the modelled one, and write the husband/wife tie
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 547
 claimed_by: run 10/8/2026, 4:29:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T00:05:11Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37846748820
 claimed_at: 2026-10-08T21:29:53.272Z
 decision: null
