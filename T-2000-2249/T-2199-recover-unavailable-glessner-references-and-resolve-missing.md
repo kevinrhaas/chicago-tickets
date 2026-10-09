@@ -96,3 +96,5 @@ The [published-source report](https://github.com/kevinrhaas/chicago/blob/dev/chi
 Delivery PR: https://github.com/kevinrhaas/chicago/pull/556 (dev). Final foreground repository gate: 794 steps passed; published stage 12 passed 101 checks each on desktop/mobile; library validator and eight tests passed. Integration timing is explicit in the receipts.
 
 Live dev verified: https://chicago.polecat.live/4d/dev/prairie-1904/docs/glessner-reference-recovery.html — build `1bf113e2`, 172 matching Glessner records, 36 desktop/mobile detail checks passed. Initial intermittent IIT 503 and successful recheck are both retained in the receipts.
+
+Final CI complete: PR gate, moving frames, post-merge dev gate and deployment all passed. See `ci-status.json` in the implementation receipts.
