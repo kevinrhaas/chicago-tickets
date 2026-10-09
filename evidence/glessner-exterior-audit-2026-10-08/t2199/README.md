@@ -13,3 +13,7 @@ The library report contains the exact unavailable list, remaining-view prioritie
 - `smoke-mobile-missing-browser.log`: setup-only attempt before selecting installed Chromium; retained separately, no suite executed.
 
 T-2200–T-2228 remain blocked-owner and commented in the queue. Source findings were appended to 14 relevant held tickets; no outreach or purchases were made.
+
+Delivery [PR #556](https://github.com/kevinrhaas/chicago/pull/556) targets dev. Final combined base is `22685d12` (T-2195 and T-1273 integrated). `final-preflight.log` records all three preflight gates passing; `final-check.log` records all 794 repository steps passing. Since preflight ran before the commit, `committed-changelog-check.log` additionally verifies the actual committed diff. `library-final-validation.log` repeats the eight library tests and validator after integration.
+
+`smoke-desktop.log`: published stage 12, 101 passed, zero failed and zero page errors, 18m39s under software rendering. This complete suite ran on base `6e5a9ec2`, before the final T-1273 household-data integration. The final combined tree is covered by the full gate above; no complete renderer smoke is claimed on that later tree.
