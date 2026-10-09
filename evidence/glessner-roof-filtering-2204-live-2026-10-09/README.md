@@ -20,8 +20,8 @@ renderer regression. [Implementation dossier](https://github.com/kevinrhaas/chic
 
 The first CI movement run on the preceding integration had one 1835 foliage
 frame at 63.2 ms against a 60 ms ceiling. Its rerun passed without changing code
-or thresholds; the failure transcript is retained here. Final-head CI is recorded
-separately when it completes.
+or thresholds; the failure transcript is retained here. Final-head CI **passes**: `gate`, `moving-frames`, and `report`, all on
+`63a13fcfb8cda66b924488516dde9b1ed211467a`. See [final CI receipt](final-ci.json).
 
 All other manually held Glessner work remains held. In particular, the folded
 copper connector remains T-2220; this tile-sampling pass does not repair it.

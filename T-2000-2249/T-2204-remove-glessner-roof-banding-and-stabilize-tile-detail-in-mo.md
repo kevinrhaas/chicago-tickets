@@ -107,3 +107,5 @@ Full/Light asset hashes match the reviewed implementation. Main was not promoted
 
 [Live verification receipts and screenshots](../evidence/glessner-roof-filtering-2204-live-2026-10-09/README.md).
 The other manual holds, including T-2220, remain unchanged.
+
+Final-head GitHub CI passes: gate, moving-frames (including mobile memory release), and report.
