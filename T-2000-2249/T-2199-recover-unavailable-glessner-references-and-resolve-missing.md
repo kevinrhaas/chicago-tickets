@@ -94,3 +94,5 @@ All 17 original rows are reconciled in the canonical library: ten recovered reco
 The [published-source report](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html) contains all retrieval outcomes, prioritized missing views, a measured-photo brief and five unsent inquiry drafts. [Implementation receipts](../evidence/glessner-exterior-audit-2026-10-08/t2199/README.md) document source integrity and desktop/mobile review. Findings were appended to 14 existing held tickets. No model geometry changed and no other programme ticket was activated.
 
 Delivery PR: https://github.com/kevinrhaas/chicago/pull/556 (dev). Final foreground repository gate: 794 steps passed; published stage 12 passed 101 checks each on desktop/mobile; library validator and eight tests passed. Integration timing is explicit in the receipts.
+
+Live dev verified: https://chicago.polecat.live/4d/dev/prairie-1904/docs/glessner-reference-recovery.html — build `1bf113e2`, 172 matching Glessner records, 36 desktop/mobile detail checks passed. Initial intermittent IIT 503 and successful recheck are both retained in the receipts.
