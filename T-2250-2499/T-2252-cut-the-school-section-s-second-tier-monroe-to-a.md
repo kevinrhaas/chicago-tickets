@@ -1,7 +1,7 @@
 ---
 id: T-2252
 title: Cut the School Section's second tier (Monroe to Adams, east of the South Branch) into the lots the October 1833 register witnesses, as T-1477 cut Madison to Monroe — owner ruling (b) on T-2247
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2247
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 588
 claimed_by: run 10/9/2026, 1:22:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T21:43:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37972379052
 claimed_at: 2026-10-09T18:22:36.537Z
 decision: null
