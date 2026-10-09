@@ -50,3 +50,14 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
   decoupling division_shares from the roof target.
 - `roof_total` 668 → 663, `principal_functional` 510 → 505, `family_targets` D2/D4/D5 and the
   `roof_total_note` would all move with it; 663 is inside the 565-765 range.
+
+## Finding, 2026-10-09 (T-2196's run, slice 3/5): the owner declined this kind of cut a day ago
+
+On 2026-10-08 the owner answered T-1957's question about the Market wedge's 8 roofs (including
+D2, D4 and D5 dwellings). He chose **(b) build on the wedge's eastern lots and re-deal the rest**
+over **(c) "Return them: cut the South's targets by these 8 and re-close the order book"**. Shedding
+the South's gated dwellings from `districts.south.target` is that cut in substance, even though
+the schedule's district-wide re-apportionment means no gated roof can be traced to the wedge one by
+one. T-2196 now asks him the same question for its two gated H3s (`decision: pending`). Option (b)
+there is the cut, and the ask names this ticket. **Read his answer on T-2196 before shedding any
+roof here.** If he chooses the cut, both tickets can share one household fixpoint walk.
