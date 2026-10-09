@@ -1,7 +1,7 @@
 ---
 id: T-0909
 title: The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-06
 closed: null
-pr: null
+pr: 564
 claimed_by: run 10/9/2026, 4:01:41 AM CT
 blocked_on: null
 needs_bake: false
