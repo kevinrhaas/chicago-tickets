@@ -69,4 +69,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 No new close-up of original porte-cochere hardware was recovered. Barford side-door identity/date remain unresolved; do not assume it is this opening. Continue to compare the known 1948 Florian GX112.10 view and request dated leaf/hardware details using H05.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

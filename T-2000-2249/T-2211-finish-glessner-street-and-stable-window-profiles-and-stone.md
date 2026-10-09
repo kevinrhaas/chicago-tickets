@@ -76,4 +76,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 IIT 1945 shows the grouped Prairie upper windows and stone supports, but foliage obscures portions of the facade. Barford window-detail mqc/37298 remains unavailable: its download is an about:blank shortcut. Do not infer its profile from its title.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

@@ -70,4 +70,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 IIT 1945 shows heavy climbing vegetation on the Prairie facade; it is not a 1904 planting map. Report #017 duplicates undated Taylor 9974 and does not independently date the trees. H06 requests dated circa-1904 summer courtyard/street coverage with season stated separately.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

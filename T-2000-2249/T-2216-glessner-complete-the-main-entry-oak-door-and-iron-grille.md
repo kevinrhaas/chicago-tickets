@@ -69,4 +69,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 Barford side-door mqc/37021 remains catalog-only with no identified opening or photograph date. Its public download is an about:blank shortcut. The main-entry and porte-cochere hardware requests are separated in the measured-photo brief. Rejected #089 remains excluded.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

@@ -74,4 +74,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 The recovered Cornell print (#099) is the same ca.1887 construction exposure as #006/#103/#110; use one exposure, not four corroborating photographs. Report #017 is Taylor 9974, visually matching #016. IIT 1945 adds a distinct Prairie-facade camera view, but does not establish 1904 condition. The new brief supplies historical and measured-photo priorities; no pre-1904 courtyard view was recovered.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

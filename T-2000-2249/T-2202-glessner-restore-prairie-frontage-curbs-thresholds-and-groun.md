@@ -69,4 +69,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 IIT 1945 shows continuous low boundary stones and front ground interfaces; Cornell ca.1887 shows construction-period ground disturbance and temporary frames. Neither date alone proves the 1904 pavement/curb arrangement. NRHP photo 4 (1972, PDF pp.32–33) shows later street conditions and must remain a separate phase.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

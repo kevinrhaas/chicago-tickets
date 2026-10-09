@@ -69,4 +69,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 IIT 1945 provides a later view of the three visible street-roof stacks and caps. Cornell ca.1887 remains a duplicate of the known construction exposure. NRHP aerial photo 3 is dated 1972 and too distant to resolve cap/flashings precisely; stack backs and alteration chronology remain high-priority H03 requests.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

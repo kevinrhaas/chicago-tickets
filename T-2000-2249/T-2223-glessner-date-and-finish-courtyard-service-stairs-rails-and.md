@@ -68,4 +68,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 Barford courtyard and side-door records remain unavailable; collection c.1945– is not a photograph-specific date, and the former 1972 upper bound was unsupported. No new evidence dates the service stairs/rails/gate to 1904. H02/H04 identify needed views and current-fabric measurements.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

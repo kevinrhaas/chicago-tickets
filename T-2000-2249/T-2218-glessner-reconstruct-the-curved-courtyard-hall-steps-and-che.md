@@ -67,4 +67,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 No new pre-1904 courtyard/curved-hall-steps view was recovered. Yale VRC 36 Box 34 lists seven Glessner photographs without view/date identifiers; Barford courtyard mqc/36957 has only catalog metadata. H01 requests the bow/steps/turret ground junction in a single located sequence.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

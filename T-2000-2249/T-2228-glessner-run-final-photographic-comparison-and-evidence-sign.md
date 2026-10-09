@@ -74,4 +74,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 T-2199 closes the bounded retrieval pass with 10/17 recovered records and seven explicit unavailable images (#015/#025/#128–131/#140). Cornell/report duplicates do not multiply corroboration. The report and shot brief expose remaining uncertainty; final photographic acceptance cannot claim those gaps have been resolved.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

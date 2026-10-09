@@ -68,4 +68,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 No pre-1904 courtyard surface/edging photograph was recovered. The ownership map (#164) is a 1972 parcel/owner diagram, not a courtyard paving survey. The arterial sketch (#165) is an unbuilt later proposal, now explicitly excluded and unknown/link-only; federal custody does not clear contributed-drawing rights.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

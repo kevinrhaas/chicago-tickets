@@ -67,4 +67,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 IIT 1945 visibly documents the Prairie eave/gutter and corner downpipe as later fabric. Use it for relative alignment, not a measured diameter or an assertion that every fitting existed in 1904. H03/H07 request roof-junction details, scales and restoration chronology.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.

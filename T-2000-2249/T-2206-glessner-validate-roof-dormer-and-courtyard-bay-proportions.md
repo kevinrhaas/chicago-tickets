@@ -71,4 +71,4 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 
 The recovered NRHP elevated image (#166, 1972, photo/form pp.30–31) shows roof masses at limited detail; it does not resolve hidden junctions or authorize the 1904 roof shape. #046 is the same unbuilt central-gable design family, excluded. Prioritized elevated roof and courtyard east/west requests are in the new brief; T-2231 remains the current landed roof correction.
 
-[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+[Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
