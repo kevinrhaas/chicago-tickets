@@ -1,7 +1,7 @@
 ---
 id: T-2203
 title: Correct Glessner roof tile scale and coverage on every roof plane
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 583
 claimed_by: run 10/9/2026, 12:06:05 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-09T19:47:27Z
 claimed_run: null
 claimed_at: 2026-10-09T17:06:05.429Z
 decision: null
