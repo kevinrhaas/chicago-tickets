@@ -1,7 +1,7 @@
 ---
 id: T-2253
 title: Join the Monroe-to-Adams tier to the platted grid and the roof schedule, as T-2144 joined Madison to Monroe, with the South's six gated roofs (D2, D2, D4, D4, D5, H3) dealt to it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2247
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 599
 claimed_by: run 10/9/2026, 4:47:06 PM CT
 blocked_on: null
 needs_bake: false
