@@ -1,7 +1,7 @@
 ---
 id: T-2247
 title: The South's roofs owed beyond committed street control: carry the plat's north-south columns to Madison (ROADMAP S9), then raise the gated balance's five dwellings (D2, D2, D4, D4, D5) and its one boarding house (H3)
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: run 10/9/2026, 1:22:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T18:22:31.050Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37972379052
 claimed_at: 2026-10-09T18:22:19.958Z
 decision: answered
