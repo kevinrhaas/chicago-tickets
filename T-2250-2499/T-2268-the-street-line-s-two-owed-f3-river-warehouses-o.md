@@ -1,7 +1,7 @@
 ---
 id: T-2268
 title: The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
-state: open
+state: claimed
 epic: TOWN
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2175
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 6:54:18 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38005649772
+claimed_at: 2026-10-09T23:54:18.473Z
 decision: null
 decision_answer: null
 ---
