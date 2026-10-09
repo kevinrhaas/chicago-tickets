@@ -79,3 +79,5 @@ T-2199 closes the bounded retrieval pass with 10/17 recovered records and seven 
 ## T-2200 measurement handoff — 2026-10-09 UTC
 
 T-2200 establishes eight core views with 80 picks plus a seven-pick limited courtyard-west reference. No whole-west calibration or pre-1904 courtyard image is available. All core views retain 1% target exceptions, and isolated-page QA is not whole-scene performance or photographic sign-off. Final acceptance must revisit missing coverage, association/camera bounds and both projected-width/observed-span residuals using frozen cameras. See `docs/RESEARCH/glessner-camera-baseline/README.md`. This handoff does not release this ticket.
+
+The frozen-asset checker is registered as manual in `data/research/check_gate_baseline.json`, owned by this final sign-off ticket. It verifies archived caf1c4e3/T-2235 bytes; later model edits use the frozen-camera candidate command. Public instrument data is `data/comparisons/glessner/`. This ownership note does not release the manual scheduling hold.
