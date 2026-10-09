@@ -1,7 +1,7 @@
 ---
 id: T-1645
 title: The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-26
 closed: null
-pr: null
+pr: 590
 claimed_by: run 10/9/2026, 12:56:49 PM CT
 blocked_on: null
 needs_bake: false
