@@ -1,7 +1,7 @@
 ---
 id: T-0909
 title: The Chappel shore drawing has no candidate left: the cheapest question is the depositor's, and it has never been asked
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 4:01:41 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37908251771
+claimed_at: 2026-10-09T09:01:41.173Z
 decision: answered
 decision_answer: a
 ---
