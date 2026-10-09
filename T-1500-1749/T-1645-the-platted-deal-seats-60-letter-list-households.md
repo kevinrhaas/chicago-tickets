@@ -1,7 +1,7 @@
 ---
 id: T-1645
 title: The platted deal seats 60 letter-list households on roofs the ruling of 2026-08-30 refuses them: the deal and T-0379 disagree about 60 roofs, and one of them has to move
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-26
-closed: null
+closed: 2026-10-09
 pr: 590
 claimed_by: run 10/9/2026, 12:56:49 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T22:26:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37969328701
 claimed_at: 2026-10-09T17:56:49.126Z
 decision: null
