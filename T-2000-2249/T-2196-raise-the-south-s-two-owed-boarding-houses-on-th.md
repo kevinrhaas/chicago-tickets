@@ -1,7 +1,7 @@
 ---
 id: T-2196
 title: Raise the South's two owed boarding houses on the Market wedge's new lots, re-freezing the lodger basis first so seat_lodgers_1835 seats their lodgers
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1957
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 5:01:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37914561384
+claimed_at: 2026-10-09T10:01:14.962Z
 decision: null
 decision_answer: null
 ---
