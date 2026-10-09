@@ -14,10 +14,10 @@
     "url": "https://github.com/kevinrhaas/chicago/actions/runs/37872508281"
   },
   {
-    "conclusion": "",
+    "conclusion": "success",
     "headSha": "f4172ede4f7f3789b503dc0099d08e34ebe948ed",
     "name": "Chicago 4D \u2014 gate",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/kevinrhaas/chicago/actions/runs/37872546129"
   },
   {
