@@ -1,7 +1,7 @@
 ---
 id: T-1543
 title: Spend the Fergus annotation of Silas W Sherman's 1834 and 1836 sheriff elections onto the dated office T-1299 put on his card
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-24
-closed: null
+closed: 2026-10-09
 pr: 570
 claimed_by: run 10/9/2026, 6:55:08 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T17:27:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37926258716
 claimed_at: 2026-10-09T11:55:08.119Z
 decision: null
