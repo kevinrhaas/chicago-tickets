@@ -1,7 +1,7 @@
 ---
 id: T-2245
 title: The store roofs whose firm's named partners the town holds no card for (J. L. Wilson & Co., Harmon, Loomis & Co., H. Doty & Co., Rockwell, the Chicago Bakery, Fullerton & Botsford, Clark, Filer & Co.) and the firmless west store recon_1835_west_020: link each partner to a card the town holds (Botsford, Filer, Loomis, Harmon, Wilson cards exist) and seat their household over the store, or rule it a store nobody is seated over
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2240
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 7:41:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37931400730
+claimed_at: 2026-10-09T12:41:56.502Z
 decision: null
 decision_answer: null
 ---
