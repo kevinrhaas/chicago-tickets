@@ -1,7 +1,7 @@
 ---
 id: T-1550
 title: Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 585
 claimed_by: run 10/9/2026, 11:59:20 AM CT
 blocked_on: null
 needs_bake: false
