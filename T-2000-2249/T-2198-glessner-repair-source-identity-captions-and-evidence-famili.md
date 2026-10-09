@@ -86,3 +86,7 @@ No geometry was changed. The 17 unavailable images remain catalog-only. The othe
 The library validator, six regression tests, 18 desktop/mobile record checks, the 792-step repository gate and PR preflight pass. Published app stage 12 passes 101 mobile checks. Desktop initially timed out at startup during concurrent checks; its idle rerun passed all 101 checks with zero page errors. The image grid also passed both widths, displaying all 171 records without overflow and finding exactly one disputed-attribution result. [Validation receipts](../evidence/glessner-exterior-audit-2026-10-08/t2198/).
 
 **Dev integration:** merged `7aed0a2a` into the branch without changing its already-shipped entry. Glessner is v1553. Combined-tree preflight passes all 792 repository steps; the library validator and a fresh published-changelog browser import also pass. Delivery head: `05e3dace`.
+
+## Dev delivery verified — 2026-10-09 UTC
+
+PR #549 merged into dev as `f4172ede4f7f3789b503dc0099d08e34ebe948ed`. The exact integration tree passed 792 repository steps and PR preflight. The dev deployment succeeded; the live library serves all 171 reviewed references and passed 18 detail checks across desktop and mobile with zero page errors or overflow. [Open the updated Glessner library](https://chicago.polecat.live/4d/dev/prairie-1904/viewer/#images?b=pa-1800-22). Receipts: `evidence/glessner-exterior-audit-2026-10-08/t2198/`. T-2199–T-2228 remain blocked-owner and commented below the people group.
