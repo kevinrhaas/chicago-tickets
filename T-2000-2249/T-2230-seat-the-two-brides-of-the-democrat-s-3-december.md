@@ -1,7 +1,7 @@
 ---
 id: T-2230
 title: Seat the two brides of the Democrat's 3 December 1833 MARRIED column: Charlotte Wesencraft as Mark Noble jun.'s wife and Mary Noble as George Bickerdyke's (where T-2020 folded Bridget Ryan in), reading the column's Mr. and Miss onto the two cards drawn the wrong sex ('Jun Marknoble' drawn female; Charlotte drawn male, heading a modelled wife and sons)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2192
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/8/2026, 8:12:10 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37868324385
+claimed_at: 2026-10-09T01:12:10.113Z
 decision: null
 decision_answer: null
 ---
