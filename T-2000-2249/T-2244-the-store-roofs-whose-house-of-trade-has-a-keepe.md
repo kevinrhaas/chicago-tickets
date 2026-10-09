@@ -1,7 +1,7 @@
 ---
 id: T-2244
 title: The store roofs whose house of trade has a keeper the town already places on another roof (G. Blanshard, Dr W. G. Austin, W. Montgomery, the Democrat office, Pierce & French): rule each a store with nobody living over it, list the keeper on the store's card, and discharge the order
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2240
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 571
 claimed_by: run 10/9/2026, 7:18:49 AM CT
 blocked_on: null
 needs_bake: false
