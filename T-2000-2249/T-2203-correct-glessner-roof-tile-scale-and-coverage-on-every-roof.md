@@ -82,3 +82,11 @@ The owner selected this ticket: “Take 2203 next.” Release only T-2203 in its
 [Source review, before/after captures, coverage inventory, and validation evidence](https://github.com/kevinrhaas/chicago/blob/steward/t-2203-glessner-roof-tiles/chicago/4d/docs/RESEARCH/glessner-roof-tiles-2203/README.md). All 802 preflight checks, physical coverage, roof envelope, block clipping, fixed-camera comparison, and focused six-view published desktop/mobile captures passed. Broader published browser stages 3 and 12–13 are running; merge and live verification are still pending.
 
 Distance moiré remains assigned to held T-2204. The owner's newly reported lifted/folded NE courtyard copper has been added to held T-2220, cross-linked from T-2206. No other manual audit ticket is released.
+
+## Completed and verified live — 2026-10-09
+
+[PR #583](https://github.com/kevinrhaas/chicago/pull/583) merged to **dev** as `8d3faca666fe462725d23fa13a4fedefd0c46117`. Final preflight passed all **804** repository checks and both PR-event checks; GitHub's gate and moving-frame checks passed. Published mobile stages 3 and 12–13 passed **308/0**; desktop stage 13 passed **126/0** after the earlier desktop process was interrupted by a workspace restart. The interrupted log has no overall pass claim.
+
+The live dev build reports `8d3faca6`. Both served asset hashes match the reviewed files, and six fixed views in each of Full/desktop and Light/mobile pass with no page errors or failed requests and unchanged budget ceilings. [Live receipts and representative captures](../evidence/glessner-roof-tiles-2203-live-2026-10-09/README.md).
+
+The earlier review-stage pending notes above are superseded by this completed record. Main was not promoted. T-2204 and T-2220 remain held for their separate distance-filtering and copper-attachment repairs; all other manual Glessner holds remain in place.

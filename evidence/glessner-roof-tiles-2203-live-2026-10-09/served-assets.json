@@ -1,0 +1,25 @@
+{
+  "build": {
+    "tier": "dev",
+    "app": "chicago/4d",
+    "ref": "refs/heads/dev",
+    "sha": "8d3faca6",
+    "committedAt": "2026-10-09T12:47:27-07:00",
+    "committedCT": "Oct 9, 2026, 2:47 PM CT",
+    "note": "Integration preview. Production is at /4d/ and is promoted only on owner dispatch (chicago-4d-promote-to-prod.yml)."
+  },
+  "assets": [
+    {
+      "url": "https://chicago.polecat.live/4d/dev/data/gltf/glessner_house__as_built_1887.glb",
+      "bytes": 52032976,
+      "sha256": "70ffbaba3c10e78e1e053975d6b099c2ae0d5c167befd6c60bfdd4dd211e9868",
+      "matches": true
+    },
+    {
+      "url": "https://chicago.polecat.live/4d/dev/data/gltf/glessner_house__as_built_1887.light.glb",
+      "bytes": 27009372,
+      "sha256": "6297cbb13d47895eb53225fe78f69721cc4022b94ced64a3a568735f418862a5",
+      "matches": true
+    }
+  ]
+}
