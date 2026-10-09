@@ -1,7 +1,7 @@
 ---
 id: T-2205
 title: Glessner: refine ridge caps, cresting, finials, eaves and flashing
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Owner-directed manual hold (2026-10-09 UTC): commented Glessner group below portable people; activate only the single ticket explicitly selected by the owner.
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -70,3 +70,7 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 IIT 1945 public JPEG gives a useful later view of ridge caps, the three visible street-roof stacks and eave/gutter line. Compare dated earlier evidence before carrying details into 1904. The recovered preliminary central-gable slide #046 stays excluded.
 
 [Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+
+## Owner selection — 2026-10-09
+
+The owner selected this ticket: “Take 2205.” Release and claim only T-2205 in its existing manual group. T-2200, T-2203 and T-2204 are complete; every other manual hold remains in place.
