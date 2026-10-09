@@ -1,7 +1,7 @@
 ---
 id: T-2243
 title: Repoint the order book's three T-2239 rows (South ordinary_dwellings, barns_stables, small_outbuildings) onto T-2242, the live piece that owns the five dwellings: T-2239 was split and build_order_book_1835 --check refuses the book
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 5:08:16 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37914561384
+claimed_at: 2026-10-09T10:08:16.271Z
 decision: null
 decision_answer: null
 ---
