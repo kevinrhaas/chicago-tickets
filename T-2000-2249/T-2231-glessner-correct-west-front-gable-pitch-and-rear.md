@@ -1,7 +1,7 @@
 ---
 id: T-2231
 title: Glessner: correct west front gable pitch and rear width from owner photographs
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 553
 claimed_by: run 10/8/2026, 7:36:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T01:41:52Z
 claimed_run: null
 claimed_at: 2026-10-09T00:36:13.518Z
 decision: null
