@@ -1,7 +1,7 @@
 ---
 id: T-1841
 title: Reconcile sheet 28 building entities for 1904
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 592
 claimed_by: run 10/9/2026, 1:55:24 PM CT
 blocked_on: null
 needs_bake: false
