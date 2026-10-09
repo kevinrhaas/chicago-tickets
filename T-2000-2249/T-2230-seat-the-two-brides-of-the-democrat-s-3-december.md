@@ -5,7 +5,7 @@ state: open
 epic: META
 requested_by: loop
 seen: false
-effort: S
+effort: M
 legacy_id: null
 parent: T-2192
 opened: 2026-10-08
@@ -34,3 +34,10 @@ When T-2192 was split (2026-10-09T00:12:14.094Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37862982534) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## What the splitting run found (T-2229's run, 2026-10-09)
+
+- The parent ties are T-2229's, and Charlotte's tie to her father was already landed by T-1134 (`kin_rulings.json` `hh_wesencraft_charles__daughter__charlotte`). This piece is the marriages only.
+- **The precedent is T-2190** (#547): `PRINTED_WIVES` in `tools/reconstruct_modelled_families.py` folds a printed bride's card into her husband's drawn house, in the cell the drawn wife filled. Neither house here fits it as-is. `hh_marknoble_jun` has no modelled family at all, because its head is drawn female under a mis-parsed name ('Jun Marknoble'). `hh_bickerdyke_george`'s wife is no draw: she is T-2020's fold of `hh_rc_ryan_bridget`, with her two children.
+- **The sex readings come first.** The column prints 'Mr. MARK NOBLE, jun.' and 'Miss CHARLOTTE'. T-2190's rule 1 in `spend_person_sex_age.py` reads a title directly before the name as read; it did not fire on either card (#547's PR body names both as follow-ups). Each flip withdraws or adds a modelled family: Charlotte's card heads a drawn wife 'Martha' and two drawn sons.
+- Effort raised to M: two folds, two sex readings and a re-derive of the whole derived layer. #547 did one fold and ran out of clock.
