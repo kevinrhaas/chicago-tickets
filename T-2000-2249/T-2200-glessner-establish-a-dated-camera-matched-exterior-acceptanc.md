@@ -1,7 +1,7 @@
 ---
 id: T-2200
 title: Glessner: establish a dated, camera-matched exterior acceptance baseline
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 12:22:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-09T05:22:58.212Z
 decision: null
 decision_answer: null
 ---
