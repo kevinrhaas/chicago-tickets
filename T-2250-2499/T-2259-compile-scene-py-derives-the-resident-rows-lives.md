@@ -1,7 +1,7 @@
 ---
 id: T-2259
 title: compile_scene.py derives the resident rows' lives_at/works_at and the building sidecar's lived/worked-here links from associated_with rows instead of the singular pair (people.js, destinations.js and residents.js read the compiled rows)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1274
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 595
 claimed_by: run 10/9/2026, 4:19:59 PM CT
 blocked_on: null
 needs_bake: false
