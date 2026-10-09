@@ -1,7 +1,7 @@
 ---
 id: T-1281
 title: Is the Democrat's 'A. Sweet' of 4 June 1834 Alanson Sweet or the Alon[s]on Sweet of the same column
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-17
 closed: null
-pr: null
+pr: 567
 claimed_by: run 10/9/2026, 5:01:09 AM CT
 blocked_on: null
 needs_bake: false
