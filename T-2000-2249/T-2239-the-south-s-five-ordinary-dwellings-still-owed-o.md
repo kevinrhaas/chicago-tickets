@@ -1,7 +1,7 @@
 ---
 id: T-2239
 title: The South's five ordinary dwellings still owed once the wedge's D5 stands: the D2 and D4 the schedule deals blk_south_water_wells, which T-1623 measured has no frontage left (refuse the room in reconcile_665's sizing), and the D2, D4 and D5 on the gated balance beyond committed street control — re-budget the structures/ordinary_dwellings/south row by name
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2182
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 4:45:49 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37913002798
+claimed_at: 2026-10-09T09:45:51.025Z
 decision: null
 decision_answer: null
 ---
