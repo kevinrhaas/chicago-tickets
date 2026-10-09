@@ -21,3 +21,7 @@ museum-hosted Florian photographs with copyright/link-only rights. The 17 inacce
 records remain catalog-only; the other 30 programme tickets remain on manual hold.
 
 Integrated dev `7aed0a2a` after its concurrent people-data change. `combined-preflight.log` records the combined tree passing all three gates (792 repository steps). `merged-changelog.log` verifies the published renderer shim preserves both entries, Glessner v1553 followed by Mark Noble v1552. The complete stage-12 transcripts predate that integration; the library validator and published changelog import were checked again afterward.
+
+Final integration includes dev `a7010885` (the separately landed T-2231 roof correction). `final-preflight.log` records the combined working tree passing all three gates, including 792 repository steps; `final-changelog.log` verifies audit v1555 and roof correction v1554. Existing materialized GLBs were refreshed from the committed dev archive and verified before this gate. Full stage-12 transcripts above predate these dev integrations.
+
+Merged into dev as `f4172ede4f7f3789b503dc0099d08e34ebe948ed` through PR #549 on 2026-10-09 at 02:01:03 UTC (`merge-result.json`). T-2198 is done; `held-tickets.json` verifies T-2199–T-2228 remain blocked-owner with commented queue entries.
