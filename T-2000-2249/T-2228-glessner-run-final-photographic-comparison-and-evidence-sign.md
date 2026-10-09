@@ -75,3 +75,7 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 T-2199 closes the bounded retrieval pass with 10/17 recovered records and seven explicit unavailable images (#015/#025/#128–131/#140). Cornell/report duplicates do not multiply corroboration. The report and shot brief expose remaining uncertainty; final photographic acceptance cannot claim those gaps have been resolved.
 
 [Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+
+## T-2200 measurement handoff — 2026-10-09 UTC
+
+T-2200 establishes eight core views with 80 picks plus a seven-pick limited courtyard-west reference. No whole-west calibration or pre-1904 courtyard image is available. All core views retain 1% target exceptions, and isolated-page QA is not whole-scene performance or photographic sign-off. Final acceptance must revisit missing coverage, association/camera bounds and both projected-width/observed-span residuals using frozen cameras. See `docs/RESEARCH/glessner-camera-baseline/README.md`. This handoff does not release this ticket.

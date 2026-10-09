@@ -72,3 +72,7 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 The recovered NRHP elevated image (#166, 1972, photo/form pp.30–31) shows roof masses at limited detail; it does not resolve hidden junctions or authorize the 1904 roof shape. #046 is the same unbuilt central-gable design family, excluded. Prioritized elevated roof and courtyard east/west requests are in the new brief; T-2231 remains the current landed roof correction.
 
 [Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+
+## T-2200 measurement handoff — 2026-10-09 UTC
+
+T-2200 provides fixed camera/source-pick/report JSON and a frozen-camera candidate command. All eight core comparisons retain errors. In particular north-inclined withheld RMS is 125.3 px, courtyard-east 53.7 px; these combine geometry, camera and correspondence uncertainty and must not be treated as direct construction dimensions. Most fitted heights touch assumed bounds. Review correspondences and silhouettes before changing T-2235 roof geometry; do not refit cameras silently to improve scores. See `docs/RESEARCH/glessner-camera-baseline/README.md` in the code repository. This is a finding only; the owner hold remains.

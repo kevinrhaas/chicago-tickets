@@ -81,3 +81,7 @@ The recovered Cornell print (#099) is the same ca.1887 construction exposure as 
 > push dev to main first and then take T-2200 and merge to dev when done with that
 
 Current dev was promoted through workflow run [37888023430](https://github.com/kevinrhaas/chicago/actions/runs/37888023430), producing main `31768a188aa65c22c8e204e0aa0755fb890bc50f`. Production deployment [37888103984](https://github.com/kevinrhaas/chicago/actions/runs/37888103984) passed and the live production build identifies `31768a18`. T-2200 alone is now released and claimed. T-2201–T-2228 remain on the manual hold. The baseline starts from dev `caf1c4e3`, including T-2235's latest roof correction.
+
+## T-2200 measurement handoff — 2026-10-09 UTC
+
+Implemented the dated baseline in `data/research/glessner-acceptance/` and the house-card-linked `walk/glessner-baseline.html`. Eight core views have ten unique landmarks (six fit/four withheld); the limited courtyard-west has seven. Whole-west is an unmatched stand, not a fabricated calibration. All core views retain exceptions. Asset hashes freeze caf1c4e3/T-2235; no geometry changes. The candidate command uses frozen cameras and never optimizes pose. Rights-unresolved courtyard pixels remain link-only. Source/date/uncertainty and measured residuals are documented in `docs/RESEARCH/glessner-camera-baseline/README.md`. Desktop/mobile page QA and numerical tests pass; final repository/scene checks and PR receipts follow.

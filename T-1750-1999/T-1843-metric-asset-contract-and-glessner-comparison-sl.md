@@ -38,3 +38,7 @@ Package **K01**, one part of the owner-requested [T-1837](../T-1750-1999/T-1837-
 **Execution gate:** owner approved resumption on 2026-10-01 (America/Chicago): “Go”, then “Push the tickets to dev queue in one group below”. The inherited 2026-09-30 construction hold is lifted. This ticket is open in the single Prairie programme group at the bottom of QUEUE.md. Its listed dependencies and needs_bake requirement still apply; read their current state before claiming.
 
 **Bound:** complete the stated package using shared components. If full-resolution source inspection or the rear-polygon census makes it larger than one run, split this specific child before claiming; retain the whole acceptance and parent links. Glessner roof repairs remain with T-1830/T-1833; legal-lot work remains with T-1745 and road/sidewalk materials with T-1728.
+
+## T-2200 measurement handoff — 2026-10-09 UTC
+
+T-2200 reuses this ticket's ASSET-CATALOG metric/Glessner comparison contract and the existing canonical frame. It adds dated photographic observations, fixed cameras, residuals and a small isolated comparison page; no reusable component assembly, 1808 prototype, full lighting suite or whole-scene performance acceptance is claimed. T-1843 remains open with its existing scope. See `docs/RESEARCH/glessner-camera-baseline/README.md` in the code repository.
