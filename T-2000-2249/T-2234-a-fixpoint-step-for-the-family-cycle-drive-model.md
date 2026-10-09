@@ -1,7 +1,7 @@
 ---
 id: T-2234
 title: A fixpoint step for the family cycle: drive modelled families, women and children, the trade households, the re-family moves, the order book and the re-family rule until a lap moves nothing, so a sex reading that withdraws a modelled family can land (T-2232, T-2185 and T-2233 wait on it)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 555
 claimed_by: run 10/8/2026, 8:48:28 PM CT
 blocked_on: null
 needs_bake: false
