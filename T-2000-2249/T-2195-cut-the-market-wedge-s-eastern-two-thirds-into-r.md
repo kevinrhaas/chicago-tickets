@@ -1,7 +1,7 @@
 ---
 id: T-2195
 title: Cut the Market wedge's eastern two-thirds into reconstructed lots (owner ruling b, 2026-10-08): emit blk_south_water_market where the block has a lot's depth, re-deal what it cannot hold, and open it in the roof schedule for T-1957, T-2175 and T-2182
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1957
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 551
 claimed_by: run 10/8/2026, 6:01:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T02:33:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37856532360
 claimed_at: 2026-10-08T23:01:19.234Z
 decision: null
