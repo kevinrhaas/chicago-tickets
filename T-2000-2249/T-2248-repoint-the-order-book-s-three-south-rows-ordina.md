@@ -30,3 +30,7 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 > dev's gate is red on it since 14:28Z: 'structures/ordinary_dwellings/south has 5 left and is ordered by T-2242, which is withdrawn', so every open PR inherits the red (#569's CI gate on 2e655632f)
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+- `tools/build_order_book_1835.py`'s three rows `("south","ordinary_dwellings")`, `("south","barns_stables")`, `("south","small_outbuildings")` name T-2247, with the comment block extended (T-2242 withdrawn 2026-10-09 on owner decision (a): the five stay owed in the gated balance until the S9 street work, which T-2247 owns).
+- The order book is re-derived and `build_order_book_1835.py --check` passes; `./tools/check.sh` is green on dev's tree.
+- Nothing in the scene changes (exemption 3: a gate blocking every open PR, among them #569).
