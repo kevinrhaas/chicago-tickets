@@ -1,7 +1,7 @@
 ---
 id: T-2248
 title: Repoint the order book's three South rows (ordinary_dwellings, barns_stables, small_outbuildings) off T-2242, withdrawn on the owner's answer (a), onto T-2247, the live ticket that owns the gated balance's five dwellings: build_order_book_1835 --check refuses the book
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 574
 claimed_by: run 10/9/2026, 10:00:21 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T15:39:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37948040963
 claimed_at: 2026-10-09T15:00:21.661Z
 decision: null
