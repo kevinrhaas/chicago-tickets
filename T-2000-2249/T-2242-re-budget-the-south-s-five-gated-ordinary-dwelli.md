@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Re-budget the South's five gated ordinary dwellings (D2, D2, D4, D4, D5 on south_plat_beyond_committed_control) by name: the South's district target feeds the order book's household division shares (build_order_book_1835.division_shares), so shedding them moves family households between divisions and the household layer has to be walked to its fixpoint in the same PR.
@@ -72,3 +72,5 @@ roof here.** If he chooses the cut, both tickets can share one household fixpoin
 **Recommendation:** (a) Keep them: the five stay owed in the gated balance beyond committed street control until the S9 street work lands, and this ticket is withdrawn — (a) keeps your 2026-10-08 ruling (build, do not cut) and matches the recommendation on T-2196. One answer can serve both tickets: if you choose the cut on T-2196, choose (b) here too and one household fixpoint walk covers all seven roofs.
 
 **Asked:** 2026-10-09 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37926258716. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-09, via Manager):** (a) Keep them: the five stay owed in the gated balance beyond committed street control until the S9 street work lands, and this ticket is withdrawn
