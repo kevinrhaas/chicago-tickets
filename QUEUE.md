@@ -172,7 +172,6 @@
 #     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
-T-2250 — A boarding house its platted keeper fills from the layer alone gets no lodging card, so the business layer raises no firm for it: Mark Beaubien keeps the Market wedge's H3 (recon_1835_blk_south_water_market_h3_02) and rcb_beaubien_boarding_house retired with T-2196
 T-2253 — Join the Monroe-to-Adams tier to the platted grid and the roof schedule, as T-2144 joined Madison to Monroe, with the South's six gated roofs (D2, D2, D4, D4, D5, H3) dealt to it
 T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
 #   ? T-1957 DECISION: The 668-roof schedule still deals 8 roofs (D2, D4, D5, D6, F3, F4 and these two H3 boarding houses) onto blk_south_water_market, the Market-and-South-Water wedge your 2026-08-29 closure ruling could not cut: the ground leaves 2.8 m of block depth at Market against a 24.4 m lot, so the block stays 'gated' and T-1957, T-2175 and T-2182 all wait on it. What should happen to those 8 roofs? — (a) Re-deal them onto the School Section's Madison–Monroe tier, extending your 2026-10-05 ruling on T-1755 (b) from the 40 dwellings to the wedge's 8 roofs  (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES  (c) Return them: cut the South's targets by these 8 and re-close the order book (folds into T-1983) — recommended: (b)
@@ -195,7 +194,6 @@ T-2175 — The street line's other three warehouses: the F3 the schedule deals t
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-1842 — Reconcile sheet 35 building entities for 1904
 T-1843 — Metric asset contract and Glessner comparison slice
 T-1844 — Stone, mortar and dressed masonry materials
 T-1845 — Pressed, common and rough brick materials
