@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -61,3 +61,14 @@ the schedule's district-wide re-apportionment means no gated roof can be traced 
 one. T-2196 now asks him the same question for its two gated H3s (`decision: pending`). Option (b)
 there is the cut, and the ask names this ticket. **Read his answer on T-2196 before shedding any
 roof here.** If he chooses the cut, both tickets can share one household fixpoint walk.
+
+## Decision needed
+
+**Question:** This ticket would cut the South's five gated ordinary dwellings (D2, D2, D4, D4, D5) from the South target: 365 to 360 roofs, the programme 668 to 663, and about two South family households moved to West and North. It is the same cut T-2196 now asks you about for two boarding houses, and the cut you declined as option (c) for the wedge on 2026-10-08. Should these five be cut, or wait in the gated balance for the S9 street work?
+
+- (a) Keep them: the five stay owed in the gated balance beyond committed street control until the S9 street work lands, and this ticket is withdrawn
+- (b) Cut them: South target 365 to 360, programme 668 to 663, with the household layer walked to its fixpoint in the same PR
+
+**Recommendation:** (a) Keep them: the five stay owed in the gated balance beyond committed street control until the S9 street work lands, and this ticket is withdrawn — (a) keeps your 2026-10-08 ruling (build, do not cut) and matches the recommendation on T-2196. One answer can serve both tickets: if you choose the cut on T-2196, choose (b) here too and one household fixpoint walk covers all seven roofs.
+
+**Asked:** 2026-10-09 by https://github.com/kevinrhaas/polecat-platform/actions/runs/37926258716. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
