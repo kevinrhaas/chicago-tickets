@@ -1,7 +1,7 @@
 ---
 id: T-2202
 title: Glessner: restore Prairie frontage curbs, thresholds and ground contact
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Owner-directed manual hold (2026-10-09 UTC): commented Glessner group below portable people; activate only the single ticket explicitly selected by the owner.
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -70,3 +70,9 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 IIT 1945 shows continuous low boundary stones and front ground interfaces; Cornell ca.1887 shows construction-period ground disturbance and temporary frames. Neither date alone proves the 1904 pavement/curb arrangement. NRHP photo 4 (1972, PDF pp.32–33) shows later street conditions and must remain a separate phase.
 
 [Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+
+## Owner selection — 2026-10-09 UTC
+
+> Take 2202 next
+
+T-2202 alone is released for implementation and merge to dev. All other held Glessner audit tickets retain their scheduling holds. T-2200 is done in PR #561; T-1728 is done in PR #187; T-1745 is split and its legal-lot datum work will be read without changing public street ownership.

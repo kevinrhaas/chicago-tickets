@@ -334,7 +334,7 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # Every row is commented and every ticket is blocked-owner. Do not auto-unblock, claim, or activate this group.
 # Programme/evidence/release instructions: evidence/glessner-exterior-audit-2026-10-08/README.md
 # BLOCKED-OWNER T-2201 — Glessner: close the south courtyard boundary and resolve its junctions [GA-03]
-# BLOCKED-OWNER T-2202 — Glessner: restore Prairie frontage curbs, thresholds and ground contact [GA-04]
+T-2202 — Glessner: restore Prairie frontage curbs, thresholds and ground contact
 # BLOCKED-OWNER T-2203 — Correct Glessner roof tile scale and coverage on every roof plane [GA-05A]
 # BLOCKED-OWNER T-2204 — Remove Glessner roof banding and stabilize tile detail in motion [GA-05B]
 # BLOCKED-OWNER T-2205 — Glessner: refine ridge caps, cresting, finials, eaves and flashing [GA-06]
