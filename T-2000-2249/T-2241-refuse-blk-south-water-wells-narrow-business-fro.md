@@ -1,7 +1,7 @@
 ---
 id: T-2241
 title: Refuse blk_south_water_wells' narrow business-front lot in reconcile_665's sizing: lot 0 is free only under the clause, and H. Jones's store leaves 7.46 m of face against an 8.128 m party-line unit, so the schedule stops dealing the block a D2, D4 and F4 it cannot build (they join the gated South balance)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2239
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 4:51:33 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37913002798
+claimed_at: 2026-10-09T09:51:33.153Z
 decision: null
 decision_answer: null
 ---
