@@ -1,7 +1,7 @@
 ---
 id: T-2198
 title: Glessner: repair source identity, captions and evidence families
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-08
 pr: 549
 claimed_by: run 10/8/2026, 7:20:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T02:01:03Z
 claimed_run: null
 claimed_at: 2026-10-09T00:20:37.468Z
 decision: null
