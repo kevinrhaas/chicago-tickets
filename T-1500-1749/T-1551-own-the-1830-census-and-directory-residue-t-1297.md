@@ -1,7 +1,7 @@
 ---
 id: T-1551
 title: Own the 1830 census and directory residue T-1297 left behind: the unasserted name-on-a-roll units that reach no ruling now the register's 120 residents are minted
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-24
 closed: null
-pr: null
+pr: 581
 claimed_by: run 10/9/2026, 12:02:31 PM CT
 blocked_on: null
 needs_bake: false
