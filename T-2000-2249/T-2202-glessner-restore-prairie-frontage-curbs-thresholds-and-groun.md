@@ -84,3 +84,18 @@ Pinned Blender 4.5.3 bake and full/light derivatives are complete. The record no
 Dedicated published desktop/full and mobile/light reviews pass, including nine ground-contact rays per detail level, 1,108 numerical access samples and dark-glass/scene-budget checks. Light remains at 199,880 triangles under the unchanged 200,000 ceiling. T-2200's 87 landmark residuals remain unchanged to 0.001 px with frozen cameras. Before/after evidence: `docs/RESEARCH/glessner-frontage-2202/` on branch `steward/t-2202-glessner-frontage`.
 
 First repository preflight passed 801/802 steps. Its sole failure is the inherited withdrawn T-2242 order-book pointer, already assigned to another live run as T-2248. Waiting for that repair while affected published smoke stages 12/13 run; no assertion is weakened and no other Glessner hold is released. This is not a claim of complete whole-house photographic acceptance.
+
+
+## Completion and live-dev verification — 2026-10-09
+
+Completed and merged to **dev** in [PR #578](https://github.com/kevinrhaas/chicago/pull/578), squash commit `c07c00eafd40dedd25e761d6c40c7653422973ff`. The final PR head `9651832fd799bd5a96734029299609f095e699a5` passed GitHub's repository gate, moving-frame performance check and report check before merge. Main was not promoted.
+
+[Review evidence](https://github.com/kevinrhaas/chicago/tree/c07c00ea/chicago/4d/docs/RESEARCH/glessner-frontage-2202) includes matched before/after desktop/mobile views, asset hashes, frozen-camera comparison and validation receipts. Final local preflight passed all 802 checks, including after integrating T-2247. Published smoke stages **12–13 only** passed 216 checks per viewport with zero failures/page errors. Their actual timings and the desktop run's integration overlap are stated in the report; this is not a full fourteen-stage or frame-rate claim.
+
+[Pages deployment 37958996420](https://github.com/kevinrhaas/chicago/actions/runs/37958996420) succeeded. The [live dev 1904 scene](https://chicago.polecat.live/4d/dev/1904/) reports build `c07c00ea`. Fresh live desktop/full (1280×800) and mobile/light (390×780) reviews both passed: four street-eye views each, zero page/network errors, nine ground-contact rays per detail level, dark glass retained and all stands within existing draw/triangle budgets. Maximum ground-height disagreement after compression is 0.311 mm.
+
+The live files match the tested bytes exactly:
+- Full: `5f8e6949250271f15a16881c4782cc1276f5e39731f69390fb118410d3524606`.
+- Light: `f21117394c5826374cdb60671a2238add890ef6fbd9ba5b86b1a4fa1a00ce97e` (199,880 triangles; unchanged 200,000 ceiling).
+
+This completes GA-04's frontage/access/ground-contact work. Historical material/profile/joint uncertainties remain explicitly reconstructed; T-2200's frozen photographic exceptions are unchanged. All 27 unselected audit tickets (T-2201 and T-2203–T-2228) remain blocked-owner and commented in their manual group.
