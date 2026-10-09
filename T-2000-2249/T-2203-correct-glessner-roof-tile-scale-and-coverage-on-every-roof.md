@@ -1,7 +1,7 @@
 ---
 id: T-2203
 title: Correct Glessner roof tile scale and coverage on every roof plane
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 583
 claimed_by: run 10/9/2026, 12:06:05 PM CT
 blocked_on: null
 needs_bake: true
@@ -74,3 +74,11 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 ## Owner selection — 2026-10-09
 
 The owner selected this ticket: “Take 2203 next.” Release only T-2203 in its existing manual group; all other holds remain in place.
+
+## Implementation review — PR #583
+
+[Draft PR #583](https://github.com/kevinrhaas/chicago/pull/583) implements the HABS 6-inch tile width and 5-inch exposure across all 244 roof host fragments, including 47 small fragments, with continuous beds and matching mapped module in Full and Light. Full geometry contains 63,518 tiles; Light remains at 199,656 triangles. Early Taylor photography supports fine courses; continuity of the measured module into 1904 is explicitly inferred. Later tar coating is excluded. Concealed tile length/headlap is not established.
+
+[Source review, before/after captures, coverage inventory, and validation evidence](https://github.com/kevinrhaas/chicago/blob/steward/t-2203-glessner-roof-tiles/chicago/4d/docs/RESEARCH/glessner-roof-tiles-2203/README.md). All 802 preflight checks, physical coverage, roof envelope, block clipping, fixed-camera comparison, and focused six-view published desktop/mobile captures passed. Broader published browser stages 3 and 12–13 are running; merge and live verification are still pending.
+
+Distance moiré remains assigned to held T-2204. The owner's newly reported lifted/folded NE courtyard copper has been added to held T-2220, cross-linked from T-2206. No other manual audit ticket is released.
