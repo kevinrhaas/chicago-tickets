@@ -75,3 +75,24 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 ## Owner selection — 2026-10-09
 
 The owner selected this ticket: “Take 2204 next.” Release only T-2204 in its existing manual group. T-2203 is complete in PR #583; all other manual holds remain in place.
+
+
+## Implementation review — 2026-10-09
+
+[PR #594](https://github.com/kevinrhaas/chicago/pull/594) targets **dev only**.
+The renderer filters unresolved tile relief by projected course size and uses
+trilinear mipmaps with anisotropy eight. Full and Light geometry retain their
+original positions, normals, UVs, confidence and indices byte for byte; physical
+6-inch tile width / 5-inch exposure, 244 hosts and 63,518 Full tiles are unchanged.
+The required three-asset bake and recovery package are included in the PR.
+
+[Immutable implementation and evidence dossier](https://github.com/kevinrhaas/chicago/blob/3705ce9be1cad82bdfa6a997fc746bd063c66016/chicago/4d/docs/RESEARCH/glessner-roof-filtering-2204/README.md)
+contains before/after motion comparisons, 70 final browser captures, six detail
+switches, the 36-pass published stage-8 regression, geometry checks, and the
+804-check preflight receipt. Committed-range changelog and ticket-ID checks pass.
+Both Full desktop and Light mobile complete without browser errors, failed
+requests or budget overruns. Rendering timings are from software SwiftShader,
+not hardware FPS; matched draw, triangle and texture counts are unchanged.
+
+The copper fold remains held under T-2220. All other manual Glessner holds remain
+in place. Live deployment verification will be recorded after the dev merge.
