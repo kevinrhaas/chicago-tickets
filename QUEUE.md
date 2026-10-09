@@ -185,7 +185,8 @@ T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charl
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 T-2256 — The South's family_dwelling order has 2 households no held head fills: once T-1645 stopped dealing roofs to letter-list households, count_held_head_dwellings_1835.py finds 165 heads under South dwellings against room for 167, and T-2193, which owned the order, is done
 T-2255 — The off-plat deal seats 55 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
-T-2175 — The street line's other three warehouses: the F3 the schedule deals to blk_south_water_wells, which generate_block_infill refuses on a platted lot for want of river access (T-0275), and the F3 and F4 on gated blk_south_water_market
+T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
+T-2269 — The street line's owed F4 lumber shed: a placement clause for a lumber shed by the water (bank_landing admits F1-F3 only and the vocabulary cannot spell lumber_shed), then the roof
 
 # --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
