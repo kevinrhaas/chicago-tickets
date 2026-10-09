@@ -1,7 +1,7 @@
 ---
 id: T-2259
 title: compile_scene.py derives the resident rows' lives_at/works_at and the building sidecar's lived/worked-here links from associated_with rows instead of the singular pair (people.js, destinations.js and residents.js read the compiled rows)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1274
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 4:19:59 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37992501995
+claimed_at: 2026-10-09T21:20:00.168Z
 decision: null
 decision_answer: null
 ---
