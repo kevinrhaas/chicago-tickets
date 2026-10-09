@@ -16,7 +16,7 @@ Local repository gate: 792 steps passed. `tools/preflight.sh` passed all three g
 Library: `python3 tools/validate.py` passed, including the six tests in
 `tools/test_evidence_review.py`. Desktop and mobile stage 12 each passed 101 checks. CI results are on the delivery PR.
 
-No geometry or source-image bytes were added or changed. Three new records link to
+No house geometry or source-image bytes were added or changed. Three new records link to
 museum-hosted Florian photographs with copyright/link-only rights. The 17 inaccessible
 records remain catalog-only; the other 30 programme tickets remain on manual hold.
 
