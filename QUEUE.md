@@ -196,6 +196,7 @@ T-2175 — The street line's other three warehouses: the F3 the schedule deals t
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-2265 — K01 contract: declare the Prairie 1904 metric component contract (grade, sill and storey datums; family parameters; sockets; material slots; stable component IDs; deterministic seeds; source and confidence attributes) with a gate in check.sh, and measure the canonical Glessner asset against it: scale drift, hidden origin offset, duplicated boundary faces, baseline hashes, full and light mesh and texture costs
 T-2266 — K01 proof: build a small 1808 Prairie frontage assembly from the K01 contract beside the canonical Glessner asset, baked, shown at street-eye, oblique, rear and roof views on 1280x800 and 390x780, with scene load and draw and frame costs
+T-2267 — Glessner v4's east-front limestone trim carries coincident faces — 6 in the full master (4 doubled, 2 back to back, near x 49.2-49.4 m at y 3.36-3.55 and 7.50 m) and 31 in the web tier once quantized — which the K01 contract's measure finds and a regenerated asset must not
 T-1844 — Stone, mortar and dressed masonry materials
 T-1845 — Pressed, common and rough brick materials
 T-1846 — Period roof coverings and drainage
