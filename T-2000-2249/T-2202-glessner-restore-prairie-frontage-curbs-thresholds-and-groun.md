@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: run 10/9/2026, 9:22:56 AM CT
 blocked_on: null
-needs_bake: true
+needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: 2026-10-09T14:22:56.906Z
@@ -76,3 +76,11 @@ IIT 1945 shows continuous low boundary stones and front ground interfaces; Corne
 > Take 2202 next
 
 T-2202 alone is released for implementation and merge to dev. All other held Glessner audit tickets retain their scheduling holds. T-2200 is done in PR #561; T-1728 is done in PR #187; T-1745 is split and its legal-lot datum work will be read without changing public street ownership.
+
+## Implementation and review — 2026-10-09 UTC
+
+Pinned Blender 4.5.3 bake and full/light derivatives are complete. The record now generates rounded house-side stone edging and returns, two access gaps, entry paving/risers, a stone porte threshold and continuous passage paving to the courtyard drive. Source/tier/datum bounds are in `prairie_frontage` and L-glessner-frontage-2202; T-1728's public street/sidewalk geometry is unchanged. Existing roof, glazing and older comparison versions are preserved.
+
+Dedicated published desktop/full and mobile/light reviews pass, including nine ground-contact rays per detail level, 1,108 numerical access samples and dark-glass/scene-budget checks. Light remains at 199,880 triangles under the unchanged 200,000 ceiling. T-2200's 87 landmark residuals remain unchanged to 0.001 px with frozen cameras. Before/after evidence: `docs/RESEARCH/glessner-frontage-2202/` on branch `steward/t-2202-glessner-frontage`.
+
+First repository preflight passed 801/802 steps. Its sole failure is the inherited withdrawn T-2242 order-book pointer, already assigned to another live run as T-2248. Waiting for that repair while affected published smoke stages 12/13 run; no assertion is weakened and no other Glessner hold is released. This is not a claim of complete whole-house photographic acceptance.
