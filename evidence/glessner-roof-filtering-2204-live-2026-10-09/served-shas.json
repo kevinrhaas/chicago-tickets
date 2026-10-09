@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-09T21:59:28.412292+00:00",
+  "results": [
+    {
+      "url": "https://chicago.polecat.live/4d/dev/walk/js/glessner-roof-filter.js",
+      "bytes": 3135,
+      "sha256": "9ca844fdd8d8970d630bc152c58f3881a9767b897375a5706cb249a249441416",
+      "matches_reviewed": true
+    },
+    {
+      "url": "https://chicago.polecat.live/4d/dev/walk/js/buildings.js",
+      "bytes": 43067,
+      "sha256": "de4681f8b3654ec8cc64d2ba9d68e2c699dd5329e661f064a7403101ac013587",
+      "matches_reviewed": true
+    },
+    {
+      "url": "https://chicago.polecat.live/4d/dev/data/gltf/glessner_house__as_built_1887.glb",
+      "bytes": 52069884,
+      "sha256": "134da96fa1d820178c887817c05cd685340c30e6f17c32bae475aef407c1aa77",
+      "matches_reviewed": true
+    },
+    {
+      "url": "https://chicago.polecat.live/4d/dev/data/gltf/glessner_house__as_built_1887.light.glb",
+      "bytes": 27014020,
+      "sha256": "7796811fa1b72bb8c7d51a4a69c70628ad8af65bd8ffa7528e557b4238e42ff2",
+      "matches_reviewed": true
+    }
+  ]
+}

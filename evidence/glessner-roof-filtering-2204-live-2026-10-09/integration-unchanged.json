@@ -1,0 +1,30 @@
+[
+  {
+    "path": "renderers/web/js/glessner-roof-filter.js",
+    "matches_reviewed": true
+  },
+  {
+    "path": "renderers/web/js/buildings.js",
+    "matches_reviewed": true
+  },
+  {
+    "path": "generators/archetypes/masonry_house_v4_detail.py",
+    "matches_reviewed": true
+  },
+  {
+    "path": "tools/_glessner_lod.py",
+    "matches_reviewed": true
+  },
+  {
+    "path": "assets/gltf/glessner_house__as_built_1887.glb",
+    "matches_reviewed": true
+  },
+  {
+    "path": "assets/web/glessner_house__as_built_1887.glb",
+    "matches_reviewed": true
+  },
+  {
+    "path": "assets/web/glessner_house__as_built_1887.light.glb",
+    "matches_reviewed": true
+  }
+]

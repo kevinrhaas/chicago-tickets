@@ -96,3 +96,14 @@ not hardware FPS; matched draw, triangle and texture counts are unchanged.
 
 The copper fold remains held under T-2220. All other manual Glessner holds remain
 in place. Live deployment verification will be recorded after the dev merge.
+
+
+## Delivered to dev — 2026-10-09
+
+PR #594 merged to dev as `1b7f7470`. Final integration validation passes **806
+checks**, plus committed-range checks. Live Full desktop and Light mobile pass
+with zero page errors, failed requests or budget overruns; served renderer and
+Full/Light asset hashes match the reviewed implementation. Main was not promoted.
+
+[Live verification receipts and screenshots](../evidence/glessner-roof-filtering-2204-live-2026-10-09/README.md).
+The other manual holds, including T-2220, remain unchanged.
