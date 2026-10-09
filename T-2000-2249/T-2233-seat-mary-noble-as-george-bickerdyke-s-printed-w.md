@@ -1,7 +1,7 @@
 ---
 id: T-2233
 title: Seat Mary Noble as George Bickerdyke's printed wife (Democrat 3 Dec 1833, c007): his house is one the order book refused a wife, so seating her takes him out of T-2020's wife match, which re-pairs about ten houses after him (measured 2026-10-09: hh_rc_ryan_bridget moves to hh_boardman_harry, and so on down to hh_markle_joseph_w; hh_rc_crandall_clarissa stands alone again). Carry that through the fixpoint, or rule that the pairs stay and only his own wife changes
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2230
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 1:22:04 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37892898843
+claimed_at: 2026-10-09T06:22:04.704Z
 decision: null
 decision_answer: null
 ---
