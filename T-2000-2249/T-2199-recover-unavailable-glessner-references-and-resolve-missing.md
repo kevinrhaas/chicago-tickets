@@ -86,3 +86,9 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 > Take 2199 next
 
 T-2199 alone is released and claimed for completion and dev delivery. This supersedes the scheduling hold above for this ticket only. T-2200–T-2228 remain held.
+
+## Implementation — bounded pass completed 2026-10-09 UTC
+
+All 17 original rows are reconciled in the canonical library: ten recovered records (seven visual, three written) and seven still without images. The original Evidence list above is retained as the audit baseline; the new retrieval review supersedes its availability, Barford date bounds and #165 rights assumption. The 1973 plate duplicates Taylor 9974; Cornell duplicates the existing construction exposure; the preliminary elevation remains excluded. IIT adds one distinct 1945 facade view as link-only. Yale VRC 36, Box 34 identifies seven photographs, with no dates/views inferred.
+
+The [published-source report](https://github.com/kevinrhaas/chicago/blob/steward/t-2199-glessner-reference-recovery/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html) contains all retrieval outcomes, prioritized missing views, a measured-photo brief and five unsent inquiry drafts. [Implementation receipts](../evidence/glessner-exterior-audit-2026-10-08/t2199/README.md) document source integrity and desktop/mobile review. Findings were appended to 14 existing held tickets. No model geometry changed and no other programme ticket was activated.
