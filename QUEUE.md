@@ -341,6 +341,7 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # 31 held tickets: 26 audit packages (four split into two bounded passes) plus one missing-reference retrieval pass.
 # Every row is commented and every ticket is blocked-owner. Do not auto-unblock, claim, or activate this group.
 # Programme/evidence/release instructions: evidence/glessner-exterior-audit-2026-10-08/README.md
+T-2200 — Glessner: establish a dated, camera-matched exterior acceptance baseline
 # BLOCKED-OWNER T-2201 — Glessner: close the south courtyard boundary and resolve its junctions [GA-03]
 # BLOCKED-OWNER T-2202 — Glessner: restore Prairie frontage curbs, thresholds and ground contact [GA-04]
 # BLOCKED-OWNER T-2203 — Correct Glessner roof tile scale and coverage on every roof plane [GA-05A]
@@ -369,4 +370,3 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # BLOCKED-OWNER T-2226 — Glessner: balance lighting, contact shadows and restrained surface aging [GA-24]
 # BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
 # BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
-T-2200 — Glessner: establish a dated, camera-matched exterior acceptance baseline

@@ -75,3 +75,9 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 The recovered Cornell print (#099) is the same ca.1887 construction exposure as #006/#103/#110; use one exposure, not four corroborating photographs. Report #017 is Taylor 9974, visually matching #016. IIT 1945 adds a distinct Prairie-facade camera view, but does not establish 1904 condition. The new brief supplies historical and measured-photo priorities; no pre-1904 courtyard view was recovered.
 
 [Retrieval report and photographic brief](https://github.com/kevinrhaas/chicago/blob/dev/chicago/prairie_1904_v1/docs/glessner-reference-recovery.html). This is evidence handoff only; the owner scheduling hold remains in force.
+
+## Owner selection and promotion — 2026-10-09 UTC
+
+> push dev to main first and then take T-2200 and merge to dev when done with that
+
+Current dev was promoted through workflow run [37888023430](https://github.com/kevinrhaas/chicago/actions/runs/37888023430), producing main `31768a188aa65c22c8e204e0aa0755fb890bc50f`. Production deployment [37888103984](https://github.com/kevinrhaas/chicago/actions/runs/37888103984) passed and the live production build identifies `31768a18`. T-2200 alone is now released and claimed. T-2201–T-2228 remain on the manual hold. The baseline starts from dev `caf1c4e3`, including T-2235's latest roof correction.
