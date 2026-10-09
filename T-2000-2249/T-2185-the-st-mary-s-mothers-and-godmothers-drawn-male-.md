@@ -1,7 +1,7 @@
 ---
 id: T-2185
 title: The St Mary's mothers and godmothers drawn male (28): read them female, and withdraw the modelled wives and children the modelled-families stage gave the ones heading a house, through the women-and-children re-family fixpoint
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2177
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 563
 claimed_by: run 10/9/2026, 2:05:15 AM CT
 blocked_on: null
 needs_bake: false
