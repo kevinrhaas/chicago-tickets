@@ -1,7 +1,7 @@
 ---
 id: T-2191
 title: Write the register's parent ties onto the cards the register itself minted: St Mary's mothers and fathers carded by T-1504 (hh_cr_marianne, hh_cr_jaespquaa) and readmitted by T-1172 (Marguerite Malore, François Tranche, Manqua Masqua) whose children the town holds — through the generators that own those cards, reciprocally, nobody minted
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 548
 claimed_by: run 10/8/2026, 6:26:46 PM CT
 blocked_on: null
 needs_bake: false
