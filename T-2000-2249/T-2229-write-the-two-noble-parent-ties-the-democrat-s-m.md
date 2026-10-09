@@ -1,7 +1,7 @@
 ---
 id: T-2229
 title: Write the two Noble parent ties the Democrat's MARRIED column of 3 December 1833 prints: Mark Noble jun. (hh_marknoble_jun) as second son and Mary (hh_noble_mary) as second daughter of Mark Noble Esq. (hh_noble_mark), reciprocal, between cards minted from that notice
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2192
 opened: 2026-10-08
 closed: null
-pr: null
+pr: 550
 claimed_by: run 10/8/2026, 7:12:30 PM CT
 blocked_on: null
 needs_bake: false
