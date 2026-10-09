@@ -76,3 +76,11 @@ The recovered NRHP elevated image (#166, 1972, photo/form pp.30–31) shows roof
 ## T-2200 measurement handoff — 2026-10-09 UTC
 
 T-2200 provides fixed camera/source-pick/report JSON and a frozen-camera candidate command. All eight core comparisons retain errors. In particular north-inclined withheld RMS is 125.3 px, courtyard-east 53.7 px; these combine geometry, camera and correspondence uncertainty and must not be treated as direct construction dimensions. Most fitted heights touch assumed bounds. Review correspondences and silhouettes before changing T-2235 roof geometry; do not refit cameras silently to improve scores. See `docs/RESEARCH/glessner-camera-baseline/README.md` in the code repository. This is a finding only; the owner hold remains.
+
+## Coordination — owner report, 2026-10-09 UTC
+
+The lifted/folded copper at the inside northeast courtyard corner is now an
+explicit repair in [T-2220](T-2220-glessner-refine-copper-roof-panels-seams-and-weathering.md),
+with the owner's screenshot finding and a reproduced view. Use that ticket for
+the local cladding-to-host attachment defect; do not duplicate it in this broader
+proportions audit. Both tickets remain on their manual holds.

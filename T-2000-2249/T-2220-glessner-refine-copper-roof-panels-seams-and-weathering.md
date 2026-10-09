@@ -27,7 +27,7 @@ Owner instruction, 2026-10-09 UTC:
 
 **Manual hold:** This ticket is filed and approved as planned work, but is not released for automated execution. Its `blocked-owner` state represents the owner's explicit scheduling hold, not an unanswered research question. Keep its queue entry commented in the Glessner group below portable humans. Release only the ticket the owner selects; never activate the whole group.
 
-**Audit item:** GA-18 • **Priority:** P2 • **Basis:** Confirmed detail simplification
+**Audit item:** GA-18 • **Priority:** P1 • **Basis:** Owner-confirmed lifted/folded copper defect plus detail simplification
 
 [Programme index and release procedure](../evidence/glessner-exterior-audit-2026-10-08/README.md) · [Reviewed audit PDF](../evidence/glessner-exterior-audit-2026-10-08/glessner-exterior-audit.pdf) · [Source coverage ledger](../evidence/glessner-exterior-audit-2026-10-08/coverage-ledger.csv)
 
@@ -35,7 +35,7 @@ Owner instruction, 2026-10-09 UTC:
 
 The copper bows are recognizable but read as large uniform green surfaces with sparse seam detail.
 
-Refine panel division, folded joints, edge rolls, flashing and roughness variation; document the uncertainty of 1904 patina. Preserve continuous roof geometry and repaired shoulder joins.
+First repair the lifted and folded copper at the inside northeast courtyard corner, then refine panel division, folded joints, edge rolls, flashing and roughness variation; document the uncertainty of 1904 patina. Preserve sound continuous roof geometry and shoulder joins, but correct the specific lifted panel documented below.
 
 **Bound:** Exterior and courtyard only, including stable, house boundary, immediate ground interfaces and exterior-visible glazing. Target **1904-07-01**. No furnished interiors. Preserve the T-2183 / PR #540 fixes and the owner-selected dark glass default. Never introduce later alterations or preliminary unbuilt designs as 1904 facts. Record attested/inferred/reconstructed provenance and rights before deriving assets. Missing measurements may be bounded reconstructions, explicitly labeled; missing rights do not authorize derived assets.
 
@@ -44,6 +44,8 @@ Refine panel division, folded joints, edge rolls, flashing and roughness variati
 1. Seam layout and edge profiles agree with available photographs; no arbitrary oversized panels.
 2. Patina varies plausibly with water flow without uniform green paint or unsupported black-and-white color sampling.
 3. No seams lifted off surfaces, overlaps or breaks at adjacent roofs.
+4. At the inside northeast courtyard corner, copper must lie flush with the intended underlying roof planes. Remove the floating lower edge, exposed dark wedge and spurious diagonal fold shown in the owner's screenshot. No unsupported tent/canopy surface or twisted quad; retain only real roof intersections and bounded sheet/seam thickness.
+5. Verify the repaired corner from ground level, the supplied courtyard angle, a close oblique and overhead in Full and Light/Balanced. Add a geometric check for sheet-to-host distance and coherent planar triangulation, plus matched before/after browser captures. A colour or shading change alone cannot satisfy this defect.
 
 ## Evidence
 
@@ -63,3 +65,26 @@ Protect T-2157 and T-2183 copper continuity. Re-read linked ticket states before
 ## Filing and execution record
 
 The owner explicitly requested filing the entire reviewed programme as a held group; this authorizes the multi-ticket filing beyond the usual automatic-follow-up budget. Four original L estimates were each split into two bounded M passes before filing. No geometry, rendering or historical-source metadata was changed by this filing. Each visual implementation must provide before/after browser evidence and the repository-required checks; release and claim only after the owner selects this specific ticket.
+
+## Owner-confirmed copper attachment defect — 2026-10-09 UTC
+
+> You can see the copper cladding looks like it’s coming off the roof in the inside north east corner of the courtyard and it has a fold in it. It should be flat with the roof.
+
+The owner supplied a cropped model screenshot while T-2203 was in progress.
+The broad green panel over the northeast courtyard's upper windows has a lifted
+lower edge and dark open wedge above the red roof, with a diagonal fold across
+its face. This is explicitly added to **this existing copper ticket**, not a
+new duplicate. See the [reproduced view and capture provenance](../evidence/glessner-copper-corner-2026-10-09/README.md)
+and [full courtyard capture](../evidence/glessner-copper-corner-2026-10-09/reproduced-courtyard.png).
+
+Investigate the copper corner/shoulder connector's control points, coplanarity,
+triangulation and offset from its host in `masonry_house_v4_detail.py` and the
+courtyard roof helper. The cause has not yet been established. Earlier T-2157 /
+T-2183 continuity work is context, not a requirement to preserve this artifact.
+Coordinate with T-2206's proportions audit; once this ticket is selected, the
+local attachment defect may be repaired without waiting for an unrelated whole
+roof proportion study. Keep the corrected clay module from T-2203 intact.
+
+**Scheduling:** Owner asked to record the fix, not to switch the active task.
+T-2220 remains `blocked-owner`, with its queue row commented in the existing
+Glessner group below portable people. T-2203 remains the active implementation.
