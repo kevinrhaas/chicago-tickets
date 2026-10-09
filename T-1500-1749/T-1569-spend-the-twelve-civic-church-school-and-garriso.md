@@ -1,7 +1,7 @@
 ---
 id: T-1569
 title: Spend the twelve civic, church, school and garrison post enrichments T-1301 routed to T-1188 and then T-1189: the county offices, trusteeships, ministries, schools kept and the fort clerkship written onto the held cards by the fields that now exist
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-25
-closed: null
+closed: 2026-10-09
 pr: 569
 claimed_by: run 10/9/2026, 5:59:46 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T18:18:02Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37920654104
 claimed_at: 2026-10-09T10:59:46.895Z
 decision: null
