@@ -1,7 +1,7 @@
 ---
 id: T-2240
 title: The 13 store households still owed after T-2236 (South 11, West 2): the store roofs whose own firm names no keeper the town holds as a household (J. L. Wilson & Co., Harmon, Loomis & Co., H. Doty & Co., Rockwell, the Chicago Bakery, Fullerton & Botsford, Clark, Filer & Co., Pierce & French) or whose keeper's own card already houses them elsewhere (Blanshard, Austin, W. Montgomery, the Democrat office) — form the keeper's household from a head the town holds, or rule the roof a store with nobody living over it
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: run 10/9/2026, 7:15:40 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T12:18:45.555Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37928599177
 claimed_at: 2026-10-09T12:15:40.157Z
 decision: null
