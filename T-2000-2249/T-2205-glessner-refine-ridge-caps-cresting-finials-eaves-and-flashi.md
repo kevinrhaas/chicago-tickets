@@ -1,7 +1,7 @@
 ---
 id: T-2205
 title: Glessner: refine ridge caps, cresting, finials, eaves and flashing
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 601
 claimed_by: run 10/9/2026, 5:28:12 PM CT
 blocked_on: null
 needs_bake: true
@@ -74,3 +74,25 @@ IIT 1945 public JPEG gives a useful later view of ridge caps, the three visible 
 ## Owner selection — 2026-10-09
 
 The owner selected this ticket: “Take 2205.” Release and claim only T-2205 in its existing manual group. T-2200, T-2203 and T-2204 are complete; every other manual hold remains in place.
+
+
+## Implementation and validation — 2026-10-09
+
+PR [#601](https://github.com/kevinrhaas/chicago/pull/601) contains closed ridge
+stock and crest collars, seated finials, capped dormer hips, mitred eaves and
+valley/chimney flashing. The rounded ridge bases intersect the host roof.
+All 222 actual Full roof planes retain their baseline coordinates; Light is
+199,744 triangles under its 200,000 ceiling. Sections remain declared
+reconstructions, bounded by Taylor 2135 and the HABS north/stable views.
+
+[Immutable implementation and evidence](https://github.com/kevinrhaas/chicago/blob/694d3a1cb2336dae28ce970d4cdc3d4990ad9962/chicago/4d/docs/RESEARCH/glessner-roof-details-2205/README.md)
+includes sixteen final Full-desktop/Light-mobile views, geometry and source
+reviews, asset hashes, the 806-step repository preflight and the 36-check
+published stage-8 smoke. The smoke predates the unrelated dev integrations;
+final 1904 browser checks use the integrated branch and final asset bytes.
+Committed-range changelog and ticket-ID checks also pass. The three legacy
+comparison masters were rebuilt and remain byte-for-byte unchanged.
+
+The independent copper fold stays held under T-2220. Live deployment verification
+will be recorded after merging to dev. The owner has selected T-2206 next;
+all other manual holds remain in place.
