@@ -56,3 +56,7 @@ This package no longer builds from an empty lot. [T-2160](../T-2000-2249/T-2160-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Note from T-1840 (2026-10-09)
+
+The parcel half of 1635 is settled. Robinson 1886 prints 1635 on a narrow brick building on the lot next north of 1637. The 1911 sheet shows that ground as three unbuilt strips (`prairie_1625_1637_a/b/c`), and `pa-1635-48` is now placed on `_c`, not on 1625. Whether it stood on 1 July 1904 is still this ticket's: there is no 1904 Blue Book listing at 1635. A separate conflict: the 1904 Blue Book OCR lists William Gold Hibbard Jr. at 1637 and Jesse Spalding at 1709, against the record's 'Spalding remodel' name for 1637. See `vacant_ground` and row frontage-20-031 in `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json`.

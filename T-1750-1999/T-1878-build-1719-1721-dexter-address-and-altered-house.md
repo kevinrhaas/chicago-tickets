@@ -56,3 +56,7 @@ This package no longer builds from an empty lot. [T-2160](../T-2000-2249/T-2160-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Note from T-1840 (2026-10-09)
+
+The address question is settled: the sheet prints **1721**, not 1719, so the map frontage and `pa-1721-4` are one property. Build one house. The sheet shows a 3B brick front with two curved bays, a long 2B rear wing with frame pieces at both ends, and a detached 2B building lettered GARAGE by the tracks, whose 1904 use is not read (ruling 11). See row frontage-20-034 of `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json`.

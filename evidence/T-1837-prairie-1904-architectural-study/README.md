@@ -1,5 +1,7 @@
 # Prairie Avenue 1904 architectural design study
 
+**Sheet 20 reconciled — 2026-10-09 (T-1840, chicago PR #589):** `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json` assigns all 35 sheet-20 frontage rows and the 20 named records on its ground once, counts each front, attached wing and rear building, and records the 1904 decision for each. It corrects two misread numbers (1603 is **1605**, 1719 is **1721**), finds that 1702 is a second number on 1700's front, puts Forsyth's 1635 on the strip next to 1637 rather than on 1625 (1904 presence left to T-1870), and attributes the 1890 McBirney plate to 1625, not 1736. The registers below are the 2026-10-01 snapshot; where they disagree on sheet 20, the census governs.
+
 **Current execution status — 2026-10-01:** owner approved “Go” and requested one group below the dev queue. All 110 child tickets are now open in that single group; the construction hold described in the original assessment below was lifted by this later ruling. Dependencies and bake requirements remain.
 
 Prepared 2026-10-01 (America/Chicago). Parent: T-1837. Source revision: `b31dc146c63b11e550ce8536048f33dfefa606c5`.

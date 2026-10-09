@@ -56,3 +56,7 @@ This package no longer builds from an empty lot. [T-2160](../T-2000-2249/T-2160-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Note from T-1840 (2026-10-09)
+
+The station frontage is **1605**, not 1603: the sheet prints 1605 and the traced parcel is `prairie_1605`. Robinson 1886 shows a frame building lettered 16TH ST. STATION, I.C.R.R. there, so the station use carries to 1904. 1601 is a 2-storey frame dwelling with nothing behind it. Read `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json` rows frontage-20-022 and frontage-20-023.

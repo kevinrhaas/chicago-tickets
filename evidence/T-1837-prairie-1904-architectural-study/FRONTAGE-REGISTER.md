@@ -224,6 +224,8 @@ All 91 input frontage rows are represented. Rows are observations, not 91 unique
 
 ## frontage-20-023 · 1603 Prairie · east · sheet 20
 
+**Reconciled by T-1840 (2026-10-09):** the sheet prints **1605**, not 1603; the library record now reads 1605. See `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json`.
+
 **Map:** 2; frame; 1911 use `Illinois Central R.R. 16th St. Station`. 1911 station use.
 
 **Proposed:** Frame dwelling. Map-bound main body and attached wings; painted clapboard, timber sash/eaves and porch; independently declared roof, gutters, chimneys and rear elevation. 1911 station use.
@@ -333,6 +335,8 @@ All 91 input frontage rows are represented. Rows are observations, not 91 unique
 **Owners:** front T-1877; detached rear T-1933. Attached service wings stay with the front asset. Fences/yard transitions use T-1943. Source: `MAP-1911-20` and [original sheet](https://github.com/kevinrhaas/chicago/blob/b31dc146c63b11e550ce8536048f33dfefa606c5/chicago/prairie_1904_v1/maps/originals/sanborn-1911-sheet-20.jpg). Raw row: [frontage-20-033](https://github.com/kevinrhaas/chicago/blob/b31dc146c63b11e550ce8536048f33dfefa606c5/chicago/prairie_1904_v1/data/map_frontages.csv).
 
 ## frontage-20-034 · 1719 Prairie · east · sheet 20
+
+**Reconciled by T-1840 (2026-10-09):** the sheet prints **1721**, not 1719, so this frontage and the named record `pa-1721-4` are one property (ruling 3 settled). The library record now reads 1721.
 
 **Map:** 3B; rear2B; brick; 1911 use `D`. Two curved Prairie-facing bays; rear garage2B.
 
