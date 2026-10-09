@@ -1,7 +1,7 @@
 ---
 id: T-2257
 title: Repoint the order book's South rows off split T-2247 onto its live successor (T-2254 raises the six gated roofs): dev's gate is red on build_order_book_1835 --check since the split at 18:22Z
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 586
 claimed_by: run 10/9/2026, 1:39:12 PM CT
 blocked_on: null
 needs_bake: false
