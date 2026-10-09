@@ -19,3 +19,5 @@ Library: `python3 tools/validate.py` passed, including the six tests in
 No geometry or source-image bytes were added or changed. Three new records link to
 museum-hosted Florian photographs with copyright/link-only rights. The 17 inaccessible
 records remain catalog-only; the other 30 programme tickets remain on manual hold.
+
+Integrated dev `7aed0a2a` after its concurrent people-data change. `combined-preflight.log` records the combined tree passing all three gates (792 repository steps). `merged-changelog.log` verifies the published renderer shim preserves both entries, Glessner v1553 followed by Mark Noble v1552. The complete stage-12 transcripts predate that integration; the library validator and published changelog import were checked again afterward.

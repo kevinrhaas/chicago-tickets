@@ -84,3 +84,5 @@ T-2198 alone is released for implementation and dev delivery. The other 30 Gless
 No geometry was changed. The 17 unavailable images remain catalog-only. The other 30 tickets remain blocked-owner with commented queue entries. Implementation findings and sources are in `chicago/prairie_1904_v1/docs/glessner-source-review.md`.
 
 The library validator, six regression tests, 18 desktop/mobile record checks, the 792-step repository gate and PR preflight pass. Published app stage 12 passes 101 mobile checks. Desktop initially timed out at startup during concurrent checks; its idle rerun passed all 101 checks with zero page errors. The image grid also passed both widths, displaying all 171 records without overflow and finding exactly one disputed-attribution result. [Validation receipts](../evidence/glessner-exterior-audit-2026-10-08/t2198/).
+
+**Dev integration:** merged `7aed0a2a` into the branch without changing its already-shipped entry. Glessner is v1553. Combined-tree preflight passes all 792 repository steps; the library validator and a fresh published-changelog browser import also pass. Delivery head: `05e3dace`.
