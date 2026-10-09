@@ -85,3 +85,11 @@ Current dev was promoted through workflow run [37888023430](https://github.com/k
 ## T-2200 measurement handoff — 2026-10-09 UTC
 
 Implemented the dated baseline in `data/comparisons/glessner/` and the house-card-linked `walk/glessner-baseline.html`. Eight core views have ten unique landmarks (six fit/four withheld); the limited courtyard-west has seven. Whole-west is an unmatched stand, not a fabricated calibration. All core views retain exceptions. Asset hashes freeze caf1c4e3/T-2235; no geometry changes. The candidate command uses frozen cameras and never optimizes pose. Rights-unresolved courtyard pixels remain link-only. Source/date/uncertainty and measured residuals are documented in `docs/RESEARCH/glessner-camera-baseline/README.md`. Desktop/mobile page QA and numerical tests pass; final repository/scene checks and PR receipts follow.
+
+## Merge and deployed verification — 2026-10-09 UTC
+
+Merged [PR #561](https://github.com/kevinrhaas/chicago/pull/561) into dev as `15f5ea6464d3d52bf2e2d16187c147307876c198`. Final repository preflight passed all 798 steps and 326 self-tests; PR gate, moving-frames, and report checks all passed. Dedicated desktop/mobile comparison QA, five numerical behavioral tests, and affected walk smoke stages 3 and 12 passed. This is not a claim that all 14 walk stages were run.
+
+[Deployment 37899504464](https://github.com/kevinrhaas/chicago/actions/runs/37899504464) succeeded. The live dev build identifies `15f5ea64`. At 07:35 UTC, the [deployed comparison page](https://chicago.polecat.live/4d/dev/walk/glessner-baseline.html) passed mobile browser verification: nine views/eight core views/87 landmarks, matching model hash, reference image loaded, projection agreement under 0.001 px, no horizontal overflow or browser errors.
+
+The baseline documents remaining photographic exceptions; it does not certify the house as photographically complete. Whole-west coverage remains missing and courtyard-west remains limited. T-2201–T-2228 retain their blocked-owner states and commented queue entries. Production remains the separately promoted `31768a18`; this ticket landed only in dev.
