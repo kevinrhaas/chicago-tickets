@@ -1,7 +1,7 @@
 ---
 id: T-2238
 title: Build the Market wedge's D5 against hh_dixon_robert's slot on blk_south_water_market#01 (lot 7), with the seating walked to its fixpoint and the moved roofs rebaked
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2182
 opened: 2026-10-08
-closed: null
+closed: 2026-10-09
 pr: 559
 claimed_by: run 10/8/2026, 11:35:51 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T09:41:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37877477299
 claimed_at: 2026-10-09T04:35:51.450Z
 decision: null
