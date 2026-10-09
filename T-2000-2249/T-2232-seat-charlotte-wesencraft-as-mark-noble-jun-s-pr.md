@@ -35,3 +35,14 @@ When T-2230 was split (2026-10-09T01:22:25.521Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37868324385) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## The step T-2234 built for this, measured on #554's tree (2026-10-09)
+
+T-2234's PR #555 (`steward/t2234-family-cycle-fixpoint`) adds `tools/settle_family_cycle.py`. It had a green gate when it was handed on with `resume`, for a changelog-only conflict with dev. Once it is on dev, #554's lap needs nothing but this: merge dev, run the sex pass (`rebuild_resident_index.py --write`, `reconstruct_sex_age.py --build`, `spend_person_sex_age.py`), then run `python3 tools/settle_family_cycle.py --build --strict`, then `rederive.mjs --tail tools/compile_scene.py`, rebake anything stale, and gate.
+
+Measured with #555's code on #554 over dev: lap 1 moved, lap 2 moved nothing. The book (owner gate on) and all six stages re-derive. Two things in #555 are what made it settle:
+
+- **The withdrawn admissions.** `hh_barney_anne_maria` (read female) and `hh_wesencraft_charlotte` (the printed bride) were admitted by T-2021's frozen ruling. They now take their five ordered cells with them, and nobody is ruled in their place. That leaves 154 admitted, where there were 156.
+- **T-2019's female-headed promise** now nets out a printed bride's own folded house, which moved the count from 128/1448 to the promised 129/1449.
+
+Women-and-children's deal does not move at all, and the re-family rule changes by 8 lines.
