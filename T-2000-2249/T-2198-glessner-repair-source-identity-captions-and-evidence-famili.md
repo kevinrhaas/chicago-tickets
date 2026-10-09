@@ -76,3 +76,11 @@ The owner explicitly requested filing the entire reviewed programme as a held gr
 > Claim work that first 2198 ticket and push to dev when done
 
 T-2198 alone is released for implementation and dev delivery. The other 30 Glessner tickets remain on their manual hold. This selection supersedes the scheduling hold above for T-2198 only.
+
+## Implementation — PR #549
+
+[Dev delivery PR](https://github.com/kevinrhaas/chicago/pull/549). Corrected all four Florian descriptions, preserved the previous fields in correction history, and attached an explicit review state, date/phase and evidence-use restriction to all 168 original records. Added three museum-hosted, copyright/link-only Florian references. Disputed Lowe attribution and the rejected door sheet remain excluded; duplicate/variant relationships are qualified and visible in the library.
+
+No geometry was changed. The 17 unavailable images remain catalog-only. The other 30 tickets remain blocked-owner with commented queue entries. Implementation findings and sources are in `chicago/prairie_1904_v1/docs/glessner-source-review.md`.
+
+The library validator, six regression tests, 18 desktop/mobile record checks, the 792-step repository gate and PR preflight pass. Published app stage 12 passes 101 mobile checks. Desktop initially timed out at startup during concurrent checks; its idle rerun is pending. [Validation receipts](../evidence/glessner-exterior-audit-2026-10-08/t2198/).
