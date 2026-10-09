@@ -1,7 +1,7 @@
 ---
 id: T-2260
 title: Move the seating, deal, audit and census tools off the singular lives_at/works_at onto associated_with rows
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-1274
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 5:53:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38001361435
+claimed_at: 2026-10-09T22:53:38.676Z
 decision: null
 decision_answer: null
 ---
