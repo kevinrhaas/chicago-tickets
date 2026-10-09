@@ -1,7 +1,7 @@
 ---
 id: T-2199
 title: Recover unavailable Glessner references and resolve missing exterior views
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Owner-directed manual hold (2026-10-09 UTC): commented Glessner group below portable people; activate only the single ticket explicitly selected by the owner.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
