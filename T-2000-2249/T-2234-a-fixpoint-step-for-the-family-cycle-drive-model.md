@@ -1,7 +1,7 @@
 ---
 id: T-2234
 title: A fixpoint step for the family cycle: drive modelled families, women and children, the trade households, the re-family moves, the order book and the re-family rule until a lap moves nothing, so a sex reading that withdraws a modelled family can land (T-2232, T-2185 and T-2233 wait on it)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-08
 pr: 555
 claimed_by: run 10/8/2026, 8:48:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-09T04:22:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37870757569
 claimed_at: 2026-10-09T01:48:28.723Z
 decision: null
