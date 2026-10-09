@@ -337,3 +337,40 @@ T-1789 — Build the first modular 1835 human library in Blender on the shared p
 T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
+
+# --- GLESSNER HOUSE 1904 — EXTERIOR AND COURTYARD PHOTOGRAPHIC FINISH (MANUAL ONLY)
+# Owner, 2026-10-09 UTC: file all reviewed work below the people and comment the group out; take tickets manually one at a time.
+# 31 held tickets: 26 audit packages (four split into two bounded passes) plus one missing-reference retrieval pass.
+# Every row is commented and every ticket is blocked-owner. Do not auto-unblock, claim, or activate this group.
+# Programme/evidence/release instructions: evidence/glessner-exterior-audit-2026-10-08/README.md
+# BLOCKED-OWNER T-2198 — Glessner: repair source identity, captions and evidence families [GA-01]
+# BLOCKED-OWNER T-2199 — Recover unavailable Glessner references and resolve missing exterior views [GA-R1]
+# BLOCKED-OWNER T-2200 — Glessner: establish a dated, camera-matched exterior acceptance baseline [GA-02]
+# BLOCKED-OWNER T-2201 — Glessner: close the south courtyard boundary and resolve its junctions [GA-03]
+# BLOCKED-OWNER T-2202 — Glessner: restore Prairie frontage curbs, thresholds and ground contact [GA-04]
+# BLOCKED-OWNER T-2203 — Correct Glessner roof tile scale and coverage on every roof plane [GA-05A]
+# BLOCKED-OWNER T-2204 — Remove Glessner roof banding and stabilize tile detail in motion [GA-05B]
+# BLOCKED-OWNER T-2205 — Glessner: refine ridge caps, cresting, finials, eaves and flashing [GA-06]
+# BLOCKED-OWNER T-2206 — Glessner: validate roof, dormer and courtyard-bay proportions before further reshaping [GA-07]
+# BLOCKED-OWNER T-2207 — Glessner: finish stable cupola and north loft fittings [GA-08]
+# BLOCKED-OWNER T-2208 — Refine Glessner street masonry courses, relief and opening returns [GA-09A]
+# BLOCKED-OWNER T-2209 — Calibrate Glessner granite texture, roughness and shadow readability [GA-09B]
+# BLOCKED-OWNER T-2210 — Glessner: calibrate courtyard brick and limestone as distinct materials [GA-10]
+# BLOCKED-OWNER T-2211 — Finish Glessner street and stable window profiles and stone supports [GA-11A]
+# BLOCKED-OWNER T-2212 — Finish Glessner courtyard, bow, turret and dormer window profiles [GA-11B]
+# BLOCKED-OWNER T-2213 — Glessner: give dark glazing believable exterior-visible depth and variation [GA-12]
+# BLOCKED-OWNER T-2214 — Correct the mirrored Glessner 1886 inscription and monogram [GA-13A]
+# BLOCKED-OWNER T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals [GA-13B]
+# BLOCKED-OWNER T-2216 — Glessner: complete the main entry oak door and iron grille [GA-14]
+# BLOCKED-OWNER T-2217 — Glessner: finish both porte-cochere leaves, hardware and passage [GA-15]
+# BLOCKED-OWNER T-2218 — Glessner: reconstruct the curved courtyard hall steps and cheek wall [GA-16]
+# BLOCKED-OWNER T-2219 — Glessner: audit basement grilles, light wells and service openings [GA-17]
+# BLOCKED-OWNER T-2220 — Glessner: refine copper roof panels, seams and weathering [GA-18]
+# BLOCKED-OWNER T-2221 — Glessner: complete gutters, rainwater heads, downpipes and attachments [GA-19]
+# BLOCKED-OWNER T-2222 — Glessner: resolve chimney phase and finish stack/cap detail [GA-20]
+# BLOCKED-OWNER T-2223 — Glessner: date and finish courtyard service stairs, rails and rear gate [GA-21]
+# BLOCKED-OWNER T-2224 — Glessner: finish courtyard paths, edging, lawn and drainage [GA-22]
+# BLOCKED-OWNER T-2225 — Glessner: add restrained, dated courtyard vines and exterior planting [GA-23]
+# BLOCKED-OWNER T-2226 — Glessner: balance lighting, contact shadows and restrained surface aging [GA-24]
+# BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
+# BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
