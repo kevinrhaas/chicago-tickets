@@ -35,3 +35,15 @@ When T-2182 was split (2026-10-09T04:35:34.151Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/37877477299) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Where the ground stands after T-2238 (2026-10-09)
+
+Measured on the branch that builds the wedge's D5 (steward/t2182-market-wedge-d5), at the seating's
+fixpoint: the schedule reads `blk_south_water_market` **at_capacity** (its one buildable free lot,
+lot 7, now carries the D5; lot 8 is its reserved open lot), and the South remainder is
+**`blk_south_water_wells`: D2, D4 (and the F4 that moved off the wedge, T-2175's)** and
+**`south_plat_beyond_committed_control` (gated): D2, D4, D5 (with two F3s and two H3s)**. The order
+book's `structures/ordinary_dwellings/south` row reads 176 ordered, 171 standing, **5 owed**. Wells'
+`lot_ceiling_principal: 1` still promises room `generate_block_infill.py` will not build (T-1623's
+4.46 m east of H. Jones's store; the owner's (a): leave them owed, keep the corner lot open).
+
