@@ -1,7 +1,7 @@
 ---
 id: T-2206
 title: Glessner: validate roof, dormer and courtyard-bay proportions before further reshaping
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Owner-directed manual hold (2026-10-09 UTC): commented Glessner group below portable people; activate only the single ticket explicitly selected by the owner.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -84,3 +84,9 @@ explicit repair in [T-2220](T-2220-glessner-refine-copper-roof-panels-seams-and-
 with the owner's screenshot finding and a reproduced view. Use that ticket for
 the local cladding-to-host attachment defect; do not duplicate it in this broader
 proportions audit. Both tickets remain on their manual holds.
+
+## Owner release — 2026-10-09 UTC
+
+> Take 2206 next
+
+Only this ticket is released. T-2205 merged to dev in PR #601; all other manual holds remain. Audit the current assets with frozen T-2200 cameras and retain prior corrections unless a residual error is documented.
