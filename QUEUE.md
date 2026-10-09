@@ -329,7 +329,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # Every row is commented and every ticket is blocked-owner. Do not auto-unblock, claim, or activate this group.
 # Programme/evidence/release instructions: evidence/glessner-exterior-audit-2026-10-08/README.md
 # BLOCKED-OWNER T-2201 — Glessner: close the south courtyard boundary and resolve its junctions [GA-03]
-T-2205 — Glessner: refine ridge caps, cresting, finials, eaves and flashing
 T-2206 — Glessner: validate roof, dormer and courtyard-bay proportions before further reshaping
 # BLOCKED-OWNER T-2207 — Glessner: finish stable cupola and north loft fittings [GA-08]
 # BLOCKED-OWNER T-2208 — Refine Glessner street masonry courses, relief and opening returns [GA-09A]

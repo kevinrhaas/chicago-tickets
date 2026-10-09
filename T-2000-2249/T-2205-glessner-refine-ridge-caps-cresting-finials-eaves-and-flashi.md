@@ -1,7 +1,7 @@
 ---
 id: T-2205
 title: Glessner: refine ridge caps, cresting, finials, eaves and flashing
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 601
 claimed_by: run 10/9/2026, 5:28:12 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-09T23:58:18Z
 claimed_run: null
 claimed_at: 2026-10-09T22:28:12.641Z
 decision: null
