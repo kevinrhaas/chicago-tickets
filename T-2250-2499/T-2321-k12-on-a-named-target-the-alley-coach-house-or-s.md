@@ -1,7 +1,7 @@
 ---
 id: T-2321
 title: K12 on a named target: the alley coach house or service wing of a Prairie Avenue 1904 lot built from the coach-house kit at its mapped rear footprint, every elevation closed and its workyard connected to the house, 1911 garage and auto labels never read as 1904 use, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1854
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 2:39:08 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38079848570
+claimed_at: 2026-10-10T19:39:08.430Z
 decision: null
 decision_answer: null
 ---
