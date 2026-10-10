@@ -1,7 +1,7 @@
 ---
 id: T-2289
 title: K02 on the 1808 exemplar: rusticated base, coursed ashlar, corner bonds, voussoirs, coping and chipped edges built from the stone library, baked and verified at both viewports with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1844
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 636
 claimed_by: run 10/10/2026, 2:10:42 AM CT
 blocked_on: null
 needs_bake: true
