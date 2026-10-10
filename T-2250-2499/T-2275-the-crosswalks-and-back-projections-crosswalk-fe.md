@@ -1,7 +1,7 @@
 ---
 id: T-2275
 title: The crosswalks and back-projections (crosswalk_fergus_1839, crosswalk_fergus_1843, crosswalk_norris_1844, crosswalk_norris_1844_advertiser, back_project_addresses, back_project_residences) read a household's home and workplace from its associated_with rows instead of the singular lives_at/works_at
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2273
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 607
 claimed_by: run 10/9/2026, 8:49:31 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T04:09:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38014393336
 claimed_at: 2026-10-10T01:49:31.710Z
 decision: null
