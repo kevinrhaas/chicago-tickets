@@ -1,7 +1,7 @@
 ---
 id: T-2293
 title: K04 on the 1808 exemplar: slate courses with cut edges, hip and ridge caps, valley flashing, a dormer apron, gutters on brackets, outlets, downpipes and shoes ending at ground, built from the roof library, baked and verified at both viewports with costs
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1846
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 631
 claimed_by: run 10/10/2026, 1:21:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T15:00:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38030469545
 claimed_at: 2026-10-10T06:21:23.391Z
 decision: null
