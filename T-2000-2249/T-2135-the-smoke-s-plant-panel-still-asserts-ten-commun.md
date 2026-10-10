@@ -1,7 +1,7 @@
 ---
 id: T-2135
 title: The smoke's plant panel still asserts ten communities and 155 species, and dev has served eleven and 166 since #460 (T-2101's vacant-lot prairie): part 13 is red on dev at mobile, three checks
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-05
-closed: null
+closed: 2026-10-08
 pr: 516
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-08T07:51:03Z
 claimed_run: null
 claimed_at: null
 decision: null
