@@ -1,7 +1,7 @@
 ---
 id: T-2285
 title: The waiting families' share past the South's family shortfall goes on to the North and West: 2 of the 12 discharged (North owes 1, West 9), not left with a cell that is full
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2279
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 622
 claimed_by: run 10/9/2026, 11:39:47 PM CT
 blocked_on: null
 needs_bake: false
