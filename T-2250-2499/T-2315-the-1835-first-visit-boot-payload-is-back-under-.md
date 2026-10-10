@@ -1,7 +1,7 @@
 ---
 id: T-2315
 title: The 1835 first-visit boot payload is back under its 13 MB budget — dev publishes 14.513 MB, so smoke (desktop, 1-2) is red on every PR
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 653
 claimed_by: run 10/10/2026, 7:31:27 AM CT
 blocked_on: null
 needs_bake: false
