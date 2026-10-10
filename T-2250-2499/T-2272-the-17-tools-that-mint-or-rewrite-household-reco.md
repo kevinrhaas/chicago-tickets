@@ -1,7 +1,7 @@
 ---
 id: T-2272
 title: The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2261
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 12:13:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38026587806
+claimed_at: 2026-10-10T05:13:30.469Z
 decision: null
 decision_answer: null
 ---
