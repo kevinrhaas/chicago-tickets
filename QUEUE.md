@@ -22,7 +22,6 @@ T-2268 — The street line's two owed F3 river warehouses on the South Branch's 
 T-2285 — The waiting families' share past the South's family shortfall goes on to the North and West: 2 of the 12 discharged (North owes 1, West 9), not left with a cell that is full
 T-2286 — The North and West family_dwelling orders still owe 10 households (North 1, West 9) once all 23 waiting families are spent: no held head, waiting family or household beyond the index is left in either division to fill them
 T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
-T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
 T-2283 — Business cards stop quoting the retiring works_at field: the twelve premises sentences name the keeper and the building their dated work place reads, in words
 T-2272 — The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
 T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
