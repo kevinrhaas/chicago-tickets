@@ -37,7 +37,6 @@ T-2289 — K02 on the 1808 exemplar: rusticated base, coursed ashlar, corner bon
 T-2291 — K03 on a named target: a facade and service-wall comparison (pressed front against common-brick return and rear) built from the brick library with bonds, corner returns, soldier and segmental heads, string course and soot/damp mask, baked and verified at both viewports with costs
 T-2293 — K04 on the 1808 exemplar: slate courses with cut edges, hip and ridge caps, valley flashing, a dormer apron, gutters on brackets, outlets, downpipes and shoes ending at ground, built from the roof library, baked and verified at both viewports with costs
 T-1847 — Mansard, hip, gable and tower roof construction
-T-2297 — K06 window kit: rectangular, paired, segmental, round and pointed heads, transoms and fanlights, basement lights, grouped attic lights and limited leaded lights as metric parametric components in data — reveal depth, sash rails and stiles, muntin patterns, sill drip, arch spring, glazing plane, blinds and curtain edges — with a generator that builds each as a real recessed opening (separate sash and glass over a dark enclosed backing), studied at 2-5 m in raking and diffuse light with costs
 T-2298 — K06 on the 1808 exemplar: real wall openings with jambs, reveals, sills and heads, separate sash and glass over dark enclosed backing and blinds behind the glass, built from the window kit, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-1849 — Entrances, stoops, porches and carriage doors
 T-1850 — Bays, oriels and towers
