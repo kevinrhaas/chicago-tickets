@@ -1,7 +1,7 @@
 ---
 id: T-2269
 title: The street line's owed F4 lumber shed: a placement clause for a lumber shed by the water (bank_landing admits F1-F3 only and the vocabulary cannot spell lumber_shed), then the roof
-state: open
+state: claimed
 epic: TOWN
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2175
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 7:22:43 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38008542695
+claimed_at: 2026-10-10T00:22:43.109Z
 decision: null
 decision_answer: null
 ---
