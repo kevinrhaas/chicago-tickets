@@ -1,7 +1,7 @@
 ---
 id: T-2266
 title: K01 proof: build a small 1808 Prairie frontage assembly from the K01 contract beside the canonical Glessner asset, baked, shown at street-eye, oblique, rear and roof views on 1280x800 and 390x780, with scene load and draw and frame costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1843
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 618
 claimed_by: run 10/9/2026, 9:51:07 PM CT
 blocked_on: null
 needs_bake: false
