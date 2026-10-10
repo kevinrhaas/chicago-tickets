@@ -1,7 +1,7 @@
 ---
 id: T-2284
 title: Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2274
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 637
 claimed_by: run 10/10/2026, 2:56:43 AM CT
 blocked_on: null
 needs_bake: false
