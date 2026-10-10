@@ -1,7 +1,7 @@
 ---
 id: T-2317
 title: K10 on a named target: the cornice, parapet, dormer faces and cresting of a Prairie Avenue 1904 house built from the cornice kit, corner returns continuous and meeting the K05 roof with no clash, a documented landmark's unique profile authored from evidence rather than a scaled generic, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: claimed
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: run 10/10/2026, 9:24:04 AM CT
-blocked_on: null
+blocked_on: T-2302 — the K05 roof this must meet exists only in PR #648 (stacked on #631, both open); built on dev's K01 hip, the front eave overhang runs through any parapet, and the junction fix would rewrite the roof() #631/#648 already rewrite. Unblock when T-2302 merges. EVIDENCE READ 2026-10-10 for whoever builds it: Inland Architect vol. XI no. 1 (Feb 1888) plate 'Residence for O. R. Keith, Chicago, Cobb & Frost' (archive.org sim_inland-architect-and-news-record_1888-02_11_1, page n14; public domain, not yet a source record) shows the street front crowned by a full-width PIERCED parapet — two rows of ~22 small square piercings in ashlar under a plain coping — over a moulded cornice band and a deep rock-faced frieze, between round corner piers with moulded rings and conical caps; sky shows through the piercings and no roof or dormer is visible from the street, so the K05 street dormer in #648 contradicts the plate. The loggia balcony repeats the pierced pattern in one row. That is the unique profile to author, not the kit's generic parapet.balustrade_urns.
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38058818508
