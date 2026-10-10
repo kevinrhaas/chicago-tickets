@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 Deposit and read the marriage leaves of St Mary's register for the forename of the 1834 witness every printing sets as 'L. Franchere'.
 
@@ -40,3 +40,7 @@ Deposit and read the marriage leaves of St Mary's register for the forename of t
 **Recommendation:** (a) Yes: the owner deposits the leaf under chicago/reference/catholic-baptisms-1833-1835/, and a run then reads it and rules on the franchere cluster — It is the one reading that can decide the cluster, and depositing it is a person's action: the login wall is the only blocker, and runs keep stepping over it at the top of the queue
 
 **Asked:** 2026-10-10 by https://github.com/kevinrhaas/polecat-platform/actions/runs/38054512154. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-10, via Manager):** (a) Yes: the owner deposits the leaf under chicago/reference/catholic-baptisms-1833-1835/, and a run then reads it and rules on the franchere cluster
+
+**Owner's note:** I could not find that file but if you think it’s a good valid thing then go ahead and complete that cluster
