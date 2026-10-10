@@ -34,3 +34,5 @@ When T-2273 was split (2026-10-10T01:49:23.148Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38014393336) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+The six tools take a household's home and workplace only through `associations.home_of` / `workplace_of`; none reads `lives_at` or `works_at` off a household record; each tool's `--check` re-derives its committed file byte-identically on dev's records AND on the same records with `lives_at`/`works_at` stripped from all of them (the old code fails that second run); the two back-projections' self-tests build their fixtures from `associated_with` rows only. Output field names (`lives_at_1835`, `works_at_1835`, `*_real_values`) are the files' published schema and stay; T-2274 decides them with the pair.
