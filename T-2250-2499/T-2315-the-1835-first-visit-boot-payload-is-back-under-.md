@@ -1,7 +1,7 @@
 ---
 id: T-2315
 title: The 1835 first-visit boot payload is back under its 13 MB budget — dev publishes 14.513 MB, so smoke (desktop, 1-2) is red on every PR
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 653
 claimed_by: run 10/10/2026, 7:31:27 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T16:00:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38052046036
 claimed_at: 2026-10-10T12:31:27.824Z
 decision: null
