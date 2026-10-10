@@ -1,7 +1,7 @@
 ---
 id: T-2295
 title: The sixteen null-writers stop writing the empty lives_at/works_at blocks, in the same PR that drops the keys from validate.py's required set (T-2284)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2272
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 634
 claimed_by: run 10/10/2026, 1:29:35 AM CT
 blocked_on: null
 needs_bake: false
