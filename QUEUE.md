@@ -188,7 +188,6 @@ T-2251 — Deposit and read the marriage leaves of St Mary's register — the bo
 T-2255 — The off-plat deal seats 55 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
 T-2279 — The North and West family_dwelling orders owe 12 households again (North 2, West 10): T-2255 took the off-plat roofs from letter-list households, so the held heads under North and West dwellings fall 8 and 15 short of the order, the families waiting on a roof discharge 6 and 5, and T-2256, which owned the rows, is done
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
-T-2269 — The street line's owed F4 lumber shed: a placement clause for a lumber shed by the water (bank_landing admits F1-F3 only and the vocabulary cannot spell lumber_shed), then the roof
 
 # --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
