@@ -1,7 +1,7 @@
 ---
 id: T-2329
 title: Draft the 18th-20th Prairie block's west side and the reusable draft builder: every west frontage and its rear buildings as a kit-built draft, Glessner untouched
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2159
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 671
 claimed_by: run 10/10/2026, 4:34:28 PM CT
 blocked_on: null
 needs_bake: false
