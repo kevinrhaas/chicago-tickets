@@ -1,7 +1,7 @@
 ---
 id: T-2277
 title: The index, cards and audits (rebuild_resident_index and the 7 readers of its copy, export_resident_audit, profile_population_1835, report_research_signoff, summarize_residents, household_associations, location_reconciliation, people.js, residents.js) read associated_with rows instead of the singular lives_at/works_at
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2273
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 613
 claimed_by: run 10/9/2026, 9:23:02 PM CT
 blocked_on: null
 needs_bake: false
