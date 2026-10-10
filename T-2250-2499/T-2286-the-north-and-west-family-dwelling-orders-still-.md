@@ -34,3 +34,21 @@ When T-2279 was split (2026-10-10T04:39:34.278Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38024434610) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Measured by T-2285 (2026-10-10).** Once the waiting families' share past the South's
+shortfall goes on to the North and West, all 23 families waiting on a roof discharge a cell
+and the book reads North 1, West 9 still owed (`waiting_families_ruling`). Nothing left fills
+them on a rule the book already states: every North and West held head under a standing
+dwelling is counted (`1835_held_head_dwellings.json`, `not_counted` 0); the 42 other rows
+waiting on a roof are 39 single persons (a bed, never a household of its own) and 3 families
+the book already counts as a house; no waiting row is a letter-list household; the person
+side cannot take a minted family (the North and West family person buckets are full, and
+the town stands 2,864 against a model of 2,549). Ten standing D roofs hold boarders and no
+household (North 8, West 2), which is short of the West's 9 even if a boarders' roof were
+ruled a household.
+
+**Acceptance:** the North and West `family_dwelling` rows read 0 left on a rule the book
+states, never by re-admitting a letter-list household or by counting a bed as a house — or
+the rows are discharged on a ruling stated beside the T-2256 one, with the owner asked where
+the ruling is his (what the project IS); `FAMILY_HOUSEHOLD_OWNER_BY_DIVISION` moves on or is
+retired in the same PR.
