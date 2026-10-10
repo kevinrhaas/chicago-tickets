@@ -1,7 +1,7 @@
 ---
 id: T-1953
 title: The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
-state: claimed
+state: withdrawn
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1810
 opened: 2026-10-01
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: run 10/9/2026, 11:31:52 PM CT
-blocked_on: null
+blocked_on: the book no longer orders it: larger_boarding_houses/west is 6 of 6 since T-2148, and the West adults it was to seat read filled in the live book
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T04:34:27.426Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38024189090
 claimed_at: 2026-10-10T04:31:52.274Z
 decision: null
