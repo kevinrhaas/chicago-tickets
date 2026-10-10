@@ -19,7 +19,6 @@
 T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
-T-2286 — The North and West family_dwelling orders still owe 10 households (North 1, West 9) once all 23 waiting families are spent: no held head, waiting family or household beyond the index is left in either division to fill them
 T-2295 — The sixteen null-writers stop writing the empty lives_at/works_at blocks, in the same PR that drops the keys from validate.py's required set (T-2284)
 T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
@@ -36,7 +35,6 @@ T-2251 — Deposit and read the marriage leaves of St Mary's register — the bo
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-2288 — K02 stone library: rock-faced granite, brown sandstone, Lemont and Bedford limestone, dressed trim and foundation rubble as metric PBR fabrics with joint and edge profiles, studied in raking and diffuse light
 T-2289 — K02 on the 1808 exemplar: rusticated base, coursed ashlar, corner bonds, voussoirs, coping and chipped edges built from the stone library, baked and verified at both viewports with costs
-T-2290 — K03 brick library: red pressed face brick, buff common service brick, dark fired and clinker headers and the Mayer house's rough red-brown brick as metric PBR fabrics, with bond, special and mortar-joint profiles as data, studied in raking and diffuse light
 T-2291 — K03 on a named target: a facade and service-wall comparison (pressed front against common-brick return and rear) built from the brick library with bonds, corner returns, soldier and segmental heads, string course and soot/damp mask, baked and verified at both viewports with costs
 T-2296 — The 1904 street-surface library's normal_gl maps are DirectX-handed: generate_prairie_1904_pbr.py writes (-dh/dx, -dh/drow, 1), so green is inverted on every street the renderer binds
 T-2293 — K04 on the 1808 exemplar: slate courses with cut edges, hip and ridge caps, valley flashing, a dormer apron, gutters on brackets, outlets, downpipes and shoes ending at ground, built from the roof library, baked and verified at both viewports with costs
