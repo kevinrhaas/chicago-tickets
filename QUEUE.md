@@ -20,7 +20,6 @@ T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boar
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
 T-2286 — The North and West family_dwelling orders still owe 10 households (North 1, West 9) once all 23 waiting families are spent: no held head, waiting family or household beyond the index is left in either division to fill them
-T-2294 — The garrison writes its own home rows: the one minting tool whose lives_at value still reaches the card only through the copier (institutional and lodgers already write theirs)
 T-2295 — The sixteen null-writers stop writing the empty lives_at/works_at blocks, in the same PR that drops the keys from validate.py's required set (T-2284)
 T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
