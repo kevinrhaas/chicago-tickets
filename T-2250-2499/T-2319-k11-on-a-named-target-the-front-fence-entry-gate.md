@@ -1,7 +1,7 @@
 ---
 id: T-2319
 title: K11 on a named target: the front fence, entry gate, piers and boundary wall of a Prairie Avenue 1904 house built from the ironwork kit at its source-bounded line and height, kept off the entrance and the shared carriage drive, the light tier keeping the silhouette, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2317 — one 1808 Prairie PR at a time (owner, 2026-10-10): the fence goes on after the cornice lands
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -34,3 +34,5 @@ When T-1853 was split (2026-10-10T14:25:42.964Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38059227032) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Target (owner, 2026-10-10):** 1808 Prairie, the K01 exemplar every kit is applied to. These tickets run one at a time so only one 1808 PR is open at once: K05 roof (T-2302), then K10 cornice (T-2317), then K11 fence (T-2319), then K15 chimneys (T-2313). Each is blocked on the one before it, and `ticket.mjs settle` reopens it in that ticket's queue line when its PR merges.
