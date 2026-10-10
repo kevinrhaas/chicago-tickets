@@ -18,6 +18,7 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 T-2314 — A full bake derives only the masters whose bytes moved, so the content build fits its 30-minute ceiling again
+T-2315 — The 1835 first-visit boot payload is back under its 13 MB budget — dev publishes 14.513 MB, so smoke (desktop, 1-2) is red on every PR
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
