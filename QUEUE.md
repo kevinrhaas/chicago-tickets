@@ -19,7 +19,8 @@
 T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
-T-2279 — The North and West family_dwelling orders owe 12 households again (North 2, West 10): T-2255 took the off-plat roofs from letter-list households, so the held heads under North and West dwellings fall 8 and 15 short of the order, the families waiting on a roof discharge 6 and 5, and T-2256, which owned the rows, is done
+T-2285 — The waiting families' share past the South's family shortfall goes on to the North and West: 2 of the 12 discharged (North owes 1, West 9), not left with a cell that is full
+T-2286 — The North and West family_dwelling orders still owe 10 households (North 1, West 9) once all 23 waiting families are spent: no held head, waiting family or household beyond the index is left in either division to fill them
 T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
 T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
 T-2283 — Business cards stop quoting the retiring works_at field: the twelve premises sentences name the keeper and the building their dated work place reads, in words
