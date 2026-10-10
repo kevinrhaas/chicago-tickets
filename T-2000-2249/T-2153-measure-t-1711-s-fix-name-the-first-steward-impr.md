@@ -1,7 +1,7 @@
 ---
 id: T-2153
 title: Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the steward-focus run its kick dispatched within a minute
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-06
 closed: null
 pr: null
-claimed_by: run 10/7/2026, 11:07:22 PM CT
+claimed_by: run 10/9/2026, 11:36:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37725706091
-claimed_at: 2026-10-08T04:07:22.739Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38024455247
+claimed_at: 2026-10-10T04:36:27.236Z
 decision: null
 decision_answer: null
 ---
