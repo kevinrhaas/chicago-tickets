@@ -1,7 +1,7 @@
 ---
 id: T-2267
 title: Glessner v4's east-front limestone trim carries coincident faces — 6 in the full master (4 doubled, 2 back to back, near x 49.2-49.4 m at y 3.36-3.55 and 7.50 m) and 31 in the web tier once quantized — which the K01 contract's measure finds and a regenerated asset must not
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 617
 claimed_by: run 10/9/2026, 9:35:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T04:34:55Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38017233387
 claimed_at: 2026-10-10T02:35:19.467Z
 decision: null

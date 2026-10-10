@@ -39,7 +39,6 @@ T-2153 — Measure T-1711's fix: name the first steward-improve run cancelled at
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-2266 — K01 proof: build a small 1808 Prairie frontage assembly from the K01 contract beside the canonical Glessner asset, baked, shown at street-eye, oblique, rear and roof views on 1280x800 and 390x780, with scene load and draw and frame costs
-T-2267 — Glessner v4's east-front limestone trim carries coincident faces — 6 in the full master (4 doubled, 2 back to back, near x 49.2-49.4 m at y 3.36-3.55 and 7.50 m) and 31 in the web tier once quantized — which the K01 contract's measure finds and a regenerated asset must not
 T-1844 — Stone, mortar and dressed masonry materials
 T-1845 — Pressed, common and rough brick materials
 T-1846 — Period roof coverings and drainage
