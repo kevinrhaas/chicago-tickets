@@ -1,7 +1,7 @@
 ---
 id: T-2301
 title: K05 roof-construction kit: hip, ordinary/stepped/ogee gable, convex and concave mansard, polygonal and conical tower roofs and gabled dormers as a data roof graph (planes, hips, ridges, valleys, fascia, soffit, verge, dormer cheeks, cross-gable return), with a generator that trims every plane at its valleys and intersections into a watertight closure, measured for planes crossing gable faces, floating cornices and doubled coplanar faces, studied in raking and diffuse light with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1847
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 3:35:46 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38038208615
+claimed_at: 2026-10-10T08:35:46.484Z
 decision: null
 decision_answer: null
 ---
