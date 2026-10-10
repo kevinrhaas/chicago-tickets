@@ -1,7 +1,7 @@
 ---
 id: T-2287
 title: Shop signs to photographic finish: shaded letters, framed boards, weathered grounds, flaking wall paint
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-10
 pr: 621
 claimed_by: run 10/9/2026, 11:40:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T05:23:53Z
 claimed_run: null
 claimed_at: 2026-10-10T04:40:36.711Z
 decision: null
