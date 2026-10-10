@@ -1,7 +1,7 @@
 ---
 id: T-2311
 title: CI's full-town bake rebuilds Glessner's light tier as bd1a614c67b3 while glessner_baseline.json and the committed package hold 8a51eea20569, so k01_contract fails and every PR's bake check reds (#631 x2, #632)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 645
 claimed_by: run 10/10/2026, 4:58:02 AM CT
 blocked_on: null
 needs_bake: false
