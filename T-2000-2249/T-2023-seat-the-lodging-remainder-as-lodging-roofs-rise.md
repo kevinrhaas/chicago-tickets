@@ -81,3 +81,26 @@ From `1835_lodgers_seated.json` → `quota_basis.top_up.what_is_left`:
 
 **So it is blocked, not finished**: every remaining piece waits on a West roof (T-1953 →
 T-1414) or on T-1957's South houses. Don't claim it to re-check; re-check when T-1953 merges.
+
+## RE-POINTED 2026-10-10 (slice 7/7): T-1953 is withdrawn, and the West half is a stale figure, not a missing roof
+
+T-1953 read the book on `dev` at b281f6d9b and withdrew: `structures/larger_boarding_houses/west`
+is 6 of 6 (T-2148 raised `recon_1835_blk_washington_clinton_h3_02` and two H-family houses on
+2026-10-06) and the roof programme leaves the West 0 roofs. **Nothing in the queue will raise a
+West lodging roof, and nothing needs to**:
+
+- The "7 West adults ordered with no bed" is the top-up's FROZEN room, carried from the build
+  that recorded it. In the live book every one of those cells now reads `filled` =
+  `to_reconstruct` (male 20-29 8/8, 30-39 5/5, 40-49 1/1, 50+ 1/1; female 40-49 1/1).
+  `quota_basis.re_cut_since` already shows male 20-29 West cut from 12 to 8.
+- So the West piece of this ticket is a reporting fix, not a roof: `top_up()` in
+  `tools/seat_lodgers_1835.py` counts `what_is_left.ordered_with_no_bed` from the frozen
+  `to_top_up` rows and never nets them against the live book. It should report what the
+  live book still owes (0 West adults today), or say beside the 7 that the book has since
+  re-cut them away. That is invisible work; it rides with the bed reconciliation below.
+- Still owed here, measured on the same tree: `beds_with_no_order` south 16, north 20, west 0
+  (36 in all); `houses_still_ordered_after_this_stage_s_counter` 34. The remaining West youth
+  cells are `persons/female/under_10/west/lodging/none` (4 of 8) and
+  `persons/male/10_19/west/lodging/none` (5 of 6).
+
+Unblocked, since its only blocker is gone.
