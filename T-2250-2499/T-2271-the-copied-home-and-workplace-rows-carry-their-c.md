@@ -1,7 +1,7 @@
 ---
 id: T-2271
 title: The copied home and workplace rows carry their claim's own basis and replaceable_by, and the address book reads its seat prose from the home row instead of the singular lives_at
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2261
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 608
 claimed_by: run 10/9/2026, 8:43:57 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T03:17:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38013053524
 claimed_at: 2026-10-10T01:43:57.892Z
 decision: null
