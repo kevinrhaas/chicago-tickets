@@ -1,7 +1,7 @@
 ---
 id: T-2256
 title: The South's family_dwelling order has 2 households no held head fills: once T-1645 stopped dealing roofs to letter-list households, count_held_head_dwellings_1835.py finds 165 heads under South dwellings against room for 167, and T-2193, which owned the order, is done
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 600
 claimed_by: run 10/9/2026, 5:59:59 PM CT
 blocked_on: null
 needs_bake: false
