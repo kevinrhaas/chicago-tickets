@@ -1,7 +1,7 @@
 ---
 id: T-2320
 title: K12 coach-house and service kit: a carriage bay with paired doors under a segmental head, a loft hatch with its hoist beam, stable sash, a stable-basement ramp, an external service stair, a lean-to, a connecting wing and a party-wall return as metric parametric components in data — rear footprint, party wall, carriage aperture, loft hatch, ramp grade, stair rise and going, wall return — with a generator that assembles a two-storey brick coach house from them with every elevation closed, every opening cut through its wall, the ramp and stair meeting grade and the wing meeting its walls with no gap or overlap, and the roof ventilator left off unless a variant's evidence supports it, studied at 2-5 m in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1854
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 658
 claimed_by: run 10/10/2026, 9:28:11 AM CT
 blocked_on: null
 needs_bake: false
