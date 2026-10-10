@@ -1,7 +1,7 @@
 ---
 id: T-2286
 title: The North and West family_dwelling orders still owe 10 households (North 1, West 9) once all 23 waiting families are spent: no held head, waiting family or household beyond the index is left in either division to fill them
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2279
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 628
 claimed_by: run 10/10/2026, 12:29:40 AM CT
 blocked_on: null
 needs_bake: false
