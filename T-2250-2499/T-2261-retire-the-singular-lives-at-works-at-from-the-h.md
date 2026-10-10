@@ -1,7 +1,7 @@
 ---
 id: T-2261
 title: Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads them
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1274
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: null
 claimed_by: run 10/9/2026, 8:29:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T01:43:52.035Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38013053524
 claimed_at: 2026-10-10T01:29:51.027Z
 decision: null

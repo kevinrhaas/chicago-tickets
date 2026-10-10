@@ -176,7 +176,10 @@ T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boar
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
 #   ? T-1957 DECISION: The 668-roof schedule still deals 8 roofs (D2, D4, D5, D6, F3, F4 and these two H3 boarding houses) onto blk_south_water_market, the Market-and-South-Water wedge your 2026-08-29 closure ruling could not cut: the ground leaves 2.8 m of block depth at Market against a 24.4 m lot, so the block stays 'gated' and T-1957, T-2175 and T-2182 all wait on it. What should happen to those 8 roofs? — (a) Re-deal them onto the School Section's Madison–Monroe tier, extending your 2026-10-05 ruling on T-1755 (b) from the 40 dwellings to the wedge's 8 roofs  (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES  (c) Return them: cut the South's targets by these 8 and re-close the order book (folds into T-1983) — recommended: (b)
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
-T-2261 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads them
+T-2271 — The copied home and workplace rows carry their claim's own basis and replaceable_by, and the address book reads its seat prose from the home row instead of the singular lives_at
+T-2272 — The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
+T-2273 — The 26 tools and two card reads that take lives_at/works_at off a household record, and the 7 that read the resident index's copy, read associated_with rows instead
+T-2274 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 # Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
 # small and card-local, they do not move the city.
 T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
