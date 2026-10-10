@@ -1,7 +1,7 @@
 ---
 id: T-2276
 title: The housing and deal tools (adopt_street_faces, complete_inwindow_trades, consolidate_town_cards, fronting_street, house_the_present_1835, model_refamily_rule, replace_invented_residents, spend_trade_premises, spend_remainder_rulings, substitute_reconstruction) read associated_with rows instead of the singular lives_at/works_at
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2273
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 8:51:31 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38014398841
+claimed_at: 2026-10-10T01:51:31.492Z
 decision: null
 decision_answer: null
 ---
