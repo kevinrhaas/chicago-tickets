@@ -1,7 +1,7 @@
 ---
 id: T-2310
 title: K09 on a named target: carved entrance and window trim on a Prairie Avenue 1904 house built from the carved-trim kit, a documented landmark's distinctive carving kept distinct from the generic kit motifs, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1851
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 6:16:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38047584757
+claimed_at: 2026-10-10T11:16:28.927Z
 decision: null
 decision_answer: null
 ---
