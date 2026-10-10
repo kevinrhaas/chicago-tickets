@@ -1,7 +1,7 @@
 ---
 id: T-2159
 title: Draft the 18th-20th Prairie block around Glessner: a serviceable kit-built house on every frontage, and the draft builder the other blocks reuse
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-08
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2327 — its drafts take their footprints from the reconciled Sanborn polygons, which are not digitised yet (T-1841's census: 'Footprints are not digitized'); T-2327 digitises sheet 28's
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -73,3 +73,5 @@ A draft does **not** do bespoke carving, full-resolution photo matching, measure
 **Dependencies:** [T-1841](../T-1750-1999/T-1841-reconcile-sheet-28-building-entities-for-1904.md); [T-1843](../T-1750-1999/T-1843-metric-asset-contract-and-glessner-comparison-sl.md); [T-1844](../T-1750-1999/T-1844-stone-mortar-and-dressed-masonry-materials.md); [T-1845](../T-1750-1999/T-1845-pressed-common-and-rough-brick-materials.md); [T-1846](../T-1750-1999/T-1846-period-roof-coverings-and-drainage.md); [T-1847](../T-1750-1999/T-1847-mansard-hip-gable-and-tower-roof-construction.md); [T-1848](../T-1750-1999/T-1848-windows-glazing-and-visible-interior-depth.md); [T-1849](../T-1750-1999/T-1849-entrances-stoops-porches-and-carriage-doors.md); [T-1850](../T-1750-1999/T-1850-bays-oriels-and-towers.md); [T-1851](../T-1750-1999/T-1851-carved-entrances-and-classical-or-gothic-trim.md); [T-1852](../T-1750-1999/T-1852-cornices-parapets-dormer-faces-and-cresting.md); [T-1853](../T-1750-1999/T-1853-ironwork-gates-canopies-and-boundary-walls.md); [T-1854](../T-1750-1999/T-1854-coach-houses-stable-fittings-and-service-wings.md); [T-1855](../T-1750-1999/T-1855-conservatory-and-greenhouse-assemblies.md); [T-1856](../T-1750-1999/T-1856-age-surface-variation-and-ground-contact.md); [T-1857](../T-1750-1999/T-1857-chimneys-flues-and-roof-service-details.md); [T-1858](../T-1750-1999/T-1858-frame-cladding-and-exterior-timber-construction.md)
 
 **Refined later by** (each now depends on this ticket and refines its draft in place): [T-1882](../T-1750-1999/T-1882-build-1808-keith-field-neighbour-of-glessner-env.md); [T-1883](../T-1750-1999/T-1883-finish-1808-keith-field-neighbour-of-glessner-ar.md); [T-1884](../T-1750-1999/T-1884-build-1812-wheeler-shaped-gable-house-envelope.md); [T-1885](../T-1750-1999/T-1885-finish-1812-wheeler-shaped-gable-house-architect.md); [T-1886](../T-1750-1999/T-1886-build-1816-henderson-mansard-house.md); [T-1887](../T-1750-1999/T-1887-build-1824-marsh-altered-front-and-1828-neighbou.md); [T-1888](../T-1750-1999/T-1888-build-1834-jones-post-1886-mansard.md); [T-1889](../T-1750-1999/T-1889-build-1801-kimball-corner-mansion-envelope.md); [T-1890](../T-1750-1999/T-1890-finish-1801-kimball-corner-mansion-architecture.md); [T-1891](../T-1750-1999/T-1891-build-1811-coleman-ames-romanesque-house-envelop.md); [T-1892](../T-1750-1999/T-1892-finish-1811-coleman-ames-romanesque-house-archit.md); [T-1893](../T-1750-1999/T-1893-build-1815-sears-meeker-altered-house.md); [T-1894](../T-1750-1999/T-1894-build-1823-dent-house.md); [T-1895](../T-1750-1999/T-1895-build-1827-doane-twin-tower-mansion-envelope.md); [T-1896](../T-1750-1999/T-1896-finish-1827-doane-twin-tower-mansion-architectur.md); [T-1897](../T-1750-1999/T-1897-build-1900-elbridge-keith-corner-house.md); [T-1898](../T-1750-1999/T-1898-build-1906-edson-keith-and-attached-1908.md); [T-1899](../T-1750-1999/T-1899-build-1912-moulton-lowden-chateauesque-house-env.md); [T-1900](../T-1750-1999/T-1900-finish-1912-moulton-lowden-chateauesque-house-ar.md); [T-1901](../T-1750-1999/T-1901-build-1916-1930-identity-and-1936-allerton-estat.md); [T-1902](../T-1750-1999/T-1902-finish-1916-1930-identity-and-1936-allerton-esta.md); [T-1903](../T-1750-1999/T-1903-build-1901-ream-post-fire-house.md); [T-1904](../T-1750-1999/T-1904-build-1905-marshall-field-sr-mansion-envelope.md); [T-1905](../T-1750-1999/T-1905-finish-1905-marshall-field-sr-mansion-architectu.md); [T-1906](../T-1750-1999/T-1906-build-1919-field-jr-post-1902-enlargement-envelo.md); [T-1907](../T-1750-1999/T-1907-finish-1919-field-jr-post-1902-enlargement-archi.md); [T-1908](../T-1750-1999/T-1908-build-1923-kellogg-and-1945-armour-corwith-corne.md); [T-1935](../T-1750-1999/T-1935-build-west-1800-1900-service-buildings-and-gless.md); [T-1936](../T-1750-1999/T-1936-build-east-1800-1900-service-buildings.md)
+
+**Unblocked 2026-10-10:** T-2327 merged (PR #665); this took its place in the queue. The block read: T-2327 — its drafts take their footprints from the reconciled Sanborn polygons, which are not digitised yet (T-1841's census: 'Footprints are not digitized'); T-2327 digitises sheet 28's
