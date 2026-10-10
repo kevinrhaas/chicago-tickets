@@ -1,7 +1,7 @@
 ---
 id: T-1788
 title: Give Chicago 4D a reusable browser human actor: skeletal animation, morphs, LODs and interaction hooks
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-10-10
 pr: 669
 claimed_by: run 10/10/2026, 4:51:27 PM CT
 blocked_on: T-1787
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T23:04:08Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38088941886
 claimed_at: 2026-10-10T21:51:27.424Z
 decision: null
