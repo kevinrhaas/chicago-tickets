@@ -1,7 +1,7 @@
 ---
 id: T-2265
 title: K01 contract: declare the Prairie 1904 metric component contract (grade, sill and storey datums; family parameters; sockets; material slots; stable component IDs; deterministic seeds; source and confidence attributes) with a gate in check.sh, and measure the canonical Glessner asset against it: scale drift, hidden origin offset, duplicated boundary faces, baseline hashes, full and light mesh and texture costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1843
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 603
 claimed_by: run 10/9/2026, 6:41:27 PM CT
 blocked_on: null
 needs_bake: false
