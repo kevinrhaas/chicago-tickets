@@ -1,7 +1,7 @@
 ---
 id: T-2312
 title: K15 chimney kit: brick and dressed-stone stacks, corbelled caps, documented clay pots, grouped flues, a cricket and stepped flashing as metric parametric components in data — shaft width and height, corbel courses, cap projection, flue opening, pot profile, roof penetration, flashing steps and soot direction — with a generator that seats each stack on a K05 roof plane with a closed roof junction and dark recessed flues, an ordinary service stack and a carved Sherman-type stack compared side by side, a reduced tier that keeps location and height, studied in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1857
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 651
 claimed_by: run 10/10/2026, 6:09:44 AM CT
 blocked_on: null
 needs_bake: false
