@@ -35,7 +35,6 @@ T-2323 — K16 on a named target: the timber fabric of 1638 Shortall-Gregory's G
 T-2329 — Draft the 18th-20th Prairie block's west side and the reusable draft builder: every west frontage and its rear buildings as a kit-built draft, Glessner untouched
 T-2330 — Draft the 18th-20th Prairie block's east side with the draft builder: every east frontage and its rear buildings, so 1801 and 1811 read distinct from 1808 and 1812 at the landing
 T-2160 — Draft the 16th-18th Prairie block with the draft builder: every frontage and its rear service buildings
-T-2328 — Digitise sheet 20's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 16th to 18th, the input T-2160's draft reads
 T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
