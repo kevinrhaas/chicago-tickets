@@ -1,7 +1,7 @@
 ---
 id: T-2318
 title: K11 ironwork kit: cast and wrought iron fence panels with spear and scroll pickets, posts and stone piers with caps and urns, a hinged entry gate with its swing and hardware, an area grille, a stair rail, an iron-and-glass entrance canopy and brick and stone boundary walls with copings as metric parametric components in data — panel rhythm, picket section and spacing, rail joint, gate swing and hinge, pier and wall cap, urn, canopy rib — with a generator that builds each as real geometry seated on grade with no floating rail and no wire shimmer at walking distance, an iron fence-and-gate run and a boundary wall with piers compared side by side, studied at 2-5 m and walking distance in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1853
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 656
 claimed_by: run 10/10/2026, 9:25:49 AM CT
 blocked_on: null
 needs_bake: false
