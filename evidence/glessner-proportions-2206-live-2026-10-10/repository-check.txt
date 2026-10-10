@@ -1,0 +1,4 @@
+
+CHECK PASS — 806 steps, none red.
+  330 of them are self-tests that prove a gate by breaking it; their
+  assertions fire on purpose and every line of it is prefixed 'self-test |'.

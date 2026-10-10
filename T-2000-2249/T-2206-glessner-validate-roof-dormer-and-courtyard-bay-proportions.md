@@ -90,3 +90,15 @@ proportions audit. Both tickets remain on their manual holds.
 > Take 2206 next
 
 Only this ticket is released. T-2205 merged to dev in PR #601; all other manual holds remain. Audit the current assets with frozen T-2200 cameras and retain prior corrections unless a residual error is documented.
+
+## Completion — 2026-10-10 UTC
+
+T-2206 adds current-model measurements through all nine frozen T-2200 cameras and a 15-row roof/dormer/courtyard-bay dimension, source-confidence and disposition table. All 87 original photo picks and camera fits are retained. The page checks the exact loaded asset against the selected measurement record, keeps the historical baseline available, and refuses stale-asset verification.
+
+No geometry was changed: HABS section/elevation differences do not establish which roof dimension should move. The approximately 3-ft main-roof rise and 2–3-ft stair-turret rise disagreements remain explicitly unresolved. The current west ridge, dormer hoods, dining hip, raised glazing and projecting eave are retained. The reviewer description correctly reports the existing dining-bay outline projection as 9.90 ft. The northeast copper fold remains assigned to T-2220 and held. No other manual ticket was released.
+
+Validation covers current audit reproduction, six camera-behavior tests, 3,000 existing roof-envelope rays, all nine comparisons on desktop/mobile, Full/Light hashes, stale-hash refusal, source pixels/rights, projection consistency, responsive layout and the actual house-card link. Applicable stage-12 published smoke passed 200 checks with no failures or page errors; this is not the entire fourteen-stage smoke. Repository and live-deployment receipts are linked below.
+
+[Live audit](https://chicago.polecat.live/4d/dev/walk/glessner-baseline.html#proportion-audit) · [Research dossier and before/after evidence](https://github.com/kevinrhaas/chicago/blob/dev/chicago/4d/docs/RESEARCH/glessner-proportions-2206/README.md). T-2228 remains responsible for final photographic sign-off; this audit is not photographic acceptance.
+
+Merged to dev in [PR #604](https://github.com/kevinrhaas/chicago/pull/604), revision `04d9e55d`. [Final local/CI/deployment receipts and live desktop/mobile screenshots](../evidence/glessner-proportions-2206-live-2026-10-10/README.md).

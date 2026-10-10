@@ -1,0 +1,24 @@
+{
+  "ticket": "T-2206",
+  "pr": 604,
+  "branch_head": "ba2ab5f4c0fe763aa8488670905406c4cd2f921c",
+  "dev_integrated": "9e0682cb66ebe916199612ede8d1806eb0ba3e2e",
+  "repository_preflight": "PASS",
+  "steps": 806,
+  "self_tests": 330,
+  "camera_tests": 6,
+  "roof_envelope_rays": 3000,
+  "published_comparison_views_per_viewport": 9,
+  "published_viewports": [
+    "1280x800",
+    "390x780"
+  ],
+  "staged_smoke_checks": 200,
+  "staged_smoke_failures": 0,
+  "stage": 12,
+  "limitations": "Stage-12 browser smoke predates the inherited 1835 integrations; final local comparison-page probe followed the first integration. This is not the fourteen-stage smoke. Live verification is recorded separately after deployment.",
+  "geometry_changed": false,
+  "merge_commit": "04d9e55dc5c026f7bd74e06337970bfa94180a8e",
+  "reviewed_and_merged_tree": "658f2781cfbcd501f8ac46aa24c7fc8a4edaebc8",
+  "merged_tree_identical_to_checked_pr": true
+}

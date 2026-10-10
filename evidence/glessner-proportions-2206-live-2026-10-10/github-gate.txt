@@ -1,0 +1,2 @@
+gate	Run the gate	2026-10-10T00:59:08.2918846Z CHECK PASS — 806 steps, none red.
+gate	Does this change carry a changelog entry?	2026-10-10T00:59:08.3338083Z changelog entry: present — 11 watched file(s) changed and changelog.js changed with them
