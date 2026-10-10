@@ -88,9 +88,13 @@ by hand after the merge, not through `done --pr`.
    (`cancel-in-progress: false`). A lane switched off is refused by `isDueAt` (schedule.mjs).
    `test-refill-kick.sh` in ci.yml gates every case, plus the cap staying equal to the job's
    `timeout-minutes`.
-4. Owed to T-2153. It needs a real cap cancel after the merge. Reading on 2026-10-08: none
-   yet in the 61 runs after the merge. The lane hit its weekly usage limit at 22:17Z on
-   2026-10-06 and could not run to the cap. The success path through the same step is
-   measured: 37523361307 → steward-focus 37537576369 → refill 37537597325, 13 s from kick to
-   start. T-2153 is blocked on the first cap cancel.
+4. Measured (T-2153, 2026-10-10). First cap cancel after #190: 37733398534 → steward-focus
+   37747883133 → refill 37747901580, 12 s from kick to refill. First kick through the
+   `cancelled` branch: 37807547340 → steward-focus 37827023727, which **dispatched nothing**
+   because the kicking job was still `in_progress` when the runs were listed (18:47:47Z
+   against 18:47:53Z). The cron refilled that slot 1 m 59 s after the kick (37827267592). Five
+   of the seven cap cancels refilled in 12–16 s and one in 3 m 24 s (its steward-focus run
+   queued). polecat-platform PR #192 (3ca1692) closes the race: the kick names its run as
+   `freed_run`, and the scheduler does not count that run as holding its slot. T-2153 has the
+   full table.
 

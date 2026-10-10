@@ -28,7 +28,6 @@ T-2284 — Retire the singular lives_at/works_at from the household records, sch
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
-T-2153 — Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the steward-focus run its kick dispatched within a minute
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
