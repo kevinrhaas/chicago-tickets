@@ -1,7 +1,7 @@
 ---
 id: T-2135
 title: The smoke's plant panel still asserts ten communities and 155 species, and dev has served eleven and 166 since #460 (T-2101's vacant-lot prairie): part 13 is red on dev at mobile, three checks
-state: open
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-05
 closed: null
-pr: null
+pr: 516
 claimed_by: null
 blocked_on: null
 needs_bake: false
@@ -36,3 +36,7 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 > dev's smoke part 13 is red at mobile on three plant-panel checks that every PR's --for-diff legs inherit
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Already closed on dev (found 2026-10-10)
+
+Two merged PRs did this ticket's work under other ids before anyone claimed it: #516 (T-2157) moved the plant-panel checks from 10/155 to 11/166, and #511 (T-2146) made them read the count off `data/flora/index.json` (`plantZones.length`, `plantSpecies`), so the next community cannot turn them red again. Dev's own record agrees: `dev-smoke-state.mjs ask --viewport mobile --stage 13` reads PASS on 2026-10-09T18:26Z. Closed on #516.
