@@ -1,0 +1,14 @@
+{
+  "glessner_house__as_built_1887.glb": {
+    "url": "https://chicago.polecat.live/4d/dev/data/gltf/glessner_house__as_built_1887.glb",
+    "bytes": 52071720,
+    "sha256": "4fcdfbf3997590111dc7da421ae9f80f44d0525b999e573ec61744578ed8a09b",
+    "matches_reviewed_asset": true
+  },
+  "glessner_house__as_built_1887.light.glb": {
+    "url": "https://chicago.polecat.live/4d/dev/data/gltf/glessner_house__as_built_1887.light.glb",
+    "bytes": 27014548,
+    "sha256": "df70b42550f418da47666a0cd3ab1dd031e1015f0aaf471b28e90d912dce4035",
+    "matches_reviewed_asset": true
+  }
+}

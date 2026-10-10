@@ -96,3 +96,7 @@ comparison masters were rebuilt and remain byte-for-byte unchanged.
 The independent copper fold stays held under T-2220. Live deployment verification
 will be recorded after merging to dev. The owner has selected T-2206 next;
 all other manual holds remain in place.
+
+## Live dev verification — 2026-10-10 UTC
+
+PR #601 merged at `145a1ddc` and is deployed. Desktop Full/mobile Light checks pass; both live GLBs match the reviewed hashes. [Screenshots, browser receipt and served hashes](../evidence/glessner-roof-details-2205-live-2026-10-10/README.md). Final integrated preflight passes all 806 steps.
