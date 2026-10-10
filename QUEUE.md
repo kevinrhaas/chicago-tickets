@@ -17,6 +17,7 @@
 # ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
 # ---    worked go to the top with the core 1835 loop and research tickets)
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
+#   ? T-2251 DECISION: The marriage leaf this ticket needs is on FamilySearch behind a login (the same book as the deposited baptisms, S3HT-DHG9-*). No run can fetch it. Will you, or someone with an account, deposit the leaf carrying the 1834 Murphy–Frauner entry? — (a) Yes: the owner deposits the leaf under chicago/reference/catholic-baptisms-1833-1835/, and a run then reads it and rules on the franchere cluster  (b) No: withdraw the ticket; the franchere cluster stays U1 with T-1554's reason (every printing sets only 'L.') — recommended: (a)
 T-2315 — The 1835 first-visit boot payload is back under its 13 MB budget — dev publishes 14.513 MB, so smoke (desktop, 1-2) is red on every PR
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)

@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 Deposit and read the marriage leaves of St Mary's register for the forename of the 1834 witness every printing sets as 'L. Franchere'.
@@ -29,3 +29,14 @@ Deposit and read the marriage leaves of St Mary's register for the forename of t
 **Also found, not yet a source here:** the 1833 petition of Chicago's Catholics to Bishop Rosati, as printed in the Review vol. 3 (January 1921, "First Catholics in and about Chicago", p. 231; archive.org `illinoiscatholic00illi_1`), lists 'Francherez, Louis 1' among heads of family. It names a Louis, not an L., so it does not decide the pair. Carding it is a separate question.
 
 **Acceptance:** the marriage leaf carrying the 1834 Murphy–Frauner entry is deposited and read; the witness's forename as written is recorded with its image locator; the `franchere` cluster is ruled on that reading (merge under C2 if the register writes Louis, distinct if it writes another forename, and stays U1 with the reason if the register itself writes only the initial).
+
+## Decision needed
+
+**Question:** The marriage leaf this ticket needs is on FamilySearch behind a login (the same book as the deposited baptisms, S3HT-DHG9-*). No run can fetch it. Will you, or someone with an account, deposit the leaf carrying the 1834 Murphy–Frauner entry?
+
+- (a) Yes: the owner deposits the leaf under chicago/reference/catholic-baptisms-1833-1835/, and a run then reads it and rules on the franchere cluster
+- (b) No: withdraw the ticket; the franchere cluster stays U1 with T-1554's reason (every printing sets only 'L.')
+
+**Recommendation:** (a) Yes: the owner deposits the leaf under chicago/reference/catholic-baptisms-1833-1835/, and a run then reads it and rules on the franchere cluster — It is the one reading that can decide the cluster, and depositing it is a person's action: the login wall is the only blocker, and runs keep stepping over it at the top of the queue
+
+**Asked:** 2026-10-10 by https://github.com/kevinrhaas/polecat-platform/actions/runs/38054512154. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
