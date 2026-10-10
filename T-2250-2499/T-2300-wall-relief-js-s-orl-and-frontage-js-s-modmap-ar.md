@@ -1,7 +1,7 @@
 ---
 id: T-2300
 title: wall-relief.js's orl and frontage.js's modMap are DataTextures (flipY false) sampled beside a flipY'd normal_gl Texture, so each 1835 wall and frontage tile's AO, roughness and grain is mirrored vertically against its relief
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 638
 claimed_by: run 10/10/2026, 3:13:49 AM CT
 blocked_on: null
 needs_bake: false
