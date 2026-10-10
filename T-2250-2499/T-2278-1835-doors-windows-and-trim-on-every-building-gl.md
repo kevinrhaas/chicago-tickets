@@ -1,7 +1,7 @@
 ---
 id: T-2278
 title: 1835 doors, windows and trim on every building: Glessner dark glass in glazed sash, panelled and batten doors, casings, sills and drip caps
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 615
 claimed_by: run 10/9/2026, 9:11:34 PM CT
 blocked_on: null
 needs_bake: true
