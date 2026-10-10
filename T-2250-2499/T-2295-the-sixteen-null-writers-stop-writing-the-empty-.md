@@ -1,7 +1,7 @@
 ---
 id: T-2295
 title: The sixteen null-writers stop writing the empty lives_at/works_at blocks, in the same PR that drops the keys from validate.py's required set (T-2284)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2272
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 1:29:35 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38030916383
+claimed_at: 2026-10-10T06:29:35.336Z
 decision: null
 decision_answer: null
 ---
