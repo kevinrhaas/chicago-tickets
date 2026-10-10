@@ -1,7 +1,7 @@
 ---
 id: T-1846
 title: Period roof coverings and drainage
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 12:02:04 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38025801768
+claimed_at: 2026-10-10T05:02:05.170Z
 decision: null
 decision_answer: null
 ---
