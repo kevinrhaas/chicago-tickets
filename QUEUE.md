@@ -168,8 +168,6 @@
 #     waits: the first steward-improve run cancelled at its 150-minute cap after polecat-platform#190 (2026-10-06T19:59:48Z): none in the 61 runs to 2026-10-08T04:04Z — the lane hit its weekly usage limit at 22:17Z and no run could reach the cap; the read is ~6 tool calls, see the ticket's 2026-10-08 reading
 # BLOCKED-TECH T-2023 (opened 2026-10-03, META) — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house…
 #     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
-# BLOCKED-TECH T-2272 (opened 2026-10-09, META) — The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
-#     waits: the readers (T-2275, T-2276, T-2277) and the retirement (T-2274): validate.py's RESIDENT_HOUSEHOLD_KEYS requires lives_at/works_at on every household record (validate.py 5116/5788), and each writer's --check in check.sh re-derives committed records byte for byte, so a writer that stops writing the pair fails validation or its own --check unless the 1459 records lose the pair in the same commit — which is T-2274, and which 70 hard reads across tools/ (compile_scene, compile_businesses, enclosure_owners and the T-2273 census) still forbid. Land the writers WITH T-2274, after the readers. Found by slice 4, 2026-10-10.
 #
 # --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
 T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
@@ -348,3 +346,4 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
 T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
 T-1953 — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
+T-2272 — The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at

@@ -1,7 +1,7 @@
 ---
 id: T-2272
 title: The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
-state: blocked-tech
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: the readers (T-2275, T-2276, T-2277) and the retirement (T-2274): validate.py's RESIDENT_HOUSEHOLD_KEYS requires lives_at/works_at on every household record (validate.py 5116/5788), and each writer's --check in check.sh re-derives committed records byte for byte, so a writer that stops writing the pair fails validation or its own --check unless the 1459 records lose the pair in the same commit — which is T-2274, and which 70 hard reads across tools/ (compile_scene, compile_businesses, enclosure_owners and the T-2273 census) still forbid. Land the writers WITH T-2274, after the readers. Found by slice 4, 2026-10-10.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
