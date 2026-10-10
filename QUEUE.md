@@ -184,7 +184,6 @@ T-2277 — The index, cards and audits (rebuild_resident_index and the 7 readers
 T-2274 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 # Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
 # small and card-local, they do not move the city.
-T-1550 — Read the page for Charles Beaubien: is the St Mary's register's Charles the Charles H the voter lists and Fergus 1839 carry, or a second Beaubien of that forename
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 T-2255 — The off-plat deal seats 55 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
