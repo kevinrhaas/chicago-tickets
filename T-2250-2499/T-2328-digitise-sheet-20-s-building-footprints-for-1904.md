@@ -1,7 +1,7 @@
 ---
 id: T-2328
 title: Digitise sheet 20's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 16th to 18th, the input T-2160's draft reads
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 667
 claimed_by: run 10/10/2026, 4:03:00 PM CT
 blocked_on: null
 needs_bake: false
