@@ -1,7 +1,7 @@
 ---
 id: T-2286
 title: The North and West family_dwelling orders still owe 10 households (North 1, West 9) once all 23 waiting families are spent: no held head, waiting family or household beyond the index is left in either division to fill them
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2279
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 12:29:40 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38027458922
+claimed_at: 2026-10-10T05:29:40.412Z
 decision: null
 decision_answer: null
 ---
