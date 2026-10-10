@@ -44,3 +44,16 @@ roof — it owes it with the platted deal's `refused_by` reason, using the same 
 and the roof goes on to the next row of its clause order; an honesty assertion and a
 self-test fire when the refusal is dropped; L271 restates the count. State the blast radius
 (housing seats, held-head count, the order book's family_dwelling room) before taking it.
+
+## Note from T-2256 (2026-10-09, PR #600)
+
+The off-plat deal's letter-list seats are also counted as **held heads** by
+`tools/count_held_head_dwellings_1835.py`: 47 of the North's 86 counted family dwellings and 22 of
+the West's 78 are letter-list households on the `dealt` rung. Those 69 are the only reason the North
+and West read full, with 30 non-letter-list families past their orders. Once this ticket stops the
+off-plat deal seating them, those divisions fall short (North about 68 held against room for 86).
+T-2256's `waiting_families_ruling` in `build_order_book_1835.py` then discharges each short cell by its
+pro-rata share of the 23 families waiting on a roof (North 6, West 5). Whatever is left owes again
+under `FAMILY_HOUSEHOLD_OWNER` (T-2256, done once #600 merges), so the work-order gate (T-1420) will
+name it on this ticket's PR. **State that blast radius before taking this, and name a live owner for the
+reopened family rows in the same PR.**
