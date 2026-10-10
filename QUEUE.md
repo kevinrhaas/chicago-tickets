@@ -1,187 +1,39 @@
-# QUEUE — top is next. The parser reads only T-NNNN lines; ticket files hold evidence and acceptance.
-# The owner sets the order. Work top-down, skipping a blocked ticket or a LIVE claim. A claim
-# past the 3h run window is a dead run: `list --workable` prints it TAKEABLE and `claim` steals it.
-# Add findings to an existing ticket first. Put new one-run work beside its dependency;
-# add new research readings to RESEARCH COMPLETION so the spend band can drain.
-# Split multi-run epics into bounded tickets when reached; do not create a refill at the top.
-# Research spend: fix identity/date/mint gates before deriving cards. THE LETTER-LIST
-# RULING IS MADE (owner, 2026-09-18: option (c) on T-0660) — refusals 7 and 8 are
-# mint-time rules and do not un-mint a standing record; nothing is retired, rank() is
-# unchanged, and the pass SAYS a collision instead of acting on it. T-1144 is no longer
-# waiting on anything and is the queue's second row; the line that told runs to skip it
-# is gone with this. T-0691 shrinks to wiring its --check into check.sh.
-# South Through Time: 1812 depiction follows AGENTS.md Indigenous-history review;
-# ship no human figures. T-0469/T-0470/T-0471 depend on T-0468; T-0472 on T-0470.
-# Prairie Avenue: T-0474 follows T-0473; T-0475/T-0477 follow T-0474;
-# T-0476 follows T-0475. Respect needs_bake and other ticket-level blockers.
-# Completion: preserve explicit refusals and later/out-of-town evidence; zero
-# unclassified research does not mean forcing uncertain people or locations into 1835.
-# T-1027 is the one-letter identity epic; Newberry and 1840 deposit work follow
-# their lower resident yield. Read each ticket before splitting or claiming.
-# Reconstruction (owner, 2026-09-17): BAND 2 IS OPEN NOW — it reads the layer and writes
-# reports, models and an order book, and it needs no sign-off to do that. Bands 3-5 WRITE
-# reconstructed people, businesses and roofs, and those wait for T-1157 to say GO.
-#   The first cut gated 2-5 together, and it starved the top: band 1's rows were all in
-#   flight or self-blocked, so runs fell past 59 gated tickets into SOUTH THROUGH TIME and
-#   LOOP IMPROVEMENTS (T-0467, T-1154, 2026-09-17). A gate that empties the top of the
-#   queue sends the loop to the bottom of it.
-# Every reconstructed value carries tier, basis, seed and replaceable_by (T-1158); the order
-# book (T-1166) is the quota; docs/RESEARCH/1835_reconstruction_plan.md is the map.
-# Sub-bands (3A/3B/3C, 5A-5E) may be taken by different agents; within a sub-band, top first.
-# Build tickets in 5C are needs_bake and hand on a successor. Native, Métis and Black residents,
-# families and businesses ARE reconstructed (owner, 2026-09-17; T-1177), review_required, no figures.
-# Owner, 2026-09-17: THE CITY COMES FIRST. Bands 6 (arrival and jaunts) and 7 (south
-# through time) are PARKED BEHIND IT — jaunts first, then south through time. They were
-# numbered 5F-5J, which read as part of the 5A-5E structures programme and is why they
-# looked like city work; they are band 6 now so the ordering says what it means.
-#   AND A RUN MAY NOT FALL INTO THEM. While any row in bands 1-5 is workable, that row is
-# the work. If the top is gated or every row is in flight, the run SAYS SO and stops — it
-# does not walk down to bands 6–9. That fall-through is how T-0467 and T-1154 were
-# picked up out of the bottom of a 148-line queue on 2026-09-17 while the city waited.
-# TICKET BUDGET (T-1295, owner 2026-09-17: "I don't want too many tickets and not making
-# any progress"). `ticket.mjs new` REFUSES at 140 queue lines, and refuses a branch its
-# fourth new ticket. Override is `--anyway --why "<reason>"` and the reason is written into
-# the file. Filing is free and working is not — add a finding to the ticket it was found in
-# first, which is what the line above already asks for. `split` is exempt: it replaces a
-# ticket rather than adding one. An EPIC states its own cap in children (T-1236: three).
-# STANDING RULE (owner, 2026-09-25): A NEW TICKET GOES BELOW THE NEXT BUILD TICKET (5C) UNLESS dev's GATE IS RED.
-# Band 0 is for what blocks EVERY run — a red dev gate, a merge that cannot land — and nothing else. A finding
-# that only improves the loop goes to band 9; a new research reading goes below the first district builds.
-# "Put it beside its dependency" (--after) still applies, but never above T-1199 / the next 5C row for loop work.
-# STANDING RULE (owner, 2026-09-27): LOOP FOLLOW-UPS GO TO THE FOOT OF BAND 9, NOT BESIDE THE BUILD. A ticket a run files
-# while working — tooling, lap, bake and rederive faults, deal and seating refinements, measurement gaps — is filed
-# `--after` the LAST band-9 row. Two exceptions only, stated in the ticket's first line: (a) dev's gate is red, or
-# (b) the build ticket being worked, or the next 5C/5D row, cannot be finished without it — then it goes directly above
-# that row. Add a finding to the ticket being worked before filing anything. Owner: "move loop follow-ups to band 9".
-# --- TOP (owner, 2026-10-04): the town's ground reads as kept, lived-in ground, not wet prairie, and the town costs fewer
-# --- triangles for it. In order: the ground carried over the built town, the turf drawn cheaply with Scene detail,
-# --- every grass and land texture rebuilt the road's way (owner, same day), kept lots, then road shoulders, alleys,
-# --- frontages and paths. Trees and the prairie outside the town are kept.
-# Owner, 2026-10-04 17:18Z: "when you walk it is laggy now ... some focused effort on that" — lag first: T-2096 while moving, T-2099 in still frames (widened 17:26Z: "that lag is all over not just walking").
-
-# --- 0. BLOCKING THE QUEUE (owner, 2026-09-20). These rows are first because the loop
-# --- cannot judge its own work until they are done. THREE assertions have been standing
-# --- red on dev for days, and because they are red, smoke_budget reports every leg that
-# --- covers them as 'already red on dev' and runs skip it — so a real regression in those
-# --- parts would look exactly like the reds already there. The gate is not measuring.
-# --- Below them: the deadlock that needed hands on four PRs in one evening, and the two
-# --- derivation faults that cost cycles on every branch that re-derives.
-# --- The old note here described the terrain fossil on #1521/#1518, cleared 2026-09-19.
-# --- FOUR was the count until 2026-09-21, and it is THREE because T-1369 closed, not
-# --- because its leg went green: the fix landed on #1605 and is proved on dev by the
-# --- stage's own 25 rules and by the layer on disk, but desktop part 3 can no longer be
-# --- RUN inside the foreground ceiling — it is killed in the block before the assertion,
-# --- which has therefore been unevaluated since 2026-09-18. That is T-1501, directly below.
-# --- 2026-09-25 (owner): two derivation/lap faults every resident-layer branch pays for,
-# --- ahead of the re-family and seating work that is about to touch that layer.
-# Owner, 2026-10-02: dev's two smoke reds first — the river walk (mobile part 2) and the boot payload over 12 MB (desktop part 1). #258 and every baked PR wait on them.
-
-
-# --- 0B. UNBLOCKED — previously blocked tickets whose blockers have landed (owner, 2026-10-03: "move those up")
-# Visible builds first, then the lodging/resident layer they feed, then the one ruling. Each ticket's own
-# "Queue cleanup 2026-10-03" section names what landed. T-1953 stays blocked on T-1414 (band 8b).
-# Owner, 2026-10-03: T-2017 first. PR #329 (T-2012) cannot merge until its terrain is rebaked.
-
-# --- 1. RESEARCH SPEND — truth, safe derivation, roles, profiles, and locations
-# --- 2. 1835 TOWN ANALYSIS — the known population profiled, the town modelled, the order book (OPEN NOW)
-# --- 3A. RECONSTRUCT RESIDENTS — programme, then complete the known people (attributes, arrival, families, re-admissions)
-# --- 3B. RECONSTRUCT RESIDENTS — fill the model: trades, women and children, lodgers, garrison, cohorts, transients
-# --- 3C. RECONSTRUCT RESIDENTS — converge
-# --- 4. BUSINESSES — the authored layer and view, the audit, staffing model, five reconstruction groups, staff, converge
-
-# --- 5A. STRUCTURES — ground: north and west streets and alleys, terrain extent, the lot grid beyond the river
-# Owner, 2026-09-26: the river front's own bank first. He flew it against Wright and Hathaway, and T-1200 builds on this waterline.
-
-# --- 5B. STRUCTURES — seating: placement policy, roof programme re-derived, anonymous roofs redealt, everyone seated
-# Owner, 2026-09-25: the register's four R6 people come into the town BEFORE anyone is seated, so seating is dealt once.
-# Owner, 2026-09-25: the ten named-building corroborations are written onto the structure layer BEFORE seating, so seating adopts them.
-# Owner, 2026-09-25: the frame ceiling is read at the worst stand BEFORE the districts are built.
-# --- 5C. STRUCTURES — build, one district per run, baked, successor handed on (frame budget measured before every push)
-# --- AFTER THE FIRST THREE DISTRICTS (owner, 2026-09-25): the research readings, the staffing division axis and the
-# --- re-family end state come here, below T-1200..T-1202. They add evidence to buildings already documented or
-# --- settle accounting; none of them decides where a South Division building stands.
-# West Division ground (owner, 2026-09-25): moved here from 5A — they matter for the West builds below, not for the South districts above.
-# --- 5D. STRUCTURES — finish: fabric by household, plank walks, yards, signs, camps
-# Owner, 2026-09-30: photographic quality; T-1769 prepares the Glessner v4 methods and textures before T-1210–T-1213 can close.
-# Owner, 2026-09-30: full dirt streets, working river ramps, grey sand-to-prairie transitions and worn owner-varied plank colours; consume T-1769, coordinate T-1211.
-# --- 5E. STRUCTURES — converge: every person housed, every business roofed, the town complete
-# Arrival/jaunts: read docs/ARRIVAL-JAUNTS-EXECUTION.md; honor ticket dependencies.
-# Finish each subsection; unavoidable successors stay beside their dependency, not at the tail.
-# --- 6A. ARRIVAL AND SOURCES — measured loading, time rollback, source library, free start
-# --- 6B. JAUNTS ENGINE — content contract, navigation, travel, choices, history and menu
-# --- 6C. PRIORITY JAUNTS — six short stories, fully authored and playable
-# --- 6D. EVERYDAY JAUNTS — nineteen additional outings in five bounded content batches
-# --- 6E. ARRIVAL AND JAUNTS COMPLETE — content convergence and published mobile acceptance
-# --- 7. SOUTH THROUGH TIME — Prairie Avenue 1904 first (owner, 2026-09-26, with Glessner House), then Fort Dearborn and 1812
-# --- 2026-09-28 (owner): in render order — ground and the 1904 landing (T-1250..T-1252), structure versions by URL (T-1727), streets then their materials (T-0474, T-1728), the Glessner House and its compared versions (T-1729, T-1730), then the rest of the district.
-# RESUMED — owner, 2026-10-01: Go; enqueue the complete T-1837 implementation programme as one group below the existing queue. Legacy umbrellas remain references; work the 110 child tickets at the bottom.
-# UMBRELLA T-0475 — Build the 1904 Prairie Avenue landmark mansion core — execution delegated to T-1837 children below
-# UMBRELLA T-0476 — Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings — execution delegated to T-1837 children below
-# UMBRELLA T-0477 — Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture — execution delegated to T-1837 children below
-# Architectural decomposition: T-1837; T-1840..T-1949 are open in one dependency-ordered group at the bottom. See evidence/T-1837-prairie-1904-architectural-study/README.md.
-# DRAFT PASS FIRST (owner, 2026-10-08): after the reconciliations and shared components (T-1840..T-1858), five tickets T-2159..T-2163 draft the whole district; every per-building ticket refines that draft and depends on it. No new per-building tickets.
-# --- 8. UNREAL DELIVERY — repeatable native builds, web parity, then streaming
-# Programme: T-1356; docs/unreal/README.md. Owner-ranked here on 2026-09-18.
-# Remote-workable preparation (still subject to the city-first ordering above):
-# LOCAL / QUALIFIED UNREAL ONLY — NOT WORKABLE BY THE REMOTE WEB WORKER.
-# HOLD references below are comments, not claimable queue entries. Tickets are blocked-tech.
-# HOLD T-1472 — on-demand latest-validated Mac build/release; qualified Mac + release access.
-# HOLD T-1473 — sinking buildings/terrain contact; qualified Unreal + matched web/source views.
-# HOLD T-1358 — after T-1357 and current Unreal/GPU capability receipt.
-# HOLD T-1360 — after T-0252, T-1357, T-1358; Unreal visual/collision receipt required.
-# HOLD T-1474 — flora corridor; after shared exports/import and placement, Unreal visual/performance proof.
-# HOLD T-1475 — map/search/place inspection; runtime provenance and Unreal input/route validation.
-# HOLD T-1359 — streaming corruption; affected Mac/Unreal/browser access, after native priorities.
-# HOLD T-1361 — after T-1358/T-1359, approved licensed build runner, GPU host, budget and credentials.
-# Coordinator: unblock only when all dependencies AND current executor capability are proven;
-# immediately assign/claim on that eligible executor; otherwise retain blocked-tech.
-# Return unblocked work to this band in the displayed order; do not leave local work open
-# for the general loop. The held epic is a tracker, never a claimable task.
-# --- 8b. BLOCKED AND WAITING — every ticket that is not workable and not finished
+# QUEUE — top is next. The parser reads only uncommented T-NNNN lines; ticket files hold evidence and acceptance.
+# The owner sets the order; every re-rank is logged in QUEUE_ORDER.md. Work top-down, skipping a blocked ticket or a
+# LIVE claim (a claim past the 3h run window is a dead run, and `claim` takes it). Read each ticket before you claim it.
 #
-# WHY THIS BAND EXISTS (T-1518). A ticket in `blocked-owner` or `blocked-tech` is
-# deliberately outside the workable set — ticket.mjs excludes both states from
-# `list --workable`, and QUEUE.md carries the workable states. The consequence was
-# never decided: they fell out of this file entirely. Measured 2026-09-21 on dev:
-# NINETEEN live tickets appeared in no band at all, thirteen of them waiting on an
-# owner ruling, the oldest opened 2026-08-21 and unseen for a month. The one class
-# of ticket that most needs the owner's eyes was the one class the owner could not
-# see, which is the fault this band ends.
-#
-# THE LINES ARE COMMENTED ON PURPOSE, exactly as band 8's HOLD list is. The parser
-# reads only uncommented T-NNNN lines, so nothing here is offered as work — a
-# blocked ticket is visible and still not claimable, which is the whole point.
-# `ticket.mjs check` refuses a blocked ticket that is missing from this band, so it
-# cannot silently re-accumulate: that gate is what makes this durable rather than
-# a snapshot somebody tidied once.
-#
-# WAITING ON AN OWNER RULING — each names the question it waits on in its own
-# `blocked_on`; the one-liners here are the ask, not the ticket.
-#
-# BLOCKED ON TOOLING OR ANOTHER TICKET — no owner decision is wanted; each waits on
-# a capability or a sibling, and unblocks without a ruling when that arrives.
-# 2026-10-03 (owner-directed scan): T-0192, T-0193, T-0386, T-1171, T-1205, T-1414, T-1524, T-1529, T-1532, T-1536, T-1538 unblocked
-#     and moved to band 0B; T-0841 and T-1530 withdrawn (their work landed); T-1566 merged into T-1532.
-# BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
-#     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
-# BLOCKED-TECH T-2023 (opened 2026-10-03, META) — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house…
-#     waits: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
-#
-# --- 9. LOOP IMPROVEMENTS — scene budgets, gates, build cost, and rendering
+# STANDING RULES
+# - Add a finding to the ticket it was found in before filing a new one. `ticket.mjs new` refuses at 140 queue lines
+#   (T-1295) unless `--anyway --why "<reason>"`.
+# - Loop follow-ups (tooling, lap, bake and rederive faults, deal and seating refinements, measurement gaps) go to the
+#   foot of band 9 (owner, 2026-09-27), unless dev's gate is red or the build in hand cannot finish without them.
+# - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
+# - No human figure is drawn. Native, Metis and Black residents, families and businesses are reconstructed in the data
+#   layer, review_required (AGENTS.md, standing constraint). Respect needs_bake and every ticket-level blocker.
+# - Below the 1835 work: Prairie Avenue 1904 (band 7), then the portable humans (8C). The Glessner photographic-finish
+#   group and the Unreal holds are commented out and taken by hand only.
+
+# --- 1. THE 1835 TOWN — the owed roofs raised, households seated and dealt, signs and cards a visitor reads, the
+# ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
+# ---    worked go to the top with the core 1835 loop and research tickets)
 T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
-#   ? T-1957 DECISION: The 668-roof schedule still deals 8 roofs (D2, D4, D5, D6, F3, F4 and these two H3 boarding houses) onto blk_south_water_market, the Market-and-South-Water wedge your 2026-08-29 closure ruling could not cut: the ground leaves 2.8 m of block depth at Market against a 24.4 m lot, so the block stays 'gated' and T-1957, T-2175 and T-2182 all wait on it. What should happen to those 8 roofs? — (a) Re-deal them onto the School Section's Madison–Monroe tier, extending your 2026-10-05 ruling on T-1755 (b) from the 40 dwellings to the wedge's 8 roofs  (b) Build on the wedge's eastern two-thirds only: cut reconstructed lots where the block has depth (about 5 of its 8 lots) and re-deal the rest, recorded in LIBERTIES  (c) Return them: cut the South's targets by these 8 and re-close the order book (folds into T-1983) — recommended: (b)
-# --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
-T-2283 — Business cards stop quoting the retiring works_at field: the twelve premises sentences name the keeper and the building their dated work place reads, in words
-T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
-# Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
-# small and card-local, they do not move the city.
-T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
-T-2255 — The off-plat deal seats 55 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
-T-2279 — The North and West family_dwelling orders owe 12 households again (North 2, West 10): T-2255 took the off-plat roofs from letter-list households, so the held heads under North and West dwellings fall 8 and 15 short of the order, the families waiting on a roof discharge 6 and 5, and T-2256, which owned the rows, is done
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
+T-1953 — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
+T-2255 — The off-plat deal seats 69 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
+T-2279 — The North and West family_dwelling orders owe 12 households again (North 2, West 10): T-2255 took the off-plat roofs from letter-list households, so the held heads under North and West dwellings fall 8 and 15 short of the order, the families waiting on a roof discharge 6 and 5, and T-2256, which owned the rows, is done
+T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
+T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
+T-2283 — Business cards stop quoting the retiring works_at field: the twelve premises sentences name the keeper and the building their dated work place reads, in words
+T-2272 — The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
+T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
+T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 
-# --- PRAIRIE AVENUE 1904 — ARCHITECTURAL ASSET PROGRAMME (T-1837; 110 tickets)
+# --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
+T-2153 — Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the steward-focus run its kick dispatched within a minute
+
+# --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
+# Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
 # Owner, 2026-10-01: “Go”; “Push the tickets to dev queue in one group below”.
 # One contiguous group below all existing work. Dependencies first; individual dependency and needs_bake gates remain in each ticket.
 # Owner, 2026-10-08: "a controlled set of tickets to do an initial pass of the whole district ... then the tickets later for each building can refine
@@ -341,8 +193,22 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # BLOCKED-OWNER T-2226 — Glessner: balance lighting, contact shadows and restrained surface aging [GA-24]
 # BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
 # BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
-T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
-T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
-T-1953 — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
-T-2272 — The 17 tools that mint or rewrite household records write associated_with rows instead of the singular lives_at/works_at
-T-2153 — Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the steward-focus run its kick dispatched within a minute
+
+# --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
+# Commented holds, never claimable. Unblock only when every dependency AND a capable executor are proven.
+# HOLD T-1472 — on-demand latest-validated Mac build/release; qualified Mac + release access.
+# HOLD T-1473 — sinking buildings/terrain contact; qualified Unreal + matched web/source views.
+# HOLD T-1358 — after T-1357 and current Unreal/GPU capability receipt.
+# HOLD T-1360 — after T-0252, T-1357, T-1358; Unreal visual/collision receipt required.
+# HOLD T-1474 — flora corridor; after shared exports/import and placement, Unreal visual/performance proof.
+# HOLD T-1475 — map/search/place inspection; runtime provenance and Unreal input/route validation.
+# HOLD T-1359 — streaming corruption; affected Mac/Unreal/browser access, after native priorities.
+# HOLD T-1361 — after T-1358/T-1359, approved licensed build runner, GPU host, budget and credentials.
+
+# --- 8b. BLOCKED AND WAITING — every ticket that is not workable and not finished
+# Commented on purpose: visible to the owner, never claimable. `ticket.mjs block` writes these lines and `check`
+# refuses a blocked ticket that is missing from this band (T-1518, T-1541).
+# BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
+#     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
+# BLOCKED-TECH T-2023 (opened 2026-10-03, META) — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house…
+#     waits: T-1953, unblocked 2026-10-10 and now in band 1. The 7 West adults need a West lodging roof and T-1953 is the only ticket that raises one; the 24 unordered beds ride with those roofs. Re-check when T-1953 merges.

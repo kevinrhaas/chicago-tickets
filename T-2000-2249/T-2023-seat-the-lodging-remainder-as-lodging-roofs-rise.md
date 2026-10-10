@@ -12,7 +12,7 @@ opened: 2026-10-03
 closed: null
 pr: null
 claimed_by: run 10/8/2026, 12:37:12 PM CT
-blocked_on: T-1953 — the 7 West adults need a West lodging roof and T-1953 (blocked on T-1414) is the only ticket that raises one; the division axis prices an empty purse (0 slots outstanding) and the 24 unordered beds ride with those roofs. Re-measured 2026-10-08, see the ticket.
+blocked_on: T-1953, unblocked 2026-10-10 and now in band 1. The 7 West adults need a West lodging roof and T-1953 is the only ticket that raises one; the 24 unordered beds ride with those roofs. Re-check when T-1953 merges.
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37817443904
