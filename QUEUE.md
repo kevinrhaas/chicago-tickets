@@ -38,6 +38,7 @@ T-2288 — K02 stone library: rock-faced granite, brown sandstone, Lemont and Be
 T-2289 — K02 on the 1808 exemplar: rusticated base, coursed ashlar, corner bonds, voussoirs, coping and chipped edges built from the stone library, baked and verified at both viewports with costs
 T-2290 — K03 brick library: red pressed face brick, buff common service brick, dark fired and clinker headers and the Mayer house's rough red-brown brick as metric PBR fabrics, with bond, special and mortar-joint profiles as data, studied in raking and diffuse light
 T-2291 — K03 on a named target: a facade and service-wall comparison (pressed front against common-brick return and rear) built from the brick library with bonds, corner returns, soldier and segmental heads, string course and soot/damp mask, baked and verified at both viewports with costs
+T-2296 — The 1904 street-surface library's normal_gl maps are DirectX-handed: generate_prairie_1904_pbr.py writes (-dh/dx, -dh/drow, 1), so green is inverted on every street the renderer binds
 T-2293 — K04 on the 1808 exemplar: slate courses with cut edges, hip and ridge caps, valley flashing, a dormer apron, gutters on brackets, outlets, downpipes and shoes ending at ground, built from the roof library, baked and verified at both viewports with costs
 T-1847 — Mansard, hip, gable and tower roof construction
 T-1848 — Windows, glazing and visible interior depth
