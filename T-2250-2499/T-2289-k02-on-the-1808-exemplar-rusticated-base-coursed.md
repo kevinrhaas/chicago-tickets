@@ -1,7 +1,7 @@
 ---
 id: T-2289
 title: K02 on the 1808 exemplar: rusticated base, coursed ashlar, corner bonds, voussoirs, coping and chipped edges built from the stone library, baked and verified at both viewports with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1844
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 2:10:42 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38033313316
+claimed_at: 2026-10-10T07:10:42.564Z
 decision: null
 decision_answer: null
 ---
