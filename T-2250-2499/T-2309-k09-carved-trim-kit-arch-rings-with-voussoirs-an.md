@@ -1,7 +1,7 @@
 ---
 id: T-2309
 title: K09 carved-trim kit: arch rings with voussoirs and keystones, swept mouldings, lintels and hoods, colonnettes with bases and capitals, Gothic tracery with crockets and bounded foliate relief panels as metric parametric components in data — arch radius and rise, reveal, column order, capital profile, leaf relief depth, panel depth and repeat or unique motif — with a generator that builds each as real relief geometry (no texture panel), a bespoke hero surround and a restrained rowhouse surround compared side by side, studied at 2-5 m in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1851
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 647
 claimed_by: run 10/10/2026, 4:48:07 AM CT
 blocked_on: null
 needs_bake: false
