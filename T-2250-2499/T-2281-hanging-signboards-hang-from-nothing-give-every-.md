@@ -1,7 +1,7 @@
 ---
 id: T-2281
 title: Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 616
 claimed_by: run 10/9/2026, 10:13:25 PM CT
 blocked_on: null
 needs_bake: false
