@@ -1,7 +1,7 @@
 ---
 id: T-2332
 title: Mobile smoke part 10 is red on dev: the near-walk flora arrival reading sees 0 arrivals and 0 plant-frames, and z09 sand prairie's butterfly weed is drawn nowhere
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 6:43:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38095866159
+claimed_at: 2026-10-10T23:43:57.116Z
 decision: null
 decision_answer: null
 ---
