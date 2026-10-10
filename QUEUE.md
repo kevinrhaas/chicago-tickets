@@ -20,7 +20,6 @@ T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boar
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
 T-2268 — The street line's two owed F3 river warehouses on the South Branch's east bank between Madison and Washington, off-plat beside Market Street, on the bank-landing clause (no South Water lot is free and the Dearborn reach takes no more)
 T-1953 — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
-T-2255 — The off-plat deal seats 69 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
 T-2279 — The North and West family_dwelling orders owe 12 households again (North 2, West 10): T-2255 took the off-plat roofs from letter-list households, so the held heads under North and West dwellings fall 8 and 15 short of the order, the families waiting on a roof discharge 6 and 5, and T-2256, which owned the rows, is done
 T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
 T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
