@@ -1,7 +1,7 @@
 ---
 id: T-2331
 title: The bake workflow's 10-13 smoke legs are red on dev: the 1904 front-door block reads data/traces/gcp and data/research from source, which the legs' sparse checkout (tools/ + SITE-BUDGET.md only) does not carry, so the part ends ENOENT; three sward arrival checks fail beside it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 670
 claimed_by: run 10/10/2026, 5:15:46 PM CT
 blocked_on: null
 needs_bake: false
