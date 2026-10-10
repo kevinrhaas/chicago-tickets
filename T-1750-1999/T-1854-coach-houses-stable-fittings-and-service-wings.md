@@ -1,7 +1,7 @@
 ---
 id: T-1854
 title: Coach houses, stable fittings and service wings
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-10
 pr: null
 claimed_by: run 10/10/2026, 9:27:45 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T14:28:07.798Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38058818508
 claimed_at: 2026-10-10T14:27:45.748Z
 decision: null
