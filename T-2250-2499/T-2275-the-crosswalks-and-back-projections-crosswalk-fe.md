@@ -1,7 +1,7 @@
 ---
 id: T-2275
 title: The crosswalks and back-projections (crosswalk_fergus_1839, crosswalk_fergus_1843, crosswalk_norris_1844, crosswalk_norris_1844_advertiser, back_project_addresses, back_project_residences) read a household's home and workplace from its associated_with rows instead of the singular lives_at/works_at
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2273
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 607
 claimed_by: run 10/9/2026, 8:49:31 PM CT
 blocked_on: null
 needs_bake: false
