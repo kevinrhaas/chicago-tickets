@@ -1,7 +1,7 @@
 ---
 id: T-2303
 title: K07 entrance kit: single and double panel doors, glazed and timber leaves, vestibules, deep arched entrances, carriage leaves with hardware, straight and curved stone stoops, porch floors and posts and basement stairs as metric parametric components in data — door leaf rails and stiles, lock and hinge, transom, threshold, tread and riser, cheek wall, handrail socket and porch skirt — with a generator that builds each as a real opening with jambs, reveal and lintel (no texture panel) and a stoop that meets grade and floor, studied at 2-5 m in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1849
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 642
 claimed_by: run 10/10/2026, 4:03:38 AM CT
 blocked_on: null
 needs_bake: false
