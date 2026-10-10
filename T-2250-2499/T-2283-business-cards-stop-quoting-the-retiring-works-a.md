@@ -1,7 +1,7 @@
 ---
 id: T-2283
 title: Business cards stop quoting the retiring works_at field: the twelve premises sentences name the keeper and the building their dated work place reads, in words
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2274
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 11:22:05 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38023497078
+claimed_at: 2026-10-10T04:22:05.031Z
 decision: null
 decision_answer: null
 ---
