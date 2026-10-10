@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 T-2254 — Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
-T-2295 — The sixteen null-writers stop writing the empty lives_at/works_at blocks, in the same PR that drops the keys from validate.py's required set (T-2284)
 T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 
