@@ -1,7 +1,7 @@
 ---
 id: T-2159
 title: Draft the 18th-20th Prairie block around Glessner: a serviceable kit-built house on every frontage, and the draft builder the other blocks reuse
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-08
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2327 — its drafts take their footprints from the reconciled Sanborn polygons, which are not digitised yet (T-1841's census: 'Footprints are not digitized'); T-2327 digitises sheet 28's
 needs_bake: true
 closed_at: null
 claimed_run: null
