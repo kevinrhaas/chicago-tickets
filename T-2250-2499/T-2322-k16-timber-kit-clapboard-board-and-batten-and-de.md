@@ -1,7 +1,7 @@
 ---
 id: T-2322
 title: K16 timber kit: clapboard, board-and-batten and decorative shingle walling, corner boards, water table, window casing, timber fascia and brackets, porch lattice and pierced Gothic bargeboard as metric parametric components in data — board exposure, thickness and lap, joint stagger, corner trim, bracket profile, lattice pitch, cutout depth — painted softwood kept apart from stained joinery and end grain, with a generator that builds a frame-wall and porch sample at real board scale on a timber wall of plausible thickness, every board lapped and every cutout cut through, built from the K01 contract and K06 casings, studied at 2-5 m in raking and diffuse light with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1858
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 12:56:57 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38073405225
+claimed_at: 2026-10-10T17:56:57.769Z
 decision: null
 decision_answer: null
 ---
