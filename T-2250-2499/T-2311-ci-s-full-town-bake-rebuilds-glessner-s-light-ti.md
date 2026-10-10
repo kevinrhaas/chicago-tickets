@@ -1,7 +1,7 @@
 ---
 id: T-2311
 title: CI's full-town bake rebuilds Glessner's light tier as bd1a614c67b3 while glessner_baseline.json and the committed package hold 8a51eea20569, so k01_contract fails and every PR's bake check reds (#631 x2, #632)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 4:58:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38042968262
+claimed_at: 2026-10-10T09:58:02.092Z
 decision: null
 decision_answer: null
 ---
