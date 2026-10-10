@@ -208,5 +208,4 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # refuses a blocked ticket that is missing from this band (T-1518, T-1541).
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
-# BLOCKED-TECH T-2023 (opened 2026-10-03, META) — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house…
-#     waits: T-1953, unblocked 2026-10-10 and now in band 1. The 7 West adults need a West lodging roof and T-1953 is the only ticket that raises one; the 24 unordered beds ride with those roofs. Re-check when T-1953 merges.
+T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically

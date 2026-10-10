@@ -1,7 +1,7 @@
 ---
 id: T-2023
 title: Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
-state: blocked-tech
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-03
 closed: null
 pr: null
 claimed_by: run 10/8/2026, 12:37:12 PM CT
-blocked_on: T-1953, unblocked 2026-10-10 and now in band 1. The 7 West adults need a West lodging roof and T-1953 is the only ticket that raises one; the 24 unordered beds ride with those roofs. Re-check when T-1953 merges.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37817443904
