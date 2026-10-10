@@ -1,7 +1,7 @@
 ---
 id: T-1853
 title: Ironwork, gates, canopies and boundary walls
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-10
 pr: null
 claimed_by: run 10/10/2026, 9:25:21 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T14:25:45.697Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38059227032
 claimed_at: 2026-10-10T14:25:21.201Z
 decision: null
