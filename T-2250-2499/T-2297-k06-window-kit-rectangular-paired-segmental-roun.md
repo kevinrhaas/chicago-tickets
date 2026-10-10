@@ -1,7 +1,7 @@
 ---
 id: T-2297
 title: K06 window kit: rectangular, paired, segmental, round and pointed heads, transoms and fanlights, basement lights, grouped attic lights and limited leaded lights as metric parametric components in data — reveal depth, sash rails and stiles, muntin patterns, sill drip, arch spring, glazing plane, blinds and curtain edges — with a generator that builds each as a real recessed opening (separate sash and glass over a dark enclosed backing), studied at 2-5 m in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1848
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 633
 claimed_by: run 10/10/2026, 1:38:26 AM CT
 blocked_on: null
 needs_bake: false
