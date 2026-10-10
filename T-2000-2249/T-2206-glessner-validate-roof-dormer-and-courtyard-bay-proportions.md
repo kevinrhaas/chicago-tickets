@@ -1,7 +1,7 @@
 ---
 id: T-2206
 title: Glessner: validate roof, dormer and courtyard-bay proportions before further reshaping
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 604
 claimed_by: interactive proportion audit 10/9/2026, 6:58:42 PM CT
 blocked_on: null
 needs_bake: false
