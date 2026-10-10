@@ -1,7 +1,7 @@
 ---
 id: T-2294
 title: The garrison writes its own home rows: the one minting tool whose lives_at value still reaches the card only through the copier (institutional and lodgers already write theirs)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2272
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 12:15:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38026587806
+claimed_at: 2026-10-10T05:15:24.986Z
 decision: null
 decision_answer: null
 ---
