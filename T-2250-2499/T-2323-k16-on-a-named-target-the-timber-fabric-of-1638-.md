@@ -1,7 +1,7 @@
 ---
 id: T-2323
 title: K16 on a named target: the timber fabric of 1638 Shortall-Gregory's Gothic front — bargeboards, pierced woodwork, cladding and trim built from the timber kit at their source-bounded profile, never masonry thickness or stone texture on a timber face, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2322 — the K16 timber kit it builds from is PR #664, not yet merged
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -34,3 +34,5 @@ When T-1858 was split (2026-10-10T17:56:49.874Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38073405225) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Unblocked 2026-10-10:** T-2322 merged (PR #664); this took its place in the queue. The block read: T-2322 — the K16 timber kit it builds from is PR #664, not yet merged
