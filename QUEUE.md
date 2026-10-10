@@ -352,3 +352,4 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
 # BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
 T-2278 — 1835 doors, windows and trim on every building: Glessner dark glass in glazed sash, panelled and batten doors, casings, sills and drip caps
+T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
