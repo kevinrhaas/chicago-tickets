@@ -1,7 +1,7 @@
 ---
 id: T-1852
 title: Cornices, parapets, dormer faces and cresting
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-10
 pr: null
 claimed_by: run 10/10/2026, 7:32:59 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T12:33:08.973Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38052136050
 claimed_at: 2026-10-10T12:33:00.043Z
 decision: null
