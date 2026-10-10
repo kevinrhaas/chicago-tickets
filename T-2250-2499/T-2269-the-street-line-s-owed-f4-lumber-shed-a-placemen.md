@@ -1,7 +1,7 @@
 ---
 id: T-2269
 title: The street line's owed F4 lumber shed: a placement clause for a lumber shed by the water (bank_landing admits F1-F3 only and the vocabulary cannot spell lumber_shed), then the roof
-state: claimed
+state: review
 epic: TOWN
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2175
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 605
 claimed_by: run 10/9/2026, 7:22:43 PM CT
 blocked_on: null
 needs_bake: false
