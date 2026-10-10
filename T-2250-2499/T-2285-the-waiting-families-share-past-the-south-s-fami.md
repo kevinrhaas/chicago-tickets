@@ -34,3 +34,9 @@ When T-2279 was split (2026-10-10T04:39:34.278Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38024434610) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** `waiting_families_ruling` spreads a share past its cell's shortfall on over
+the cells still short, pro rata on their targets, until it is spent or no cell is short; the
+committed book discharges all 23 waiting families (North 7, South 10, West 6), reads North 1
+and West 9 still owed, and names T-2286 as their owner; the self-test breaks the re-spread
+both ways (a full cell's share going nowhere, and a re-spread past a cell's shortfall).
