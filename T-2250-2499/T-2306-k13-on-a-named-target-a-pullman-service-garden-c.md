@@ -1,7 +1,7 @@
 ---
 id: T-2306
 title: K13 on a named target: a Pullman service-garden conservatory bay built from the conservatory kit, its site-specific shape authored, glazing and frame hierarchy legible with no stacked transparency and no interior plant scene, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1855
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 12:55:33 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38073415039
+claimed_at: 2026-10-10T17:55:33.777Z
 decision: null
 decision_answer: null
 ---
