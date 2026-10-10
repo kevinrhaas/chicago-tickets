@@ -1,7 +1,7 @@
 ---
 id: T-1857
 title: Chimneys, flues and roof service details
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-10
 pr: null
 claimed_by: run 10/10/2026, 6:09:36 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T11:09:40.512Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38047179604
 claimed_at: 2026-10-10T11:09:36.063Z
 decision: null
