@@ -1,7 +1,7 @@
 ---
 id: T-2296
 title: The 1904 street-surface library's normal_gl maps are DirectX-handed: generate_prairie_1904_pbr.py writes (-dh/dx, -dh/drow, 1), so green is inverted on every street the renderer binds
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 630
 claimed_by: run 10/10/2026, 1:29:54 AM CT
 blocked_on: null
 needs_bake: false
