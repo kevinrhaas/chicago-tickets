@@ -1,7 +1,7 @@
 ---
 id: T-2310
 title: K09 on a named target: carved entrance and window trim on a Prairie Avenue 1904 house built from the carved-trim kit, a documented landmark's distinctive carving kept distinct from the generic kit motifs, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1851
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 650
 claimed_by: run 10/10/2026, 6:16:28 AM CT
 blocked_on: null
 needs_bake: false
