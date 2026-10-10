@@ -1,7 +1,7 @@
 ---
 id: T-2314
 title: A full bake derives only the masters whose bytes moved, so the content build fits its 30-minute ceiling again
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 649
 claimed_by: run 10/10/2026, 6:36:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T14:26:55Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38048022741
 claimed_at: 2026-10-10T11:36:07.334Z
 decision: null
