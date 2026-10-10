@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2317
+blocked_on: T-2313 — one 1808 Prairie PR at a time (owner, 2026-10-10): the dormer face goes on after the chimneys land (chain T-2317 → T-2319 → T-2313 → T-2326)
 needs_bake: false
 closed_at: null
 claimed_run: null
