@@ -69,3 +69,7 @@ To read it: list `?status=cancelled&created=>=2026-10-06T19:59:48Z`, pull that r
 (`gh api --allow-escape-sequences …/actions/jobs/<id>/logs`), grep `kicking\|not kicking`.
 The line after the kick is the steward-focus run's URL. The refill is the next
 steward-improve run with the same `[k/N]` title. About 6 tool calls in all.
+
+## Queue cleanup 2026-10-10 (owner: "are there any other held tickets that can be cleared")
+
+Unblocked: the event this waited for has happened. polecat-platform `steward-improve.yml` runs **38005649772** (created 2026-10-09T23:41:27Z, cancelled at 2026-10-10T02:12:01Z) and **38008971882** (00:25:18Z, cancelled at 02:55:51Z) both ran about 150.5 minutes and were cancelled at the cap. Only the newest 60 completed runs were listed, so an earlier cap cancel after 2026-10-06T19:59:48Z may exist; find the first one, then the steward-focus run its kick dispatched.
