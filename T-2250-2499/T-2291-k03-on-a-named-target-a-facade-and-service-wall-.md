@@ -1,7 +1,7 @@
 ---
 id: T-2291
 title: K03 on a named target: a facade and service-wall comparison (pressed front against common-brick return and rear) built from the brick library with bonds, corner returns, soldier and segmental heads, string course and soot/damp mask, baked and verified at both viewports with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1845
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 632
 claimed_by: run 10/10/2026, 1:32:29 AM CT
 blocked_on: null
 needs_bake: false
