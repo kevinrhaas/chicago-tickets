@@ -1,7 +1,7 @@
 ---
 id: T-2304
 title: K07 on the 1808 exemplar: its entrance, stoop and carriage opening built from the entrance kit, touching grade and floor correctly and clearing the public walk, with walk-renderer accessibility kept, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1849
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 654
 claimed_by: run 10/10/2026, 8:18:17 AM CT
 blocked_on: null
 needs_bake: false
