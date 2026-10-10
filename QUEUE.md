@@ -17,7 +17,6 @@
 # ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
 # ---    worked go to the top with the core 1835 loop and research tickets)
 T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded South row is admitted by a clause that takes either, so T-2254 raised the block's four requested houses and left these two
-T-2284 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
