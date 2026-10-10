@@ -1,7 +1,7 @@
 ---
 id: T-2316
 title: K10 cornice, parapet and cresting kit: bracketed timber and pressed-metal cornices, dentil courses, friezes and a classical entablature, stone parapets with balustrades, urns and finials, a pediment and shaped gable copings, and iron roof cresting as metric parametric components in data — bracket spacing and projection, soffit depth, dentil size and pitch, coping section, baluster profile and spacing, urn and finial, cresting panel, dormer pediment — with a generator that builds each as real relief geometry with continuous corner returns and no hanging ends, a bracketed cornice with dormer pediment and a stone balustraded parapet compared side by side, studied at 2-5 m in raking and diffuse light with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1852
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 652
 claimed_by: run 10/10/2026, 7:33:12 AM CT
 blocked_on: null
 needs_bake: false
