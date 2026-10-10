@@ -1,7 +1,7 @@
 ---
 id: T-2292
 title: K04 roof library: Pennsylvania and Vermont slate, documented terracotta tile, copper sheet and standing seam, and lead, zinc and painted-tin flashing as metric PBR fabrics, with slate exposure and lap, cut-edge, seam, cap, valley, apron and gutter profiles as data, studied in raking and diffuse light
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1846
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 625
 claimed_by: run 10/10/2026, 12:02:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T05:53:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38025801768
 claimed_at: 2026-10-10T05:02:19.326Z
 decision: null
