@@ -1,7 +1,7 @@
 ---
 id: T-1786
 title: Define the portable Chicago human contract: Blender masters, browser GLB first, Unreal export later
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-10-09
 pr: 606
 claimed_by: run 10/9/2026, 8:43:54 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T02:46:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38013979458
 claimed_at: 2026-10-10T01:43:54.967Z
 decision: null

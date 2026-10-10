@@ -317,7 +317,6 @@ T-1949 — Verify the completed 20th-22nd Prairie streetscape
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
 # Owner, 2026-10-03: had moved it to sit directly above the Prairie Avenue 1904 architectural programme.
 # Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
-T-1786 — Define the portable Chicago human contract: Blender masters, browser GLB first, Unreal export later
 T-1787 — Build the portable human export pipeline: skinned GLB, textures, LODs and validation from Blender to Chicago 4D
 T-1788 — Give Chicago 4D a reusable browser human actor: skeletal animation, morphs, LODs and interaction hooks
 T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
