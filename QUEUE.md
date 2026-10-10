@@ -192,3 +192,4 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2313 — one 1808 Prairie PR at a time (owner, 2026-10-10): the dormer face goes on after the chimneys land (chain T-2317 → T-2319 → T-2313 → T-2326)
 # BLOCKED-TECH T-2325 (opened 2026-10-10, SOUTH_TIME) — K14 on a named target: the condition kit applied to a Prairie Avenue 1904 house and its yard — wall foot, plinth, sills…
 #     waits: T-2326 — one 1808 Prairie PR at a time (owner, 2026-10-10): 1808 Prairie is the only kit-built Prairie 1904 house and Glessner's exterior is owner-manual, so the condition kit goes on after the dormer face lands
+T-2333 — Fort Dearborn flags: period size, a halyard, and wool bunting cloth
