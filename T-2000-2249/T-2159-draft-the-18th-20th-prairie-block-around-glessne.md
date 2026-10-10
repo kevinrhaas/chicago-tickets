@@ -1,7 +1,7 @@
 ---
 id: T-2159
 title: Draft the 18th-20th Prairie block around Glessner: a serviceable kit-built house on every frontage, and the draft builder the other blocks reuse
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-10
 pr: null
 claimed_by: run 10/10/2026, 4:34:15 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T21:34:24.089Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38087745559
 claimed_at: 2026-10-10T21:34:15.623Z
 decision: null
