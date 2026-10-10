@@ -180,7 +180,6 @@ T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded
 # --- 10. RESEARCH COMPLETION — remaining readings, identity epics, and deposit closeout
 T-2275 — The crosswalks and back-projections (crosswalk_fergus_1839, crosswalk_fergus_1843, crosswalk_norris_1844, crosswalk_norris_1844_advertiser, back_project_addresses, back_project_residences) read a household's home and workplace from its associated_with rows instead of the singular lives_at/works_at
 T-2276 — The housing and deal tools (adopt_street_faces, complete_inwindow_trades, consolidate_town_cards, fronting_street, house_the_present_1835, model_refamily_rule, replace_invented_residents, spend_trade_premises, spend_remainder_rulings, substitute_reconstruction) read associated_with rows instead of the singular lives_at/works_at
-T-2277 — The index, cards and audits (rebuild_resident_index and the 7 readers of its copy, export_resident_audit, profile_population_1835, report_research_signoff, summarize_residents, household_associations, location_reconciliation, people.js, residents.js) read associated_with rows instead of the singular lives_at/works_at
 T-2274 — Retire the singular lives_at/works_at from the household records, schema and validate.py once nothing reads or writes them
 # Single-person identity, spelling and date readings: kept LAST (owner, 2026-09-25) —
 # small and card-local, they do not move the city.
