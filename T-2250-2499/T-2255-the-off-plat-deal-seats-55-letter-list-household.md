@@ -1,7 +1,7 @@
 ---
 id: T-2255
 title: The off-plat deal seats 69 letter-list households on roofs the ruling of 2026-08-30 (T-0379) refuses them: T-1645 made the platted deal owe that cohort, and the off-plat deal (tools/seat_off_plat_ground_1835.py) still deals from the rows it hands on without reading the ruling
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 602
 claimed_by: run 10/9/2026, 6:05:40 PM CT
 blocked_on: null
 needs_bake: false
