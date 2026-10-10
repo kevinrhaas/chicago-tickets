@@ -1,7 +1,7 @@
 ---
 id: T-2290
 title: K03 brick library: red pressed face brick, buff common service brick, dark fired and clinker headers and the Mayer house's rough red-brown brick as metric PBR fabrics, with bond, special and mortar-joint profiles as data, studied in raking and diffuse light
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1845
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 623
 claimed_by: run 10/9/2026, 11:50:37 PM CT
 blocked_on: null
 needs_bake: false
