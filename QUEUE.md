@@ -32,7 +32,6 @@ T-2251 — Deposit and read the marriage leaves of St Mary's register — the bo
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-2288 — K02 stone library: rock-faced granite, brown sandstone, Lemont and Bedford limestone, dressed trim and foundation rubble as metric PBR fabrics with joint and edge profiles, studied in raking and diffuse light
 T-2289 — K02 on the 1808 exemplar: rusticated base, coursed ashlar, corner bonds, voussoirs, coping and chipped edges built from the stone library, baked and verified at both viewports with costs
 T-2291 — K03 on a named target: a facade and service-wall comparison (pressed front against common-brick return and rear) built from the brick library with bonds, corner returns, soldier and segmental heads, string course and soot/damp mask, baked and verified at both viewports with costs
 T-2296 — The 1904 street-surface library's normal_gl maps are DirectX-handed: generate_prairie_1904_pbr.py writes (-dh/dx, -dh/drow, 1), so green is inverted on every street the renderer binds
