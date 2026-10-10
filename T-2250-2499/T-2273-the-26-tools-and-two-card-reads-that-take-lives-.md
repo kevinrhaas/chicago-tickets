@@ -1,7 +1,7 @@
 ---
 id: T-2273
 title: The 26 tools and two card reads that take lives_at/works_at off a household record, and the 7 that read the resident index's copy, read associated_with rows instead
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2261
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 8:49:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38014393336
+claimed_at: 2026-10-10T01:49:16.486Z
 decision: null
 decision_answer: null
 ---
