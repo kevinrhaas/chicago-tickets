@@ -1,7 +1,7 @@
 ---
 id: T-2283
 title: Business cards stop quoting the retiring works_at field: the twelve premises sentences name the keeper and the building their dated work place reads, in words
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2274
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 620
 claimed_by: run 10/9/2026, 11:22:05 PM CT
 blocked_on: null
 needs_bake: false
