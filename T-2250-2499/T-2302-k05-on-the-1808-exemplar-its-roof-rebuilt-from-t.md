@@ -1,7 +1,7 @@
 ---
 id: T-2302
 title: K05 on the 1808 exemplar: its roof rebuilt from the roof-construction kit with no plane crossing a gable face, no floating cornice and no doubled coplanar surface, dormers and chimney penetrations closed, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1847
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 648
 claimed_by: run 10/10/2026, 5:18:46 AM CT
 blocked_on: null
 needs_bake: false
