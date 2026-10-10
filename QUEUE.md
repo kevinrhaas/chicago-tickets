@@ -34,6 +34,7 @@ T-2321 — K12 on a named target: the alley coach house or service wing of a Pra
 T-2323 — K16 on a named target: the timber fabric of 1638 Shortall-Gregory's Gothic front — bargeboards, pierced woodwork, cladding and trim built from the timber kit at their source-bounded profile, never masonry thickness or stone texture on a timber face, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-2327 — Digitise sheet 28's building footprints for 1904 through the T-1250 georeference: every main body, attached wing, porch, bay and detached rear service polygon on both faces of Prairie Avenue, 18th to 20th, as local-metre outlines with their pixel readings, the input T-2159's draft builder reads
 T-2160 — Draft the 16th-18th Prairie block with the draft builder: every frontage and its rear service buildings
+T-2328 — Digitise sheet 20's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 16th to 18th, the input T-2160's draft reads
 T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
