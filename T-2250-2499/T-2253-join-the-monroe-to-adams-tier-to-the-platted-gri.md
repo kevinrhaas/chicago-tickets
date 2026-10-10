@@ -1,7 +1,7 @@
 ---
 id: T-2253
 title: Join the Monroe-to-Adams tier to the platted grid and the roof schedule, as T-2144 joined Madison to Monroe, with the South's six gated roofs (D2, D2, D4, D4, D5, H3) dealt to it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2247
 opened: 2026-10-09
-closed: null
+closed: 2026-10-09
 pr: 599
 claimed_by: run 10/9/2026, 4:47:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T00:24:37Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37995240787
 claimed_at: 2026-10-09T21:47:06.479Z
 decision: null
