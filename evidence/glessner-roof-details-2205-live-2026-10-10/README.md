@@ -12,3 +12,5 @@ changelog-entry and ticket-ID checks before the final integration commit
 roof-ID inventory because the committed validation transcript names two old IDs;
 no roof asset changed. CI status is checked separately and not inferred from
 these browser results. No main promotion.
+
+CI run 38006959275 reported one failure: the separate T-2175 warehouse-ticket split left the order book pointing at a split ticket. All other repository steps passed. The T-2206 branch incorporates the existing PR #602 owner-pointer repair and will verify the combined tree. This does not invalidate the recorded live Glessner asset/viewport checks.
