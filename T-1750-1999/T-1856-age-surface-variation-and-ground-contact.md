@@ -1,7 +1,7 @@
 ---
 id: T-1856
 title: Age, surface variation and ground contact
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-10
 pr: null
 claimed_by: run 10/10/2026, 12:57:36 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T17:58:34.811Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38073420185
 claimed_at: 2026-10-10T17:57:36.521Z
 decision: null
