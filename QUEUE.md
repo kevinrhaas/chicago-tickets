@@ -42,7 +42,8 @@ T-1851 — Carved entrances and classical or Gothic trim
 T-1852 — Cornices, parapets, dormer faces and cresting
 T-1853 — Ironwork, gates, canopies and boundary walls
 T-1854 — Coach houses, stable fittings and service wings
-T-1855 — Conservatory and greenhouse assemblies
+T-2305 — K13 conservatory kit: a glasshouse bay, curved iron rib, pitched glazed roof, ridge vent, lantern, masonry plinth, glazed door and gutter as metric parametric components in data — glazing-bar section and spacing, rib radius, sash pitch, plinth courses, a low-detail glass substitute and restrained plant backing — with a generator that builds each with a legible frame hierarchy and no overlapping transparency, built from the K01 contract, K04 gutters and K06 sash, studied at 2-5 m in raking and diffuse light with costs
+T-2306 — K13 on a named target: a Pullman service-garden conservatory bay built from the conservatory kit, its site-specific shape authored, glazing and frame hierarchy legible with no stacked transparency and no interior plant scene, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-1857 — Chimneys, flues and roof service details
 T-1858 — Frame cladding and exterior timber construction
 T-1856 — Age, surface variation and ground contact
