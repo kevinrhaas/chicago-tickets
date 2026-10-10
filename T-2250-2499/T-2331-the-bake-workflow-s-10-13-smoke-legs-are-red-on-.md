@@ -1,7 +1,7 @@
 ---
 id: T-2331
 title: The bake workflow's 10-13 smoke legs are red on dev: the 1904 front-door block reads data/traces/gcp and data/research from source, which the legs' sparse checkout (tools/ + SITE-BUDGET.md only) does not carry, so the part ends ENOENT; three sward arrival checks fail beside it
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 5:15:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38090572023
+claimed_at: 2026-10-10T22:15:46.311Z
 decision: null
 decision_answer: null
 ---
