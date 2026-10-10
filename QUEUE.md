@@ -164,8 +164,6 @@
 #     and moved to band 0B; T-0841 and T-1530 withdrawn (their work landed); T-1566 merged into T-1532.
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
-# BLOCKED-TECH T-1953 (opened 2026-10-01, TOWN) — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats
-#     waits: T-1414 (now open in band 0B). Unblock when T-1414 lands.
 # BLOCKED-TECH T-2153 (opened 2026-10-06, META) — Measure T-1711's fix: name the first steward-improve run cancelled at its cap after polecat-platform#190, and the stewa…
 #     waits: the first steward-improve run cancelled at its 150-minute cap after polecat-platform#190 (2026-10-06T19:59:48Z): none in the 61 runs to 2026-10-08T04:04Z — the lane hit its weekly usage limit at 22:17Z and no run could reach the cap; the read is ~6 tool calls, see the ticket's 2026-10-08 reading
 # BLOCKED-TECH T-2023 (opened 2026-10-03, META) — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house…
@@ -349,3 +347,4 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
 T-2281 — Hanging signboards hang from nothing: give every hung board real iron hangers (chain to its bracket, hood or arm)
 T-2282 — Every signboard legible and period-lettered: no name hidden by its own wall, period faces, gilt, smalt and carved boards
+T-1953 — The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated

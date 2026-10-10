@@ -1,7 +1,7 @@
 ---
 id: T-1953
 title: The West's three H3 boarding houses the book orders, on the platted ground T-1414 seats, each with its stable and privy, keepers and lodgers seated
-state: blocked-tech
+state: open
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-01
 closed: null
 pr: null
 claimed_by: run 10/2/2026, 12:06:59 AM CT
-blocked_on: T-1414 — the 668-roof programme schedules the West's H3 boarding houses only on west_division_beyond_committed_control (2 H3, waiting on street control west of Clinton and Canal, which T-1414 owes); no platted West block's plan (blk_randolph_clinton, blk_lake_clinton, blk_west_randolph_des_plaines, blk_west_lake_canal) carries an H3, so there is no lot to raise the three on until T-1414 seats that ground. Read 2026-10-02 by slice 1/5.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/36967233005
