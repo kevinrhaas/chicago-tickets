@@ -1,7 +1,7 @@
 ---
 id: T-2280
 title: A ticket command commits only what it changed: pushTickets' git add -A published a stray local edit, and T-1205's done (b679d90) reverted T-1171 from split to a claimed row the queue then offered for a week
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 611
 claimed_by: run 10/9/2026, 9:31:01 PM CT
 blocked_on: null
 needs_bake: false
