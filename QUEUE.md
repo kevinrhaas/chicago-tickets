@@ -20,7 +20,6 @@ T-2270 — The South's last owed D1 and H3 on School Section block 82: no banded
 T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
-T-2300 — wall-relief.js's orl and frontage.js's modMap are DataTextures (flipY false) sampled beside a flipY'd normal_gl Texture, so each 1835 wall and frontage tile's AO, roughness and grain is mirrored vertically against its relief
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
