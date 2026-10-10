@@ -1,7 +1,7 @@
 ---
 id: T-2291
 title: K03 on a named target: a facade and service-wall comparison (pressed front against common-brick return and rear) built from the brick library with bonds, corner returns, soldier and segmental heads, string course and soot/damp mask, baked and verified at both viewports with costs
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1845
 opened: 2026-10-09
-closed: null
+closed: 2026-10-10
 pr: 632
 claimed_by: run 10/10/2026, 1:32:29 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-10T09:02:23Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38031112582
 claimed_at: 2026-10-10T06:32:30.009Z
 decision: null
