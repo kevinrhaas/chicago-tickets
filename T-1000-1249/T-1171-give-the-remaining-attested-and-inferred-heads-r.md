@@ -1,7 +1,7 @@
 ---
 id: T-1171
 title: Give the remaining attested and inferred heads reconstructed families from the household model: wives, children, servants and apprentices drawn by the head's age, trade and household type, seeded, named from the pools, every member marked reconstructed
-state: claimed
+state: split
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-16
-closed: null
+closed: 2026-10-03
 pr: 1476
 claimed_by: run 10/3/2026, 2:51:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-03T07:57:01.065Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/37107550471
 claimed_at: 2026-10-03T07:51:27.115Z
 decision: null
@@ -170,3 +170,14 @@ A run claimed this after the queue cleanup and measured the bullet before buildi
 
 Split below: the measurement into the stage's own ledger first (so the move cannot redefine its
 own success), then the move, then the ruling on the houses nothing can fill.
+
+## 2026-10-10 — the split restored (T-2280)
+
+This ticket was split on 2026-10-03 at 07:57Z (`08c1129`) into T-2019, T-2020 and T-2021, and
+all three are done. An hour later, `ticket.mjs done T-1205` (`b679d90`, "T-1205: review — PR
+#336") published a stray local edit with its own commit: the T-1205 run had restored this file's
+pre-split copy in its tickets clone to derive the order book against, meant it to stay local, and
+`pushTickets`' `git add -A` swept it in. That reverted this ticket to `claimed`, so a spent parent
+sat in `list --workable` as a `TAKEABLE dead claim` for seven days. The frontmatter is put back to
+exactly what the split wrote; nothing is owed here that the three children did not carry.
+T-2280 makes a ticket command commit only what it changed.
