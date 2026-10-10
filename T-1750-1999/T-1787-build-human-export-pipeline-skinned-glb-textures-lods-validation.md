@@ -1,7 +1,7 @@
 ---
 id: T-1787
 title: Build the portable human export pipeline: skinned GLB, textures, LODs and validation from Blender to Chicago 4D
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-10-10
 pr: 644
 claimed_by: run 10/10/2026, 4:47:50 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-10T20:19:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38042322214
 claimed_at: 2026-10-10T09:47:50.168Z
 decision: null
