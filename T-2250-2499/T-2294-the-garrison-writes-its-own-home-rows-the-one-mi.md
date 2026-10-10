@@ -1,7 +1,7 @@
 ---
 id: T-2294
 title: The garrison writes its own home rows: the one minting tool whose lives_at value still reaches the card only through the copier (institutional and lodgers already write theirs)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2272
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 626
 claimed_by: run 10/10/2026, 12:15:24 AM CT
 blocked_on: null
 needs_bake: false
