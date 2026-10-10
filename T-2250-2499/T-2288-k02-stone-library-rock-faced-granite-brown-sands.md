@@ -1,7 +1,7 @@
 ---
 id: T-2288
 title: K02 stone library: rock-faced granite, brown sandstone, Lemont and Bedford limestone, dressed trim and foundation rubble as metric PBR fabrics with joint and edge profiles, studied in raking and diffuse light
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1844
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 11:41:02 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38024571632
+claimed_at: 2026-10-10T04:41:02.610Z
 decision: null
 decision_answer: null
 ---
