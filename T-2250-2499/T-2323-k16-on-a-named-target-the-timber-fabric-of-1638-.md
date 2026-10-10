@@ -1,7 +1,7 @@
 ---
 id: T-2323
 title: K16 on a named target: the timber fabric of 1638 Shortall-Gregory's Gothic front — bargeboards, pierced woodwork, cladding and trim built from the timber kit at their source-bounded profile, never masonry thickness or stone texture on a timber face, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2322 — the K16 timber kit it builds from is PR #664, not yet merged
 needs_bake: false
 closed_at: null
 claimed_run: null
