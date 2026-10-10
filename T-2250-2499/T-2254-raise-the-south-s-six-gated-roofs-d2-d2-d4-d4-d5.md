@@ -1,7 +1,7 @@
 ---
 id: T-2254
 title: Raise the South's six gated roofs (D2, D2, D4, D4, D5 and the H3 boarding house) on the Monroe-to-Adams tier's lots
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2247
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/9/2026, 7:28:45 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38008971882
+claimed_at: 2026-10-10T00:28:45.692Z
 decision: null
 decision_answer: null
 ---
