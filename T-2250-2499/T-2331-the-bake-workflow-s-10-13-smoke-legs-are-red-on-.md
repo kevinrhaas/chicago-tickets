@@ -41,3 +41,8 @@ The bake workflow's 10-13 smoke legs are red on dev: the 1904 front-door block r
 - Two repairs to weigh: read those two files from the published mirror (or a committed copy
   under tools/), or widen the sparse set — the latter is a workflow edit, owner-visible.
   Whether 2-4 are the same environment gap or a real sward regression is unknown.
+- **What the ENOENT hides, measured:** T-2323 (#668) placed `shortall_gregory_house_1638_prairie_front`
+  in the 1904 scene without adding it to `PLACED_1904` (smoke part 13). No CI leg reaches that check,
+  so dev went red there without anyone seeing it. #666 (T-2321) carries the fix. With it, mobile
+  part 13 on the merged tree passes 126/0 on a full clone. Until this ticket lands, every PR that
+  places a 1904 structure must prove part 13 in the foreground.
