@@ -1,7 +1,7 @@
 ---
 id: T-2324
 title: K14 condition kit: an age mask keyed to each building's years standing at 1904-07-01, rising damp and plinth dirt, eave and chimney soot, water trails beneath sills and outlets, mortar-joint weathering, the grass edge at a wall foot and path wear as metric, engine-neutral condition layers in data with an independent per-property seed, evaluated by one deterministic shared module any generator calls (on the _TONE vertex channel or as a baked mask), condition always 1904 and never modern ruin, with a study comparing new Georgian work against 20-40-year-old houses on the K02 and K03 fabrics under identical neutral light, with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1856
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 661
 claimed_by: run 10/10/2026, 12:58:42 PM CT
 blocked_on: null
 needs_bake: false
