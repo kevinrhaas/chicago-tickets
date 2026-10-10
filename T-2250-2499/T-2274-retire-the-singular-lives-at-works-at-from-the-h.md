@@ -34,3 +34,8 @@ When T-2261 was split (2026-10-10T01:43:44.993Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38013053524) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2276 (2026-10-10, PR #610) — prose and pointers the readers leave behind
+
+- About 22 authored business records (`data/businesses/authored/biz_*`) carry a `basis` sentence written by `tools/complete_inwindow_trades.py` that quotes "`works_at: <structure>`". The tool now reads the work row, but the sentence still names the singular field. Rewording it rewrites business cards a visitor reads, so it is left for this retirement.
+- The `…#works_at` / `…#lives_at` provenance pointers that the copier (`household_associations.py`) writes into household rows, `household_associations.json` and `data/sidecars/1835/*` go dangling the moment the singular fields are removed. Repoint them in the same change.
