@@ -23,6 +23,7 @@ T-2251 — Deposit and read the marriage leaves of St Mary's register — the bo
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 T-2299 — The 1835 PBR library's normal_gl maps are DirectX-handed too: generate_1835_pbr_library.py writes (-dh/dx, -dh/drow, 1), all 27 maps read green -0.80..-1.00 against their height16, and frontage, roof-relief, wall-relief, signage and ground-strip bind them
+T-2300 — wall-relief.js's orl and frontage.js's modMap are DataTextures (flipY false) sampled beside a flipY'd normal_gl Texture, so each 1835 wall and frontage tile's AO, roughness and grain is mirrored vertically against its relief
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
