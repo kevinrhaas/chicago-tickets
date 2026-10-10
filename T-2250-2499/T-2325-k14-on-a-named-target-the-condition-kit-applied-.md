@@ -1,7 +1,7 @@
 ---
 id: T-2325
 title: K14 on a named target: the condition kit applied to a Prairie Avenue 1904 house and its yard — wall foot, plinth, sills, outlets, chimneys, path and grass edge — at its own age in 1904, compared beside a newer neighbour, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1856
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 3:06:48 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38081233271
+claimed_at: 2026-10-10T20:06:48.745Z
 decision: null
 decision_answer: null
 ---
