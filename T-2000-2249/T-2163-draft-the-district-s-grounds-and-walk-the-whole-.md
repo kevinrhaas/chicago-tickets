@@ -1,7 +1,7 @@
 ---
 id: T-2163
 title: Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-08
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2162 — the grounds and the whole-district walk need every draft standing: T-2161 (20th-22nd, blocked on T-2340's sheet-35 trace) and T-2162 (edges, blocked on T-2161) have not landed, and T-2335 (16th-18th east) is in flight; chained so settle reopens this in T-2162's queue line when it merges
 needs_bake: true
 closed_at: null
 claimed_run: null
