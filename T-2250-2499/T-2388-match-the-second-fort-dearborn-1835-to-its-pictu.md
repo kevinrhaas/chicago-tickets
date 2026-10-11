@@ -23,4 +23,33 @@ decision_answer: null
 
 Match the second Fort Dearborn (1835) to its pictures, every building in it.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing"; "redo any work already done to meet this high standard"; "you don't wrap the case until it matches the photo".
+
+The fort was built without being checked against its pictures as a whole (inventory of 2026-10-11, T-2368). Open every picture listed here and read the building off the picture itself. Solve each one's camera into `data/reference_views/<structure_id>/<view>.json`, render with `node tools/photo_match.mjs`, and rebuild until the side-by-side shows nothing the picture shows differently: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone (AGENTS.md rule 11; `data/reference_views/README.md`). What the picture does not show stays reconstructed and recorded in `docs/LIBERTIES.md`.
+
+A picture of the fort shows many records at once, so `tools/photo_match.mjs` first learns to render a group: the camera names `also_render` (the other structure ids), each placed by its scene position. Every record of the fort is matched through those views, and the gate is carried by the blockhouse's.
+
+Pictorial sources are tier 5: form only, never a coordinate. Several are drawn from memory or later (Andreas 1884, Kurz & Allison 1893), and some post-date 1835 (each is evidence of its own date, scene 1835-07-01, AGENTS.md rule 3): the build follows what each shows of the building as it stood then, and the match record says which picture governs where they disagree.
+
+Records: `fort_dearborn_artillery_house`, `fort_dearborn_barracks`, `fort_dearborn_big_barn`, `fort_dearborn_blockhouse`, `fort_dearborn_commandants_quarters`, `fort_dearborn_flagstaff`, `fort_dearborn_garrison_garden`, `fort_dearborn_guard_house`, `fort_dearborn_magazine`, `fort_dearborn_officers_quarters`, `fort_dearborn_out_building_a`, `fort_dearborn_out_building_b`, `fort_dearborn_palisade`, `fort_dearborn_parade`, `fort_dearborn_root_house`, `fort_dearborn_root_house_b`, `fort_dearborn_shop`, `fort_dearborn_store_house`, `fort_dearborn_sutlers_store`, `fort_dearborn_us_factors_house`, `fort_dearborn_wash_house`.
+
+Pictures:
+  source: `data/sources/kurz_allison_1893.json`
+  source: `data/sources/chicagology_prefire276.json`
+  source: `data/sources/chicagology_prefire052.json`
+  source: `data/sources/wentworth_1881_fort_dearborn.json`
+  picture: `chicago/reference/images/chicago/chicago_settlement_1820_2.jpg`
+  picture: `chicago/reference/images/chicago/chicago_from_lake_1818_1830_childs.jpg`
+  picture: `chicago/reference/images/chicago/chicago_fort_dearborn_1831_1.jpg`
+  picture: `chicago/reference/images/chicago/chicago_fort_dearborn_1831_2.jpg`
+  picture: `chicago/reference/images/chicago/chicago_fort_dearborn_river_mouth_1830.jpg`
+  picture: `chicago/reference/images/chicago/licensed_previews/chicago_second_fort_dearborn_1816_getty.jpg`
+  picture: `chicago/reference/images/chicago/licensed_previews/chicago_fort_dearborn_1830_alamy.jpg`
+  picture: `chicago/reference/images/chicago/licensed_previews/chicago_fort_dearborn_1892_peck_hindman.jpg`
+  picture: `chicago/reference/images/chicago/chicago_harbor_lighthouse_1838.jpg`
+
+**Acceptance:** every reference view of the building(s) below has its camera, its side-by-side from the GLB in the tree, and a match record with verdict `matches` and nothing open. The PR carries the before and after side-by-sides, plus desktop and 390x780 in-app shots with no page errors.
+
+## Image gate
+- fort_dearborn_blockhouse
+
