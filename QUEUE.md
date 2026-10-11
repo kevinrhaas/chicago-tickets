@@ -31,7 +31,6 @@ T-2364 — K14 on a brick-fronted K01 house: a brick house's sill trails found b
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2208 — Refine Glessner street masonry courses, relief and opening returns
-T-2354 — Stand 1616 Prairie's one-storey brick rear range beside its K01 body, on K01's traced rear wing once T-2347 teaches it
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
 T-2350 — Refine 1634 Prairie's main body on K01 with the K05 flat roof: the draft's id kept, its traced main rectangle, three storeys, the bracketed street cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing

@@ -1,7 +1,7 @@
 ---
 id: T-2354
 title: Stand 1616 Prairie's one-storey brick rear range beside its K01 body, on K01's traced rear wing once T-2347 teaches it
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2345
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 708
 claimed_by: run 10/11/2026, 3:25:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T21:42:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38171965299
 claimed_at: 2026-10-11T20:25:55.600Z
 decision: null
