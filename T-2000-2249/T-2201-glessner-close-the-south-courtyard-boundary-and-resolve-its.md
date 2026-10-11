@@ -1,7 +1,7 @@
 ---
 id: T-2201
 title: Glessner: close the south courtyard boundary and resolve its junctions
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 2:00:59 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38119752822
+claimed_at: 2026-10-11T07:00:59.417Z
 decision: null
 decision_answer: null
 ---
