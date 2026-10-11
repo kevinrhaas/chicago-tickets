@@ -1,7 +1,7 @@
 ---
 id: T-2339
 title: The 1835 'light' floor at desktop 1280x800: 1,173,622 at West prairie and 1,030,925 at Lake at Canal against 1,005,000 since the openings kit (+105k trim triangles town-wide) and the sign chains (+33k) — an owner-authorized raise, or a light-tier variant of the baked structures
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2336
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 10:20:25 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38107875411
+claimed_at: 2026-10-11T03:20:25.405Z
 decision: answered
 decision_answer: a
 ---
