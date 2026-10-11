@@ -221,3 +221,4 @@ T-2384 — Match St Mary's church to its pictures
 T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
+T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
