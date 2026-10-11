@@ -1,7 +1,7 @@
 ---
 id: T-2330
 title: Draft the 18th-20th Prairie block's east side with the draft builder: every east frontage and its rear buildings, so 1801 and 1811 read distinct from 1808 and 1812 at the landing
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2159
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 675
 claimed_by: run 10/10/2026, 7:02:46 PM CT
 blocked_on: null
 needs_bake: false
