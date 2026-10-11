@@ -1,7 +1,7 @@
 ---
 id: T-2361
 title: K14 compared beside a newer neighbour: the kit applied to a Prairie Avenue 1904 house built later than 1808 (1886) and shown beside it under the same light, front and oblique at both viewports, with costs
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2325
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: null
 claimed_by: run 10/11/2026, 12:52:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T17:55:25.920Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38160651430
 claimed_at: 2026-10-11T17:52:19.957Z
 decision: null
