@@ -1,7 +1,7 @@
 ---
 id: T-2351
 title: Draft the 20th-22nd Prairie block's west side with the draft builder: every west frontage of sheet 35 and its rear buildings, the 2108/2110 shared coach house as one building, Rees at its historical 2110 site, Robbins 2126 in one declared working phase, 2140 Tucker/Smith in one documented roof state
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2161
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 12:44:13 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38115517129
+claimed_at: 2026-10-11T05:44:13.536Z
 decision: null
 decision_answer: null
 ---
