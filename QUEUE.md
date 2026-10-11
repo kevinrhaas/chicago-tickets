@@ -203,3 +203,4 @@ T-2368 — The image gate: every building is built until it matches its photogra
 T-2367 — Call them liberties everywhere a visitor reads: retire the what-we-made-up wording
 # BLOCKED-TECH T-2369 (opened 2026-10-11, SOUTH_TIME) — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the …
 #     waits: T-2366 — same house; lands after T-2366's PR
+T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
