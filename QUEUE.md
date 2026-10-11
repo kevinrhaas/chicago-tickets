@@ -36,7 +36,6 @@ T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 front
 T-2344 — Refine 1612 Goodman, the Italianate stone-front, on the K01 frontage kit: the draft's id kept, its traced main body, an ashlar street face over common-brick returns, paired segmental windows, an arched entrance on a high stoop, bracketed cornice, every face closed
 T-1861 — Refine 1620 Law house restored for 1904
 T-1862 — Refine 1626, 1628 and small frame 1630
-T-2349 — Teach the K05 roof kit the stone-front rowhouse's flat roof: a tin deck falling to the rear wall behind coped party-wall parapets and a front blocking course, a variant built, graphed, costed and checked beside the other ten, its low-fall range declared
 T-2350 — Refine 1634 Prairie's main body on K01 with the K05 flat roof: the draft's id kept, its traced main rectangle, three storeys, the bracketed street cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
 T-2347 — Teach K01 a traced rear wing behind the main body and retire 1634 Prairie's draft wing onto it
 T-2348 — Refine 1636 Prairie, 1634's attached partner, on the K01 attached-rowhouse kit: its party wall on the north, its own stone front, flat roof, cornice and rear wing
