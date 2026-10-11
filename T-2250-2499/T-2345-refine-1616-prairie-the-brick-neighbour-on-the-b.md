@@ -1,7 +1,7 @@
 ---
 id: T-2345
 title: Refine 1616 Prairie, the brick neighbour, on the brick K01 frontage T-2341 teaches: the draft's main body and attached range kept, brick corner bonds, recessed sash, lintels, high stoop, its own roof, gutters, chimneys and rear elevation
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2341 — 1616 is a plain brick front; the K01 kit builds only a stone front until T-2341 teaches it brick (construction: brick), so this waits on that piece
 needs_bake: false
 closed_at: null
 claimed_run: null
