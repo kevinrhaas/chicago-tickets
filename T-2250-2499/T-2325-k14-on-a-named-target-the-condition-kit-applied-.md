@@ -1,7 +1,7 @@
 ---
 id: T-2325
 title: K14 on a named target: the condition kit applied to a Prairie Avenue 1904 house and its yard — wall foot, plinth, sills, outlets, chimneys, path and grass edge — at its own age in 1904, compared beside a newer neighbour, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: run 10/10/2026, 3:06:48 PM CT
-blocked_on: T-2326 — one 1808 Prairie PR at a time (owner, 2026-10-10): 1808 Prairie is the only kit-built Prairie 1904 house and Glessner's exterior is owner-manual, so the condition kit goes on after the dormer face lands
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38081233271
@@ -34,3 +34,5 @@ When T-1856 was split (2026-10-10T17:58:30.919Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38073420185) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Unblocked 2026-10-11:** T-2326 merged (PR #697); this took its place in the queue. The block read: T-2326 — one 1808 Prairie PR at a time (owner, 2026-10-10): 1808 Prairie is the only kit-built Prairie 1904 house and Glessner's exterior is owner-manual, so the condition kit goes on after the dormer face lands
