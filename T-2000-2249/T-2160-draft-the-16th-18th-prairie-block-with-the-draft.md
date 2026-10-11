@@ -1,7 +1,7 @@
 ---
 id: T-2160
 title: Draft the 16th-18th Prairie block with the draft builder: every frontage and its rear service buildings
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 8:20:51 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38101326100
+claimed_at: 2026-10-11T01:20:51.686Z
 decision: null
 decision_answer: null
 ---
