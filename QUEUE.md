@@ -200,5 +200,6 @@ T-2362 — CI smoke leg desktop 10-14 overruns its 40-minute timeout on every ru
 #     waits: T-1872
 T-2366 — Rebuild 1612 Prairie (Goodman) from its photograph: three bays, paired round-arched windows with keystones, arched porch on columns, banded stone, deep frieze cornice, iron fence; validated from the photo's own camera
 T-2368 — The image gate: every building is built until it matches its photographs and drawings, and its ticket closes only then
-T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
 T-2367 — Call them liberties everywhere a visitor reads: retire the what-we-made-up wording
+# BLOCKED-TECH T-2369 (opened 2026-10-11, SOUTH_TIME) — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the …
+#     waits: T-2366 — same house; lands after T-2366's PR

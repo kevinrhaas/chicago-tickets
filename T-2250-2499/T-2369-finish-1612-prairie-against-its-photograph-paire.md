@@ -1,7 +1,7 @@
 ---
 id: T-2369
 title: Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-11
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2366 — same house; lands after T-2366's PR
 needs_bake: false
 closed_at: null
 claimed_run: null
