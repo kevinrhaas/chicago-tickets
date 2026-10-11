@@ -1,7 +1,7 @@
 ---
 id: T-2329
 title: Draft the 18th-20th Prairie block's west side and the reusable draft builder: every west frontage and its rear buildings as a kit-built draft, Glessner untouched
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2159
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 671
 claimed_by: run 10/10/2026, 4:34:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T00:06:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38087745559
 claimed_at: 2026-10-10T21:34:28.924Z
 decision: null
