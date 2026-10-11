@@ -34,3 +34,9 @@ When T-1859 was split (2026-10-11T04:15:45.657Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38110646061) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. `house_1608_prairie` keeps its id and becomes a `k01_frontage` record on the draft's traced main-body rectangle and placement; the draft builder skips `s20-1608-f`, so no draft copy stands beside it.
+2. The K01 assembly builds a plain **brick** street front (`construction: brick`, no `stone_front`): the front laid in the K03 brick with stone sills, lintels and belts; 1808 Prairie's resolved parameters and GLB do not change.
+3. 1608's own choices — two storeys over the raised basement the sheet's `2B` prints, the entrance on the south, the draft's bracketed cornice kept as a K10 wall head, K06 sash, K07 stoop, K04 roof and rainwater — each carry their tier; the draft's `replaceable_by` is cleared and the card no longer says draft.
+4. `docs/LIBERTIES.md`: 1608 retired from L-draft-prairie-16-18-west-2334 and the refinement's own reconstruction recorded.
+5. Front, oblique, rear and roof views at 1280×800 and 390×780 before and after, with 1904's load, heap and frame cost.
