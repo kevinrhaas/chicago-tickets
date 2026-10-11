@@ -1,7 +1,7 @@
 ---
 id: T-2356
 title: Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1862
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 696
 claimed_by: run 10/11/2026, 6:31:46 AM CT
 blocked_on: null
 needs_bake: false
