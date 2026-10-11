@@ -1,7 +1,7 @@
 ---
 id: T-2358
 title: K14 on 1808 Prairie's walls at its own age in 1904 (built 1886): ground damp at the wall foot and the stone plinth, eave soot, and water trails below every sill and gutter outlet, from the kit on _TONE rows of the K01 walls and K02 front, opted in per record so no other K01 house moves, baked and verified at both viewports (front, oblique, rear) with costs, compared with the full-age K03 mask it replaces
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2325
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 700
 claimed_by: run 10/11/2026, 8:47:25 AM CT
 blocked_on: null
 needs_bake: false
