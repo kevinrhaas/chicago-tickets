@@ -1,7 +1,7 @@
 ---
 id: T-2357
 title: Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1862
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 699
 claimed_by: run 10/11/2026, 8:07:37 AM CT
 blocked_on: null
 needs_bake: false
