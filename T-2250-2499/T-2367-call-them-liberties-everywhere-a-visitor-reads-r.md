@@ -1,7 +1,7 @@
 ---
 id: T-2367
 title: Call them liberties everywhere a visitor reads: retire the what-we-made-up wording
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 2:35:55 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-11T19:35:55.819Z
 decision: null
 decision_answer: null
 ---
