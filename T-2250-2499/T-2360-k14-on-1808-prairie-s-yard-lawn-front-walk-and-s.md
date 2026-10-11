@@ -1,7 +1,7 @@
 ---
 id: T-2360
 title: K14 on 1808 Prairie's yard: lawn, front walk and side service walk as ground surfaces inside its K11 boundary, carrying the kit's grass edge at the wall foot and path wear, baked and verified at both viewports with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2325
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 8:49:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38144501597
+claimed_at: 2026-10-11T13:49:47.893Z
 decision: null
 decision_answer: null
 ---
