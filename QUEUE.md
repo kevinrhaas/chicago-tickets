@@ -36,7 +36,9 @@ T-2201 — Glessner: close the south courtyard boundary and resolve its junction
 T-2354 — Stand 1616 Prairie's one-storey brick rear range beside its K01 body, on K01's traced rear wing once T-2347 teaches it
 T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
 T-1861 — Refine 1620 Law house restored for 1904
-T-1862 — Refine 1626, 1628 and small frame 1630
+T-2355 — Refine 1628 Prairie's main body on the brick K01 frontage: the draft's id and traced main rectangle kept, the blank party wall it shares with 1626 on the north, brick front, sash, stoop, its own roof, gutters, chimneys and rear elevation
+T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
+T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
 T-2350 — Refine 1634 Prairie's main body on K01 with the K05 flat roof: the draft's id kept, its traced main rectangle, three storeys, the bracketed street cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
 T-2347 — Teach K01 a traced rear wing behind the main body and retire 1634 Prairie's draft wing onto it
 T-2348 — Refine 1636 Prairie, 1634's attached partner, on the K01 attached-rowhouse kit: its party wall on the north, its own stone front, flat roof, cornice and rear wing
