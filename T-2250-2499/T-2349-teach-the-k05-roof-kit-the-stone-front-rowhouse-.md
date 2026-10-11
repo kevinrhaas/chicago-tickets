@@ -1,7 +1,7 @@
 ---
 id: T-2349
 title: Teach the K05 roof kit the stone-front rowhouse's flat roof: a tin deck falling to the rear wall behind coped party-wall parapets and a front blocking course, a variant built, graphed, costed and checked beside the other ten, its low-fall range declared
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2346
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 12:09:29 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38113330249
+claimed_at: 2026-10-11T05:09:29.259Z
 decision: null
 decision_answer: null
 ---
