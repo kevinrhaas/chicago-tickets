@@ -1,7 +1,7 @@
 ---
 id: T-2251
 title: Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 673
 claimed_by: run 10/10/2026, 6:08:41 PM CT
 blocked_on: null
 needs_bake: false
