@@ -32,7 +32,9 @@ T-2319 — K11 on a named target: the front fence, entry gate, piers and boundar
 T-2335 — Draft the 16th-18th Prairie block's east side with the draft builder: every east frontage of sheet 20 and its rear buildings, the Pullman estate package, the 1609-1611, 1719/1721 and Forsyth 1635 rulings visible
 T-2340 — Digitise sheet 35's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 20th to 22nd, the input T-2161's draft reads
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
-T-1859 — Refine 1600, 1604 and 1608 north-west frontage
+T-2341 — Refine 1608 Prairie on the K01 frontage kit taught a plain brick street front: the draft's id kept, its traced rectangle, two storeys over a raised basement, brick front with stone trim, bracketed cornice, every face closed
+T-2342 — Refine 1600 Prairie, the 16th Street corner house, on the brick K01 frontage: windows on the north wall to 16th Street and the sheet's curved bay on the Prairie face
+T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
 T-1860 — Refine 1612 Goodman and 1616 neighbour
 T-1861 — Refine 1620 Law house restored for 1904
 T-1862 — Refine 1626, 1628 and small frame 1630
