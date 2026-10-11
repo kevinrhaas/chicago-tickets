@@ -1,7 +1,7 @@
 ---
 id: T-2338
 title: Re-budget the 1835 'full' and 'balanced' scene-detail ceilings to the measured West prairie stand (desktop 3,379,890 and 2,515,971, both viewports, six stands) after the owner-requested openings kit and sign chains, under the 2026-08-21 ruling
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2336
 opened: 2026-10-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 9:45:02 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38104047264
+claimed_at: 2026-10-11T02:45:02.591Z
 decision: null
 decision_answer: null
 ---
