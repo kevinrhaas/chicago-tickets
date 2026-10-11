@@ -1,7 +1,7 @@
 ---
 id: T-2334
 title: Draft the 16th-18th Prairie block's west side with the draft builder: every west frontage of sheet 20 and its rear service buildings, the 1620 and 1700/1706 rulings visible
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2160
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 677
 claimed_by: run 10/10/2026, 8:21:08 PM CT
 blocked_on: null
 needs_bake: false
