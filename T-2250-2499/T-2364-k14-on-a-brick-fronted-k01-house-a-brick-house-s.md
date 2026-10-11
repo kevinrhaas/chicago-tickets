@@ -1,7 +1,7 @@
 ---
 id: T-2364
 title: K14 on a brick-fronted K01 house: a brick house's sill trails found before its walls are cut, and 1608 Prairie weathered at the 1886 plate's bound, baked and verified at both viewports with costs
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2361
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 704
 claimed_by: run 10/11/2026, 12:55:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T23:11:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38160651430
 claimed_at: 2026-10-11T17:55:32.074Z
 decision: null
