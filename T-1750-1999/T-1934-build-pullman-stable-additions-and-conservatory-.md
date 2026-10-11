@@ -51,3 +51,7 @@ This package no longer builds from an empty lot. [T-2160](../T-2000-2249/T-2160-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## What the district draft left here (T-2335, 2026-10-11)
+
+The district draft's 16th-18th east side (T-2335, piece 2 of T-2160) stands the Pullman house (`pullman_house_1729_prairie`) with its traced wing, keeping the K13 conservatory record's footprint (`pullman_house_1729_prairie_conservatory`, T-2306) out of its fill, and its two-storey building at the wing's east end. It does **not** stand the estate's ground across 18th Street: the two glasshouse ranges and the two-storey lodge the sheet-28 census allocates to this package (`s28-pullman-service-garden`: `s28-pullman-greenhouse-north`, `s28-pullman-greenhouse-east`, `s28-pullman-garden-lodge`). The sheet-28 trace never drew them, so the draft builder had no polygon to read, and the draft archetype has no glass roof. This ticket therefore builds them from empty ground, not from a draft: trace them off sheet 28, then build the ranges from the K13 kit (its `span` form) and the lodge as this package's service building. Recorded in `L-draft-prairie-16-18-east-2335`.
