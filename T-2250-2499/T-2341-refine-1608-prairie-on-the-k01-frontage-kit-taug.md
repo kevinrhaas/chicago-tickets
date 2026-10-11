@@ -1,7 +1,7 @@
 ---
 id: T-2341
 title: Refine 1608 Prairie on the K01 frontage kit taught a plain brick street front: the draft's id kept, its traced rectangle, two storeys over a raised basement, brick front with stone trim, bracketed cornice, every face closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1859
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 684
 claimed_by: run 10/10/2026, 11:15:53 PM CT
 blocked_on: null
 needs_bake: false
