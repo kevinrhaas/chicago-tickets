@@ -1,7 +1,7 @@
 ---
 id: T-2317
 title: K10 on a named target: the cornice, parapet, dormer faces and cresting of a Prairie Avenue 1904 house built from the cornice kit, corner returns continuous and meeting the K05 roof with no clash, a documented landmark's unique profile authored from evidence rather than a scaled generic, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1852
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 663
 claimed_by: run 10/10/2026, 12:55:25 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T01:17:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38073410004
 claimed_at: 2026-10-10T17:55:25.929Z
 decision: null

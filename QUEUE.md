@@ -16,7 +16,6 @@
 # --- 1. THE 1835 TOWN — the owed roofs raised, households seated and dealt, signs and cards a visitor reads, the
 # ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
 # ---    worked go to the top with the core 1835 loop and research tickets)
-T-2251 — Deposit and read the marriage leaves of St Mary's register — the book Father Rouges bound in 1880 with the baptisms already deposited — for the forename of the 1834 witness every printing sets as 'L. Franchere'
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
@@ -28,9 +27,8 @@ T-2251 — Deposit and read the marriage leaves of St Mary's register — the bo
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-2317 — K10 on a named target: the cornice, parapet, dormer faces and cresting of a Prairie Avenue 1904 house built from the cornice kit, corner returns continuous and meeting the K05 roof with no clash, a documented landmark's unique profile authored from evidence rather than a scaled generic, baked and verified at both viewports (front, oblique, rear and roof views) with costs
+T-2319 — K11 on a named target: the front fence, entry gate, piers and boundary wall of a Prairie Avenue 1904 house built from the ironwork kit at its source-bounded line and height, kept off the entrance and the shared carriage drive, the light tier keeping the silhouette, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-2321 — K12 on a named target: the alley coach house or service wing of a Prairie Avenue 1904 lot built from the coach-house kit at its mapped rear footprint, every elevation closed and its workyard connected to the house, 1911 garage and auto labels never read as 1904 use, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-T-2332 — Mobile smoke part 10 is red on dev: the near-walk flora arrival reading sees 0 arrivals and 0 plant-frames, and z09 sand prairie's butterfly weed is drawn nowhere
 T-2330 — Draft the 18th-20th Prairie block's east side with the draft builder: every east frontage and its rear buildings, so 1801 and 1811 read distinct from 1808 and 1812 at the landing
 T-2334 — Draft the 16th-18th Prairie block's west side with the draft builder: every west frontage of sheet 20 and its rear service buildings, the 1620 and 1700/1706 rulings visible
 T-2335 — Draft the 16th-18th Prairie block's east side with the draft builder: every east frontage of sheet 20 and its rear buildings, the Pullman estate package, the 1609-1611, 1719/1721 and Forsyth 1635 rulings visible
@@ -184,8 +182,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
-# BLOCKED-TECH T-2319 (opened 2026-10-10, SOUTH_TIME) — K11 on a named target: the front fence, entry gate, piers and boundary wall of a Prairie Avenue 1904 house built from t…
-#     waits: T-2317 — one 1808 Prairie PR at a time (owner, 2026-10-10): the fence goes on after the cornice lands
 # BLOCKED-TECH T-2313 (opened 2026-10-10, SOUTH_TIME) — K15 on a named target: the chimneys of a Prairie Avenue 1904 house built from the chimney kit at their source-bounded n…
 #     waits: T-2319 — one 1808 Prairie PR at a time (owner, 2026-10-10): the chimneys go on after the fence lands
 # BLOCKED-TECH T-2326 (opened 2026-10-10, META) — K10 dormer face on 1808 Prairie: re-proportion the K05 dormer (its sash head stands 0.13 m under its cheek soffit) so t…
