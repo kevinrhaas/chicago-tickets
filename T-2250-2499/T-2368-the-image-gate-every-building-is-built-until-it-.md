@@ -36,6 +36,3 @@ Owner, 2026-10-11 (thread "1612 Prairie vs its photo"):
 - AGENTS.md hard rule 11 and `data/reference_views/README.md` state the rule. The Prairie image README allows attributed reference copies.
 - 1612 Prairie is the first building on it, with its honest verdict ("differs") and its open differences carried by T-2369.
 - In the tickets repo: every open building ticket carries the gate, and every building already built from less than its pictures has a redo ticket.
-
-## Image gate
-
