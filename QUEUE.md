@@ -206,3 +206,4 @@ T-2367 — Call them liberties everywhere a visitor reads: retire the what-we-ma
 T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
 T-2371 — Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
 T-2372 — Match Eliza Chappel's infant school to its pictures
+T-2373 — Match the 1832 lighthouse to its pictures
