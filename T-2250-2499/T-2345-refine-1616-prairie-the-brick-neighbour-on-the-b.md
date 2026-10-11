@@ -1,7 +1,7 @@
 ---
 id: T-2345
 title: Refine 1616 Prairie, the brick neighbour, on the brick K01 frontage T-2341 teaches: the draft's main body and attached range kept, brick corner bonds, recessed sash, lintels, high stoop, its own roof, gutters, chimneys and rear elevation
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-10
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2341 — 1616 is a plain brick front; the K01 kit builds only a stone front until T-2341 teaches it brick (construction: brick), so this waits on that piece
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -26,3 +26,5 @@ Refine 1616 Prairie, the brick neighbour, on the brick K01 frontage T-2341 teach
 Piece 2 of 2 of **T-1860 — Refine 1612 Goodman and 1616 neighbour**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Unblocked 2026-10-11:** T-2341 merged (PR #684); this took its place in the queue. The block read: T-2341 — 1616 is a plain brick front; the K01 kit builds only a stone front until T-2341 teaches it brick (construction: brick), so this waits on that piece
