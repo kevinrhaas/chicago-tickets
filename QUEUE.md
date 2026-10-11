@@ -27,7 +27,6 @@
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-2359 — K14 on 1808 Prairie's roof: the chimney plume on the slate leeward of its two K15 stacks at the house's own age, with the roof rows the plume needs, baked and verified at both viewports (roof view) with costs
 T-2364 — K14 on a brick-fronted K01 house: a brick house's sill trails found before its walls are cut, and 1608 Prairie weathered at the 1886 plate's bound, baked and verified at both viewports with costs
 T-2363 — Make the draft emitter's GLB bytes independent of the Python minor version: house_2011_prairie's turret built bit-different under the steward runner's 3.12 than under the gate's pinned 3.11 (same size, other bytes; #689), so a run that emits on 3.12 ships a GLB the gate refuses — pin the runner's python3 to 3.11 or make the summation order-exact (math.fsum or an explicit loop) in the archetype
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
