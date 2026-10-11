@@ -1,7 +1,7 @@
 ---
 id: T-2161
 title: Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-08
 closed: null
 pr: null
-claimed_by: run 10/10/2026, 11:10:44 PM CT
+claimed_by: run 10/11/2026, 12:43:56 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38110581931
-claimed_at: 2026-10-11T04:10:44.999Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38115517129
+claimed_at: 2026-10-11T05:43:56.624Z
 decision: null
 decision_answer: null
 ---
