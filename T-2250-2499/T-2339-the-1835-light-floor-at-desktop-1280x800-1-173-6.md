@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 The 1835 'light' floor at desktop 1280x800: 1,173,622 at West prairie and 1,030,925 at Lake at Canal against 1,005,000 since the openings kit (+105k trim triangles town-wide) and the sign chains (+33k) — an owner-authorized raise, or a light-tier variant of the baked structures.
@@ -45,3 +45,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Recommendation:** (a) Authorize a measured raise of light to 1,190,000 (1,173,622 + its recorded 15,791 headroom, rounded up to 5,000) — the third exception; the 90-call cap is unchanged and the phone stays under the old floor — Every building in the town gained its windows and doors at your request, the phone the floor protects is still inside it, and option b costs several runs plus a contract change while dev stays red; a later trim can still bring light back down, as T-0672 did
 
 **Asked:** 2026-10-10 by https://github.com/kevinrhaas/polecat-platform/actions/runs/38104047264. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-10, via Manager):** (a) Authorize a measured raise of light to 1,190,000 (1,173,622 + its recorded 15,791 headroom, rounded up to 5,000) — the third exception; the 90-call cap is unchanged and the phone stays under the old floor
