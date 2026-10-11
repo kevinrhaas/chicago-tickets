@@ -55,3 +55,11 @@ Rebuilding a house from scratch beside the draft, or leaving a draft copy and a 
 ## Finding from T-2201 (2026-10-11)
 
 HABS IL-1015 sheet 2 (first floor plan, 1963) draws the Glessner courtyard's south boundary wall turning SOUTH at the alley for about 8.3 ft (310 px at the sheet's 37.2 px/ft), a return about 1.2 ft thick whose west face is flush with the Glessner alley gate pier's. T-2201 built the south wall itself on the 1800/1808 line (owned by `glessner_house.form.courtyard_wall`) and did NOT build this return: it stands on 1808 Prairie's alley line, so it belongs to 1808's rear-yard boundary, which is this ticket's. Built inside the Glessner record it would also push Glessner's envelope 2.6 m past its footprint and fail the K01 origin rule (max 1.0 m overhang).
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+No picture of this building was found by address in the Prairie library on 2026-10-11. Before building, search the library (every record, street views and neighbours' plates included) and `data/sources/`. If one turns up, add an `## Image gate` section here naming the structure id as a bullet.

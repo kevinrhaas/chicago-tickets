@@ -60,3 +60,16 @@ Rebuilding a house from scratch beside the draft, or leaving a draft copy and a 
 ## Note from T-1840 (2026-10-09)
 
 The parcel half of 1635 is settled. Robinson 1886 prints 1635 on a narrow brick building on the lot next north of 1637. The 1911 sheet shows that ground as three unbuilt strips (`prairie_1625_1637_a/b/c`), and `pa-1635-48` is now placed on `_c`, not on 1625. Whether it stood on 1 July 1904 is still this ticket's: there is no 1904 Blue Book listing at 1635. A separate conflict: the 1904 Blue Book OCR lists William Gold Hibbard Jr. at 1637 and Jesse Spalding at 1709, against the record's 'Spalding remodel' name for 1637. See `vacant_ground` and row frontage-20-031 in `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json`.
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+`ticket.mjs done` refuses this ticket until every building below matches every one of its reference views.
+
+Pictures:
+  `spalding_house_1637_prairie`: a16-ghm-blog-1637-grosvenor-asbuilt (photograph, side elevation, c. 1870), a16-ghm-blog-1637-spalding-remodel (engraving, oblique front, undated (after Spalding remodelling; probably 1880s–1890s))
+
+- spalding_house_1637_prairie

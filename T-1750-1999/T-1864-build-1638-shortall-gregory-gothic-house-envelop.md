@@ -55,3 +55,14 @@ This package no longer builds from an empty lot. [T-2160](../T-2000-2249/T-2160-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+This ticket works toward the same pictures as T-1865, whose `## Image gate` closes the building. Whatever this ticket builds is checked against them now, from their cameras.
+
+Pictures:
+  `shortall_gregory_house_1638_prairie_front`: a16-cgy-1638-gothic-photo (photograph, front elevation, undated), a16-cgy-1700-1706-townhouses (photograph, front elevation, undated (after 1902)), a16-ghm-blog-1700-1706-construction-1901 (photograph, oblique front, 1901), cgn-1701-tribune-1920-mrs-gregory-portrait (newspaper item, detail, December 16, 1920)

@@ -60,3 +60,14 @@ Rebuilding a house from scratch beside the draft, or leaving a draft copy and a 
 ## Note from T-1840 (2026-10-09)
 
 The address question is settled: the sheet prints **1721**, not 1719, so the map frontage and `pa-1721-4` are one property. Build one house. The sheet shows a 3B brick front with two curved bays, a long 2B rear wing with frame pieces at both ends, and a detached 2B building lettered GARAGE by the tracks, whose 1904 use is not read (ruling 11). See row frontage-20-034 of `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json`.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+This ticket works toward the same pictures as T-1879, whose `## Image gate` closes the building. Whatever this ticket builds is checked against them now, from their cameras.
+
+Pictures:
+  `dexter_house_1721_prairie`: a16-chm-clark-ichi-071912-dexter-c1905 (photograph, oblique front, circa 1905 (CHM-Date depicted)), a16-ghm-blog-1721-dexter-c1888 (photograph, front elevation, c. 1888), a16-inland-1891-dexter-residence (publication plate, oblique front, 1891 (plate in The Inland Architect and News Record, vol. 17, no. 5, June 1891); addition built 1889), a16-pullman-det-4a08065 (photograph, oblique front, [between 1890 and 1901]), cgn-1721-dexter-winter-photo-copy (photograph, front elevation, undated (c. 1888 per the Glessner House blog copy))

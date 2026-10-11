@@ -55,3 +55,16 @@ This package no longer builds from an empty lot. [T-2161](../T-2000-2249/T-2161-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+`ticket.mjs done` refuses this ticket until every building below matches every one of its reference views.
+
+Pictures:
+  `sherman_house_2100_prairie`: a20-aic-taylor-sherman-residence (photograph, oblique front, c.1890s (view date)), a20-chicagology-2100-sherman-photo (photograph, oblique front, undated (19th century; costume suggests c. 1885–1895)), dw-aabn-1876-09-30-sherman-2100-plate (publication plate, oblique front, September 30, 1876 (vol. I no. 40, plate))
+
+- sherman_house_2100_prairie

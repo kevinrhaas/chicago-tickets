@@ -55,3 +55,14 @@ This package no longer builds from an empty lot. [T-2159](../T-2000-2249/T-2159-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+This ticket works toward the same pictures as T-1905, whose `## Image gate` closes the building. Whatever this ticket builds is checked against them now, from their cameras.
+
+Pictures:
+  `marshall_field_house_1905_prairie`: a19-cgy-1905-field-1893-engraving (engraving, oblique front, 1893 (per filename; publication not named)), a19-cgy-1905-field-923 (photograph, oblique front, undated; filename uses pre-1880 numbering (923 Prairie), suggesting 1870s), a19-cgy-1905-field-winter (photograph, oblique front, c. 1905 (per Wikimedia Commons record of the same Chicago Daily News negative, DN-0003324)), a19-field-cdn-dn0003324 (photograph, oblique front, c. 1905), a19-gh-field-g85-1-15-38 (photograph, oblique front, undated (c. 1880s)), a19-nby-newchicagoalbum-1883-residences (publication plate, oblique front, 1883), a19-pictorial-1893-field (publication plate, oblique front, 1893 (publication)), a19-pictorial-1896-field (publication plate, oblique front, 1896 (IA metadata; identifier says 1892)), cgs-tribune-1898-01-09-death-strip (newspaper item, front elevation, January 9, 1898), nps-1905-tribune-1928-06-03-famous-homes-field-photo (newspaper item, front elevation, June 3, 1928), a19-cgy-1905-field-1955 (photograph, oblique front, 1955), a19-cgy-1905-field-school (photograph, oblique front, c. late 1930s–1940s (car model; institutional addition)), and 6 more in the library

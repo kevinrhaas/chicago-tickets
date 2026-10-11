@@ -55,3 +55,14 @@ This package no longer builds from an empty lot. [T-2159](../T-2000-2249/T-2159-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+This ticket works toward the same pictures as T-1883, whose `## Image gate` closes the building. Whatever this ticket builds is checked against them now, from their cameras.
+
+Pictures:
+  `keith_house_1808_prairie`: a18-gh-1808-keith-field-front (photograph, front elevation, undated (after 1886)), a18-gh-glessner-front-with-keith (photograph, front elevation, undated (probably 1890s–1920s)), a18-gho-house-under-construction-1887 (photograph, oblique front, 1887), a18-inland-architect-1888-02-glessner-plate (publication plate, oblique front, February 1888 (photograph winter 1887–88)), a18-inland-architect-1888-02-keith-plate (publication plate, front elevation, February 1888 (photograph c. 1887)), a18-rba-ia-1888-keith-1808 (publication plate, front elevation, February 1888), a18-rba-taylor-2135-glessner-ne (photograph, oblique front, c. 1889 (RBA); likely 1887–88), cgn-1804-landowner-1874-double-house (engraving, oblique front, May 1874), cgn-1808-inland-1888-keith-copy (publication plate, front elevation, February 1888 (The Inland Architect, vol. XI no. 1)), a18-gh-florian-1948-northeast-overall (photograph, oblique front, July 1948)

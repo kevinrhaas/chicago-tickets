@@ -60,3 +60,11 @@ Rebuilding a house from scratch beside the draft, or leaving a draft copy and a 
 ## Note from T-1840 (2026-10-09)
 
 The station frontage is **1605**, not 1603: the sheet prints 1605 and the traced parcel is `prairie_1605`. Robinson 1886 shows a frame building lettered 16TH ST. STATION, I.C.R.R. there, so the station use carries to 1904. 1601 is a 2-storey frame dwelling with nothing behind it. Read `chicago/prairie_1904_v1/data/sheet_census/sheet-20.json` rows frontage-20-022 and frontage-20-023.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+No picture of this building was found by address in the Prairie library on 2026-10-11. Before building, search the library (every record, street views and neighbours' plates included) and `data/sources/`. If one turns up, add an `## Image gate` section here naming the structure id as a bullet.

@@ -55,3 +55,14 @@ This package no longer builds from an empty lot. [T-2161](../T-2000-2249/T-2161-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+This ticket works toward the same pictures as T-1923, whose `## Image gate` closes the building. Whatever this ticket builds is checked against them now, from their cameras.
+
+Pictures:
+  `rees_house_2110_prairie`: a20-aic-rees-2009-parks-photos (photograph, front elevation, June 2009), a20-aic-rees-c1980s-photo (photograph, front elevation, c.1980s (view date)), a20-glessner-prairie-house-cafe-postcard (postcard, oblique front, 1970s (blog: café operated in the 1970s)), a20-glessner-rees-coach-house-2014 (photograph, rear, 2014), a20-glessner-rees-exterior-2012 (photograph, detail, January 2012 (post date)), a20-glessner-rees-house-move-2014 (photograph, oblique front, November 11–12, 2014), a20-rees-nrhp-2007-photo-coach-house (photograph, rear, December 2006 (photos); April 2007 (form)), a20-rees-nrhp-2007-photo-front (photograph, front elevation, December 2006 (photos); April 2007 (form)), a20-rees-nrhp-2007-photo-rear (photograph, rear, December 2006 (photos); April 2007 (form)), a20-rees-nrhp-2007-photo-south-side (photograph, side elevation, December 2006 (photos); April 2007 (form)), cgs-2110-tribune-2014-move-photo (newspaper item, oblique front, November 2014)

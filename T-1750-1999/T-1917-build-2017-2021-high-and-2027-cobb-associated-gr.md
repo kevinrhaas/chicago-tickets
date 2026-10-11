@@ -57,3 +57,18 @@ This package no longer builds from an empty lot. [T-2161](../T-2000-2249/T-2161-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+`ticket.mjs done` refuses this ticket until every building below matches every one of its reference views.
+
+Pictures:
+  `high_house_2021_prairie`: a20-chicagology-2021-high-photo (publication plate, oblique front, undated (file name suggests 1930; halftone with snow))
+  `house_2017_prairie`: a20-chicagology-2013-reid-ia1895 (publication plate, front elevation, 1895 (Chicagology file name); Reid NRHP 2003 bibliography cites an illustration in Inland Architect, February 1895), a20-ia-1895-02-reid-plate (publication plate, front elevation, February 1895 (Inland Architect and News Record, vol. 25 no. 1)), a20-chicagology-2017-armour-photo (photograph, front elevation, undated (19th century))
+
+- high_house_2021_prairie
+- house_2017_prairie

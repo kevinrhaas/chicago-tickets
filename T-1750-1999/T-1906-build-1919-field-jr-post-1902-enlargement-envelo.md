@@ -55,3 +55,14 @@ This package no longer builds from an empty lot. [T-2159](../T-2000-2249/T-2159-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Pictures to build toward (owner, 2026-10-11, T-2368)
+
+Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
+
+Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
+
+This ticket works toward the same pictures as T-1907, whose `## Image gate` closes the building. Whatever this ticket builds is checked against them now, from their cameras.
+
+Pictures:
+  `marshall_field_jr_house_1919_prairie`: a19-cgy-1919-before-1902 (photograph, oblique front, before 1902 (caption on hosting page)), a19-field-cdn-dn0003324 (photograph, oblique front, c. 1905), a19-bluebook-1912-gatlin-1919 (publication plate, oblique front, 1912 (publication); photograph c. 1909–1912), a19-cdnalmanac-1913-gatlin-1919 (publication plate, oblique front, 1913 (publication); photograph c. 1909–1912), cgs-1919-gatlin-program-1919 (publication plate, oblique front, 1919 (Chicagology: 'Cohen's Grand Opera Theater Programme, 1919')), a19-cgy-1919-later (photograph, oblique front, undated (late 20th century: chain-link fence, vacant era 1977–2000s?)), a19-commons-fieldjr-2004 (photograph, oblique front, October 9, 2004), a19-gh-1981-fieldjr-1919 (photograph, oblique front, 1981), a19-gh-prairie-1800-1900-elevations (architectural drawing, front elevation, undated drawing; depicts the street c. 1914 per the blog), cgs-1919-tribune-2004-2 (newspaper item, detail, September 12, 2004), cgs-1919-tribune-2004-4 (newspaper item, detail, September 12, 2004)
