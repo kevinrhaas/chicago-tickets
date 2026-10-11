@@ -1,7 +1,7 @@
 ---
 id: T-2334
 title: Draft the 16th-18th Prairie block's west side with the draft builder: every west frontage of sheet 20 and its rear service buildings, the 1620 and 1700/1706 rulings visible
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2160
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 677
 claimed_by: run 10/10/2026, 8:21:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T04:08:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38101326100
 claimed_at: 2026-10-11T01:21:08.456Z
 decision: null
