@@ -51,3 +51,7 @@ This package no longer builds from an empty lot. [T-2163](../T-2000-2249/T-2163-
 - compare before and after against the draft from the same camera poses.
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
+
+## Finding from T-2201 (2026-10-11)
+
+HABS IL-1015 sheet 2 (first floor plan, 1963) draws the Glessner courtyard's south boundary wall turning SOUTH at the alley for about 8.3 ft (310 px at the sheet's 37.2 px/ft), a return about 1.2 ft thick whose west face is flush with the Glessner alley gate pier's. T-2201 built the south wall itself on the 1800/1808 line (owned by `glessner_house.form.courtyard_wall`) and did NOT build this return: it stands on 1808 Prairie's alley line, so it belongs to 1808's rear-yard boundary, which is this ticket's. Built inside the Glessner record it would also push Glessner's envelope 2.6 m past its footprint and fail the K01 origin rule (max 1.0 m overhang).
