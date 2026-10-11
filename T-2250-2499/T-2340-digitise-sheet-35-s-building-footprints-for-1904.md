@@ -1,7 +1,7 @@
 ---
 id: T-2340
 title: Digitise sheet 35's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 20th to 22nd, the input T-2161's draft reads
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-10
-closed: null
+closed: 2026-10-11
 pr: 682
 claimed_by: run 10/10/2026, 11:12:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T05:02:40Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38110581931
 claimed_at: 2026-10-11T04:12:08.847Z
 decision: null

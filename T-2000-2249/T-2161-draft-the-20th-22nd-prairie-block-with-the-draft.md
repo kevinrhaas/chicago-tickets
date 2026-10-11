@@ -1,7 +1,7 @@
 ---
 id: T-2161
 title: Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-08
 closed: null
 pr: null
 claimed_by: run 10/10/2026, 11:10:44 PM CT
-blocked_on: T-2340 — the draft builder reads data/traces/prairie_1904_footprints_s35.json, which T-2340 digitises; found missing by the run that claimed this on 2026-10-11
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38110581931
@@ -73,3 +73,5 @@ A draft does **not** do bespoke carving, full-resolution photo matching, measure
 **Dependencies:** [T-1842](../T-1750-1999/T-1842-reconcile-sheet-35-building-entities-for-1904.md); [T-2159](../T-2000-2249/T-2159-draft-the-18th-20th-prairie-block-around-glessne.md)
 
 **Refined later by** (each now depends on this ticket and refines its draft in place): [T-1909](../T-1750-1999/T-1909-build-2000-and-2010-detached-frame-houses.md); [T-1910](../T-1750-1999/T-1910-build-2018-and-2026-masonry-houses.md); [T-1911](../T-1750-1999/T-1911-build-2036-buckingham-corner-house.md); [T-1912](../T-1750-1999/T-1912-build-2001-2003-and-2005-attached-row.md); [T-1913](../T-1750-1999/T-1913-build-2009-mayer-meyer-french-gothic-house-envel.md); [T-1914](../T-1750-1999/T-1914-finish-2009-mayer-meyer-french-gothic-house-arch.md); [T-1915](../T-1750-1999/T-1915-build-2011-romanesque-house-beside-mayer.md); [T-1916](../T-1750-1999/T-1916-build-2013-reid-classical-house.md); [T-1917](../T-1750-1999/T-1917-build-2017-2021-high-and-2027-cobb-associated-gr.md); [T-1918](../T-1750-1999/T-1918-build-2031-2033-and-2035-limestone-row.md); [T-1919](../T-1750-1999/T-1919-build-2100-sherman-victorian-gothic-house-envelo.md); [T-1920](../T-1750-1999/T-1920-finish-2100-sherman-victorian-gothic-house-archi.md); [T-1921](../T-1750-1999/T-1921-build-2108-mark-kimball-and-2112-rothschild.md); [T-1922](../T-1750-1999/T-1922-build-2110-rees-at-its-historical-site-envelope.md); [T-1923](../T-1750-1999/T-1923-finish-2110-rees-at-its-historical-site-architec.md); [T-1924](../T-1750-1999/T-1924-build-2101-and-2109-roloson-neighbours.md); [T-1925](../T-1750-1999/T-1925-build-2115-armour-second-empire-house.md); [T-1926](../T-1750-1999/T-1926-build-2120-and-the-2126-robbins-construction-pha.md); [T-1927](../T-1750-1999/T-1927-build-2130-murdoch-rounded-bay-house.md); [T-1928](../T-1750-1999/T-1928-build-2140-tucker-smith-corner-mansion-envelope.md); [T-1929](../T-1750-1999/T-1929-finish-2140-tucker-smith-corner-mansion-architec.md); [T-1930](../T-1750-1999/T-1930-build-2123-masonry-and-2125-frame-neighbours.md); [T-1931](../T-1750-1999/T-1931-build-2127-2129-flats-and-2141-non-building-fron.md); [T-1937](../T-1750-1999/T-1937-build-south-west-service-buildings-and-shared-re.md); [T-1938](../T-1750-1999/T-1938-build-south-east-service-buildings.md)
+
+**Unblocked 2026-10-11:** T-2340 merged (PR #682); this took its place in the queue. The block read: T-2340 — the draft builder reads data/traces/prairie_1904_footprints_s35.json, which T-2340 digitises; found missing by the run that claimed this on 2026-10-11
