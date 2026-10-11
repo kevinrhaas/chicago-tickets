@@ -1,7 +1,7 @@
 ---
 id: T-2344
 title: Refine 1612 Goodman, the Italianate stone-front, on the K01 frontage kit: the draft's id kept, its traced main body, an ashlar street face over common-brick returns, paired segmental windows, an arched entrance on a high stoop, bracketed cornice, every face closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1860
 opened: 2026-10-10
-closed: null
+closed: 2026-10-11
 pr: 685
 claimed_by: run 10/10/2026, 11:27:56 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T07:08:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38111398238
 claimed_at: 2026-10-11T04:27:56.942Z
 decision: null
