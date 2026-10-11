@@ -1,7 +1,7 @@
 ---
 id: T-2366
 title: Rebuild 1612 Prairie (Goodman) from its photograph: three bays, paired round-arched windows with keystones, arched porch on columns, banded stone, deep frieze cornice, iron fence; validated from the photo's own camera
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 1:51:14 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-11T18:51:14.575Z
 decision: null
 decision_answer: null
 ---
