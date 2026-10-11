@@ -1,7 +1,7 @@
 ---
 id: T-2346
 title: Refine 1634 Prairie's main body on the K01 frontage kit taught the attached stone-front rowhouse: the draft's id kept, its traced main rectangle, three storeys, a flat roof behind its bracketed cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1863
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 12:06:18 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38113330249
+claimed_at: 2026-10-11T05:06:18.489Z
 decision: null
 decision_answer: null
 ---
