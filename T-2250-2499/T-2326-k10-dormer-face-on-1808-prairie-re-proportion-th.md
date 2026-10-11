@@ -1,7 +1,7 @@
 ---
 id: T-2326
 title: K10 dormer face on 1808 Prairie: re-proportion the K05 dormer (its sash head stands 0.13 m under its cheek soffit) so the kit's 0.20 m pediment cornice can be returned on its cheeks, then dress the face from the K10 dormer variant, verified at both viewports with costs
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 697
 claimed_by: run 10/11/2026, 7:14:24 AM CT
 blocked_on: null
 needs_bake: false
