@@ -1,7 +1,7 @@
 ---
 id: T-2313
 title: K15 on a named target: the chimneys of a Prairie Avenue 1904 house built from the chimney kit at their source-bounded number, height and position, seated on its roof with crickets and flashing, the reduced tier keeping location and height, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1857
 opened: 2026-10-10
-closed: null
+closed: 2026-10-11
 pr: 687
 claimed_by: run 10/11/2026, 12:16:27 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T11:21:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38114059059
 claimed_at: 2026-10-11T05:16:28.572Z
 decision: null

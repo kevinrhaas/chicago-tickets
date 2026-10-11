@@ -27,7 +27,7 @@
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-2313 — K15 on a named target: the chimneys of a Prairie Avenue 1904 house built from the chimney kit at their source-bounded number, height and position, seated on its roof with crickets and flashing, the reduced tier keeping location and height, baked and verified at both viewports (front, oblique, rear and roof views) with costs
+T-2326 — K10 dormer face on 1808 Prairie: re-proportion the K05 dormer (its sash head stands 0.13 m under its cheek soffit) so the kit's 0.20 m pediment cornice can be returned on its cheeks, then dress the face from the K10 dormer variant, verified at both viewports with costs
 T-2351 — Draft the 20th-22nd Prairie block's west side with the draft builder: every west frontage of sheet 35 and its rear buildings, the 2108/2110 shared coach house as one building, Rees at its historical 2110 site, Robbins 2126 in one declared working phase, 2140 Tucker/Smith in one documented roof state
 T-2352 — Draft the 20th-22nd Prairie block's east side with the draft builder: every east frontage of sheet 35 and its rear buildings, 2141 as a non-building frontage
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
@@ -154,8 +154,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
-# BLOCKED-TECH T-2326 (opened 2026-10-10, META) — K10 dormer face on 1808 Prairie: re-proportion the K05 dormer (its sash head stands 0.13 m under its cheek soffit) so t…
-#     waits: T-2313 — one 1808 Prairie PR at a time (owner, 2026-10-10): the dormer face goes on after the chimneys land (chain T-2317 → T-2319 → T-2313 → T-2326)
 # BLOCKED-TECH T-2325 (opened 2026-10-10, SOUTH_TIME) — K14 on a named target: the condition kit applied to a Prairie Avenue 1904 house and its yard — wall foot, plinth, sills…
 #     waits: T-2326 — one 1808 Prairie PR at a time (owner, 2026-10-10): 1808 Prairie is the only kit-built Prairie 1904 house and Glessner's exterior is owner-manual, so the condition kit goes on after the dormer face lands
 # BLOCKED-TECH T-2162 (opened 2026-10-08, SOUTH_TIME) — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side backg…
