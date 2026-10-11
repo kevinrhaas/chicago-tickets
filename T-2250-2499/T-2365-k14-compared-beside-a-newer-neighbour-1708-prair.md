@@ -1,7 +1,7 @@
 ---
 id: T-2365
 title: K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own age once T-1872 stands it on K01, shown beside 1808 under the same light, front and oblique at both viewports, with costs
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-11
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-1872
 needs_bake: false
 closed_at: null
 claimed_run: null

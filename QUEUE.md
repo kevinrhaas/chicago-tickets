@@ -29,7 +29,6 @@
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-2359 — K14 on 1808 Prairie's roof: the chimney plume on the slate leeward of its two K15 stacks at the house's own age, with the roof rows the plume needs, baked and verified at both viewports (roof view) with costs
 T-2364 — K14 on a brick-fronted K01 house: a brick house's sill trails found before its walls are cut, and 1608 Prairie weathered at the 1886 plate's bound, baked and verified at both viewports with costs
-T-2365 — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own age once T-1872 stands it on K01, shown beside 1808 under the same light, front and oblique at both viewports, with costs
 T-2363 — Make the draft emitter's GLB bytes independent of the Python minor version: house_2011_prairie's turret built bit-different under the steward runner's 3.12 than under the gate's pinned 3.11 (same size, other bytes; #689), so a run that emits on 3.12 ships a GLB the gate refuses — pin the runner's python3 to 3.11 or make the summation order-exact (math.fsum or an explicit loop) in the archetype
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
@@ -199,3 +198,5 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # BLOCKED-TECH T-2228 (opened 2026-10-09, SOUTH_TIME) — Glessner: run final photographic comparison and evidence sign-off
 #     waits: T-2227 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 T-2362 — CI smoke leg desktop 10-14 overruns its 40-minute timeout on every run since T-2337 split part 10 into 10+11: five parts at ~8 min each, cancelled at 40m on dev (run 38138197680) and on #696 (run 38140175452); re-tile the bake workflow's desktop legs so each fits its cap, and let merge-ready see a PR go clean again
+# BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
+#     waits: T-1872
