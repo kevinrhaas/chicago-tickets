@@ -1,7 +1,7 @@
 ---
 id: T-2342
 title: Refine 1600 Prairie, the 16th Street corner house, on the brick K01 frontage: windows on the north wall to 16th Street and the sheet's curved bay on the Prairie face
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1859
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 690
 claimed_by: run 10/11/2026, 2:46:42 AM CT
 blocked_on: null
 needs_bake: false
