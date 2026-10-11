@@ -1,7 +1,7 @@
 ---
 id: T-2343
 title: Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1859
 opened: 2026-10-10
-closed: null
+closed: 2026-10-11
 pr: 693
 claimed_by: run 10/11/2026, 4:13:11 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T20:22:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38126241439
 claimed_at: 2026-10-11T09:13:11.658Z
 decision: null

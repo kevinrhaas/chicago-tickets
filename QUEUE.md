@@ -32,7 +32,6 @@ T-2364 — K14 on a brick-fronted K01 house: a brick house's sill trails found b
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2208 — Refine Glessner street masonry courses, relief and opening returns
 T-2354 — Stand 1616 Prairie's one-storey brick rear range beside its K01 body, on K01's traced rear wing once T-2347 teaches it
-T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
 T-2350 — Refine 1634 Prairie's main body on K01 with the K05 flat roof: the draft's id kept, its traced main rectangle, three storeys, the bracketed street cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
@@ -200,7 +199,6 @@ T-2362 — CI smoke leg desktop 10-14 overruns its 40-minute timeout on every ru
 #     waits: T-1872
 T-2366 — Rebuild 1612 Prairie (Goodman) from its photograph: three bays, paired round-arched windows with keystones, arched porch on columns, banded stone, deep frieze cornice, iron fence; validated from the photo's own camera
 T-2368 — The image gate: every building is built until it matches its photographs and drawings, and its ticket closes only then
-T-2367 — Call them liberties everywhere a visitor reads: retire the what-we-made-up wording
 # BLOCKED-TECH T-2369 (opened 2026-10-11, SOUTH_TIME) — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the …
 #     waits: T-2366 — same house; lands after T-2366's PR
 T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
