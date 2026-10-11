@@ -31,6 +31,7 @@ T-2337 — Desktop smoke part 10 overruns the 600 s foreground cap on the stewar
 T-2319 — K11 on a named target: the front fence, entry gate, piers and boundary wall of a Prairie Avenue 1904 house built from the ironwork kit at its source-bounded line and height, kept off the entrance and the shared carriage drive, the light tier keeping the silhouette, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-2335 — Draft the 16th-18th Prairie block's east side with the draft builder: every east frontage of sheet 20 and its rear buildings, the Pullman estate package, the 1609-1611, 1719/1721 and Forsyth 1635 rulings visible
 T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
+T-2340 — Digitise sheet 35's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 20th to 22nd, the input T-2161's draft reads
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
 T-1859 — Refine 1600, 1604 and 1608 north-west frontage
