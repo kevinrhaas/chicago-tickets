@@ -30,7 +30,6 @@
 T-2359 — K14 on 1808 Prairie's roof: the chimney plume on the slate leeward of its two K15 stacks at the house's own age, with the roof rows the plume needs, baked and verified at both viewports (roof view) with costs
 T-2360 — K14 on 1808 Prairie's yard: lawn, front walk and side service walk as ground surfaces inside its K11 boundary, carrying the kit's grass edge at the wall foot and path wear, baked and verified at both viewports with costs
 T-2361 — K14 compared beside a newer neighbour: the kit applied to a Prairie Avenue 1904 house built later than 1808 (1886) and shown beside it under the same light, front and oblique at both viewports, with costs
-T-2351 — Draft the 20th-22nd Prairie block's west side with the draft builder: every west frontage of sheet 35 and its rear buildings, the 2108/2110 shared coach house as one building, Rees at its historical 2110 site, Robbins 2126 in one declared working phase, 2140 Tucker/Smith in one documented roof state
 T-2352 — Draft the 20th-22nd Prairie block's east side with the draft builder: every east frontage of sheet 35 and its rear buildings, 2141 as a non-building frontage
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
