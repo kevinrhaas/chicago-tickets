@@ -35,7 +35,6 @@ T-2352 — Draft the 20th-22nd Prairie block's east side with the draft builder:
 T-2201 — Glessner: close the south courtyard boundary and resolve its junctions
 T-2354 — Stand 1616 Prairie's one-storey brick rear range beside its K01 body, on K01's traced rear wing once T-2347 teaches it
 T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
-T-1861 — Refine 1620 Law house restored for 1904
 T-2355 — Refine 1628 Prairie's main body on the brick K01 frontage: the draft's id and traced main rectangle kept, the blank party wall it shares with 1626 on the north, brick front, sash, stoop, its own roof, gutters, chimneys and rear elevation
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit

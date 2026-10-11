@@ -1,7 +1,7 @@
 ---
 id: T-1861
 title: Refine 1620 Law house restored for 1904
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-11
 pr: 694
 claimed_by: run 10/11/2026, 4:31:14 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-11T10:37:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38128479498
 claimed_at: 2026-10-11T09:31:14.493Z
 decision: null
