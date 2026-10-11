@@ -1,7 +1,7 @@
 ---
 id: T-2353
 title: Refine 1616 Prairie's main body on the brick K01 frontage: the draft's id and traced main rectangle kept, brick corner bonds, recessed sash, lintels, high stoop, its own roof, gutters, chimneys and rear elevation
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2345
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 3:40:26 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38123920503
+claimed_at: 2026-10-11T08:40:26.493Z
 decision: null
 decision_answer: null
 ---
