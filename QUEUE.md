@@ -27,7 +27,6 @@
 # your initial serviceable good draft model layer". Order: reconciliations, components, then the DISTRICT DRAFT PASS (T-2159 the 18th-20th block and the
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
-T-2358 — K14 on 1808 Prairie's walls at its own age in 1904 (built 1886): ground damp at the wall foot and the stone plinth, eave soot, and water trails below every sill and gutter outlet, from the kit on _TONE rows of the K01 walls and K02 front, opted in per record so no other K01 house moves, baked and verified at both viewports (front, oblique, rear) with costs, compared with the full-age K03 mask it replaces
 T-2359 — K14 on 1808 Prairie's roof: the chimney plume on the slate leeward of its two K15 stacks at the house's own age, with the roof rows the plume needs, baked and verified at both viewports (roof view) with costs
 T-2360 — K14 on 1808 Prairie's yard: lawn, front walk and side service walk as ground surfaces inside its K11 boundary, carrying the kit's grass edge at the wall foot and path wear, baked and verified at both viewports with costs
 T-2361 — K14 compared beside a newer neighbour: the kit applied to a Prairie Avenue 1904 house built later than 1808 (1886) and shown beside it under the same light, front and oblique at both viewports, with costs
