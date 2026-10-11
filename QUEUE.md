@@ -32,7 +32,8 @@ T-2317 — K10 on a named target: the cornice, parapet, dormer faces and crestin
 T-2321 — K12 on a named target: the alley coach house or service wing of a Prairie Avenue 1904 lot built from the coach-house kit at its mapped rear footprint, every elevation closed and its workyard connected to the house, 1911 garage and auto labels never read as 1904 use, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-2332 — Mobile smoke part 10 is red on dev: the near-walk flora arrival reading sees 0 arrivals and 0 plant-frames, and z09 sand prairie's butterfly weed is drawn nowhere
 T-2330 — Draft the 18th-20th Prairie block's east side with the draft builder: every east frontage and its rear buildings, so 1801 and 1811 read distinct from 1808 and 1812 at the landing
-T-2160 — Draft the 16th-18th Prairie block with the draft builder: every frontage and its rear service buildings
+T-2334 — Draft the 16th-18th Prairie block's west side with the draft builder: every west frontage of sheet 20 and its rear service buildings, the 1620 and 1700/1706 rulings visible
+T-2335 — Draft the 16th-18th Prairie block's east side with the draft builder: every east frontage of sheet 20 and its rear buildings, the Pullman estate package, the 1609-1611, 1719/1721 and Forsyth 1635 rulings visible
 T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
