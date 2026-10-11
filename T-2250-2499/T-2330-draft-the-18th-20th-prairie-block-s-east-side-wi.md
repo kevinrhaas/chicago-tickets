@@ -1,7 +1,7 @@
 ---
 id: T-2330
 title: Draft the 18th-20th Prairie block's east side with the draft builder: every east frontage and its rear buildings, so 1801 and 1811 read distinct from 1808 and 1812 at the landing
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2159
 opened: 2026-10-10
-closed: null
+closed: 2026-10-10
 pr: 675
 claimed_by: run 10/10/2026, 7:02:46 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T03:12:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38096885064
 claimed_at: 2026-10-11T00:02:46.599Z
 decision: null
