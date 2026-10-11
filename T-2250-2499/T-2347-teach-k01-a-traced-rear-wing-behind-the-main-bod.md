@@ -34,3 +34,11 @@ When T-1863 was split (2026-10-11T05:06:06.922Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38113330249) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Also waiting on this: 1628 Prairie's three-storey rear wing (T-2355, 2026-10-11)
+
+T-2355 refined 1628 Prairie's main body onto K01 (`house_1628_prairie`) and, as T-2353 did for 1616,
+could not keep the sheet's wing standing: s20fp-1628-b1's second rectangle, the draft's `r2`, a
+three-storey brick wing 4.5 m out behind the north part of the rear wall (plan u -4.5..0, v 2.0..6.25
+in the record's own frame). It is gone from the scene until this ticket's traced rear wing can carry
+it. 1628's rear window at v 4.1 m stands where the wing joins and becomes the opening into it.
