@@ -30,7 +30,7 @@
 T-2364 — K14 on a brick-fronted K01 house: a brick house's sill trails found before its walls are cut, and 1608 Prairie weathered at the 1886 plate's bound, baked and verified at both viewports with costs
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2208 — Refine Glessner street masonry courses, relief and opening returns
+T-2209 — Calibrate Glessner granite texture, roughness and shadow readability
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
 T-2350 — Refine 1634 Prairie's main body on K01 with the K05 flat roof: the draft's id kept, its traced main rectangle, three storeys, the bracketed street cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
@@ -153,8 +153,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2161 — every building this ticket names except Second Presbyterian (213/215/217 East Twentieth: parcels e20th south of blk_indiana_prairie_20_21; 2008 and 2018 Calumet: calumet west of blk_prairie_calumet_20_21) stands on Sanborn 1911 sheet 35, which has never been traced: tools/trace_prairie_1904_footprints.py SHEETS holds only 20 and 28, and no data/traces/prairie_1904_footprints_s35.json exists. T-2161 (20th-22nd Prairie, claimed by a live sibling run on 2026-10-11) must add the sheet-35 SHEETS entry, tune the tracer for that sheet's 1602x2000 raster and add sheet 35 to the draft rules. Drafting these edges beside it would write the same SHEETS key, the same s35 trace file and the same rules block twice. Second Presbyterian (1936 S Michigan) is on no committed sheet at all and will need its own footprint source. Chained so settle reopens this in T-2161's queue line when T-2161 merges; if T-2161 is split instead, unblock this when the piece that traces sheet 35 lands.
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2162 — the grounds and the whole-district walk need every draft standing: T-2161 (20th-22nd, blocked on T-2340's sheet-35 trace) and T-2162 (edges, blocked on T-2161) have not landed, and T-2335 (16th-18th east) is in flight; chained so settle reopens this in T-2162's queue line when it merges
-# BLOCKED-TECH T-2209 (opened 2026-10-09, SOUTH_TIME) — Calibrate Glessner granite texture, roughness and shadow readability
-#     waits: T-2208 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2210 (opened 2026-10-09, SOUTH_TIME) — Glessner: calibrate courtyard brick and limestone as distinct materials
 #     waits: T-2209 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2211 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner street and stable window profiles and stone supports
@@ -196,10 +194,7 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 T-2362 — CI smoke leg desktop 10-14 overruns its 40-minute timeout on every run since T-2337 split part 10 into 10+11: five parts at ~8 min each, cancelled at 40m on dev (run 38138197680) and on #696 (run 38140175452); re-tile the bake workflow's desktop legs so each fits its cap, and let merge-ready see a PR go clean again
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-2366 — Rebuild 1612 Prairie (Goodman) from its photograph: three bays, paired round-arched windows with keystones, arched porch on columns, banded stone, deep frieze cornice, iron fence; validated from the photo's own camera
-T-2368 — The image gate: every building is built until it matches its photographs and drawings, and its ticket closes only then
-# BLOCKED-TECH T-2369 (opened 2026-10-11, SOUTH_TIME) — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the …
-#     waits: T-2366 — same house; lands after T-2366's PR
+T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
 T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
 T-2371 — Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
 T-2372 — Match Eliza Chappel's infant school to its pictures

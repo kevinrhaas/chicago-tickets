@@ -1,7 +1,7 @@
 ---
 id: T-2368
 title: The image gate: every building is built until it matches its photographs and drawings, and its ticket closes only then
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 706
 claimed_by: run 10/11/2026, 2:38:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-11T22:15:37Z
 claimed_run: null
 claimed_at: 2026-10-11T19:38:28.784Z
 decision: null

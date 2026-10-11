@@ -1,7 +1,7 @@
 ---
 id: T-2208
 title: Refine Glessner street masonry courses, relief and opening returns
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-11
 pr: 707
 claimed_by: run 10/11/2026, 2:13:03 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-11T22:12:07Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38166535384
 claimed_at: 2026-10-11T19:13:03.842Z
 decision: null
