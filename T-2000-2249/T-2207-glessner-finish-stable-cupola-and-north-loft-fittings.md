@@ -1,7 +1,7 @@
 ---
 id: T-2207
 title: Glessner: finish stable cupola and north loft fittings
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 698
 claimed_by: run 10/11/2026, 7:38:17 AM CT
 blocked_on: null
 needs_bake: true
