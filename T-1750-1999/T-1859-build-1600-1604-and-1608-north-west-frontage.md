@@ -1,7 +1,7 @@
 ---
 id: T-1859
 title: Refine 1600, 1604 and 1608 north-west frontage
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/10/2026, 11:13:58 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38110646061
+claimed_at: 2026-10-11T04:13:58.933Z
 decision: null
 decision_answer: null
 ---
