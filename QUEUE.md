@@ -209,3 +209,4 @@ T-2372 — Match Eliza Chappel's infant school to its pictures
 T-2373 — Match the 1832 lighthouse to its pictures
 T-2374 — Match Cobweb Castle to its pictures
 T-2375 — Match the Dearborn Street drawbridge to its pictures
+T-2376 — Match the Green Tree Tavern to its pictures
