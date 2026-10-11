@@ -1,7 +1,7 @@
 ---
 id: T-2335
 title: Draft the 16th-18th Prairie block's east side with the draft builder: every east frontage of sheet 20 and its rear buildings, the Pullman estate package, the 1609-1611, 1719/1721 and Forsyth 1635 rulings visible
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2160
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 683
 claimed_by: run 10/10/2026, 10:38:24 PM CT
 blocked_on: null
 needs_bake: false
