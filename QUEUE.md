@@ -10,8 +10,8 @@
 # - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
 # - No human figure is drawn. Native, Metis and Black residents, families and businesses are reconstructed in the data
 #   layer, review_required (AGENTS.md, standing constraint). Respect needs_bake and every ticket-level blocker.
-# - Below the 1835 work: Prairie Avenue 1904 (band 7), then the portable humans (8C). The Glessner photographic-finish
-#   group and the Unreal holds are commented out and taken by hand only.
+# - Below the 1835 work: Prairie Avenue 1904 (band 7, with the Glessner photographic-finish group released into it
+#   2026-10-11 and run one at a time), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
 # --- 1. THE 1835 TOWN — the owed roofs raised, households seated and dealt, signs and cards a visitor reads, the
 # ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
@@ -30,6 +30,9 @@
 T-2313 — K15 on a named target: the chimneys of a Prairie Avenue 1904 house built from the chimney kit at their source-bounded number, height and position, seated on its roof with crickets and flashing, the reduced tier keeping location and height, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-2351 — Draft the 20th-22nd Prairie block's west side with the draft builder: every west frontage of sheet 35 and its rear buildings, the 2108/2110 shared coach house as one building, Rees at its historical 2110 site, Robbins 2126 in one declared working phase, 2140 Tucker/Smith in one documented roof state
 T-2352 — Draft the 20th-22nd Prairie block's east side with the draft builder: every east frontage of sheet 35 and its rear buildings, 2141 as a non-building frontage
+# Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
+# ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
+T-2201 — Glessner: close the south courtyard boundary and resolve its junctions
 T-2341 — Refine 1608 Prairie on the K01 frontage kit taught a plain brick street front: the draft's id kept, its traced rectangle, two storeys over a raised basement, brick front with stone trim, bracketed cornice, every face closed
 T-2342 — Refine 1600 Prairie, the 16th Street corner house, on the brick K01 frontage: windows on the north wall to 16th Street and the sheet's curved bay on the Prairie face
 T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
@@ -135,35 +138,6 @@ T-1790 — Build the portable human animation library: idle, walk, talk, gesture
 T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 
-# --- GLESSNER HOUSE 1904 — EXTERIOR AND COURTYARD PHOTOGRAPHIC FINISH (MANUAL ONLY)
-# Owner, 2026-10-09 UTC: file all reviewed work below the people and comment the group out; take tickets manually one at a time.
-# 31 held tickets: 26 audit packages (four split into two bounded passes) plus one missing-reference retrieval pass.
-# Every row is commented and every ticket is blocked-owner. Do not auto-unblock, claim, or activate this group.
-# Programme/evidence/release instructions: evidence/glessner-exterior-audit-2026-10-08/README.md
-# BLOCKED-OWNER T-2201 — Glessner: close the south courtyard boundary and resolve its junctions [GA-03]
-# BLOCKED-OWNER T-2207 — Glessner: finish stable cupola and north loft fittings [GA-08]
-# BLOCKED-OWNER T-2208 — Refine Glessner street masonry courses, relief and opening returns [GA-09A]
-# BLOCKED-OWNER T-2209 — Calibrate Glessner granite texture, roughness and shadow readability [GA-09B]
-# BLOCKED-OWNER T-2210 — Glessner: calibrate courtyard brick and limestone as distinct materials [GA-10]
-# BLOCKED-OWNER T-2211 — Finish Glessner street and stable window profiles and stone supports [GA-11A]
-# BLOCKED-OWNER T-2212 — Finish Glessner courtyard, bow, turret and dormer window profiles [GA-11B]
-# BLOCKED-OWNER T-2213 — Glessner: give dark glazing believable exterior-visible depth and variation [GA-12]
-# BLOCKED-OWNER T-2214 — Correct the mirrored Glessner 1886 inscription and monogram [GA-13A]
-# BLOCKED-OWNER T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals [GA-13B]
-# BLOCKED-OWNER T-2216 — Glessner: complete the main entry oak door and iron grille [GA-14]
-# BLOCKED-OWNER T-2217 — Glessner: finish both porte-cochere leaves, hardware and passage [GA-15]
-# BLOCKED-OWNER T-2218 — Glessner: reconstruct the curved courtyard hall steps and cheek wall [GA-16]
-# BLOCKED-OWNER T-2219 — Glessner: audit basement grilles, light wells and service openings [GA-17]
-# BLOCKED-OWNER T-2220 — Glessner: refine copper roof panels, seams and weathering [GA-18]
-# BLOCKED-OWNER T-2221 — Glessner: complete gutters, rainwater heads, downpipes and attachments [GA-19]
-# BLOCKED-OWNER T-2222 — Glessner: resolve chimney phase and finish stack/cap detail [GA-20]
-# BLOCKED-OWNER T-2223 — Glessner: date and finish courtyard service stairs, rails and rear gate [GA-21]
-# BLOCKED-OWNER T-2224 — Glessner: finish courtyard paths, edging, lawn and drainage [GA-22]
-# BLOCKED-OWNER T-2225 — Glessner: add restrained, dated courtyard vines and exterior planting [GA-23]
-# BLOCKED-OWNER T-2226 — Glessner: balance lighting, contact shadows and restrained surface aging [GA-24]
-# BLOCKED-OWNER T-2227 — Glessner: validate full/light browser quality and controlled performance [GA-25]
-# BLOCKED-OWNER T-2228 — Glessner: run final photographic comparison and evidence sign-off [GA-26]
-
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
 # Commented holds, never claimable. Unblock only when every dependency AND a capable executor are proven.
 # HOLD T-1472 — on-demand latest-validated Mac build/release; qualified Mac + release access.
@@ -191,3 +165,47 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2162 — the grounds and the whole-district walk need every draft standing: T-2161 (20th-22nd, blocked on T-2340's sheet-35 trace) and T-2162 (edges, blocked on T-2161) have not landed, and T-2335 (16th-18th east) is in flight; chained so settle reopens this in T-2162's queue line when it merges
 # BLOCKED-TECH T-2345 (opened 2026-10-10, SOUTH_TIME) — Refine 1616 Prairie, the brick neighbour, on the brick K01 frontage T-2341 teaches: the draft's main body and attached …
 #     waits: T-2341 — 1616 is a plain brick front; the K01 kit builds only a stone front until T-2341 teaches it brick (construction: brick), so this waits on that piece
+# BLOCKED-TECH T-2207 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish stable cupola and north loft fittings
+#     waits: T-2201 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2208 (opened 2026-10-09, SOUTH_TIME) — Refine Glessner street masonry courses, relief and opening returns
+#     waits: T-2207 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2209 (opened 2026-10-09, SOUTH_TIME) — Calibrate Glessner granite texture, roughness and shadow readability
+#     waits: T-2208 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2210 (opened 2026-10-09, SOUTH_TIME) — Glessner: calibrate courtyard brick and limestone as distinct materials
+#     waits: T-2209 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2211 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner street and stable window profiles and stone supports
+#     waits: T-2210 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2212 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner courtyard, bow, turret and dormer window profiles
+#     waits: T-2211 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2213 (opened 2026-10-09, SOUTH_TIME) — Glessner: give dark glazing believable exterior-visible depth and variation
+#     waits: T-2212 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2214 (opened 2026-10-09, SOUTH_TIME) — Correct the mirrored Glessner 1886 inscription and monogram
+#     waits: T-2213 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2215 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner entry tympanum, ornamental band and varied capitals
+#     waits: T-2214 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2216 (opened 2026-10-09, SOUTH_TIME) — Glessner: complete the main entry oak door and iron grille
+#     waits: T-2215 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
+#     waits: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2218 (opened 2026-10-09, SOUTH_TIME) — Glessner: reconstruct the curved courtyard hall steps and cheek wall
+#     waits: T-2217 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2219 (opened 2026-10-09, SOUTH_TIME) — Glessner: audit basement grilles, light wells and service openings
+#     waits: T-2218 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2220 (opened 2026-10-09, SOUTH_TIME) — Glessner: refine copper roof panels, seams and weathering
+#     waits: T-2219 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2221 (opened 2026-10-09, SOUTH_TIME) — Glessner: complete gutters, rainwater heads, downpipes and attachments
+#     waits: T-2220 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2222 (opened 2026-10-09, SOUTH_TIME) — Glessner: resolve chimney phase and finish stack/cap detail
+#     waits: T-2221 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2223 (opened 2026-10-09, SOUTH_TIME) — Glessner: date and finish courtyard service stairs, rails and rear gate
+#     waits: T-2222 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2224 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish courtyard paths, edging, lawn and drainage
+#     waits: T-2223 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2225 (opened 2026-10-09, SOUTH_TIME) — Glessner: add restrained, dated courtyard vines and exterior planting
+#     waits: T-2224 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2226 (opened 2026-10-09, SOUTH_TIME) — Glessner: balance lighting, contact shadows and restrained surface aging
+#     waits: T-2225 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2227 (opened 2026-10-09, SOUTH_TIME) — Glessner: validate full/light browser quality and controlled performance
+#     waits: T-2226 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+# BLOCKED-TECH T-2228 (opened 2026-10-09, SOUTH_TIME) — Glessner: run final photographic comparison and evidence sign-off
+#     waits: T-2227 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)

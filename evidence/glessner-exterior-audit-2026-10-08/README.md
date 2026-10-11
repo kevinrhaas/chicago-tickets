@@ -8,6 +8,8 @@ Owner-authorized filing, 2026-10-09 UTC. **31 tickets, all manually held; no aut
 
 The reviewed 26 audit items are preserved. Four large items (GA-05 roof tiles, GA-09 granite, GA-11 windows and GA-13 inscription/carving) each became two bounded implementation passes, giving 30 completion tickets. One additional ticket covers retrieval of the 17 unavailable source records and the missing-view brief. That makes **31**. Each ticket is `blocked-owner`, carries a clear scheduling reason and appears as a commented `# BLOCKED-OWNER` row in one group immediately below the portable humans (after T-1792). This is the owner's explicit hold, not a request for another permission round.
 
+**Released 2026-10-11:** the owner released the whole group to the loop ("Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341"). The open tickets run one at a time in audit order from band 7, below T-2352 and above T-2341: T-2201 is open, and T-2207 through T-2228 are chained as blocked-tech on their predecessor, so settle opens each in turn. The manual procedure below is history.
+
 ## Take one manually
 
 1. Select a specific ticket with the owner and read its dependencies and existing-ticket cross-references. Do not release the rest of the group.

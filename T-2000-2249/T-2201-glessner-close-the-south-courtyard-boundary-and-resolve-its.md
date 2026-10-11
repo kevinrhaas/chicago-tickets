@@ -1,7 +1,7 @@
 ---
 id: T-2201
 title: Glessner: close the south courtyard boundary and resolve its junctions
-state: blocked-owner
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: Owner-directed manual hold (2026-10-09 UTC): commented Glessner group below portable people; activate only the single ticket explicitly selected by the owner.
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -26,6 +26,8 @@ Owner instruction, 2026-10-09 UTC:
 > Ok go ahead and file and create tickets for all of this and put them in a group below the people and comment the group out so we can take these tickets manually one at a time
 
 **Manual hold:** This ticket is filed and approved as planned work, but is not released for automated execution. Its `blocked-owner` state represents the owner's explicit scheduling hold, not an unanswered research question. Keep its queue entry commented in the Glessner group below portable humans. Release only the ticket the owner selects; never activate the whole group.
+
+**Released to the loop (2026-10-11):** the owner lifted the manual hold on the whole Glessner group: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". This supersedes the manual-hold paragraph above and the "release and claim only after the owner selects this specific ticket" line below. The group runs one at a time in audit order (T-2201, then T-2207 through T-2228), ranked in band 7 below T-2352 and above T-2341. It heads the chain and is open now.
 
 **Audit item:** GA-03 • **Priority:** P1 • **Basis:** Confirmed visible gap
 
