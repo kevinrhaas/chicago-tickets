@@ -1,7 +1,7 @@
 ---
 id: T-2161
 title: Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
-state: claimed
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-08
 closed: null
 pr: null
 claimed_by: run 10/10/2026, 11:10:44 PM CT
-blocked_on: null
+blocked_on: T-2340 — the draft builder reads data/traces/prairie_1904_footprints_s35.json, which T-2340 digitises; found missing by the run that claimed this on 2026-10-11
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38110581931

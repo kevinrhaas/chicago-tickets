@@ -30,7 +30,6 @@ T-2337 — Desktop smoke part 10 overruns the 600 s foreground cap on the stewar
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-2319 — K11 on a named target: the front fence, entry gate, piers and boundary wall of a Prairie Avenue 1904 house built from the ironwork kit at its source-bounded line and height, kept off the entrance and the shared carriage drive, the light tier keeping the silhouette, baked and verified at both viewports (front, oblique, rear and roof views) with costs
 T-2335 — Draft the 16th-18th Prairie block's east side with the draft builder: every east frontage of sheet 20 and its rear buildings, the Pullman estate package, the 1609-1611, 1719/1721 and Forsyth 1635 rulings visible
-T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
 T-2340 — Digitise sheet 35's building footprints for 1904 through the T-1250 georeference: every main body, wing, porch, bay and rear service polygon on both faces of Prairie Avenue, 20th to 22nd, the input T-2161's draft reads
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
 T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
@@ -187,3 +186,5 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2313 — one 1808 Prairie PR at a time (owner, 2026-10-10): the dormer face goes on after the chimneys land (chain T-2317 → T-2319 → T-2313 → T-2326)
 # BLOCKED-TECH T-2325 (opened 2026-10-10, SOUTH_TIME) — K14 on a named target: the condition kit applied to a Prairie Avenue 1904 house and its yard — wall foot, plinth, sills…
 #     waits: T-2326 — one 1808 Prairie PR at a time (owner, 2026-10-10): 1808 Prairie is the only kit-built Prairie 1904 house and Glessner's exterior is owner-manual, so the condition kit goes on after the dormer face lands
+# BLOCKED-TECH T-2161 (opened 2026-10-08, SOUTH_TIME) — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
+#     waits: T-2340 — the draft builder reads data/traces/prairie_1904_footprints_s35.json, which T-2340 digitises; found missing by the run that claimed this on 2026-10-11
