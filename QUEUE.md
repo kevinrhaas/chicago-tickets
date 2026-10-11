@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
-T-2337 — Desktop smoke part 10 overruns the 600 s foreground cap on the steward runner: killed at 9:50 inside the sward census ("no sward species … drawn nowhere"), which starts at 7:28 — the same on dev's smoke file and on #674's, so the part needs re-pricing or a split
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
