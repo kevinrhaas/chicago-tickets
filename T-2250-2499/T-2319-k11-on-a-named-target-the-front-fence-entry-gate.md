@@ -1,7 +1,7 @@
 ---
 id: T-2319
 title: K11 on a named target: the front fence, entry gate, piers and boundary wall of a Prairie Avenue 1904 house built from the ironwork kit at its source-bounded line and height, kept off the entrance and the shared carriage drive, the light tier keeping the silhouette, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1853
 opened: 2026-10-10
 closed: null
-pr: null
+pr: 678
 claimed_by: run 10/10/2026, 8:22:01 PM CT
 blocked_on: null
 needs_bake: false
