@@ -1,7 +1,7 @@
 ---
 id: T-2201
 title: Glessner: close the south courtyard boundary and resolve its junctions
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 692
 claimed_by: run 10/11/2026, 2:00:59 AM CT
 blocked_on: null
 needs_bake: true
