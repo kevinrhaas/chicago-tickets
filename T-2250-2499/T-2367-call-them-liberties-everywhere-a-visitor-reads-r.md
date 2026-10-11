@@ -23,4 +23,6 @@ decision_answer: null
 
 Call them liberties everywhere a visitor reads: retire the what-we-made-up wording.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+Owner, 2026-10-11: "we agreed to call them liberties across the app, so across all the years can you make that change."
+
+**Acceptance:** no heading, tab, tile, panel line or visitor-facing data note in the app says "what we made up" (or a close variant); every one of them says liberties, in the terse machine-status tone. The smoke checks that named the old headings name the new ones. AGENTS.md records the term so new text keeps it. Research prose and the append-only ledger history are not rewritten.
