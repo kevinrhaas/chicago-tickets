@@ -28,7 +28,8 @@
 # draft builder, T-2160 16th-18th, T-2161 20th-22nd, T-2162 the edges, T-2163 the grounds and the whole-district phone walk), then the per-building
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 T-2313 — K15 on a named target: the chimneys of a Prairie Avenue 1904 house built from the chimney kit at their source-bounded number, height and position, seated on its roof with crickets and flashing, the reduced tier keeping location and height, baked and verified at both viewports (front, oblique, rear and roof views) with costs
-T-2161 — Draft the 20th-22nd Prairie block with the draft builder: every frontage and its rear service buildings
+T-2351 — Draft the 20th-22nd Prairie block's west side with the draft builder: every west frontage of sheet 35 and its rear buildings, the 2108/2110 shared coach house as one building, Rees at its historical 2110 site, Robbins 2126 in one declared working phase, 2140 Tucker/Smith in one documented roof state
+T-2352 — Draft the 20th-22nd Prairie block's east side with the draft builder: every east frontage of sheet 35 and its rear buildings, 2141 as a non-building frontage
 T-2341 — Refine 1608 Prairie on the K01 frontage kit taught a plain brick street front: the draft's id kept, its traced rectangle, two storeys over a raised basement, brick front with stone trim, bracketed cornice, every face closed
 T-2342 — Refine 1600 Prairie, the 16th Street corner house, on the brick K01 frontage: windows on the north wall to 16th Street and the sheet's curved bay on the Prairie face
 T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 frontage: the 3B main house and the rear 2B range the K01 single rectangle cannot carry today
