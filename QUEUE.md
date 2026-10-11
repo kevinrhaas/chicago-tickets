@@ -199,4 +199,5 @@ T-2362 — CI smoke leg desktop 10-14 overruns its 40-minute timeout on every ru
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-2366 — Rebuild 1612 Prairie (Goodman) from its photograph: three bays, paired round-arched windows with keystones, arched porch on columns, banded stone, deep frieze cornice, iron fence; validated from the photo's own camera
+T-2368 — The image gate: every building is built until it matches its photographs and drawings, and its ticket closes only then
 T-2367 — Call them liberties everywhere a visitor reads: retire the what-we-made-up wording
