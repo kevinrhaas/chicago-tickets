@@ -1,7 +1,7 @@
 ---
 id: T-1861
 title: Refine 1620 Law house restored for 1904
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 694
 claimed_by: run 10/11/2026, 4:31:14 AM CT
 blocked_on: null
 needs_bake: true
