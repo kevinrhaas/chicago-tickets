@@ -1,7 +1,7 @@
 ---
 id: T-2389
 title: Building cards get an Images tab: the building's photos and drawings, credited
-state: open
+state: claimed
 epic: UI
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 4:45:17 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-11T21:45:17.338Z
 decision: null
 decision_answer: null
 ---
