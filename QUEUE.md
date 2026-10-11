@@ -37,7 +37,9 @@ T-2343 — Refine 1604 Prairie with its traced rear range on the brick K01 front
 T-2344 — Refine 1612 Goodman, the Italianate stone-front, on the K01 frontage kit: the draft's id kept, its traced main body, an ashlar street face over common-brick returns, paired segmental windows, an arched entrance on a high stoop, bracketed cornice, every face closed
 T-1861 — Refine 1620 Law house restored for 1904
 T-1862 — Refine 1626, 1628 and small frame 1630
-T-1863 — Refine 1634 and 1636 stone-front pair
+T-2346 — Refine 1634 Prairie's main body on the K01 frontage kit taught the attached stone-front rowhouse: the draft's id kept, its traced main rectangle, three storeys, a flat roof behind its bracketed cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
+T-2347 — Teach K01 a traced rear wing behind the main body and retire 1634 Prairie's draft wing onto it
+T-2348 — Refine 1636 Prairie, 1634's attached partner, on the K01 attached-rowhouse kit: its party wall on the north, its own stone front, flat roof, cornice and rear wing
 T-1864 — Refine 1638 Shortall-Gregory Gothic house envelope
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-1866 — Refine 1601 house and 1603 station-side envelope
