@@ -207,3 +207,4 @@ T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engravin
 T-2371 — Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
 T-2372 — Match Eliza Chappel's infant school to its pictures
 T-2373 — Match the 1832 lighthouse to its pictures
+T-2374 — Match Cobweb Castle to its pictures
