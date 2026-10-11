@@ -23,4 +23,8 @@ decision_answer: null
 
 Building cards get an Images tab: the building's photos and drawings, credited.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+Owner, 2026-10-11: "As you build each once can you include those photos images of the house on the card for the house on another tab".
+
+Every building card gets an Images tab showing the photographs and drawings of that building the project holds: the Prairie library's records (held copies from the image store, kevinrhaas/chicago-images) and the photograph/illustration sources the structure record cites. Each picture carries its credit (title, date, creator, holder, rights) and a link to the holder. Images load only when the tab opens, at thumbnail size (≤480 px), with a cap per card, for phone memory. Future builds keep it current (AGENTS.md).
+
+**Acceptance:** the tab shows on every card, lists the building's pictures with credits visible on each, loads no image until it opens, and passes desktop and 390x780 with no page errors; check.sh green.
