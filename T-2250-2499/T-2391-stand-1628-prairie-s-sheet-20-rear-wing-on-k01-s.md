@@ -1,7 +1,7 @@
 ---
 id: T-2391
 title: Stand 1628 Prairie's sheet-20 rear wing on K01's rear wings, as T-2347 stood 1634's
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 718
 claimed_by: run 10/11/2026, 9:51:35 PM CT
 blocked_on: null
 needs_bake: false
