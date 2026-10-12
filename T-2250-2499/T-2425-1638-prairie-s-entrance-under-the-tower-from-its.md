@@ -1,7 +1,7 @@
 ---
 id: T-2425
 title: 1638 Prairie's entrance under the tower from its photograph: the pointed arch with its pierced spandrels, the double door, and the stoop between its cheek walls
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1865
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 5:38:26 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38317431200
+claimed_at: 2026-10-12T22:38:26.938Z
 decision: null
 decision_answer: null
 ---
