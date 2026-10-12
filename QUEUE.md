@@ -40,6 +40,7 @@ T-2406 — 1620 Prairie's lattice front fence, board side fence, front chimney s
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2211 — Finish Glessner street and stable window profiles and stone supports
 T-2400 — Glessner granite stone-scale occlusion baked onto its own TEXCOORD_1 in the master and full web model, carried by the renderer, the light LOD keeping the material map
+T-2412 — Desktop smoke part 6 clicks the first-entry guide on 8 s frames and spends 74-90 s of a 90 s timeout, on dev's own mirror too
 T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2395 — 1638 Prairie's body closed in K16 timber: both ranges' side and rear walls in clapboard with their openings, the steep main gable roof running back from the front gable, and the north range's roof
