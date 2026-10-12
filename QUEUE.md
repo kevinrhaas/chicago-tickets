@@ -35,11 +35,9 @@ T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corn
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
-T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-2417 — Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
 T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
-T-2420 — 1619 Prairie on K01 from the Building Budget drawing: stone front, full-height swell bay, three storeys over a raised basement, the drawing's camera solved and its match record written
 T-2421 — 1619 Prairie's gable storey from the drawing: the wall gable over the bow with three segment-headed lights, its pinnacles and finial, the slate roof behind and the crow-stepped south parapet with its stack
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-1869 — Refine 1621, 1623 and 1625 east row

@@ -1,7 +1,7 @@
 ---
 id: T-2397
 title: 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1864
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 742
 claimed_by: run 10/12/2026, 1:31:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T21:14:44Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38291121738
 claimed_at: 2026-10-12T18:31:29.885Z
 decision: null
