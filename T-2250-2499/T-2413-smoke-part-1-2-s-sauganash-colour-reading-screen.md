@@ -1,7 +1,7 @@
 ---
 id: T-2413
 title: Smoke part 1-2's Sauganash colour reading screenshots on a 300 ms wait, not a drawn frame: delta 0.00 on slow runners
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 738
 claimed_by: run 10/12/2026, 12:17:32 PM CT
 blocked_on: null
 needs_bake: false
