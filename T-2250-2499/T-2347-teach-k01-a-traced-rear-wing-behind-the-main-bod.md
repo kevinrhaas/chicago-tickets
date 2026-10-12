@@ -1,7 +1,7 @@
 ---
 id: T-2347
 title: Teach K01 a traced rear wing behind the main body and retire 1634 Prairie's draft wing onto it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1863
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 7:46:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38189010749
+claimed_at: 2026-10-12T00:46:54.843Z
 decision: null
 decision_answer: null
 ---
