@@ -1,7 +1,7 @@
 ---
 id: T-2427
 title: CI's full bake rebuilds Glessner's master as c95d93560e34 (web 2bfe5e7e3939) while T-2416 (#741) committed 303b5cb63b5e (web 92315d701c2a), so k01_contract fails and dev's bake check reds
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: 747
 claimed_by: run 10/12/2026, 4:27:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T22:17:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38310277211
 claimed_at: 2026-10-12T21:27:18.850Z
 decision: null
