@@ -33,6 +33,8 @@ Owner instruction, 2026-10-09 UTC:
 
 [Programme index and release procedure](../evidence/glessner-exterior-audit-2026-10-08/README.md) · [Reviewed audit PDF](../evidence/glessner-exterior-audit-2026-10-08/glessner-exterior-audit.pdf) · [Source coverage ledger](../evidence/glessner-exterior-audit-2026-10-08/coverage-ledger.csv)
 
+**Owner, 2026-10-12** (project thread "Glessner stone and entrance", with close photographs of the door, its fan and tympanum, and the HABS "Detail of Entrance Doorway" drawing): *"the front door arch on the east also has the same stone treatment and should stand out more if you look at photos, and you have gone back and forth on the detail over the door, go back and look at close up images, there is a fair amount of detailing ... refer to the photos in the reference to make it photographic perfect"*. Taken out of the one-at-a-time chain and worked now with T-2416 in one PR; T-2216 waits on T-2214 instead.
+
 ## Scope and finding
 
 The close north-gable view confirms the 1886 inscription is mirrored from outside. The front tympanum and ornamental band exist, but relief, edge wear and varied capitals need close-range fidelity.

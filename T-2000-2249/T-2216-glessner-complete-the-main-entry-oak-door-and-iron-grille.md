@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2215 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: T-2214 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel; T-2215 left the chain 2026-10-12 for the owner's entrance fix)
 needs_bake: true
 closed_at: null
 claimed_run: null

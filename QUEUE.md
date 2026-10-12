@@ -20,7 +20,9 @@
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
 T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corner strip, the 1874 camera's height datum re-solved, the bay's heights, tone and terrace, and the image gate (after T-2409, T-2410, T-2411)
+# Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 T-2416 — Glessner: bow every granite face and warm the stone to the owner's photographs
+T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
@@ -156,7 +158,7 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # BLOCKED-TECH T-2214 (opened 2026-10-09, SOUTH_TIME) — Correct the mirrored Glessner 1886 inscription and monogram
 #     waits: T-2213 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2216 (opened 2026-10-09, SOUTH_TIME) — Glessner: complete the main entry oak door and iron grille
-#     waits: T-2215 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+#     waits: T-2214 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel; T-2215 left the chain 2026-10-12 for the owner's entrance fix)
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2218 (opened 2026-10-09, SOUTH_TIME) — Glessner: reconstruct the curved courtyard hall steps and cheek wall
@@ -200,6 +202,5 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals
 # BLOCKED-TECH T-2212 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner courtyard, bow, turret and dormer window profiles
 #     waits: T-2416 — one Glessner House PR at a time (owner, 2026-10-12: his stone and entrance fixes, T-2416 + T-2215, go first)
