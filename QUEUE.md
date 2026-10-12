@@ -42,7 +42,8 @@ T-2425 — 1638 Prairie's entrance under the tower from its photograph: the poin
 T-2426 — 1638 Prairie's front fence and gate piers from its photograph, and its match records brought to matches (after the three pieces before it)
 T-2417 — Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
 T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
-T-2421 — 1619 Prairie's gable storey from the drawing: the wall gable over the bow with three segment-headed lights, its pinnacles and finial, the slate roof behind and the crow-stepped south parapet with its stack
+T-2428 — 1619 Prairie's wall gable from the drawing: the roof storey rising from the wall over the bow as a gable with three segment-headed lights under radiating voussoirs, its horizontal and raking cornices, the recessed pediment panel, the apex finial and the two pinnacle shafts
+T-2429 — 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-1869 — Refine 1621, 1623 and 1625 east row
 T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel

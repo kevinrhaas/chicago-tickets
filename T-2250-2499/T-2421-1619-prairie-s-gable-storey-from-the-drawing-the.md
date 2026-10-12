@@ -1,7 +1,7 @@
 ---
 id: T-2421
 title: 1619 Prairie's gable storey from the drawing: the wall gable over the bow with three segment-headed lights, its pinnacles and finial, the slate roof behind and the crow-stepped south parapet with its stack
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2419
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: null
 claimed_by: run 10/12/2026, 4:19:23 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T21:22:19.530Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38309418400
 claimed_at: 2026-10-12T21:19:23.103Z
 decision: null
