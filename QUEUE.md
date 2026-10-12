@@ -17,6 +17,11 @@
 # ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
+# Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
+T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
+T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
+T-2371 — Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
+
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
@@ -189,9 +194,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2227 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
-T-2370 — Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
-T-2371 — Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
 T-2372 — Match Eliza Chappel's infant school to its pictures
 T-2373 — Match the 1832 lighthouse to its pictures
 T-2374 — Match Cobweb Castle to its pictures
