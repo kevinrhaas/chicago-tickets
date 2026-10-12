@@ -1,7 +1,7 @@
 ---
 id: T-2391
 title: Stand 1628 Prairie's sheet-20 rear wing on K01's rear wings, as T-2347 stood 1634's
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 718
 claimed_by: run 10/11/2026, 9:51:35 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T03:47:15Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38197248844
 claimed_at: 2026-10-12T02:51:35.034Z
 decision: null
