@@ -1,7 +1,7 @@
 ---
 id: T-2396
 title: 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1864
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 1:09:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38288309822
+claimed_at: 2026-10-12T18:09:20.368Z
 decision: null
 decision_answer: null
 ---
