@@ -1,7 +1,7 @@
 ---
 id: T-2393
 title: Glessner granite: a material occlusion map from the split face's own height field (generate.py), carried through the export and held by ao_export.py
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2390
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 716
 claimed_by: run 10/11/2026, 9:19:15 PM CT
 blocked_on: null
 needs_bake: false
