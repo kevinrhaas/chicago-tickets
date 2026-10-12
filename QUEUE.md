@@ -34,7 +34,6 @@ T-2390 — Glessner granite relief in shade: an occlusion channel for the rock f
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
 T-2347 — Teach K01 a traced rear wing behind the main body and retire 1634 Prairie's draft wing onto it
-T-2348 — Refine 1636 Prairie, 1634's attached partner, on the K01 attached-rowhouse kit: its party wall on the north, its own stone front, flat roof, cornice and rear wing
 T-1864 — Refine 1638 Shortall-Gregory Gothic house envelope
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-1866 — Refine 1601 house and 1603 station-side envelope
