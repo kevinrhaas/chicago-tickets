@@ -21,7 +21,8 @@
 T-2409 — 1620 Prairie's entrance from its pictures: the door at about v 5-6.6 under its hood, the stoop rising north along the front to a porch with a turned balustrade
 T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
 T-2411 — 1620 Prairie's mansard dormers from its pictures: round-headed dormers in the lower faces, two on the north face (K01 learns a mansard dormer)
-T-2406 — 1620 Prairie's lattice front fence, board side fence, front chimney stack and slated mansard from its pictures, and both match records brought to matches
+T-2414 — 1620 Prairie's lattice front fence, board side fence, front chimney stack and slated mansard faces from its pictures
+T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corner strip, the 1874 camera's height datum re-solved, the bay's heights, tone and terrace, and the image gate (after T-2409, T-2410, T-2411)
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
