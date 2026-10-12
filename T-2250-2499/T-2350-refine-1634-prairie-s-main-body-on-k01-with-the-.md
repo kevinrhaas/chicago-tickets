@@ -1,7 +1,7 @@
 ---
 id: T-2350
 title: Refine 1634 Prairie's main body on K01 with the K05 flat roof: the draft's id kept, its traced main rectangle, three storeys, the bracketed street cornice, a blank party wall on the side it shares with 1636, the sheet's stone front bay, every face closed; the draft keeps standing only the rear wing
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2346
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 712
 claimed_by: run 10/11/2026, 5:20:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T00:46:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38179719439
 claimed_at: 2026-10-11T22:20:20.219Z
 decision: null
