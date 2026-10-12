@@ -1,7 +1,7 @@
 ---
 id: T-2212
 title: Finish Glessner courtyard, bow, turret and dormer window profiles
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 1:28:42 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38290820852
+claimed_at: 2026-10-12T18:28:42.186Z
 decision: null
 decision_answer: null
 ---
