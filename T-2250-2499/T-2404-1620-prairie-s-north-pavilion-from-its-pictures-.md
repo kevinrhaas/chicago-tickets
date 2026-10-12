@@ -1,7 +1,7 @@
 ---
 id: T-2404
 title: 1620 Prairie's north pavilion from its pictures: the north 3.75 m standing proud with two round-headed windows a storey, under its bell-curved crown with a round-headed dormer
-state: review
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2370
 opened: 2026-10-12
 closed: null
 pr: 729
-claimed_by: run 10/12/2026, 2:37:48 AM CT
+claimed_by: run 10/12/2026, 5:21:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38218169574
-claimed_at: 2026-10-12T07:37:48.919Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38232920603
+claimed_at: 2026-10-12T10:21:14.346Z
 decision: null
 decision_answer: null
 ---
