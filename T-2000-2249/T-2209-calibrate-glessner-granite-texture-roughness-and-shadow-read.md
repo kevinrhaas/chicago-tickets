@@ -1,7 +1,7 @@
 ---
 id: T-2209
 title: Calibrate Glessner granite texture, roughness and shadow readability
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-11
 pr: 711
 claimed_by: run 10/11/2026, 6:02:15 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T00:39:44Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38182481220
 claimed_at: 2026-10-11T23:02:15.294Z
 decision: null
