@@ -33,4 +33,4 @@ When T-2405 was split (2026-10-12T07:57:28.822Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38218910409) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** both match records' `bay window` difference `fixed` from the GLB in the tree: a one-storey bay on the south part of the front (about v 0.5-4.4 in the record's frame), its round-headed lights, under a flared hood carried on brackets with a finial at its top, as the 1874 engraving draws it and the 1898 sketch's one-storey bay with its own cornice agrees; the before and after side-by-sides in the PR. The hood's flare and its brackets are K08's to learn (a hip at one pitch and a plain soffit are all it has). The door, stoop and porch (T-2409), the house's own street windows (T-2410) and the dormers (T-2411) are not this piece.
