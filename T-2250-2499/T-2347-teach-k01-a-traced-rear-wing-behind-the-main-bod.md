@@ -50,3 +50,20 @@ Owner, 2026-10-11: "if you have an image you should work towards it until it's a
 Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
 
 No picture of this building was found by address in the Prairie library on 2026-10-11. Before building, search the library (every record, street views and neighbours' plates included) and `data/sources/`. If one turns up, add an `## Image gate` section here naming the structure id as a bullet.
+
+## 1634's main body stands on K01 now (T-2350, PR #712, 2026-10-11)
+
+T-2350 refined 1634 Prairie's main body onto K01 (`house_1634_prairie`, the K01 stone-front house under
+`k01.roof.flat`) and, as T-2355 did for 1628, could not keep the draft's wing standing: the draft builder
+skips a whole traced building or none of it. So 1634's wing (s20fp-1634-b1 p2's second rectangle, the
+draft's `r2`, three storeys, plan u -6.5..0, v -0.5..4.25 in the record's own frame) is gone from the
+scene until this ticket stands it. K01 has had rear wings since T-2343 (1604, then 1616 by T-2354), so
+the teaching half of this ticket is largely done. Two things are left for the wing itself:
+
+- **It runs 0.5 m past the main body's south side** (v -0.5). `_rear_wings` refuses a wing past its
+  host wall's 0..width, so either clip it to v 0..4.25 and argue that, or teach the rule an overhang.
+- **It is three storeys like the main body.** A K01 wing's deck has to stand under the main roof:
+  under `k01.roof.flat`, the main deck's rear fascia stands on the wall head at 12.3 m.
+
+1634's southern rear window (s 4.6 m on the rear wall) stands where the wing joins, and becomes the
+opening into it.
