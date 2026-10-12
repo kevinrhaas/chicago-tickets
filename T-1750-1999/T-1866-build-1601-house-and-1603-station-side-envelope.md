@@ -1,7 +1,7 @@
 ---
 id: T-1866
 title: Refine 1601 house and 1603 station-side envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-11
 pr: null
 claimed_by: run 10/11/2026, 10:58:12 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T03:58:47.076Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38201670760
 claimed_at: 2026-10-12T03:58:12.815Z
 decision: null
