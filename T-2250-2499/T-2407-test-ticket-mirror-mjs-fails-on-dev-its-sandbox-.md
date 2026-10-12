@@ -12,9 +12,9 @@ opened: 2026-10-12
 closed: 2026-10-12
 pr: null
 claimed_by: null
-blocked_on: duplicate of T-2402 (#723, merged 2026-10-12): test_ticket_mirror.mjs now picks a sandbox ticket with no image gate; it passes on dev 98503e557
+blocked_on: already fixed on dev by T-2402 (#723): test_ticket_mirror skips image-gated tickets; node tools/test_ticket_mirror.mjs passes on dev 98503e557 (closes T-2404)
 needs_bake: false
-closed_at: 2026-10-12T06:20:26.047Z
+closed_at: 2026-10-12T08:02:44.335Z
 claimed_run: null
 claimed_at: null
 decision: null
