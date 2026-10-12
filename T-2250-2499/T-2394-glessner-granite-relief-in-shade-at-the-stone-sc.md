@@ -34,4 +34,18 @@ When T-2390 was split (2026-10-12T02:19:06.065Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38193697523) may be working one of the pieces now.
 
+## What T-2393 measured, and why this piece exists
+
+T-2393 gave the granite a material occlusion map from its own height field (horizon-based, 16
+directions to 8 cm, tangent-biased; mean 0.932, min 0.678). On the T-2209 stands, same cameras,
+desktop: shade luminance fell 1.7-5.4 % and the mean |Laplacian| fell with it, so the relief metric
+did not rise; crease-scale contrast relative to luminance rose only 1-6 %. The split face's
+texture relief is millimetres deep, and a tiling map cannot know where a stone's joints, drafted
+margins and pitched face are. That stone-scale occlusion is what reads as relief in shade, and
+it has to be baked per asset: `emit.bake_ao` onto the smart-UV `BakeUV` layer, which the v4
+detail builder currently strips at export (`masonry_house_v4_detail.py`), exported as
+TEXCOORD_1, with `baked_ao: true` and `ao_export.assert_ao_survived_export`. The light LOD
+(`structure_versions.py build-light`) copies materials onto a different mesh, so it needs its
+own UVs or its own bake. Budget the bake time and the web bytes before claiming.
+
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)

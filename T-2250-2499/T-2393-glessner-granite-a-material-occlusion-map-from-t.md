@@ -34,4 +34,13 @@ When T-2390 was split (2026-10-12T02:19:06.065Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38193697523) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** (stated before the measurement was read)
+- Glessner v4's split-face granite slots (granite, granite_1..4, rough_stone_trim) carry a glTF
+  `occlusionTexture` computed from the SAME height field as `granite_normal.png`, in the master,
+  the web derivative and the light LOD.
+- The occlusion acts on the sky fill only: the sun's light is untouched (three.js aoMap is
+  indirect-only), and nothing is brightened or re-tinted.
+- `generators/ao_export.py --gate` tells a committed material map from a bake and holds the map
+  to its committed file (not uniform, mean within 2 %), with self-tests that break each arm.
+- The shaded stands are re-captured before/after on the same cameras and the numbers are
+  published, whatever they show.
