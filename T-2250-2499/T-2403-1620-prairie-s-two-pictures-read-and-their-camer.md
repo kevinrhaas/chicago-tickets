@@ -1,7 +1,7 @@
 ---
 id: T-2403
 title: 1620 Prairie's two pictures read and their cameras solved, and the house raised under the 1874 engraving's mansard (K01 learns k01.roof.mansard)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2370
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 726
 claimed_by: run 10/12/2026, 1:00:23 AM CT
 blocked_on: null
 needs_bake: false
