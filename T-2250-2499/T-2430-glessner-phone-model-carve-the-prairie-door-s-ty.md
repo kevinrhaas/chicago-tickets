@@ -1,7 +1,7 @@
 ---
 id: T-2430
 title: Glessner phone model: carve the Prairie door's tympanum to the full model's layout
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 748
 claimed_by: run 10/12/2026, 4:52:57 PM CT
 blocked_on: null
 needs_bake: true
