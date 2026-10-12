@@ -33,4 +33,7 @@ When T-2419 was split (2026-10-12T19:50:41.557Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38299440394) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** after T-2420, the drawing's top of the house is built on K01: the third storey rising from the bow's balcony course as a wall gable (not a roof dormer) with the drawing's three segment-headed lights under radiating voussoirs, the raking cornice and recessed pediment panel, the apex finial and the two pinnacle shafts at the gable's foot; behind it the slated roof, and on the south side wall the crow-stepped parapet rising from the front to the stack at the ridge. Every element in the match record's roof and gable rows goes from `open` to `fixed` on a fresh side-by-side.
+
+## Image gate
+- house_1619_prairie
