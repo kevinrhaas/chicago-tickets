@@ -1,7 +1,7 @@
 ---
 id: T-2431
 title: Glessner's Cycles-baked stone occlusion (master T-2400, light T-2401) is not bit-reproducible across CPUs, so any off-runner bake of Glessner reds the bake check's K01 hashes again (T-2427): make the atlas reproduce, or bake Glessner only on the pinned runner
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 750
 claimed_by: run 10/12/2026, 5:28:54 PM CT
 blocked_on: null
 needs_bake: false
