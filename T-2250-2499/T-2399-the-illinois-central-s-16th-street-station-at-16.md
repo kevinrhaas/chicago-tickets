@@ -1,7 +1,7 @@
 ---
 id: T-2399
 title: The Illinois Central's 16th Street station at 1605 Prairie: platforms, canopies and signs on the draft's two-storey frame station
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1866
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 724
 claimed_by: run 10/11/2026, 11:46:45 PM CT
 blocked_on: null
 needs_bake: false
