@@ -1,7 +1,7 @@
 ---
 id: T-2210
 title: Glessner: calibrate courtyard brick and limestone as distinct materials
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-11
 pr: 717
 claimed_by: run 10/11/2026, 8:45:42 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T04:39:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38192917990
 claimed_at: 2026-10-12T01:45:42.803Z
 decision: null
