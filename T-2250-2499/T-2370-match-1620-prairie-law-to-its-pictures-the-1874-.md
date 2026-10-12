@@ -1,7 +1,7 @@
 ---
 id: T-2370
 title: Match 1620 Prairie (Law) to its pictures: the 1874 landowner engraving and the 1898 Tribune view
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: null
 claimed_by: run 10/12/2026, 12:18:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T05:42:46.792Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38206913932
 claimed_at: 2026-10-12T05:18:18.142Z
 decision: null
