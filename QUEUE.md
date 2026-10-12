@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
-T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
 T-2404 — 1620 Prairie's north pavilion from its pictures: the north 3.75 m standing proud with two round-headed windows a storey, under its bell-curved crown with a round-headed dormer
 T-2409 — 1620 Prairie's entrance from its pictures: the door at about v 5-6.6 under its hood, the stoop rising north along the front to a porch with a turned balustrade
 T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
@@ -38,7 +37,6 @@ T-2406 — 1620 Prairie's lattice front fence, board side fence, front chimney s
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2211 — Finish Glessner street and stable window profiles and stone supports
-T-2400 — Glessner granite stone-scale occlusion baked onto its own TEXCOORD_1 in the master and full web model, carried by the renderer, the light LOD keeping the material map
 T-2412 — Desktop smoke part 6 clicks the first-entry guide on 8 s frames and spends 74-90 s of a 90 s timeout, on dev's own mirror too
 T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay

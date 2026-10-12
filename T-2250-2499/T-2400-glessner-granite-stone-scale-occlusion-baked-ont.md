@@ -1,7 +1,7 @@
 ---
 id: T-2400
 title: Glessner granite stone-scale occlusion baked onto its own TEXCOORD_1 in the master and full web model, carried by the renderer, the light LOD keeping the material map
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2394
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 721
 claimed_by: run 10/11/2026, 11:04:57 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T11:15:22Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38199969400
 claimed_at: 2026-10-12T04:04:57.310Z
 decision: null
