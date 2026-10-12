@@ -203,5 +203,3 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-# BLOCKED-TECH T-2212 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner courtyard, bow, turret and dormer window profiles
-#     waits: T-2416 — one Glessner House PR at a time (owner, 2026-10-12: his stone and entrance fixes, T-2416 + T-2215, go first)
