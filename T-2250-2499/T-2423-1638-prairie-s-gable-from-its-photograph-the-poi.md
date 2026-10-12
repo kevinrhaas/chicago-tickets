@@ -1,7 +1,7 @@
 ---
 id: T-2423
 title: 1638 Prairie's gable from its photograph: the pointed twin windows under their cusped hood mould and finial, the oculus, and the photograph's camera solved into its first match record
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1865
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 4:20:12 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38309473841
+claimed_at: 2026-10-12T21:20:12.685Z
 decision: null
 decision_answer: null
 ---
