@@ -1,7 +1,7 @@
 ---
 id: T-2211
 title: Finish Glessner street and stable window profiles and stone supports
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 737
 claimed_by: run 10/12/2026, 11:40:46 AM CT
 blocked_on: null
 needs_bake: true
