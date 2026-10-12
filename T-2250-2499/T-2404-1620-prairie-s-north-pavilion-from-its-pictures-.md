@@ -1,7 +1,7 @@
 ---
 id: T-2404
 title: 1620 Prairie's north pavilion from its pictures: the north 3.75 m standing proud with two round-headed windows a storey, under its bell-curved crown with a round-headed dormer
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
