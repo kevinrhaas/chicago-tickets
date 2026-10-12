@@ -20,7 +20,10 @@
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
 T-2404 — 1620 Prairie's north pavilion from its pictures: the north 3.75 m standing proud with two round-headed windows a storey, under its bell-curved crown with a round-headed dormer
-T-2405 — 1620 Prairie's south part from its pictures: the one-storey bay under its flared bracketed hood, the door moved north with the stoop rising to the balustraded porch, the hooded round-headed street windows, and the mansard's dormers
+T-2408 — 1620 Prairie's south bay from its pictures: the one-storey bay on the south part (about v 0.5-4.4) with its round-headed lights, under a flared, bracketed hood with a finial
+T-2409 — 1620 Prairie's entrance from its pictures: the door at about v 5-6.6 under its hood, the stoop rising north along the front to a porch with a turned balustrade
+T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
+T-2411 — 1620 Prairie's mansard dormers from its pictures: round-headed dormers in the lower faces, two on the north face (K01 learns a mansard dormer)
 T-2406 — 1620 Prairie's lattice front fence, board side fence, front chimney stack and slated mansard from its pictures, and both match records brought to matches
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)

@@ -1,7 +1,7 @@
 ---
 id: T-2405
 title: 1620 Prairie's south part from its pictures: the one-storey bay under its flared bracketed hood, the door moved north with the stoop rising to the balustraded porch, the hooded round-headed street windows, and the mansard's dormers
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2370
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: null
 claimed_by: run 10/12/2026, 2:55:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T07:57:34.934Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38218910409
 claimed_at: 2026-10-12T07:55:59.216Z
 decision: null
