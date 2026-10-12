@@ -44,7 +44,6 @@ T-2395 — 1638 Prairie's body closed in K16 timber: both ranges' side and rear 
 T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
 T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
-T-1867 — Refine 1609-1611 lost pair and 1607 association
 T-1868 — Refine 1613, 1615 and 1619 east row
 T-1869 — Refine 1621, 1623 and 1625 east row
 T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel

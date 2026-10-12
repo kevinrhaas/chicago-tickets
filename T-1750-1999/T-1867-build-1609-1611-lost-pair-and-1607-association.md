@@ -1,7 +1,7 @@
 ---
 id: T-1867
 title: Refine 1609-1611 lost pair and 1607 association
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-12
 pr: 727
 claimed_by: run 10/12/2026, 12:28:08 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T13:29:37Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38207792078
 claimed_at: 2026-10-12T05:28:08.062Z
 decision: null
