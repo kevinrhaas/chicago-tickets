@@ -1,7 +1,7 @@
 ---
 id: T-2215
 title: Finish Glessner entry tympanum, ornamental band and varied capitals
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 741
 claimed_by: run 10/12/2026, 1:29:53 PM CT
 blocked_on: null
 needs_bake: true
