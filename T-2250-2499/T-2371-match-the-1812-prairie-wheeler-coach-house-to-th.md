@@ -38,3 +38,7 @@ Pictures:
 ## Image gate
 - wheeler_house_1812_prairie_coach_house
 
+
+## Resolution (PR #725): none of these pictures shows the coach house
+
+The four pictures are one negative: Taylor #9974, reprinted by Flinn 1892, by *Picturesque Chicago* 1892 and on the 1908 postcard. It looks south down Prairie's west walk from north of 18th Street. The coach house stands on the alley 33–55 m west of the Prairie lot line, beyond the print's right edge and behind Glessner. `docs/RESEARCH/photo-match/wheeler_house_1812_prairie_coach_house/sightlines.py` sweeps every camera the Flinn plate allows: 3,555 cameras on the west walk, eye 1.2–2.5 m, 1–120 m north of Glessner. It takes Glessner as a bare 6.89 m prism with no roofs. Of 206,657 camera-sample pairs inside the print, none clears Glessner; README.md there has the measurements and a plan. So there is nothing for the image gate to compare. No reference view is committed: it would join these pictures to the coach house's card. The ticket closes with `done --anyway`. The pictures show 1812's front, and that finding went to T-1885. A picture of the coach house itself would be an alley view, and the library has none today.

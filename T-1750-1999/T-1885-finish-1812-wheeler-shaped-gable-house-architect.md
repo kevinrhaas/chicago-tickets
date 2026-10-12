@@ -67,4 +67,7 @@ Before building, open every picture listed here (the image store holds them all 
 Pictures:
   `wheeler_house_1812_prairie`: a18-rba-levy-1812-wheeler (photograph, front elevation, c. 1885–1900), cgn-1812-tribune-1915-mabel-wheeler-young (newspaper item, detail, July 16, 1915), a18-cgy-1812-wheeler-c1955 (photograph, front elevation, about 1955)
 
+
+Found by T-2371 (PR #725): four more pictures show this house's front, small and far down the row. They are the one negative looking south on Prairie's west walk from north of 18th Street, beyond Glessner and 1808. The inventory had given them to the coach house, which they do not show (`docs/RESEARCH/photo-match/wheeler_house_1812_prairie_coach_house/README.md`). Solve this negative as well: a18-rba-taylor-9974-prairie-south-from-18th (photograph), st-flinn-1892-looking-south-prairie-from-18th and st-picturesque-chicago-1892-prairie-avenue-p199 (plates, the widest crops), and st-ghm-postcard-1908-prairie-south-at-18th (postcard). The Flinn plate's horizon is y 727 and Glessner's NE corner is x 1422 (foot y 855).
+
 - wheeler_house_1812_prairie
