@@ -1,7 +1,7 @@
 ---
 id: T-2408
 title: 1620 Prairie's south bay from its pictures: the one-storey bay on the south part (about v 0.5-4.4) with its round-headed lights, under a flared, bracketed hood with a finial
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2405
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: 730
 claimed_by: run 10/12/2026, 2:57:39 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T10:04:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38218910409
 claimed_at: 2026-10-12T07:57:39.362Z
 decision: null
