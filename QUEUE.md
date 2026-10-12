@@ -35,8 +35,6 @@ T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corn
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2211 — Finish Glessner street and stable window profiles and stone supports
-T-2412 — Desktop smoke part 6 clicks the first-entry guide on 8 s frames and spends 74-90 s of a 90 s timeout, on dev's own mirror too
-T-2413 — Smoke part 1-2's Sauganash colour reading screenshots on a 300 ms wait, not a drawn frame: delta 0.00 on slow runners
 T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
 T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
 T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces

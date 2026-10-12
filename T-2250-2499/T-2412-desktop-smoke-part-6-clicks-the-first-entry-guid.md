@@ -1,7 +1,7 @@
 ---
 id: T-2412
 title: Desktop smoke part 6 clicks the first-entry guide on 8 s frames and spends 74-90 s of a 90 s timeout, on dev's own mirror too
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: 736
 claimed_by: run 10/12/2026, 12:17:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T18:06:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38282677113
 claimed_at: 2026-10-12T17:17:08.069Z
 decision: null
