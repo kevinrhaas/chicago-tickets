@@ -1,7 +1,7 @@
 ---
 id: T-2401
 title: Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2394
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 739
 claimed_by: run 10/12/2026, 1:11:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T21:22:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38288803497
 claimed_at: 2026-10-12T18:11:36.831Z
 decision: null

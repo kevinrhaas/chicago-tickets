@@ -34,7 +34,6 @@ T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corn
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
 T-2427 — CI's full bake rebuilds Glessner's master as c95d93560e34 (web 2bfe5e7e3939) while T-2416 (#741) committed 303b5cb63b5e (web 92315d701c2a), so k01_contract fails and dev's bake check reds
 T-2423 — 1638 Prairie's gable from its photograph: the pointed twin windows under their cusped hood mould and finial, the oculus, and the photograph's camera solved into its first match record
 T-2424 — 1638 Prairie's canted bay from its photograph: three pointed lights between its posts, the moulded cornice and the panelled base
