@@ -1,7 +1,7 @@
 ---
 id: T-2425
 title: 1638 Prairie's entrance under the tower from its photograph: the pointed arch with its pierced spandrels, the double door, and the stoop between its cheek walls
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1865
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 751
 claimed_by: run 10/12/2026, 5:38:26 PM CT
 blocked_on: null
 needs_bake: true
