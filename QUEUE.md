@@ -33,7 +33,6 @@ T-2210 — Glessner: calibrate courtyard brick and limestone as distinct materia
 T-2393 — Glessner granite: a material occlusion map from the split face's own height field (generate.py), carried through the export and held by ao_export.py
 T-2394 — Glessner granite relief in shade at the stone scale: bake occlusion for joints, drafted margins and pitched faces onto BakeUV (TEXCOORD_1), the light LOD included
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
-T-2357 — Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
 T-2392 — Re-read the 1634/1636 pair's party line and front line once for both, and move the K01 bodies onto them
 T-2391 — Stand 1628 Prairie's sheet-20 rear wing on K01's rear wings, as T-2347 stood 1634's
 T-1864 — Refine 1638 Shortall-Gregory Gothic house envelope

@@ -1,7 +1,7 @@
 ---
 id: T-2357
 title: Refine 1630 Prairie, the small earlier frame house between masonry neighbours, on a frame kit
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1862
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 699
 claimed_by: run 10/11/2026, 8:07:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T02:48:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38141688283
 claimed_at: 2026-10-11T13:07:37.041Z
 decision: null
