@@ -29,4 +29,21 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 
 > dev's gate is red on it: CI's bake job on #720 failed exactly this one step of 863 (job 114669186011); every PR's check.sh fails it while an image-gated ticket tops the queue
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+## What fails, and why (found by T-2395, 2026-10-12)
+
+CI's `bake` job on chicago#720 (job 114669186011) ran 863 check.sh steps and failed one: `closing a
+ticket leaves the mirror fresh, and a stale one still fails` (`node tools/test_ticket_mirror.mjs`).
+The test builds a sandbox, copies a fixed list of `tools/` files into it (line ~53), and closes the
+queue's first workable ticket (line ~136: `list --workable`, `workable[0]`) with `ticket.mjs done
+<victim> --pr 9999`. The victim was T-2369, whose `## Image gate` makes `done` read the image gate,
+and the sandbox has no `tools/image_gate.mjs`:
+
+    T-2369 IS NOT FINISHED: ITS BUILDING DOES NOT YET MATCH ITS PICTURES (the image gate).
+      .../tools/image_gate.mjs is missing, so the image gate cannot be read
+
+So the step's verdict depends on what tops the live queue, not on the tree under test: red on every
+PR while an image-gated ticket is first, green otherwise.
+
+**Acceptance:** `test_ticket_mirror.mjs` passes whatever the live queue's order — it closes a
+victim that carries no `## Image gate` (or passes `--anyway --why` for the sandbox), so the image
+gate's refusal is never what it measures; its existing assertions are unchanged; check.sh green.
