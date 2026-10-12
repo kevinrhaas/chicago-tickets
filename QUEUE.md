@@ -41,7 +41,9 @@ T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening t
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-2417 — Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
 T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
-T-2419 — Refine 1619 Prairie's stone front from the Hamlin/Farwell building-budget front elevation (cgn-1619-1625-building-budget-hamline-farwell) to a matching record: camera solved, K01 body with its stone face, and the image gate
+T-2420 — 1619 Prairie on K01 from the Building Budget drawing: stone front, full-height swell bay, three storeys over a raised basement, the drawing's camera solved and its match record written
+T-2421 — 1619 Prairie's gable storey from the drawing: the wall gable over the bow with three segment-headed lights, its pinnacles and finial, the slate roof behind and the crow-stepped south parapet with its stack
+T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-1869 — Refine 1621, 1623 and 1625 east row
 T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel
 T-1871 — Refine 1700-1706 Glessner family townhouses
