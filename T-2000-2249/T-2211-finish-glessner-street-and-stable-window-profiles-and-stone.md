@@ -1,7 +1,7 @@
 ---
 id: T-2211
 title: Finish Glessner street and stable window profiles and stone supports
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-12
 pr: 737
 claimed_by: run 10/12/2026, 11:40:46 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T18:23:47Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38278624299
 claimed_at: 2026-10-12T16:40:46.179Z
 decision: null
