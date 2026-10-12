@@ -1,7 +1,7 @@
 ---
 id: T-2348
 title: Refine 1636 Prairie, 1634's attached partner, on the K01 attached-rowhouse kit: its party wall on the north, its own stone front, flat roof, cornice and rear wing
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1863
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 713
 claimed_by: run 10/11/2026, 6:51:17 PM CT
 blocked_on: null
 needs_bake: false
