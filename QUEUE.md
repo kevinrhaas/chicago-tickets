@@ -30,7 +30,6 @@
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2210 — Glessner: calibrate courtyard brick and limestone as distinct materials
-T-2393 — Glessner granite: a material occlusion map from the split face's own height field (generate.py), carried through the export and held by ao_export.py
 T-2394 — Glessner granite relief in shade at the stone scale: bake occlusion for joints, drafted margins and pitched faces onto BakeUV (TEXCOORD_1), the light LOD included
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2392 — Re-read the 1634/1636 pair's party line and front line once for both, and move the K01 bodies onto them

@@ -1,7 +1,7 @@
 ---
 id: T-2393
 title: Glessner granite: a material occlusion map from the split face's own height field (generate.py), carried through the export and held by ao_export.py
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2390
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: 716
 claimed_by: run 10/11/2026, 9:19:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T03:29:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38193697523
 claimed_at: 2026-10-12T02:19:15.327Z
 decision: null
