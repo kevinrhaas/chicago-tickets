@@ -1,7 +1,7 @@
 ---
 id: T-1867
 title: Refine 1609-1611 lost pair and 1607 association
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 727
 claimed_by: run 10/12/2026, 12:28:08 AM CT
 blocked_on: null
 needs_bake: true
