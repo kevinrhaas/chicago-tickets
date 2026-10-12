@@ -34,7 +34,6 @@ T-2416 — Glessner: bow every granite face and warm the stone to the owner's ph
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2212 — Finish Glessner courtyard, bow, turret and dormer window profiles
 T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
 T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
 T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
@@ -202,3 +201,5 @@ T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals
+# BLOCKED-TECH T-2212 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner courtyard, bow, turret and dormer window profiles
+#     waits: T-2416 — one Glessner House PR at a time (owner, 2026-10-12: his stone and entrance fixes, T-2416 + T-2215, go first)
