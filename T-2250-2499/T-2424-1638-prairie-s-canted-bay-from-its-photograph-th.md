@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,4 @@ When T-1865 was split (2026-10-12T21:20:02.432Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38309473841) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** the canted bay of `shortall_gregory_house_1638_prairie_front` stops being T-2395's plain stand-in block: three pointed lights (one on the face, one on each cant) between its posts, the moulded cornice the photograph shows, and the panelled base — read off `a16-cgy-1638-gothic-photo` through the camera T-2423 solved, baked, and the bay's differences in that match record set `fixed`. Needs a bake.

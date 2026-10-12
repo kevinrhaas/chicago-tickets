@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,7 @@ When T-1865 was split (2026-10-12T21:20:02.432Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38309473841) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** the front fence and the two gate piers with their pierced caps and finials that the photograph shows on the street line, built and baked; then every reference view of the building reads `matches` with nothing open, made from the GLB in the tree (`ticket.mjs done` enforces it through the image gate below). Take this piece only after T-2423, T-2424 and T-2425 have merged. Needs a bake.
+
+## Image gate
+- shortall_gregory_house_1638_prairie_front

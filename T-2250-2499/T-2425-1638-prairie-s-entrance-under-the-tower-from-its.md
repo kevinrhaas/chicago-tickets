@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,4 @@ When T-1865 was split (2026-10-12T21:20:02.432Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38309473841) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** the entrance under the tower of `shortall_gregory_house_1638_prairie_front` as the photograph shows it: a pointed arch on posts with the pierced (quatrefoil) spandrels in its corners, the double door with its glazed upper panels, and the stoop of steps between its cheek walls — replacing the kit porch's working design where the picture shows otherwise, baked, and the entrance's differences in the match record set `fixed`. Needs a bake.
