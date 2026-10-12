@@ -1,7 +1,7 @@
 ---
 id: T-2371
 title: Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 725
 claimed_by: run 10/12/2026, 12:24:56 AM CT
 blocked_on: null
 needs_bake: false
