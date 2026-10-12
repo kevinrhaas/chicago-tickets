@@ -1,7 +1,7 @@
 ---
 id: T-2390
 title: Glessner granite relief in shade: an occlusion channel for the rock faces (generators/ao_export.py), so shaded north/west faces show their relief without changing the light
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/11/2026, 9:00:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38193697523
+claimed_at: 2026-10-12T02:00:29.048Z
 decision: null
 decision_answer: null
 ---
