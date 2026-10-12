@@ -1,7 +1,7 @@
 ---
 id: T-2414
 title: 1620 Prairie's lattice front fence, board side fence, front chimney stack and slated mansard faces from its pictures
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2406
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 734
 claimed_by: run 10/12/2026, 8:46:45 AM CT
 blocked_on: null
 needs_bake: false
