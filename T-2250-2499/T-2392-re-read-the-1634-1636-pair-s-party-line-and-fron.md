@@ -1,7 +1,7 @@
 ---
 id: T-2392
 title: Re-read the 1634/1636 pair's party line and front line once for both, and move the K01 bodies onto them
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 719
 claimed_by: run 10/11/2026, 9:40:16 PM CT
 blocked_on: null
 needs_bake: false
