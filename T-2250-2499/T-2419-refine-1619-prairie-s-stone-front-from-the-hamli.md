@@ -1,7 +1,7 @@
 ---
 id: T-2419
 title: Refine 1619 Prairie's stone front from the Hamlin/Farwell building-budget front elevation (cgn-1619-1625-building-budget-hamline-farwell) to a matching record: camera solved, K01 body with its stone face, and the image gate
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1868
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 2:46:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38299440394
+claimed_at: 2026-10-12T19:46:56.980Z
 decision: null
 decision_answer: null
 ---
