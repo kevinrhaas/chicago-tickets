@@ -1,7 +1,7 @@
 ---
 id: T-2409
 title: 1620 Prairie's entrance from its pictures: the door at about v 5-6.6 under its hood, the stoop rising north along the front to a porch with a turned balustrade
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2405
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 731
 claimed_by: run 10/12/2026, 3:21:07 AM CT
 blocked_on: null
 needs_bake: false
