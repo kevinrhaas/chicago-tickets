@@ -1,7 +1,7 @@
 ---
 id: T-2417
 title: Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1868
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 2:42:04 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38298725330
+claimed_at: 2026-10-12T19:42:04.459Z
 decision: null
 decision_answer: null
 ---
