@@ -44,7 +44,6 @@ T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper 
 T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-2398 — 1601 Prairie as a whole K16 clapboard frame house: the traced two-storey main block and its south-side wing closed in timber, gable roof, sash, door, porch and stack
-T-2407 — test_ticket_mirror.mjs fails on dev: its sandbox closes T-2369, whose image gate needs tools/image_gate.mjs, which the sandbox does not copy
 T-1867 — Refine 1609-1611 lost pair and 1607 association
 T-1868 — Refine 1613, 1615 and 1619 east row
 T-1869 — Refine 1621, 1623 and 1625 east row
