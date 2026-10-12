@@ -1,7 +1,7 @@
 ---
 id: T-2417
 title: Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1868
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 745
 claimed_by: run 10/12/2026, 2:42:04 PM CT
 blocked_on: null
 needs_bake: false
