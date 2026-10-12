@@ -1,7 +1,7 @@
 ---
 id: T-2410
 title: 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2405
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 733
 claimed_by: run 10/12/2026, 8:35:16 AM CT
 blocked_on: null
 needs_bake: false
