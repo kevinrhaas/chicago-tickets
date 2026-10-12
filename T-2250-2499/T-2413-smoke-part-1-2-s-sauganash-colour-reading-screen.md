@@ -1,7 +1,7 @@
 ---
 id: T-2413
 title: Smoke part 1-2's Sauganash colour reading screenshots on a 300 ms wait, not a drawn frame: delta 0.00 on slow runners
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 12:17:32 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38282625991
+claimed_at: 2026-10-12T17:17:32.378Z
 decision: null
 decision_answer: null
 ---
