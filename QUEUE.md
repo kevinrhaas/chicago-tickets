@@ -47,6 +47,7 @@ T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening t
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-2398 — 1601 Prairie as a whole K16 clapboard frame house: the traced two-storey main block and its south-side wing closed in timber, gable roof, sash, door, porch and stack
 T-2399 — The Illinois Central's 16th Street station at 1605 Prairie: platforms, canopies and signs on the draft's two-storey frame station
+T-2407 — test_ticket_mirror.mjs fails on dev: its sandbox closes T-2369, whose image gate needs tools/image_gate.mjs, which the sandbox does not copy
 T-1867 — Refine 1609-1611 lost pair and 1607 association
 T-1868 — Refine 1613, 1615 and 1619 east row
 T-1869 — Refine 1621, 1623 and 1625 east row
