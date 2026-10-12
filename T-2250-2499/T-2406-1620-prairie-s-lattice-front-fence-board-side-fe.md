@@ -40,3 +40,7 @@ The pictures, their cameras and the match records (every difference, `fixed` or 
 
 ## Image gate
 - law_house_1620_prairie
+
+## Finding from T-2409 (2026-10-12): the 1874 camera's height datum
+
+Building the entrance against the May 1874 engraving, the front's lower parts all sit about 1.5-2 m LOWER against the house than `landowner_1874_from_northeast.json` puts them: through that camera the porch's balustrade top reads about 0.25 m over grade, the south bay's principal-storey sills about 0.36 m and the pavilion's about 0.5 m, where the record has a 1.4 m principal floor (sills about 2.0 m); the fence's base at the street line reads about -2.25 m. The offset is the same under the bay and under the porch, so it is the camera's vertical datum (its eye 0.7 m under grade, read off the north wall's foot, which the board fence may hide), not any one feature. Horizontal readings are unaffected (x is independent of height). It matters to this ticket because the wall head (`storey_heights_m`, 8.2 m) was read through the same camera from the cornice: if the engraving's principal floor is at its porch level, its floor-to-cornice is nearer 8.5 m than the 6.8 m built. Re-solve the camera's height with the porch/stoop head as a second vertical control before the 1874 record is brought to `matches`.
