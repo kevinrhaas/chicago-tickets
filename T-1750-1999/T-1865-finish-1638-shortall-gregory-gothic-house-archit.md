@@ -1,7 +1,7 @@
 ---
 id: T-1865
 title: Finish 1638 Shortall-Gregory Gothic house architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-12
 pr: null
 claimed_by: run 10/12/2026, 4:19:02 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T21:20:08.254Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38309473841
 claimed_at: 2026-10-12T21:19:02.431Z
 decision: null
