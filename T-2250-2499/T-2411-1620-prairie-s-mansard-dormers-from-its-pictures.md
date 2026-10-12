@@ -1,7 +1,7 @@
 ---
 id: T-2411
 title: 1620 Prairie's mansard dormers from its pictures: round-headed dormers in the lower faces, two on the north face (K01 learns a mansard dormer)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2405
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: 735
 claimed_by: run 10/12/2026, 8:43:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T15:43:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38257292124
 claimed_at: 2026-10-12T13:43:59.934Z
 decision: null
