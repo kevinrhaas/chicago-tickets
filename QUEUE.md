@@ -156,8 +156,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2212 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2214 (opened 2026-10-09, SOUTH_TIME) — Correct the mirrored Glessner 1886 inscription and monogram
 #     waits: T-2213 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
-# BLOCKED-TECH T-2215 (opened 2026-10-09, SOUTH_TIME) — Finish Glessner entry tympanum, ornamental band and varied capitals
-#     waits: T-2214 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2216 (opened 2026-10-09, SOUTH_TIME) — Glessner: complete the main entry oak door and iron grille
 #     waits: T-2215 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
@@ -203,3 +201,4 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
+T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals
