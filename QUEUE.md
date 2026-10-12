@@ -19,7 +19,6 @@
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
-T-2414 — 1620 Prairie's lattice front fence, board side fence, front chimney stack and slated mansard faces from its pictures
 T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corner strip, the 1874 camera's height datum re-solved, the bay's heights, tone and terrace, and the image gate (after T-2409, T-2410, T-2411)
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
