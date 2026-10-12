@@ -1,7 +1,7 @@
 ---
 id: T-2402
 title: test_ticket_mirror's sandbox closes the queue's top ticket, and an image-gated top ticket (T-2369) is refused there: check.sh is red on every PR
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 12:14:51 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38205436187
+claimed_at: 2026-10-12T05:14:51.780Z
 decision: null
 decision_answer: null
 ---
