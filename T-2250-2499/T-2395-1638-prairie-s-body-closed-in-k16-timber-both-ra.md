@@ -1,7 +1,7 @@
 ---
 id: T-2395
 title: 1638 Prairie's body closed in K16 timber: both ranges' side and rear walls in clapboard with their openings, the steep main gable roof running back from the front gable, and the north range's roof
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1864
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 720
 claimed_by: run 10/11/2026, 10:55:05 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T14:27:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38201219330
 claimed_at: 2026-10-12T03:55:05.573Z
 decision: null
