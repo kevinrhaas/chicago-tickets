@@ -38,7 +38,6 @@ T-2431 — Glessner's Cycles-baked stone occlusion (master T-2400, light T-2401)
 T-2424 — 1638 Prairie's canted bay from its photograph: three pointed lights between its posts, the moulded cornice and the panelled base
 T-2425 — 1638 Prairie's entrance under the tower from its photograph: the pointed arch with its pierced spandrels, the double door, and the stoop between its cheek walls
 T-2426 — 1638 Prairie's front fence and gate piers from its photograph, and its match records brought to matches (after the three pieces before it)
-T-2417 — Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
 T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
 T-2428 — 1619 Prairie's wall gable from the drawing: the roof storey rising from the wall over the bow as a gable with three segment-headed lights under radiating voussoirs, its horizontal and raking cornices, the recessed pediment panel, the apex finial and the two pinnacle shafts
 T-2429 — 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
@@ -204,4 +203,3 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-T-2430 — Glessner phone model: carve the Prairie door's tympanum to the full model's layout
