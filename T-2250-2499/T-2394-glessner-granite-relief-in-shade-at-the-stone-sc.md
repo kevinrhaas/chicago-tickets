@@ -1,7 +1,7 @@
 ---
 id: T-2394
 title: Glessner granite relief in shade at the stone scale: bake occlusion for joints, drafted margins and pitched faces onto BakeUV (TEXCOORD_1), the light LOD included
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2390
 opened: 2026-10-11
-closed: null
+closed: 2026-10-11
 pr: null
 claimed_by: run 10/11/2026, 10:34:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T04:04:52.426Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38199969400
 claimed_at: 2026-10-12T03:34:48.492Z
 decision: null

@@ -30,7 +30,8 @@
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2210 — Glessner: calibrate courtyard brick and limestone as distinct materials
-T-2394 — Glessner granite relief in shade at the stone scale: bake occlusion for joints, drafted margins and pitched faces onto BakeUV (TEXCOORD_1), the light LOD included
+T-2400 — Glessner granite stone-scale occlusion baked onto its own TEXCOORD_1 in the master and full web model, carried by the renderer, the light LOD keeping the material map
+T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
 T-2395 — 1638 Prairie's body closed in K16 timber: both ranges' side and rear walls in clapboard with their openings, the steep main gable roof running back from the front gable, and the north range's roof
 T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
