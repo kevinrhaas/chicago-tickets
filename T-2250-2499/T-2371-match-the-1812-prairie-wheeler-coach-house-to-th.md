@@ -1,7 +1,7 @@
 ---
 id: T-2371
 title: Match the 1812 Prairie (Wheeler) coach house to the street views looking south from 18th Street
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 725
 claimed_by: run 10/12/2026, 12:24:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T06:12:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38207533029
 claimed_at: 2026-10-12T05:24:56.691Z
 decision: null
