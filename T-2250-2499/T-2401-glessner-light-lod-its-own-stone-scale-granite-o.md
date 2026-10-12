@@ -1,7 +1,7 @@
 ---
 id: T-2401
 title: Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2394
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 739
 claimed_by: run 10/12/2026, 1:11:36 PM CT
 blocked_on: null
 needs_bake: false
