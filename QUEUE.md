@@ -40,7 +40,9 @@ T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake
 T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
 T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
-T-1868 — Refine 1613, 1615 and 1619 east row
+T-2417 — Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
+T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
+T-2419 — Refine 1619 Prairie's stone front from the Hamlin/Farwell building-budget front elevation (cgn-1619-1625-building-budget-hamline-farwell) to a matching record: camera solved, K01 body with its stone face, and the image gate
 T-1869 — Refine 1621, 1623 and 1625 east row
 T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel
 T-1871 — Refine 1700-1706 Glessner family townhouses
