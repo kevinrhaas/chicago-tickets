@@ -34,4 +34,9 @@ When T-2370 was split (2026-10-12T05:42:39.827Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38206913932) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+The pictures, their cameras and the match records (every difference, `fixed` or `open`) are in `data/reference_views/law_house_1620_prairie/` (T-2403); the pictures' source records are `land_owner_1874_05_homes_of_chicago_1620_law` and `chicago_tribune_1898_01_09_prairie_widows`. Read the pictures themselves, not the summary, and render with `node tools/photo_match.mjs`.
+
+**Acceptance:** the `fence`, `chimney` and `roof covering` differences `fixed` (the interlaced-arch lattice on a base with square piers, the board fence on the north side, the tall stack at the front of the north wall, the lower faces slated), and BOTH match records `matches` with nothing open; `ticket.mjs done` enforces it through the image gate below.
+
+## Image gate
+- law_house_1620_prairie

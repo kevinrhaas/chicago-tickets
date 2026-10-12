@@ -34,4 +34,4 @@ When T-2370 was split (2026-10-12T05:42:39.827Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38206913932) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** both pictures committed with source records; a camera solved for each into `data/reference_views/law_house_1620_prairie/` with its fit and residuals written in `solve`; before and after side-by-sides; the house under a mansard built by K01 from K05's mansard (k01.roof.mansard), its curb and wall head at the heights read through the 1874 camera, every other K01 asset byte-identical (`k01_emit.py --check`); both match records reviewed, verdict `differs`, every difference listed `fixed`, `open` or `not shown`.
