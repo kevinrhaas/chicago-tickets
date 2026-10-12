@@ -21,8 +21,6 @@
 T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
 T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corner strip, the 1874 camera's height datum re-solved, the bay's heights, tone and terrace, and the image gate (after T-2409, T-2410, T-2411)
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
-T-2416 — Glessner: bow every granite face and warm the stone to the owner's photographs
-T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
