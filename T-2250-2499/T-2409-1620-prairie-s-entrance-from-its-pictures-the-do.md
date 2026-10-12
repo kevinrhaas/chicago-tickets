@@ -1,7 +1,7 @@
 ---
 id: T-2409
 title: 1620 Prairie's entrance from its pictures: the door at about v 5-6.6 under its hood, the stoop rising north along the front to a porch with a turned balustrade
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2405
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 3:21:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38222046894
+claimed_at: 2026-10-12T08:21:07.352Z
 decision: null
 decision_answer: null
 ---
