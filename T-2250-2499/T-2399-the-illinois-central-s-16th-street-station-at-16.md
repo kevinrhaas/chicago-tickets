@@ -1,7 +1,7 @@
 ---
 id: T-2399
 title: The Illinois Central's 16th Street station at 1605 Prairie: platforms, canopies and signs on the draft's two-storey frame station
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1866
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 724
 claimed_by: run 10/11/2026, 11:46:45 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T05:47:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38204724945
 claimed_at: 2026-10-12T04:46:45.536Z
 decision: null
