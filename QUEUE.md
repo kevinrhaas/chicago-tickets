@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
-T-2404 — 1620 Prairie's north pavilion from its pictures: the north 3.75 m standing proud with two round-headed windows a storey, under its bell-curved crown with a round-headed dormer
 T-2409 — 1620 Prairie's entrance from its pictures: the door at about v 5-6.6 under its hood, the stoop rising north along the front to a porch with a turned balustrade
 T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
 T-2411 — 1620 Prairie's mansard dormers from its pictures: round-headed dormers in the lower faces, two on the north face (K01 learns a mansard dormer)
