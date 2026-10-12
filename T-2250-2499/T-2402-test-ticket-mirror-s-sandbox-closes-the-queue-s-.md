@@ -1,7 +1,7 @@
 ---
 id: T-2402
 title: test_ticket_mirror's sandbox closes the queue's top ticket, and an image-gated top ticket (T-2369) is refused there: check.sh is red on every PR
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 723
 claimed_by: run 10/12/2026, 12:14:51 AM CT
 blocked_on: null
 needs_bake: false
