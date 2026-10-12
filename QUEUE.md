@@ -19,7 +19,6 @@
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2369 — Finish 1612 Prairie against its photograph: paired cornice brackets on a dark frieze, the south wall's canted bay, the stoop between iron rails, the portico's depth
-T-2402 — test_ticket_mirror's sandbox closes the queue's top ticket, and an image-gated top ticket (T-2369) is refused there: check.sh is red on every PR
 T-2403 — 1620 Prairie's two pictures read and their cameras solved, and the house raised under the 1874 engraving's mansard (K01 learns k01.roof.mansard)
 T-2404 — 1620 Prairie's north pavilion from its pictures: the north 3.75 m standing proud with two round-headed windows a storey, under its bell-curved crown with a round-headed dormer
 T-2405 — 1620 Prairie's south part from its pictures: the one-storey bay under its flared bracketed hood, the door moved north with the stoop rising to the balustraded porch, the hooded round-headed street windows, and the mansard's dormers
