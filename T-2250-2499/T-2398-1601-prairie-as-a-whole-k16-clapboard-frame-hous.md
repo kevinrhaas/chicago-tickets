@@ -1,7 +1,7 @@
 ---
 id: T-2398
 title: 1601 Prairie as a whole K16 clapboard frame house: the traced two-storey main block and its south-side wing closed in timber, gable roof, sash, door, porch and stack
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1866
 opened: 2026-10-11
-closed: null
+closed: 2026-10-12
 pr: 722
 claimed_by: run 10/11/2026, 10:58:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-12T08:56:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38201670760
 claimed_at: 2026-10-12T03:58:55.299Z
 decision: null
