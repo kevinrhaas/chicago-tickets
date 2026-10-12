@@ -1,7 +1,7 @@
 ---
 id: T-2420
 title: 1619 Prairie on K01 from the Building Budget drawing: stone front, full-height swell bay, three storeys over a raised basement, the drawing's camera solved and its match record written
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2419
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 744
 claimed_by: run 10/12/2026, 2:51:07 PM CT
 blocked_on: null
 needs_bake: false
