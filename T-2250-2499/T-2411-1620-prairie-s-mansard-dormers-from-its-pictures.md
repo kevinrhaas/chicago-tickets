@@ -1,7 +1,7 @@
 ---
 id: T-2411
 title: 1620 Prairie's mansard dormers from its pictures: round-headed dormers in the lower faces, two on the north face (K01 learns a mansard dormer)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2405
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 735
 claimed_by: run 10/12/2026, 8:43:59 AM CT
 blocked_on: null
 needs_bake: false
