@@ -67,3 +67,18 @@ the teaching half of this ticket is largely done. Two things are left for the wi
 
 1634's southern rear window (s 4.6 m on the rear wall) stands where the wing joins, and becomes the
 opening into it.
+
+## Found by T-2348 (1636 Prairie, 2026-10-12): 1634's main body is short of the party line, and both fronts of the pair
+
+Read back through the sheet's fit (T-1250) in each record's own frame:
+
+- **1634's south wall stands 0.6-0.7 m inside the party line.** The trace's shared line with 1636 is at
+  v -0.4 to -0.73 in 1634's frame; its K01 south wall is at v 0. 1636 (T-2348, #713) puts its north
+  wall on the line (v 7.45-7.7 traced, 7.5 built), so the pair shows a ~0.75 m slot between two blank
+  party walls. This is also why 1634's wing (u -6.5-0, v -0.5-4.25) "runs 0.5 m past the main body's
+  south side": the wing is on the line and the main body is short of it. Moving 1634's south wall
+  (its origin 0.5-0.7 m south, the body widened to match) stands the wing inside K01's wing rule.
+- **Both fronts stand 1.6 m behind the traced outline.** The trace's front edge is at u 15.3-15.4 in
+  both houses (the outer side of the blue band the sheet draws along the pair's fronts); the draft's
+  fit and both K01 bodies stop at u 13.75. 1636 was kept flush with 1634. Whether the wall face is the
+  band's outer or inner side is one question for the pair, answered once for both.
