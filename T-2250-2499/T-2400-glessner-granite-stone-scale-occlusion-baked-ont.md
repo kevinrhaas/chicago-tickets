@@ -1,7 +1,7 @@
 ---
 id: T-2400
 title: Glessner granite stone-scale occlusion baked onto its own TEXCOORD_1 in the master and full web model, carried by the renderer, the light LOD keeping the material map
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2394
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 721
 claimed_by: run 10/11/2026, 11:04:57 PM CT
 blocked_on: null
 needs_bake: false
