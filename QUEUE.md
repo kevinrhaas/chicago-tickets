@@ -37,7 +37,6 @@ T-2215 — Finish Glessner entry tympanum, ornamental band and varied capitals
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2401 — Glessner light LOD: its own stone-scale granite occlusion (UVs + bake for the reduced mesh)
-T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
 T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-2417 — Refine 1613 Prairie on the brick K01 frontage: the draft's id and traced main rectangle kept, the north half of the four-storey pair with the blank party wall it shares with 1615 on the south, brick front, sash, stoop and frame porch, its own roof, gutters, chimneys and rear elevation
