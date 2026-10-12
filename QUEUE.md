@@ -32,7 +32,9 @@
 T-2210 — Glessner: calibrate courtyard brick and limestone as distinct materials
 T-2394 — Glessner granite relief in shade at the stone scale: bake occlusion for joints, drafted margins and pitched faces onto BakeUV (TEXCOORD_1), the light LOD included
 T-2356 — Refine 1626 Prairie, 1628's attached north partner, on the brick K01 frontage with its frame front bay
-T-1864 — Refine 1638 Shortall-Gregory Gothic house envelope
+T-2395 — 1638 Prairie's body closed in K16 timber: both ranges' side and rear walls in clapboard with their openings, the steep main gable roof running back from the front gable, and the north range's roof
+T-2396 — 1638 Prairie's corner tower from the photograph: the polygonal upper stage over the arched entrance porch at the north end of the front, under its octagonal spire
+T-2397 — 1638 Prairie's rear pieces from sheet 20: the rear range's widening to 6.49 m, the south projection at the middle and the three one-storey rear pieces
 T-1865 — Finish 1638 Shortall-Gregory Gothic house architecture
 T-1866 — Refine 1601 house and 1603 station-side envelope
 T-1867 — Refine 1609-1611 lost pair and 1607 association

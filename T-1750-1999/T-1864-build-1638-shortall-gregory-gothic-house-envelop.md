@@ -1,7 +1,7 @@
 ---
 id: T-1864
 title: Refine 1638 Shortall-Gregory Gothic house envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-11
 pr: null
 claimed_by: run 10/11/2026, 10:52:49 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-12T03:55:00.989Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38201219330
 claimed_at: 2026-10-12T03:52:49.495Z
 decision: null
