@@ -24,6 +24,7 @@ T-2463 — 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, sou
 T-2473 — Prairie Avenue 1904 parkway elms from the 1887-91 sidewalk photograph, with a Trees setting: summer, early spring, hidden
 T-2474 — Prairie Avenue 1904 curb with its reveal, the walk and parkway at curb height, carriage blocks and carriage walks across the parkway
 T-2475 — Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
+T-2477 — 1904 faded context city: simple Sanborn-coloured buildings and trees on every undeveloped part of the map
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
