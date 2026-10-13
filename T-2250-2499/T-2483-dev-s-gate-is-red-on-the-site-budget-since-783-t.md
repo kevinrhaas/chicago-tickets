@@ -36,3 +36,25 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 - #783 adds about 90 KB of images, so the 39 MB jump has to be the T-1828 de-dup no longer matching the prairie-1904 reference browser (`prairie-1904/research/public/`, 39.30 MB). `site/4d` then ships it a second time. Start with `python3 tools/site_budget.py` on dev.
 
 **Acceptance:** dev's `check.sh` green on the site budget with the prairie-1904 reference browser shipped once (T-1828), and no budget raise.
+
+## The cause, pinned (loop, 2026-10-13, slice 4 lapping #780)
+
+`tools/serve_from_root.py` (T-1828) drops a mirror directory only when EVERY file in it is
+byte-identical to the production copy at the site root. #783 added two files to
+`chicago/prairie_1904_v1/research/public/` that the tracked root copy
+`site/prairie-1904/research/public/` (70 files, last refreshed by #171) does not hold:
+
+    a18-owner-1800-block-looking-sw.jpg        (65 KB)
+    a18-owner-1800-block-looking-sw-thumb.jpg  (25 KB)
+
+so the whole 39.3 MB `research/public` directory stays in `site/4d/prairie-1904/`. Measured
+locally: a publish of `52ea8a31` gives 239.835 MB with no `prairie-1904/research` in the
+mirror; dev after #783 gives 279.246 MB with `prairie-1904/research` at 39.385 MB, which
+is the whole difference. `diff <(ls chicago/prairie_1904_v1/research/public) <(ls
+site/prairie-1904/research/public)` names exactly those two files.
+
+The narrow fix is to bring the root copy up to date with those two files (the docstring's
+"moves out by itself the day the production copy is refreshed"). The durable one is for
+the rule to work per file rather than per directory, so the next addition to the library
+cannot put the 39 MB back in the mirror. Waiting on this: #780 (T-2471), lapped onto dev
+at ed2f86893 and otherwise green locally (check.sh 867/868, the one red being this).
