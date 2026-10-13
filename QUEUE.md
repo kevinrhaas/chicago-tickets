@@ -205,3 +205,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+T-2476 — 1620 Prairie's mansard as the 1874 engraving draws it: straight steep lower faces instead of the bowed ones, the crown's bow eased, the roof's bulk brought down; and the walls' surface checked against the engraving and the 1887 'olive green'
