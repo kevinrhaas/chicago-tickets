@@ -35,3 +35,8 @@ When T-2415 was split (2026-10-13T04:06:33.161Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38342806769) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** BOTH match records in `data/reference_views/law_house_1620_prairie/` read `matches` with nothing open, made from the GLB in the tree; `ticket.mjs done` enforces it through the image gate below. What T-2437 leaves open: the pavilion's corner strip (a stone or painted quoin down the K08 projection's north corner), the bay window's heights, tone and terrace as read on the re-solved datum, the upper window over the door (drawn at about v 5.6-6.1, the build's on the door's centre at v 6.6), and whatever T-2437's re-review leaves open.
+
+## Image gate
+- law_house_1620_prairie

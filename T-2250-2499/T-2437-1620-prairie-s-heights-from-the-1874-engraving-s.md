@@ -35,3 +35,5 @@ When T-2415 was split (2026-10-13T04:06:33.161Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38342806769) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** `landowner_1874_from_northeast.json`'s eye height re-solved from a ground control the engraving actually shows — the lattice fence's foot on the walk at the street line (y about 648 px) — in place of T-2370's "wall foot" at the north corners (read where the porch and the north board fence cross the corners, not the ground); the camera's `solve` says how. The house's heights re-read through it and rebuilt: the principal floor at the porch's level, the two storeys from the floor to the cornice the engraving draws, the pavilion's storeys and windows and the front stack's top with them; `tribune_1898_front.json` re-fitted to the new heights. Both match records re-rendered and re-reviewed, every difference re-read on the new datum (the bay's heights and the board fence's line among them); T-2438 owns what is still open after.
