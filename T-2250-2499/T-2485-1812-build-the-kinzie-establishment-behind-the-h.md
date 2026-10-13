@@ -1,7 +1,7 @@
 ---
 id: T-2485
 title: 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-13
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -57,5 +57,4 @@ Same site as T-2484: it waits for that PR (one PR at a time on the same house, o
 
 **Acceptance:** each building the ticket rules in stands in 1812 with its card; each one a picture shows matches it (match records at `matches`); the rulings on the bill of sale's buildings are written in the records' notes.
 
-## Image gate
-- (the ids of the outbuildings a picture shows, filled in by the builder before `done`)
+Before `done`, the builder adds an `## Image gate` section here naming every outbuilding a picture shows.
