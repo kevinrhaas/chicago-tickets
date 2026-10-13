@@ -25,6 +25,7 @@ T-2473 — Prairie Avenue 1904 parkway elms from the 1887-91 sidewalk photograph
 T-2474 — Prairie Avenue 1904 curb with its reveal, the walk and parkway at curb height, carriage blocks and carriage walks across the parkway
 T-2475 — Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
 T-2478 — 1904 lakefront: the Illinois Central and Michigan Central tracks east of Prairie Avenue, rails, ties and cinder ballast on the 1911 track layout, with weedy verges
+T-2479 — 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
 T-2477 — 1904 faded context city: simple Sanborn-coloured buildings and trees on every undeveloped part of the map
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
