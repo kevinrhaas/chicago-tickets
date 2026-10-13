@@ -1,7 +1,7 @@
 ---
 id: T-2442
 title: 1637 Prairie's last differences from the engraving and the Grosvenor photograph: the entrance and the wing's balcony, the masonry boundary wall and the iron fence, the c. 1870 side elevation weighed as evidence of its own date, and both match records brought to matches (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1870
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 1:27:43 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T06:30:15.001Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38356473443
 claimed_at: 2026-10-13T06:27:43.057Z
 decision: null
