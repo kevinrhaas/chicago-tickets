@@ -1,7 +1,7 @@
 ---
 id: T-2468
 title: Dev's smoke stage 14 is red: #771 placed forsyth_house_1635_prairie in 1904 but the 1904 roster (PLACED_1904) was never given it, so every PR off dev refuses on smoke (mobile, 14)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 10:25:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38413382587
+claimed_at: 2026-10-13T15:25:25.718Z
 decision: null
 decision_answer: null
 ---
