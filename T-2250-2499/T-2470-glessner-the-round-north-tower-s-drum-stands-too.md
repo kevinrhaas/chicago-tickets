@@ -62,3 +62,7 @@ The tower is `tower_north` in `data/sidecars/1904/glessner_house.json`: the roun
 - T-2469 (grey-greige granite as the default) bakes Glessner too. Build on dev after it lands, so this rebake keeps its stone colour.
 
 **Unblocked 2026-10-13:** T-2216 merged (PR #776); this took its place in the queue. The block read: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+
+## Owner clarification, 2026-10-13
+
+The owner supplied a close crop of HABS 01 and directed that the north-facing gable wall continue flat into the tower, concealing the erroneous exposed curved front. The north elevation windows also differ: correct their positions, sizes, grouping and alignment against the photographs as part of this ticket. The owner requires photographic agreement, not merely an improved tower height. Re-read HABS 01, 13, 14 and the available north elevation drawing; validate the wall/tower junction and windows together in corresponding views before marking them fixed.
