@@ -1,7 +1,7 @@
 ---
 id: T-2213
 title: Glessner: give dark glazing believable exterior-visible depth and variation
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 765
 claimed_by: run 10/13/2026, 2:21:26 AM CT
 blocked_on: null
 needs_bake: true
