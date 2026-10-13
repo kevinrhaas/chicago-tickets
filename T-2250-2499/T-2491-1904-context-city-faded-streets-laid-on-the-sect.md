@@ -1,7 +1,7 @@
 ---
 id: T-2491
 title: 1904 context city: faded streets laid on the section grid and the city carried out to the haze's reach
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 2:28:19 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-13T19:28:19.740Z
 decision: null
 decision_answer: null
 ---
