@@ -1,7 +1,7 @@
 ---
 id: T-2478
 title: 1904 lakefront: the Illinois Central and Michigan Central tracks east of Prairie Avenue, rails, ties and cinder ballast on the 1911 track layout, with weedy verges
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 786
 claimed_by: run 10/13/2026, 12:46:50 PM CT
 blocked_on: null
 needs_bake: false
