@@ -1,7 +1,7 @@
 ---
 id: T-2483
 title: dev's gate is red on the site budget since #783: the prairie-1904 reference browser is shipped twice again (site/4d 33.58 -> 72.97 MB, published tree 279.2 MB of 256 MB)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 785
 claimed_by: run 10/13/2026, 1:39:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T19:01:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38448073048
 claimed_at: 2026-10-13T18:39:32.167Z
 decision: null
