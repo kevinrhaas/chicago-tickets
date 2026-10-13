@@ -30,7 +30,7 @@ T-2475 — Soft edges where the 1904 street surfaces meet each other and the law
 T-2478 — 1904 lakefront: the Illinois Central and Michigan Central tracks east of Prairie Avenue, rails, ties and cinder ballast on the 1911 track layout, with weedy verges
 T-2479 — 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
 T-2477 — 1904 faded context city: simple Sanborn-coloured buildings and trees on every undeveloped part of the map
-# Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group". T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
+# Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 T-2487 — 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
 T-2488 — 1812: build Lee's Place (Hardscrabble), the farm cabin and field on the South Branch three to four miles from the fort, beyond the west edge of the 1812 ground

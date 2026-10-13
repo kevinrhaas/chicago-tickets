@@ -49,6 +49,6 @@ Each of these is named somewhere in the record as being at Chicago before 15 Aug
 - **The first fort's own riverside works** that Whistler's draught does not draw (a landing, root cellars, the garrison's fields): the Wau-Bun description of root-houses and company gardens is of the second fort in 1831 (ch. XVII), so it does not count for 1812. Say so.
 - Anything else the corpus places at Chicago in 1803-1812 (Andreas 1884 v1 pp. 70-110, Quaife 1913 chs. VI-X, Currey 1912 chs. I-III, Kirkland 1893): list each, with what was found.
 
-Not ruled on here: Potawatomi lodges and villages near the river. They are part of 1812 Chicago, and depicting them is held under the standing constraint for the Native-scholar review (T-1177, T-0472), not decided by this ticket.
+Not ruled on here: Potawatomi lodges. The owner ruled on 2026-10-13 that they are built as documented; that is T-2490.
 
 **Acceptance:** one ruling per candidate in the ticket and in the data (a build ticket filed, or an exclusion entry with its sources); nothing ruled in on a source that was not read.
