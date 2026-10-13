@@ -19,6 +19,7 @@
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2462 — 1620 Prairie's upper street windows off their bays' centres from the 1874 engraving (over the door v 5.5, over the bay window v 2.5), the pavilion's stone corner strip and the bay window's pilaster strips
+T-2464 — Prairie Avenue 1904 opens on an iPhone again: houses share their identical stone, brick and wood images instead of each decoding its own copy
 T-2463 — 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, south of the stoop whose strings both pictures put at about v 5.85-7.65, so K07 learns a stoop off its door's axis; and both match records brought to matches (after the piece before it)
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
