@@ -1,7 +1,7 @@
 ---
 id: T-2219
 title: Glessner: audit basement grilles, light wells and service openings
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2218 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -96,3 +96,5 @@ Additional acceptance:
 3. Rebuild Full and Light, compare before/after in the actual desktop and phone renderer, and run the applicable roof/aperture checks and required repository/browser gates. Record any new dimensions as inferred or reconstructed with their evidence.
 
 Reference: HABS IL-1015 photograph 1, Cervin Robinson, 23 July 1963, https://hdl.loc.gov/loc.pnp/hhh.il0118/photos.060903p (`habs_glessner_photo_01_nw_1963`, no known restrictions). The owner's two comparison images were reviewed directly in the project conversation. This finding is recorded for later work; this update does not claim or rerank T-2219.
+
+**Owner continuation, 2026-10-13:** "Keep going", immediately after the T-2470 merge and recorded T-2219 service-door/window/roof finding. T-2219 is selected next; the serialized order is T-2219 → T-2217 → T-2218 → T-2220. This supersedes the earlier scheduling dependency only.
