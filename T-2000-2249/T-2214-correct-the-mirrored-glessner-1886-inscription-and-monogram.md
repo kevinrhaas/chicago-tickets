@@ -1,7 +1,7 @@
 ---
 id: T-2214
 title: Correct the mirrored Glessner 1886 inscription and monogram
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 768
 claimed_by: run 10/13/2026, 3:47:03 AM CT
 blocked_on: null
 needs_bake: true
