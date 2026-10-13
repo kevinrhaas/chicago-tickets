@@ -1,7 +1,7 @@
 ---
 id: T-2470
 title: Glessner: the round north tower's drum stands too tall over the north range roof; bring its cone down to sit nearly on the roof as HABS photograph 1 shows
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-13
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -60,3 +60,5 @@ The tower is `tower_north` in `data/sidecars/1904/glessner_house.json`: the roun
 
 - This is in the one-at-a-time Glessner chain: it waits on T-2216, and T-2217 now waits on this ticket.
 - T-2469 (grey-greige granite as the default) bakes Glessner too. Build on dev after it lands, so this rebake keeps its stone colour.
+
+**Unblocked 2026-10-13:** T-2216 merged (PR #776); this took its place in the queue. The block read: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)

@@ -41,7 +41,7 @@ T-2477 — 1904 faded context city: simple Sanborn-coloured buildings and trees 
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2216 — Glessner: complete the main entry oak door and iron grille
+T-2470 — Glessner: the round north tower's drum stands too tall over the north range roof; bring its cone down to sit nearly on the roof as HABS photograph 1 shows
 T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
@@ -202,8 +202,6 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-# BLOCKED-TECH T-2470 (opened 2026-10-13, SOUTH_TIME) — Glessner: the round north tower's drum stands too tall over the north range roof; bring its cone down to sit nearly on …
-#     waits: T-2216 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 T-2476 — 1620 Prairie's mansard as the 1874 engraving draws it: straight steep lower faces instead of the bowed ones, the crown's bow eased, the roof's bulk brought down; and the walls' surface checked against the engraving and the 1887 'olive green'

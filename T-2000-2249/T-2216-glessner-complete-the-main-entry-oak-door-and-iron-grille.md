@@ -1,7 +1,7 @@
 ---
 id: T-2216
 title: Glessner: complete the main entry oak door and iron grille
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-13
 pr: 776
 claimed_by: run 10/13/2026, 8:41:09 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-13T18:09:28Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38406468748
 claimed_at: 2026-10-13T13:41:09.162Z
 decision: null
