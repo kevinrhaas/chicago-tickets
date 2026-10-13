@@ -78,3 +78,21 @@ This ticket works toward the same pictures as T-2228, whose `## Image gate` clos
 
 Pictures:
   `glessner_house`: a18-cgy-1800-glessner-2135 (photograph, oblique front, 1887 (chicagology labels it 1886)), a18-cornell-adw-glessner (photograph, oblique front, ca. 1887), a18-gh-chicago-herald-1887-illustration (newspaper item, oblique front, late 1887), a18-gh-cornell-glessner-front-c1887 (photograph, oblique front, c. 1887), a18-gh-cornell-glessner-rear-c1887 (photograph, side elevation, c. 1887), a18-gh-courtyard-watercolor (architectural drawing, rear, undated (design period, 1885–1887?)), a18-gh-glessner-exterior-historic (photograph, oblique front, undated (late 1880s–1890s)), a18-gh-glessner-female-servants-entrance (photograph, detail, c. 1888–1890s), a18-gh-glessner-front-with-keith (photograph, front elevation, undated (probably 1890s–1920s)), a18-gho-house-under-construction-1887 (photograph, oblique front, 1887), a18-gho-porte-cochere-doors-c1888 (photograph, detail, about 1888), a18-glessner-habs-photo-12 (architectural drawing, front elevation, undated preliminary design (copied for HABS)), and 49 more in the library
+
+## Owner-reported north service-opening / west-gable junction, 2026-10-13
+
+The owner supplied a pink-circled model screenshot and the corresponding crop of HABS photograph 1, and asked that this be recorded after T-2470 lands:
+
+> we have half a door and half a window and the gable roof from the west wing does not intersect correctly with the north wing
+
+This is the north service doorway immediately east of the west/stable gable on 18th Street, not the east-wing round tower corrected by T-2470. The model's projecting west-gable masonry covers approximately half the doorway and the upper window. A dark triangular roof fragment appears at the junction. The photograph shows the full service door, its step, the full upper window, and a continuous roof/gable junction beside the downpipe.
+
+Extend this service-openings ticket to correct the shared junction that clips those two apertures. First reconcile the wall planes, aperture extents and intersecting roof pitches with HABS 01 and sheets 2–4; do not simply shift the openings to hide an overlap or copy later stable alterations into 1904. Preserve the accepted T-2470 north-east gable/tower correction and the measured stable footprint.
+
+Additional acceptance:
+
+1. The complete service doorway and upper window remain visible from the matched HABS 01 camera and a close street view. Reveal depth, lintels, sill and threshold follow the photograph within explicitly stated reconstruction bounds.
+2. The west/stable gable meets the north range roof cleanly, with no roof triangle, gap or overlapping wall covering an opening. Preserve the downpipe's relationship to the junction and inspect both sides and an overhead view.
+3. Rebuild Full and Light, compare before/after in the actual desktop and phone renderer, and run the applicable roof/aperture checks and required repository/browser gates. Record any new dimensions as inferred or reconstructed with their evidence.
+
+Reference: HABS IL-1015 photograph 1, Cervin Robinson, 23 July 1963, https://hdl.loc.gov/loc.pnp/hhh.il0118/photos.060903p (`habs_glessner_photo_01_nw_1963`, no known restrictions). The owner's two comparison images were reviewed directly in the project conversation. This finding is recorded for later work; this update does not claim or rerank T-2219.
