@@ -1,7 +1,7 @@
 ---
 id: T-2213
 title: Glessner: give dark glazing believable exterior-visible depth and variation
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-13
 pr: 765
 claimed_by: run 10/13/2026, 2:21:26 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-13T08:44:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38361674464
 claimed_at: 2026-10-13T07:21:26.792Z
 decision: null
