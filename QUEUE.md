@@ -206,3 +206,4 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
+T-2454 — settle: a chained ticket whose predecessor lost its queue line opens at the head of the band below band 9, not at the foot of the file
