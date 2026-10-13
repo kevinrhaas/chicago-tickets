@@ -1,7 +1,7 @@
 ---
 id: T-2480
 title: 1620 Prairie's door hood from the 1874 engraving: a bracketed timber hood in the bay hood's joinery, its flat top railed as a small balcony under the window over the door
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 787
 claimed_by: run 10/13/2026, 1:12:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T19:45:09Z
 claimed_run: null
 claimed_at: 2026-10-13T18:12:15.443Z
 decision: null

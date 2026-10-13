@@ -29,7 +29,6 @@ T-2481 — 1904 season setting: summer, spring, fall, winter for trees, ground a
 T-2475 — Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
 T-2478 — 1904 lakefront: the Illinois Central and Michigan Central tracks east of Prairie Avenue, rails, ties and cinder ballast on the 1911 track layout, with weedy verges
 T-2479 — 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
-T-2477 — 1904 faded context city: simple Sanborn-coloured buildings and trees on every undeveloped part of the map
 T-2491 — 1904 context city: faded streets laid on the section grid and the city carried out to the haze's reach
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
@@ -214,7 +213,6 @@ T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building 
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
-T-2480 — 1620 Prairie's door hood from the 1874 engraving: a bracketed timber hood in the bay hood's joinery, its flat top railed as a small balcony under the window over the door
 # BLOCKED-TECH T-1883 (opened 2026-10-01, SOUTH_TIME) — Finish 1808 Keith-Field neighbour of Glessner architecture
 #     waits: T-1882 — same house, one PR at a time (owner, 2026-10-10); T-1883 finishes the envelope T-1882 builds
 # BLOCKED-TECH T-2485 (opened 2026-10-13, SOUTH_TIME) — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garde…

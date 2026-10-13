@@ -1,7 +1,7 @@
 ---
 id: T-2477
 title: 1904 faded context city: simple Sanborn-coloured buildings and trees on every undeveloped part of the map
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 784
 claimed_by: run 10/13/2026, 12:38:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T19:39:39Z
 claimed_run: null
 claimed_at: 2026-10-13T17:38:37.795Z
 decision: null
