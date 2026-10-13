@@ -1,7 +1,7 @@
 ---
 id: T-2471
 title: 1637 Prairie's stacks' panelled shafts and caps from the engraving: the K15 kit's head on the mansard's plain stacks
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2466
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 11:56:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38433167535
+claimed_at: 2026-10-13T16:56:06.492Z
 decision: null
 decision_answer: null
 ---
