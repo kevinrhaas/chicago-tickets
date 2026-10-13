@@ -36,14 +36,12 @@ T-2463 — 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, sou
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2216 — Glessner: complete the main entry oak door and iron grille
 T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
-T-2468 — Dev's smoke stage 14 is red: #771 placed forsyth_house_1635_prairie in 1904 but the 1904 roster (PLACED_1904) was never given it, so every PR off dev refuses on smoke (mobile, 14)
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
 T-2460 — 1619 Prairie's moulded stone cornice at the bow's top from the drawing: the bow carried up to it, in place of K10's bracketed timber cornice (after the piece before it)
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-2440 — Move Hamline's drawing build from 1619 to 1621: the K01 house and its Building Budget camera re-solved on 1621's own bay and the passage south of it, carrying T-2420's and T-2428's work, and 1619 handed back to its own front
 T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-T-2465 — 1637 Prairie's wing from the engraving: carried up to the cornice under its own steep hip, its ridge running back into the main roof as high as it, with the wing's stack at the ridge
 T-2466 — 1637 Prairie's swell bay carried up to the cornice, and the stacks' panelled shafts and caps (K15 on a mansard) from the engraving (after the piece before it)
 T-2467 — 1637 Prairie's wing cornice from the engraving: a band as deep as the main cornice's (y 232-262 px) with its block over the window, where the hipped crown carries K05's 0.2 m fascia and no K10 brackets
 T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
@@ -200,4 +198,3 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-T-2469 — Glessner granite: grey-greige as the default, and the other stone options removed
