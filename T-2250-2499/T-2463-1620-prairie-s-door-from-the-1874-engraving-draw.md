@@ -34,3 +34,8 @@ When T-2451 was split (2026-10-13T13:19:20.516Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38402132132) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** BOTH match records in `data/reference_views/law_house_1620_prairie/` read `matches` with nothing open, made from the GLB in the tree. What T-2462 leaves open: the 1874 engraving draws the door under the window over it, its panelled leaves at x 532-562 px (v about 5.4-6.45 on the front's face) under a hood at x 505-552 px, where the build stands it on v 6.6 (x 548-581 px); both pictures put the stoop at about v 5.85-7.65 (the engraving's north string at x 540-582 px running back to v 7.65, the Tribune sketch's stoop rising straight from the gate at v 6.3-7.5 at the street line), so the door stands at the south end of a landing that runs on north into the porch, and K07 has to learn a stoop off its door's axis. Weigh it against the Tribune sketch's camera (good to about 10 px) before moving anything.
+
+## Image gate
+- law_house_1620_prairie

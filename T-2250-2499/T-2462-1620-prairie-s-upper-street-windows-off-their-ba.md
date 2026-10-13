@@ -34,3 +34,5 @@ When T-2451 was split (2026-10-13T13:19:20.516Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38402132132) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** the 1874 engraving's match record (`data/reference_views/law_house_1620_prairie/landowner_1874_from_northeast.match.json`) carries 'the upper window over the door' and 'corner strip' as `fixed`, and the 1898 Tribune sketch's (`tribune_1898_front.match.json`) its bay window's pilaster strips as `fixed`, both re-rendered from the GLB in the tree: the window over the door on the engraving's x 518-552 px (v 5.5, off the door's 6.6) and the one over the bay window on its x 441-470 px (v 2.5, off the bay's 3.09), through K01's own per-storey window centres; a light stone strip down the pavilion's north corner (x 686-700 px); light pilaster strips at the bay window's front corners (x 437-442 and 485-489 px), as K08 strips K01 passes. What the engraving still shows otherwise (its door, south of the build's) is T-2463's.
