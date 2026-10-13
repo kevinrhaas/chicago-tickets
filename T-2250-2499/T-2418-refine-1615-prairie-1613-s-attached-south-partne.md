@@ -1,7 +1,7 @@
 ---
 id: T-2418
 title: Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1868
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 754
 claimed_by: run 10/12/2026, 7:44:50 PM CT
 blocked_on: null
 needs_bake: false
