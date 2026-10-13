@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
-T-2410 — 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
 T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corner strip, the 1874 camera's height datum re-solved, the bay's heights, tone and terrace, and the image gate (after T-2409, T-2410, T-2411)
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 

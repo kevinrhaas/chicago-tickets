@@ -1,7 +1,7 @@
 ---
 id: T-2410
 title: 1620 Prairie's street windows from its pictures: round-headed sash under moulded hoods, and the ornate-headed window over the bay
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2405
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: 733
 claimed_by: run 10/12/2026, 8:35:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T03:38:13Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38256236473
 claimed_at: 2026-10-12T13:35:16.448Z
 decision: null
