@@ -37,6 +37,7 @@ T-2463 — 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, sou
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2216 — Glessner: complete the main entry oak door and iron grille
 T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
+T-2468 — Dev's smoke stage 14 is red: #771 placed forsyth_house_1635_prairie in 1904 but the 1904 roster (PLACED_1904) was never given it, so every PR off dev refuses on smoke (mobile, 14)
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
 T-2460 — 1619 Prairie's moulded stone cornice at the bow's top from the drawing: the bow carried up to it, in place of K10's bracketed timber cornice (after the piece before it)
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
