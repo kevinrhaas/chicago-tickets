@@ -1,7 +1,7 @@
 ---
 id: T-2456
 title: 1638 Prairie's front fence and gate piers from its photograph: the two gate piers with their pierced pointed caps and finials and the low picket fence on its base along the street line, built and baked, and the match record's fence item fixed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2426
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 767
 claimed_by: run 10/13/2026, 4:22:48 AM CT
 blocked_on: null
 needs_bake: false
