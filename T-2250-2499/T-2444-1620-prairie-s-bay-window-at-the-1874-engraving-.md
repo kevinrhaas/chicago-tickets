@@ -35,3 +35,5 @@ When T-2438 was split (2026-10-13T05:28:07.217Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38350725244) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** on `landowner_1874_from_northeast.json`'s camera (T-2437's re-solved datum) the K08 bay's lights stand 3.09-5.71 m over grade, its hood's eaves about 6.24 m and the hood's top under the upper window's foot, the bay built as painted timber (dark against the light front, as drawn); the crown's curb and its dormer and the front stack's cap land within about 10 px of the drawn ones; the 1874 and 1898 match records re-rendered and re-reviewed, those items `fixed`, and what remains is T-2445's.

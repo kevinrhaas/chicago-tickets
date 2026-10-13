@@ -35,3 +35,8 @@ When T-2438 was split (2026-10-13T05:28:07.217Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38350725244) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** BOTH match records in `data/reference_views/law_house_1620_prairie/` read `matches` with nothing open, made from the GLB in the tree. What T-2444 leaves open: the low turned balustrade before the bay at the principal floor (x 365-460 px, rail top 2.89 m — K07's terrace runs to the right of its stoop alone, so it needs a left/second terrace), the upper window over the door (drawn at x 530-550 px, about v 5.6-6.1; K01 puts it on the door's v 6.6 centre), the pavilion's light corner strip down its north corner, the north board fence's foot rising as it recedes where the engraving's stays level, and the Tribune sketch's pilaster strips on the bay.
+
+## Image gate
+- law_house_1620_prairie
