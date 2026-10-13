@@ -22,6 +22,7 @@ T-2451 — 1620 Prairie's last differences: the upper window over the door off t
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
+T-2461 — pr-automerge read 'every check green' on a lap head whose content build (bake + smoke) never started: #768 merged 21ef749 on gate + report alone
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
