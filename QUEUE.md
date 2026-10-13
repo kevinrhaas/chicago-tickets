@@ -40,7 +40,8 @@ T-2428 — 1619 Prairie's wall gable from the drawing: the roof storey rising fr
 T-2429 — 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-2432 — 1625 Prairie on K01 from its 1890 Inland Architect photograph: Hugh J. McBirney's Tudor stone front with its steep gable and oculus, the mullioned lights and the flat-headed entrance at grade, the photograph's camera solved and its match record written
-T-2436 — John H. Hamline's house: 1619 or 1621 Prairie? Weigh the Inter Ocean's 1886 '1619' against the 1904 Blue Book's 1621, the 1891 Rhodes purchase of the 1619 lot, the sheet's '4' at 1619 vs '3B' with a curved bay at 1621, and the drawing's driveway; move T-2420's build if it is 1621
+T-2439 — John H. Hamline's house is 1621 Prairie, not 1619: the evidence weighed and ruled, the 1619 and 1621 cards corrected, the liberty recorded
+T-2440 — Move Hamline's drawing build from 1619 to 1621: the K01 house and its Building Budget camera re-solved on 1621's own bay and the passage south of it, carrying T-2420's and T-2428's work, and 1619 handed back to its own front
 T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel
