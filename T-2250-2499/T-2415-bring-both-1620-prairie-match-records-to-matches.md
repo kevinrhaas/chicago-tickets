@@ -1,7 +1,7 @@
 ---
 id: T-2415
 title: Bring both 1620 Prairie match records to matches: the pavilion's corner strip, the 1874 camera's height datum re-solved, the bay's heights, tone and terrace, and the image gate (after T-2409, T-2410, T-2411)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2406
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 11:01:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38342806769
+claimed_at: 2026-10-13T04:01:40.895Z
 decision: null
 decision_answer: null
 ---
