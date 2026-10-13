@@ -78,6 +78,14 @@ What stands on the lot today is T-2266's K01 kit proof, not this house: its reco
 6. **Stone.** Pale grey rock-faced ashlar in heavy courses, with a rusticated base (the 1965 colour photograph shows the tone). The model's front is buff/tan, more even coursed stone.
 7. **Front ground.** The 1887-88 pictures show low stone posts and rails along the walk and stone carriage blocks at the curb; the 1965 photograph shows a low iron fence, later fabric. The model has a tall iron fence with gate piers and urns. Date the fence before choosing.
 
+### Stone (owner, 2026-10-13)
+
+Owner, in the thread: *"I think you should be able to use much of the same stone approach you did for Glessner for that, maybe it's a different color a bit, lighter greige or whatever you can find from history"*.
+
+- **Reuse Glessner's rock-faced granite approach** (T-2416's material, `masonry_house_v4_materials.py`'s granite and its rock-face relief; the colour applied as a tint at load, as `renderers/web/js/glessner-stone.js` does for Glessner, because the glTF exporter clamps colour factors and a baked tint darkens the stone). Give the Keith house its own tint constant; do not move Glessner's.
+- **What history gives for the colour.** The Glessner House Museum's account calls it "a granite front" (record `a18-gh-1808-keith-field-front`). Every monochrome picture shows it much paler than Glessner's granite: beside it in `a18-gh-glessner-front-with-keith` and in the c. 1888 street views it reads near white. The one colour picture, `a18-gh-1808-porch-1965`, reads a pale grey: on the bow, sRGB about (142, 141, 161), r/g 1.01, b/g 1.14, against a near-white wall in the same print at r/g 1.03, b/g 1.05. The wall is in shade and the print is cast blue, so the stone's true tone is a light neutral grey with at most a faint warm cast: a lighter greige than Glessner's grey-greige (Glessner's sunlit front reads r/g 1.023, b/g 0.961). Before settling the tint, look for the stone or quarry named in the 1886-88 trade notices (`a18-inland-architect-1886-09-keith-notice`, `dw-aabn-1886-keith-1808-permit`, `npo-1808-rebj-1886-08-28-keith-permit-38x80`) and record what was found and its tier.
+- Measure it as Glessner's was (the `tools/qa_glessner_stone.mjs` method): the sunlit front's r/g and b/g against the pictures. In the match records for the monochrome prints, colour is `not shown`.
+
 ### Pictures the gate list above leaves out
 
 Build toward these too (all in the Prairie library, all showing this front):

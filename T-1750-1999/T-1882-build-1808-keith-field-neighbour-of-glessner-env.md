@@ -78,6 +78,8 @@ What stands on the lot today is T-2266's K01 kit proof, not this house: its reco
 6. **Stone.** Pale grey rock-faced ashlar in heavy courses, with a rusticated base (the 1965 colour photograph shows the tone). The model's front is buff/tan, more even coursed stone.
 7. **Front ground.** The 1887-88 pictures show low stone posts and rails along the walk and stone carriage blocks at the curb; the 1965 photograph shows a low iron fence, later fabric. The model has a tall iron fence with gate piers and urns. Date the fence before choosing.
 
+**Stone:** the owner asked for Glessner's granite approach in a lighter greige from the historical evidence. The detail and the measurements are in T-1883's report; this ticket lays the wall material on that basis so T-1883 only tunes it.
+
 ### Pictures the gate list above leaves out
 
 Build toward these too (all in the Prairie library, all showing this front):
