@@ -1,7 +1,7 @@
 ---
 id: T-2466
 title: 1637 Prairie's swell bay carried up to the cornice, and the stacks' panelled shafts and caps (K15 on a mansard) from the engraving (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2453
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 11:49:14 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T16:56:01.382Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38433167535
 claimed_at: 2026-10-13T16:49:14.793Z
 decision: null
