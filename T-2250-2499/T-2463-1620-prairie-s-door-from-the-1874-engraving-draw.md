@@ -1,7 +1,7 @@
 ---
 id: T-2463
 title: 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, south of the stoop whose strings both pictures put at about v 5.85-7.65, so K07 learns a stoop off its door's axis; and both match records brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2451
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 779
 claimed_by: run 10/13/2026, 10:19:56 AM CT
 blocked_on: null
 needs_bake: false
