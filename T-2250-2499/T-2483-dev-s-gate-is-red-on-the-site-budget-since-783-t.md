@@ -1,7 +1,7 @@
 ---
 id: T-2483
 title: dev's gate is red on the site budget since #783: the prairie-1904 reference browser is shipped twice again (site/4d 33.58 -> 72.97 MB, published tree 279.2 MB of 256 MB)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 785
 claimed_by: run 10/13/2026, 1:39:32 PM CT
 blocked_on: null
 needs_bake: false
