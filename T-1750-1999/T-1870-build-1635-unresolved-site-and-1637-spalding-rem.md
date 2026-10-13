@@ -1,7 +1,7 @@
 ---
 id: T-1870
 title: Refine 1635 unresolved site and 1637 Spalding remodel
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 11:38:21 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38346668839
+claimed_at: 2026-10-13T04:38:21.041Z
 decision: null
 decision_answer: null
 ---
