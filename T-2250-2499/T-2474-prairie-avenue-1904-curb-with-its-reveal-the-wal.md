@@ -1,7 +1,7 @@
 ---
 id: T-2474
 title: Prairie Avenue 1904 curb with its reveal, the walk and parkway at curb height, carriage blocks and carriage walks across the parkway
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 791
 claimed_by: run 10/13/2026, 2:59:59 PM CT
 blocked_on: null
 needs_bake: false
