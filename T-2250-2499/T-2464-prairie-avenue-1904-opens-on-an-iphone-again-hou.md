@@ -1,7 +1,7 @@
 ---
 id: T-2464
 title: Prairie Avenue 1904 opens on an iPhone again: houses share their identical stone, brick and wood images instead of each decoding its own copy
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 773
 claimed_by: run 10/13/2026, 8:45:23 AM CT
 blocked_on: null
 needs_bake: false
