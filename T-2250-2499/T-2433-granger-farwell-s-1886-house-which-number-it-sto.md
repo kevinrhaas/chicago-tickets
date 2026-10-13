@@ -1,7 +1,7 @@
 ---
 id: T-2433
 title: Granger Farwell's 1886 house: which number it stood at (the 1890 McBirney photograph shows it adjoining 1625 on the north, the 1886 drawing a driveway between it and Hamline's 1619), and its front on K01 from the Building Budget drawing: the round-arched entrance and window under the two-storey oriel and its conical roof, camera solved and match record written
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1869
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 753
 claimed_by: run 10/12/2026, 7:57:55 PM CT
 blocked_on: null
 needs_bake: false
