@@ -34,8 +34,6 @@ T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corn
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2431 — Glessner's Cycles-baked stone occlusion (master T-2400, light T-2401) is not bit-reproducible across CPUs, so any off-runner bake of Glessner reds the bake check's K01 hashes again (T-2427): make the atlas reproduce, or bake Glessner only on the pinned runner
-T-2424 — 1638 Prairie's canted bay from its photograph: three pointed lights between its posts, the moulded cornice and the panelled base
 T-2425 — 1638 Prairie's entrance under the tower from its photograph: the pointed arch with its pierced spandrels, the double door, and the stoop between its cheek walls
 T-2426 — 1638 Prairie's front fence and gate piers from its photograph, and its match records brought to matches (after the three pieces before it)
 T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
