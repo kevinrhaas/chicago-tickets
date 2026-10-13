@@ -42,7 +42,10 @@ T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 
 T-2428 — 1619 Prairie's wall gable from the drawing: the roof storey rising from the wall over the bow as a gable with three segment-headed lights under radiating voussoirs, its horizontal and raking cornices, the recessed pediment panel, the apex finial and the two pinnacle shafts
 T-2429 — 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
-T-1869 — Refine 1621, 1623 and 1625 east row
+T-2432 — 1625 Prairie on K01 from its 1890 Inland Architect photograph: Hugh J. McBirney's Tudor stone front with its steep gable and oculus, the mullioned lights and the flat-headed entrance at grade, the photograph's camera solved and its match record written
+T-2433 — Granger Farwell's 1886 house: which number it stood at (the 1890 McBirney photograph shows it adjoining 1625 on the north, the 1886 drawing a driveway between it and Hamline's 1619), and its front on K01 from the Building Budget drawing: the round-arched entrance and window under the two-storey oriel and its conical roof, camera solved and match record written
+T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
+T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-1870 — Refine 1635 unresolved site and 1637 Spalding remodel
 T-1871 — Refine 1700-1706 Glessner family townhouses
 T-1872 — Refine 1708 and 1712 townhouse fronts
