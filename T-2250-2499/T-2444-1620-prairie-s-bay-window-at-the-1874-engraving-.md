@@ -1,7 +1,7 @@
 ---
 id: T-2444
 title: 1620 Prairie's bay window at the 1874 engraving's heights in painted timber, and the crown, its dormer and the front stack brought down to the drawn ones
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2438
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 12:28:15 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38350725244
+claimed_at: 2026-10-13T05:28:15.690Z
 decision: null
 decision_answer: null
 ---
