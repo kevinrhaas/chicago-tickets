@@ -1,7 +1,7 @@
 ---
 id: T-2465
 title: 1637 Prairie's wing from the engraving: carried up to the cornice under its own steep hip, its ridge running back into the main roof as high as it, with the wing's stack at the ridge
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2453
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 774
 claimed_by: run 10/13/2026, 9:01:20 AM CT
 blocked_on: null
 needs_bake: false
