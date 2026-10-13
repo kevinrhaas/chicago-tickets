@@ -65,7 +65,6 @@ T-1879 — Finish 1719-1721 Dexter address and altered house architecture
 T-1880 — Refine 1729 Pullman main house envelope
 T-1881 — Finish 1729 Pullman main house architecture
 T-1882 — Refine 1808 Keith-Field neighbour of Glessner envelope
-T-1883 — Finish 1808 Keith-Field neighbour of Glessner architecture
 T-1884 — Refine 1812 Wheeler shaped-gable house envelope
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
 T-1886 — Refine 1816 Henderson mansard house
@@ -209,3 +208,5 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 T-2476 — 1620 Prairie's mansard as the 1874 engraving draws it: straight steep lower faces instead of the bowed ones, the crown's bow eased, the roof's bulk brought down; and the walls' surface checked against the engraving and the 1887 'olive green'
+# BLOCKED-TECH T-1883 (opened 2026-10-01, SOUTH_TIME) — Finish 1808 Keith-Field neighbour of Glessner architecture
+#     waits: T-1882 — same house, one PR at a time (owner, 2026-10-10); T-1883 finishes the envelope T-1882 builds
