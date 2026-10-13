@@ -34,3 +34,5 @@ When T-2445 was split (2026-10-13T06:36:20.335Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38357043776) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** the 1874 engraving's match record (`data/reference_views/law_house_1620_prairie/landowner_1874_from_northeast.match.json`) carries 'bay window's terrace' and 'board fence's line' as `fixed` or, with the reason read off the picture, `not shown`, re-rendered from the GLB in the tree: a low turned balustrade at the principal floor before the bay (drawn x 365-460 px, rail top y 551 px, 2.89 m) built as the stoop's terrace carried to the stoop's LEFT (K07 learns the left side, K01's params pass it), and the north board fence's foot weighed against the engraving's level boards. The other open rows stay open for T-2451.

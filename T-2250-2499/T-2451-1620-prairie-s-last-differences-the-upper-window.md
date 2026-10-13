@@ -34,3 +34,8 @@ When T-2445 was split (2026-10-13T06:36:20.335Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38357043776) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance:** BOTH match records in `data/reference_views/law_house_1620_prairie/` read `matches` with nothing open, made from the GLB in the tree. What T-2450 leaves open: the upper window over the door (drawn at x 530-550 px, about v 5.6-6.1; K01 puts it on the door's v 6.6 centre), the pavilion's light corner strip down its north corner, and the Tribune sketch's pilaster strips on the bay.
+
+## Image gate
+- law_house_1620_prairie
