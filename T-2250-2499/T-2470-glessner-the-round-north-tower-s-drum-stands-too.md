@@ -1,7 +1,7 @@
 ---
 id: T-2470
 title: Glessner: the round north tower's drum stands too tall over the north range roof; bring its cone down to sit nearly on the roof as HABS photograph 1 shows
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 789
 claimed_by: interactive north-tower correction 10/13/2026, 3:08:15 PM CT
 blocked_on: null
 needs_bake: true
