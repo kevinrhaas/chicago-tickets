@@ -1,7 +1,7 @@
 ---
 id: T-2473
 title: Prairie Avenue 1904 parkway elms from the 1887-91 sidewalk photograph, with a Trees setting: summer, early spring, hidden
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 12:05:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-13T17:05:47.791Z
 decision: null
 decision_answer: null
 ---
