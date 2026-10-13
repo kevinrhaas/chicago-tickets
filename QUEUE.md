@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
-T-2437 — 1620 Prairie's heights from the 1874 engraving's re-solved camera: the eye set by the street fence's foot on the walk, the principal floor, both storeys, the pavilion and the front stack raised to it, the Tribune sketch's camera re-fitted, and both match records re-reviewed
 T-2438 — 1620 Prairie's last differences: the pavilion's corner strip, the bay window's heights, tone and terrace read on the re-solved datum, the upper window over the door, and both match records brought to matches (after the piece before it)
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 

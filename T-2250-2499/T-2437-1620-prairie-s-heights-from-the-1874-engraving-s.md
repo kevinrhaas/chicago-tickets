@@ -1,7 +1,7 @@
 ---
 id: T-2437
 title: 1620 Prairie's heights from the 1874 engraving's re-solved camera: the eye set by the street fence's foot on the walk, the principal floor, both storeys, the pavilion and the front stack raised to it, the Tribune sketch's camera re-fitted, and both match records re-reviewed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2415
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: 756
 claimed_by: run 10/12/2026, 11:06:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T05:18:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38342806769
 claimed_at: 2026-10-13T04:06:50.185Z
 decision: null
