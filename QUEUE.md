@@ -206,6 +206,7 @@ T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 T-2485 — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood
+T-2486 — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
