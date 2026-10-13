@@ -208,6 +208,7 @@ T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the 
 T-2485 — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood
 T-2486 — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 T-2487 — 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
+T-2488 — 1812: build Lee's Place (Hardscrabble), the farm cabin and field on the South Branch three to four miles from the fort, beyond the west edge of the 1812 ground
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 # BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
 #     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
