@@ -1,7 +1,7 @@
 ---
 id: T-2441
 title: 1637 Prairie's Spalding remodel built from its engraving on K01 in place of the draft: the brick block, the full-height swell bay, the projecting north wing, the steep slate roof with its two gabled dormers and the tall stacks, the engraving's camera solved and its match record written
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1870
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 11:40:45 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38346668839
+claimed_at: 2026-10-13T04:40:45.496Z
 decision: null
 decision_answer: null
 ---
