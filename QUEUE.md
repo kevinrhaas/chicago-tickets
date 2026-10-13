@@ -20,7 +20,6 @@
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2450 — 1620 Prairie's terrace across the bay's front from the 1874 engraving: the stoop's terrace carried south before the bay and past the south corner behind its turned balustrade (K07 learns a terrace to the stoop's left), and the north board fence's level foot weighed and ruled
 T-2451 — 1620 Prairie's last differences: the upper window over the door off the door's centre, the pavilion's corner strip, the Tribune bay's pilaster strips, and both match records brought to matches (after the piece before it)
-T-2446 — Glessner granite: a cooler greige colour pass, and a URL option to compare stone colours
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
@@ -38,7 +37,6 @@ T-2455 — 1616 Prairie's close-boarded street fence, as the 1874 engraving of 1
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2213 — Glessner: give dark glazing believable exterior-visible depth and variation
 T-2426 — 1638 Prairie's front fence and gate piers from its photograph, and its match records brought to matches (after the three pieces before it)
-T-2428 — 1619 Prairie's wall gable from the drawing: the roof storey rising from the wall over the bow as a gable with three segment-headed lights under radiating voussoirs, its horizontal and raking cornices, the recessed pediment panel, the apex finial and the two pinnacle shafts
 T-2429 — 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-2440 — Move Hamline's drawing build from 1619 to 1621: the K01 house and its Building Budget camera re-solved on 1621's own bay and the passage south of it, carrying T-2420's and T-2428's work, and 1619 handed back to its own front
@@ -206,4 +204,3 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-T-2454 — settle: a chained ticket whose predecessor lost its queue line opens at the head of the band below band 9, not at the foot of the file

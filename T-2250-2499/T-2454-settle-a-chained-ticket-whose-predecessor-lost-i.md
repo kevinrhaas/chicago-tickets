@@ -1,7 +1,7 @@
 ---
 id: T-2454
 title: settle: a chained ticket whose predecessor lost its queue line opens at the head of the band below band 9, not at the foot of the file
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 763
 claimed_by: run 10/13/2026, 2:15:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T08:11:38Z
 claimed_run: null
 claimed_at: 2026-10-13T07:15:17.673Z
 decision: null

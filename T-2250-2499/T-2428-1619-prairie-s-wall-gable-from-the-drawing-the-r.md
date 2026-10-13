@@ -1,7 +1,7 @@
 ---
 id: T-2428
 title: 1619 Prairie's wall gable from the drawing: the roof storey rising from the wall over the bow as a gable with three segment-headed lights under radiating voussoirs, its horizontal and raking cornices, the recessed pediment panel, the apex finial and the two pinnacle shafts
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2421
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: 749
 claimed_by: run 10/12/2026, 4:22:27 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T08:26:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38309418400
 claimed_at: 2026-10-12T21:22:27.021Z
 decision: null
