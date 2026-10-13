@@ -20,6 +20,7 @@
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2444 — 1620 Prairie's bay window at the 1874 engraving's heights in painted timber, and the crown, its dormer and the front stack brought down to the drawn ones
 T-2445 — 1620 Prairie's last differences: the terrace across the bay's front, the upper window over the door, the pavilion's corner strip, the north board fence's foot and the Tribune bay's pilaster strips, and both match records brought to matches (after the piece before it)
+T-2446 — Glessner granite: a cooler greige colour pass, and a URL option to compare stone colours
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
