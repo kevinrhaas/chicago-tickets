@@ -1,7 +1,7 @@
 ---
 id: T-2476
 title: 1620 Prairie's mansard as the 1874 engraving draws it: straight steep lower faces instead of the bowed ones, the crown's bow eased, the roof's bulk brought down; and the walls' surface checked against the engraving and the 1887 'olive green'
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 781
 claimed_by: run 10/13/2026, 12:27:19 PM CT
 blocked_on: null
 needs_bake: false
