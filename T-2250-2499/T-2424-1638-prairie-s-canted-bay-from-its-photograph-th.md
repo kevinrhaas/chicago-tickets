@@ -1,7 +1,7 @@
 ---
 id: T-2424
 title: 1638 Prairie's canted bay from its photograph: three pointed lights between its posts, the moulded cornice and the panelled base
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1865
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 752
 claimed_by: run 10/12/2026, 7:14:23 PM CT
 blocked_on: null
 needs_bake: true
