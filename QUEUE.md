@@ -18,7 +18,8 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
-T-2445 — 1620 Prairie's last differences: the terrace across the bay's front, the upper window over the door, the pavilion's corner strip, the north board fence's foot and the Tribune bay's pilaster strips, and both match records brought to matches (after the piece before it)
+T-2450 — 1620 Prairie's terrace across the bay's front from the 1874 engraving: the stoop's terrace carried south before the bay and past the south corner behind its turned balustrade (K07 learns a terrace to the stoop's left), and the north board fence's level foot weighed and ruled
+T-2451 — 1620 Prairie's last differences: the upper window over the door off the door's centre, the pavilion's corner strip, the Tribune bay's pilaster strips, and both match records brought to matches (after the piece before it)
 T-2446 — Glessner granite: a cooler greige colour pass, and a URL option to compare stone colours
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 

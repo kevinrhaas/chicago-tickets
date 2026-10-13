@@ -1,7 +1,7 @@
 ---
 id: T-2445
 title: 1620 Prairie's last differences: the terrace across the bay's front, the upper window over the door, the pavilion's corner strip, the north board fence's foot and the Tribune bay's pilaster strips, and both match records brought to matches (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2438
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 1:33:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T06:36:24.625Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38357043776
 claimed_at: 2026-10-13T06:33:57.262Z
 decision: null
