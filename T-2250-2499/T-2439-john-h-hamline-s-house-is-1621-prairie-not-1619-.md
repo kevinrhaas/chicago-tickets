@@ -1,7 +1,7 @@
 ---
 id: T-2439
 title: John H. Hamline's house is 1621 Prairie, not 1619: the evidence weighed and ruled, the 1619 and 1621 cards corrected, the liberty recorded
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2436
 opened: 2026-10-12
 closed: null
-pr: null
+pr: 757
 claimed_by: run 10/12/2026, 11:09:22 PM CT
 blocked_on: null
 needs_bake: false
