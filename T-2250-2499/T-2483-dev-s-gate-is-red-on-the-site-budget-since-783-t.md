@@ -29,4 +29,10 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 
 > dev's gate is red on it from 859179af (dataset step: published tree 279.2 MB over the 256 MB budget); every lapped PR inherits the red
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Evidence (loop, 2026-10-13, from the `gate` job logs on dev):**
+
+- `7d1d50ea` gate green. `52ea8a31` (#776, T-2216) red on two derived counts only (liberties, source-use), both re-derived by the fold `859179af`. At `52ea8a31` the published tree was **239.83 MB** (16.17 MB of headroom), with `site/4d` at 33.58 MB and "reference browsers: **90.71 MB** not shipped twice (T-1828)".
+- `859179af` (dev after `2883bd7a` = #783, T-1882's 1800-block street photograph) is red on the `dataset` step: "published tree is **279.2 MB**, over the 256 MB budget". In the same log `site/4d` is **72.97 MB**, the de-duplication reads "**51.41 MB** not shipped twice", and there's a new WARN: "site/4d/prairie-1904/docs is a page directory with no index.html".
+- #783 adds about 90 KB of images, so the 39 MB jump has to be the T-1828 de-dup no longer matching the prairie-1904 reference browser (`prairie-1904/research/public/`, 39.30 MB). `site/4d` then ships it a second time. Start with `python3 tools/site_budget.py` on dev.
+
+**Acceptance:** dev's `check.sh` green on the site budget with the prairie-1904 reference browser shipped once (T-1828), and no budget raise.
