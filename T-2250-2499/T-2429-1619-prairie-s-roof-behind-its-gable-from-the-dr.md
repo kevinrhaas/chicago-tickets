@@ -1,7 +1,7 @@
 ---
 id: T-2429
 title: 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2421
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 5:19:12 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T10:23:17.846Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38382064096
 claimed_at: 2026-10-13T10:19:12.463Z
 decision: null
