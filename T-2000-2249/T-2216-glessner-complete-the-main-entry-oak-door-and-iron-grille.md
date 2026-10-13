@@ -1,7 +1,7 @@
 ---
 id: T-2216
 title: Glessner: complete the main entry oak door and iron grille
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 776
 claimed_by: run 10/13/2026, 8:41:09 AM CT
 blocked_on: null
 needs_bake: true
