@@ -1,7 +1,7 @@
 ---
 id: T-2455
 title: 1616 Prairie's close-boarded street fence, as the 1874 engraving of 1620 draws it running on north past 1620's corner (x 786-990 px, top y 597-600, foot 652-658 on T-2437's camera; read by T-2450)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 766
 claimed_by: run 10/13/2026, 3:34:24 AM CT
 blocked_on: null
 needs_bake: false
