@@ -35,3 +35,4 @@ When T-2448 was split (2026-10-13T06:37:55.427Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38356948627) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+after T-2452, the engraving's remaining roof-line differences on `spalding_house_1637_prairie`: the wing under its own steep hipped roof as high as the main roof, with its stack at the ridge (K08's projection roof is a hood on its own 1 m plan today); the swell bay and the wing carried up to the cornice itself rather than stopping under K10's bed moulding at 10.7 m; the stacks' panelled shafts and caps (K15). The match record's wing, bay-to-cornice and stack rows go `fixed` on a fresh side-by-side.
