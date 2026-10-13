@@ -1,7 +1,7 @@
 ---
 id: T-2443
 title: 1635 Prairie on 1 July 1904: Robinson 1886's narrow brick building on prairie_1625_1637_c weighed against the 1911 sheet's open strip and the 1904 directory's silence, ruled, and delivered as a bounded house or as ground with its explanation
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1870
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: 771
 claimed_by: run 10/13/2026, 7:05:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T13:44:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38393750253
 claimed_at: 2026-10-13T12:05:16.211Z
 decision: null
