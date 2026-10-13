@@ -33,4 +33,4 @@ When T-2442 was split (2026-10-13T06:30:09.223Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38356473443) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** the engraving's roofs are built on `spalding_house_1637_prairie`: the main roof's steep straight slated lower faces under a level top line, hipped down at the wing; two gabled dormers with square-headed sashes on the street face and one on the north face; the wing under its own steep hip as high as the main roof with its stack at the ridge; the swell bay and the wing carried up to the cornice; the stacks' panelled shafts and caps. The match record's differences for each read `fixed`, from the GLB in the tree. Needs generator work in K01/K05 (K01's mansard dormer is round-headed only).
