@@ -22,7 +22,6 @@ T-1882 — Refine 1808 Keith-Field neighbour of Glessner envelope
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2462 — 1620 Prairie's upper street windows off their bays' centres from the 1874 engraving (over the door v 5.5, over the bay window v 2.5), the pavilion's stone corner strip and the bay window's pilaster strips
 # Owner, 2026-10-13, with the 1887-91 Prairie Avenue sidewalk postcard: "we want to emulate this" (curbs and carriage walks, parkway trees with a Trees setting, soft surface edges). T-2473..T-2475, worked interactively in thread "Prairie Avenue streetscape", one PR each.
-T-2473 — Prairie Avenue 1904 parkway elms from the 1887-91 sidewalk photograph, with a Trees setting: summer, early spring, hidden
 T-2474 — Prairie Avenue 1904 curb with its reveal, the walk and parkway at curb height, carriage blocks and carriage walks across the parkway
 T-2481 — 1904 season setting: summer, spring, fall, winter for trees, ground and sun
 T-2475 — Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
