@@ -1,7 +1,7 @@
 ---
 id: T-2453
 title: 1637 Prairie's wing and stacks from the engraving: the wing under its own steep hip as high as the main roof with its stack at the ridge, the swell bay and the wing carried up to the cornice, and the stacks' panelled shafts and caps
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2448
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 8:53:38 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T14:01:14.354Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38408030280
 claimed_at: 2026-10-13T13:53:39.227Z
 decision: null

@@ -44,7 +44,8 @@ T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the r
 T-2440 — Move Hamline's drawing build from 1619 to 1621: the K01 house and its Building Budget camera re-solved on 1621's own bay and the passage south of it, carrying T-2420's and T-2428's work, and 1619 handed back to its own front
 T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-T-2453 — 1637 Prairie's wing and stacks from the engraving: the wing under its own steep hip as high as the main roof with its stack at the ridge, the swell bay and the wing carried up to the cornice, and the stacks' panelled shafts and caps
+T-2465 — 1637 Prairie's wing from the engraving: carried up to the cornice under its own steep hip, its ridge running back into the main roof as high as it, with the wing's stack at the ridge
+T-2466 — 1637 Prairie's swell bay carried up to the cornice, and the stacks' panelled shafts and caps (K15 on a mansard) from the engraving (after the piece before it)
 T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
 T-1871 — Refine 1700-1706 Glessner family townhouses
 T-1872 — Refine 1708 and 1712 townhouse fronts
