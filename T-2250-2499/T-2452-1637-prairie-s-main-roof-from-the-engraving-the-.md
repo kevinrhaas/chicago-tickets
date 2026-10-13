@@ -1,7 +1,7 @@
 ---
 id: T-2452
 title: 1637 Prairie's main roof from the engraving: the steep straight slated mansard under its level top line, and its three gabled dormers with square-headed sashes
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2448
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 1:38:05 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38356948627
+claimed_at: 2026-10-13T06:38:05.293Z
 decision: null
 decision_answer: null
 ---
