@@ -1,7 +1,7 @@
 ---
 id: T-2475
 title: Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 3:00:03 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-13T20:00:03.623Z
 decision: null
 decision_answer: null
 ---
