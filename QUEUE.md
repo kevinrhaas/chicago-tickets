@@ -17,6 +17,8 @@
 # ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
+# Owner, 2026-10-13: "Sure" (move T-1882 to the top) — 1808 Prairie rebuilt to its photographs, thread "Keith house vs photos"; T-1883 waits on it and takes this line when it merges.
+T-1882 — Refine 1808 Keith-Field neighbour of Glessner envelope
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2462 — 1620 Prairie's upper street windows off their bays' centres from the 1874 engraving (over the door v 5.5, over the bay window v 2.5), the pavilion's stone corner strip and the bay window's pilaster strips
 T-2463 — 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, south of the stoop whose strings both pictures put at about v 5.85-7.65, so K07 learns a stoop off its door's axis; and both match records brought to matches (after the piece before it)
@@ -64,7 +66,6 @@ T-1878 — Refine 1719-1721 Dexter address and altered house envelope
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
 T-1880 — Refine 1729 Pullman main house envelope
 T-1881 — Finish 1729 Pullman main house architecture
-T-1882 — Refine 1808 Keith-Field neighbour of Glessner envelope
 T-1884 — Refine 1812 Wheeler shaped-gable house envelope
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
 T-1886 — Refine 1816 Henderson mansard house
