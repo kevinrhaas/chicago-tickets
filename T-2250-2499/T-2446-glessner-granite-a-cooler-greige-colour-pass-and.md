@@ -1,7 +1,7 @@
 ---
 id: T-2446
 title: Glessner granite: a cooler greige colour pass, and a URL option to compare stone colours
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 760
 claimed_by: run 10/13/2026, 1:12:22 AM CT
 blocked_on: null
 needs_bake: false
