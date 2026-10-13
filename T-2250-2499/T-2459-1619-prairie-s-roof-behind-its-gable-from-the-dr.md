@@ -1,7 +1,7 @@
 ---
 id: T-2459
 title: 1619 Prairie's roof behind its gable from the drawing: the steep slated street slope to a ridge parallel to the front, and the house's south side wall carried up as a crow-stepped parapet to the tall stack at the ridge
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2429
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 769
 claimed_by: run 10/13/2026, 5:23:23 AM CT
 blocked_on: null
 needs_bake: false
