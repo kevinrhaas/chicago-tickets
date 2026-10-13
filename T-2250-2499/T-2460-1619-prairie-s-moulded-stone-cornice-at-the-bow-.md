@@ -35,3 +35,5 @@ When T-2429 was split (2026-10-13T10:23:14.193Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38382064096) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+From T-2429's acceptance, the cornice half: the moulded stone cornice the drawing runs at the bow's top, carrying the balcony, in place of K10's bracketed timber cornice at 9.2 m, and the bow carried up to it (the K10 rule that a bay's roof may not meet the wall above the bed moulding is what kept the bow at 8.2 m; docs/RESEARCH/k01-1619-hamline-2420/README.md § What K01 could not do). K10 has no stone eave cornice of this kind today, so this piece teaches it one as data. The match record's cornice row goes from `open` to `fixed` on a fresh side-by-side. If T-2440 has landed, build at `house_1621_prairie`.
