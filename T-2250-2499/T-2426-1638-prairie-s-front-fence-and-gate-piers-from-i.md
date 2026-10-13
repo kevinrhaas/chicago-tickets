@@ -1,7 +1,7 @@
 ---
 id: T-2426
 title: 1638 Prairie's front fence and gate piers from its photograph, and its match records brought to matches (after the three pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1865
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 4:22:07 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38375331018
+claimed_at: 2026-10-13T09:22:07.843Z
 decision: null
 decision_answer: null
 ---
