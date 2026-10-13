@@ -39,3 +39,8 @@ Every match record of the group reads `matches` with nothing `open`, made from t
 ## Image gate
 - house_1625_prairie
 - house_1621_prairie
+
+## Finding from T-2436 / T-2439 (2026-10-13)
+
+T-2439 rules that John H. Hamline's house — the Building Budget drawing's left-hand house — stood at **1621**, not 1619 (`docs/RESEARCH/hamline-1621-2436/README.md`): the 1885 permit, the 1884-87 directories, the Conzen-Knox 1886 occupant map (1619 Joseph L. McBirney, 1621 John Hamline, 1623 Granger Farwell), the 1886 Robinson plate (its printed '1621' on the first of a matched pair of new houses, sublots 1 and 2) and the 1904 Blue Book all put it there; only the Inter Ocean's 1886 '1619' does not. T-2440 moves T-2420's build to `house_1621_prairie`.
+So the records to bring to matches are 1621's (moved from 1619 by T-2440), 1623's and 1625's.
