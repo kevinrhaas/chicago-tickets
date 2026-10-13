@@ -1,7 +1,7 @@
 ---
 id: T-2432
 title: 1625 Prairie on K01 from its 1890 Inland Architect photograph: Hugh J. McBirney's Tudor stone front with its steep gable and oculus, the mullioned lights and the flat-headed entrance at grade, the photograph's camera solved and its match record written
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1869
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/12/2026, 7:47:50 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38328466192
+claimed_at: 2026-10-13T00:47:50.762Z
 decision: null
 decision_answer: null
 ---
