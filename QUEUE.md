@@ -27,7 +27,6 @@ T-2474 — Prairie Avenue 1904 curb with its reveal, the walk and parkway at cur
 T-2481 — 1904 season setting: summer, spring, fall, winter for trees, ground and sun
 T-2475 — Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
 T-2479 — 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
-T-2491 — 1904 context city: faded streets laid on the section grid and the city carried out to the haze's reach
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 T-2487 — 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
