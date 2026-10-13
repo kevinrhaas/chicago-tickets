@@ -56,6 +56,42 @@ This package no longer builds from an empty lot. [T-2159](../T-2000-2249/T-2159-
 
 Rebuilding a house from scratch beside the draft, or leaving a draft copy and a refined copy both standing, is a defect. The acceptance above is unchanged: refinement is judged to the same Glessner standard.
 
+## The owner's report (2026-10-13)
+
+Owner, 2026-10-13, in the project thread, with a street photograph of the 1800 block looking south-west from Glessner's corner and a phone screenshot of the model on dev:
+
+> One thing I want to call out on the Keith house is that it while you worked on it as a test house it does not look much like the photos i can see of it. It has an Italianette top and the round tower appears on the north not south side, maybe this is already in the tickets for this but I wanted to make sure you hit those
+
+Side by side: [pictures-vs-model-phone.jpg](../evidence/keith-1808-T-1882/pictures-vs-model-phone.jpg) (the 1888 plate, the mid-1950s view, the owner's photograph, the model on dev; S and N marked on each). The owner's photograph is library record `a18-owner-1800-block-looking-sw` (added with this report; its file is `chicago/prairie_1904_v1/research/public/a18-owner-1800-block-looking-sw.jpg` once the library PR lands).
+
+What stands on the lot today is T-2266's K01 kit proof, not this house: its record says so ("a SMALL PROOF, not the house ... replaced by" T-1882 and T-1883), and the K-kit chain then dressed it with generic parts. This package replaces it.
+
+**Split between the two tickets:** T-1882 owns the shapes: the flat top and parapet height, the bow's two-storey extent with the flat third storey over it, the loggia and stair masses, the overall height, and every opening's position and size. T-1883 (this one) owns the finish on them: the lattice, pinnacles and diaper band, colonnettes, columns, balustrades and cheek walls, the stone's tone and rock face, and the front fence. Its image gate closes the house, so every item below must match before it closes.
+
+### What the pictures show and the model does not
+
+1. **The top.** The model has a hipped slate roof with a gabled dormer over a bracketed timber cornice, an Italianate top. Every picture shows a flat top: a deep band of rock-faced diaper (checker) work over the third-storey windows, then a pierced stone parapet (square openings, a lattice), with a stone pinnacle at each front corner. No roof slope or dormer shows from the street.
+2. **The bow, and which side it is on.** All the pictures and the 1888 plan put the round bow on the **south** half of the front (beside 1812), and the entrance loggia on the **north** half (beside Glessner), so the model's bow is on the right side. Its shape is wrong: the model runs a round tower from grade to the cornice, three storeys. The real bow is two storeys (principal and second; the 1965 photograph shows the ground storey bowed too), capped by a curved moulded band; the **third storey runs flat across the whole front over it**, as one arcade of six sash windows divided by colonnettes. In the owner's photograph, taken from the north-east, the bow's curved face reads as if above the porch because of the angle, and the tall pointed gable with the round-arched window just south of the Keith house is 1812 (Wheeler, T-1884/T-1885), not this house; the mansard with dormers beyond it is 1816.
+3. **The entrance.** The model has a round-arched door in the middle of the front with an open stoop. The pictures show an open loggia at the north end: paired columns at each front corner (Ionic, per the T-1837 register) on pedestals, a pierced stone balustrade between them, a carved balcony with balustrade over it, under the second-storey window, and the stair rising on the loggia's south side between scrolled stone cheek walls, with a low arch under the loggia at basement level.
+4. **Height.** The real front is much taller than Glessner's eave: the parapet stands above Glessner's ridge in the c. 1888 view and in `a18-gh-glessner-front-with-keith`. The model's cornice sits near Glessner's eave and only its dormer reaches the ridge.
+5. **Openings.** Principal storey: three tall windows with transoms in the bow; second storey: four windows round the bow and one window over the loggia; third storey: the continuous arcade of six; basement windows just above grade. The model has paired sashes in its tower and single windows elsewhere, three storeys alike.
+6. **Stone.** Pale grey rock-faced ashlar in heavy courses, with a rusticated base (the 1965 colour photograph shows the tone). The model's front is buff/tan, more even coursed stone.
+7. **Front ground.** The 1887-88 pictures show low stone posts and rails along the walk and stone carriage blocks at the curb; the 1965 photograph shows a low iron fence, later fabric. The model has a tall iron fence with gate piers and urns. Date the fence before choosing.
+
+### Pictures the gate list above leaves out
+
+Build toward these too (all in the Prairie library, all showing this front):
+- `a18-owner-1800-block-looking-sw`: the owner's photograph, from the north-east (undated; Glessner complete, no ivy).
+- `a18-gh-1800-block-looking-sw-c1888` (same photograph as `a18-gh-1800-block-sw-george-glessner`): c. 1888, from the 18th Street corner.
+- `a18-gh-1812-1808-1800-mid1950s`: mid-1950s. Its record says the camera is north-east looking south-west; the picture is taken from the south-east (1812 is nearest, Glessner recedes at the right). Correct the record when the camera is solved.
+- `a18-gh-nickel-1967-1812-1808-1800`: 1967, elevated, nearly square-on to the front.
+- `a18-gh-1808-porch-1965`: 1965 colour, the bow, the loggia and the stair close up.
+- `a18-rba-reed-1941-prairie-north-from-1820`: 1941-42, distant.
+
+The 1941-1967 pictures are evidence of their own dates (AGENTS.md rule 11): argue any change since 1904 in the match record.
+
+`cgn-1804-landowner-1874-double-house` (and the same engraving as `a18-gh-hitchcock-galloway-1874-sketch`) shows the 1874 Hitchcock/Galloway double house that stood here **before** the Keith house was built in 1886. It is not a picture of this building: do not build toward it or solve a camera for it.
+
 ## Image gate (owner, 2026-10-11, T-2368)
 
 Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
