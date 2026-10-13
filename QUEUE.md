@@ -22,7 +22,6 @@ T-1882 — Refine 1808 Keith-Field neighbour of Glessner envelope
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 T-2462 — 1620 Prairie's upper street windows off their bays' centres from the 1874 engraving (over the door v 5.5, over the bay window v 2.5), the pavilion's stone corner strip and the bay window's pilaster strips
 # Owner, 2026-10-13, with the 1887-91 Prairie Avenue sidewalk postcard: "we want to emulate this" (curbs and carriage walks, parkway trees with a Trees setting, soft surface edges). T-2473..T-2475, worked interactively in thread "Prairie Avenue streetscape", one PR each.
-T-2481 — 1904 season setting: summer, spring, fall, winter for trees, ground and sun
 T-2479 — 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures

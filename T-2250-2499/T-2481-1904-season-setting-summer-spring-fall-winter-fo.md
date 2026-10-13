@@ -1,7 +1,7 @@
 ---
 id: T-2481
 title: 1904 season setting: summer, spring, fall, winter for trees, ground and sun
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 792
 claimed_by: run 10/13/2026, 5:10:51 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T23:12:00Z
 claimed_run: null
 claimed_at: 2026-10-13T22:10:51.258Z
 decision: null
