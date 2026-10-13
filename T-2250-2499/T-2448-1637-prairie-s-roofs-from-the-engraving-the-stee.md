@@ -1,7 +1,7 @@
 ---
 id: T-2448
 title: 1637 Prairie's roofs from the engraving: the steep straight slated mansard, gabled square-headed dormers, the wing's own steep hip and stack, the bay and wing carried to the cornice, and the stacks' panelled shafts and caps
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2442
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 1:36:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T06:38:00.367Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38356948627
 claimed_at: 2026-10-13T06:36:20.178Z
 decision: null
