@@ -1,7 +1,7 @@
 ---
 id: T-2462
 title: 1620 Prairie's upper street windows off their bays' centres from the 1874 engraving (over the door v 5.5, over the bay window v 2.5), the pavilion's stone corner strip and the bay window's pilaster strips
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2451
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 8:19:33 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38402132132
+claimed_at: 2026-10-13T13:19:33.163Z
 decision: null
 decision_answer: null
 ---
