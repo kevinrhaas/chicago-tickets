@@ -35,5 +35,9 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 
 **Acceptance:** after T-2447 and T-2448, the principal storey's sashes at the engraving's ~2.9 m and the wing's French window (past K01's 2.4 m clear-height limit, argued or lifted), the basement lights (round-headed under the wing, nearly a storey under the bay); the c. 1870 Grosvenor photograph (`a16-ghm-blog-1637-grosvenor-asbuilt`) given a source record and a camera, and its match record written with the Italianate house it shows weighed as evidence of its own date (AGENTS.md rule 11): what the remodel kept is built, what it replaced is argued `not shown` for 1904. Then both match records read `matches` with nothing open.
 
+## Taken over from T-2447 (2026-10-13)
+
+Also this piece's: the wing's balcony on its principal floor (bowed, about 0.9 m high, x 652-778 px, under the French window), and the stoop's run. The engraving draws the stoop's foot at the fence's first post (x 557 px), while K07's straight flight reaches about 1.6 m past the garden's line, so the built fence starts near x 640 px. Both are open in the match record.
+
 ## Image gate
 - spalding_house_1637_prairie

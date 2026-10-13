@@ -34,3 +34,7 @@ When T-1870 was split (2026-10-13T04:39:19.966Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38346668839) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding from T-2447 (2026-10-13)
+
+The engraving of 1637 (`glessner_blog_1637_spalding_remodel_engraving`) draws a tall brick garden wall before 1637's north flank running on north past the plate's edge: through its solved camera the wall stands 3.5 m before 1637's front and reaches at least 3.5 m beyond 1637's north lot line, onto `prairie_1625_1637_c`. T-2447 stops it at the lot line. If 1635's strip was Spalding's garden on 1 July 1904 rather than a house, the wall continues across it (`boundary.wall.from_s_m` in `spalding_house_1637_prairie`).
