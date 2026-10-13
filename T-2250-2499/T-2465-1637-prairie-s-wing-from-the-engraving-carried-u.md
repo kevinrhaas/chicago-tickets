@@ -1,7 +1,7 @@
 ---
 id: T-2465
 title: 1637 Prairie's wing from the engraving: carried up to the cornice under its own steep hip, its ridge running back into the main roof as high as it, with the wing's stack at the ridge
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2453
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 9:01:20 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38408030280
+claimed_at: 2026-10-13T14:01:20.460Z
 decision: null
 decision_answer: null
 ---
