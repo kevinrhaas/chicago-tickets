@@ -23,6 +23,7 @@ T-2463 — 1620 Prairie's door from the 1874 engraving: drawn at v 5.4-6.45, sou
 # Owner, 2026-10-13, with the 1887-91 Prairie Avenue sidewalk postcard: "we want to emulate this" (curbs and carriage walks, parkway trees with a Trees setting, soft surface edges). T-2473..T-2475, worked interactively in thread "Prairie Avenue streetscape", one PR each.
 T-2473 — Prairie Avenue 1904 parkway elms from the 1887-91 sidewalk photograph, with a Trees setting: summer, early spring, hidden
 T-2474 — Prairie Avenue 1904 curb with its reveal, the walk and parkway at curb height, carriage blocks and carriage walks across the parkway
+T-2481 — 1904 season setting: summer, spring, fall, winter for trees, ground and sun
 T-2475 — Soft edges where the 1904 street surfaces meet each other and the lawns, instead of hard jagged cuts
 T-2478 — 1904 lakefront: the Illinois Central and Michigan Central tracks east of Prairie Avenue, rails, ties and cinder ballast on the 1911 track layout, with weedy verges
 T-2479 — 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
