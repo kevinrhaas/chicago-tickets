@@ -36,7 +36,6 @@ T-2415 — Bring both 1620 Prairie match records to matches: the pavilion's corn
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2425 — 1638 Prairie's entrance under the tower from its photograph: the pointed arch with its pierced spandrels, the double door, and the stoop between its cheek walls
 T-2426 — 1638 Prairie's front fence and gate piers from its photograph, and its match records brought to matches (after the three pieces before it)
-T-2418 — Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
 T-2428 — 1619 Prairie's wall gable from the drawing: the roof storey rising from the wall over the bow as a gable with three segment-headed lights under radiating voussoirs, its horizontal and raking cornices, the recessed pediment panel, the apex finial and the two pinnacle shafts
 T-2429 — 1619 Prairie's roof behind its gable from the drawing: the slate roof, the crow-stepped south parapet rising from the front to its stack, and the moulded stone cornice at the bow's top
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches

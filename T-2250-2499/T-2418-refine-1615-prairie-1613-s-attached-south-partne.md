@@ -1,7 +1,7 @@
 ---
 id: T-2418
 title: Refine 1615 Prairie, 1613's attached south partner, on the brick K01 frontage: the pair's other half, not a copy of 1613's front, with its own roof, gutters, chimneys and rear elevation
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1868
 opened: 2026-10-12
-closed: null
+closed: 2026-10-12
 pr: 754
 claimed_by: run 10/12/2026, 7:44:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T02:38:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38328431247
 claimed_at: 2026-10-13T00:44:50.616Z
 decision: null
