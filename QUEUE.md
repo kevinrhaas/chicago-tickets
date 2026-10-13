@@ -35,6 +35,7 @@ T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the 
 T-2487 — 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
 T-2488 — 1812: build Lee's Place (Hardscrabble), the farm cabin and field on the South Branch three to four miles from the fort, beyond the west edge of the 1812 ground
 T-2489 — 1812: rule on the other structures the record may place at Chicago before the evacuation (Guarie's North Branch trading house, Cobweb Castle's build date, Lalime's and Russell's dwellings) and file a build for each one ruled in
+T-2490 — 1812: build the Potawatomi lodges at their documented camping place on the south bank by the later State Street bridge, and date the camp of the 12-16 August gathering from Wau-Bun
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
