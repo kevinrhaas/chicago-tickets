@@ -1,7 +1,7 @@
 ---
 id: T-2450
 title: 1620 Prairie's terrace across the bay's front from the 1874 engraving: the stoop's terrace carried south before the bay and past the south corner behind its turned balustrade (K07 learns a terrace to the stoop's left), and the north board fence's level foot weighed and ruled
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2445
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 762
 claimed_by: run 10/13/2026, 1:36:31 AM CT
 blocked_on: null
 needs_bake: false
