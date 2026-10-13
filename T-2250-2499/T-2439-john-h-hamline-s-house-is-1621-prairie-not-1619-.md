@@ -1,7 +1,7 @@
 ---
 id: T-2439
 title: John H. Hamline's house is 1621 Prairie, not 1619: the evidence weighed and ruled, the 1619 and 1621 cards corrected, the liberty recorded
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2436
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: 757
 claimed_by: run 10/12/2026, 11:09:22 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T05:53:13Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38343905100
 claimed_at: 2026-10-13T04:09:22.530Z
 decision: null
