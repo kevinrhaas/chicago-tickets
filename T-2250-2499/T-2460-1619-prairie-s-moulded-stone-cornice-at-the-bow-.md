@@ -1,7 +1,7 @@
 ---
 id: T-2460
 title: 1619 Prairie's moulded stone cornice at the bow's top from the drawing: the bow carried up to it, in place of K10's bracketed timber cornice (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2429
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 775
 claimed_by: run 10/13/2026, 9:23:50 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T18:01:17Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38412431340
 claimed_at: 2026-10-13T14:23:51.001Z
 decision: null
