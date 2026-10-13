@@ -1,7 +1,7 @@
 ---
 id: T-2461
 title: pr-automerge read 'every check green' on a lap head whose content build (bake + smoke) never started: #768 merged 21ef749 on gate + report alone
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/13/2026, 8:25:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38403972172
+claimed_at: 2026-10-13T13:25:07.182Z
 decision: null
 decision_answer: null
 ---
