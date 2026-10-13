@@ -1,7 +1,7 @@
 ---
 id: T-2214
 title: Correct the mirrored Glessner 1886 inscription and monogram
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-13
 pr: 768
 claimed_by: run 10/13/2026, 3:47:03 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-13T13:15:02Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38371068912
 claimed_at: 2026-10-13T08:47:03.592Z
 decision: null
