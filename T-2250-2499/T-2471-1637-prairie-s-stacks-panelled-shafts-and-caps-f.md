@@ -1,7 +1,7 @@
 ---
 id: T-2471
 title: 1637 Prairie's stacks' panelled shafts and caps from the engraving: the K15 kit's head on the mansard's plain stacks
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2466
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 780
 claimed_by: run 10/13/2026, 11:56:06 AM CT
 blocked_on: null
 needs_bake: false
