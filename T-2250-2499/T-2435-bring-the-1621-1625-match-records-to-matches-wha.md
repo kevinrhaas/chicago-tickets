@@ -34,3 +34,8 @@ When T-1869 was split (2026-10-13T00:47:39.942Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38328466192) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+Every match record of the group reads `matches` with nothing `open`, made from the GLBs in the tree: 1625's from the 1890 McBirney photograph (T-2432) and Farwell's from the Building Budget drawing and the photograph's left edge (T-2433). If T-2433 puts Farwell's house at 1623, it moves the image gate's second id below with it.
+
+## Image gate
+- house_1625_prairie
+- house_1621_prairie
