@@ -1,7 +1,7 @@
 ---
 id: T-2468
 title: Dev's smoke stage 14 is red: #771 placed forsyth_house_1635_prairie in 1904 but the 1904 roster (PLACED_1904) was never given it, so every PR off dev refuses on smoke (mobile, 14)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 778
 claimed_by: run 10/13/2026, 10:25:25 AM CT
 blocked_on: null
 needs_bake: false
