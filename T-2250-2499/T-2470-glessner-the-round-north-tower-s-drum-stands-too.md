@@ -66,3 +66,5 @@ The tower is `tower_north` in `data/sidecars/1904/glessner_house.json`: the roun
 ## Owner clarification, 2026-10-13
 
 The owner supplied a close crop of HABS 01 and directed that the north-facing gable wall continue flat into the tower, concealing the erroneous exposed curved front. The north elevation windows also differ: correct their positions, sizes, grouping and alignment against the photographs as part of this ticket. The owner requires photographic agreement, not merely an improved tower height. Re-read HABS 01, 13, 14 and the available north elevation drawing; validate the wall/tower junction and windows together in corresponding views before marking them fixed.
+
+The owner also identified two defects in the review preview: the curved drum has a regular vertical grid instead of staggered rough-faced courses, and the tower eave projects across the sloping gable. Correct both in this ticket. Preserve the visible stone gable at the roof junction and remove any residual host-roof strip crossing a north window.
