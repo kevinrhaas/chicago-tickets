@@ -1,7 +1,7 @@
 ---
 id: T-2438
 title: 1620 Prairie's last differences: the pavilion's corner strip, the bay window's heights, tone and terrace read on the re-solved datum, the upper window over the door, and both match records brought to matches (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2415
 opened: 2026-10-12
-closed: null
+closed: 2026-10-13
 pr: null
 claimed_by: run 10/13/2026, 12:22:13 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T05:28:10.509Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38350725244
 claimed_at: 2026-10-13T05:22:13.761Z
 decision: null
