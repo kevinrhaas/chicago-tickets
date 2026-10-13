@@ -1,7 +1,7 @@
 ---
 id: T-2469
 title: Glessner granite: grey-greige as the default, and the other stone options removed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 777
 claimed_by: run 10/13/2026, 10:37:18 AM CT
 blocked_on: null
 needs_bake: false
