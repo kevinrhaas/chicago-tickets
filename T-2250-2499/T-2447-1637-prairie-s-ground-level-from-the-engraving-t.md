@@ -1,7 +1,7 @@
 ---
 id: T-2447
 title: 1637 Prairie's ground level from the engraving: the stoop's railed landing, the wing's balcony under its French window, the brick garden wall before the north flank and the iron fence before the wing
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2442
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 761
 claimed_by: run 10/13/2026, 1:30:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T09:27:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38356473443
 claimed_at: 2026-10-13T06:30:19.412Z
 decision: null
