@@ -48,7 +48,7 @@ T-2490 — 1812: build the Potawatomi lodges at their documented camping place o
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2470 — Glessner: the round north tower's drum stands too tall over the north range roof; bring its cone down to sit nearly on the roof as HABS photograph 1 shows
+T-2217 — Glessner: finish both porte-cochere leaves, hardware and passage
 T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
 T-2492 — bake.sh --only on pure-Python archetypes (K01/K12/K13/K16/draft) dies in build.py's 'built nothing' exit 1 before their emitters run — so a content build dispatched with only=<K16 id> is red on every such PR (#770, run 38454631755); let build.py signal 'nothing for Blender' distinctly and leave bake.sh's empty-WROTE guard as the refusal
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
@@ -209,8 +209,6 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-# BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
-#     waits: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-1883 (opened 2026-10-01, SOUTH_TIME) — Finish 1808 Keith-Field neighbour of Glessner architecture
 #     waits: T-1882 — same house, one PR at a time (owner, 2026-10-10); T-1883 finishes the envelope T-1882 builds
 # BLOCKED-TECH T-2485 (opened 2026-10-13, SOUTH_TIME) — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garde…
