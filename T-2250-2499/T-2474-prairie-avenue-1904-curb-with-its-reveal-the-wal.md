@@ -45,3 +45,13 @@ T-0474 / T-1728 lay the walk, parkway and curb flat on the ground with no reveal
 2. No z-fighting, floating or buried edge at the curb, the lot line or the corners at street-eye level; walking onto and off the walk is smooth.
 3. L293 updated (the reveal is now drawn, with its basis); cards for the curb, carriage blocks and carriage walks.
 4. Phone budget held; gate and smoke by parts green; changelog entry.
+
+## Owner's second picture (2026-10-13, 17:10 UTC)
+
+"Found this also you may already have bit it shows the curbs nicely": a black-and-white street
+photograph of a Prairie Avenue block face in winter (bare parkway elms, high stoops with stone
+balustrades, a stone curb standing proud of a light roadway, the walk and parkway level with the
+curb), 482 x 328 px, sha256 12b9f8ca6c1b0e76bcd07d34aab116de6f7d2da08baab3f2d92213b7c96d5872.
+It looks like the library's `st-chicagology-prairie-avenue-about-1890-photo` (bare elms, high
+stoops, stone balustrades); confirm against that record before citing it. Commit it beside the
+postcard under `data/sources/assets/` and read the curb reveal off it against a known riser height.
