@@ -205,7 +205,6 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
-T-2486 — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 T-2487 — 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
 T-2488 — 1812: build Lee's Place (Hardscrabble), the farm cabin and field on the South Branch three to four miles from the fort, beyond the west edge of the 1812 ground
 T-2489 — 1812: rule on the other structures the record may place at Chicago before the evacuation (Guarie's North Branch trading house, Cobweb Castle's build date, Lalime's and Russell's dwellings) and file a build for each one ruled in
@@ -218,3 +217,5 @@ T-2480 — 1620 Prairie's door hood from the 1874 engraving: a bracketed timber 
 #     waits: T-1882 — same house, one PR at a time (owner, 2026-10-10); T-1883 finishes the envelope T-1882 builds
 # BLOCKED-TECH T-2485 (opened 2026-10-13, SOUTH_TIME) — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garde…
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
+# BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
+#     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment

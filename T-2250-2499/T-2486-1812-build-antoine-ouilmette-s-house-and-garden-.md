@@ -1,7 +1,7 @@
 ---
 id: T-2486
 title: 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
-state: open
+state: blocked-tech
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-13
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 needs_bake: false
 closed_at: null
 claimed_run: null
