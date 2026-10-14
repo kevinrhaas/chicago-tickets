@@ -1,7 +1,7 @@
 ---
 id: T-2220
 title: Glessner: refine copper roof panels, seams and weathering
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2494 — repair canonical Glessner bake reproducibility before the next geometry change; continue the one-house-at-a-time sequence after T-2218/PR #797
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -103,3 +103,5 @@ Pictures:
   `glessner_house`: a18-cgy-1800-glessner-2135 (photograph, oblique front, 1887 (chicagology labels it 1886)), a18-cornell-adw-glessner (photograph, oblique front, ca. 1887), a18-gh-chicago-herald-1887-illustration (newspaper item, oblique front, late 1887), a18-gh-cornell-glessner-front-c1887 (photograph, oblique front, c. 1887), a18-gh-cornell-glessner-rear-c1887 (photograph, side elevation, c. 1887), a18-gh-courtyard-watercolor (architectural drawing, rear, undated (design period, 1885–1887?)), a18-gh-glessner-exterior-historic (photograph, oblique front, undated (late 1880s–1890s)), a18-gh-glessner-female-servants-entrance (photograph, detail, c. 1888–1890s), a18-gh-glessner-front-with-keith (photograph, front elevation, undated (probably 1890s–1920s)), a18-gho-house-under-construction-1887 (photograph, oblique front, 1887), a18-gho-porte-cochere-doors-c1888 (photograph, detail, about 1888), a18-glessner-habs-photo-12 (architectural drawing, front elevation, undated preliminary design (copied for HABS)), and 49 more in the library
 
 **Owner continuation, 2026-10-13:** "Keep going", immediately after the T-2470 merge and recorded T-2219 service-door/window/roof finding. T-2219 is selected next; the serialized order is T-2219 → T-2217 → T-2218 → T-2220. This supersedes the earlier scheduling dependency only.
+
+**Unblocked 2026-10-14:** T-2494 merged (PR #798); this took its place in the queue. The block read: T-2494 — repair canonical Glessner bake reproducibility before the next geometry change; continue the one-house-at-a-time sequence after T-2218/PR #797
