@@ -1,7 +1,7 @@
 ---
 id: T-2495
 title: 1904 lakefront: continue rails and historical shoreline to the map edges
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 796
 claimed_by: run 10/13/2026, 9:44:18 PM CT
 blocked_on: null
 needs_bake: false
