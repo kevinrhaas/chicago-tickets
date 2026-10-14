@@ -1,7 +1,7 @@
 ---
 id: T-2218
 title: Glessner: reconstruct the curved courtyard hall steps and cheek wall
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 797
 claimed_by: continuing courtyard steps 10/14/2026, 12:48:45 AM CT
 blocked_on: null
 needs_bake: true
