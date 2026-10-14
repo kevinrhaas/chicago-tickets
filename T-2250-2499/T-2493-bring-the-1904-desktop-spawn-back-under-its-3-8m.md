@@ -1,7 +1,7 @@
 ---
 id: T-2493
 title: Bring the 1904 desktop spawn back under its 3.8M triangle budget: elm LOD and shadow reach, haze-hidden far trees
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 794
 claimed_by: run 10/13/2026, 7:45:00 PM CT
 blocked_on: null
 needs_bake: false
