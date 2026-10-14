@@ -96,3 +96,22 @@ The unmodified exact-commit published smoke groups for [desktop part 13](https:/
 The refreshed baseline uses unchanged T-2220 house bytes in the merged 00147/75b9 scene, before T-2221 geometry. It reaches readiness within the unchanged 240-second limit on this retry and produces all nine Full views with zero page errors, failed requests or app problems; the two earlier startup timeouts remain failures. Full courtyard bow-leader measures 401 draws / 4,761,785 triangles and dining-leader 400 / 4,711,778 against 360 / 4,600,000. All seven street/alley views pass (maximum 4,568,300 triangles). This is a failed budget run, not a passed baseline. It adds Full-detail regressions in the integrated scene to this ticket's existing Balanced failures. No ceiling was changed. Reproduce with the T-2221 camera harness; its before gallery and measurements will be committed with the drainage PR. Local rendering is SwiftShader, not a physical-GPU FPS measurement.
 
 The completed 390x780 Light baseline also fails two close north views before the drainage change: north-head-clear 181 draws / 1,510,067 triangles and north-tower 181 / 1,511,690, against Light's unchanged 330 / 1,270,000 scene ceiling. The remaining seven views pass, including bow 180 / 1,005,882 and dining 249 / 1,252,050. Startup succeeds under the normal 240-second wait on this retry, and there are zero page errors, failed requests or app problems. Preserve these failures; do not raise the Light floor or mistake the separately passing 199,484-triangle house limit for a passing scene budget. Before images and raw browser-validation-mobile.json are in the T-2221 research gallery.
+
+
+## T-2221 final published comparison — 2026-10-14 UTC
+
+Final drainage assets retain the same four failing paired observations. Full bow:
+403 draws / 4,760,451 triangles; dining: 402 / 4,710,444, against 360 / 4,600,000.
+Light north-head-clear: 183 / 1,510,528; north-tower: 183 / 1,512,187, against
+330 / 1,270,000. No paired camera newly fails. All paired Full readings add two
+draws and remove 1,334 triangles; Light adds two draws with triangle deltas
+-126 to +1,142 depending on culling. The additional after-only north-bowl-detail
+angle passes both budgets; no before result exists at that angle.
+
+Normal boot succeeded, with zero page errors, failed requests and app problems.
+All 121 image tiles loaded with credits; 46 further records remain links.
+Both browser commands correctly retain exit 1 for budget failures. Software
+rendering is not hardware-GPU FPS. Geometry and captured cameras were unchanged
+by the later integrated T-2496 travel fix. Evidence will land with T-2221 under
+`docs/RESEARCH/glessner-rainwater-T-2221/app-comparison.json`; source before/after
+results and screenshots are retained alongside it. No ceilings were raised.
