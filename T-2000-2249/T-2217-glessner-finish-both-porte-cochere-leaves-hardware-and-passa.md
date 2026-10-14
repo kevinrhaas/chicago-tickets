@@ -1,7 +1,7 @@
 ---
 id: T-2217
 title: Glessner: finish both porte-cochere leaves, hardware and passage
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2219 — owner requested continuing the photographed service-opening / west-gable repair on 2026-10-13; one Glessner PR at a time
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -87,3 +87,5 @@ Pictures:
 **Unblocked 2026-10-13:** T-2470 merged (PR #789); this took its place in the queue. The block read: T-2470 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 
 **Owner continuation, 2026-10-13:** "Keep going", immediately after the T-2470 merge and recorded T-2219 service-door/window/roof finding. T-2219 is selected next; the serialized order is T-2219 → T-2217 → T-2218 → T-2220. This supersedes the earlier scheduling dependency only.
+
+**Unblocked 2026-10-13:** T-2219 merged (PR #793); this took its place in the queue. The block read: T-2219 — owner requested continuing the photographed service-opening / west-gable repair on 2026-10-13; one Glessner PR at a time

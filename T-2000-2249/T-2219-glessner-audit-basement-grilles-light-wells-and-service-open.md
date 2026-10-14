@@ -1,7 +1,7 @@
 ---
 id: T-2219
 title: Glessner: audit basement grilles, light wells and service openings
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-13
 pr: 793
 claimed_by: run 10/13/2026, 4:30:39 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-14T00:53:58Z
 claimed_run: null
 claimed_at: 2026-10-13T21:30:39.425Z
 decision: null

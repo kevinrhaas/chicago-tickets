@@ -41,7 +41,7 @@ T-2490 — 1812: build the Potawatomi lodges at their documented camping place o
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
-T-2219 — Glessner: audit basement grilles, light wells and service openings
+T-2217 — Glessner: finish both porte-cochere leaves, hardware and passage
 T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
 T-2492 — bake.sh --only on pure-Python archetypes (K01/K12/K13/K16/draft) dies in build.py's 'built nothing' exit 1 before their emitters run — so a content build dispatched with only=<K16 id> is red on every such PR (#770, run 38454631755); let build.py signal 'nothing for Blender' distinctly and leave bake.sh's empty-WROTE guard as the refusal
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
@@ -163,8 +163,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 #     waits: T-2162 — the grounds and the whole-district walk need every draft standing: T-2161 (20th-22nd, blocked on T-2340's sheet-35 trace) and T-2162 (edges, blocked on T-2161) have not landed, and T-2335 (16th-18th east) is in flight; chained so settle reopens this in T-2162's queue line when it merges
 # BLOCKED-TECH T-2218 (opened 2026-10-09, SOUTH_TIME) — Glessner: reconstruct the curved courtyard hall steps and cheek wall
 #     waits: T-2217 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
-# BLOCKED-TECH T-2217 (opened 2026-10-09, SOUTH_TIME) — Glessner: finish both porte-cochere leaves, hardware and passage
-#     waits: T-2219 — owner requested continuing the photographed service-opening / west-gable repair on 2026-10-13; one Glessner PR at a time
 # BLOCKED-TECH T-2220 (opened 2026-10-09, SOUTH_TIME) — Glessner: refine copper roof panels, seams and weathering
 #     waits: T-2218 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
 # BLOCKED-TECH T-2221 (opened 2026-10-09, SOUTH_TIME) — Glessner: complete gutters, rainwater heads, downpipes and attachments
