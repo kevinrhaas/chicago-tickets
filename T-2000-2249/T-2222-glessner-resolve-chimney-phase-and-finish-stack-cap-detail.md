@@ -102,3 +102,11 @@ all10 visually reviewed. Full west-service view is an inherited budget failure
 (402draws/4,694,719triangles); the other four Full and all five Light pass. The
 additional clear north-cap Full close-up is retained separately. T2227 owns the
 scene budget work; no ceiling is raised. Implementation validation is in progress.
+
+## Completion — 2026-10-14
+
+PR [#802](https://github.com/kevinrhaas/chicago/pull/802) merged to dev as `7bc492e76b0c9046e759fbececa7920db6f89ab2`. All 884 local checks, the exact-commit repository gate and all 18 published desktop/mobile smoke groups pass. The deployed dev Full and Light files match the reviewed canonical byte counts and SHA-256 hashes.
+
+Both central shafts meet the retained roof pitches; all seven stacks have flush masonry caps and recessed open mouths, with brick courtyard service shafts. Light is 199,967 triangles against the unchanged 200,000 limit. Two credited modern reference images are published. The repaired chimney-plan citation removes its obsolete unresolved-source baseline entry. T-2221 drainage confidence tags now agree with their documented reconstructed status.
+
+The three existing paired scene-budget failures remain recorded for T-2227. All five whole-house historical comparisons remain `differs`, with final photographic acceptance assigned to T-2228. No main promotion.
