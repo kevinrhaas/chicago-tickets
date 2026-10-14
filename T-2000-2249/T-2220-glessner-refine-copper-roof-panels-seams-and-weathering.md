@@ -1,7 +1,7 @@
 ---
 id: T-2220
 title: Glessner: refine copper roof panels, seams and weathering
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 799
 claimed_by: run 10/14/2026, 4:52:05 AM CT
 blocked_on: null
 needs_bake: true
