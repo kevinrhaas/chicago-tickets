@@ -43,6 +43,7 @@ T-2490 — 1812: build the Potawatomi lodges at their documented camping place o
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 T-2217 — Glessner: finish both porte-cochere leaves, hardware and passage
 T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
+T-2494 — Glessner's full bake changes all three packaged hashes without refreshing its measured baseline after #793
 T-2492 — bake.sh --only on pure-Python archetypes (K01/K12/K13/K16/draft) dies in build.py's 'built nothing' exit 1 before their emitters run — so a content build dispatched with only=<K16 id> is red on every such PR (#770, run 38454631755); let build.py signal 'nothing for Blender' distinctly and leave bake.sh's empty-WROTE guard as the refusal
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
