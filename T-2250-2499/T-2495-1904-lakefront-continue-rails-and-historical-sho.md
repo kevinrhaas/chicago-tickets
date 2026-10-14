@@ -23,4 +23,6 @@ decision_answer: null
 
 1904 lakefront: continue rails and historical shoreline to the map edges.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** The 1904 Illinois Central corridor joins the detailed Prairie Avenue tracks at both tile edges and continues to the surrounding map's north and south limits. Use Talbot's 1904 railroad map for the outer route and coast, preserve the detailed Sanborn-derived district, and reconstruct unresolved individual tracks with explicit provenance. Adjust the terrain, water boundary and context placement to the same shoreline. Show continuous rails and land/water joins in desktop and 390×780 phone views; run the project gate and focused geometry checks.
+
+Owner also requested shoreline adjustments north and south of the built Prairie Avenue area in the same session.
