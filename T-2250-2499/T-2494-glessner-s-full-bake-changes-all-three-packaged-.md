@@ -1,7 +1,7 @@
 ---
 id: T-2494
 title: Glessner's full bake changes all three packaged hashes without refreshing its measured baseline after #793
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 798
 claimed_by: Glessner reproducibility diagnosis 10/14/2026, 1:37:06 AM CT
 blocked_on: null
 needs_bake: true
