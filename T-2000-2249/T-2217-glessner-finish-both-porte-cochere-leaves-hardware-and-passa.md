@@ -1,7 +1,7 @@
 ---
 id: T-2217
 title: Glessner: finish both porte-cochere leaves, hardware and passage
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: steward 10/13/2026, 7:56:47 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-14T00:56:47.208Z
 decision: null
 decision_answer: null
 ---
