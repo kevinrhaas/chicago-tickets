@@ -49,3 +49,11 @@ The committed package itself passes `k01_contract --check`, the complete 875-ste
 - Preserve the stale-package guard and its self-test. If a new asset set is intentional, measure the actual full/web/light outputs and validate their geometry and published rendering against the current source and image evidence.
 - Demonstrate a green full bake and published mobile/desktop checks with the existing geometry and performance assertions intact.
 
+
+## Root cause and repair — 2026-10-14 UTC
+
+PR [#798](https://github.com/kevinrhaas/chicago/pull/798), head `04add1ecd9be06a95fd4c859aa3fac330182ef23`, retains the canonical UV layout alongside each committed stone-occlusion atlas. The exact mesh, topology, granite mask, Blender version and unwrap recipe key it; stale or corrupt layouts are refused. The complete atlas key and K01 stale-package guard remain unchanged.
+
+The instrumented full CI build [38529855483](https://github.com/kevinrhaas/chicago/actions/runs/38529855483) isolates the difference to UV coordinates. A local controlled rebuild with Ubuntu glibc 2.39's math library reproduces its exact key, while all geometry inputs remain identical. After the repair, both math libraries produce byte-identical canonical Full, Web and Light files. Full/Web retain T-2218's approved bytes; Light retains its exact binary geometry/texture payload and changes only its producer recipe stamp.
+
+Local preflight passes all 878 steps, including 356 self-tests, and the post-commit changelog check passes. Canonical full rebuild [38539402022](https://github.com/kevinrhaas/chicago/actions/runs/38539402022) and PR gate [38539360610](https://github.com/kevinrhaas/chicago/actions/runs/38539360610) are pending. The PR remains draft until the full rebuilt package and both published browser viewports pass. This is not yet a completed ticket. T-2220 remains the next serialized house ticket.
