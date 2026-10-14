@@ -1,7 +1,7 @@
 ---
 id: T-2479
 title: 1904 lakefront: the lake edge beside the tracks, stone riprap on the embankment face with its timber cap, and the made-ground strip between the last track and the water
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 790
 claimed_by: run 10/13/2026, 12:46:54 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-13T23:54:36Z
 claimed_run: null
 claimed_at: 2026-10-13T17:46:54.085Z
 decision: null
