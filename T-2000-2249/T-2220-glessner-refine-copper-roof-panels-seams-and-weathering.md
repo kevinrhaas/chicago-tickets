@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2218 — one Glessner House PR at a time; resume the existing audit order after the owner-selected T-2219 repair
+blocked_on: T-2494 — repair canonical Glessner bake reproducibility before the next geometry change; continue the one-house-at-a-time sequence after T-2218/PR #797
 needs_bake: true
 closed_at: null
 claimed_run: null
