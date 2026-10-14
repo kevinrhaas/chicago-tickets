@@ -1,7 +1,7 @@
 ---
 id: T-2457
 title: 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2426
 opened: 2026-10-13
-closed: null
+closed: 2026-10-13
 pr: 770
 claimed_by: run 10/13/2026, 6:03:44 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-14T04:34:05Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38386878038
 claimed_at: 2026-10-13T11:03:44.796Z
 decision: null
