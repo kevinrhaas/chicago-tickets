@@ -85,3 +85,20 @@ Pictures:
   `glessner_house`: a18-cgy-1800-glessner-2135 (photograph, oblique front, 1887 (chicagology labels it 1886)), a18-cornell-adw-glessner (photograph, oblique front, ca. 1887), a18-gh-chicago-herald-1887-illustration (newspaper item, oblique front, late 1887), a18-gh-cornell-glessner-front-c1887 (photograph, oblique front, c. 1887), a18-gh-cornell-glessner-rear-c1887 (photograph, side elevation, c. 1887), a18-gh-courtyard-watercolor (architectural drawing, rear, undated (design period, 1885–1887?)), a18-gh-glessner-exterior-historic (photograph, oblique front, undated (late 1880s–1890s)), a18-gh-glessner-female-servants-entrance (photograph, detail, c. 1888–1890s), a18-gh-glessner-front-with-keith (photograph, front elevation, undated (probably 1890s–1920s)), a18-gho-house-under-construction-1887 (photograph, oblique front, 1887), a18-gho-porte-cochere-doors-c1888 (photograph, detail, about 1888), a18-glessner-habs-photo-12 (architectural drawing, front elevation, undated preliminary design (copied for HABS)), and 49 more in the library
 
 **Unblocked 2026-10-14:** T-2221 merged (PR #801); this took its place in the queue. The block read: T-2221 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+
+## Implementation findings — 2026-10-14
+
+The middle and south street stacks retained pre-T2470 transverse positions after
+the ridge moved. HABS4/6 roof-toe readings independently support straddling the
+retained ridge; early Taylor cross-checks the direction. Their counts, N-S limits
+and top heights remain. The two service stacks stay reconstructed for1904;
+licensed2024 courtyard views distinguish brick bodies/pale caps from the street
+granite. Exact cap/flue stock remains reconstructed. The same rebuild corrects
+T2221's rainwater vertex confidence tag: its record already said reconstructed,
+but the emitted0 meant attested; it now uses1 and an explicit check.
+
+Baseline: five chimney views captured in the actual published app in both tiers,
+all10 visually reviewed. Full west-service view is an inherited budget failure
+(402draws/4,694,719triangles); the other four Full and all five Light pass. The
+additional clear north-cap Full close-up is retained separately. T2227 owns the
+scene budget work; no ceiling is raised. Implementation validation is in progress.
