@@ -1,7 +1,7 @@
 ---
 id: T-2221
 title: Glessner: complete gutters, rainwater heads, downpipes and attachments
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 801
 claimed_by: continuing own rainwater work; final validation and merge 10/14/2026, 2:42:04 PM CT
 blocked_on: null
 needs_bake: true
