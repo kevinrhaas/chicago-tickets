@@ -41,94 +41,95 @@ T-2490 — 1812: build the Potawatomi lodges at their documented camping place o
 # REFINEMENT tickets ("Build ..." retitled "Refine ..."), each depending on its block's draft. The draft pass is capped at five; it splits only in halves.
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
+# Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line and the two bake faults, the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
 T-2218 — Glessner: reconstruct the curved courtyard hall steps and cheek wall
-T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
 T-2494 — Glessner's full bake changes all three packaged hashes without refreshing its measured baseline after #793
 T-2492 — bake.sh --only on pure-Python archetypes (K01/K12/K13/K16/draft) dies in build.py's 'built nothing' exit 1 before their emitters run — so a content build dispatched with only=<K16 id> is red on every such PR (#770, run 38454631755); let build.py signal 'nothing for Blender' distinctly and leave bake.sh's empty-WROTE guard as the refusal
+T-1889 — Refine 1801 Kimball corner mansion envelope
+T-1890 — Finish 1801 Kimball corner mansion architecture
+T-1884 — Refine 1812 Wheeler shaped-gable house envelope
+T-1885 — Finish 1812 Wheeler shaped-gable house architecture
+T-1891 — Refine 1811 Coleman-Ames Romanesque house envelope
+T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
+T-1874 — Refine 1726, 1730 and 1736 replacement/altered houses
+T-1886 — Refine 1816 Henderson mansard house
+T-1893 — Refine 1815 Sears-Meeker altered house
+T-1880 — Refine 1729 Pullman main house envelope
+T-1881 — Finish 1729 Pullman main house architecture
+T-1934 — Refine Pullman stable, additions and conservatory estate
+T-1894 — Refine 1823 Dent house
+T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
+T-1895 — Refine 1827 Doane twin-tower mansion envelope
+T-1896 — Finish 1827 Doane twin-tower mansion architecture
+T-1873 — Refine 1720 Walker frame villa
+T-1878 — Refine 1719-1721 Dexter address and altered house envelope
+T-1879 — Finish 1719-1721 Dexter address and altered house architecture
+T-1888 — Refine 1834 Jones post-1886 mansard
+T-1903 — Refine 1901 Ream post-fire house
+T-1872 — Refine 1708 and 1712 townhouse fronts
+T-1877 — Refine 1709 Palmer Kellogg successor
+T-1897 — Refine 1900 Elbridge Keith corner house
+T-1871 — Refine 1700-1706 Glessner family townhouses
+T-1898 — Refine 1906 Edson Keith and attached 1908
+T-1875 — Refine 1701 Hibbard house and rear veranda envelope
+T-1876 — Finish 1701 Hibbard house and rear veranda architecture
+T-1904 — Refine 1905 Marshall Field Sr. mansion envelope
+T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
+T-2457 — 1638 Prairie's gable and bay from its photograph, the differences left open: the broad moulded bargeboard, the apex's three pinnacles, the hood's cusped tracery and volute stops, the apex height, the bay's blunter heads and their dark stops (after the piece before it)
 T-2458 — 1638 Prairie's entrance, tower and south block from its photograph, and its match record brought to matches: the narrower opening, the steps' run to grade, the pale gabled shape over the door, the tower's smooth upper stage and the two-storey block south of the gable (after the two pieces before it)
+T-1932 — Refine north-west alley coach houses and service courts
+T-1899 — Refine 1912 Moulton-Lowden Chateauesque house envelope
+T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
+T-2472 — 1637 Prairie's swell bay carried up to the cornice from the engraving, its cornice carried round the bow (build on T-2460's bow-to-cornice machinery once it lands)
+T-2467 — 1637 Prairie's wing cornice from the engraving: a band as deep as the main cornice's (y 232-262 px) with its block over the window, where the hipped crown carries K05's 0.2 m fascia and no K10 brackets
+T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
+T-1906 — Refine 1919 Field Jr. post-1902 enlargement envelope
+T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
+T-1908 — Refine 1923 Kellogg and 1945 Armour-Corwith corner
+T-1936 — Refine east 1800-1900 service buildings
 T-2422 — 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
 T-2440 — Move Hamline's drawing build from 1619 to 1621: the K01 house and its Building Budget camera re-solved on 1621's own bay and the passage south of it, carrying T-2420's and T-2428's work, and 1619 handed back to its own front
 T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-T-2472 — 1637 Prairie's swell bay carried up to the cornice from the engraving, its cornice carried round the bow (build on T-2460's bow-to-cornice machinery once it lands)
-T-2467 — 1637 Prairie's wing cornice from the engraving: a band as deep as the main cornice's (y 232-262 px) with its block over the window, where the hipped crown carries K05's 0.2 m fascia and no K10 brackets
-T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
-T-1871 — Refine 1700-1706 Glessner family townhouses
-T-1872 — Refine 1708 and 1712 townhouse fronts
-T-1873 — Refine 1720 Walker frame villa
-T-1874 — Refine 1726, 1730 and 1736 replacement/altered houses
-T-1875 — Refine 1701 Hibbard house and rear veranda envelope
-T-1876 — Finish 1701 Hibbard house and rear veranda architecture
-T-1877 — Refine 1709 Palmer Kellogg successor
-T-1878 — Refine 1719-1721 Dexter address and altered house envelope
-T-1879 — Finish 1719-1721 Dexter address and altered house architecture
-T-1880 — Refine 1729 Pullman main house envelope
-T-1881 — Finish 1729 Pullman main house architecture
-T-1884 — Refine 1812 Wheeler shaped-gable house envelope
-T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-1886 — Refine 1816 Henderson mansard house
-T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
-T-1888 — Refine 1834 Jones post-1886 mansard
-T-1889 — Refine 1801 Kimball corner mansion envelope
-T-1890 — Finish 1801 Kimball corner mansion architecture
-T-1891 — Refine 1811 Coleman-Ames Romanesque house envelope
-T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
-T-1893 — Refine 1815 Sears-Meeker altered house
-T-1894 — Refine 1823 Dent house
-T-1895 — Refine 1827 Doane twin-tower mansion envelope
-T-1896 — Finish 1827 Doane twin-tower mansion architecture
-T-1897 — Refine 1900 Elbridge Keith corner house
-T-1898 — Refine 1906 Edson Keith and attached 1908
-T-1899 — Refine 1912 Moulton-Lowden Chateauesque house envelope
-T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
+T-1933 — Refine north-east rear service buildings
+T-1943 — Finish north-block boundaries, gardens and frontage fittings
 T-1901 — Refine 1916-1930 identity and 1936 Allerton estate envelope
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
-T-1903 — Refine 1901 Ream post-fire house
-T-1904 — Refine 1905 Marshall Field Sr. mansion envelope
-T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
-T-1906 — Refine 1919 Field Jr. post-1902 enlargement envelope
-T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
-T-1908 — Refine 1923 Kellogg and 1945 Armour-Corwith corner
-T-1909 — Refine 2000 and 2010 detached frame houses
-T-1910 — Refine 2018 and 2026 masonry houses
-T-1911 — Refine 2036 Buckingham corner house
+T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
+T-1944 — Finish 18th-20th block boundaries, gardens and frontage fittings
 T-1912 — Refine 2001, 2003 and 2005 attached row
 T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
 T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
+T-1909 — Refine 2000 and 2010 detached frame houses
+T-1910 — Refine 2018 and 2026 masonry houses
 T-1915 — Refine 2011 Romanesque house beside Mayer
 T-1916 — Refine 2013 Reid classical house
 T-1917 — Refine 2017, 2021 High and 2027 Cobb-associated group
 T-1918 — Refine 2031, 2033 and 2035 limestone row
+T-1911 — Refine 2036 Buckingham corner house
 T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
+T-1924 — Refine 2101 and 2109 Roloson neighbours
 T-1921 — Refine 2108 Mark Kimball and 2112 Rothschild
 T-1922 — Refine 2110 Rees at its historical site envelope
 T-1923 — Finish 2110 Rees at its historical site architecture
-T-1924 — Refine 2101 and 2109 Roloson neighbours
 T-1925 — Refine 2115 Armour Second Empire house
 T-1926 — Refine 2120 and the 2126 Robbins construction phase
+T-1930 — Refine 2123 masonry and 2125 frame neighbours
+T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
+T-1938 — Refine south-east service buildings
 T-1927 — Refine 2130 Murdoch rounded-bay house
 T-1928 — Refine 2140 Tucker-Smith corner mansion envelope
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
-T-1930 — Refine 2123 masonry and 2125 frame neighbours
-T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
-T-1932 — Refine north-west alley coach houses and service courts
-T-1933 — Refine north-east rear service buildings
-T-1934 — Refine Pullman stable, additions and conservatory estate
-T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-1936 — Refine east 1800-1900 service buildings
 T-1937 — Refine south-west service buildings and shared Rees coach house
-T-1938 — Refine south-east service buildings
+T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
 T-1939 — Refine 213, 215 and 217 East Twentieth Street context
 T-1940 — Refine 2008 Calumet Hanford exterior
 T-1941 — Refine 2018 Calumet Wheeler-Kohn exterior
 T-1942 — Refine Second Presbyterian post-1900 exterior skyline
-T-1943 — Finish north-block boundaries, gardens and frontage fittings
-T-1944 — Finish 18th-20th block boundaries, gardens and frontage fittings
-T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
 T-1946 — Close side-street and rail-side background gaps
-T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1948 — Verify the completed 18th-20th Prairie streetscape
+T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
