@@ -1,7 +1,7 @@
 ---
 id: T-2222
 title: Glessner: resolve chimney phase and finish stack/cap detail
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 802
 claimed_by: run 10/14/2026, 3:40:37 PM CT
 blocked_on: null
 needs_bake: true
