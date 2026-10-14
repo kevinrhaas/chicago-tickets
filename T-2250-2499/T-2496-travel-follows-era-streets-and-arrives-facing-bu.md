@@ -1,7 +1,7 @@
 ---
 id: T-2496
 title: Travel follows era streets and arrives facing building fronts
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-14
 closed: null
-pr: null
+pr: 800
 claimed_by: run 10/14/2026, 9:32:54 AM CT
 blocked_on: null
 needs_bake: false
