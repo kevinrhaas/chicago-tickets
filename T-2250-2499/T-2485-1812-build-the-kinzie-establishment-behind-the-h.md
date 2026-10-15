@@ -58,3 +58,7 @@ Same site as T-2484: it waits for that PR (one PR at a time on the same house, o
 **Acceptance:** each building the ticket rules in stands in 1812 with its card; each one a picture shows matches it (match records at `matches`); the rulings on the bill of sale's buildings are written in the records' notes.
 
 Before `done`, the builder adds an `## Image gate` section here naming every outbuilding a picture shows.
+
+## Found at T-2504 (2026-10-15)
+
+A building with the numeral '32' (the horse mill, index no. 32, `not_located`) is drawn between the easternmost no. 31 house and Kinzie's kitchen garden, at about sheet px [1177, 427, 1215, 455], its '32' under it near (1190, 460). The register's `north_bank` rule (anchored on kinzie_house_1812) can seat it.

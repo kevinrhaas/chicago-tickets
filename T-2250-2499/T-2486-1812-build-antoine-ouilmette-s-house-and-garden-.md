@@ -48,3 +48,7 @@ No picture is known to show either house by name. The 1820 Eastman view shows sm
 The Ouilmette household was Métis; its card carries `review_required` and `touches_removal` with its sentence (AGENTS.md standing constraint). Waits for T-2485 (same site, one PR at a time).
 
 **Acceptance:** both stand behind and beside the Kinzie house in 1812 with cards citing the sources above; footprints, heights and positions not given by any source are liberties; any picture that shows either one is matched.
+
+## Found at T-2504 (2026-10-15)
+
+The no. 31 house nearest Kinzie's is read and left to this ticket as Ouilmette's: `data/traces/whistler_1808_fort_dearborn.json` `north_bank.parts` `no31_east` (sheet box [1119, 446, 1161, 471], `record: null`, `builds: T-2486`). Build it by setting `record` there; `tools/read_whistler_1808.py --check` then seats it by the north-bank rule (about 5.7 x 3.4 m, NE corner near local E +1122, N +348, facing south) and refuses it wet or on a neighbour. Pettell's cabin is not one of the three drawn houses.
