@@ -1,7 +1,7 @@
 ---
 id: T-2509
 title: Lee's Place cabin and field fence on the ruled site, built to the Currey 1912 'Hardscrabble' plate (brought in with attribution and image-gated), a camera anchor on them, and a card citing the four placings and their disagreement
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2503
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 816
 claimed_by: run 10/15/2026, 3:59:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T16:38:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38708580317
 claimed_at: 2026-10-15T08:59:07.666Z
 decision: null
