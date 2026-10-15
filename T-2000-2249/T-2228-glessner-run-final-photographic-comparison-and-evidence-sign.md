@@ -211,3 +211,9 @@ will be retained as pre-correction evidence. No green or photographic match is
 claimed for the upcoming roof change. Existing HABS views and north service
 door/window clearances remain regression requirements. This finding extends
 T-2228 and precedes the terrace/areaway corrections.
+
+Owner follow-up, 2026-10-15: explicitly compare the west-elevation windows
+under the shifted cross-gable. The owner expects the corrected roof peak to
+center the windows more naturally. Verify opening-to-peak alignment and roof
+clearance in the actual baked west view and historical obliques; preserve
+existing opening coordinates unless source comparison supports a change.
