@@ -1,7 +1,7 @@
 ---
 id: T-2514
 title: 1812 scene moved to 14 August 1812 (owner, 2026-10-13): target_date, the lighting note re-derived for that day, every 'two weeks before' and '1 August' sentence reworded across the scene note, its cards and the 1812 records and liberties, the sidecars regenerated, every 1812 record's range and the cover's month (L371) checked against the new date, and a card saying what the day was
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2490
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 817
 claimed_by: run 10/15/2026, 6:04:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T12:23:09Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38724054348
 claimed_at: 2026-10-15T11:04:05.226Z
 decision: null
