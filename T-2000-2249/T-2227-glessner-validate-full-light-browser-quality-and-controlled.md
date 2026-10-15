@@ -1,7 +1,7 @@
 ---
 id: T-2227
 title: Glessner: validate full/light browser quality and controlled performance
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2226 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -137,3 +137,5 @@ Before any T-2226 material edit, the verified T-2225 dev Full/Light assets were 
 All 24 after views were actually reviewed at the frozen baseline cameras, projection, exposure and dark-glass mode; neutral diagnostics restore the exact original lighting rig. The same north stands fail: Full north shade 300 calls / 4,618,463 triangles, north close 301 / 4,615,985; Light north shade 198 / 1,534,402, north close 187 / 1,476,142. All six other stands in each tier remain within their unchanged scene budgets. No browser errors, failed assets or app problems occurred; both programs preserve exit 1 for the recorded budget failures.
 
 Surface-only geometry remains 1,371,506 Full / 199,850 Light triangles. The added plain-brick material costs one or two scene draws depending on culling and adds 3,706,972 bytes to Full web / 3,706,868 bytes to Light. Final assets are 59,090,956 / 32,622,008 bytes. Retain this download cost in the performance audit. Exact comparisons, hashes and inspected images are in `docs/RESEARCH/glessner-finish-T-2226/`. SwiftShader is not hardware-GPU FPS. No limit or camera was relaxed.
+
+**Unblocked 2026-10-15:** T-2226 merged (PR #813); this took its place in the queue. The block read: T-2226 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
