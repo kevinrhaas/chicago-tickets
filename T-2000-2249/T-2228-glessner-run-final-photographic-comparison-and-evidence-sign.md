@@ -1,7 +1,7 @@
 ---
 id: T-2228
 title: Glessner: run final photographic comparison and evidence sign-off
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-09
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 2:36:30 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-15T19:36:30.570Z
 decision: null
 decision_answer: null
 ---
