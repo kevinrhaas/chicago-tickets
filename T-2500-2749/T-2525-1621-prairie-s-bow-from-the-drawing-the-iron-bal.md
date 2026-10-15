@@ -1,7 +1,7 @@
 ---
 id: T-2525
 title: 1621 Prairie's bow from the drawing: the iron balcony rail round its top on the moulded cornice, and its basement storey under the principal lights — the band at the principal floor and the two grilled segment-headed basement lights
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2422
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 1:31:19 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38784897213
+claimed_at: 2026-10-15T18:31:19.292Z
 decision: null
 decision_answer: null
 ---
