@@ -1,7 +1,7 @@
 ---
 id: T-2504
 title: 1812: build La Lime's and Le Mai's houses, the two other dwellings Whistler's 1808 draught draws west of Kinzie's (no. 31), beside T-2486's Ouilmette house
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 827
 claimed_by: run 10/15/2026, 9:26:23 AM CT
 blocked_on: null
 needs_bake: false
