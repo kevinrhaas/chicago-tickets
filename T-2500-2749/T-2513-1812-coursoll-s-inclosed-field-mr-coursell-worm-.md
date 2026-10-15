@@ -1,7 +1,7 @@
 ---
 id: T-2513
 title: 1812: Coursoll's inclosed field ('Mr Coursell', worm-fenced on Whistler's draught) seated by T-2062's rule on the north bank; the only house the sheet draws at it is the westernmost no. 31, so its house is decided WITH T-2504's assignment of the three no. 31 houses, not built twice
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2506
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 9:40:46 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38752898695
+claimed_at: 2026-10-15T14:40:47.252Z
 decision: null
 decision_answer: null
 ---
