@@ -1,7 +1,7 @@
 ---
 id: T-2518
 title: dev's gate is red: check_only_selection.py's stub bake (T-2492) stubs five emitters, and T-2510's haystack_emit.py, which bake.sh now runs, is missing from it, so every case ends 2; stub every emitter bake.sh names XS
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 825
 claimed_by: run 10/15/2026, 9:37:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T14:59:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38746138572
 claimed_at: 2026-10-15T14:37:56.444Z
 decision: null
