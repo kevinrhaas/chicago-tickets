@@ -48,6 +48,7 @@ T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) wi
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-2467 — 1637 Prairie's wing cornice from the engraving: a band as deep as the main cornice's (y 232-262 px) with its block over the window, where the hipped crown carries K05's 0.2 m fascia and no K10 brackets
 T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
+T-2528 — K01 mansard houses' K10 brackets stop 0.088 m under their soffit: build() sets a.soffit_m from the upper hip's pitch (E - overhang x tan(roof_pitch) - 0.2 = 11.21 m on 1637) where a mansard's soffit is E - 0.2 (11.3 m), so every bracket and bed moulding under a mansard eave hangs short of it
 T-1889 — Refine 1801 Kimball corner mansion envelope
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-1884 — Refine 1812 Wheeler shaped-gable house envelope
