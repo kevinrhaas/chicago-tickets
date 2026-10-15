@@ -1,7 +1,7 @@
 ---
 id: T-2532
 title: 1638 Prairie's south wing from its photograph: the sheet's projection as a lower wing under a street-facing 50-degree gable, its eave a metre under the house's, its upper pair of lights and lower openings read through the camera
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2522
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 5:41:37 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38815957704
+claimed_at: 2026-10-15T22:41:37.777Z
 decision: null
 decision_answer: null
 ---
