@@ -26,7 +26,6 @@ T-2512 — 1812 forks: the two houses Whistler draws at the forks (one a dischar
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 T-2511 — Lee's Place cabin built to the Currey 1912 plate: the river front's three doors and six windows, the stack on the upstream gable and the gabled lean-to beyond it; log_dwelling states no opening set-out or stack end, so this is an archetype change and a rebake of every log dwelling
-T-2516 — 1812 Kinzie house: rebuild to what its pictures agree on against the build — the piazza roof carried down from the main roof and its height, the gable-end lights, the length against the end — and solve Sarony's lithograph (Currey 1912 / Kirkland 1893) into a camera
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
