@@ -1,7 +1,7 @@
 ---
 id: T-2440
 title: Move Hamline's drawing build from 1619 to 1621: the K01 house and its Building Budget camera re-solved on 1621's own bay and the passage south of it, carrying T-2420's and T-2428's work, and 1619 handed back to its own front
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2436
 opened: 2026-10-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 11:35:27 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38769767716
+claimed_at: 2026-10-15T16:35:27.768Z
 decision: null
 decision_answer: null
 ---
