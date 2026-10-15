@@ -1,7 +1,7 @@
 ---
 id: T-2526
 title: 1621 Prairie's entrance from the drawing: the recessed round-arched doorway with its voussoirs in the north strip, and the carved panel and ornate light over it at the second floor
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2422
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 3:21:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38800575332
+claimed_at: 2026-10-15T20:21:09.144Z
 decision: null
 decision_answer: null
 ---
