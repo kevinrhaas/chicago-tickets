@@ -1,7 +1,7 @@
 ---
 id: T-2507
 title: 1812: the first fort's outer houses Whistler's draught numbers 19-23, read at 4-8x and built by T-2062's rule: the interpreter's house (19) seated on its own 48 perches against the 1812 river, the armourer's shop (20), the merchant's shop (21), the bake house (22), and the middle stable re-identified as the house in the factor's department (23)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2505
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 2:51:08 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38700277310
+claimed_at: 2026-10-15T07:51:08.729Z
 decision: null
 decision_answer: null
 ---
