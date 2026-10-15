@@ -1,7 +1,7 @@
 ---
 id: T-2505
 title: 1812: build the first fort's outer works Whistler's draught indexes and T-2062 left unbuilt: the interpreter's house (19), armourer's shop (20), merchant's shop (21), bake house (22), the factor's-department house (23), the wharf (27) and the covered way (33)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 2:46:39 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38700277310
+claimed_at: 2026-10-15T07:46:39.639Z
 decision: null
 decision_answer: null
 ---
