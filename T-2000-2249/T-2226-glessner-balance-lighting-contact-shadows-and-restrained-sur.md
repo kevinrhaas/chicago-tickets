@@ -1,7 +1,7 @@
 ---
 id: T-2226
 title: Glessner: balance lighting, contact shadows and restrained surface aging
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2225 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -80,3 +80,5 @@ Pictures:
 ## T-2223 material findings — 2026-10-15
 
 The final Full/Light browser screenshots in [PR #803](https://github.com/kevinrhaas/chicago/pull/803) expose two material follow-ups. Light's simplified stair cheek and piers retain the geometry contacts but read as smooth clay because the existing brick normal map contains clay grain, not mortar courses. Supply a dedicated flat-brick joint pattern for these faces without double-gridding individually modeled bricks or repainting the shared K01 palette. Gate ledges and diagonal braces also need grain aligned to the member. Preserve the owner's granite tint and dark glass, the same physical contacts and the unchanged 200,000-triangle Light limit. Both are explicitly recorded as pending material work, not photographic parity.
+
+**Unblocked 2026-10-15:** T-2225 merged (PR #805); this took its place in the queue. The block read: T-2225 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
