@@ -39,7 +39,8 @@
 T-2228 — Glessner: run final photographic comparison and evidence sign-off
 T-2524 — 1638 Prairie's front fence re-read through the camera T-2523 re-solves: on the street line the print draws about 116 px a metre, not 158.7, so the piers, gateway, caps, hearts, bars and base T-2456 built come out about 1.37 times their present sizes, and their heights over the walk re-read (after T-2523)
 T-2521 — 1638 Prairie's tower and fence finish from its photograph: the tower's smooth upper stage with incised ornament over each light, the gate caps' flared lower corners, and the pale block south of the south pier
-T-2522 — 1638 Prairie's two-storey block south of the gable from its photograph (the register's 'separate lower wing' or the neighbour), and its match record brought to matches (after the three pieces before it)
+T-2532 — 1638 Prairie's south wing from its photograph: the sheet's projection as a lower wing under a street-facing 50-degree gable, its eave a metre under the house's, its upper pair of lights and lower openings read through the camera
+T-2533 — 1638 Prairie's match record brought to matches: the porch board's open fretwork (item 21) and whatever T-2521 and T-2524 leave open, once both have landed
 T-2530 — 1621 Prairie's stoop from the drawing: a landing at the door and a flight running south along the front past the bow's north end behind a stone cheek, its match item fixed
 T-2531 — 1621 Prairie's last drawn differences — the entrance arch's curved extrados and deeper recess, the light's shelf over the panel, the basement lights' voussoir heads — and the Building Budget match record brought to matches (after the piece before it)
 T-2529 — The phone's light tier is over its 1.27 M-triangle ceiling looking down Prairie's east row from 1613 to 1621 (1.329 M on dev before T-2434, 1.407 M after): K01 houses ship no light derivative, so the phone draws every full assembly; bring the stand inside light's ceiling
