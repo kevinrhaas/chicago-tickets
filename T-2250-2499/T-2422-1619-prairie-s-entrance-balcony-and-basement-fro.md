@@ -1,7 +1,7 @@
 ---
 id: T-2422
 title: 1619 Prairie's entrance, balcony and basement from the drawing: the recessed round-arched door under its carved panel, the side stoop, the bow's balcony rail and the grilled basement arches, and the match record brought to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2419
 opened: 2026-10-12
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 1:28:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T18:31:13.894Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38784897213
 claimed_at: 2026-10-15T18:28:32.484Z
 decision: null
