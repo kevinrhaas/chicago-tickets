@@ -1,7 +1,7 @@
 ---
 id: T-2515
 title: 1812 Potawatomi camp of the 12-16 August gathering by the State Street swale: the lodge form read from the sources (mat or bark covering on a bent-pole frame, never a generic tipi), an engine-neutral archetype if one is needed, every lodge record review_required + touches_removal with its sentence, the owner's 2026-10-13 ruling added to AGENTS.md, no human figure (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2490
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 823
 claimed_by: run 10/15/2026, 7:24:37 AM CT
 blocked_on: null
 needs_bake: false
