@@ -1,7 +1,7 @@
 ---
 id: T-2228
 title: Glessner: run final photographic comparison and evidence sign-off
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2227 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -119,3 +119,5 @@ The actual native HABS sheet 2 detail has now been re-read: the narrow west-side
 The licensed modern courtyard photograph `wlemay_glessner_courtyard_2024_159537058` was also inspected directly at full display. It shows the west-wing door low beside a railed recess, while the north-wing door stands on the raised landing. This supports investigating the modeled west door's 1.7678 m sill and its assumed main-house floor datum. It does not independently establish a precise 1904 sill height or permission to copy every modern feature. Reconcile the plan, sections, opening register and dated alterations before changing geometry; keep the c.1955 rear-stable wooden stair distinct from this court access. HABS sheet 1 is the title/site plan, not a basement plan.
 
 Source detail: the native `chicago/prairie_1904_v1/research/public/glessner-habs-sheet-2.tif`, crop origin (5900,3300), size 1200x1100 from the 9624x7584 plate. No new geometry or final image verdict is claimed by this correction. T-2228 remains dependent on T-2227.
+
+**Unblocked 2026-10-15:** T-2227 merged (PR #834); this took its place in the queue. The block read: T-2227 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)

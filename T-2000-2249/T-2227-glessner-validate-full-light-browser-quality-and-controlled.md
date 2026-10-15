@@ -1,7 +1,7 @@
 ---
 id: T-2227
 title: Glessner: validate full/light browser quality and controlled performance
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-15
 pr: 834
 claimed_by: active Glessner continuation 10/15/2026, 1:44:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T19:35:09Z
 claimed_run: null
 claimed_at: 2026-10-15T18:44:19.426Z
 decision: null
