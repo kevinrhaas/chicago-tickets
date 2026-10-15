@@ -48,7 +48,6 @@ T-2526 — 1621 Prairie's entrance from the drawing: the recessed round-arched d
 T-2527 — 1621 Prairie's stoop from the drawing, climbing beside the north strip parallel to the front behind a stone cheek, and the Building Budget match record brought to matches (after the two pieces before it)
 T-2434 — The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-T-2472 — 1637 Prairie's swell bay carried up to the cornice from the engraving, its cornice carried round the bow (build on T-2460's bow-to-cornice machinery once it lands)
 T-2467 — 1637 Prairie's wing cornice from the engraving: a band as deep as the main cornice's (y 232-262 px) with its block over the window, where the hipped crown carries K05's 0.2 m fascia and no K10 brackets
 T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
 T-1889 — Refine 1801 Kimball corner mansion envelope
