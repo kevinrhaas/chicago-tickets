@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: run 10/15/2026, 2:36:30 PM CT
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: 2026-10-15T19:36:30.570Z
@@ -121,3 +121,9 @@ The licensed modern courtyard photograph `wlemay_glessner_courtyard_2024_1595370
 Source detail: the native `chicago/prairie_1904_v1/research/public/glessner-habs-sheet-2.tif`, crop origin (5900,3300), size 1200x1100 from the 9624x7584 plate. No new geometry or final image verdict is claimed by this correction. T-2228 remains dependent on T-2227.
 
 **Unblocked 2026-10-15:** T-2227 merged (PR #834); this took its place in the queue. The block read: T-2227 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+
+## Final implementation started — 2026-10-15
+
+T-2227 merged as PR #834 after the full local gate, all 18 exact-head desktop/mobile smoke groups, and a successful retry of the automatic bake precheck. Its deployed dev runtime and unchanged Glessner Full/Light assets are byte-verified. T-2228 is claimed on the resulting dev commit.
+
+The remaining photographed roof discrepancy requires geometry changes and a fresh bake. First candidate: retain the flat north facade, wrapped staggered masonry and flared eaves, but replace the extruded upper apex with a complete pointed cone united with a lower pitched connector. Its initial 39.2-ft north-grade ridge is a bounded reconstruction from the existing inclined-camera reading, not a survey measurement or an independently confirmed height from two photos. Preserve before/after camera poses and retain `differs` until actual visual review. Light remains capped at 200,000 triangles.
