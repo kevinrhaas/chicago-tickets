@@ -1,7 +1,7 @@
 ---
 id: T-2501
 title: Lee's Place site: the South Branch traced on Rees & Rucker 1849 from the 1812 box floor to the forks at Bridgeport, and the farm's site ruled from the four placings measured against it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2488
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 806
 claimed_by: run 10/15/2026, 1:11:36 AM CT
 blocked_on: null
 needs_bake: false
