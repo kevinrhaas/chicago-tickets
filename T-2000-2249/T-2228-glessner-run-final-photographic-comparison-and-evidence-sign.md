@@ -127,3 +127,24 @@ Source detail: the native `chicago/prairie_1904_v1/research/public/glessner-habs
 T-2227 merged as PR #834 after the full local gate, all 18 exact-head desktop/mobile smoke groups, and a successful retry of the automatic bake precheck. Its deployed dev runtime and unchanged Glessner Full/Light assets are byte-verified. T-2228 is claimed on the resulting dev commit.
 
 The remaining photographed roof discrepancy requires geometry changes and a fresh bake. First candidate: retain the flat north facade, wrapped staggered masonry and flared eaves, but replace the extruded upper apex with a complete pointed cone united with a lower pitched connector. Its initial 39.2-ft north-grade ridge is a bounded reconstruction from the existing inclined-camera reading, not a survey measurement or an independently confirmed height from two photos. Preserve before/after camera poses and retain `differs` until actual visual review. Light remains capped at 200,000 triangles.
+
+
+## 2026-10-15 — active roof/courtyard correction pass
+
+T-2227 is merged as PR834 and deployed. T-2228 remains claimed; photographic
+signoff is not being closed. The expanded HABS4 courtyard section exposed host
+roof tiles crossing all three dormer windows and an eave crossing an upper wall
+opening. Candidate geometry now reconciles the section eave while retaining the
+approved north facade datum, cuts exact dormer/host intersections, and corrects
+section dormer/finial proportions. The pointed north cone/lower connector, raised
+bow hood, broad basement grille and terrace cap return are included. Native
+controls, plan/section disagreements and bounded reconstruction are recorded in
+`docs/RESEARCH/glessner-final-comparison-T-2228/`.
+
+Targeted spatial tests pass; Light source candidate193796 triangles is below the
+unchanged200000 ceiling. Full/master and derivatives are currently baking; visual
+and integration gates are still pending. The original five comparisons remain
+`differs`; the expanded section is an additional view, not a replaced baseline.
+The west courtyard door/descending areaway, remaining elevation correspondence
+and final photographic acceptance remain under this ticket. No main promotion,
+new budget, source-rights clearance or final match verdict is claimed.
