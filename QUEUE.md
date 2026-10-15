@@ -26,7 +26,6 @@ T-2500 — 1808 Prairie's north entrance loggia from the 1888 plate: the columne
 T-2497 — 1812: build the Kinzie house (the former Point du Sable house) with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to the Lossing 1869 and Chicago Magazine 1857 pictures
 T-2498 — 1812 Kinzie house: solve and match its other pictures (Cram 1893 'in 1832', the Teich postcard, the 1820 Eastman and Gemmell views) and bring in the Currey 1912 and Kirkland 1893 plates
 T-2487 — 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
-T-2501 — Lee's Place site: the South Branch traced on Rees & Rucker 1849 from the 1812 box floor to the forks at Bridgeport, and the farm's site ruled from the four placings measured against it
 T-2502 — The 1812 ground carried down the South Branch from the box floor to the Lee's Place site: channel, banks and the farm's ground drawn and walkable, with the anchor gate passing there
 T-2503 — Build Lee's Place on the ruled site: the cabin, its field fence and haystacks, a camera anchor, a card citing the placings and their disagreement, and the Currey Hardscrabble picture brought in and the cabin image-gated on it
 T-2489 — 1812: rule on the other structures the record may place at Chicago before the evacuation (Guarie's North Branch trading house, Cobweb Castle's build date, Lalime's and Russell's dwellings) and file a build for each one ruled in
