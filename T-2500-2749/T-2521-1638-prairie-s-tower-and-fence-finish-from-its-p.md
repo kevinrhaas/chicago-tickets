@@ -1,7 +1,7 @@
 ---
 id: T-2521
 title: 1638 Prairie's tower and fence finish from its photograph: the tower's smooth upper stage with incised ornament over each light, the gate caps' flared lower corners, and the pale block south of the south pier
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2458
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 839
 claimed_by: run 10/15/2026, 2:11:02 PM CT
 blocked_on: null
 needs_bake: false
