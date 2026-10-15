@@ -1,7 +1,7 @@
 ---
 id: T-2467
 title: 1637 Prairie's wing cornice from the engraving: a band as deep as the main cornice's (y 232-262 px) with its block over the window, where the hipped crown carries K05's 0.2 m fascia and no K10 brackets
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 836
 claimed_by: run 10/15/2026, 1:53:44 PM CT
 blocked_on: null
 needs_bake: false
