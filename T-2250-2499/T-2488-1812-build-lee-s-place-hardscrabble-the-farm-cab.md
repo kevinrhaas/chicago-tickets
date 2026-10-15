@@ -1,7 +1,7 @@
 ---
 id: T-2488
 title: 1812: build Lee's Place (Hardscrabble), the farm cabin and field on the South Branch three to four miles from the fort, beyond the west edge of the 1812 ground
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 1:06:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T06:11:21.082Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38689931010
 claimed_at: 2026-10-15T06:06:00.739Z
 decision: null
