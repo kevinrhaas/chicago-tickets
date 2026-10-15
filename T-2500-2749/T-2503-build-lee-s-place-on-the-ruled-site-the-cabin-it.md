@@ -1,7 +1,7 @@
 ---
 id: T-2503
 title: Build Lee's Place on the ruled site: the cabin, its field fence and haystacks, a camera anchor, a card citing the placings and their disagreement, and the Currey Hardscrabble picture brought in and the cabin image-gated on it
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2488
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 3:57:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T08:59:02.183Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38708580317
 claimed_at: 2026-10-15T08:57:04.181Z
 decision: null
