@@ -31,6 +31,7 @@ T-2502 — The 1812 ground carried down the South Branch from the box floor to t
 T-2503 — Build Lee's Place on the ruled site: the cabin, its field fence and haystacks, a camera anchor, a card citing the placings and their disagreement, and the Currey Hardscrabble picture brought in and the cabin image-gated on it
 T-2489 — 1812: rule on the other structures the record may place at Chicago before the evacuation (Guarie's North Branch trading house, Cobweb Castle's build date, Lalime's and Russell's dwellings) and file a build for each one ruled in
 T-2504 — 1812: build La Lime's and Le Mai's houses, the two other dwellings Whistler's 1808 draught draws west of Kinzie's (no. 31), beside T-2486's Ouilmette house
+T-2505 — 1812: build the first fort's outer works Whistler's draught indexes and T-2062 left unbuilt: the interpreter's house (19), armourer's shop (20), merchant's shop (21), bake house (22), the factor's-department house (23), the wharf (27) and the covered way (33)
 T-2490 — 1812: build the Potawatomi lodges at their documented camping place on the south bank by the later State Street bridge, and date the camp of the 12-16 August gathering from Wau-Bun
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
