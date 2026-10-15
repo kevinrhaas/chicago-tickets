@@ -1,7 +1,7 @@
 ---
 id: T-2449
 title: 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2442
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 6:09:42 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38820834518
+claimed_at: 2026-10-15T23:09:42.317Z
 decision: null
 decision_answer: null
 ---
