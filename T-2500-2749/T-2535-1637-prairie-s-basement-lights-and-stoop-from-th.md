@@ -1,7 +1,7 @@
 ---
 id: T-2535
 title: 1637 Prairie's basement lights and stoop from the engraving: two round-headed lights under the wing, one nearly a storey tall under the bay, and the flight's foot argued against the fence's first post
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2449
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 6:40:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38824575125
+claimed_at: 2026-10-15T23:40:28.771Z
 decision: null
 decision_answer: null
 ---
