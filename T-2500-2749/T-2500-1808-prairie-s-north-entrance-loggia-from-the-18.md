@@ -1,7 +1,7 @@
 ---
 id: T-2500
 title: 1808 Prairie's north entrance loggia from the 1888 plate: the columned porch on its basement arch with the balcony over it, the stair rising on its south side between cheek walls, and the door and window it frames (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1882
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 814
 claimed_by: run 10/15/2026, 3:40:10 AM CT
 blocked_on: null
 needs_bake: false
