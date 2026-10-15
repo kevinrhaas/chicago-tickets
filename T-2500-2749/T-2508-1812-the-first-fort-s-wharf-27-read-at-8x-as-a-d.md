@@ -1,7 +1,7 @@
 ---
 id: T-2508
 title: 1812: the first fort's wharf (27, read at 8x as a dotted outline on the river's east line west of the fort, beside '122 feet to River') and covered way to procure water (33, omitted by the drafter, inferred from Quaife from the north-east corner to the river), seated on the committed 1812 river rather than by T-2062's arrangement rule (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2505
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 815
 claimed_by: run 10/15/2026, 4:12:14 AM CT
 blocked_on: null
 needs_bake: false
