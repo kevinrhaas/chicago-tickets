@@ -1,7 +1,7 @@
 ---
 id: T-2490
 title: 1812: build the Potawatomi lodges at their documented camping place on the south bank by the later State Street bridge, and date the camp of the 12-16 August gathering from Wau-Bun
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 6:03:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38724054348
+claimed_at: 2026-10-15T11:03:14.581Z
 decision: null
 decision_answer: null
 ---
