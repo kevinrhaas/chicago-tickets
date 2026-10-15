@@ -1,7 +1,7 @@
 ---
 id: T-2506
 title: 1812: build the houses at the forks and the garrison's cornfield: Clark's house (Cooper), the two forks houses Whistler draws (one a discharged soldier's), Coursoll's house and inclosed field north of the river, and the 8-9 acre company garden and public cornfield
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 4:55:41 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T10:01:15.326Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38714841481
 claimed_at: 2026-10-15T09:55:41.857Z
 decision: null
