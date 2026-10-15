@@ -1,7 +1,7 @@
 ---
 id: T-2499
 title: 1808 Prairie's flat top, height and bow from the 1888 Inland Architect plate: the hip, dormer and cresting replaced by a flat roof behind a front parapet standing over Glessner's ridge, the bow stopped at the second storey under a flat moulded cap, and the third storey run flat across the front as a six-light arcade
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1882
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 809
 claimed_by: run 10/15/2026, 1:09:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T09:59:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38689904278
 claimed_at: 2026-10-15T06:09:17.922Z
 decision: null

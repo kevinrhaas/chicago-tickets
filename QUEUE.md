@@ -18,7 +18,6 @@
 # ---    worked go to the top with the core 1835 loop and research tickets)
 
 # Owner, 2026-10-13: "Sure" (move T-1882 to the top) — 1808 Prairie rebuilt to its photographs, thread "Keith house vs photos"; T-1883 waits on it and takes this line when it merges.
-T-2499 — 1808 Prairie's flat top, height and bow from the 1888 Inland Architect plate: the hip, dormer and cresting replaced by a flat roof behind a front parapet standing over Glessner's ridge, the bow stopped at the second storey under a flat moulded cap, and the third storey run flat across the front as a six-light arcade
 T-2500 — 1808 Prairie's north entrance loggia from the 1888 plate: the columned porch on its basement arch with the balcony over it, the stair rising on its south side between cheek walls, and the door and window it frames (after the piece before it)
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 # Owner, 2026-10-13, with the 1887-91 Prairie Avenue sidewalk postcard: "we want to emulate this" (curbs and carriage walks, parkway trees with a Trees setting, soft surface edges). T-2473..T-2475, worked interactively in thread "Prairie Avenue streetscape", one PR each.
