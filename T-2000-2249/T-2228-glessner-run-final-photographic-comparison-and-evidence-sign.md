@@ -192,3 +192,22 @@ integration remain required. Earlier candidate screenshots and gate receipts do
 not accept these revised asset bytes. T-2228 remains claimed and all photographic
 verdicts remain differs; terrace/post geometry, west access and elevation
 correspondence remain open.
+
+
+## Owner priority — overhead roof alignment (2026-10-15)
+
+The owner supplied a modern aerial view, an arrow-marked copy, and two model
+overhead views. First straighten the north-range ridge through the west-wing
+junction; the current west cross-gable crest at S18.4 differs from the north
+ridge at S14.6, producing the visible diagonal join. Check the west peak's
+position so the ridge axes meet at a right angle, then match the remaining roof
+features, including the northeast copper corner coverage. Add a reproducible
+overhead comparison. The modern aerial is surviving-form evidence, not a dated
+1904 color or material survey; UI labels and trees are not roof controls.
+
+The pending correction batch has not been committed or merged. Its full gate
+was interrupted before a verdict for this priority; its ongoing browser run
+will be retained as pre-correction evidence. No green or photographic match is
+claimed for the upcoming roof change. Existing HABS views and north service
+door/window clearances remain regression requirements. This finding extends
+T-2228 and precedes the terrace/areaway corrections.
