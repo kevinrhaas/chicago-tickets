@@ -1,7 +1,7 @@
 ---
 id: T-2226
 title: Glessner: balance lighting, contact shadows and restrained surface aging
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-09
 closed: null
-pr: null
+pr: 813
 claimed_by: run 10/15/2026, 1:03:31 AM CT
 blocked_on: null
 needs_bake: true
