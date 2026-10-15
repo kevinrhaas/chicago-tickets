@@ -1,7 +1,7 @@
 ---
 id: T-2511
 title: Lee's Place cabin built to the Currey 1912 plate: the river front's three doors and six windows, the stack on the upstream gable and the gabled lean-to beyond it; log_dwelling states no opening set-out or stack end, so this is an archetype change and a rebake of every log dwelling
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 833
 claimed_by: run 10/15/2026, 11:53:49 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T18:59:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38770841877
 claimed_at: 2026-10-15T16:53:49.743Z
 decision: null
