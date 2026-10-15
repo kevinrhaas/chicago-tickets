@@ -1,7 +1,7 @@
 ---
 id: T-2512
 title: 1812 forks: the two houses Whistler draws at the forks (one a discharged soldier's, the other taken as Cooper's Clark the cattle dealer) on the north bank east of the North Branch, and the company garden and public cornfield ('Eight acres' on the sheet) on the south bank east of the South Branch, built as a rail-fenced field
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2506
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 824
 claimed_by: run 10/15/2026, 8:19:46 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T18:24:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38741026274
 claimed_at: 2026-10-15T13:19:46.912Z
 decision: null
