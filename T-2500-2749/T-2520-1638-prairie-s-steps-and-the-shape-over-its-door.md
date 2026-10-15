@@ -1,7 +1,7 @@
 ---
 id: T-2520
 title: 1638 Prairie's steps and the shape over its door from its photograph: the steps' run past a 0.6 m floor settled through the camera (the floor's height, or a fall in grade between house and fence), and the pale gabled shape over the door's south leaf identified and built or argued not shown
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2458
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 835
 claimed_by: run 10/15/2026, 1:03:03 PM CT
 blocked_on: null
 needs_bake: false
