@@ -34,3 +34,9 @@ When T-2506 was split (2026-10-15T10:01:10.799Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38714841481) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found at T-2512 (2026-10-15), reading the pinned sheet (sha256 4568caac…)
+
+- The field is lettered `Mr Coursell` inside a zigzag outline lettered `Worm Fence` on its west side, north of the river (index no. 25's line) and west of the no. 31 houses: sheet px about x 520-700, y 394-600, drawn turned (its long sides run about 30° off the sheet's axes).
+- The house at its south-east corner, outside the fence, is the westernmost of the three no. 31 houses the trace already carries at px (708, 530); its numeral '31' is lettered just below it. No other house is drawn in or at the field.
+- So Quaife's "a house and inclosed field north of the river, belonging to Mr. Coursoll" names the occupant of a house the sheet numbers 31, and Quaife pairs the three no. 31 houses with Cooper's Ouilmette, La Lime and Le Mai. Building a separate Coursoll house would draw one house twice. T-2504 (which decides the three no. 31 houses WITH T-2486) should weigh Coursoll as the westernmost's occupant in 1808 against Cooper's names.

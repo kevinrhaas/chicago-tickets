@@ -42,3 +42,7 @@ The two '31' houses that T-2486 does not take for Ouilmette's: seat all three wi
 Waits for T-2486 (same ground, one PR at a time).
 
 **Acceptance:** two log houses stand west of Kinzie's in the 1812 scene, at the draught's '31' places, each card citing Quaife's Cooper and the draught, with the occupant assignment graded `reconstructed` and its liberty numbered; desktop and 390x780 shots, no page errors.
+
+## Found at T-2512 (2026-10-15)
+
+The westernmost no. 31 house (sheet px 708, 530) stands at the south-east corner of the worm-fenced field lettered `Mr Coursell` — Quaife's "house and inclosed field north of the river, belonging to Mr. Coursoll". Weigh Coursoll as that house's 1808 occupant beside Cooper's four names; T-2513 builds the field and waits on this ruling for its house.
