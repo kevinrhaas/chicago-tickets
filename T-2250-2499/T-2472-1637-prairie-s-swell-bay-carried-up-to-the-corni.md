@@ -1,7 +1,7 @@
 ---
 id: T-2472
 title: 1637 Prairie's swell bay carried up to the cornice from the engraving, its cornice carried round the bow (build on T-2460's bow-to-cornice machinery once it lands)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2466
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 12:08:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38774011242
+claimed_at: 2026-10-15T17:08:09.202Z
 decision: null
 decision_answer: null
 ---
