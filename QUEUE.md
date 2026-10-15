@@ -44,7 +44,9 @@ T-2530 — 1621 Prairie's stoop from the drawing: a landing at the door and a fl
 T-2531 — 1621 Prairie's last drawn differences — the entrance arch's curved extrados and deeper recess, the light's shelf over the panel, the basement lights' voussoir heads — and the Building Budget match record brought to matches (after the piece before it)
 T-2529 — The phone's light tier is over its 1.27 M-triangle ceiling looking down Prairie's east row from 1613 to 1621 (1.329 M on dev before T-2434, 1.407 M after): K01 houses ship no light derivative, so the phone draws every full assembly; bring the stand inside light's ceiling
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
+T-2534 — 1637 Prairie's principal storey from the engraving: its sashes about 2.9 m tall on the front, the swell bay and the wing, and the wing's French window to its floor over a bowed balcony about 0.9 m high
+T-2535 — 1637 Prairie's basement lights and stoop from the engraving: two round-headed lights under the wing, one nearly a storey tall under the bay, and the flight's foot argued against the fence's first post
+T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record, camera and match record, and both match records brought to matches (after the two pieces before it)
 T-1889 — Refine 1801 Kimball corner mansion envelope
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-1884 — Refine 1812 Wheeler shaped-gable house envelope
