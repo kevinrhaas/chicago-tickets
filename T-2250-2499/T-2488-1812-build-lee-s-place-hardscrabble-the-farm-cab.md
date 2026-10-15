@@ -47,6 +47,16 @@ Lee's Place, later Hardscrabble: the farm Charles Lee worked from about 1804 on 
 
 **The site is off the 1812 ground.** The e1830_natural heightfield's west edge is local E -705 m, about 1.9 km west of the fort; the forks near Bridgeport are several kilometres further west and south. So the first part of this ticket is a ruling, written here before building: extend the 1812 ground along the South Branch to the site (a terrain spec change, to be split off as its own ticket if it is more than one run), or stand the farm on a detached patch of ground with its own anchor. Either way the farm's position is a stated reading of the three distances (three miles, four miles, half a mile below Bridgeport) and never a pin.
 
+## Ruling (2026-10-15, the run that claimed this ticket): EXTEND the 1812 ground, and not on a detached patch
+
+The farm stands on the 1812 ground carried down the South Branch to it, and not on a detached patch. There are three reasons, and each one can be checked:
+
+1. **No detached patch exists to stand it on.** Outside the e1830_natural box (E -705..1700, N -3800..1120) the renderer's `heightfield.sample()` returns its 0 m fallback (`renderers/web/js/terrain.js`), and `buildings.js` `groundUnder()` seats a footprint on that value. Around E -1500, N -4300 the drawn apron is flat at 1.31 m, which is the box edge's height carried outward. So a cabin there would stand 1.3 m under the ground a visitor sees, and the walker's eye would be 0.37 m above it. `tools/measure_anchors.mjs --gate` also refuses any anchor outside the box. The only sampler that reads outside a box is 1904's `contextCoast`. A patch is therefore new renderer machinery either way, and it is no cheaper than carrying the ground out.
+2. **Every account of the farm puts it on the river bank.** Heald has it "in a field on the Portage branch", Wau-Bun has haystacks and cattle on the opposite bank and the men's canoe, and Moses and Kirkland put it on the "northwestern side of the South branch, near its forks". A patch with no river beside it would draw a farm that no source describes.
+3. **The river's course to the farm is already in the corpus.** Rees & Rucker 1849 is georeferenced (data/traces/gcp/rees_rucker_1849_gcps.json, RMS 25.0 m) and draws the South Branch from Cermak Road west to the forks at Bridgeport, where the canal meets it. So the channel can be traced from a source and does not have to be invented.
+
+**The site** will be a stated reading of the four placings (Heald's three miles from the garrison, Currey's four miles from the mouth, Hurlbut's half a mile below Bridgeport on the north side, and Moses and Kirkland's northwestern bank near the forks), measured against that trace. It is never a pin. It is more than one run's work, so this ticket is split: (1) the trace and the site reading, (2) the ground carried to the site, (3) the farm built on it. Piece 2 chooses how the ground is carried, either the box extended or an apron sampler like 1904's.
+
 Pictures:
   not yet in the library: Currey 1912 "Hardscrabble". Bring it in with attribution if reachable, otherwise ask Kevin for it; once it is in, the cabin is image-gated on it.
 
