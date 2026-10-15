@@ -1,7 +1,7 @@
 ---
 id: T-2484
 title: 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 1:04:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T06:05:53.314Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38689912939
 claimed_at: 2026-10-15T06:04:18.536Z
 decision: null
