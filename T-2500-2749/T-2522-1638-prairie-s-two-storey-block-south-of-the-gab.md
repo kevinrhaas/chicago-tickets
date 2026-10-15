@@ -1,7 +1,7 @@
 ---
 id: T-2522
 title: 1638 Prairie's two-storey block south of the gable from its photograph (the register's 'separate lower wing' or the neighbour), and its match record brought to matches (after the three pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2458
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 5:29:31 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38815957704
+claimed_at: 2026-10-15T22:29:31.535Z
 decision: null
 decision_answer: null
 ---
