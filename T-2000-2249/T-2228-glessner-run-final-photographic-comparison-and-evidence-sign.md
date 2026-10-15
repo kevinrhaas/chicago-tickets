@@ -217,3 +217,24 @@ under the shifted cross-gable. The owner expects the corrected roof peak to
 center the windows more naturally. Verify opening-to-peak alignment and roof
 clearance in the actual baked west view and historical obliques; preserve
 existing opening coordinates unless source comparison supports a change.
+
+
+### Ridge and west-window review, 2026-10-15
+
+The rebuilt master `6f1cbdee8e64edacea8a6dc0ad4bb461ab43eaf6c108628e56fd81f95dd5220e`
+was directly reviewed at the frozen aerial camera: the S14.6 crest now aligns
+through the west crossing. Full west elevation renders show the peak/cupola
+move while all eight wall openings remain unchanged and clear of both slopes.
+Upper-pair midpoint S16.25 is closer to the peak (2.15 to1.65ft); the lower
+pair midpoint S17.60 does not improve (0.80 to3.00ft). No arbitrary window
+shift is made to force symmetry. HABS01 and the Nickel west-dormer view were
+re-read; they do not independently expose a complete square-on west elevation.
+
+The next owner-directed correction restores the aerial's omitted chamfered
+copper strip, seated exactly on the existing north courtyard roof plane.
+The reconstructed W55/S22 to W50/S19 boundary and east junction are recorded
+in L-glessner-copper-return-2228. Tile removal matches the copper coverage,
+with the radial hood subtracted; the former folded/raised rectangle does not
+return. 2000 independent rays verify no gap/overlap, and Full/Light sheet stock
+stays seated. Fresh bake and visual review remain pending. T-2228 stays open;
+no photographic acceptance or dev merge is asserted by these source checks.
