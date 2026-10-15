@@ -1,7 +1,7 @@
 ---
 id: T-2497
 title: 1812: build the Kinzie house (the former Point du Sable house) with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to the Lossing 1869 and Chicago Magazine 1857 pictures
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2484
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 1:05:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38689912939
+claimed_at: 2026-10-15T06:05:58.750Z
 decision: null
 decision_answer: null
 ---
