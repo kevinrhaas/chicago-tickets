@@ -1,7 +1,7 @@
 ---
 id: T-2525
 title: 1621 Prairie's bow from the drawing: the iron balcony rail round its top on the moulded cornice, and its basement storey under the principal lights — the band at the principal floor and the two grilled segment-headed basement lights
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2422
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 837
 claimed_by: run 10/15/2026, 1:31:19 PM CT
 blocked_on: null
 needs_bake: false
