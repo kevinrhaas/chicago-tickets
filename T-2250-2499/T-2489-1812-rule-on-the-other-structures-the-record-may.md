@@ -52,3 +52,16 @@ Each of these is named somewhere in the record as being at Chicago before 15 Aug
 Not ruled on here: Potawatomi lodges. The owner ruled on 2026-10-13 that they are built as documented; that is T-2490.
 
 **Acceptance:** one ruling per candidate in the ticket and in the data (a build ticket filed, or an exclusion entry with its sources); nothing ruled in on a source that was not read.
+
+## Rulings (2026-10-15)
+
+Full reading: `docs/RESEARCH/1812_other_structures.md`. Sources read: Andreas 1884 v1 (archive.org full text, scan pp. 89-92), Quaife 1913 (Gutenberg), Moses and Kirkland v1 (committed text), Hubbard 1911, Wau-Bun (Gutenberg epub), Currey 1912 (Gutenberg 52346, now `currey_1912_old_fort_dearborn` — T-2484/T-2487: reuse this id), Kirkland 1893 (Gutenberg 59624, read but not cited; no source record). Lossing 1869 was not reached.
+
+- **Guarie's trading house — OUT.** `data/exclusions.json` `guarie_trading_house` (scenes: 1812). Hubbard's tradition only ("prior to 1778"; "the first trader that followed La Salle"); corn-hills by 1818; Quaife p. 138 calls the tradition the whole of what is known. Currey's uncited "permanent residents" of 1804 is weighed and not followed.
+- **Cobweb Castle — OUT for 1812.** `cobweb_castle_1812` (scenes: 1812, earliest 1835). Begun under Jouett 1816-18, finished by Wolcott 1820 (Andreas p. 90; Moses and Kirkland pp. 70-71). Mrs. Callis's pre-1812 house (Andreas p. 89: two rooms, twenty steps from the bank) is the Burns house Jouett occupied in 1817 (Moses and Kirkland p. 70; Wau-Bun fn. 30) — T-2487's.
+- **Lalime's dwelling — IN.** One of the three no. 31 houses west of Kinzie's on Whistler's draught; Cooper names La Lime among their occupants in 1808 (Quaife pp. 148-50, 166). Filed: **T-2504** (with Le Mai's).
+- **Russell — no separate house.** "Messrs. Russell and Lee's cabin" is one cabin; Quaife pp. 212-13: "aside from this fact nothing is known about him". Carried by T-2488.
+- **The first fort's riverside works.** Wau-Bun's root-houses and gardens are the second fort's (1831) and do not count. Whistler's own wharf (27) and covered way (33) go into **T-2505** with the unbuilt outer houses 19-23; the 8-9 acre company garden and public cornfield by the forks into **T-2506**.
+- **Anything else.** Le Mai's 1808 house → T-2504. Clark's house at the forks (Cooper), Whistler's two forks houses and Coursoll's house and field → **T-2506**. Bridges' house (occupied 1816) → held, weighed in T-2504. The horse mill → T-2485. The 1812 agency house already stands (`first_fort_outer_agents_house`).
+
+The 1812 scene now lists the `exclusions` layer; entries carry `scenes` (tools/exclusion_scope.py), and an entry without it is the 1835 town's.
