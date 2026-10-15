@@ -1,7 +1,7 @@
 ---
 id: T-2502
 title: The 1812 ground carried down the South Branch from the box floor to the Lee's Place site: channel, banks and the farm's ground drawn and walkable, with the anchor gate passing there
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2488
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 2:18:45 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38697231996
+claimed_at: 2026-10-15T07:18:45.385Z
 decision: null
 decision_answer: null
 ---
