@@ -46,6 +46,7 @@ T-2529 — The phone's light tier is over its 1.27 M-triangle ceiling looking do
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-2534 — 1637 Prairie's principal storey from the engraving: its sashes about 2.9 m tall on the front, the swell bay and the wing, and the wing's French window to its floor over a bowed balcony about 0.9 m high
 T-2535 — 1637 Prairie's basement lights and stoop from the engraving: two round-headed lights under the wing, one nearly a storey tall under the bay, and the flight's foot argued against the fence's first post
+T-2537 — 1637 Prairie's wing's second-storey window from the engraving: a paired opening about 1.8 m wide on a mullion (x 675-742 px), over the French window, where the build has a 1.1 m sash
 T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record, camera and match record, and both match records brought to matches (after the two pieces before it)
 T-1889 — Refine 1801 Kimball corner mansion envelope
 T-1890 — Finish 1801 Kimball corner mansion architecture
