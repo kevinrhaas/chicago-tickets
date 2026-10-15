@@ -1,7 +1,7 @@
 ---
 id: T-2434
 title: The group's third house (1621 or 1623, whichever is not Farwell's) without a picture: a bounded brick front on K01 at the light well the 1911 sheet draws, its own and not a copy of either neighbour
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1869
 opened: 2026-10-12
-closed: null
+closed: 2026-10-15
 pr: 838
 claimed_by: run 10/15/2026, 1:29:51 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T22:15:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38785473642
 claimed_at: 2026-10-15T18:29:51.784Z
 decision: null
