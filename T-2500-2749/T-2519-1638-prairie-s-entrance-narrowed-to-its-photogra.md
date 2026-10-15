@@ -1,7 +1,7 @@
 ---
 id: T-2519
 title: 1638 Prairie's entrance narrowed to its photograph: the gable widened 0.24 m to the print's verges with its openings 0.12 m north, the wing wall and door kept where read, and the porch posts set in to the print's 1.72 m opening with the arch springing lower and more pointed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2458
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 832
 claimed_by: run 10/15/2026, 11:20:12 AM CT
 blocked_on: null
 needs_bake: false
