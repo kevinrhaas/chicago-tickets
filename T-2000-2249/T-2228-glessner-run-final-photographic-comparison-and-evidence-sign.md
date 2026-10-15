@@ -238,3 +238,21 @@ with the radial hood subtracted; the former folded/raised rectangle does not
 return. 2000 independent rays verify no gap/overlap, and Full/Light sheet stock
 stays seated. Fresh bake and visual review remain pending. T-2228 stays open;
 no photographic acceptance or dev merge is asserted by these source checks.
+
+
+### Owner clarification — confirm window positions from northwest photographs
+
+On2026-10-15 the owner explicitly requested historical northwest views to
+confirm the west-window locations. HABS01 and Cornell's ca.1887 stable image
+were directly compared, including a fixed west-plane diagnostic. The official
+Cornell catalog ss:3874294 (accession15/5/3090.00156) was recovered and its
+explicit public-domain statement checked; its scan and audit104 are the same
+exposure. All eight west-window centers were withheld from fitting.
+
+The southern upper slit is too far south: move its center S21.8 to S19.8,
+retaining width/heights. The other seven centers agree within approximately1ft
+and remain. Camera/eave uncertainty and the earlier HABS plan disagreement are
+recorded in L-glessner-west-slit-2228. The copper-only bake was interrupted to
+include this owner-requested correction in the next complete asset; it did not
+produce a completed asset or a gate verdict. The earlier ridge-only before
+master remains available. New bake and actual-asset after comparison follow.
