@@ -1,7 +1,7 @@
 ---
 id: T-2489
 title: 1812: rule on the other structures the record may place at Chicago before the evacuation (Guarie's North Branch trading house, Cobweb Castle's build date, Lalime's and Russell's dwellings) and file a build for each one ruled in
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 808
 claimed_by: run 10/15/2026, 1:05:27 AM CT
 blocked_on: null
 needs_bake: false
