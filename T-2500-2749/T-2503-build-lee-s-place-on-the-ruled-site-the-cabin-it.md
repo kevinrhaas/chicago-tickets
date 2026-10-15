@@ -33,4 +33,4 @@ When T-2488 was split (2026-10-15T06:11:15.402Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38689931010) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** this is T-2488's own acceptance, on T-2501's ruled site and T-2502's ground. The cabin, its field fence and its haystacks stand at the site in the 1812 scene, with a camera anchor there. A card cites the placings and says where they disagree. Liberties cover everything no source gives. The image gate is added and passed once the Currey "Hardscrabble" picture is in the library.

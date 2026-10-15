@@ -33,4 +33,4 @@ When T-2488 was split (2026-10-15T06:11:15.402Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38689931010) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** (state it before working.) Read T-2488's ruling and T-2501's site reading first. Carry the e1830_natural ground from the box floor down the South Branch to the ruled site, choosing either to extend the box or to add an apron sampler like 1904's `contextCoast`, and say why. The water and both banks follow T-2501's trace, at the epoch's conjectural grade below `evidence_limit`. A walker at the site stands on the drawn ground and not 1.3 m under it, and `measure_anchors.mjs --gate` accepts an anchor there. The terrain gates and the smoke stay green.
