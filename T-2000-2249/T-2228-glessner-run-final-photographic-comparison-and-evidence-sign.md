@@ -168,3 +168,27 @@ court access and street opening/camera correspondence remain open.
 
 Published desktop/mobile review and the full integration gate are in progress.
 The upcoming correction PR must not close T-2228 or imply photographic signoff.
+
+
+## 2026-10-15 — preflight findings and revised candidate
+
+The initial candidate passed all twelve published Full/Light courtyard stands and
+loaded all124 credited mobile image tiles. The full895-step preflight then found
+four failures: rainwater leaders crossing openings after the tower/garden-light
+changes, stale opening schedules, and malformed/uncompiled liberty fields causing
+two provenance gates to fail. No commit, PR or merge was made on that red gate.
+
+The two east-court leaders are now explicitly reconstructed within clear wall
+strips atS61.61 andS42.4ft, retaining their connected gutters and stock. Existing
+Full/Light drainage checks pass. The liberties now carry parsed Decision/Covers/
+Recorded fields, and the generated opening schedule describes the garden grille.
+A revised bake also narrows dormer side projections to144mm, bounded by the native
+HABS4 body/roof widths; its85mm apron run retains a gentle flare. The1500 host
+samples, clear glazing and independent section-width checks pass. The revised
+Light source estimate is193683 triangles under the unchanged200000 ceiling.
+
+Fresh bake, exact-asset photographic/browser review, full preflight and dev
+integration remain required. Earlier candidate screenshots and gate receipts do
+not accept these revised asset bytes. T-2228 remains claimed and all photographic
+verdicts remain differs; terrace/post geometry, west access and elevation
+correspondence remain open.
