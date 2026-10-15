@@ -1,7 +1,7 @@
 ---
 id: T-2532
 title: 1638 Prairie's south wing from its photograph: the sheet's projection as a lower wing under a street-facing 50-degree gable, its eave a metre under the house's, its upper pair of lights and lower openings read through the camera
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2522
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 845
 claimed_by: run 10/15/2026, 5:41:37 PM CT
 blocked_on: null
 needs_bake: false
