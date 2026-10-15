@@ -1,7 +1,7 @@
 ---
 id: T-2530
 title: 1621 Prairie's stoop from the drawing: a landing at the door and a flight running south along the front past the bow's north end behind a stone cheek, its match item fixed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2527
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 4:55:53 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38812266986
+claimed_at: 2026-10-15T21:55:53.542Z
 decision: null
 decision_answer: null
 ---
