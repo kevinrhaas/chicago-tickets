@@ -1,7 +1,7 @@
 ---
 id: T-2498
 title: 1812 Kinzie house: solve and match its other pictures (Cram 1893 'in 1832', the Teich postcard, the 1820 Eastman and Gemmell views) and bring in the Currey 1912 and Kirkland 1893 plates
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2484
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 6:37:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38728129747
+claimed_at: 2026-10-15T11:37:10.097Z
 decision: null
 decision_answer: null
 ---
