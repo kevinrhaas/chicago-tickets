@@ -1,7 +1,7 @@
 ---
 id: T-2530
 title: 1621 Prairie's stoop from the drawing: a landing at the door and a flight running south along the front past the bow's north end behind a stone cheek, its match item fixed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2527
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 844
 claimed_by: run 10/15/2026, 4:55:53 PM CT
 blocked_on: null
 needs_bake: false
