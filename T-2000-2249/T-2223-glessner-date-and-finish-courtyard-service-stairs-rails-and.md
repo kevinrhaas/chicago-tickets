@@ -1,7 +1,7 @@
 ---
 id: T-2223
 title: Glessner: date and finish courtyard service stairs, rails and rear gate
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-14
 pr: 803
 claimed_by: run 10/14/2026, 5:55:49 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-15T01:16:22Z
 claimed_run: null
 claimed_at: 2026-10-14T22:55:49.943Z
 decision: null

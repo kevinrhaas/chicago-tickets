@@ -1,7 +1,7 @@
 ---
 id: T-2224
 title: Glessner: finish courtyard paths, edging, lawn and drainage
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-09
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2223 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -86,3 +86,5 @@ Pictures:
 ## T-2223 interface handoff — 2026-10-15
 
 [Service-access PR #803](https://github.com/kevinrhaas/chicago/pull/803) retains the courtyard drive at local datum +36.6 mm and lawn at +15.2 mm. The new rear-gate sill top is +45 mm, with the gate leaf beginning at +57 mm. The service stair retains ten treads and a +1.8288 m landing. Reconcile new paths and grades against the actual drive, sill, stair noses and terrace foot; terrain height alone misses the separate drive mesh. Keep grass clear of those access routes and do not import the 1946 parking conversion.
+
+**Unblocked 2026-10-14:** T-2223 merged (PR #803); this took its place in the queue. The block read: T-2223 — one Glessner House PR at a time (owner, 2026-10-11: group released to the loop and chained so lanes do not rebuild the same house in parallel)
