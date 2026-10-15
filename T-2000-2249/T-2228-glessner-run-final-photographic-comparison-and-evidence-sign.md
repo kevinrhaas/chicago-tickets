@@ -148,3 +148,23 @@ and integration gates are still pending. The original five comparisons remain
 The west courtyard door/descending areaway, remaining elevation correspondence
 and final photographic acceptance remain under this ticket. No main promotion,
 new budget, source-rights clearance or final match verdict is claimed.
+
+
+## 2026-10-15 — baked candidate and direct visual review
+
+The correction candidate is baked and packaged. Full/Web/Light contain
+1,372,996 / 1,372,996 / 193,796 triangles, with zero coincident faces and
+unchanged ceilings. The derived-data sequence reached a fixed point, and the
+post-publish K01 contract passes. The actual master SHA256 is
+`ab8a25d604bd31da5ace816f08d2189faa8d7e71c673adfc41b94bb6f58ba9b4`.
+
+All ten current master side-by-sides were directly reviewed. The original five
+cameras retain their bytes; four additional views import unchanged T-2200 poses,
+and the wide court section uses the same independent HABS4 controls. Every match
+record remains `differs`. The roof no longer crosses dormer glazing or the upper
+court-wall opening; the pointed north cone and lower connector are visible.
+Dormer roof width, the coping/post join, plan/section tower disagreement, west
+court access and street opening/camera correspondence remain open.
+
+Published desktop/mobile review and the full integration gate are in progress.
+The upcoming correction PR must not close T-2228 or imply photographic signoff.
