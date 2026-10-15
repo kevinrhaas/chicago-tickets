@@ -1,7 +1,7 @@
 ---
 id: T-2516
 title: 1812 Kinzie house: rebuild to what its pictures agree on against the build — the piazza roof carried down from the main roof and its height, the gable-end lights, the length against the end — and solve Sarony's lithograph (Currey 1912 / Kirkland 1893) into a camera
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 10:22:42 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38758995503
+claimed_at: 2026-10-15T15:22:43.059Z
 decision: null
 decision_answer: null
 ---
