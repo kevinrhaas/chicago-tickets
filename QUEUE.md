@@ -45,7 +45,6 @@ T-2531 — 1621 Prairie's last drawn differences — the entrance arch's curved 
 T-2529 — The phone's light tier is over its 1.27 M-triangle ceiling looking down Prairie's east row from 1613 to 1621 (1.329 M on dev before T-2434, 1.407 M after): K01 houses ship no light derivative, so the phone draws every full assembly; bring the stand inside light's ceiling
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-2449 — 1637 Prairie's windows from the engraving and its c. 1870 photograph weighed: the principal storey's tall sashes, the basement lights, the Grosvenor photograph's source, camera and match record as evidence of its own date, and both match records brought to matches (after the two pieces before it)
-T-2528 — K01 mansard houses' K10 brackets stop 0.088 m under their soffit: build() sets a.soffit_m from the upper hip's pitch (E - overhang x tan(roof_pitch) - 0.2 = 11.21 m on 1637) where a mansard's soffit is E - 0.2 (11.3 m), so every bracket and bed moulding under a mansard eave hangs short of it
 T-1889 — Refine 1801 Kimball corner mansion envelope
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-1884 — Refine 1812 Wheeler shaped-gable house envelope
