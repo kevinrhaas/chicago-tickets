@@ -1,7 +1,7 @@
 ---
 id: T-2510
 title: Lee's Place haystacks: the stacks Wau-Bun ch. XIX puts with Lee's cattle on the bank OPPOSITE the cabin, which no archetype builds yet (a haystack form, its liberty, and the opposite bank's seat on T-2502's apron) (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2503
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 819
 claimed_by: run 10/15/2026, 5:42:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T14:22:28Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38721647922
 claimed_at: 2026-10-15T10:42:34.296Z
 decision: null
