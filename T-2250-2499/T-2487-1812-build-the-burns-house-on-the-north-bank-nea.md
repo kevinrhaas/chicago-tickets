@@ -1,7 +1,7 @@
 ---
 id: T-2487
 title: 1812: build the Burns house on the north bank near the foot of State Street and the Lee family's house on the lake shore near the fort
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-13
 closed: null
-pr: null
+pr: 807
 claimed_by: run 10/15/2026, 1:04:45 AM CT
 blocked_on: null
 needs_bake: false
