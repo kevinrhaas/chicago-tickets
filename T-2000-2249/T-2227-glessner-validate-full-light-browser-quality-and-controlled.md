@@ -115,3 +115,8 @@ rendering is not hardware-GPU FPS. Geometry and captured cameras were unchanged
 by the later integrated T-2496 travel fix. Evidence will land with T-2221 under
 `docs/RESEARCH/glessner-rainwater-T-2221/app-comparison.json`; source before/after
 results and screenshots are retained alongside it. No ceilings were raised.
+
+
+## T-2224 courtyard camera handoff - 2026-10-15
+
+The unchanged terrace-foot camera also fails the existing scene budgets on the accepted T-2223 baseline: Full 405 calls / 4,701,255 triangles against 360 / 4,600,000; Light 282 / 1,639,605 against 330 / 1,270,000. T-2224 captures at exactly that camera report Full 405 / 4,701,893 and Light 282 / 1,640,161. The other four court/access views in each tier remain within their existing budgets; draw calls are unchanged at all ten views. Keep the failed assertions and camera/budget values. Evidence and exact before/after poses: `chicago/4d/docs/RESEARCH/glessner-courtyard-ground-T-2224/`. The canonical Light house itself is 199,794 triangles, within its 200,000 limit; scene totals include the rest of the district and shadows. These SwiftShader captures establish geometry/call counts, not hardware FPS.
