@@ -1,7 +1,7 @@
 ---
 id: T-2527
 title: 1621 Prairie's stoop from the drawing, climbing beside the north strip parallel to the front behind a stone cheek, and the Building Budget match record brought to matches (after the two pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2422
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 4:50:02 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-15T21:55:48.101Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38812266986
 claimed_at: 2026-10-15T21:50:02.933Z
 decision: null
