@@ -1,7 +1,7 @@
 ---
 id: T-2609
 title: Navigator: the building card's two review bugs fixed now: 'bay dining [object Object]' under Attributes, and the 1835 fire-limit by-law shown on a 1904 building
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 2:06:58 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38946248501
+claimed_at: 2026-10-16T19:06:58.836Z
 decision: null
 decision_answer: null
 ---
