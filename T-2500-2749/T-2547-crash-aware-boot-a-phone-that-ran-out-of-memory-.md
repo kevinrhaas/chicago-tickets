@@ -1,7 +1,7 @@
 ---
 id: T-2547
 title: Crash-aware boot: a phone that ran out of memory last session boots one tier lower and says so, and a lost WebGL context never reload-loops
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: 859
 claimed_by: run 10/15/2026, 10:39:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T05:00:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38846353426
 claimed_at: 2026-10-16T03:39:53.712Z
 decision: null
