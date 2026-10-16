@@ -23,7 +23,6 @@
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
-T-2577 — Keith's cornice box laid in stone under the lattice, and every view re-rendered with the loggia and granite compared at the overview scales
 T-2578 — Keith's deck behind the return: the cowl ventilator the 1887-89 pictures show, and the parapet behind the rear pinnacle ruled from the pictures that see it
 T-2579 — Keith's five independent cameras re-fitted with their solves recorded (Florian 1948, Glessner front, the Inland Architect Glessner plate, the 1965 porch, Reed 1941)
 T-2580 — Keith's image gate: the bow's alternating courses and the carving read from the plate, and every match record brought to matches
