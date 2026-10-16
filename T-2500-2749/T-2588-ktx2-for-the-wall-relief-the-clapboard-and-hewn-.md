@@ -1,7 +1,7 @@
 ---
 id: T-2588
 title: KTX2 for the wall relief: the clapboard and hewn-log orl derived at convert time and shipped with their normals as KTX2 through loadSheet, the canvas pack kept as the fallback, captures at the wall anchors within tolerance, measure_memory showing the wall sheets' GPU bytes down on phone, and the boot payload still under its ceiling
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2583
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 879
 claimed_by: run 10/16/2026, 6:49:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T13:37:22Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38894669804
 claimed_at: 2026-10-16T11:49:33.914Z
 decision: null
