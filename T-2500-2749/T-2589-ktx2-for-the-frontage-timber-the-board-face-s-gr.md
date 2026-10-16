@@ -34,3 +34,8 @@ When T-2583 was split (2026-10-16T11:49:21.146Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38894669804) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding from T-2588 (2026-10-16)
+
+- **Frontage can bind the walls' KTX2 pair and ship nothing new.** `frontage.js` RELIEF_DIR is `walls/clapboard_board_face`, the same sheet the wall relief binds, and since T-2588 that sheet carries `clapboard_board_face_normal_gl.ktx2` and `clapboard_board_face_orl.ktx2` (R = AO, G = roughness, B = 0.5 * L / mean(L), bottom row first). Frontage's `packGrain` modulation is `1 + GRAIN_STRENGTH * (L / mean - 1)` = `1 + GRAIN_STRENGTH * (2 * orl.B - 1)` (orl.B clamps L / mean at 2), and its `orm` slots read only R and G. So one shader edit lets frontage sample the orl the walls already fetched.
+- **That is the boot budget's lever.** T-2588 left `measure_boot_payload.mjs` at 12.906 of 13.000 MiB (+48 KB) only because frontage still fetches the clapboard's three WebPs (0.433 MB) beside the walls' KTX2 pair; once frontage binds the pair, those three leave the boot.
