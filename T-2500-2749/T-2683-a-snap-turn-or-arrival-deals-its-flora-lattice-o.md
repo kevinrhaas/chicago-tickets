@@ -1,7 +1,7 @@
 ---
 id: T-2683
 title: A snap turn or arrival deals its flora lattice off the main thread, every walk of the pass sent to the pool at once and the old lattice drawing until the new one lands: no flora task over 50 ms in walk and turn at the throttled phone profile (the 120 ms one-frame pass at the walk's right turn), with what the visitor sees in the frames between stated
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2605
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 3:22:44 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38961045470
+claimed_at: 2026-10-16T20:22:44.483Z
 decision: null
 decision_answer: null
 ---
