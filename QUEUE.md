@@ -32,6 +32,7 @@ T-2550 — GPU picking from a 1x1 id pass, so frontage, enclosures, yard and str
 T-2551 — KTX2 in the renderer: vendor KTX2Loader and the Basis transcoder from the pinned three tarball, and ship the runtime library sheets GPU-compressed with mip 0 skipped on light
 T-2553 — KTX2 in every textured web GLB: UASTC and ETC1S in web_derivatives.sh, the light tier capped at 1024, Glessner v4 repacked, and every photo-match still matches
 T-2554 — 1904 texture residency: textured houses resident by distance under a per-tier texture budget, uploads paced per frame, and the boot fetch bounded
+T-2555 — A frame governor: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing where 60 cannot hold, and shadow refresh halved while moving
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
