@@ -46,3 +46,7 @@ Carried from T-1883: this piece closes the house, so `ticket.mjs done` refuses i
 - keith_house_1808_prairie
 
 The parent's owner reports (2026-10-13 and 2026-10-16, including the permission to use the 1888 Inland Architect Keith plate) and its research page `docs/RESEARCH/k01-1808-keith-1883/README.md` in the code repo are the brief; read them first.
+
+## Finding from T-2564 (2026-10-16)
+
+A brownish cornice-box band (the flat roof's fascia over the wall head, E to E + 0.12 m) shows under the lattice in every front view, where the photographs show stone. It survived T-2566 and is written as `open` in each match record; it must be laid in stone before this gate can read `matches`.
