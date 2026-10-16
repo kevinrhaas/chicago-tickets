@@ -209,3 +209,4 @@ T-2618 — Navigator app registry and contextual rail: navigator.register with w
 T-2619 — Navigator dock: when closed it always shows a status lamp, the NAVIGATOR label, the year and the current app's icon, and one tap or swipe up opens the last app at HALF
 T-2620 — Navigator: the drawer's panels move into Navigator apps, goto, people, businesses, evidence and settings mounted inside apps with every element id the smoke reads intact, and the hamburger drawer retired
 T-2621 — Navigator deep links and back: ?nav=app[:id]&tab= opens that app after landing, and the browser back button closes the current app before leaving the page
+T-2622 — Navigator keyboard and accessibility: N toggles it, 1-9 select rail apps, Esc closes, the rail is a tablist of tabpanels, focus moves into the app on open and is always visible
