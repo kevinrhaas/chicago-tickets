@@ -1,7 +1,7 @@
 ---
 id: T-2590
 title: Signage's grain and the ground strip's sand luma derived at convert time (the sand basecolor then KTX2), the sheets' memory ceiling lowered, and SITE-BUDGET re-measured
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2583
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 880
 claimed_by: run 10/16/2026, 7:22:53 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T15:25:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38899606755
 claimed_at: 2026-10-16T12:22:53.902Z
 decision: null
