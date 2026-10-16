@@ -242,3 +242,4 @@ T-2651 — Navigator Move app: one mode picker, Walk, Run, Wagon, Horse or Fly, 
 T-2652 — Navigator getting-there style: Teleport, Ride there or Fly over, one choice that Go to, Map and Jaunts all use
 T-2653 — Navigator Move comfort: head bob, eye height (keeping the researched default and its 'Why?') and snap-turn on touch
 T-2654 — Navigator Map app: the whole field inside the device with your arrow, tap a building to preview it then Go, Jaunt routes dotted, and a legend in the Confidence view colors
+T-2655 — Navigator Jump app: the destinations as era mini-cards with HERE on the current one, an in-world jump (ring, time-stream, landing) to another, and RECALL to the Observatory as the screen's only signal-red key
