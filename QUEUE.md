@@ -205,3 +205,4 @@ T-2613 — Navigator landing replaces Tap to enter: the last digit clunks into p
 T-2614 — Navigator gesture gating without a gate: audio and pointer lock start on the first Home choice, canvas tap or Navigator control, desktop shows CLICK TO ENGAGE LOOK until lock, and iOS Safari logs no autoplay errors
 T-2615 — Navigator portal continuity: an arrival within 10 s of the Observatory's transfer opens with the ring's tail still expanding, so the jump reads as one shot
 T-2616 — Navigator arrival failure state: 'The jump stalled somewhere around 1950.' with TRY AGAIN and BACK TO THE OBSERVATORY, and the error detail collapsed under 'Details for your teacher'
+T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
