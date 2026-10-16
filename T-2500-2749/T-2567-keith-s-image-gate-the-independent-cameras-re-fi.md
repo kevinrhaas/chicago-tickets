@@ -1,7 +1,7 @@
 ---
 id: T-2567
 title: Keith's image gate: the independent cameras re-fitted and every match record brought to matches (after the pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1883
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 3:50:53 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T08:52:12.834Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38875886511
 claimed_at: 2026-10-16T08:50:53.834Z
 decision: null
