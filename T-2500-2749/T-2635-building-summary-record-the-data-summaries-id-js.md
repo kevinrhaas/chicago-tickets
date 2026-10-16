@@ -1,7 +1,7 @@
 ---
 id: T-2635
 title: Building summary record: the data/summaries/<id>.json schema, its compiler into what the Inspect app reads, and a gate refusing a fact with no grade, an Attested fact with no source, a string over its length or an id or path in a string
-state: claimed
+state: review
 epic: PIPELINE
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-502
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 904
 claimed_by: run 10/16/2026, 2:37:12 PM CT
 blocked_on: null
 needs_bake: false
