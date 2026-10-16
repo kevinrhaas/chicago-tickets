@@ -131,3 +131,13 @@ Pictures:
   `keith_house_1808_prairie`: a18-gh-1808-keith-field-front (photograph, front elevation, undated (after 1886)), a18-gh-glessner-front-with-keith (photograph, front elevation, undated (probably 1890s–1920s)), a18-gho-house-under-construction-1887 (photograph, oblique front, 1887), a18-inland-architect-1888-02-glessner-plate (publication plate, oblique front, February 1888 (photograph winter 1887–88)), a18-inland-architect-1888-02-keith-plate (publication plate, front elevation, February 1888 (photograph c. 1887)), a18-rba-ia-1888-keith-1808 (publication plate, front elevation, February 1888), a18-rba-taylor-2135-glessner-ne (photograph, oblique front, c. 1889 (RBA); likely 1887–88), cgn-1804-landowner-1874-double-house (engraving, oblique front, May 1874), cgn-1808-inland-1888-keith-copy (publication plate, front elevation, February 1888 (The Inland Architect, vol. XI no. 1)), a18-gh-florian-1948-northeast-overall (photograph, oblique front, July 1948)
 
 - keith_house_1808_prairie
+
+## Implementation under review (2026-10-16)
+
+[Code PR #853](https://github.com/kevinrhaas/chicago/pull/853) is open. The
+source-cleared façade refinement passed local preflight (895 repository checks)
+after integration with the latest dev changes, and actual published desktop
+and mobile validation. Stage-14 smoke passed 128 checks with zero failures on
+each viewport. Hosted CI is still running; the claim is retained through merge.
+All 16 photographic comparisons are explicitly `differs`, so this refinement
+does not close the photographic acceptance. The PR records the remaining work.
