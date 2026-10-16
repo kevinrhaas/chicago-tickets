@@ -236,3 +236,4 @@ T-2645 — Navigator Inspect Photos tab: images sorted by date with year, captio
 T-2646 — Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile
 T-2647 — Navigator Confidence view app with presets NORMAL, BY GRADE, ATTESTED ONLY and X-RAY, replacing the HUD chip, caret and checkbox menu, with the C hotkey still toggling BY GRADE
 T-2648 — Navigator Confidence view per-grade rows: a show toggle, four curated swatches with a color-blind-safe set, Look (Tint, Ghost, Dither), opacity 0-100 % and a live count per grade
+T-2649 — Confidence view persists and shows a HUD legend: choices saved to localStorage chicago4d.confidence and carried across destinations, and a legend chip under the year chip while the view is on
