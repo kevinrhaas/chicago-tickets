@@ -55,12 +55,12 @@ Today there are two stops before play: Tap to enter, then the Welcome card (HIGH
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
 - [ ] QA-02: wait for ready; no Tap to enter; the device flips to Home; the scene is interactive 900 ms or less after ready.
-- [ ] QA-06: with reduced motion, a crossfade instead of the flip and the ticker in 5 steps.
+- [x] QA-06: with reduced motion, a crossfade instead of the flip and the ticker in 5 steps.
 - [ ] QA-20: VoiceOver announces 'Arrived: Prairie Avenue, 1 July 1904' (and the matching line in 1835 and 1812).
 - [ ] journey.js emits every state transition once, in order, and the smoke passes with the gate button gone.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
-- [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] Works in all four machine skins and with reduced motion.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
