@@ -11,19 +11,19 @@ parent: T-2553
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: run 10/16/2026, 11:15:44 AM CT
+claimed_by: remote session 2026-10-17 (owner-directed; dead claim of run 38928684956 taken past the 3h window, no branch and no PR found)
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38928684956
-claimed_at: 2026-10-16T16:15:44.248Z
+claimed_run: null
+claimed_at: 2026-10-17T00:00:00.000Z
 decision: null
 decision_answer: null
 ---
 
 Glessner v4 in KTX2: the full and light derivatives re-encoded, the light tier capped at 1024, the three-file package repacked with its hashes, the baseline page and report reading the new files, and every Glessner photo-match still matching.
 
-Piece 2 of 2 of **T-2553 — KTX2 in every textured web GLB: UASTC and ETC1S in web_derivatives.sh, the light tier capped at 1024, Glessner v4 repacked, and every photo-match still matches**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
+Piece 2 of 2 of **T-2553 — KTX2 in every textured web GLB: UASTC and ETC1S in web_derivatives.sh, the light tier capped at 1024, Glessner v4 repacked, and every photo-match still matching**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
 ## SPLIT WHILE WORK STOOD ON THE PARENT
 
