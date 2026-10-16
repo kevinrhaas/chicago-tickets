@@ -1,7 +1,7 @@
 ---
 id: T-2589
 title: KTX2 for the frontage timber: the board face's grain modulation derived at convert time and shipped with its normal and orm as KTX2, the canvas pack kept as fallback, captures within tolerance and measure_memory down on phone
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2583
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 6:59:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38897112925
+claimed_at: 2026-10-16T11:59:58.911Z
 decision: null
 decision_answer: null
 ---
