@@ -34,3 +34,7 @@ When T-2605 was split (2026-10-16T20:07:26.893Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38958134513) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Carried from T-2682 (2026-10-16)
+
+- `measure_walk_frames` now names every frame over 50 ms (`longs`). Before T-2682 the walk had two: frame 1655 (this ticket's 90° right turn, ~130 ms at 4x) and frame 2029 (an eye-height "cone change" on a grade, fixed by T-2682). After it, the snap at 1655 read 120 ms in one of three readings and did not appear in the other two, so it depends on timing (whether a pass is pending or due when the snap lands). Read it more than once before calling it fixed or not. Readings: `docs/measurements/t-2682-walk-frames-*-mobile.json`.
