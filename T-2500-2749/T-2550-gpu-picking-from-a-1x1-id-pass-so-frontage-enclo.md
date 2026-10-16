@@ -1,7 +1,7 @@
 ---
 id: T-2550
 title: GPU picking from a 1x1 id pass, so frontage, enclosures, yard and structures release their CPU triangles (about 188 MB on the 1835 phone) and weathering becomes a uniform
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 2:35:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T07:36:03.343Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38866485536
 claimed_at: 2026-10-16T07:35:18.389Z
 decision: null

@@ -29,7 +29,8 @@ T-2567 — Keith's image gate: the independent cameras re-fitted and every match
 T-2570 — Structures batch, aligned compact formats with no shader change: the paint per instance, Int8x4 normals, Uint16 uv, the piece tone in bytes where it is at most 1 (52.8 to 32.4 bytes a vertex on the 1835 phone)
 T-2571 — Structures batch to at most 24 bytes a vertex: pack roughness, confidence, grain and the piece tone into one four-byte attribute and quantize positions to Int16x4 with the offset in the instance matrix, every stride a multiple of four for Metal, with pixel parity
 T-2569 — Compact vertex formats in frontage, enclosures and yard (about 209 MB on the 1835 phone, measured 2026-10-16), so the four layers' GPU geometry falls at least 40 % in the memory meter
-T-2550 — GPU picking from a 1x1 id pass, so frontage, enclosures, yard and structures release their CPU triangles (about 188 MB on the 1835 phone) and weathering becomes a uniform
+T-2572 — GPU picking for frontage, enclosures and yard: a 1x1 integer id pass resolves the tap by chunk and provoking vertex, and the three layers release position and index (about 151 MB on the 1835 phone)
+T-2573 — GPU picking for the structures batches and weathering as a uniform, so structures release position, index and colour (after T-2570 lands the paint per instance)
 T-2551 — KTX2 in the renderer: vendor KTX2Loader and the Basis transcoder from the pinned three tarball, and ship the runtime library sheets GPU-compressed with mip 0 skipped on light
 T-2553 — KTX2 in every textured web GLB: UASTC and ETC1S in web_derivatives.sh, the light tier capped at 1024, Glessner v4 repacked, and every photo-match still matches
 T-2554 — 1904 texture residency: textured houses resident by distance under a per-tier texture budget, uploads paced per frame, and the boot fetch bounded
