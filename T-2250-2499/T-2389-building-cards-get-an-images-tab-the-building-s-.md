@@ -2,7 +2,7 @@
 id: T-2389
 title: Building cards get an Images tab: the building's photos and drawings, credited
 state: done
-epic: UI
+epic: RENDERING
 requested_by: owner
 seen: true
 effort: M

@@ -2,7 +2,7 @@
 id: T-1830
 title: Rebuild the Glessner west-wing roof and recessed north entrance from the elevations and floor plans
 state: done
-epic: PRAIRIE1904
+epic: SOUTH_TIME
 requested_by: owner
 seen: true
 effort: M

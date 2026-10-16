@@ -2,7 +2,7 @@
 id: T-1833
 title: Correct Glessner west-wing rear ridge, south gable and courtyard eave
 state: done
-epic: PRAIRIE1904
+epic: SOUTH_TIME
 requested_by: owner
 seen: true
 effort: M

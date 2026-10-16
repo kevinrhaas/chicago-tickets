@@ -2,7 +2,7 @@
 id: T-1767
 title: Arrive in the selected year with matching welcome, loading facts and jaunts
 state: done
-epic: ARRIVAL
+epic: RENDERING
 requested_by: owner
 seen: true
 effort: M
