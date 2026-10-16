@@ -238,3 +238,4 @@ T-2647 — Navigator Confidence view app with presets NORMAL, BY GRADE, ATTESTED
 T-2648 — Navigator Confidence view per-grade rows: a show toggle, four curated swatches with a color-blind-safe set, Look (Tint, Ghost, Dither), opacity 0-100 % and a live count per grade
 T-2649 — Confidence view persists and shows a HUD legend: choices saved to localStorage chicago4d.confidence and carried across destinations, and a legend chip under the year chip while the view is on
 T-2650 — Confidence view overlays: street names, building labels, people pins and the Jaunt route, each with its own toggle at the foot of the app
+T-2651 — Navigator Move app: one mode picker, Walk, Run, Wagon, Horse or Fly, replacing #s-travel and #s-pace, with one slider for the active mode that keeps the named speeds
