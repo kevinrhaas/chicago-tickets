@@ -1,7 +1,7 @@
 ---
 id: T-2599
 title: The job pool and spatial-batch's partition in a worker: renderers/web/js/jobs/ (module workers, transferables, a synchronous fallback), the partition as a three-free kernel both paths share with byte parity tested in check.sh, and terrain's boot ground tiles batched through it
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2556
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 10:32:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38923880718
+claimed_at: 2026-10-16T15:32:07.671Z
 decision: null
 decision_answer: null
 ---
