@@ -34,3 +34,9 @@ When T-2583 was split (2026-10-16T11:49:21.146Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38894669804) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding from T-2589 (2026-10-16) — the clapboard face is already in KTX2, and the boot needs the wall to use it
+
+- **`clapboard_board_face_normal_gl.ktx2`, `_orm.ktx2` and `_grain.ktx2` are on T-2589's branch** (`steward/t2589-ktx2-frontage-timber`), written by `tools/ktx2_sheets.py` **bottom row first** (`FLIP_V`): a compressed texture uploads with flipY false, so a KTX2 written top-first lands mirrored along v against the flipY'd WebP, and a `normal_gl` mirrored without its green negated is lit upside down across the board. Flipped, the KTX2 path samples the texel the image path did — measured, the frontage captures match within 57-76 dB PSNR. Write the hewn log face (and any orl) the same way, or the wall's maps and the frontage's will disagree.
+- **The boot budget only fits if the wall stops fetching the clapboard WebPs.** With the frontage on KTX2 and the wall still on `normal_gl.webp`/`orm.webp`/`basecolor.webp`, the boot reads **13.273 MB of 13.000** (12.861 before): the WebPs come down anyway. T-2589 waits on this ticket for that reason (SITE-BUDGET § 4d).
+- **The clapboard wall needs no new file.** AO and roughness are the trio's `orm` R and G; the albedo ratio is the grain read back, `L / mean = 1 + (grain * 1.6 - 1) / 0.65` (frontage.js `GRAIN_HEADROOM`, `GRAIN_STRENGTH`; grain spans 107-195 of 255, so L / mean 0.49-1.34, about 0.0097 a level against the orl's 0.0078). Binding those three, the clapboard pair costs the boot about 1 KB over the WebPs it replaces; only the hewn log face needs files of its own.
