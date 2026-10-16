@@ -1,7 +1,7 @@
 ---
 id: T-2676
 title: Frontage built in Node: tools/prebuild_layers.mjs runs the page's own createFrontage for 1835 against terrain.js's own Heightfield and writes its buffers with an input hash, byte-equal to what the page builds (read from the live page), its determinism and stale-input refusal gated in check.sh
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2560
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 1:39:41 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38948055852
+claimed_at: 2026-10-16T18:39:41.577Z
 decision: null
 decision_answer: null
 ---
