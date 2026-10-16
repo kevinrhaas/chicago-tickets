@@ -1,7 +1,7 @@
 ---
 id: T-2533
 title: 1638 Prairie's match record brought to matches: the porch board's open fretwork (item 21) and whatever T-2521 and T-2524 leave open, once both have landed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2522
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 850
 claimed_by: run 10/15/2026, 7:30:01 PM CT
 blocked_on: null
 needs_bake: false
