@@ -62,7 +62,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
-T-2671 — Grade colors gold, silver and bronze: Attested gold, Inferred silver and Reconstructed a clearly browner bronze, everywhere a grade shows: card and dossier dots, people chips, the HUD and the Confidence view's scene tint, in both themes
 T-2611 — Navigator arrival: time-stream captions, a graded and sourced deck of 8-12 landmark years per destination shown as the ticker passes each one (at most 3 on fast loads, 8 on slow)
 T-2612 — Navigator arrival telemetry: Payload, Link and ETA kept, a YEARS TO GO counter added, the six lamps regrouped as STREETS, BUILDINGS, TREES and PEOPLE on the real boot phases, and log lines from the destination deck
 T-2613 — Navigator landing replaces Tap to enter: the last digit clunks into place, an ARRIVED flash, the device flips to Navigator Home and the scene un-blurs, with #gate-btn and the Welcome card retired behind a small js/journey.js state machine
