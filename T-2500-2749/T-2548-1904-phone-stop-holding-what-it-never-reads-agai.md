@@ -1,7 +1,7 @@
 ---
 id: T-2548
 title: 1904 phone: stop holding what it never reads again: the 26.5 MB Glessner GLB in assetBytes, the source glTF beside its batch copy, and decoded images after upload
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 10:28:18 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38845327511
+claimed_at: 2026-10-16T03:28:18.544Z
 decision: null
 decision_answer: null
 ---
