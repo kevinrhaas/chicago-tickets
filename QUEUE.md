@@ -214,3 +214,4 @@ T-2623 — Navigator telemetry strip: a phosphor footer ticking every 800 ms wit
 T-2624 — Navigator string table and glossary terms: every Navigator, HUD and arrival string in one table, the locked terms enforced and the renamed terms of §03 applied
 T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
 T-2626 — HUD year chip and compass-map instrument: an amber LED year chip top left that opens Jump, and the compass and mini map merged into one round instrument top right that opens Map
+T-2627 — HUD target tag and quick column: a 400 ms reticle dwell shows the building's name and distance, tap or E opens Inspect, and the quick column holds Walk/Fly plus a contextual Inspect key, never more than two
