@@ -220,3 +220,4 @@ T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to
 T-2630 — Navigator Jaunts app: Jaunts · Go to · Free roam segments, opened from the Home choices and the rail, the Welcome card's three choices kept permanently
 T-2631 — Navigator Jaunt cards: plate, title, premise, minutes, stops and keepsake state for each route, with a Jaunt in progress pinned on top with Continue that survives a reload
 T-2632 — Navigator Go to cleanup: zero-result chips hidden, titles wrapping to two lines, every row showing distance and bearing, filters Places · People · Shops & work · Viewpoints
+T-2633 — Navigator Go to follows the Confidence view: the 'Include reconstructed roofs' checkbox removed, and results of a hidden grade shown dimmed with the reason
