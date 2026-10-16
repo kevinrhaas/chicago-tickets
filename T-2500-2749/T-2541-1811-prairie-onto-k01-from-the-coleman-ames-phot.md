@@ -1,7 +1,7 @@
 ---
 id: T-2541
 title: 1811 Prairie onto K01 from the Coleman/Ames photograph: its camera solved and match record written, and the draft rebuilt in place as three storeys of rock-faced brown stone — the square front bay carried to the third storey, the entrance block with its deep round arch and broad stair, the oriel over it, and the brick north flank
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1891
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 9:33:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38839547661
+claimed_at: 2026-10-16T02:33:40.915Z
 decision: null
 decision_answer: null
 ---
