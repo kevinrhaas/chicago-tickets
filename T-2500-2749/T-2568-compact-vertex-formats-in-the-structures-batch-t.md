@@ -1,7 +1,7 @@
 ---
 id: T-2568
 title: Compact vertex formats in the structures batch: the colour per instance, normals, uv, roughness and confidence in compact normalized formats, at most 24 bytes a vertex with pixel parity
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2549
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 1:23:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T06:55:37.181Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38859370867
 claimed_at: 2026-10-16T06:23:23.716Z
 decision: null
