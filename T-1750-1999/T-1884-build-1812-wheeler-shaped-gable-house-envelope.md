@@ -1,7 +1,7 @@
 ---
 id: T-1884
 title: Refine 1812 Wheeler shaped-gable house envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 9:25:39 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T02:36:08.909Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38839965012
 claimed_at: 2026-10-16T02:25:39.169Z
 decision: null
