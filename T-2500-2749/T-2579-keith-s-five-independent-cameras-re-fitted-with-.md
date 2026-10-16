@@ -1,7 +1,7 @@
 ---
 id: T-2579
 title: Keith's five independent cameras re-fitted with their solves recorded (Florian 1948, Glessner front, the Inland Architect Glessner plate, the 1965 porch, Reed 1941)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2567
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 5:02:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38884053087
+claimed_at: 2026-10-16T10:02:32.839Z
 decision: null
 decision_answer: null
 ---
