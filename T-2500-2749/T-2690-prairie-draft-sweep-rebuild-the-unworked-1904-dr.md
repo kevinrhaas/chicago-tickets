@@ -1,7 +1,7 @@
 ---
 id: T-2690
 title: Prairie draft sweep: rebuild the unworked 1904 drafts' thin full-height slivers and tower-like bodies into normal period houses until their refine passes
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 911
 claimed_by: run 10/16/2026, 4:27:22 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T22:44:52Z
 claimed_run: null
 claimed_at: 2026-10-16T21:27:22.927Z
 decision: null

@@ -262,5 +262,4 @@ T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIR
 # BLOCKED-OWNER T-2670 (opened 2026-10-16, META) — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80…
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
 T-2685 — Home page destination cards play looping clips captured from each year
-T-2690 — Prairie draft sweep: rebuild the unworked 1904 drafts' thin full-height slivers and tower-like bodies into normal period houses until their refine passes
 T-2691 — Prairie Avenue jogs west at 18th Street: join Sanborn sheet 20 to sheet 28 and clear the roadway seam line
