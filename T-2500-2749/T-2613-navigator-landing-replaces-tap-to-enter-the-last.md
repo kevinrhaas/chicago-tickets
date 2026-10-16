@@ -1,7 +1,7 @@
 ---
 id: T-2613
 title: Navigator landing replaces Tap to enter: the last digit clunks into place, an ARRIVED flash, the device flips to Navigator Home and the scene un-blurs, with #gate-btn and the Welcome card retired behind a small js/journey.js state machine
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-104
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 913
 claimed_by: run 10/16/2026, 4:32:45 PM CT
 blocked_on: null
 needs_bake: false
