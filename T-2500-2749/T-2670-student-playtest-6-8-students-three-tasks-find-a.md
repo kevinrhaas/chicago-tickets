@@ -12,7 +12,7 @@ opened: 2026-10-16
 closed: null
 pr: null
 claimed_by: null
-blocked_on: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2636 (Glessner pilot) have merged
+blocked_on: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
 needs_bake: false
 closed_at: null
 claimed_run: null
