@@ -217,3 +217,4 @@ T-2626 — HUD year chip and compass-map instrument: an amber LED year chip top 
 T-2627 — HUD target tag and quick column: a 400 ms reticle dwell shows the building's name and distance, tap or E opens Inspect, and the quick column holds Walk/Fly plus a contextual Inspect key, never more than two
 T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
 T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
+T-2630 — Navigator Jaunts app: Jaunts · Go to · Free roam segments, opened from the Home choices and the rail, the Welcome card's three choices kept permanently
