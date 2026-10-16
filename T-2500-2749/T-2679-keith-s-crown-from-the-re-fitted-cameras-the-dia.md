@@ -1,7 +1,7 @@
 ---
 id: T-2679
 title: Keith's crown from the re-fitted cameras: the diamond-point band directly under the lattice's moulding, the lattice's lower openings under a deeper head, and the carved boss on the north-east pier
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2587
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 899
 claimed_by: run 10/16/2026, 2:21:32 PM CT
 blocked_on: null
 needs_bake: false
