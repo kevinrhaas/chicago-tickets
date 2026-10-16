@@ -1,7 +1,7 @@
 ---
 id: T-2583
 title: KTX2 for the CPU-packed sheets: frontage's luminance ratio, wall-relief's orl pack and signage's grain derived at convert time and shipped as KTX2, captures at the anchors within the photo-match tolerance (any visible ETC1S loss moved to UASTC), measure_memory showing the sheets' GPU bytes down 4x on phone with the ceiling lowered, and SITE-BUDGET re-measured
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2551
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 6:48:50 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T11:49:26.870Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38894669804
 claimed_at: 2026-10-16T11:48:50.600Z
 decision: null
