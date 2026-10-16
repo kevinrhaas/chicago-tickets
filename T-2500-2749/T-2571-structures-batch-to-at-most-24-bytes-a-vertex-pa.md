@@ -1,7 +1,7 @@
 ---
 id: T-2571
 title: Structures batch to at most 24 bytes a vertex: pack roughness, confidence, grain and the piece tone into one four-byte attribute and quantize positions to Int16x4 with the offset in the instance matrix, every stride a multiple of four for Metal, with pixel parity
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2568
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 3:18:38 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38871344208
+claimed_at: 2026-10-16T08:18:38.533Z
 decision: null
 decision_answer: null
 ---
