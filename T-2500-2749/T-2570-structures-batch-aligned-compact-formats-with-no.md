@@ -1,7 +1,7 @@
 ---
 id: T-2570
 title: Structures batch, aligned compact formats with no shader change: the paint per instance, Int8x4 normals, Uint16 uv, the piece tone in bytes where it is at most 1 (52.8 to 32.4 bytes a vertex on the 1835 phone)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2568
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 865
 claimed_by: run 10/16/2026, 1:55:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T08:03:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38859370867
 claimed_at: 2026-10-16T06:55:51.114Z
 decision: null
