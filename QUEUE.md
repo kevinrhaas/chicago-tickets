@@ -60,6 +60,7 @@ T-2603 — GPU picks stop counting their passes as the visitor's frame
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
+T-2606 — The yards' sward test indexed: suppressesSward scans every fenced interior's bounding box for every lattice slot (2.3 s of a 7.5 s flora profile at 4x/390x780, the largest single flora cost), so a cell grid like flora's circleGrid answers it with identical answers at every slot
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
