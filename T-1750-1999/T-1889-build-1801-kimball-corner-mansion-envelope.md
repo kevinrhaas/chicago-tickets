@@ -1,7 +1,7 @@
 ---
 id: T-1889
 title: Refine 1801 Kimball corner mansion envelope
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 8:59:13 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38836923837
+claimed_at: 2026-10-16T01:59:13.704Z
 decision: null
 decision_answer: null
 ---
