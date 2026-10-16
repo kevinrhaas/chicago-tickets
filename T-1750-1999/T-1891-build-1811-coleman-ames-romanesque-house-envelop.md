@@ -1,7 +1,7 @@
 ---
 id: T-1891
 title: Refine 1811 Coleman-Ames Romanesque house envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-15
 pr: null
 claimed_by: run 10/15/2026, 9:33:26 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T02:33:36.555Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38839547661
 claimed_at: 2026-10-16T02:33:26.818Z
 decision: null
