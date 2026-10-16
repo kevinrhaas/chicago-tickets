@@ -1,7 +1,7 @@
 ---
 id: T-2549
 title: Compact vertex formats in the batch: keep the quantization the bake paid for, about 52 to at most 24 bytes a vertex for structures, frontage, enclosures and yard, with pixel parity
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 1:12:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T06:23:18.342Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38859370867
 claimed_at: 2026-10-16T06:12:16.248Z
 decision: null
