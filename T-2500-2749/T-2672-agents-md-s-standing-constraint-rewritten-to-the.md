@@ -47,8 +47,10 @@ header in chicago-tickets `QUEUE.md`, and any check that refuses a figure outrig
   August 1835, after the 1 July scene date, and are not staged in it (hard rule 3). Black residents,
   families and businesses stay identified on the `community` field.
 - **`review_required`** stays on records as the sentence saying why care was taken
-  (`tools/measure_review_constraint.py` keeps passing). Whether it still blocks a scene from being marked
-  `released` was **not** ruled on: leave that sentence as it is and say so in the PR.
+  (`tools/measure_review_constraint.py` keeps passing), but **it no longer blocks a scene from being
+  marked `released`** — owner, 2026-10-16, asked whether the trust ruling lifts that too: *"Yes lift
+  that"*. Remove the blocking sentence from AGENTS.md and the block from any tool or gate that enforces
+  it (search for `review_required` with `released`), keeping the flag and its prose.
 - Quote both rulings verbatim in AGENTS.md with their date, the way the 2026-09-17 ruling is quoted.
 
 Do this before any figure lands in a scene: T-1789 onward read AGENTS.md.
@@ -56,5 +58,5 @@ Do this before any figure lands in a scene: T-1789 onward read AGENTS.md.
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
 - [ ] AGENTS.md's standing constraint states both 2026-10-16 rulings verbatim and the rules above; no line elsewhere in AGENTS.md still says no human figure is ever drawn.
-- [ ] check.sh passes (the review-constraint measure included); the release rule for `review_required` is unchanged and the PR says so.
+- [ ] check.sh passes (the review-constraint measure included); no tool or gate refuses `released` because a record carries `review_required`, and a test shows a flagged record no longer blocks it.
 - [ ] The chicago-tickets `QUEUE.md` header's standing-rule line matches (pushed with `ticket.mjs sync`).

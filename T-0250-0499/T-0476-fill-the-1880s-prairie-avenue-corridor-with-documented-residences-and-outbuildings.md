@@ -1,17 +1,17 @@
 ---
 id: T-0476
 title: Fill the 1904 Prairie Avenue corridor with documented residences and outbuildings
-state: open
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
 effort: M
 legacy_id: null
 opened: 2026-09-01
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: null
-blocked_on: T-0475
+blocked_on: null
 needs_bake: true
 ---
 
@@ -51,3 +51,7 @@ The owner-requested [T-1837 study](../evidence/T-1837-prairie-1904-architectural
 ## Owner resumed and queued the programme — 2026-10-01
 
 Owner: “Go”, then “Push the tickets to dev queue in one group below”. The inherited construction hold is lifted for all 110 implementation tickets, T-1840–T-1949. They are open in one contiguous, dependency-ordered group at the bottom of the dev queue. Existing unrelated queue rows retain their order. The legacy umbrella tickets remain scope references; execute the named child packages and their dependencies, not duplicate umbrella builds.
+
+## Closed as split — 2026-10-16
+
+Verified on the owner's instruction ("verify the old tickets, maybe they were replaced"). This umbrella's scope was decomposed on 2026-10-01 into the T-1837 Prairie Avenue 1904 architectural programme — T-1837 is `split` into 110 children (T-1840..T-1949, 74 still open, 5 done, 31 split further), the district draft pass T-2159..T-2163, and the Glessner group T-2201..T-2228 with the photo-match pieces that followed. Since then it has stood open only as a scope reference, outside QUEUE.md, so `check` reported it as an open ticket missing from the queue. Nothing in tools/ or data/ hands work to it by id (the mentions are prose citations in liberties.json, a Glessner spec note and an old gate log). The children carry the work; this file keeps the scope and links.

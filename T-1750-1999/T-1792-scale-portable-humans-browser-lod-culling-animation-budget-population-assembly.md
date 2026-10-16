@@ -12,7 +12,7 @@ opened: 2026-09-30
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-1791
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -48,3 +48,7 @@ copying a hero-cost actor hundreds of times. Implementation target:
 
 **Stop condition:** the next programme can add more named residents and ambient street
 population using measured budgets and reusable assets rather than revisiting the pipeline.
+
+## Depends on (2026-10-16)
+
+T-1791 was split into T-2673, T-2674 and T-2675. Do not claim this until **T-2675** (Mark Beaubien inspected and measured in the 1835 scene) has merged: scaling beyond the first person starts from his measured cost.

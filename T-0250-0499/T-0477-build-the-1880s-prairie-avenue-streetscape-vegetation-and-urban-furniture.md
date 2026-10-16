@@ -1,14 +1,14 @@
 ---
 id: T-0477
 title: Build the 1904 Prairie Avenue streetscape, vegetation and urban furniture
-state: open
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
 effort: M
 legacy_id: null
 opened: 2026-09-01
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: null
 blocked_on: null
@@ -59,3 +59,7 @@ Owner, 2026-10-11: "if you have an image you should work towards it until it's a
 Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
 
 No picture of this building was found by address in the Prairie library on 2026-10-11. Before building, search the library (every record, street views and neighbours' plates included) and `data/sources/`. If one turns up, add an `## Image gate` section here naming the structure id as a bullet.
+
+## Closed as split — 2026-10-16
+
+Verified on the owner's instruction ("verify the old tickets, maybe they were replaced"). This umbrella's scope was decomposed on 2026-10-01 into the T-1837 Prairie Avenue 1904 architectural programme — T-1837 is `split` into 110 children (T-1840..T-1949, 74 still open, 5 done, 31 split further), the district draft pass T-2159..T-2163, and the Glessner group T-2201..T-2228 with the photo-match pieces that followed. Since then it has stood open only as a scope reference, outside QUEUE.md, so `check` reported it as an open ticket missing from the queue. Nothing in tools/ or data/ hands work to it by id (the mentions are prose citations in liberties.json, a Glessner spec note and an old gate log). The children carry the work; this file keeps the scope and links.
