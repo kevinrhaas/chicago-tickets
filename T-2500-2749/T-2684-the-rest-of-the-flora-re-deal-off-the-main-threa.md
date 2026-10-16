@@ -1,7 +1,7 @@
 ---
 id: T-2684
 title: The rest of the flora re-deal off the main thread (zones, water, floors, verges and heights read in the worker): spread-pass main-thread ms per pass and moving p95 down at the throttled phone profile, boot to ready quoted before and after
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2605
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 5:53:56 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T23:00:43.453Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38977942976
 claimed_at: 2026-10-16T22:53:56.812Z
 decision: null
