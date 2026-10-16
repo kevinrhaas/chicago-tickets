@@ -1,7 +1,7 @@
 ---
 id: T-2595
 title: KTX2 in the textured Prairie house web GLBs: UASTC for normal, ORM and occlusion, ETC1S for basecolor, sizes capped at 2048 in power-of-two, a KTX2 loader on every GLB path, and measure_web_derivatives refusing a PNG or JPEG in any derivative but the Glessner v4 set
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2553
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 883
 claimed_by: run 10/16/2026, 8:38:15 AM CT
 blocked_on: null
 needs_bake: false
