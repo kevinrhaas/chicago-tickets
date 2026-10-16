@@ -1,7 +1,7 @@
 ---
 id: T-2580
 title: Keith's image gate: the bow's alternating courses and the carving read from the plate, and every match record brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2567
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 5:41:03 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38888248249
+claimed_at: 2026-10-16T10:41:03.571Z
 decision: null
 decision_answer: null
 ---
