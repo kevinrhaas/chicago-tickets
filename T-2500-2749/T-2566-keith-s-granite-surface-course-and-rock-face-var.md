@@ -1,7 +1,7 @@
 ---
 id: T-2566
 title: Keith's granite surface: course and rock-face variation, the checker stones, the upper capital and head-band profiles, and the tint read under neutral light
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1883
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 12:05:17 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38853622130
+claimed_at: 2026-10-16T05:05:17.480Z
 decision: null
 decision_answer: null
 ---
