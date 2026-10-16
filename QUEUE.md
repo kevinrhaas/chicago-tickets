@@ -195,3 +195,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2552 — Prairie from the air: break the ground's even plaid with a world-scale variation map and a distance fade (owner, 2026-10-16)
+T-2563 — Cloud sessions install the gate's Python readers at start (a SessionStart hook), so check.sh is not red for a missing scipy (owner, 2026-10-16)
