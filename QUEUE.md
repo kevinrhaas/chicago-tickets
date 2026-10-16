@@ -257,3 +257,4 @@ T-2666 — Navigator teacher handout: Guide › For teachers prints the seven to
 T-2667 — Evidence hub becomes Guide › About this destination: ten topics folded into four cards, How we grade, Sources, Liberties and What lived and grew here, with the order book behind Researcher mode
 T-2668 — Visitor-UI lint: check.sh fails on file paths, ids, snake_case, 'tier', 'ticket' or 'order book' in visitor strings, with Researcher-mode strings exempt
 T-2669 — Reading-level check: summaries, facts, captions and tour bubbles score Flesch-Kincaid grade 9 or lower in check.sh, with the sentence and length limits of §03
+T-2670 — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80 % or more succeeding unaided
