@@ -35,6 +35,14 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
+`measure_walk_frames --only mobile --tiers full --moves walk,turn --throttle 4 --source --verify`, before and after on the same runner: the walk's right-turn one-frame pass (frame 1655) is gone and the snap is dealt as jump passes, the turn has no flora frame over 50 ms, and `--verify` still finds every spread pass identical to the one-frame pass.
+
+## Finding (T-2683's run, 2026-10-16, PR #903)
+
+- dev at 115f9d096: frame 1655 of the walk is a one-frame pass, 140.5 ms flora; 10 passes dealt in one frame. After: the snap is 2 jump passes landing in 20-22 frames in every one of six readings; walk flora max 13.7-15.8 ms in three of four walk runs.
+- Not everything: one slow after-run (median 3.3 ms) had a 58 ms frame at 2169, a SPREAD pass drained late by SPREAD_MAX_MS, not a jump. Before-runs drain 0-5 such passes too. That is T-2684's (the deal itself off the main thread).
+- Between: about 10 frames a pass after a 90 degree snap, the newly faced side beyond CONE_KEEP_M (3.5 m) shows bare ground texture, then the plants land at once (the same plants, --verify).
+
 ## Carried from T-2682 (2026-10-16)
 
 - `measure_walk_frames` now names every frame over 50 ms (`longs`). Before T-2682 the walk had two: frame 1655 (this ticket's 90° right turn, ~130 ms at 4x) and frame 2029 (an eye-height "cone change" on a grade, fixed by T-2682). After it, the snap at 1655 read 120 ms in one of three readings and did not appear in the other two, so it depends on timing (whether a pass is pending or due when the snap lands). Read it more than once before calling it fixed or not. Readings: `docs/measurements/t-2682-walk-frames-*-mobile.json`.
