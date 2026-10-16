@@ -1,7 +1,7 @@
 ---
 id: T-2578
 title: Keith's deck behind the return: the cowl ventilator the 1887-89 pictures show, and the parapet behind the rear pinnacle ruled from the pictures that see it
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2567
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 872
 claimed_by: run 10/16/2026, 4:12:10 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T10:33:39Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38878290418
 claimed_at: 2026-10-16T09:12:10.817Z
 decision: null
