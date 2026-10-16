@@ -1,0 +1,32 @@
+---
+id: T-2646
+title: Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile
+state: open
+epic: RENDERING
+requested_by: owner
+seen: true
+effort: M
+legacy_id: NAV-603
+parent: null
+opened: 2026-10-16
+closed: null
+pr: null
+claimed_by: null
+blocked_on: null
+needs_bake: false
+closed_at: null
+claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
+---
+
+Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile.
+
+## FILED OVER THE BUDGET, AND HERE IS THE REASON
+
+The ticket budget refused this: the queue stands at 156 lines, at or over its ceiling of 140. It was filed anyway, on this reason:
+
+> owner 2026-10-16: file every ticket the Navigator Mk II design doc needs, as one band
+
+**Acceptance:** (state it before working — the definition of done, never weakened to pass)
