@@ -1,7 +1,7 @@
 ---
 id: T-2682
 title: The ground cone stops counting eye height and pitch as a new cone: walking up a grade no longer drops the spread pass and deals both flora lattices in one frame (the walk's long flora task at frame 2029), read with measure_walk_frames at the throttled phone profile, spread and one-frame passes still identical
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2605
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 901
 claimed_by: run 10/16/2026, 3:07:40 PM CT
 blocked_on: null
 needs_bake: false
