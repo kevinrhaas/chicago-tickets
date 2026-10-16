@@ -1,7 +1,7 @@
 ---
 id: T-2601
 title: The flora lattice re-deal in the job pool, double-buffered so the old lattice draws until the new one arrives, with measure_walk_frames at the throttled phone profile: no flora or spatial-batch long task over 50 ms in walk and turn, moving p95 down, boot to ready quoted before and after
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2556
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 12:46:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T17:54:27.427Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38941607051
 claimed_at: 2026-10-16T17:46:13.885Z
 decision: null
