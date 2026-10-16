@@ -46,6 +46,7 @@ T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relativ
 T-2581 — Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
 T-2587 — Keith's crown and loggia from the re-fitted cameras: the diamond-point band under the lattice, the north-east boss, a wider north-east pier, taller loggia columns
 T-2593 — The KTX2 drop-in sheets are mirrored along v: the roof relief, the 1904 street surfaces and the muck written top row first, so three lays them upside down against their WebPs
+T-2594 — T-2582's roof and 1904 street KTX2s are written top row first, so they land mirrored along v against their WebPs and the normal_gl relief is lit inverted across the course: rewrite them bottom row first as T-2589's FLIP_V does, and check the shingle relief against the WebP path
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
