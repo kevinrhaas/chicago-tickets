@@ -1,7 +1,7 @@
 ---
 id: T-2531
 title: 1621 Prairie's last drawn differences — the entrance arch's curved extrados and deeper recess, the light's shelf over the panel, the basement lights' voussoir heads — and the Building Budget match record brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2527
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 852
 claimed_by: run 10/15/2026, 8:36:10 PM CT
 blocked_on: null
 needs_bake: false
