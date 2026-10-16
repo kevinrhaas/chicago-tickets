@@ -1,7 +1,7 @@
 ---
 id: T-2551
 title: KTX2 in the renderer: vendor KTX2Loader and the Basis transcoder from the pinned three tarball, and ship the runtime library sheets GPU-compressed with mip 0 skipped on light
-state: open
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T09:48:11.791Z
 claimed_run: null
 claimed_at: null
 decision: null
