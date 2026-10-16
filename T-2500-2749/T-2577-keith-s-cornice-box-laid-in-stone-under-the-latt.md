@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,7 @@ When T-2567 was split (2026-10-16T08:52:05.875Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38875886511) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. The flat roof's street cornice box (soffit, fascia and top, E to E + 0.12 m) is dressed stone wherever the stone finish stands, so no brown band shows under the lattice; baked with `bake.sh --only keith_house_1808_prairie`.
+2. Every reference view of `keith_house_1808_prairie` re-rendered from the new GLB; the cornice-band difference marked `fixed` where the view shows it, and the T-2565/T-2566 "not yet compared at this view's scale" items compared and resolved (`fixed`, or rewritten as a concrete `open` difference) in the four overview views.

@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,7 @@ When T-2567 was split (2026-10-16T08:52:05.875Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38875886511) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. The cowl ventilator on the deck behind the north return, as the 1887 construction view and the Taylor 2135 views show it, built (at the tier the pictures carry, liberty recorded) and baked.
+2. The parapet behind the rear pinnacle ruled from every picture that sees that corner: built as shown, or the difference set `not shown` in each view that cannot see it, with the ruling written in the match records.

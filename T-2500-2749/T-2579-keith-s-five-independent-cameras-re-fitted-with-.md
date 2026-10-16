@@ -33,4 +33,6 @@ When T-2567 was split (2026-10-16T08:52:05.875Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38875886511) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. The five cameras named in the title re-fitted (control points, residuals and scale in each `solve`), so the 'independent camera calibration retains visible residuals' difference is `fixed` in each, or replaced by a concrete building difference the better fit exposes.
