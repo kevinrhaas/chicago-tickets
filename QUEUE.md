@@ -60,7 +60,6 @@ T-2531 — 1621 Prairie's last drawn differences — the entrance arch's curved 
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-2534 — 1637 Prairie's principal storey from the engraving: its sashes about 2.9 m tall on the front, the swell bay and the wing, and the wing's French window to its floor over a bowed balcony about 0.9 m high
 T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record, camera and match record, and both match records brought to matches (after the two pieces before it)
-T-2538 — 1801 Prairie's massing from J. W. Taylor's c. 1895 photograph: its camera solved and match record written, and the draft's heights, corner tower and cone, south gable and 18th Street flank with its east turret rebuilt in place to what the photograph shows
 T-2539 — 1801 Prairie onto K01 in Bedford stone: the kit lays an all-stone house and carries a round corner tower whose cone stands over the main roof, and the Kimball house moves onto it with the photograph's openings, entrance arches and curved stair (after the piece before it)
 T-2540 — 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
 T-1890 — Finish 1801 Kimball corner mansion architecture
