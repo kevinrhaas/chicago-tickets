@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -42,3 +42,14 @@ The memo with numbers at both viewports, the kill criteria answered one by one, 
 
 Filed together on the owner's ask of 2026-10-16, in dependency order: T-2546 · T-2547 · T-2548 · T-2549 · T-2550 · T-2551 · T-2553 · T-2554 · T-2555 · T-2556 · T-2557 · T-2558. Memory first (T-2546 measures; T-2547, T-2548, T-2549, T-2550 cut CPU and geometry; T-2551, T-2553, T-2554 cut textures), then smoothness (T-2555, T-2556, T-2557), then the forward path (T-2558). Each invisible piece is exempt under AGENTS exemption 1 (an owner-reported bug: mobile memory crashes and jitter), and its PR says so.
 
+## Decision needed
+
+**Question:** RENDERING.md section 8 keeps Track 2 (the WebGPU renderer) gated. May a run start H0, the no-build WebGPU bake-off on the Glessner block, with its kill criteria written into section 8 first?
+
+- (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument
+- (b) Yes, now, in parallel with the memory group
+- (c) Not yet: finish the memory and smoothness group first and ask again
+
+**Recommendation:** (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument — The spike's whole value is a fair measured comparison, and only T-2546 makes memory comparable; a no-build spike in its own directory never touches walk/.
+
+**Asked:** 2026-10-15. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.

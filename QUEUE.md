@@ -37,6 +37,7 @@ T-2555 — A frame governor: dynamic resolution under the Sharpness ceiling, ste
 T-2556 — A worker job system for procedural geometry: a module-worker pool with transferables, first moving the flora lattice re-deal and spatial-batch chunking off the main thread
 T-2557 — GPU-procedural near grass: the near ring dealt in the vertex shader from the lattice's own hash, the heightfield and the ground masks, with no CPU lattice and no re-deal on move
 T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first
+#   ? T-2558 DECISION: RENDERING.md section 8 keeps Track 2 (the WebGPU renderer) gated. May a run start H0, the no-build WebGPU bake-off on the Glessner block, with its kill criteria written into section 8 first? — (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument  (b) Yes, now, in parallel with the memory group  (c) Not yet: finish the memory and smoothness group first and ask again — recommended: (a)
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
