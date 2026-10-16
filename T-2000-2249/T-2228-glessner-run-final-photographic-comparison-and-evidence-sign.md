@@ -298,3 +298,8 @@ Newer 1637 Prairie work is being integrated before the final exact-commit CI
 and full desktop/mobile matrix. The PR remains a draft. This is a correction
 within the open comparison audit; the ticket's PR frontmatter stays unset so
 this partial correction cannot automatically close T-2228.
+
+
+## Owner front-entry photographic pass — 2026-10-16
+
+Next priority after the pending roof/window correction PR #851: match the supplied front-door close-up against historical entry photographs and HABS doorway details. The owner requests (1) the angular lower side-stone/reveal profile, (2) the trapezoidal rather than rectangular header stone, (3) one step built within the entrance, and (4) a deeper photographic pass at the recessed decorative panel above the door. Follow-up clarification: the door is recessed; determine whether the lower sides flare/bow outward around that recess rather than assuming a concave indentation from the front view alone. Use oblique photographs or measured sections to resolve the depth profile. Record bounded reconstruction where depth is uncertain. Do not import the modern Christmas wreath into the July 1904 scene. The new close-up is diagnostic evidence, not permission to redistribute third-party pixels or claim its modern condition as an exact 1904 survey. Keep T-2228 active until the photographic discrepancies are resolved.
