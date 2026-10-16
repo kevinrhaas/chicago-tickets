@@ -24,7 +24,9 @@
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-2579 — Keith's five independent cameras re-fitted with their solves recorded (Florian 1948, Glessner front, the Inland Architect Glessner plate, the 1965 porch, Reed 1941)
-T-2580 — Keith's image gate: the bow's alternating courses and the carving read from the plate, and every match record brought to matches
+T-2584 — Keith's bow laid deep and thin in turn, as the 1888 photographs lay it
+T-2585 — Keith's loggia carving read from the 1888 plate: the capitals' band, the egg row and the balcony panel's foliage
+T-2586 — Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558 waits on a ruling). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 T-2575 — Structures batch positions as Int16x4 with the dequantize offset and scale in each instance matrix, and every reader of batch positions (backingTriangles, localBoxes, the occludesView matrix check, picking) on the composed matrix, with pixel parity
 T-2572 — GPU picking for frontage, enclosures and yard: a 1x1 integer id pass resolves the tap by chunk and provoking vertex, and the three layers release position and index (about 151 MB on the 1835 phone)
