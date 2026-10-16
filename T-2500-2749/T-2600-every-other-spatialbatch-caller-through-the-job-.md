@@ -1,7 +1,7 @@
 ---
 id: T-2600
 title: Every other spatialBatch caller through the job pool: streets, yards, railway, building cells and terrain's re-batch of the distant ground, each awaiting it with identical output
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2556
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 893
 claimed_by: run 10/16/2026, 12:22:37 PM CT
 blocked_on: null
 needs_bake: false
