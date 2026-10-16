@@ -247,3 +247,4 @@ T-2656 — Navigator Settings app: Display (brightness, field of view, road visi
 T-2657 — Researcher mode: a Settings › About switch, off by default, that brings back the order book, ticket references, source ids, file paths and the full 'Why this default' essays the visitor UI no longer carries
 T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
 T-2659 — Navigator sound, on by default: the ticker's flap ticks capped at 12 a second, the landing clunk, relay clicks and a hum while the Navigator is open, per-destination ambience, and Settings › Sound with master, effects and ambience
+T-2660 — Field log on the device: landed, first inspect, tabs opened, Show me, Jaunts started and finished, Tour steps and Confidence presets counted in localStorage only, shown in Settings › About with a Clear button, never sent
