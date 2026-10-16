@@ -35,3 +35,8 @@ When T-2553 was split (2026-10-16T13:38:06.214Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38908068294) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. No web derivative of a textured Prairie house carries a PNG or JPEG image: every one ships `KHR_texture_basisu` (UASTC on normal/ORM/occlusion, ETC1S on basecolor/emissive), and `tools/measure_web_derivatives.py` refuses an image in any derivative except the Glessner v4 set, which it names with T-2596.
+2. Every such GLB still loads on every path: the scene's loader on a GPU with no block format and under `?ktx2=0` (a KTX2 loader is always handed to a GLTFLoader that may meet one), the photo-match harness, and the smoke parts covering the diff with zero pageerrors.
+3. The look holds: each house rendered from its old JPEG derivative and its KTX2 derivative at the same camera, PSNR quoted per house; any material that needs UASTC instead of ETC1S to hold is named.
+4. GPU texture bytes for the 20 houses, before and after, and the published payload bytes before and after, stated.
