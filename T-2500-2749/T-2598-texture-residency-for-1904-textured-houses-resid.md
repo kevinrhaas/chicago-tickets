@@ -1,7 +1,7 @@
 ---
 id: T-2598
 title: Texture residency for 1904: textured houses resident by distance with hysteresis under a per-tier texture budget, uploads paced per frame, a scripted Prairie Avenue walk at phone profile held under the budget, and captures at the Glessner and street-eye stands unchanged
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2554
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 888
 claimed_by: run 10/16/2026, 10:18:10 AM CT
 blocked_on: null
 needs_bake: false
