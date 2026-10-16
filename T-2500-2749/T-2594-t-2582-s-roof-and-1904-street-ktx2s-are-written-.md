@@ -31,3 +31,7 @@ T-2582's roof and 1904 street KTX2s are written top row first, so they land mirr
 - Measured on the frontage: with its three sheets written bottom row first, the KTX2 captures match the image path at 57-76 dB PSNR, the residual only compression noise on the timber (`/tmp` shots on the T-2589 PR). Top-first files would mirror every board's figure.
 - For `normal_gl`, a v-mirror without negating green inverts the relief along v. `roof-relief.js` derives its UV in the shader; check which way its frame runs before deciding whether the roofs read it.
 - Effort: S. Re-run `tools/ktx2_sheets.py` with the roof and street sheets in `FLIP_V` (or flip every sheet, and drop the set), then compare captures on and off `?ktx2=0`.
+
+## Landed with T-2593 (2026-10-16)
+
+The same defect, filed from T-2589's side. PR #885 writes every drop-in bottom row first (roofs, the 1904 street sheets, the muck and the sand). `tools/ktx2_sheets.py --rows` read 26 of 26 drop-ins top first before it and none after. The desktop close-fresh roof band reads 49.19 dB between `?ktx2=0` and KTX2, where it read 29-30 dB before.
