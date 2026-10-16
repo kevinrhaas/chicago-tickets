@@ -34,3 +34,5 @@ When T-1884 was split (2026-10-16T02:36:03.830Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38839965012) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1812 stands on K01 under its draft id, refined in place (no draft copy left), from Albert Levy's photograph through a solved camera (`data/reference_views/wheeler_house_1812_prairie/levy_front.json`): the sheet's plan, three storeys over a raised basement at the photograph's heights, the south projection with its openings, the entrance on the north, and the whole front carried up as a shaped Flemish gable (never a triangular one) with finial, kneelers and attic light; its match record written with every remaining difference named for T-2544/T-2545; liberty filed; the gate's K01 checks green and the smoke's stage-1 legs at both viewports green. Shipped in PR #855.

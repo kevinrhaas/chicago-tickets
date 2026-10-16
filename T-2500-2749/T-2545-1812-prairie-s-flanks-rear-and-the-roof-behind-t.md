@@ -34,3 +34,9 @@ When T-1884 was split (2026-10-16T02:36:03.830Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38839965012) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Image gate
+
+The building closes here (AGENTS.md rule 11): every view below must be `matches`.
+
+- wheeler_house_1812_prairie
