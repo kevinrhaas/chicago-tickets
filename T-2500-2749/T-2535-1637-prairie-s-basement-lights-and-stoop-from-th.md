@@ -1,7 +1,7 @@
 ---
 id: T-2535
 title: 1637 Prairie's basement lights and stoop from the engraving: two round-headed lights under the wing, one nearly a storey tall under the bay, and the flight's foot argued against the fence's first post
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2449
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 848
 claimed_by: run 10/15/2026, 6:40:28 PM CT
 blocked_on: null
 needs_bake: false
