@@ -219,3 +219,4 @@ T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewpo
 T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
 T-2630 — Navigator Jaunts app: Jaunts · Go to · Free roam segments, opened from the Home choices and the rail, the Welcome card's three choices kept permanently
 T-2631 — Navigator Jaunt cards: plate, title, premise, minutes, stops and keepsake state for each route, with a Jaunt in progress pinned on top with Continue that survives a reload
+T-2632 — Navigator Go to cleanup: zero-result chips hidden, titles wrapping to two lines, every row showing distance and bearing, filters Places · People · Shops & work · Viewpoints
