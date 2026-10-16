@@ -1,7 +1,7 @@
 ---
 id: T-2591
 title: Frame governor in the loop: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing and halved shadow refresh while moving on light, its state in __chicago4d and Settings, Fixed, and still frames unchanged
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2555
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 878
 claimed_by: run 10/16/2026, 6:50:00 AM CT
 blocked_on: null
 needs_bake: false
