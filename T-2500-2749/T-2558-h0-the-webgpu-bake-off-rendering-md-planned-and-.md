@@ -55,3 +55,5 @@ Filed together on the owner's ask of 2026-10-16, in dependency order: T-2546 · 
 **Asked:** 2026-10-15. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Owner answer (2026-10-16, via Manager):** (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument
+
+**Owner confirmed (2026-10-16, project thread):** "2558 DECISION should be A". Its condition is met: T-2546's memory meter landed (PR 864, done 2026-10-16), so H0 may be claimed in its band 1 slot; write the kill criteria into RENDERING.md section 8 first.
