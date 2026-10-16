@@ -1,7 +1,7 @@
 ---
 id: T-2574
 title: Structures batch scalars packed into one four-byte attribute: roughness, confidence, grain and the piece tone as Uint8x4, read by the roughness, wall-relief and confidence patches and the shared depth material, at most 24 bytes a vertex with pixel parity
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2571
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 3:21:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38871344208
+claimed_at: 2026-10-16T08:21:07.579Z
 decision: null
 decision_answer: null
 ---
