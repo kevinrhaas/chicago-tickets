@@ -1,7 +1,7 @@
 ---
 id: T-2615
 title: Navigator portal continuity: an arrival within 10 s of the Observatory's transfer opens with the ring's tail still expanding, so the jump reads as one shot
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-106
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 898
 claimed_by: run 10/16/2026, 3:11:47 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T20:49:39Z
 claimed_run: null
 claimed_at: 2026-10-16T20:11:47.014Z
 decision: null

@@ -1,7 +1,7 @@
 ---
 id: T-2679
 title: Keith's crown from the re-fitted cameras: the diamond-point band directly under the lattice's moulding, the lattice's lower openings under a deeper head, and the carved boss on the north-east pier
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2587
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 899
 claimed_by: run 10/16/2026, 2:21:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T20:48:29Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38952732422
 claimed_at: 2026-10-16T19:21:32.675Z
 decision: null

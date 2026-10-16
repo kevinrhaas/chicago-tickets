@@ -40,7 +40,6 @@ T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the th
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-2586 — Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
-T-2679 — Keith's crown from the re-fitted cameras: the diamond-point band directly under the lattice's moulding, the lattice's lower openings under a deeper head, and the carved boss on the north-east pier
 T-2680 — Keith's north-east corner pier widened as the Glessner-front view shows it, read together with Keith's placement against Glessner (the camera fits re-solved on the moved pinnacle)
 T-2681 — Keith's loggia columns taller as the 1965 porch view shows them, the beam raised under a shallower balcony front and the south pair set further south
 T-2228 — Glessner: run final photographic comparison and evidence sign-off
@@ -68,7 +67,6 @@ T-2611 — Navigator arrival: time-stream captions, a graded and sourced deck of
 T-2612 — Navigator arrival telemetry: Payload, Link and ETA kept, a YEARS TO GO counter added, the six lamps regrouped as STREETS, BUILDINGS, TREES and PEOPLE on the real boot phases, and log lines from the destination deck
 T-2613 — Navigator landing replaces Tap to enter: the last digit clunks into place, an ARRIVED flash, the device flips to Navigator Home and the scene un-blurs, with #gate-btn and the Welcome card retired behind a small js/journey.js state machine
 T-2614 — Navigator gesture gating without a gate: audio and pointer lock start on the first Home choice, canvas tap or Navigator control, desktop shows CLICK TO ENGAGE LOOK until lock, and iOS Safari logs no autoplay errors
-T-2615 — Navigator portal continuity: an arrival within 10 s of the Observatory's transfer opens with the ring's tail still expanding, so the jump reads as one shot
 T-2616 — Navigator arrival failure state: 'The jump stalled somewhere around 1950.' with TRY AGAIN and BACK TO THE OBSERVATORY, and the error detail collapsed under 'Details for your teacher'
 T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
 T-2618 — Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
