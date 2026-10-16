@@ -42,7 +42,9 @@ T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the th
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-2586 — Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
-T-2587 — Keith's crown and loggia from the re-fitted cameras: the diamond-point band under the lattice, the north-east boss, a wider north-east pier, taller loggia columns
+T-2679 — Keith's crown from the re-fitted cameras: the diamond-point band directly under the lattice's moulding, the lattice's lower openings under a deeper head, and the carved boss on the north-east pier
+T-2680 — Keith's north-east corner pier widened as the Glessner-front view shows it, read together with Keith's placement against Glessner (the camera fits re-solved on the moved pinnacle)
+T-2681 — Keith's loggia columns taller as the 1965 porch view shows them, the beam raised under a shallower balcony front and the south pair set further south
 T-2228 — Glessner: run final photographic comparison and evidence sign-off
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
 T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record, camera and match record, and both match records brought to matches (after the two pieces before it)
