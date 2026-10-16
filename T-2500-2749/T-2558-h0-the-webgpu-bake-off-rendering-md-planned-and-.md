@@ -1,7 +1,7 @@
 ---
 id: T-2558
 title: H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 910
 claimed_by: run 10/16/2026, 3:33:15 PM CT
 blocked_on: null
 needs_bake: false
