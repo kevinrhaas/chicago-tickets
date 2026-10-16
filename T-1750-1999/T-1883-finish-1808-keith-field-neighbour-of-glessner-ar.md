@@ -1,7 +1,7 @@
 ---
 id: T-1883
 title: Finish 1808 Keith-Field neighbour of Glessner architecture
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-01
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-1882 — same house, one PR at a time (owner, 2026-10-10); T-1883 finishes the envelope T-1882 builds
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
