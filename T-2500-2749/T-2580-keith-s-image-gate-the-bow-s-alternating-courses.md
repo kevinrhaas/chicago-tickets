@@ -43,3 +43,8 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 Carried from T-2567/T-1883: this piece closes the house, so `ticket.mjs done` refuses it until every view of the building below is `matches`.
 
 - keith_house_1808_prairie
+
+## Finding from T-2577 (2026-10-16)
+
+`nickel-1967` reads the checker band under the cornice as a narrower band (about two-thirds of the build's height) of finer, diagonal lozenge units, where the build lays T-2566's staggered rock blocks. Read it against the 1888 plate before ruling; it is written as `open` in that view's match record.
+
