@@ -1,7 +1,7 @@
 ---
 id: T-1883
 title: Finish 1808 Keith-Field neighbour of Glessner architecture
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 12:02:57 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38852568409
+claimed_at: 2026-10-16T05:02:58.238Z
 decision: null
 decision_answer: null
 ---
