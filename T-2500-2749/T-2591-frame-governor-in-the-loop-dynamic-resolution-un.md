@@ -1,7 +1,7 @@
 ---
 id: T-2591
 title: Frame governor in the loop: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing and halved shadow refresh while moving on light, its state in __chicago4d and Settings, Fixed, and still frames unchanged
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2555
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 878
 claimed_by: run 10/16/2026, 6:50:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T13:27:25Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38892038527
 claimed_at: 2026-10-16T11:50:00.939Z
 decision: null
