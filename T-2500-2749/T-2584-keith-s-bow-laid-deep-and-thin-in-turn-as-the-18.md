@@ -1,7 +1,7 @@
 ---
 id: T-2584
 title: Keith's bow laid deep and thin in turn, as the 1888 photographs lay it
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2580
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 875
 claimed_by: run 10/16/2026, 5:42:40 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T11:55:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38888248249
 claimed_at: 2026-10-16T10:42:40.050Z
 decision: null
