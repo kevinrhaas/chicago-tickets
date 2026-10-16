@@ -1,7 +1,7 @@
 ---
 id: T-2572
 title: GPU picking for frontage, enclosures and yard: a 1x1 integer id pass resolves the tap by chunk and provoking vertex, and the three layers release position and index (about 151 MB on the 1835 phone)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2550
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 868
 claimed_by: run 10/16/2026, 2:36:08 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T12:42:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38866485536
 claimed_at: 2026-10-16T07:36:08.546Z
 decision: null
