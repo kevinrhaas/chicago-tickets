@@ -1,7 +1,7 @@
 ---
 id: T-2610
 title: Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 2:37:31 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-16T19:37:31.612Z
 decision: null
 decision_answer: null
 ---
