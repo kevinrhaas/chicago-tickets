@@ -1,7 +1,7 @@
 ---
 id: T-2692
 title: Ground tiles built in Node: tools/prebuild_layers.mjs --layer ground runs terrain.js's own loadGlbMesh, conformGroundToField, tileGround and the spatial-batch partition for 1835 and writes each tile's pieces with an input hash, byte-equal to the page's ground batches (read from the live page), its determinism and stale-input refusal gated in check.sh
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2678
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 5:58:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38977949584
+claimed_at: 2026-10-16T22:58:20.479Z
 decision: null
 decision_answer: null
 ---
