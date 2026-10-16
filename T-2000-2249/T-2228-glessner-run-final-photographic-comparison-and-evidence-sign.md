@@ -283,3 +283,18 @@ height estimate is not a survey. The terrace terminal/coping join, west-court
 access levels, other opening/ornament and material/lighting differences also
 remain open. Keep T-2228 claimed/active after this correction PR merges; do
 not close the image gate on technical validation alone.
+
+
+### Correction checkpoint on GitHub, 2026-10-16
+
+[Draft correction PR #851](https://github.com/kevinrhaas/chicago/pull/851)
+preserves commit f43f24f6, including the first dev integration. Its complete
+preflight passes all 895 checks. The integrated mobile courtyard screenshot
+was directly reviewed and passes with 101 draw calls and 542,838 triangles.
+A supplemental check of the same eight window-center picks puts their vertical
+centers within 0.81 ft of the conditional photo estimates; no heights changed.
+
+Newer 1637 Prairie work is being integrated before the final exact-commit CI
+and full desktop/mobile matrix. The PR remains a draft. This is a correction
+within the open comparison audit; the ticket's PR frontmatter stays unset so
+this partial correction cannot automatically close T-2228.
