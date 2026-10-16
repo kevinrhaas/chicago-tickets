@@ -1,7 +1,7 @@
 ---
 id: T-2534
 title: 1637 Prairie's principal storey from the engraving: its sashes about 2.9 m tall on the front, the swell bay and the wing, and the wing's French window to its floor over a bowed balcony about 0.9 m high
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2449
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 847
 claimed_by: run 10/15/2026, 6:10:57 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T03:35:44Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38820834518
 claimed_at: 2026-10-15T23:10:57.679Z
 decision: null
