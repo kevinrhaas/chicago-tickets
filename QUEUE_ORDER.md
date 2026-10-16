@@ -58,3 +58,7 @@
 #   2026-09-13  SOUTH THROUGH TIME TO THE TOP, and every unplaced ticket ranked. The owner:
 
 # 2026-10-13 — Owner: "Keep going" after T-2470 merged and the T-2219 photographed junction finding was recorded. Take T-2219 in the existing Glessner slot, then resume T-2217 → T-2218 → T-2220; preserve one Glessner PR at a time.
+
+# 2026-10-16 — Retain T-1883 at its existing owner-directed top position after chicago#853
+# merged. Removed only the duplicate bottom line appended by `ticket.mjs unblock`;
+# photographic acceptance remains open. No other ticket was reordered.
