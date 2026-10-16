@@ -1,7 +1,7 @@
 ---
 id: T-2578
 title: Keith's deck behind the return: the cowl ventilator the 1887-89 pictures show, and the parapet behind the rear pinnacle ruled from the pictures that see it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2567
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 872
 claimed_by: run 10/16/2026, 4:12:10 AM CT
 blocked_on: null
 needs_bake: true
