@@ -33,6 +33,7 @@ T-2551 — KTX2 in the renderer: vendor KTX2Loader and the Basis transcoder from
 T-2553 — KTX2 in every textured web GLB: UASTC and ETC1S in web_derivatives.sh, the light tier capped at 1024, Glessner v4 repacked, and every photo-match still matches
 T-2554 — 1904 texture residency: textured houses resident by distance under a per-tier texture budget, uploads paced per frame, and the boot fetch bounded
 T-2555 — A frame governor: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing where 60 cannot hold, and shadow refresh halved while moving
+T-2556 — A worker job system for procedural geometry: a module-worker pool with transferables, first moving the flora lattice re-deal and spatial-batch chunking off the main thread
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
