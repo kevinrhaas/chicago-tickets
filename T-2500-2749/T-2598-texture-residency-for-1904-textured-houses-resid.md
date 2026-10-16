@@ -1,7 +1,7 @@
 ---
 id: T-2598
 title: Texture residency for 1904: textured houses resident by distance with hysteresis under a per-tier texture budget, uploads paced per frame, a scripted Prairie Avenue walk at phone profile held under the budget, and captures at the Glessner and street-eye stands unchanged
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2554
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 10:18:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38920829153
+claimed_at: 2026-10-16T15:18:11.028Z
 decision: null
 decision_answer: null
 ---
