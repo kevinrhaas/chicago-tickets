@@ -1,7 +1,7 @@
 ---
 id: T-2616
 title: Navigator arrival failure state: 'The jump stalled somewhere around 1950.' with TRY AGAIN and BACK TO THE OBSERVATORY, and the error detail collapsed under 'Details for your teacher'
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-107
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 0
 claimed_by: run 10/16/2026, 2:37:35 PM CT
 blocked_on: null
 needs_bake: false
