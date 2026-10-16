@@ -1,7 +1,7 @@
 ---
 id: T-2585
 title: Keith's loggia carving read from the 1888 plate: the capitals' band, the egg row and the balcony panel's foliage
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2580
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 6:10:18 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38891382508
+claimed_at: 2026-10-16T11:10:18.946Z
 decision: null
 decision_answer: null
 ---
