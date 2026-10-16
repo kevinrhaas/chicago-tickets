@@ -100,6 +100,25 @@ The 1941-1967 pictures are evidence of their own dates (AGENTS.md rule 11): argu
 
 `cgn-1804-landowner-1874-double-house` (and the same engraving as `a18-gh-hitchcock-galloway-1874-sketch`) shows the 1874 Hitchcock/Galloway double house that stood here **before** the Keith house was built in 1886. It is not a picture of this building: do not build toward it or solve a camera for it.
 
+## Owner authorization and dependency check (2026-10-16)
+
+Owner, in the interactive ticket-status thread, after being told that the 1888
+Inland Architect Keith plate's scan remained `check_required`:
+
+> Ok to use that image, go ahead and proceed on that ticket and merge to green
+
+This authorizes using that 1888 plate for the model and its photographic comparison,
+and completing this ticket through a green merge into `dev`. Preserve the source's
+credit and record this permission; it is not a claim that unrelated images have the
+same permission or that their rights have been independently established.
+
+The recorded wait on T-1882 is stale. T-1882 was split into T-2499 and T-2500;
+both pieces are `done`, with code PRs #809 and #814 merged into `dev` on
+2026-10-15 at 09:59:51Z and 10:58:05Z respectively. The owner's 2026-10-13
+queue instruction places this finish in the predecessor's priority position.
+The photographic image gate below remains the acceptance, including the floor,
+stair and boundary discrepancies the envelope PRs explicitly deferred here.
+
 ## Image gate (owner, 2026-10-11, T-2368)
 
 Owner, 2026-10-11: "if you have an image you should work towards it until it's a photographic representation of any images even drawings are ok, but it should look exactly perfectly like the image or drawing", and "you don't wrap the case until it matches the photo".
