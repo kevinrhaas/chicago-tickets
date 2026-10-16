@@ -1,7 +1,7 @@
 ---
 id: T-2573
 title: GPU picking for the structures batches and weathering as a uniform, so structures release position, index and colour (after T-2570 lands the paint per instance)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2550
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 882
 claimed_by: run 10/16/2026, 7:49:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T14:32:21Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38902665565
 claimed_at: 2026-10-16T12:49:20.428Z
 decision: null
