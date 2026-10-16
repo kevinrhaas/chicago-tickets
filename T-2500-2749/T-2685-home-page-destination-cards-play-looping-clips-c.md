@@ -1,7 +1,7 @@
 ---
 id: T-2685
 title: Home page destination cards play looping clips captured from each year
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 915
 claimed_by: run 10/16/2026, 3:22:20 PM CT
 blocked_on: null
 needs_bake: false
