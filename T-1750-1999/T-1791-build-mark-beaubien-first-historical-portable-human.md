@@ -1,7 +1,7 @@
 ---
 id: T-1791
 title: Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
-state: open
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: L
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: null
 blocked_on: T-1790
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T18:39:29.239Z
 claimed_run: null
 claimed_at: null
 decision: null
