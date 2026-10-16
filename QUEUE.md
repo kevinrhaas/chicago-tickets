@@ -34,7 +34,8 @@ T-2589 — KTX2 for the frontage timber: the board face's grain modulation deriv
 T-2590 — Signage's grain and the ground strip's sand luma derived at convert time (the sand basecolor then KTX2), the sheets' memory ceiling lowered, and SITE-BUDGET re-measured
 T-2553 — KTX2 in every textured web GLB: UASTC and ETC1S in web_derivatives.sh, the light tier capped at 1024, Glessner v4 repacked, and every photo-match still matches
 T-2554 — 1904 texture residency: textured houses resident by distance under a per-tier texture budget, uploads paced per frame, and the boot fetch bounded
-T-2555 — A frame governor: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing where 60 cannot hold, and shadow refresh halved while moving
+T-2591 — Frame governor in the loop: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing and halved shadow refresh while moving on light, its state in __chicago4d and Settings, Fixed, and still frames unchanged
+T-2592 — Frame governor's moving reading: frame-time sd and p95 fall for walk, turn and flight at light on the phone profile, read where a frame costs inside the governor's range (the steward runner's SwiftShader draws one in 2.3 to 3.6 s)
 T-2556 — A worker job system for procedural geometry: a module-worker pool with transferables, first moving the flora lattice re-deal and spatial-batch chunking off the main thread
 T-2560 — Ship the town prebuilt: run the layer builders at publish and ship frontage and spatial-batch buffers as compressed binaries, so a phone uploads the town instead of building it at every boot
 T-2561 — Download the year to the device: a service worker installs a versioned per-year pack to disk with progress, boots offline, updates only changed files, installs to the home screen, and has a kill switch

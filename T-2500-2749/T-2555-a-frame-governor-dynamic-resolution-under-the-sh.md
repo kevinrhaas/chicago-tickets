@@ -1,7 +1,7 @@
 ---
 id: T-2555
 title: A frame governor: dynamic resolution under the Sharpness ceiling, steady 30 fps pacing where 60 cannot hold, and shadow refresh halved while moving
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 6:15:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T11:49:54.517Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38892038527
 claimed_at: 2026-10-16T11:15:10.492Z
 decision: null
