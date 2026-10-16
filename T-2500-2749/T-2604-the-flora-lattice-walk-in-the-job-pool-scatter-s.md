@@ -33,7 +33,6 @@ When T-2601 was split (2026-10-16T17:54:23.678Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38941607051) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
 **Acceptance:** (stated before working, 2026-10-16)
 
