@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,8 @@ When T-2580 was split (2026-10-16T10:42:17.127Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38888248249) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. The south bow's two storeys are laid in the street front's rhythm (T-2566), a deep rock-faced course and a thin one in turn, as the 1888 plate (inland-1888) and the Glessner House print of it (a18-gh-1808-keith-field-front) show on the bow's piers, its deep courses on the upper half of the rock-face range and its thin ones on the lower; baked (`bake.sh --only keith_house_1808_prairie`).
+2. The `inland-1888` and `a18-gh-1808-keith-field-front` match records carry the bow's even-courses difference as `fixed`, with the side-by-sides re-rendered.
+

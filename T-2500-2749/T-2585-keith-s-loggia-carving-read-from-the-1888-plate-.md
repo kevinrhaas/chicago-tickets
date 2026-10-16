@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -33,4 +33,12 @@ When T-2580 was split (2026-10-16T10:42:17.127Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38888248249) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. The loggia's carving is read from the 1888 plate at its native 1559 px (and the 1965 porch view where it shows it): the band each paired capital carries, the egg row, and the foliage of the balcony's panel, built to what the plate shows rather than drawn to its shadows; baked.
+2. The matching `open` lines in `inland-1888` (and any other view that shows the loggia) are ruled `fixed` or stated as below the picture's grain.
+
+
+## Note from the split (2026-10-16)
+
+Read at 3x off plate.jpg (crop x 820-1180, y 1150-1500): each paired capital reads as a low, square-edged band carrying a zigzag or strapwork run across its face, about the height of the abacus again, and the balcony's panel is a continuous low-relief carved band between the two dies. Look before building — this note is a first reading, not a ruling.
