@@ -30,7 +30,6 @@ T-2567 — Keith's image gate: the independent cameras re-fitted and every match
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558 waits on a ruling). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 T-2546 — A memory meter and ceilings: resident JS heap, ArrayBuffers and GPU geometry and texture bytes per year, viewport and layer, gated like frame time (phone memory crashes, owner 2026-10-16)
 T-2559 — A device profile: read what the browser and GPU offer (WebGPU, compressed formats, cores, memory) and a one-second benchmark, then choose tier, sharpness, textures and workers per device
-T-2548 — 1904 phone: stop holding what it never reads again: the 26.5 MB Glessner GLB in assetBytes, the source glTF beside its batch copy, and decoded images after upload
 T-2549 — Compact vertex formats in the batch: keep the quantization the bake paid for, about 52 to at most 24 bytes a vertex for structures, frontage, enclosures and yard, with pixel parity
 T-2550 — GPU picking from a 1x1 id pass, so frontage, enclosures, yard and structures release their CPU triangles (about 188 MB on the 1835 phone) and weathering becomes a uniform
 T-2551 — KTX2 in the renderer: vendor KTX2Loader and the Basis transcoder from the pinned three tarball, and ship the runtime library sheets GPU-compressed with mip 0 skipped on light
@@ -195,4 +194,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-T-2552 — Prairie from the air: break the ground's even plaid with a world-scale variation map and a distance fade (owner, 2026-10-16)

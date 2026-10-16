@@ -1,7 +1,7 @@
 ---
 id: T-2552
 title: Prairie from the air: break the ground's even plaid with a world-scale variation map and a distance fade (owner, 2026-10-16)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: 857
 claimed_by: run 10/15/2026, 10:02:35 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T05:35:48Z
 claimed_run: null
 claimed_at: 2026-10-16T03:02:35.805Z
 decision: null
