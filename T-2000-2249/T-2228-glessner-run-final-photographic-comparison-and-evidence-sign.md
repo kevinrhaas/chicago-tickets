@@ -256,3 +256,30 @@ recorded in L-glessner-west-slit-2228. The copper-only bake was interrupted to
 include this owner-requested correction in the next complete asset; it did not
 produce a completed asset or a gate verdict. The earlier ridge-only before
 master remains available. New bake and actual-asset after comparison follow.
+
+
+### Completed correction review, 2026-10-16
+
+The combined straight ridge, planar northeast copper return and west-slit
+correction is baked and committed as b0286e99. The reviewed master is
+`6b2cff4d0a7f41c0e5618d3df6790784126d1e7ea579312bf46a9ddd9af6391a`;
+Full/Web contain 1,364,944 triangles and Light 193,697, with zero coincident
+faces. All eleven canonical historical comparisons and the owner overhead
+were directly reviewed. All remain `differs`; this is not final signoff.
+
+Fresh published-app checks pass six desktop Full and six mobile Light stands,
+without page/asset errors or budget breaches. All 124 credited mobile Images
+tiles load. Complete pre-integration preflight passes all 895 checks. Current
+dev is being integrated and its combined tree still requires its own full
+gate and exact-commit desktop/mobile smoke matrix before merge. No dev merge
+or deployment is claimed yet. Evidence is in the app's
+`docs/RESEARCH/glessner-final-comparison-T-2228/`.
+
+Next roof finding: Cornell and HABS01 show an exposed ventilated cupola body
+which the current cap-only silhouette lacks. Its modeled louvre band sits
+below the stable ridge. Reconcile body/pyramid proportions against both
+photographs while retaining the corrected straight crossing; a single-camera
+height estimate is not a survey. The terrace terminal/coping join, west-court
+access levels, other opening/ornament and material/lighting differences also
+remain open. Keep T-2228 claimed/active after this correction PR merges; do
+not close the image gate on technical validation alone.
