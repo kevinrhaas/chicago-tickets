@@ -1,7 +1,7 @@
 ---
 id: T-2565
 title: Keith's carved loggia from the 1888 plate and the 1965 close view: balcony and pedestal carving, Ionic volutes, stair-head scrolls, bow-window heights and the stair-cheek curve
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1883
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 866
 claimed_by: run 10/16/2026, 1:36:43 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T08:12:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38861789454
 claimed_at: 2026-10-16T06:36:44.231Z
 decision: null
