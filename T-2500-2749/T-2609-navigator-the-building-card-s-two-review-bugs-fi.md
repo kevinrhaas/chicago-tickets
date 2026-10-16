@@ -1,7 +1,7 @@
 ---
 id: T-2609
 title: Navigator: the building card's two review bugs fixed now: 'bay dining [object Object]' under Attributes, and the 1835 fire-limit by-law shown on a 1904 building
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-509
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 897
 claimed_by: run 10/16/2026, 2:06:58 PM CT
 blocked_on: null
 needs_bake: false
