@@ -252,3 +252,4 @@ T-2661 — Navigator Guide controls sheet: device-aware touch or keyboard contro
 T-2662 — Navigator Guide glossary and FAQ: the locked terms with one-line meanings, 'Is this real?' and 'What does Reconstructed mean?' in 60 words or fewer each, and a locked term's first appearance on a screen showing its meaning on tap
 T-2663 — Navigator Tour mode: the seven-step Field Check, each step completing on the real action, a spotlight cut-out with 55 % dim, Skip always visible, resume after reload and replay from Guide
 T-2664 — Navigator first-landing tour offer: offered once per device after landing, declining never re-prompts, and one-time hints after it for the first Jaunt, first Jump and first Reconstructed building
+T-2665 — Navigator License keepsake: awarded on finishing the tour and shown with the Jaunt keepsakes in the Jaunts app
