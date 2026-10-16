@@ -224,3 +224,4 @@ T-2633 — Navigator Go to follows the Confidence view: the 'Include reconstruct
 T-2634 — Navigator Free roam: docks the Navigator and shows the one-time tip 'Tap any building to inspect it.'
 T-2635 — Building summary record: the data/summaries/<id>.json schema, its compiler into what the Inspect app reads, and a gate refusing a fact with no grade, an Attested fact with no source, a string over its length or an id or path in a string
 T-2636 — Building fallback summary: a building with no summary record gets one templated from its sidecar, never raw fields, never ids, paths or snake_case
+T-2637 — Glessner House summary record, the pilot: every line mapped to a graded fact in the Glessner research or a source record, fact-checked, and approved by the owner as the pattern for every other building
