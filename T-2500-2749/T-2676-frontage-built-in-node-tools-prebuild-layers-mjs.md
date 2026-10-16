@@ -1,7 +1,7 @@
 ---
 id: T-2676
 title: Frontage built in Node: tools/prebuild_layers.mjs runs the page's own createFrontage for 1835 against terrain.js's own Heightfield and writes its buffers with an input hash, byte-equal to what the page builds (read from the live page), its determinism and stale-input refusal gated in check.sh
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2560
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 896
 claimed_by: run 10/16/2026, 1:39:41 PM CT
 blocked_on: null
 needs_bake: false
