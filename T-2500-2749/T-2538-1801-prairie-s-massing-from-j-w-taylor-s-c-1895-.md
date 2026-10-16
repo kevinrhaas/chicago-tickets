@@ -1,7 +1,7 @@
 ---
 id: T-2538
 title: 1801 Prairie's massing from J. W. Taylor's c. 1895 photograph: its camera solved and match record written, and the draft's heights, corner tower and cone, south gable and 18th Street flank with its east turret rebuilt in place to what the photograph shows
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1889
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 854
 claimed_by: run 10/15/2026, 9:04:22 PM CT
 blocked_on: null
 needs_bake: false
