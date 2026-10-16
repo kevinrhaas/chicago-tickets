@@ -1,7 +1,7 @@
 ---
 id: T-2681
 title: Keith's loggia columns taller as the 1965 porch view shows them, the beam raised under a shallower balcony front and the south pair set further south
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2587
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 919
 claimed_by: run 10/16/2026, 4:56:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T23:56:25Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38972174511
 claimed_at: 2026-10-16T21:56:08.545Z
 decision: null
