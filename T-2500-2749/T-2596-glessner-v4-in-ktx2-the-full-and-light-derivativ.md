@@ -11,12 +11,12 @@ parent: T-2553
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: remote session 2026-10-17 (owner-directed; dead claim of run 38928684956 taken past the 3h window, no branch and no PR found)
+claimed_by: owner-directed project thread (hand take; steward stand down) 10/16/2026, 4:50:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-17T00:00:00.000Z
+claimed_run: https://claude.ai/code/project/chan_01XPwihxLZTCL4xqRww9mX5v?thread=cmsg_01XPwihxLZTCL4xqRww9mX5vB2oGJYZd2b64de8MotzTr2
+claimed_at: 2026-10-16T21:50:38.139Z
 decision: null
 decision_answer: null
 ---
