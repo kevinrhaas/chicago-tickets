@@ -229,3 +229,4 @@ T-2638 — Navigator Inspect app, the Overview front page: plate, address, name,
 T-2639 — Navigator Inspect tabs: Overview · People · Design · Story · Photos · Sources, a new building always opening on Overview, and the People tab listing who lived, worked or visited in the scene year, then before and after
 T-2640 — Navigator Inspect 'Show me': each Look for feature turns the camera to it in 900 ms and pulses an outline for 2 s, moving to a viewpoint first in fly mode
 T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house' hotspots with grades replacing the attribute table, Compare styles, and the Richardsonian Romanesque module for Glessner House
+T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
