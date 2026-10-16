@@ -1,7 +1,7 @@
 ---
 id: T-2680
 title: Keith's north-east corner pier widened as the Glessner-front view shows it, read together with Keith's placement against Glessner (the camera fits re-solved on the moved pinnacle)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2587
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 905
 claimed_by: run 10/16/2026, 3:53:17 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T21:51:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38964981538
 claimed_at: 2026-10-16T20:53:17.044Z
 decision: null
