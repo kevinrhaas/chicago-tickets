@@ -1,7 +1,7 @@
 ---
 id: T-2554
 title: 1904 texture residency: textured houses resident by distance under a per-tier texture budget, uploads paced per frame, and the boot fetch bounded
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 9:03:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T14:04:02.844Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38910758330
 claimed_at: 2026-10-16T14:03:51.119Z
 decision: null
