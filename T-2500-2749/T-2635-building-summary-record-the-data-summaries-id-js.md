@@ -45,11 +45,11 @@ about: person|structure, grade, sources}], style, story[{date,text,era}]`.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] Schema and compiler committed; check.sh runs the gate and it fails on each planted fault (missing grade, unsourced Attested fact, over-length summary, a snake_case id in a string, an unresolved source id).
-- [ ] A minimal valid record compiles to the published output the Inspect app will read.
+- [x] Schema and compiler committed; check.sh runs the gate and it fails on each planted fault (missing grade, unsourced Attested fact, over-length summary, a snake_case id in a string, an unresolved source id).
+- [x] A minimal valid record compiles to the published output the Inspect app will read.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
 - [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
