@@ -35,3 +35,9 @@ When T-2587 was split (2026-10-16T19:21:18.911Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38952732422) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. The checker band under the lattice is laid as Florian 1948 and the 1888 Glessner plate show it: small staggered diamond-pointed units (a pyramid point on each, a checker of points on a dressed ground), about 0.9 m deep in five rows, its top directly under the moulded course below the lattice, with plain dressed face between its foot and the head band below. The deeper plain band stack between the moulded course and the lattice goes.
+2. The lattice's openings are about 0.27 m tall under a deeper solid head, so its rows sit lower under the coping, as Florian 1948 and the Glessner-front view read them.
+3. A carved boss stands on the north-east corner at the foot of the lattice, as the Florian 1948 and Glessner-front views show it.
+4. Keith rebuilt from the record (generators/k01_emit.py), every reference view re-rendered with photo_match.mjs and those findings ruled in their match records; the liberty written; check.sh green and the smoke parts --for-diff names run.
+
