@@ -240,3 +240,4 @@ T-2649 — Confidence view persists and shows a HUD legend: choices saved to loc
 T-2650 — Confidence view overlays: street names, building labels, people pins and the Jaunt route, each with its own toggle at the foot of the app
 T-2651 — Navigator Move app: one mode picker, Walk, Run, Wagon, Horse or Fly, replacing #s-travel and #s-pace, with one slider for the active mode that keeps the named speeds
 T-2652 — Navigator getting-there style: Teleport, Ride there or Fly over, one choice that Go to, Map and Jaunts all use
+T-2653 — Navigator Move comfort: head bob, eye height (keeping the researched default and its 'Why?') and snap-turn on touch
