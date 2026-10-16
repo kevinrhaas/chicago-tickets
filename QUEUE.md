@@ -10,13 +10,13 @@
 # - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
 # - No human figure is drawn. Native, Metis and Black residents, families and businesses are reconstructed in the data
 #   layer, review_required (AGENTS.md, standing constraint). Respect needs_bake and every ticket-level blocker.
-# - Below the 1835 work: Prairie Avenue 1904 (band 7, with the Glessner photographic-finish group released into it
-#   2026-10-11 and run one at a time), then the portable humans (8C). The Unreal holds are commented out, by hand only.
+# - Order (owner, 2026-10-16): 1904 structures already in progress (band 1), the performance and GPU group (band 2), the
+#   Navigator interface (band 3), loop follow-ups (band 9), then the balance of Prairie Avenue 1904 (band 7, nearest
+#   Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
-# --- 1. THE 1835 TOWN — the owed roofs raised, households seated and dealt, signs and cards a visitor reads, the
-# ---    household-record retirement, then the research readings (owner, 2026-10-10: held tickets that can now be
-# ---    worked go to the top with the core 1835 loop and research tickets)
-
+# --- 1. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished first (owner, 2026-10-16: "finish any
+# ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
+# ---    whose K01 massing pieces have merged.
 # Owner, 2026-10-13: "Sure" (move T-1882 to the top) — 1808 Prairie rebuilt to its photographs, thread "Keith house vs photos"; T-1883 waits on it and takes this line when it merges.
 # Owner, 2026-10-12: "Can you move these up to top you started most of this house finish it" (T-2369 is worked interactively; T-2370, T-2371 for the loop).
 # Owner, 2026-10-13, with the 1887-91 Prairie Avenue sidewalk postcard: "we want to emulate this" (curbs and carriage walks, parkway trees with a Trees setting, soft surface edges). T-2473..T-2475, worked interactively in thread "Prairie Avenue streetscape", one PR each.
@@ -24,6 +24,22 @@
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-2586 — Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
+T-2581 — Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
+T-2587 — Keith's crown and loggia from the re-fitted cameras: the diamond-point band under the lattice, the north-east boss, a wider north-east pier, taller loggia columns
+T-2228 — Glessner: run final photographic comparison and evidence sign-off
+T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
+T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record, camera and match record, and both match records brought to matches (after the two pieces before it)
+T-2539 — 1801 Prairie onto K01 in Bedford stone: the kit lays an all-stone house and carries a round corner tower whose cone stands over the main roof, and the Kimball house moves onto it with the photograph's openings, entrance arches and curved stair (after the piece before it)
+T-2540 — 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
+T-1890 — Finish 1801 Kimball corner mansion architecture
+T-2544 — 1812 Prairie's front detail from the Levy photograph: the balcony over the projection, the third storey's arched windows and fanlight, the stone lower storeys under the brick upper wall with its stone bands, and whatever the first piece's match record left open on the front (after the piece before it)
+T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
+T-1885 — Finish 1812 Wheeler shaped-gable house architecture
+T-2542 — 1811 Prairie's roofs from the photograph and the Inland Architect plate: the front bay's stone gable with its arched lights and fretwork balcony, the entrance block's pyramid and finial, the main slate roof, the north flank's stepped brick gable and the stacks; the plate's camera and match record, and the envelope's match records brought to matches (after the piece before it)
+T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
+
+# --- 2. PERFORMANCE AND GPU — the whole optimization group cleared before any new interface or building work (owner, 2026-10-16:
+# ---    "then want to clear all of the optimization tickets there now, the gpu tickets etc").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558 waits on a ruling). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 T-2596 — Glessner v4 in KTX2: the full and light derivatives re-encoded, the light tier capped at 1024, the three-file package repacked with its hashes, the baseline page and report reading the new files, and every Glessner photo-match still matching
 T-2598 — Texture residency for 1904: textured houses resident by distance with hysteresis under a per-tier texture budget, uploads paced per frame, a scripted Prairie Avenue walk at phone profile held under the budget, and captures at the Glessner and street-eye stands unchanged
@@ -35,12 +51,14 @@ T-2561 — Download the year to the device: a service worker installs a versione
 T-2557 — GPU-procedural near grass: the near ring dealt in the vertex shader from the lattice's own hash, the heightfield and the ground masks, with no CPU lattice and no re-deal on move
 T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first
 #   ? T-2558 DECISION: RENDERING.md section 8 keeps Track 2 (the WebGPU renderer) gated. May a run start H0, the no-build WebGPU bake-off on the Glessner block, with its kill criteria written into section 8 first? — (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument  (b) Yes, now, in parallel with the memory group  (c) Not yet: finish the memory and smoothness group first and ask again — recommended: (a)
+T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
+T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
+T-2603 — GPU picks stop counting their passes as the visitor's frame
+
+# --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
+# ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
-T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
-T-2581 — Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
-T-2587 — Keith's crown and loggia from the re-fitted cameras: the diamond-point band under the lattice, the north-east boss, a wider north-east pier, taller loggia columns
-T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
@@ -53,18 +71,6 @@ T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the th
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
-T-2228 — Glessner: run final photographic comparison and evidence sign-off
-T-2603 — GPU picks stop counting their passes as the visitor's frame
-T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record, camera and match record, and both match records brought to matches (after the two pieces before it)
-T-2539 — 1801 Prairie onto K01 in Bedford stone: the kit lays an all-stone house and carries a round corner tower whose cone stands over the main roof, and the Kimball house moves onto it with the photograph's openings, entrance arches and curved stair (after the piece before it)
-T-2540 — 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
-T-1890 — Finish 1801 Kimball corner mansion architecture
-T-2544 — 1812 Prairie's front detail from the Levy photograph: the balcony over the projection, the third storey's arched windows and fanlight, the stone lower storeys under the brick upper wall with its stone bands, and whatever the first piece's match record left open on the front (after the piece before it)
-T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
-T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-2542 — 1811 Prairie's roofs from the photograph and the Inland Architect plate: the front bay's stone gable with its arched lights and fretwork balcony, the entrance block's pyramid and finial, the main slate roof, the north flank's stepped brick gable and the stacks; the plate's camera and match record, and the envelope's match records brought to matches (after the piece before it)
-T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 T-1874 — Refine 1726, 1730 and 1736 replacement/altered houses
 T-1886 — Refine 1816 Henderson mansard house
 T-1893 — Refine 1815 Sears-Meeker altered house
