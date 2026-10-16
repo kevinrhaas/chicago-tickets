@@ -1,7 +1,7 @@
 ---
 id: T-2562
 title: Wabansia's re-derive check is red on Python 3.13: an embedded docstring's indentation differs by interpreter
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 8:03:40 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38904221258
+claimed_at: 2026-10-16T13:03:40.839Z
 decision: null
 decision_answer: null
 ---
