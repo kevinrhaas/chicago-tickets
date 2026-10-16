@@ -1,7 +1,7 @@
 ---
 id: T-2556
 title: A worker job system for procedural geometry: a module-worker pool with transferables, first moving the flora lattice re-deal and spatial-batch chunking off the main thread
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 10:30:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38923880718
+claimed_at: 2026-10-16T15:30:32.006Z
 decision: null
 decision_answer: null
 ---
