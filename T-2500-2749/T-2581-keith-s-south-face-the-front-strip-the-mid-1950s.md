@@ -1,7 +1,7 @@
 ---
 id: T-2581
 title: Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 887
 claimed_by: run 10/16/2026, 10:38:31 AM CT
 blocked_on: null
 needs_bake: false
