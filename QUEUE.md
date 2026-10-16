@@ -41,6 +41,7 @@ T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three
 T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
 T-2581 — Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
 T-2587 — Keith's crown and loggia from the re-fitted cameras: the diamond-point band under the lattice, the north-east boss, a wider north-east pier, taller loggia columns
+T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
