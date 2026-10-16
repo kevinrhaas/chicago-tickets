@@ -1,7 +1,7 @@
 ---
 id: T-2593
 title: The KTX2 drop-in sheets are mirrored along v: the roof relief, the 1904 street surfaces and the muck written top row first, so three lays them upside down against their WebPs
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 885
 claimed_by: run 10/16/2026, 9:52:39 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T16:01:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38916797385
 claimed_at: 2026-10-16T14:52:39.412Z
 decision: null
