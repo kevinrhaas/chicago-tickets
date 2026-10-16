@@ -51,7 +51,7 @@ Today: `--doc` / `--inf` / `--con` in the stylesheets with light-theme overrides
 - [x] A side-by-side capture at the Glessner front with BY GRADE on shows bronze clearly browner than gold; the color-vision simulations keep all three distinct.
 - [x] Contrast: dots 3:1 and grade text 4.5:1 against their panels in both themes.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
-- [ ] Works in all four machine skins and with reduced motion.
+- [x] Works in all four machine skins and with reduced motion.
 - [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
 - [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
