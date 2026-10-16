@@ -1,7 +1,7 @@
 ---
 id: T-2599
 title: The job pool and spatial-batch's partition in a worker: renderers/web/js/jobs/ (module workers, transferables, a synchronous fallback), the partition as a three-free kernel both paths share with byte parity tested in check.sh, and terrain's boot ground tiles batched through it
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2556
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 886
 claimed_by: run 10/16/2026, 10:32:07 AM CT
 blocked_on: null
 needs_bake: false
