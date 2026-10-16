@@ -1,7 +1,7 @@
 ---
 id: T-2691
 title: Prairie Avenue jogs west at 18th Street: join Sanborn sheet 20 to sheet 28 and clear the roadway seam line
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 4:57:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-16T21:57:27.953Z
 decision: null
 decision_answer: null
 ---
