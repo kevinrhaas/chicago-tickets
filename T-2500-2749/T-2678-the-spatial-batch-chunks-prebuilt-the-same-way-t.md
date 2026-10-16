@@ -1,7 +1,7 @@
 ---
 id: T-2678
 title: The spatial-batch chunks prebuilt the same way: the partitioned pieces of the spatialBatch callers written at publish and uploaded by the page, byte parity with the page's own partition and boot phases quoted before and after
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2560
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 5:54:26 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T22:58:15.505Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38977949584
 claimed_at: 2026-10-16T22:54:26.155Z
 decision: null
