@@ -27,7 +27,9 @@ T-2677 — The page uploads prebuilt frontage: publish.sh writes site/4d/data/pr
 T-2678 — The spatial-batch chunks prebuilt the same way: the partitioned pieces of the spatialBatch callers written at publish and uploaded by the page, byte parity with the page's own partition and boot phases quoted before and after
 T-2557 — GPU-procedural near grass: the near ring dealt in the vertex shader from the lattice's own hash, the heightfield and the ground masks, with no CPU lattice and no re-deal on move
 T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first
-T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
+T-2687 — Quantized positions in frontage, enclosures and yard wherever a mesh's 16-bit grid keeps the millimetre (half-extent up to 65 m): Int16x4 relative to the mesh with the offset and scale in its matrix, and the plank-gap shader, far-merge, the far walk tops, occlusion and the smoke's probes made to apply it, with pixel parity and the bytes measured
+T-2688 — The long frontage walk chunks, frontage's own mesh, the far walk tops and the yard's woodpile chunk cut into pieces whose 16-bit grid keeps the millimetre, so every position in the three layers is 8 B
+T-2689 — _confidence out of float32 in frontage, enclosures and yard (0, 0.5 and 1 kept exact), so structures + frontage + enclosures + yard reach T-2549's 40 % on the /1835/ phone
 T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
