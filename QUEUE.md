@@ -28,6 +28,7 @@ T-2546 — A memory meter and ceilings: resident JS heap, ArrayBuffers and GPU g
 T-2547 — Crash-aware boot: a phone that ran out of memory last session boots one tier lower and says so, and a lost WebGL context never reload-loops
 T-2548 — 1904 phone: stop holding what it never reads again: the 26.5 MB Glessner GLB in assetBytes, the source glTF beside its batch copy, and decoded images after upload
 T-2549 — Compact vertex formats in the batch: keep the quantization the bake paid for, about 52 to at most 24 bytes a vertex for structures, frontage, enclosures and yard, with pixel parity
+T-2550 — GPU picking from a 1x1 id pass, so frontage, enclosures, yard and structures release their CPU triangles (about 188 MB on the 1835 phone) and weathering becomes a uniform
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
