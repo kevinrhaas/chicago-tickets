@@ -1,7 +1,7 @@
 ---
 id: T-2582
 title: KTX2 path in the renderer: vendor KTX2Loader and the Basis transcoder from the pinned three tarball, detectSupport once and register it on every GLTFLoader, a pinned KTX-Software sheet converter under tools/, and the drop-in sheets (roof-relief, street-grid, ground-strip) shipped as KTX2 with the WebP/PNG fallback and mip 0 dropped on light, their GPU bytes and the transcoder's bytes measured
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2551
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 4:48:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38882043672
+claimed_at: 2026-10-16T09:48:17.481Z
 decision: null
 decision_answer: null
 ---
