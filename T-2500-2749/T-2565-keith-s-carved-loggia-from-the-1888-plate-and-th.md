@@ -5,7 +5,7 @@ state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-1883
 opened: 2026-10-16
@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -34,4 +34,10 @@ When T-1883 was split (2026-10-16T05:03:00.374Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38852568409) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. From the 1888 plate (`inland-1888`, `a18-rba-ia-1888-keith-1808`, `cgn-1808-inland-1888-keith-copy`) and the 1965 close view (`a18-gh-1808-porch-1965`): the balcony and pedestal carving, the Ionic volute sections and the stair-head scrolls follow the photographed profiles; the bow-window heights and the stair-cheek curve and extent align with the 1965 view.
+2. Rebaked with `--only keith_house_1808_prairie`, every view re-rendered, and those differences set `fixed` only where the side-by-side shows it.
+3. `check.sh` and the `--for-diff` smoke legs green at both viewports.
+
+The parent's owner reports (2026-10-13 and 2026-10-16, including the permission to use the 1888 Inland Architect Keith plate) and its research page `docs/RESEARCH/k01-1808-keith-1883/README.md` in the code repo are the brief; read them first.

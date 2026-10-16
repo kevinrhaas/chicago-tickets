@@ -5,7 +5,7 @@ state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-1883
 opened: 2026-10-16
@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -34,4 +34,15 @@ When T-1883 was split (2026-10-16T05:03:00.374Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38852568409) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:**
+
+1. The independent cameras that still carry visible residuals (`a18-gh-florian-1948-northeast-overall`, `a18-gh-glessner-front-with-keith`, `a18-inland-architect-1888-02-glessner-plate`, `a18-gh-1808-porch-1965`, `a18-rba-reed-1941-prairie-north-from-1820`) are re-fitted, with their solves recorded.
+2. Every reference view of `keith_house_1808_prairie` reads `matches`, with nothing `open`, and the parent's full acceptance (T-1883: close street, corner and aerial views; liberties, licences and compressed assets) is checked off.
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Carried from T-1883: this piece closes the house, so `ticket.mjs done` refuses it until every view of the building below is `matches`.
+
+- keith_house_1808_prairie
+
+The parent's owner reports (2026-10-13 and 2026-10-16, including the permission to use the 1888 Inland Architect Keith plate) and its research page `docs/RESEARCH/k01-1808-keith-1883/README.md` in the code repo are the brief; read them first.
