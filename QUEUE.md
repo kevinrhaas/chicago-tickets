@@ -232,3 +232,4 @@ T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house
 T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
 T-2643 — Navigator Inspect Story tab: BUILT, YOU ARE HERE and TODAY on a timeline from design to today, filtered by the scene's era
 T-2644 — Navigator Inspect Sources tab: facts grouped by Attested, Inferred and Reconstructed with a Liberties section, human source titles, and full citations collapsed under each fact
+T-2645 — Navigator Inspect Photos tab: images sorted by date with year, caption and 'from this spot', the 12 best first and the rest behind 'All N'
