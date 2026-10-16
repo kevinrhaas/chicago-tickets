@@ -1,7 +1,7 @@
 ---
 id: T-2581
 title: Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 887
 claimed_by: run 10/16/2026, 10:38:31 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T17:59:11Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38924819704
 claimed_at: 2026-10-16T15:38:31.043Z
 decision: null

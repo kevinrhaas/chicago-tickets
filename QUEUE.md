@@ -24,7 +24,6 @@
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-2586 — Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
-T-2581 — Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
 T-2587 — Keith's crown and loggia from the re-fitted cameras: the diamond-point band under the lattice, the north-east boss, a wider north-east pier, taller loggia columns
 T-2228 — Glessner: run final photographic comparison and evidence sign-off
 T-2435 — Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
@@ -54,7 +53,6 @@ T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three
 #   ? T-2558 DECISION: RENDERING.md section 8 keeps Track 2 (the WebGPU renderer) gated. May a run start H0, the no-build WebGPU bake-off on the Glessner block, with its kill criteria written into section 8 first? — (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument  (b) Yes, now, in parallel with the memory group  (c) Not yet: finish the memory and smoothness group first and ask again — recommended: (a)
 T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
 T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
-T-2603 — GPU picks stop counting their passes as the visitor's frame
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.

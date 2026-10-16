@@ -1,7 +1,7 @@
 ---
 id: T-2603
 title: GPU picks stop counting their passes as the visitor's frame
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 890
 claimed_by: run 10/16/2026, 12:15:04 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T18:01:19Z
 claimed_run: null
 claimed_at: 2026-10-16T17:15:04.570Z
 decision: null
