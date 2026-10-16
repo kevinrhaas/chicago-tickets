@@ -1,7 +1,7 @@
 ---
 id: T-2590
 title: Signage's grain and the ground strip's sand luma derived at convert time (the sand basecolor then KTX2), the sheets' memory ceiling lowered, and SITE-BUDGET re-measured
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2583
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 880
 claimed_by: run 10/16/2026, 7:22:53 AM CT
 blocked_on: null
 needs_bake: false
