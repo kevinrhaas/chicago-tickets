@@ -1,7 +1,7 @@
 ---
 id: T-2611
 title: Navigator arrival: time-stream captions, a graded and sourced deck of 8-12 landmark years per destination shown as the ticker passes each one (at most 3 on fast loads, 8 on slow)
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 4:41:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-16T21:41:56.346Z
 decision: null
 decision_answer: null
 ---
