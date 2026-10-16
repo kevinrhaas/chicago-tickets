@@ -1,7 +1,7 @@
 ---
 id: T-1883
 title: Finish 1808 Keith-Field neighbour of Glessner architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive owner-authorized work 10/15/2026, 7:36:56 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-16T00:36:56.283Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -132,12 +132,29 @@ Pictures:
 
 - keith_house_1808_prairie
 
-## Implementation under review (2026-10-16)
+## Source-cleared façade refinement (2026-10-16)
 
-[Code PR #853](https://github.com/kevinrhaas/chicago/pull/853) is open. The
-source-cleared façade refinement passed local preflight (895 repository checks)
-after integration with the latest dev changes, and actual published desktop
-and mobile validation. Stage-14 smoke passed 128 checks with zero failures on
-each viewport. Hosted CI is still running; the claim is retained through merge.
-All 16 photographic comparisons are explicitly `differs`, so this refinement
-does not close the photographic acceptance. The PR records the remaining work.
+Code PR **[chicago#853](https://github.com/kevinrhaas/chicago/pull/853)** merged into `dev` with green checks. The owner-authorized
+1888 plate now drives the pierced stone parapet, corner pinnacles, checkerwork,
+upper colonnettes, Ionic entrance, curved stair cheeks, coursed south bow and
+early low stone boundary. The contemporary September 1886 notice supports a
+granite front but does not name its quarry or colour. Other source permissions
+are not inferred from this approval.
+
+The main envelope and site placement are preserved. All 16 known photographic
+comparisons have camera records, rendered comparisons and **`differs`** verdicts.
+This merge does **not** satisfy the owner's photographic acceptance and does
+not close T-1883. Remaining differences include north-return ashlar courses,
+finer balcony/pedestal and pinnacle profiles, surface and colour convergence,
+and independent-camera residuals. Later ironwork/chimneys/vegetation are not
+silently backdated into 1904.
+
+Evidence: [review and measurements](https://github.com/kevinrhaas/chicago/blob/dev/chicago/4d/docs/RESEARCH/k01-1808-keith-1883/README.md).
+Actual published 1904 desktop and mobile captures passed with zero loader/page
+errors and unchanged scene budgets; all 28 mobile Images thumbnails loaded
+with credits. Repository/preflight and CI receipts are in the PR. These checks
+validate the implementation, not photographic equivalence.
+
+The stale predecessor dependency and the 1888-plate permission blocker are
+cleared. Leave this ticket **open**, retaining its owner-directed priority,
+for the remaining photographic convergence.
