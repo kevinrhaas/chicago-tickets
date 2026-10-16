@@ -48,3 +48,14 @@ Carried from T-2567/T-1883: this piece closes the house, so `ticket.mjs done` re
 
 `nickel-1967` reads the checker band under the cornice as a narrower band (about two-thirds of the build's height) of finer, diagonal lozenge units, where the build lays T-2566's staggered rock blocks. Read it against the 1888 plate before ruling; it is written as `open` in that view's match record.
 
+
+## Finding from T-2578 (2026-10-16)
+
+The hall stack (chimney_positions `hall`, u 13.6 v 9.75) stands over the return's coping beside the
+cowl ventilator in the renders of the 1887 construction view, both Taylor 2135 records, the 1888
+Glessner plate and the c. 1888 view looking SW, where every one of those pictures shows sky. The
+cowl's pipe rises from inside that stack's plan, so it plausibly terminates the flue, with the stack
+stopping below the coping (a flat-roof stack needs a per-stack `top_m`, which the K01 params allow
+only on a mansard today). Each of those match records carries it `open`. Also open: the c. 1888 view
+puts the cowl's cap higher over the coping than its render (camera residual or set-back, T-2579), and
+the Glessner-front render shows the cap's top over the coping where the print shows none.
