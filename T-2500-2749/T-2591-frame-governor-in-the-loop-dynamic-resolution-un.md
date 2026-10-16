@@ -35,3 +35,7 @@ When T-2555 was split (2026-10-16T11:49:48.076Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38892038527) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. `renderers/web/js/frame-governor.js`, wired into `main.js`'s animation loop: while the camera moves, the drawing-buffer ratio scales between 0.67× and 1× of the visitor's Sharpness (the ceiling, never passed), with hysteresis; a device that cannot hold 60 at the floor and can hold 30 is paced to a steady 30 and probes 60 again; on `light` the shadow map refreshes every second moving frame. `tools/test_frame_governor.mjs`, a check.sh step, proves each of those on synthetic frame times.
+2. At rest (three still frames), and always under Settings → Frame pacing → Fixed, the governor is neutral: `measure_walk_frames.mjs --live --stills` shows at every anchor of 1835 on the phone profile that a lowered ratio returns to the ceiling with a shadow every frame, and that the held frame under Adaptive is the same signature as under Fixed.
+3. `__chicago4d.governor` reports mode, scale, ratio, ceiling, paced rate, shadow cadence and motion; Settings → Performance carries the choice and a line saying what it is doing; the smoke asserts both, with zero page errors, at 390×780 and 1280×800.

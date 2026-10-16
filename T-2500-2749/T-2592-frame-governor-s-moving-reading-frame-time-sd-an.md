@@ -35,3 +35,9 @@ When T-2555 was split (2026-10-16T11:49:48.076Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38892038527) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. `measure_walk_frames.mjs --live` (T-2591 adds it: the moves driven through the page's own loop, draw on, Adaptive then Fixed in one page) at the phone profile and `light`: frame-time standard deviation AND p95 both fall for walk, turn and flight under Adaptive against Fixed. Quote both.
+
+## Finding (T-2591's run, 2026-10-16) — why this is its own piece
+
+The steward runner has no GPU. Driven through the live loop with the draw on, its SwiftShader drew the 1835 phone frame (390×780, ratio 1, `light`) in **3.6 s a frame at the 4× throttle and 2.3 s unthrottled** (`docs/measurements/t-2555-governor-live-mobile.json`). That is about a hundred times outside the range a frame governor works in: every interval is over the governor's 250 ms gap cut and is read as a gap, so it decides nothing and the two modes read alike (sd 588 → 533 ms is noise at six draws). A reading that "fell" there would be measuring the noise. This needs a renderer whose frame costs tens of milliseconds: a real phone or a GPU runner, or a cheaper software path that is argued for as a stand-in before it is read.
