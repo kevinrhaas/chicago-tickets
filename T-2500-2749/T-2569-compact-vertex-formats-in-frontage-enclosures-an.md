@@ -1,7 +1,7 @@
 ---
 id: T-2569
 title: Compact vertex formats in frontage, enclosures and yard (about 209 MB on the 1835 phone, measured 2026-10-16), so the four layers' GPU geometry falls at least 40 % in the memory meter
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2549
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 867
 claimed_by: run 10/16/2026, 2:02:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T09:04:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38864066027
 claimed_at: 2026-10-16T07:02:10.732Z
 decision: null
