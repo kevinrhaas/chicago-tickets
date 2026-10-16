@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first.
@@ -53,3 +53,5 @@ Filed together on the owner's ask of 2026-10-16, in dependency order: T-2546 · 
 **Recommendation:** (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument — The spike's whole value is a fair measured comparison, and only T-2546 makes memory comparable; a no-build spike in its own directory never touches walk/.
 
 **Asked:** 2026-10-15. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-16, via Manager):** (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument
