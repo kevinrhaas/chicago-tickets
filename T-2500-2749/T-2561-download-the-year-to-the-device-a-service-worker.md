@@ -1,7 +1,7 @@
 ---
 id: T-2561
 title: Download the year to the device: a service worker installs a versioned per-year pack to disk with progress, boots offline, updates only changed files, installs to the home screen, and has a kill switch
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: 894
 claimed_by: run 10/16/2026, 11:32:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T20:10:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38930618970
 claimed_at: 2026-10-16T16:32:15.550Z
 decision: null
