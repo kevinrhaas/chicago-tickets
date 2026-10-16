@@ -1,7 +1,7 @@
 ---
 id: T-2671
 title: Grade colors gold, silver and bronze: Attested gold, Inferred silver and Reconstructed a clearly browner bronze, everywhere a grade shows: card and dossier dots, people chips, the HUD and the Confidence view's scene tint, in both themes
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 2:37:22 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-16T19:37:22.315Z
 decision: null
 decision_answer: null
 ---
