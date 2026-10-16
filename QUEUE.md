@@ -25,7 +25,6 @@
 
 T-2564 — Keith's north stone return and pinnacle caps from the Glessner-side photographs: the large ashlar courses, the curved coping and the cap profiles
 T-2565 — Keith's carved loggia from the 1888 plate and the 1965 close view: balcony and pedestal carving, Ionic volutes, stair-head scrolls, bow-window heights and the stair-cheek curve
-T-2566 — Keith's granite surface: course and rock-face variation, the checker stones, the upper capital and head-band profiles, and the tint read under neutral light
 T-2567 — Keith's image gate: the independent cameras re-fitted and every match record brought to matches (after the pieces before it)
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558 waits on a ruling). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 T-2546 — A memory meter and ceilings: resident JS heap, ArrayBuffers and GPU geometry and texture bytes per year, viewport and layer, gated like frame time (phone memory crashes, owner 2026-10-16)
