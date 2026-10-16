@@ -1,7 +1,7 @@
 ---
 id: T-2595
 title: KTX2 in the textured Prairie house web GLBs: UASTC for normal, ORM and occlusion, ETC1S for basecolor, sizes capped at 2048 in power-of-two, a KTX2 loader on every GLB path, and measure_web_derivatives refusing a PNG or JPEG in any derivative but the Glessner v4 set
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2553
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 883
 claimed_by: run 10/16/2026, 8:38:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T16:13:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38908068294
 claimed_at: 2026-10-16T13:38:15.589Z
 decision: null
