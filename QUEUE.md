@@ -27,6 +27,7 @@ T-1883 — Finish 1808 Keith-Field neighbour of Glessner architecture
 T-2546 — A memory meter and ceilings: resident JS heap, ArrayBuffers and GPU geometry and texture bytes per year, viewport and layer, gated like frame time (phone memory crashes, owner 2026-10-16)
 T-2547 — Crash-aware boot: a phone that ran out of memory last session boots one tier lower and says so, and a lost WebGL context never reload-loops
 T-2548 — 1904 phone: stop holding what it never reads again: the 26.5 MB Glessner GLB in assetBytes, the source glTF beside its batch copy, and decoded images after upload
+T-2549 — Compact vertex formats in the batch: keep the quantization the bake paid for, about 52 to at most 24 bytes a vertex for structures, frontage, enclosures and yard, with pixel parity
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 
