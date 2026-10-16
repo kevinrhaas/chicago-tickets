@@ -216,3 +216,4 @@ T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, the
 T-2626 — HUD year chip and compass-map instrument: an amber LED year chip top left that opens Jump, and the compass and mini map merged into one round instrument top right that opens Map
 T-2627 — HUD target tag and quick column: a 400 ms reticle dwell shows the building's name and distance, tap or E opens Inspect, and the quick column holds Walk/Fly plus a contextual Inspect key, never more than two
 T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
+T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
