@@ -35,3 +35,7 @@ When T-2553 was split (2026-10-16T13:38:06.214Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38908068294) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding from T-2597 (2026-10-16)
+
+The most GLB bytes the 1904 boot holds unparsed at once is exactly the Glessner file: 56.4 MB (full) / 31.1 MB (light), with nothing beside it. So this ticket's re-encode is the boot-pile fix, not a load pool. Read it before and after with `node tools/measure_boot_peak.mjs --year 1904 --pools 0` (the `held peak` column).

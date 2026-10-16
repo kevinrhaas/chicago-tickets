@@ -34,3 +34,7 @@ When T-2554 was split (2026-10-16T14:03:56.849Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38910758330) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding from T-2597 (2026-10-16)
+
+The boot fetch's held-GLB pile on 1904 is the Glessner file alone (56.4 MB full / 31.1 MB light, measured by `tools/measure_boot_peak.mjs`); a load pool does not reduce it, so the default stays unbounded. Residency (this ticket) and T-2596's KTX2 Glessner are what move the 1904 phone's memory; use `__chicago4d.bootPool` and the meter for the boot half of a before/after.
