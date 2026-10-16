@@ -1,7 +1,7 @@
 ---
 id: T-2577
 title: Keith's cornice box laid in stone under the lattice, and every view re-rendered with the loggia and granite compared at the overview scales
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2567
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 870
 claimed_by: run 10/16/2026, 3:52:28 AM CT
 blocked_on: null
 needs_bake: true
