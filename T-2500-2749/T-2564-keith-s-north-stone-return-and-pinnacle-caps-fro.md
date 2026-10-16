@@ -1,7 +1,7 @@
 ---
 id: T-2564
 title: Keith's north stone return and pinnacle caps from the Glessner-side photographs: the large ashlar courses, the curved coping and the cap profiles
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1883
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 863
 claimed_by: run 10/16/2026, 12:03:10 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-16T07:18:05Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38852568409
 claimed_at: 2026-10-16T05:03:10.833Z
 decision: null
