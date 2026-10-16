@@ -213,3 +213,4 @@ T-2622 — Navigator keyboard and accessibility: N toggles it, 1-9 select rail a
 T-2623 — Navigator telemetry strip: a phosphor footer ticking every 800 ms with FIELD, DRIFT, SIG and a RECALL lamp, reusing portal.js drift, aria-hidden, paused when hidden and still under reduced motion
 T-2624 — Navigator string table and glossary terms: every Navigator, HUD and arrival string in one table, the locked terms enforced and the renamed terms of §03 applied
 T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
+T-2626 — HUD year chip and compass-map instrument: an amber LED year chip top left that opens Jump, and the compass and mini map merged into one round instrument top right that opens Map
