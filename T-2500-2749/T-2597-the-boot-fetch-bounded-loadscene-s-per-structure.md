@@ -1,7 +1,7 @@
 ---
 id: T-2597
 title: The boot fetch bounded: loadScene's per-structure loads run through a concurrency pool instead of an unbounded Promise.all, and the boot-time peak of GLB bytes held at once measured before and after and quoted
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2554
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 884
 claimed_by: run 10/16/2026, 9:04:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T15:10:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38910758330
 claimed_at: 2026-10-16T14:04:07.082Z
 decision: null
