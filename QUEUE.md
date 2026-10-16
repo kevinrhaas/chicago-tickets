@@ -61,7 +61,6 @@ T-2536 — 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of it
 T-2539 — 1801 Prairie onto K01 in Bedford stone: the kit lays an all-stone house and carries a round corner tower whose cone stands over the main roof, and the Kimball house moves onto it with the photograph's openings, entrance arches and curved stair (after the piece before it)
 T-2540 — 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-2543 — 1812 Prairie onto K01 from the Levy photograph: the plan re-read from sheet 28, three storeys over the raised basement at the photograph's heights, the arched entrance and stair, the south projection, and the street front's shaped Flemish gable with its grid attic light and finial; its camera solved and match record written
 T-2544 — 1812 Prairie's front detail from the Levy photograph: the balcony over the projection, the third storey's arched windows and fanlight, the stone lower storeys under the brick upper wall with its stone bands, and whatever the first piece's match record left open on the front (after the piece before it)
 T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
