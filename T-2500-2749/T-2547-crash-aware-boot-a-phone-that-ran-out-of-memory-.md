@@ -1,7 +1,7 @@
 ---
 id: T-2547
 title: Crash-aware boot: a phone that ran out of memory last session boots one tier lower and says so, and a lost WebGL context never reload-loops
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 859
 claimed_by: run 10/15/2026, 10:39:53 PM CT
 blocked_on: null
 needs_bake: false
