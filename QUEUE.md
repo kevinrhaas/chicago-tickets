@@ -206,3 +206,4 @@ T-2614 — Navigator gesture gating without a gate: audio and pointer lock start
 T-2615 — Navigator portal continuity: an arrival within 10 s of the Observatory's transfer opens with the ring's tail still expanding, so the jump reads as one shot
 T-2616 — Navigator arrival failure state: 'The jump stalled somewhere around 1950.' with TRY AGAIN and BACK TO THE OBSERVATORY, and the error detail collapsed under 'Details for your teacher'
 T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
+T-2618 — Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
