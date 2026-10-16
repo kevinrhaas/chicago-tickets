@@ -10,11 +10,27 @@
 # - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
 # - No human figure is drawn. Native, Metis and Black residents, families and businesses are reconstructed in the data
 #   layer, review_required (AGENTS.md, standing constraint). Respect needs_bake and every ticket-level blocker.
-# - Order (owner, 2026-10-16): 1904 structures already in progress (band 1), the performance and GPU group (band 2), the
+# - Order (owner, 2026-10-16): the performance and GPU group (band 1), 1904 structures already in progress (band 2), the
 #   Navigator interface (band 3), loop follow-ups (band 9), then the balance of Prairie Avenue 1904 (band 7, nearest
 #   Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
-# --- 1. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished first (owner, 2026-10-16: "finish any
+# --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
+# ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
+# Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558 waits on a ruling). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
+T-2596 — Glessner v4 in KTX2: the full and light derivatives re-encoded, the light tier capped at 1024, the three-file package repacked with its hashes, the baseline page and report reading the new files, and every Glessner photo-match still matching
+T-2592 — Frame governor's moving reading: frame-time sd and p95 fall for walk, turn and flight at light on the phone profile, read where a frame costs inside the governor's range (the steward runner's SwiftShader draws one in 2.3 to 3.6 s)
+T-2600 — Every other spatialBatch caller through the job pool: streets, yards, railway, building cells and terrain's re-batch of the distant ground, each awaiting it with identical output
+T-2604 — The flora lattice walk in the job pool: scatter's cells, cone cull, deal ranks and jitter as a three-free kernel a spread pass awaits on a worker, slot for slot the in-frame walk (a check.sh gate), with the spread pass's main-thread milliseconds quoted before and after at the throttled phone profile
+T-2605 — The rest of the flora re-deal off the main thread (zones, water, floors, verges and heights read in the worker), double-buffered so the old lattice draws until the new one arrives, with measure_walk_frames at the throttled phone profile: no flora or spatial-batch long task over 50 ms in walk and turn, moving p95 down, boot to ready quoted before and after
+T-2560 — Ship the town prebuilt: run the layer builders at publish and ship frontage and spatial-batch buffers as compressed binaries, so a phone uploads the town instead of building it at every boot
+T-2561 — Download the year to the device: a service worker installs a versioned per-year pack to disk with progress, boots offline, updates only changed files, installs to the home screen, and has a kill switch
+T-2557 — GPU-procedural near grass: the near ring dealt in the vertex shader from the lattice's own hash, the heightfield and the ground masks, with no CPU lattice and no re-deal on move
+T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first
+#   ? T-2558 DECISION: RENDERING.md section 8 keeps Track 2 (the WebGPU renderer) gated. May a run start H0, the no-build WebGPU bake-off on the Glessner block, with its kill criteria written into section 8 first? — (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument  (b) Yes, now, in parallel with the memory group  (c) Not yet: finish the memory and smoothness group first and ask again — recommended: (a)
+T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
+T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
+
+# --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
 # ---    whose K01 massing pieces have merged.
 # Owner, 2026-10-13: "Sure" (move T-1882 to the top) — 1808 Prairie rebuilt to its photographs, thread "Keith house vs photos"; T-1883 waits on it and takes this line when it merges.
@@ -36,22 +52,6 @@ T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Le
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
 T-2542 — 1811 Prairie's roofs from the photograph and the Inland Architect plate: the front bay's stone gable with its arched lights and fretwork balcony, the entrance block's pyramid and finial, the main slate roof, the north flank's stepped brick gable and the stacks; the plate's camera and match record, and the envelope's match records brought to matches (after the piece before it)
 T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
-
-# --- 2. PERFORMANCE AND GPU — the whole optimization group cleared before any new interface or building work (owner, 2026-10-16:
-# ---    "then want to clear all of the optimization tickets there now, the gpu tickets etc").
-# Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558 waits on a ruling). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
-T-2596 — Glessner v4 in KTX2: the full and light derivatives re-encoded, the light tier capped at 1024, the three-file package repacked with its hashes, the baseline page and report reading the new files, and every Glessner photo-match still matching
-T-2592 — Frame governor's moving reading: frame-time sd and p95 fall for walk, turn and flight at light on the phone profile, read where a frame costs inside the governor's range (the steward runner's SwiftShader draws one in 2.3 to 3.6 s)
-T-2600 — Every other spatialBatch caller through the job pool: streets, yards, railway, building cells and terrain's re-batch of the distant ground, each awaiting it with identical output
-T-2604 — The flora lattice walk in the job pool: scatter's cells, cone cull, deal ranks and jitter as a three-free kernel a spread pass awaits on a worker, slot for slot the in-frame walk (a check.sh gate), with the spread pass's main-thread milliseconds quoted before and after at the throttled phone profile
-T-2605 — The rest of the flora re-deal off the main thread (zones, water, floors, verges and heights read in the worker), double-buffered so the old lattice draws until the new one arrives, with measure_walk_frames at the throttled phone profile: no flora or spatial-batch long task over 50 ms in walk and turn, moving p95 down, boot to ready quoted before and after
-T-2560 — Ship the town prebuilt: run the layer builders at publish and ship frontage and spatial-batch buffers as compressed binaries, so a phone uploads the town instead of building it at every boot
-T-2561 — Download the year to the device: a service worker installs a versioned per-year pack to disk with progress, boots offline, updates only changed files, installs to the home screen, and has a kill switch
-T-2557 — GPU-procedural near grass: the near ring dealt in the vertex shader from the lattice's own hash, the heightfield and the ground masks, with no CPU lattice and no re-deal on move
-T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three WebGPURenderer and TSL on the Glessner block from the same GLBs, kill criteria written first
-#   ? T-2558 DECISION: RENDERING.md section 8 keeps Track 2 (the WebGPU renderer) gated. May a run start H0, the no-build WebGPU bake-off on the Glessner block, with its kill criteria written into section 8 first? — (a) Yes, once T-2546's memory meter has landed, so walk/ and the spike are compared on the same instrument  (b) Yes, now, in parallel with the memory group  (c) Not yet: finish the memory and smoothness group first and ask again — recommended: (a)
-T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
-T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
