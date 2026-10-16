@@ -1,7 +1,7 @@
 ---
 id: T-2575
 title: Structures batch positions as Int16x4 with the dequantize offset and scale in each instance matrix, and every reader of batch positions (backingTriangles, localBoxes, the occludesView matrix check, picking) on the composed matrix, with pixel parity
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2571
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 871
 claimed_by: run 10/16/2026, 3:27:01 AM CT
 blocked_on: null
 needs_bake: false
