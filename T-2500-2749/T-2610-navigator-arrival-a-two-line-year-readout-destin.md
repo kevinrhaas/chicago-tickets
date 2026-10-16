@@ -39,12 +39,12 @@ digits show the present year (HIGH finding; `index.html #arrival-year`, `js/arri
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] QA-01: jump to 1904 from the Observatory; the small line reads DESTINATION 1904 from first paint and the ticker rolls from the present year to 1904.
-- [ ] Same for 1835 and 1812, each with its own place name.
-- [ ] Under a throttled load (Slow 3G profile) the ticker year never increases.
+- [x] QA-01: jump to 1904 from the Observatory; the small line reads DESTINATION 1904 from first paint and the ticker rolls from the present year to 1904.
+- [x] Same for 1835 and 1812, each with its own place name.
+- [x] Under a throttled load (Slow 3G profile) the ticker year never increases.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
-- [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] Works in all four machine skins and with reduced motion.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
