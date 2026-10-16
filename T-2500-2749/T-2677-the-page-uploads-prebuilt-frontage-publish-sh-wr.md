@@ -1,7 +1,7 @@
 ---
 id: T-2677
 title: The page uploads prebuilt frontage: publish.sh writes site/4d/data/prebuilt/1835/, the page loads it when its input hash is current and builds in the browser when missing or stale, check_published.mjs refuses a stale one, and measure_boot_phases --published quotes frontage's phase and the longest task at the phone profile before and after, cold and warm, with SITE-BUDGET re-measured
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2560
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 3:05:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38959164966
+claimed_at: 2026-10-16T20:05:55.004Z
 decision: null
 decision_answer: null
 ---
