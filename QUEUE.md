@@ -66,7 +66,6 @@ T-2543 — 1812 Prairie onto K01 from the Levy photograph: the plan re-read from
 T-2544 — 1812 Prairie's front detail from the Levy photograph: the balcony over the projection, the third storey's arched windows and fanlight, the stone lower storeys under the brick upper wall with its stone bands, and whatever the first piece's match record left open on the front (after the piece before it)
 T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-2541 — 1811 Prairie onto K01 from the Coleman/Ames photograph: its camera solved and match record written, and the draft rebuilt in place as three storeys of rock-faced brown stone — the square front bay carried to the third storey, the entrance block with its deep round arch and broad stair, the oriel over it, and the brick north flank
 T-2542 — 1811 Prairie's roofs from the photograph and the Inland Architect plate: the front bay's stone gable with its arched lights and fretwork balcony, the entrance block's pyramid and finial, the main slate roof, the north flank's stepped brick gable and the stacks; the plate's camera and match record, and the envelope's match records brought to matches (after the piece before it)
 T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 T-1874 — Refine 1726, 1730 and 1736 replacement/altered houses
@@ -195,4 +194,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2552 — Prairie from the air: break the ground's even plaid with a world-scale variation map and a distance fade (owner, 2026-10-16)
-T-2563 — Cloud sessions install the gate's Python readers at start (a SessionStart hook), so check.sh is not red for a missing scipy (owner, 2026-10-16)

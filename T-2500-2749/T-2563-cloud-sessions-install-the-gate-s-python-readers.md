@@ -1,7 +1,7 @@
 ---
 id: T-2563
 title: Cloud sessions install the gate's Python readers at start (a SessionStart hook), so check.sh is not red for a missing scipy (owner, 2026-10-16)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-15
 pr: 858
 claimed_by: run 10/15/2026, 11:39:11 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T04:50:11Z
 claimed_run: null
 claimed_at: 2026-10-16T04:39:11.395Z
 decision: null
