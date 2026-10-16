@@ -23,10 +23,23 @@ decision_answer: null
 
 Navigator getting-there style: Teleport, Ride there or Fly over, one choice that Go to, Map and Jaunts all use.
 
-## FILED OVER THE BUDGET, AND HERE IS THE REASON
+**Navigator Mk II — NAV-702.** Filed by the owner, 2026-10-16, from his design doc "Field Navigator Mk II · Experience redesign" (Rev 1.0, base `dev` @ cc2e803): *"build all of the tickets necessary for this ... then we do all of this interface work, follow that with the balance of buildings in 1904"*. The doc is written for students aged 14–16, mostly on phones: fun and easy, never trading away honesty about sources. Full transcription, owner rulings on its open questions, the mockups (M1–M10) and the dev screenshots it cites: chicago-tickets `evidence/navigator-mk2-2026-10-16/` (`DESIGN.md`; open `original/Navigator Design Doc.dc.html` in a browser for the mockups).
 
-The ticket budget refused this: the queue stands at 162 lines, at or over its ceiling of 140. It was filed anyway, on this reason:
+## Depends on
 
-> owner 2026-10-16: file every ticket the Navigator Mk II design doc needs, as one band
+- T-2651 (NAV-701) — do not claim this ticket until it has merged; take the next workable ticket instead.
+
+## What to build
+
+§07 "Move": getting-there style is a single choice — Teleport, Ride there (on the street at your mode)
+or Fly over — used by Go to, Map and Jaunts.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+- [ ] Each style works from Go to, from Map (once NAV-901 (T-2654) lands) and between Jaunt stops.
+- [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
+- [ ] Works in all four machine skins and with reduced motion.
+- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.

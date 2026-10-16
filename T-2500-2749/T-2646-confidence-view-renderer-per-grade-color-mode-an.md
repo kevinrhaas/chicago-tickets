@@ -23,10 +23,26 @@ decision_answer: null
 
 Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile.
 
-## FILED OVER THE BUDGET, AND HERE IS THE REASON
+**Navigator Mk II — NAV-603.** Filed by the owner, 2026-10-16, from his design doc "Field Navigator Mk II · Experience redesign" (Rev 1.0, base `dev` @ cc2e803): *"build all of the tickets necessary for this ... then we do all of this interface work, follow that with the balance of buildings in 1904"*. The doc is written for students aged 14–16, mostly on phones: fun and easy, never trading away honesty about sources. Full transcription, owner rulings on its open questions, the mockups (M1–M10) and the dev screenshots it cites: chicago-tickets `evidence/navigator-mk2-2026-10-16/` (`DESIGN.md`; open `original/Navigator Design Doc.dc.html` in a browser for the mockups).
 
-The ticket budget refused this: the queue stands at 156 lines, at or over its ceiling of 140. It was filed anyway, on this reason:
+## Depends on
 
-> owner 2026-10-16: file every ticket the Navigator Mk II design doc needs, as one band
+- T-2671 (NAV-S04) — do not claim this ticket until it has merged; take the next workable ticket instead.
+
+## What to build
+
+§09 and §14 "Confidence view rendering". Per-grade uniforms in `js/confidence.js` and
+`js/batch-material.js`: color (default gold / silver / bronze, NAV-S04 (T-2671)), mode (Tint / Ghost / Dither) and opacity. Ghost needs depthWrite off and
+sorts last; Dither reuses today's Reconstructed massing path. No new draw calls per grade where the
+batches already split by grade. Must not undo the performance group's budgets.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+- [ ] Each grade can be tinted, ghosted or dithered at any opacity from a test hook; hiding a grade removes its meshes as #cm-* does today.
+- [ ] The smoke's frame and draw budgets hold with X-RAY on; 60 fps on the mid-tier phone profile.
+- [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
+- [ ] Works in all four machine skins and with reduced motion.
+- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.

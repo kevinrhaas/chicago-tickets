@@ -8,8 +8,9 @@
 # - Loop follow-ups (tooling, lap, bake and rederive faults, deal and seating refinements, measurement gaps) go to the
 #   foot of band 9 (owner, 2026-09-27), unless dev's gate is red or the build in hand cannot finish without them.
 # - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
-# - No human figure is drawn. Native, Metis and Black residents, families and businesses are reconstructed in the data
-#   layer, review_required (AGENTS.md, standing constraint). Respect needs_bake and every ticket-level blocker.
+# - Human figures are drawn once the portable-humans tickets (8C) render them, and Native and Metis people may be depicted
+#   on informed, evidence-bounded judgement (owner, 2026-10-16; T-2672 rewrites AGENTS.md's standing constraint first).
+#   Black residents, families and businesses stay identified. Respect needs_bake and every ticket-level blocker.
 # - Order (owner, 2026-10-16): the performance and GPU group (band 1), 1904 structures already in progress (band 2), the
 #   Navigator interface (band 3), loop follow-ups (band 9), then the balance of Prairie Avenue 1904 (band 7, nearest
 #   Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
@@ -55,6 +56,73 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
+# Order: the two card bugs from the review and the gold/silver/bronze grade colors, then E1 arrival, E2 the Navigator shell, the string table, E3 HUD, E4 Jaunts, E5 the
+# building dossier (summary record, Glessner pilot, Inspect), E6 Confidence view, E7 Move, E9 Map/Jump/Settings with Researcher
+# mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
+# it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
+# evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
+T-2609 — Navigator: the building card's two review bugs fixed now: 'bay dining [object Object]' under Attributes, and the 1835 fire-limit by-law shown on a 1904 building
+T-2671 — Grade colors gold, silver and bronze: Attested gold, Inferred silver and Reconstructed a clearly browner bronze, everywhere a grade shows: card and dossier dots, people chips, the HUD and the Confidence view's scene tint, in both themes
+T-2610 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
+T-2611 — Navigator arrival: time-stream captions, a graded and sourced deck of 8-12 landmark years per destination shown as the ticker passes each one (at most 3 on fast loads, 8 on slow)
+T-2612 — Navigator arrival telemetry: Payload, Link and ETA kept, a YEARS TO GO counter added, the six lamps regrouped as STREETS, BUILDINGS, TREES and PEOPLE on the real boot phases, and log lines from the destination deck
+T-2613 — Navigator landing replaces Tap to enter: the last digit clunks into place, an ARRIVED flash, the device flips to Navigator Home and the scene un-blurs, with #gate-btn and the Welcome card retired behind a small js/journey.js state machine
+T-2614 — Navigator gesture gating without a gate: audio and pointer lock start on the first Home choice, canvas tap or Navigator control, desktop shows CLICK TO ENGAGE LOOK until lock, and iOS Safari logs no autoplay errors
+T-2615 — Navigator portal continuity: an arrival within 10 s of the Observatory's transfer opens with the ring's tail still expanding, so the jump reads as one shot
+T-2616 — Navigator arrival failure state: 'The jump stalled somewhere around 1950.' with TRY AGAIN and BACK TO THE OBSERVATORY, and the error detail collapsed under 'Details for your teacher'
+T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
+T-2618 — Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
+T-2619 — Navigator dock: when closed it always shows a status lamp, the NAVIGATOR label, the year and the current app's icon, and one tap or swipe up opens the last app at HALF
+T-2620 — Navigator: the drawer's panels move into Navigator apps, goto, people, businesses, evidence and settings mounted inside apps with every element id the smoke reads intact, and the hamburger drawer retired
+T-2621 — Navigator deep links and back: ?nav=app[:id]&tab= opens that app after landing, and the browser back button closes the current app before leaving the page
+T-2622 — Navigator keyboard and accessibility: N toggles it, 1-9 select rail apps, Esc closes, the rail is a tablist of tabpanels, focus moves into the app on open and is always visible
+T-2623 — Navigator telemetry strip: a phosphor footer ticking every 800 ms with FIELD, DRIFT, SIG and a RECALL lamp, reusing portal.js drift, aria-hidden, paused when hidden and still under reduced motion
+T-2624 — Navigator string table and glossary terms: every Navigator, HUD and arrival string in one table, the locked terms enforced and the renamed terms of §03 applied
+T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
+T-2626 — HUD year chip and compass-map instrument: an amber LED year chip top left that opens Jump, and the compass and mini map merged into one round instrument top right that opens Map
+T-2627 — HUD target tag and quick column: a 400 ms reticle dwell shows the building's name and distance, tap or E opens Inspect, and the quick column holds Walk/Fly plus a contextual Inspect key, never more than two
+T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
+T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
+T-2630 — Navigator Jaunts app: Jaunts · Go to · Free roam segments, opened from the Home choices and the rail, the Welcome card's three choices kept permanently
+T-2631 — Navigator Jaunt cards: plate, title, premise, minutes, stops and keepsake state for each route, with a Jaunt in progress pinned on top with Continue that survives a reload
+T-2632 — Navigator Go to cleanup: zero-result chips hidden, titles wrapping to two lines, every row showing distance and bearing, filters Places · People · Shops & work · Viewpoints
+T-2633 — Navigator Go to follows the Confidence view: the 'Include reconstructed roofs' checkbox removed, and results of a hidden grade shown dimmed with the reason
+T-2634 — Navigator Free roam: docks the Navigator and shows the one-time tip 'Tap any building to inspect it.'
+T-2635 — Building summary record: the data/summaries/<id>.json schema, its compiler into what the Inspect app reads, and a gate refusing a fact with no grade, an Attested fact with no source, a string over its length or an id or path in a string
+T-2636 — Building fallback summary: a building with no summary record gets one templated from its sidecar, never raw fields, never ids, paths or snake_case
+T-2637 — Glessner House summary record, the pilot: every line mapped to a graded fact in the Glessner research or a source record, fact-checked, and approved by the owner as the pattern for every other building
+T-2638 — Navigator Inspect app, the Overview front page: plate, address, name, status chips, summary, key facts, residents, Look for, Notable facts and the Confidence meter, replacing the floating building card
+T-2639 — Navigator Inspect tabs: Overview · People · Design · Story · Photos · Sources, a new building always opening on Overview, and the People tab listing who lived, worked or visited in the scene year, then before and after
+T-2640 — Navigator Inspect 'Show me': each Look for feature turns the camera to it in 900 ms and pulses an outline for 2 s, moving to a viewpoint first in fly mode
+T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house' hotspots with grades replacing the attribute table, Compare styles, and the Richardsonian Romanesque module for Glessner House
+T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
+T-2643 — Navigator Inspect Story tab: BUILT, YOU ARE HERE and TODAY on a timeline from design to today, filtered by the scene's era
+T-2644 — Navigator Inspect Sources tab: facts grouped by Attested, Inferred and Reconstructed with a Liberties section, human source titles, and full citations collapsed under each fact
+T-2645 — Navigator Inspect Photos tab: images sorted by date with year, caption and 'from this spot', the 12 best first and the rest behind 'All N'
+T-2646 — Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile
+T-2647 — Navigator Confidence view app with presets NORMAL, BY GRADE, ATTESTED ONLY and X-RAY, replacing the HUD chip, caret and checkbox menu, with the C hotkey still toggling BY GRADE
+T-2648 — Navigator Confidence view per-grade rows: a show toggle, four curated swatches with a color-blind-safe set, Look (Tint, Ghost, Dither), opacity 0-100 % and a live count per grade
+T-2649 — Confidence view persists and shows a HUD legend: choices saved to localStorage chicago4d.confidence and carried across destinations, and a legend chip under the year chip while the view is on
+T-2650 — Confidence view overlays: street names, building labels, people pins and the Jaunt route, each with its own toggle at the foot of the app
+T-2651 — Navigator Move app: one mode picker, Walk, Run, Wagon, Horse or Fly, replacing #s-travel and #s-pace, with one slider for the active mode that keeps the named speeds
+T-2652 — Navigator getting-there style: Teleport, Ride there or Fly over, one choice that Go to, Map and Jaunts all use
+T-2653 — Navigator Move comfort: head bob, eye height (keeping the researched default and its 'Why?') and snap-turn on touch
+T-2654 — Navigator Map app: the whole field inside the device with your arrow, tap a building to preview it then Go, Jaunt routes dotted, and a legend in the Confidence view colors
+T-2655 — Navigator Jump app: the destinations as era mini-cards with HERE on the current one, an in-world jump (ring, time-stream, landing) to another, and RECALL to the Observatory as the screen's only signal-red key
+T-2656 — Navigator Settings app: Display (brightness, field of view, road visibility, labels, light/dark, text size 100-140 %), the machine skins as preview tiles, Performance with Auto, Sound, Units, and About & What's new
+T-2657 — Researcher mode: a Settings › About switch, off by default, that brings back the order book, ticket references, source ids, file paths and the full 'Why this default' essays the visitor UI no longer carries
+T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
+T-2659 — Navigator sound, on by default: the ticker's flap ticks capped at 12 a second, the landing clunk, relay clicks and a hum while the Navigator is open, per-destination ambience, and Settings › Sound with master, effects and ambience
+T-2660 — Field log on the device: landed, first inspect, tabs opened, Show me, Jaunts started and finished, Tour steps and Confidence presets counted in localStorage only, shown in Settings › About with a Clear button, never sent
+T-2661 — Navigator Guide controls sheet: device-aware touch or keyboard controls from controls/intent.js, replacing the control-help popover
+T-2662 — Navigator Guide glossary and FAQ: the locked terms with one-line meanings, 'Is this real?' and 'What does Reconstructed mean?' in 60 words or fewer each, and a locked term's first appearance on a screen showing its meaning on tap
+T-2663 — Navigator Tour mode: the seven-step Field Check, each step completing on the real action, a spotlight cut-out with 55 % dim, Skip always visible, resume after reload and replay from Guide
+T-2664 — Navigator first-landing tour offer: offered once per device after landing, declining never re-prompts, and one-time hints after it for the first Jaunt, first Jump and first Reconstructed building
+T-2665 — Navigator License keepsake: awarded on finishing the tour and shown with the Jaunt keepsakes in the Jaunts app
+T-2666 — Navigator teacher handout: Guide › For teachers prints the seven tour steps on one page with three suggested Jaunts per destination
+T-2667 — Evidence hub becomes Guide › About this destination: ten topics folded into four cards, How we grade, Sources, Liberties and What lived and grew here, with the order book behind Researcher mode
+T-2668 — Visitor-UI lint: check.sh fails on file paths, ids, snake_case, 'tier', 'ticket' or 'order book' in visitor strings, with Researcher-mode strings exempt
+T-2669 — Reading-level check: summaries, facts, captions and tour bubbles score Flesch-Kincaid grade 9 or lower in check.sh, with the sentence and length limits of §03
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 T-2606 — The yards' sward test indexed: suppressesSward scans every fenced interior's bounding box for every lattice slot (2.3 s of a 7.5 s flora profile at 4x/390x780, the largest single flora cost), so a cell grid like flora's circleGrid answers it with identical answers at every slot
@@ -146,8 +214,8 @@ T-1949 — Verify the completed 20th-22nd Prairie streetscape
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
 # Owner, 2026-10-03: had moved it to sit directly above the Prairie Avenue 1904 architectural programme.
 # Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
-T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
 T-2672 — AGENTS.md's standing constraint rewritten to the owner's 2026-10-16 rulings: human figures drawn once the portable-humans pipeline renders them, and Native and Metis people depicted on informed, evidence-bounded judgement
+T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
 T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-1791 — Build Mark Beaubien as Chicago 4D's first historical portable human, from Blender master to interactive browser actor
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
@@ -197,66 +265,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
-T-2609 — Navigator: the building card's two review bugs fixed now: 'bay dining [object Object]' under Attributes, and the 1835 fire-limit by-law shown on a 1904 building
-T-2671 — Grade colors gold, silver and bronze: Attested gold, Inferred silver and Reconstructed a clearly browner bronze, everywhere a grade shows: card and dossier dots, people chips, the HUD and the Confidence view's scene tint, in both themes
-T-2610 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
-T-2611 — Navigator arrival: time-stream captions, a graded and sourced deck of 8-12 landmark years per destination shown as the ticker passes each one (at most 3 on fast loads, 8 on slow)
-T-2612 — Navigator arrival telemetry: Payload, Link and ETA kept, a YEARS TO GO counter added, the six lamps regrouped as STREETS, BUILDINGS, TREES and PEOPLE on the real boot phases, and log lines from the destination deck
-T-2613 — Navigator landing replaces Tap to enter: the last digit clunks into place, an ARRIVED flash, the device flips to Navigator Home and the scene un-blurs, with #gate-btn and the Welcome card retired behind a small js/journey.js state machine
-T-2614 — Navigator gesture gating without a gate: audio and pointer lock start on the first Home choice, canvas tap or Navigator control, desktop shows CLICK TO ENGAGE LOOK until lock, and iOS Safari logs no autoplay errors
-T-2615 — Navigator portal continuity: an arrival within 10 s of the Observatory's transfer opens with the ring's tail still expanding, so the jump reads as one shot
-T-2616 — Navigator arrival failure state: 'The jump stalled somewhere around 1950.' with TRY AGAIN and BACK TO THE OBSERVATORY, and the error detail collapsed under 'Details for your teacher'
-T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
-T-2618 — Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
-T-2619 — Navigator dock: when closed it always shows a status lamp, the NAVIGATOR label, the year and the current app's icon, and one tap or swipe up opens the last app at HALF
-T-2620 — Navigator: the drawer's panels move into Navigator apps, goto, people, businesses, evidence and settings mounted inside apps with every element id the smoke reads intact, and the hamburger drawer retired
-T-2621 — Navigator deep links and back: ?nav=app[:id]&tab= opens that app after landing, and the browser back button closes the current app before leaving the page
-T-2622 — Navigator keyboard and accessibility: N toggles it, 1-9 select rail apps, Esc closes, the rail is a tablist of tabpanels, focus moves into the app on open and is always visible
-T-2623 — Navigator telemetry strip: a phosphor footer ticking every 800 ms with FIELD, DRIFT, SIG and a RECALL lamp, reusing portal.js drift, aria-hidden, paused when hidden and still under reduced motion
-T-2624 — Navigator string table and glossary terms: every Navigator, HUD and arrival string in one table, the locked terms enforced and the renamed terms of §03 applied
-T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
-T-2626 — HUD year chip and compass-map instrument: an amber LED year chip top left that opens Jump, and the compass and mini map merged into one round instrument top right that opens Map
-T-2627 — HUD target tag and quick column: a 400 ms reticle dwell shows the building's name and distance, tap or E opens Inspect, and the quick column holds Walk/Fly plus a contextual Inspect key, never more than two
-T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
-T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
-T-2630 — Navigator Jaunts app: Jaunts · Go to · Free roam segments, opened from the Home choices and the rail, the Welcome card's three choices kept permanently
-T-2631 — Navigator Jaunt cards: plate, title, premise, minutes, stops and keepsake state for each route, with a Jaunt in progress pinned on top with Continue that survives a reload
-T-2632 — Navigator Go to cleanup: zero-result chips hidden, titles wrapping to two lines, every row showing distance and bearing, filters Places · People · Shops & work · Viewpoints
-T-2633 — Navigator Go to follows the Confidence view: the 'Include reconstructed roofs' checkbox removed, and results of a hidden grade shown dimmed with the reason
-T-2634 — Navigator Free roam: docks the Navigator and shows the one-time tip 'Tap any building to inspect it.'
-T-2635 — Building summary record: the data/summaries/<id>.json schema, its compiler into what the Inspect app reads, and a gate refusing a fact with no grade, an Attested fact with no source, a string over its length or an id or path in a string
-T-2636 — Building fallback summary: a building with no summary record gets one templated from its sidecar, never raw fields, never ids, paths or snake_case
-T-2637 — Glessner House summary record, the pilot: every line mapped to a graded fact in the Glessner research or a source record, fact-checked, and approved by the owner as the pattern for every other building
-T-2638 — Navigator Inspect app, the Overview front page: plate, address, name, status chips, summary, key facts, residents, Look for, Notable facts and the Confidence meter, replacing the floating building card
-T-2639 — Navigator Inspect tabs: Overview · People · Design · Story · Photos · Sources, a new building always opening on Overview, and the People tab listing who lived, worked or visited in the scene year, then before and after
-T-2640 — Navigator Inspect 'Show me': each Look for feature turns the camera to it in 900 ms and pulses an outline for 2 s, moving to a viewpoint first in fly mode
-T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house' hotspots with grades replacing the attribute table, Compare styles, and the Richardsonian Romanesque module for Glessner House
-T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
-T-2643 — Navigator Inspect Story tab: BUILT, YOU ARE HERE and TODAY on a timeline from design to today, filtered by the scene's era
-T-2644 — Navigator Inspect Sources tab: facts grouped by Attested, Inferred and Reconstructed with a Liberties section, human source titles, and full citations collapsed under each fact
-T-2645 — Navigator Inspect Photos tab: images sorted by date with year, caption and 'from this spot', the 12 best first and the rest behind 'All N'
-T-2646 — Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile
-T-2647 — Navigator Confidence view app with presets NORMAL, BY GRADE, ATTESTED ONLY and X-RAY, replacing the HUD chip, caret and checkbox menu, with the C hotkey still toggling BY GRADE
-T-2648 — Navigator Confidence view per-grade rows: a show toggle, four curated swatches with a color-blind-safe set, Look (Tint, Ghost, Dither), opacity 0-100 % and a live count per grade
-T-2649 — Confidence view persists and shows a HUD legend: choices saved to localStorage chicago4d.confidence and carried across destinations, and a legend chip under the year chip while the view is on
-T-2650 — Confidence view overlays: street names, building labels, people pins and the Jaunt route, each with its own toggle at the foot of the app
-T-2651 — Navigator Move app: one mode picker, Walk, Run, Wagon, Horse or Fly, replacing #s-travel and #s-pace, with one slider for the active mode that keeps the named speeds
-T-2652 — Navigator getting-there style: Teleport, Ride there or Fly over, one choice that Go to, Map and Jaunts all use
-T-2653 — Navigator Move comfort: head bob, eye height (keeping the researched default and its 'Why?') and snap-turn on touch
-T-2654 — Navigator Map app: the whole field inside the device with your arrow, tap a building to preview it then Go, Jaunt routes dotted, and a legend in the Confidence view colors
-T-2655 — Navigator Jump app: the destinations as era mini-cards with HERE on the current one, an in-world jump (ring, time-stream, landing) to another, and RECALL to the Observatory as the screen's only signal-red key
-T-2656 — Navigator Settings app: Display (brightness, field of view, road visibility, labels, light/dark, text size 100-140 %), the machine skins as preview tiles, Performance with Auto, Sound, Units, and About & What's new
-T-2657 — Researcher mode: a Settings › About switch, off by default, that brings back the order book, ticket references, source ids, file paths and the full 'Why this default' essays the visitor UI no longer carries
-T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
-T-2659 — Navigator sound, on by default: the ticker's flap ticks capped at 12 a second, the landing clunk, relay clicks and a hum while the Navigator is open, per-destination ambience, and Settings › Sound with master, effects and ambience
-T-2660 — Field log on the device: landed, first inspect, tabs opened, Show me, Jaunts started and finished, Tour steps and Confidence presets counted in localStorage only, shown in Settings › About with a Clear button, never sent
-T-2661 — Navigator Guide controls sheet: device-aware touch or keyboard controls from controls/intent.js, replacing the control-help popover
-T-2662 — Navigator Guide glossary and FAQ: the locked terms with one-line meanings, 'Is this real?' and 'What does Reconstructed mean?' in 60 words or fewer each, and a locked term's first appearance on a screen showing its meaning on tap
-T-2663 — Navigator Tour mode: the seven-step Field Check, each step completing on the real action, a spotlight cut-out with 55 % dim, Skip always visible, resume after reload and replay from Guide
-T-2664 — Navigator first-landing tour offer: offered once per device after landing, declining never re-prompts, and one-time hints after it for the first Jaunt, first Jump and first Reconstructed building
-T-2665 — Navigator License keepsake: awarded on finishing the tour and shown with the Jaunt keepsakes in the Jaunts app
-T-2666 — Navigator teacher handout: Guide › For teachers prints the seven tour steps on one page with three suggested Jaunts per destination
-T-2667 — Evidence hub becomes Guide › About this destination: ten topics folded into four cards, How we grade, Sources, Liberties and What lived and grew here, with the order book behind Researcher mode
-T-2668 — Visitor-UI lint: check.sh fails on file paths, ids, snake_case, 'tier', 'ticket' or 'order book' in visitor strings, with Researcher-mode strings exempt
-T-2669 — Reading-level check: summaries, facts, captions and tour bubbles score Flesch-Kincaid grade 9 or lower in check.sh, with the sentence and length limits of §03
 T-2670 — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80 % or more succeeding unaided
