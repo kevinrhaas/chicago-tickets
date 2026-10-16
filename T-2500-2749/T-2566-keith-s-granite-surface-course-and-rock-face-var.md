@@ -1,7 +1,7 @@
 ---
 id: T-2566
 title: Keith's granite surface: course and rock-face variation, the checker stones, the upper capital and head-band profiles, and the tint read under neutral light
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1883
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 862
 claimed_by: run 10/16/2026, 12:05:17 AM CT
 blocked_on: null
 needs_bake: true
