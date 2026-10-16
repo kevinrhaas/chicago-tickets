@@ -1,7 +1,7 @@
 ---
 id: T-2579
 title: Keith's five independent cameras re-fitted with their solves recorded (Florian 1948, Glessner front, the Inland Architect Glessner plate, the 1965 porch, Reed 1941)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2567
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 873
 claimed_by: run 10/16/2026, 5:02:32 AM CT
 blocked_on: null
 needs_bake: false
