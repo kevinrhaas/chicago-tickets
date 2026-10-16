@@ -210,3 +210,4 @@ T-2619 — Navigator dock: when closed it always shows a status lamp, the NAVIGA
 T-2620 — Navigator: the drawer's panels move into Navigator apps, goto, people, businesses, evidence and settings mounted inside apps with every element id the smoke reads intact, and the hamburger drawer retired
 T-2621 — Navigator deep links and back: ?nav=app[:id]&tab= opens that app after landing, and the browser back button closes the current app before leaving the page
 T-2622 — Navigator keyboard and accessibility: N toggles it, 1-9 select rail apps, Esc closes, the rail is a tablist of tabpanels, focus moves into the app on open and is always visible
+T-2623 — Navigator telemetry strip: a phosphor footer ticking every 800 ms with FIELD, DRIFT, SIG and a RECALL lamp, reusing portal.js drift, aria-hidden, paused when hidden and still under reduced motion
