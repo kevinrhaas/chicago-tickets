@@ -34,3 +34,5 @@ When T-2605 was split (2026-10-16T20:07:26.893Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38958134513) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+measure_walk_frames --only mobile --tiers full --moves walk,turn --throttle 4 --source --verify, before and after on the same runner: the walk's flora tasks over 50 ms go from 2 to 1 (the one left is the right turn's snap, T-2683's), the turn's reading no worse, and --verify still reads every spread pass equal to the one-frame pass. Boot to ready quoted before and after.
