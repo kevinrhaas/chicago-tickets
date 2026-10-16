@@ -1,7 +1,7 @@
 ---
 id: T-2543
 title: 1812 Prairie onto K01 from the Levy photograph: the plan re-read from sheet 28, three storeys over the raised basement at the photograph's heights, the arched entrance and stair, the south projection, and the street front's shaped Flemish gable with its grid attic light and finial; its camera solved and match record written
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1884
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/15/2026, 9:36:15 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38839965012
+claimed_at: 2026-10-16T02:36:15.294Z
 decision: null
 decision_answer: null
 ---
