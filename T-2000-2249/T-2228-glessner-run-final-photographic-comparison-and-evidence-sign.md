@@ -309,3 +309,23 @@ Front-entry implementation checkpoint,2026-10-16: native HABS5 SectionA/elevatio
 
 
 Entrance review checkpoint,2026-10-16: actual master8aa944555ecb48438908df5f700406ee1ac30c20474330994442bf483b41ed1d is baked. All12 canonical side-by-sides plus separate frontal/oblique entry renders were directly viewed. The recessed entrance, outward lower wall, shaped header, single inset step and recessed carved field are present. K01 passes at1,369,074 Full/Web and194,245 Light triangles with zero coincident faces; all prior roof/window controls remain. All12 comparisons honestly retain differs for documented remaining photographic discrepancies. Current dev ac7c81ed is being integrated; derived rebuild, published mobile/desktop validation and fresh gates precede push/merge. PR851 remains draft and T-2228 remains claimed with no PR frontmatter, preventing automatic closure of the unfinished photo audit.
+
+
+### Correction batch merged to dev, 2026-10-16
+
+PR #851 is squash-merged into `dev` as `c6b03d9c`. It carries the straight north ridge,
+the planar northeast copper return, the southern upper west slit moved to S19.8,
+and the recessed Prairie entrance (cutback sides, shaped header, one inset step,
+recessed carved field), on master
+`8aa944555ecb48438908df5f700406ee1ac30c20474330994442bf483b41ed1d`.
+The run that opened it stopped before its smoke finished. A later session merged
+`dev` in four times, re-derived the conflicted research files, and re-ran the full gate
+(901 steps) and the published smoke, both viewports. That smoke's one red, the 1904 spawn
+draw budget, was `dev`'s and is fixed by T-2603 (#890): GPU picks had left their passes
+in the frame counts.
+
+This is a correction within the open audit, not photographic sign-off: all twelve
+canonical comparisons remain `differs`. T-2228 stays open. Next, per the owner findings
+above: the cupola body and roof-height calibration against Cornell and HABS01, the
+terrace terminal and coping join, west-court access levels, the remaining opening and
+ornament details, and material and lighting correspondence.
