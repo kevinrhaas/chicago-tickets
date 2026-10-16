@@ -1,7 +1,7 @@
 ---
 id: T-2546
 title: A memory meter and ceilings: resident JS heap, ArrayBuffers and GPU geometry and texture bytes per year, viewport and layer, gated like frame time (phone memory crashes, owner 2026-10-16)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: 864
 claimed_by: run 10/16/2026, 12:46:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-16T06:55:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38856979662
 claimed_at: 2026-10-16T05:46:36.126Z
 decision: null
