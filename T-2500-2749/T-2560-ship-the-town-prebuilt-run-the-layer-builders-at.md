@@ -1,7 +1,7 @@
 ---
 id: T-2560
 title: Ship the town prebuilt: run the layer builders at publish and ship frontage and spatial-batch buffers as compressed binaries, so a phone uploads the town instead of building it at every boot
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 1:38:00 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38948055852
+claimed_at: 2026-10-16T18:38:00.737Z
 decision: null
 decision_answer: null
 ---
