@@ -1,7 +1,7 @@
 ---
 id: T-2681
 title: Keith's loggia columns taller as the 1965 porch view shows them, the beam raised under a shallower balcony front and the south pair set further south
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2587
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 919
 claimed_by: run 10/16/2026, 4:56:08 PM CT
 blocked_on: null
 needs_bake: false
