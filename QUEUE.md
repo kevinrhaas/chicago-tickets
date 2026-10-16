@@ -46,6 +46,7 @@ T-2558 — H0, the WebGPU bake-off RENDERING.md planned and never started: three
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 T-2562 — Wabansia's re-derive check is red on Python 3.13: an embedded docstring's indentation differs by interpreter
 T-2576 — Quantized positions in frontage, enclosures and yard: Int16x4 relative to each chunk with the offset and scale in its matrix, every probe and spatialBatch reader made to apply it, so the four layers reach T-2549's 40 %
+T-2581 — Keith's south face: the front strip the mid-1950s view shows in smooth dressed stone full height, where the build lays toothed quoins on brick, measured and built
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 are references only; their execution is delegated to the T-1837 children below.
