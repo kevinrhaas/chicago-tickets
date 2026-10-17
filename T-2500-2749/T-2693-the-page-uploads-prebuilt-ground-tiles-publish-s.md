@@ -1,7 +1,7 @@
 ---
 id: T-2693
 title: The page uploads prebuilt ground tiles: publish.sh writes them into site/4d/data/prebuilt/1835/, terrain.js batches them when their input hash is current and builds in the browser when missing or stale, check_published.mjs refuses a stale one, and measure_boot_phases --published quotes terrain's phase and longest task at the phone profile before and after, cold and warm, with SITE-BUDGET re-measured
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2678
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 933
 claimed_by: run 10/16/2026, 8:54:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T05:08:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38992397828
 claimed_at: 2026-10-17T01:54:37.937Z
 decision: null
