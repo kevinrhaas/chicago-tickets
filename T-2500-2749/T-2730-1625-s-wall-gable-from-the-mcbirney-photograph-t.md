@@ -1,7 +1,7 @@
 ---
 id: T-2730
 title: 1625's wall gable from the McBirney photograph: the front carried up as a steep coped wall gable with its three attic lights and oculus, the south wall's eave at the knee wall about 13 m, and the stack on the north party wall beside the gable
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2435
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 991
 claimed_by: run 10/17/2026, 1:53:15 PM CT
 blocked_on: null
 needs_bake: false
