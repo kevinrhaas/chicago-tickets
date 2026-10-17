@@ -1,7 +1,7 @@
 ---
 id: T-2715
 title: The near field tile's BLOCKED holds the CPU's exclusion slot for slot: the worked bank's bare patches dealt per field texel instead of per point, any edge the tile still misses closed, and measure_flora_gpu_deal.mjs's exclusion hits 0 at all 22 critic stations on phone and desktop, with density and every species share still within 1 sigma of the CPU
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2708
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 972
 claimed_by: run 10/17/2026, 3:18:38 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T10:40:28Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39016210646
 claimed_at: 2026-10-17T08:18:38.509Z
 decision: null
