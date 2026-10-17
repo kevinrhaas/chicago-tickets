@@ -240,3 +240,4 @@ T-2742 — Navigator close key: an X at the top right of the open device that cl
 # BLOCKED-TECH T-2745 (opened 2026-10-17, META) — 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street gro…
 #     waits: T-2744 (the 1835 placement tools and grove records it reuses)
 T-2746 — 1904 roadway: clear the dark band across 18th at Prairie and hide the lot lines by default
+T-2747 — 1904 walking jaunts: famous names, famous architects, three style tours, and a self-updating built-so-far tour
