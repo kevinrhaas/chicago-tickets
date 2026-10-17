@@ -1,7 +1,7 @@
 ---
 id: T-2626
 title: HUD year chip and compass-map instrument: an amber LED year chip top left that opens Jump, and the compass and mini map merged into one round instrument top right that opens Map
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-302
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 951
 claimed_by: run 10/17/2026, 1:45:43 AM CT
 blocked_on: null
 needs_bake: false
