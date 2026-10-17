@@ -1,7 +1,7 @@
 ---
 id: T-2647
 title: Navigator Confidence view app with presets NORMAL, BY GRADE, ATTESTED ONLY and X-RAY, replacing the HUD chip, caret and checkbox menu, with the C hotkey still toggling BY GRADE
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-601
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 974
 claimed_by: run 10/17/2026, 2:29:36 AM CT
 blocked_on: null
 needs_bake: false
