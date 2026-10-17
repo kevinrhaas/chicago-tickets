@@ -1,7 +1,7 @@
 ---
 id: T-2735
 title: Return to the Observatory: All destinations and Recall ask first, then a light reverse ring carries you back
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 987
 claimed_by: run 10/17/2026, 1:23:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T20:09:13Z
 claimed_run: null
 claimed_at: 2026-10-17T18:23:55.666Z
 decision: null

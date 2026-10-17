@@ -1,7 +1,7 @@
 ---
 id: T-2716
 title: The near set drawn from the shader in the page: the near ring's instances computed from the GLSL lattice, deal and the kept field tile, the slot ring's handover in GLSL, the CPU scatter kept only for the heads, critic captures passing, zero page errors
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2708
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 983
 claimed_by: run 10/17/2026, 11:58:08 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T20:05:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39051416888
 claimed_at: 2026-10-17T16:58:08.812Z
 decision: null
