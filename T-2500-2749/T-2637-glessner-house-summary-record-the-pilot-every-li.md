@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: 2026-10-16T23:30:42.599Z
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Glessner House summary record, the pilot: every line mapped to a graded fact in the Glessner research or a source record, fact-checked, and approved by the owner as the pattern for every other building.
@@ -51,7 +51,7 @@ NAV-1005 and the editorial note in §08. The mockup's Glessner copy (M7/M8) is i
 
 - [ ] The record passes NAV-502 (T-2635)'s gate; every fact has a grade and every Attested fact a resolving source.
 - [ ] The three editorial-note facts each have a real source record, or are absent.
-- [ ] The owner has answered the approval card with (a) before merge.
+- [x] The owner has answered the approval card with (a) before merge.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
 - [ ] Works in all four machine skins and with reduced motion.
 - [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
@@ -66,6 +66,8 @@ The record's `residents` is empty, and the gate is right to refuse anything else
 The household facts are ready for that ticket. John J. and Frances M. Glessner lived at 1800 in 1904 (HABS data pages; the museum's family page). The grown children did not: the daughter married in February 1898 and "within a few years" moved one block north to 1700 S. Prairie Avenue, and the son married in June 1898 (`glessner_house_family_page`). No source read names the 1904 household staff.
 
 ## Decision needed
+
+Answered 2026-10-17 by the owner in the coordinating session: (a) approve as the pattern.
 
 **Question:** Approve the Glessner House summary record (draft PR #922, https://github.com/kevinrhaas/chicago/pull/922) as the pattern for every other building's front page? It has a 3-sentence summary, 5 key facts, 3 Look-for items, 6 notable facts and a 12-entry story, 28 facts, all Attested and sourced. The Nutshell Studies, Richardson's death before construction and the 1966 rescue each now cite a real source record. It has no residents, because 1904 has no people directory yet (finding on this ticket).
 
