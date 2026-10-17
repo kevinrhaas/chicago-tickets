@@ -1,7 +1,7 @@
 ---
 id: T-2633
 title: Navigator Go to follows the Confidence view: the 'Include reconstructed roofs' checkbox removed, and results of a hidden grade shown dimmed with the reason
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-404
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 965
 claimed_by: run 10/17/2026, 3:58:39 AM CT
 blocked_on: null
 needs_bake: false
