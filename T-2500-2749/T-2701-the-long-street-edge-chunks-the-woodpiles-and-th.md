@@ -1,7 +1,7 @@
 ---
 id: T-2701
 title: The long street-edge chunks, the woodpiles and the far walk tops onto that box table, so every position in frontage, enclosures and yard is 8 B with stage 5's call counts equal to dev's (the cut read 428/381/96 calls at full/balanced/light against dev's 294/263/78)
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2688
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 938
 claimed_by: run 10/16/2026, 11:28:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T05:42:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39002432043
 claimed_at: 2026-10-17T04:28:36.371Z
 decision: null
