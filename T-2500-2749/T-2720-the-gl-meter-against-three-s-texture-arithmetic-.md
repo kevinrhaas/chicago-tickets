@@ -1,7 +1,7 @@
 ---
 id: T-2720
 title: The GL meter against three's texture arithmetic on the H0 classic page: which of the 39.5 MiB gap is the meter's, and memory_ceilings.json moved if it is
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2602
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 12:01:02 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39051410655
+claimed_at: 2026-10-17T17:01:02.839Z
 decision: null
 decision_answer: null
 ---
