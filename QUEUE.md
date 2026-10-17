@@ -58,7 +58,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
-T-2620 — Navigator: the drawer's panels move into Navigator apps, goto, people, businesses, evidence and settings mounted inside apps with every element id the smoke reads intact, and the hamburger drawer retired
 T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
 T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
 T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones

@@ -1,7 +1,7 @@
 ---
 id: T-2620
 title: Navigator: the drawer's panels move into Navigator apps, goto, people, businesses, evidence and settings mounted inside apps with every element id the smoke reads intact, and the hamburger drawer retired
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-206
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 957
 claimed_by: run 10/17/2026, 1:54:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T17:54:52Z
 claimed_run: null
 claimed_at: 2026-10-17T06:54:04.931Z
 decision: null
