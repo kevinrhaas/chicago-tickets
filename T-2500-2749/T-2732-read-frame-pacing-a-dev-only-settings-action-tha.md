@@ -34,3 +34,8 @@ When T-2722 was split (2026-10-17T18:21:54.818Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39057123887) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. Settings → Performance carries a **Read frame pacing** button on the dev preview (`/4d/dev/`, recognised by its banner) and anywhere with `?pacing=read`; on production without the parameter it is not there.
+2. Pressing it enters the town if the welcome is up, closes the panel, sets Scene detail to light and drives walk, turn and flight through the page's own animation loop — the moves, poses and interval arithmetic of `measure_walk_frames.mjs --live` (only canvas draws counted, offscreen picks excluded) — Fixed then Adaptive, a few seconds each, then puts back the visitor's detail, pacing, place and flight.
+3. It shows, per move, Fixed and Adaptive frame-time sd and p95 (with draws, mean, median, max) and FELL / DID NOT FALL, with the device it was read on (screen, ratio, user agent), and a Copy button that puts that text on the clipboard to send back.
+4. A node test pins the arithmetic and the visibility rule; a Playwright run at 390x780 on the runner presses the button and reads a complete result with zero page errors and the settings restored (the numbers there are SwiftShader's noise and are not the reading — T-2733 is).
