@@ -30,6 +30,20 @@ Navigator Confidence view app with presets NORMAL, BY GRADE, ATTESTED ONLY and X
 - T-2618 (NAV-202) — do not claim this ticket until it has merged; take the next workable ticket instead.
 - T-2646 (NAV-603) — do not claim this ticket until it has merged; take the next workable ticket instead.
 
+## Found by the loop (2026-10-17): X-RAY is over the draw budget on dev
+
+Desktop smoke part 2's T-2646 check `X-RAY ghosts two grades in a pass drawn last, inside the
+draw budget` is RED on dev: 335 calls against a budget of 330. Read with a probe at the smoke's
+own frame (`frame('sauganash_hotel', 26)`, 1280x800, animation held, Inferred ghost 50 %,
+Reconstructed ghost 25 %), identically on dev 0182d2fc7 (before T-2700) and c8cfb30e6 (after):
+plain 222 · BY GRADE 222 · X-RAY 335 = opaque 187 + ghost pass 148 (661 targets, 4728 opaque
+instances left out, 13 ghost instances left out), zero page errors. Mobile part 2 passes it.
+#921's own desktop 2-3 leg (head 0538fa6a) passed this check, so something that landed on dev
+around it moved the count. This preset puts X-RAY one tap away, so the frame should be inside
+its budget before it ships: bring the ghost pass's calls down (not the budget up), quoting BY
+GRADE and X-RAY calls at desktop and mobile before and after. (Not filed as its own line: the
+queue is over its ceiling.)
+
 ## What to build
 
 §09, M9. NORMAL: everything shown, no color (default). BY GRADE: today's Confidence chip. ATTESTED
