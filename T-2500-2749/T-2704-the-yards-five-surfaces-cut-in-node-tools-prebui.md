@@ -1,7 +1,7 @@
 ---
 id: T-2704
 title: The yards' five surfaces cut in Node: tools/prebuild_layers.mjs --layer yards builds createFencedGround's own surfaces over the enclosures' records, each cut by spatialPieces and written with an input hash, byte-equal to the live page's yard batches (--parity, zero page errors), determinism and stale-input refusal gated in check.sh
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2694
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 935
 claimed_by: run 10/16/2026, 10:27:44 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T04:10:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38997057314
 claimed_at: 2026-10-17T03:27:44.681Z
 decision: null
