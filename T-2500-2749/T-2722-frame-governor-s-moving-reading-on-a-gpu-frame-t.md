@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Frame governor's moving reading on a GPU: frame-time sd and p95 fall for walk, turn and flight at light on the phone profile, read on hardware whose frame costs tens of milliseconds (a GPU runner or the owner's phone).
@@ -46,3 +46,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Recommendation:** (a) On your own phone: a run first builds a dev-only 'Read frame pacing' action that drives walk, turn and flight Adaptive then Fixed in the page and shows sd and p95 to copy back (no cost) — it costs nothing and reads the device the 'walking is laggy' report came from, at its own refresh rate
 
 **Asked:** 2026-10-17 by https://github.com/kevinrhaas/polecat-platform/actions/runs/39051404538. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-17, via Manager):** (a) On your own phone: a run first builds a dev-only 'Read frame pacing' action that drives walk, turn and flight Adaptive then Fixed in the page and shows sd and p95 to copy back (no cost)
