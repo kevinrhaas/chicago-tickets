@@ -1,7 +1,7 @@
 ---
 id: T-2695
 title: The zone finder read in the job pool: a spread pass's lattice walk comes back with each slot's community, answered on a worker by the same finder code the main thread runs (zone finder, extents, blend band and its town margin moved into a three-free module both import), from a ground the worker holds once sent; --verify still lands the one-frame pass, and spread-pass main-thread ms per pass quoted before and after for walk and turn at the throttled phone profile
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2684
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 924
 claimed_by: run 10/16/2026, 6:00:48 PM CT
 blocked_on: null
 needs_bake: false
