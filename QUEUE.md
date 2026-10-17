@@ -236,3 +236,4 @@ T-2740 — Go to list: sort by distance, address, name or owner
 T-2741 — Where-am-I on the compass: era street and today's street and address, every year
 T-2742 — Navigator close key: an X at the top right of the open device that closes it like the collapse arrow, styled to match it on every appearance, with a 44 px touch target on a phone
 T-2744 — 1835 trees from the research: the 16th-18th Street shore cottonwood grove, cedar and sand-cherry dune scrub, North Side woods at their recorded density with the Rush Street path, Kinzie cottonwoods, fort fruit trees and Harmon's orchard
+T-2745 — 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street grove and dune scrub, the Kinzie poplars and young cottonwoods
