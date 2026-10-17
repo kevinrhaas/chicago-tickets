@@ -1,7 +1,7 @@
 ---
 id: T-2624
 title: Navigator string table and glossary terms: every Navigator, HUD and arrival string in one table, the locked terms enforced and the renamed terms of §03 applied
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-1001
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 946
 claimed_by: run 10/17/2026, 1:45:30 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T08:51:42Z
 claimed_run: null
 claimed_at: 2026-10-17T06:45:30.688Z
 decision: null
