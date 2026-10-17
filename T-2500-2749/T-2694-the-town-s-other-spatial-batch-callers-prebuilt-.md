@@ -1,7 +1,7 @@
 ---
 id: T-2694
 title: The town's other spatial-batch callers prebuilt (yards' five surfaces, streets' three, the railway and the distant ground base): written at publish and uploaded by the page, byte parity with the page's own partition and boot phases quoted before and after
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2678
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 9:16:31 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38993985220
+claimed_at: 2026-10-17T02:16:31.711Z
 decision: null
 decision_answer: null
 ---
