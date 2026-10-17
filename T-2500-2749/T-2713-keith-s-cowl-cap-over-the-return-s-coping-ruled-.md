@@ -1,7 +1,7 @@
 ---
 id: T-2713
 title: Keith's cowl cap over the return's coping ruled: the c. 1888 SW view's higher-seeming cap and the Glessner-front view's cap where the print shows sky, read through the re-fitted cameras, built, and both match records' cap differences closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2586
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 2:49:29 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39012306765
+claimed_at: 2026-10-17T07:49:29.955Z
 decision: null
 decision_answer: null
 ---
