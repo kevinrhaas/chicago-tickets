@@ -1,7 +1,7 @@
 ---
 id: T-2631
 title: Navigator Jaunt cards: plate, title, premise, minutes, stops and keepsake state for each route, with a Jaunt in progress pinned on top with Continue that survives a reload
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-402
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 962
 claimed_by: run 10/17/2026, 3:55:27 AM CT
 blocked_on: null
 needs_bake: false
