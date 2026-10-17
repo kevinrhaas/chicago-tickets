@@ -1,7 +1,7 @@
 ---
 id: T-2721
 title: Where the steward runner's live frame goes, and llvmpipe weighed as the governor reading's software stand-in: measure_walk_frames --gl llvmpipe, every live reading naming its rasteriser, the multi-second frame located by a CPU profile, and the verdict recorded with its reading
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2592
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 979
 claimed_by: run 10/17/2026, 12:13:54 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T18:06:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39051404538
 claimed_at: 2026-10-17T17:13:54.786Z
 decision: null
