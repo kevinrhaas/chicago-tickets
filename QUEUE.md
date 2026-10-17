@@ -233,3 +233,4 @@ T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIR
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
 T-2734 — Home page destination clips play in black and white
 T-2738 — Prairie draft second sweep: stand the leftover detached pieces against their walls and make the floating draft porches solid stoops
+T-2740 — Go to list: sort by distance, address, name or owner
