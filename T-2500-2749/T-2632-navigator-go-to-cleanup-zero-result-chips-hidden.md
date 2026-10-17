@@ -1,7 +1,7 @@
 ---
 id: T-2632
 title: Navigator Go to cleanup: zero-result chips hidden, titles wrapping to two lines, every row showing distance and bearing, filters Places · People · Shops & work · Viewpoints
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-403
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 964
 claimed_by: run 10/17/2026, 3:57:36 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T11:26:44Z
 claimed_run: null
 claimed_at: 2026-10-17T08:57:36.218Z
 decision: null
