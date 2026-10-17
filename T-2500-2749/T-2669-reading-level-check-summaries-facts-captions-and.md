@@ -1,7 +1,7 @@
 ---
 id: T-2669
 title: Reading-level check: summaries, facts, captions and tour bubbles score Flesch-Kincaid grade 9 or lower in check.sh, with the sentence and length limits of §03
-state: open
+state: claimed
 epic: PIPELINE
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 7:46:44 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-17T00:46:44.245Z
 decision: null
 decision_answer: null
 ---
