@@ -48,9 +48,10 @@ visible work it protects.
 
 ## Finding (2026-10-17, from T-2620's work on #957): a live case for the lint to catch
 
-Go to rows (in the drawer's list and in the Jaunts app's Go to) and the business card
-show `limit_reason` from `data/businesses/*.json` verbatim, and 26 anchored firms carry
-raw ids in that sentence: *"The register places this house against `tremont_house_1` and
+Go to rows show `limit_reason` from `data/businesses/*.json` verbatim (seen in the
+drawer's list; the Jaunts app's Go to builds its rows from the same destination text, not
+yet checked there, nor on the business card), and the anchored firms carry raw ids in that
+sentence: *"The register places this house against `tremont_house_1` and
 the town holds no roof of its own for it (`action: new_building`), so the anchor is as
 far as the reading goes."* (`biz_andrews_eells`, `biz_collins_caton`, `biz_d_graves`,
 `biz_dr_j_h_barnard`, `biz_g_spring`, …). The lint should flag these strings once it
