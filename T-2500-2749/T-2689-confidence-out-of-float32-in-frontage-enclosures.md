@@ -1,7 +1,7 @@
 ---
 id: T-2689
 title: _confidence out of float32 in frontage, enclosures and yard (0, 0.5 and 1 kept exact), so structures + frontage + enclosures + yard reach T-2549's 40 % on the /1835/ phone
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2576
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 925
 claimed_by: run 10/16/2026, 7:13:44 PM CT
 blocked_on: null
 needs_bake: false
