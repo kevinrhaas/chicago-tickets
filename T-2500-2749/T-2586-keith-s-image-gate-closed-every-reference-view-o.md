@@ -1,7 +1,7 @@
 ---
 id: T-2586
 title: Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2580
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: null
 claimed_by: run 10/17/2026, 1:30:15 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-17T06:48:15.914Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39009862193
 claimed_at: 2026-10-17T06:30:15.737Z
 decision: null
