@@ -1,7 +1,7 @@
 ---
 id: T-2712
 title: Keith's hall stack stopped under the return's coping: a flat-roof stack takes its own top_m, the hall stack stops below the coping where every 1887-89 view shows sky, baked, and the views whose last open difference it was read matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2586
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 1:48:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39009862193
+claimed_at: 2026-10-17T06:48:31.643Z
 decision: null
 decision_answer: null
 ---
