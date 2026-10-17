@@ -34,3 +34,11 @@ When T-2557 was split (2026-10-17T00:25:27.235Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38985727841) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding (T-2698's run, 2026-10-17) — the field tile's build is the cost to plan for
+
+T-2698 built the field (`renderers/web/js/near-field.js`: community, WET, TURF, BLOCKED, TRODDEN and height in a 32 m tile at 0.125 m, re-centred every 8 m) and read it back through the GPU at every near slot of the 22 critic stations (`docs/measurements/t-2698-near-field.json`, PR #928). The shader agrees with the CPU mirror everywhere but one float32 texel-edge slot a viewport; the tile disagrees with the CPU at 1.17 % of phone slots and 0.90 % of desktop slots, height p95 under 0.6 mm.
+
+**But built on the main thread it costs ~386-421 ms a tile — 48 ms per metre walked on the phone against the near re-deal's 2.3, and 53 against 9.3 on the desktop.** This piece cannot just call `flora.nearField.build` in the frame. Build it in the job pool (T-2695/T-2696 move the finder, water, floors and heights there) and re-rasterise only the quarter an 8 m re-centre exposes (a toroidal texture), and quote main-thread ms per metre walked against the re-deal's with `tools/measure_near_field.mjs`. Filed here rather than as a new line: the queue was at 176 against its ceiling of 140.
+
+Also: the wharf's misses (12-13 % at every texel) are `working-bank.js` `blocksGrowth`'s per-point sin-hash, which no raster holds slot for slot; the raster keeps its SHARE, which is what this ticket's placement statistics measure. If per-slot parity there is ever wanted, carry the wear share as a channel and hash in the shader.
