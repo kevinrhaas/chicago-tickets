@@ -1,7 +1,7 @@
 ---
 id: T-2725
 title: Keith's loggia column ruled between the 1888 plate and the 1965 view, read capital top to pedestal top in both pictures, and the plate camera's loggia offset weighed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2714
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 989
 claimed_by: run 10/17/2026, 1:19:10 PM CT
 blocked_on: null
 needs_bake: false
