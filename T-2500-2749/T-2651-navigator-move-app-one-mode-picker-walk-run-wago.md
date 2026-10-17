@@ -1,7 +1,7 @@
 ---
 id: T-2651
 title: Navigator Move app: one mode picker, Walk, Run, Wagon, Horse or Fly, replacing #s-travel and #s-pace, with one slider for the active mode that keeps the named speeds
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-701
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 956
 claimed_by: run 10/17/2026, 2:32:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T12:40:01Z
 claimed_run: null
 claimed_at: 2026-10-17T07:32:37.629Z
 decision: null
