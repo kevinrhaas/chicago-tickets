@@ -38,11 +38,11 @@ batches already split by grade. Must not undo the performance group's budgets.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] Each grade can be tinted, ghosted or dithered at any opacity from a test hook; hiding a grade removes its meshes as #cm-* does today.
+- [x] Each grade can be tinted, ghosted or dithered at any opacity from a test hook; hiding a grade removes its meshes as #cm-* does today.
 - [ ] The smoke's frame and draw budgets hold with X-RAY on; 60 fps on the mid-tier phone profile.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
 - [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
