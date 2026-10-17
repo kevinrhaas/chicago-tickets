@@ -43,3 +43,9 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 Carried from T-2714/T-2586/T-2580/T-1883: this piece closes the house, so `ticket.mjs done` refuses it until every view of the building below is `matches`.
 
 - keith_house_1808_prairie
+
+## Findings carried from T-2725's run (2026-10-17)
+
+- **The column is ruled (built 2.5 m); what still stands between `inland-1888` / `a18-gh-1808-porch-1965` and `matches` at the loggia is the two cameras' scale there, each an open item in its match record.** Both pictures stand the column at about 2.45 times its pedestal. Read in the plate against the third storey's north light at the same image column, it measures 2.51/2.50 m and the pedestal 1.02 m.
+- **The plate's camera (T-1883) draws the loggia's column and pedestal alike 7-9 % long and about 0.7 m high.** It is pitched 12.5 degrees up from a 0.5 m eye on six controls, all on the front's plane, but the print is a level view: its verticals are vertical, and the front's courses meet at a horizon near y 1640, about 1.7 m above grade. The pedestals show their south side faces (the south pedestal's is about 21 px beside a 45 px front), and the north pedestal stands about 85 px right of the front's north corner. Both are parallax from an eye well south of the loggia, and they are off-plane controls a level re-fit can use. A level fit on T-1883's own six picks with the principal point free already drops to 8.4 px RMS from 14.2 (but puts cx at about 1420, so it wants those off-plane controls before it is trusted).
+- **The 1965 view's camera (T-2579) draws column and pedestal alike 12-15 % short** (88 px against the print's 100, from capital top y 134.5 to the plinth joint y 234.5; pedestal 35 against about 41). Only one of its seven controls stands on the loggia, so its depth there is under-determined. Its scale at the loggia should read the plate's 1.02 m pedestal.
