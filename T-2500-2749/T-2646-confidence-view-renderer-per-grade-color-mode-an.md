@@ -1,7 +1,7 @@
 ---
 id: T-2646
 title: Confidence view renderer: per-grade color, mode and opacity uniforms on the batched materials, Ghost sorted last with depthWrite off, Dither reusing the Reconstructed path, 60 fps held at the mid-tier phone profile
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-603
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 921
 claimed_by: run 10/16/2026, 5:16:19 PM CT
 blocked_on: null
 needs_bake: false
