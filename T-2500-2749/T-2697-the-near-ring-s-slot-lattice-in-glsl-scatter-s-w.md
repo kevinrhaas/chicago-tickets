@@ -34,3 +34,9 @@ When T-2557 was split (2026-10-17T00:25:27.235Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/38985727841) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Acceptance (stated by the run that took it, 2026-10-17):** one readback, never weakened to pass.
+
+1. `renderers/web/js/flora-gpu-lattice.js` — three-free, no imports — carries `scatter`'s walk as GLSL ES 3.00 (`flLatticeSlot(id, …)`) and `latticeUniforms(job)`, the CPU's whole share per camera move, with the instance-to-slot mapping the draw will use.
+2. `node tools/check_flora_gpu_lattice.mjs --gpu` reads every slot back from Chromium against `jobs/lattice-kernel.js` (cone off) at every layer's lattice at all 18 1835 anchors and 200 random walks: the kept slots and their order identical, a ring disagreement only within 0.1 mm of an edge, cell seed and stream equal to the bit, position within 1 mm, deal rank within 2^-20. Its `--self-test` refuses a shader with the stream salt or the block shift one bit off.
+3. The bare command (no browser) in `check.sh` holds the shader's walk constants to flora.js's, with a self-test.
