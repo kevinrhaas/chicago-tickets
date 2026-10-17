@@ -1,7 +1,7 @@
 ---
 id: T-2700
 title: One draw per mesh with its pieces' boxes decoded in the vertex stage: a box table read from the position's padding lane by the frontage-timber and yard materials, their shadow depth materials, gpu-pick, the raycast fallback, far-merge and positionsInMetres, proved on frontage's shared mesh (five pieces, one draw) with pixel parity at T-2569's anchors and stage 5's call counts equal to dev's
-state: open
+state: claimed
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2688
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 9:27:48 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38994748965
+claimed_at: 2026-10-17T02:27:48.058Z
 decision: null
 decision_answer: null
 ---
