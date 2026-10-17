@@ -1,7 +1,7 @@
 ---
 id: T-2630
 title: Navigator Jaunts app: Jaunts · Go to · Free roam segments, opened from the Home choices and the rail, the Welcome card's three choices kept permanently
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-401
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 954
 claimed_by: run 10/17/2026, 2:17:34 AM CT
 blocked_on: null
 needs_bake: false
