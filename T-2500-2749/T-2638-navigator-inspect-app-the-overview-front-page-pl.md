@@ -1,7 +1,7 @@
 ---
 id: T-2638
 title: Navigator Inspect app, the Overview front page: plate, address, name, status chips, summary, key facts, residents, Look for, Notable facts and the Confidence meter, replacing the floating building card
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-501
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 958
 claimed_by: run 10/17/2026, 1:41:41 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T10:52:02Z
 claimed_run: null
 claimed_at: 2026-10-17T06:41:41.591Z
 decision: null
