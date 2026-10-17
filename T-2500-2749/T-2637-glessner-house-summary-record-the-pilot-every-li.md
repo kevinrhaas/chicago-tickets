@@ -58,3 +58,9 @@ NAV-1005 and the editorial note in §08. The mockup's Glessner copy (M7/M8) is i
 - [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
 - [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+
+## Finding (PR #922, 2026-10-17): the pilot ships with no residents
+
+The record's `residents` is empty, and the gate is right to refuse anything else: no 1904 people directory exists. The 1835 one (`data/sidecars/1835/people.json`) is compiled by `tools/compile_scene.py` from the 1835 household records in `data/residents/`, and only for a scene whose `layers` list residents. The 1904 scene lists none, and the smoke holds it to having no People section (T-1740). Making the Glessner household enter a 1904 directory honestly is a separate parcel: 1904 household records, a residents layer on the 1904 scene, the compile path, and re-ruling T-1740's "no People section in 1904" check. That should be its own ticket. Until it lands, the Glessners are named in the summary, the key facts (Owner) and the story.
+
+The household facts are ready for that ticket. John J. and Frances M. Glessner lived at 1800 in 1904 (HABS data pages; the museum's family page). The grown children did not: the daughter married in February 1898 and "within a few years" moved one block north to 1700 S. Prairie Avenue, and the son married in June 1898 (`glessner_house_family_page`). No source read names the 1904 household staff.
