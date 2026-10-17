@@ -1,7 +1,7 @@
 ---
 id: T-2711
 title: The page uploads the prebuilt yards: publish.sh writes yards.{json,bin.gz} into site/4d/data/prebuilt/1835/, yards.js batches the file's five surfaces when its input hash is current and lays its own otherwise, check_published.mjs refuses a stale one, measure_boot_phases --phone quotes yards (4.2 s) before and after, and SITE-BUDGET re-measured with any re-set argued from the bytes
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2705
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 950
 claimed_by: run 10/17/2026, 12:42:27 AM CT
 blocked_on: null
 needs_bake: false
