@@ -1,7 +1,7 @@
 ---
 id: T-2710
 title: The page uploads the prebuilt streets at the visitor's layout (light unridged, full ridged): publish.sh writes them into site/4d/data/prebuilt/1835/, streets.js batches the file's pieces when its input hash is current and lays its own otherwise (and on a re-lay), check_published.mjs refuses a stale one, and measure_boot_phases --phone quotes streets (1.4 s) before and after, with the bytes measured against SITE-BUDGET
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2705
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 942
 claimed_by: run 10/17/2026, 12:27:45 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T07:40:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39006088561
 claimed_at: 2026-10-17T05:27:45.196Z
 decision: null

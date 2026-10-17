@@ -1,7 +1,7 @@
 ---
 id: T-2707
 title: The near field tile built off the main thread: built in the job pool and re-rasterised only in the strip an 8 m re-centre exposes (a toroidal tile), with main-thread ms per metre walked quoted against the near re-deal's by measure_near_field.mjs (after T-2696's worker reads)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2699
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 947
 claimed_by: run 10/17/2026, 12:59:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T07:40:41Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39008011647
 claimed_at: 2026-10-17T05:59:26.817Z
 decision: null

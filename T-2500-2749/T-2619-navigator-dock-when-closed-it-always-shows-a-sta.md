@@ -1,7 +1,7 @@
 ---
 id: T-2619
 title: Navigator dock: when closed it always shows a status lamp, the NAVIGATOR label, the year and the current app's icon, and one tap or swipe up opens the last app at HALF
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-203
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 943
 claimed_by: run 10/17/2026, 1:41:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T07:32:57Z
 claimed_run: null
 claimed_at: 2026-10-17T06:41:16.248Z
 decision: null
