@@ -1,7 +1,7 @@
 ---
 id: T-2722
 title: Frame governor's moving reading on a GPU: frame-time sd and p95 fall for walk, turn and flight at light on the phone profile, read on hardware whose frame costs tens of milliseconds (a GPU runner or the owner's phone)
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2592
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: null
 claimed_by: run 10/17/2026, 1:19:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T18:21:59.045Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39057123887
 claimed_at: 2026-10-17T18:19:48.545Z
 decision: answered
