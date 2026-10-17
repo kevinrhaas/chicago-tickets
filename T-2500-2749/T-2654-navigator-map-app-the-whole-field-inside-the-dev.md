@@ -1,7 +1,7 @@
 ---
 id: T-2654
 title: Navigator Map app: the whole field inside the device with your arrow, tap a building to preview it then Go, Jaunt routes dotted, and a legend in the Confidence view colors
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-901
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 968
 claimed_by: run 10/17/2026, 3:43:21 AM CT
 blocked_on: null
 needs_bake: false
