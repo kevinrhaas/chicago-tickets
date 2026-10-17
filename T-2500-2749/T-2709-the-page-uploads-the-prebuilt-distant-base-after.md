@@ -1,7 +1,7 @@
 ---
 id: T-2709
 title: The page uploads the prebuilt distant base (after T-2693's ground upload): publish.sh writes base.{json,bin.gz} into site/4d/data/prebuilt/1835/, terrain.js batches the file's pieces when its build stamp and heightfield are current and cuts its own otherwise, check_published.mjs refuses a stale one, published-page parity read, and measure_boot_phases --phone quotes the base (0.8 s) before and after with its bytes measured against SITE-BUDGET's 29 MB
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2705
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 941
 claimed_by: run 10/17/2026, 12:14:17 AM CT
 blocked_on: null
 needs_bake: false
