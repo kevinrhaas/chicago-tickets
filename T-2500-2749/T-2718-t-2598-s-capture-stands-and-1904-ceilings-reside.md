@@ -1,7 +1,7 @@
 ---
 id: T-2718
 title: T-2598's capture stands and 1904 ceilings: residency captures at glessner-aloft-ne and the three street-eye stands, and the 1904 memory ceilings re-read at spawn with residency and lowered by the rule
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2602
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 980
 claimed_by: run 10/17/2026, 11:59:47 AM CT
 blocked_on: null
 needs_bake: false
