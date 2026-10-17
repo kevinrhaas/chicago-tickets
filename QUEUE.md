@@ -75,7 +75,6 @@ T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint 
 T-2659 — Navigator sound, on by default: the ticker's flap ticks capped at 12 a second, the landing clunk, relay clicks and a hum while the Navigator is open, per-destination ambience, and Settings › Sound with master, effects and ambience
 T-2660 — Field log on the device: landed, first inspect, tabs opened, Show me, Jaunts started and finished, Tour steps and Confidence presets counted in localStorage only, shown in Settings › About with a Clear button, never sent
 T-2662 — Navigator Guide glossary and FAQ: the locked terms with one-line meanings, 'Is this real?' and 'What does Reconstructed mean?' in 60 words or fewer each, and a locked term's first appearance on a screen showing its meaning on tap
-T-2663 — Navigator Tour mode: the seven-step Field Check, each step completing on the real action, a spotlight cut-out with 55 % dim, Skip always visible, resume after reload and replay from Guide
 T-2664 — Navigator first-landing tour offer: offered once per device after landing, declining never re-prompts, and one-time hints after it for the first Jaunt, first Jump and first Reconstructed building
 T-2665 — Navigator License keepsake: awarded on finishing the tour and shown with the Jaunt keepsakes in the Jaunts app
 T-2666 — Navigator teacher handout: Guide › For teachers prints the seven tour steps on one page with three suggested Jaunts per destination
