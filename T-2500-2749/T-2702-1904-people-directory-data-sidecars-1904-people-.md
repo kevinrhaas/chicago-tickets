@@ -1,7 +1,7 @@
 ---
 id: T-2702
 title: 1904 people directory: data/sidecars/1904/people.json compiled by the 1835 generator from 1904 household records, starting with the attested Glessner household, and the Glessner summary record's residents filled
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 930
 claimed_by: run 10/16/2026, 7:44:27 PM CT
 blocked_on: null
 needs_bake: false
