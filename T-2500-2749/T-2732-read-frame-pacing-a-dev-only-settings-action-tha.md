@@ -1,7 +1,7 @@
 ---
 id: T-2732
 title: Read frame pacing: a dev-only Settings action that drives walk, turn and flight at light through the page's own loop, Fixed then Adaptive, and shows each move's frame-time sd and p95 with a Copy button, for the owner's phone
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2722
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 990
 claimed_by: run 10/17/2026, 1:22:10 PM CT
 blocked_on: null
 needs_bake: false
