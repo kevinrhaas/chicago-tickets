@@ -1,7 +1,7 @@
 ---
 id: T-2623
 title: Navigator telemetry strip: a phosphor footer ticking every 800 ms with FIELD, DRIFT, SIG and a RECALL lamp, reusing portal.js drift, aria-hidden, paused when hidden and still under reduced motion
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-207
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 944
 claimed_by: run 10/17/2026, 1:41:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T13:37:06Z
 claimed_run: null
 claimed_at: 2026-10-17T06:41:05.625Z
 decision: null
