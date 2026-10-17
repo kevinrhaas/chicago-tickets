@@ -1,7 +1,7 @@
 ---
 id: T-2707
 title: The near field tile built off the main thread: built in the job pool and re-rasterised only in the strip an 8 m re-centre exposes (a toroidal tile), with main-thread ms per metre walked quoted against the near re-deal's by measure_near_field.mjs (after T-2696's worker reads)
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2699
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 947
 claimed_by: run 10/17/2026, 12:59:26 AM CT
 blocked_on: null
 needs_bake: false
