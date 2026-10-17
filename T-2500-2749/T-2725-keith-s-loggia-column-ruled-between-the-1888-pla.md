@@ -1,7 +1,7 @@
 ---
 id: T-2725
 title: Keith's loggia column ruled between the 1888 plate and the 1965 view, read capital top to pedestal top in both pictures, and the plate camera's loggia offset weighed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2714
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 989
 claimed_by: run 10/17/2026, 1:19:10 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T20:29:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39057118322
 claimed_at: 2026-10-17T18:19:10.425Z
 decision: null
