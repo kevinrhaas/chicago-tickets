@@ -1,7 +1,7 @@
 ---
 id: T-2718
 title: T-2598's capture stands and 1904 ceilings: residency captures at glessner-aloft-ne and the three street-eye stands, and the 1904 memory ceilings re-read at spawn with residency and lowered by the rule
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2602
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 980
 claimed_by: run 10/17/2026, 11:59:47 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T18:11:37Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39051423277
 claimed_at: 2026-10-17T16:59:47.699Z
 decision: null

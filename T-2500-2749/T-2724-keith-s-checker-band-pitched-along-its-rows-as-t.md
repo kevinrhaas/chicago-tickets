@@ -1,7 +1,7 @@
 ---
 id: T-2724
 title: Keith's checker band pitched along its rows as the 1888 plate lays it: Florian 1948's and Nickel 1967's band differences closed, the stale bow-coursing text ruled, and the views it settles read matches
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2714
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 981
 claimed_by: run 10/17/2026, 12:20:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T18:12:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39051428982
 claimed_at: 2026-10-17T17:20:48.478Z
 decision: null
