@@ -1,7 +1,7 @@
 ---
 id: T-2640
 title: Navigator Inspect 'Show me': each Look for feature turns the camera to it in 900 ms and pulses an outline for 2 s, moving to a viewpoint first in fly mode
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-505
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 973
 claimed_by: run 10/17/2026, 5:52:41 AM CT
 blocked_on: null
 needs_bake: false
