@@ -228,3 +228,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
 # BLOCKED-OWNER T-2670 (opened 2026-10-16, META) — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80…
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
+T-2734 — Home page destination clips play in black and white
