@@ -1,7 +1,7 @@
 ---
 id: T-2627
 title: HUD target tag and quick column: a 400 ms reticle dwell shows the building's name and distance, tap or E opens Inspect, and the quick column holds Walk/Fly plus a contextual Inspect key, never more than two
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-303
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 955
 claimed_by: run 10/17/2026, 2:17:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T09:52:37Z
 claimed_run: null
 claimed_at: 2026-10-17T07:17:07.775Z
 decision: null
