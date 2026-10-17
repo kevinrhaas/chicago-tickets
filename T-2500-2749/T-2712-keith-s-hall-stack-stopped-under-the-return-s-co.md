@@ -1,7 +1,7 @@
 ---
 id: T-2712
 title: Keith's hall stack stopped under the return's coping: a flat-roof stack takes its own top_m, the hall stack stops below the coping where every 1887-89 view shows sky, baked, and the views whose last open difference it was read matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2586
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 953
 claimed_by: run 10/17/2026, 1:48:31 AM CT
 blocked_on: null
 needs_bake: false
