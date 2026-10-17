@@ -57,10 +57,8 @@ T-2623 — Navigator telemetry strip: a phosphor footer ticking every 800 ms wit
 T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
 T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
 T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
-T-2631 — Navigator Jaunt cards: plate, title, premise, minutes, stops and keepsake state for each route, with a Jaunt in progress pinned on top with Continue that survives a reload
 T-2632 — Navigator Go to cleanup: zero-result chips hidden, titles wrapping to two lines, every row showing distance and bearing, filters Places · People · Shops & work · Viewpoints
 T-2633 — Navigator Go to follows the Confidence view: the 'Include reconstructed roofs' checkbox removed, and results of a hidden grade shown dimmed with the reason
-T-2634 — Navigator Free roam: docks the Navigator and shows the one-time tip 'Tap any building to inspect it.'
 T-2639 — Navigator Inspect tabs: Overview · People · Design · Story · Photos · Sources, a new building always opening on Overview, and the People tab listing who lived, worked or visited in the scene year, then before and after
 T-2640 — Navigator Inspect 'Show me': each Look for feature turns the camera to it in 900 ms and pulses an outline for 2 s, moving to a viewpoint first in fly mode
 T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house' hotspots with grades replacing the attribute table, Compare styles, and the Richardsonian Romanesque module for Glessner House
