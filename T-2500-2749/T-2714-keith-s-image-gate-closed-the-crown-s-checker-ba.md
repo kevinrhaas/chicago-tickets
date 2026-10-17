@@ -1,7 +1,7 @@
 ---
 id: T-2714
 title: Keith's image gate closed: the crown's checker band (nickel-1967, Florian 1948), the loggia's column height between the 1888 plate and the 1965 view, and the bow's alternating courses read and built, every reference view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2586
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 11:58:16 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39051428982
+claimed_at: 2026-10-17T16:58:16.436Z
 decision: null
 decision_answer: null
 ---
