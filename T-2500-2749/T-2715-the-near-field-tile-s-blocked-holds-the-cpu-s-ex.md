@@ -34,3 +34,9 @@ When T-2708 was split (2026-10-17T08:18:26.662Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39016210646) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+Stated 2026-10-17 by the run that claimed it, before the reading:
+
+1. `working-bank.js` `blocksGrowth` answers per FIELD TEXEL (0.125 m, world-aligned with `near-field.js`'s grid): the wet test, the wear, the apron and the bare-patch draw are all taken at the texel's centre, and the draw is an integer hash of the texel's index rather than the per-point sin-hash no raster can hold. The bank keeps its bare share; its patches stop being finer than the tile.
+2. Any exclusion the tile still misses at a slot (a travelway's, a yard's, a floor's edge running through a texel) is closed on the side of exclusion, and its cost is counted rather than hidden.
+3. `node tools/measure_flora_gpu_deal.mjs --write`, phone and desktop, all 22 critic stations: GPU exclusion hits **0** (were 31 / 46), 0 rule disagreements, plants per m² and every species share within 1 sigma of the CPU, zero page errors; written to `docs/measurements/t-2706-flora-gpu-deal.json` with T-2715 named.
