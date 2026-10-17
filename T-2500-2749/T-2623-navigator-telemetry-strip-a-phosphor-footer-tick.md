@@ -37,11 +37,11 @@ ones (coherence, drift) never pretend to be research. Reuses `portal.js` telemet
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] The strip ticks every 800 ms while visible, stops when the tab or Navigator is hidden, and does not tick under reduced motion (QA-06).
+- [x] The strip ticks every 800 ms while visible, stops when the tab or Navigator is hidden, and does not tick under reduced motion (QA-06).
 - [ ] aria-hidden; costs no measurable frame time in the smoke's frame budget.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
-- [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] Works in all four machine skins and with reduced motion.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
