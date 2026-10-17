@@ -35,3 +35,5 @@ When T-2714 was split (2026-10-17T17:20:33.752Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39051428982) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. Keith's checker band laid at the in-row pitch the 1888 Keith plate shows, measured through the build's own camera against the render's known spacing (not the camera's absolute scale); baked.
+2. Florian 1948's open band item and Nickel 1967's closed, each with its reading; the "bow still runs even courses" clause (built deep and thin by T-2584) ruled in every record that still carries it; and every view whose last open item that was reads `matches`, the rest keeping their verdicts.
