@@ -1,7 +1,7 @@
 ---
 id: T-2596
 title: Glessner v4 in KTX2: the full and light derivatives re-encoded, the light tier capped at 1024, the three-file package repacked with its hashes, the baseline page and report reading the new files, and every Glessner photo-match still matching
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2553
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 908
 claimed_by: owner-directed project thread (hand take; steward stand down) 10/16/2026, 4:50:38 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T00:07:54Z
 claimed_run: https://claude.ai/code/project/chan_01XPwihxLZTCL4xqRww9mX5v?thread=cmsg_01XPwihxLZTCL4xqRww9mX5vB2oGJYZd2b64de8MotzTr2
 claimed_at: 2026-10-16T21:50:38.139Z
 decision: null
