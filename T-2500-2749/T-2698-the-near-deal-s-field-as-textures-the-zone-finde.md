@@ -1,7 +1,7 @@
 ---
 id: T-2698
 title: The near deal's field as textures: the zone finder's community, wet, turf, station exclusions and ground height rasterised into a world-anchored tile the shader samples, read back at every near slot of the critic anchors against the CPU answers with the disagreeing share quoted, and its build cost per tile against today's near re-deal
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2557
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 928
 claimed_by: run 10/16/2026, 7:43:20 PM CT
 blocked_on: null
 needs_bake: false
