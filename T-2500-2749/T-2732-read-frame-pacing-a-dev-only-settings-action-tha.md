@@ -1,7 +1,7 @@
 ---
 id: T-2732
 title: Read frame pacing: a dev-only Settings action that drives walk, turn and flight at light through the page's own loop, Fixed then Adaptive, and shows each move's frame-time sd and p95 with a Copy button, for the owner's phone
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2722
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 1:22:10 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39057123887
+claimed_at: 2026-10-17T18:22:10.621Z
 decision: null
 decision_answer: null
 ---
