@@ -85,6 +85,7 @@ T-2633 — Navigator Go to follows the Confidence view: the 'Include reconstruct
 T-2634 — Navigator Free roam: docks the Navigator and shows the one-time tip 'Tap any building to inspect it.'
 T-2636 — Building fallback summary: a building with no summary record gets one templated from its sidecar, never raw fields, never ids, paths or snake_case
 T-2637 — Glessner House summary record, the pilot: every line mapped to a graded fact in the Glessner research or a source record, fact-checked, and approved by the owner as the pattern for every other building
+T-2702 — 1904 people directory: data/sidecars/1904/people.json compiled by the 1835 generator from 1904 household records, starting with the attested Glessner household, and the Glessner summary record's residents filled
 T-2638 — Navigator Inspect app, the Overview front page: plate, address, name, status chips, summary, key facts, residents, Look for, Notable facts and the Confidence meter, replacing the floating building card
 T-2639 — Navigator Inspect tabs: Overview · People · Design · Story · Photos · Sources, a new building always opening on Overview, and the People tab listing who lived, worked or visited in the scene year, then before and after
 T-2640 — Navigator Inspect 'Show me': each Look for feature turns the camera to it in 900 ms and pulses an outline for 2 s, moving to a viewpoint first in fly mode
