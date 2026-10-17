@@ -1,7 +1,7 @@
 ---
 id: T-2435
 title: Bring the 1621-1625 match records to matches: what the McBirney photograph and the Building Budget drawing still show differently, and the image gate (after the three pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1869
 opened: 2026-10-12
-closed: null
+closed: 2026-10-17
 pr: null
 claimed_by: run 10/17/2026, 1:19:44 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T18:20:48.667Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39057134959
 claimed_at: 2026-10-17T18:19:44.124Z
 decision: null
