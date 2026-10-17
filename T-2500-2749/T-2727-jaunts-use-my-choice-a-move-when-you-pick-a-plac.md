@@ -1,7 +1,7 @@
 ---
 id: T-2727
 title: Jaunts use my choice: a Move › When you pick a place switch, off by default, so every Jaunt travels the way it recommends unless the visitor turns it on (replaces T-2652's hidden arriveChosen rule)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 1:08:50 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-17T18:08:50.519Z
 decision: null
 decision_answer: null
 ---
