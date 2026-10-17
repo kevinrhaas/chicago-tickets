@@ -49,5 +49,8 @@ its CSS is `white-space: nowrap; text-overflow: ellipsis` inside `max-width: min
   ends in an ellipsis.
 - The quick column's Inspect key stays while the building is in the reticle, so Inspect is still one tap away
   after the tag fades.
+- Owner, 2026-10-17 (same thread): *"can you make this an option for the user to turn the display of this off? the
+  default should be on"*: Settings › Show › "Name of what you look at", on by default, saved with the other settings;
+  off hides the tag (the Inspect key stays).
 - tools/test_navigator.mjs covers the hold, fade and re-show; before/after screenshots in the project folder
   look-at-label/.
