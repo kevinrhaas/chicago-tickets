@@ -1,7 +1,7 @@
 ---
 id: T-2705
 title: The page uploads the prebuilt streets, yards and distant base (after T-2693's ground upload): publish.sh writes them into site/4d/data/prebuilt/1835/, each layer batches the file's pieces when its input hash is current and builds in the browser otherwise, check_published.mjs refuses a stale one, and measure_boot_phases --phone quotes streets (1.4 s), yards (4.2 s) and the base (0.8 s) before and after, with SITE-BUDGET re-measured
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2694
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: null
 claimed_by: run 10/17/2026, 12:12:42 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T05:14:11.959Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39005177247
 claimed_at: 2026-10-17T05:12:42.771Z
 decision: null
