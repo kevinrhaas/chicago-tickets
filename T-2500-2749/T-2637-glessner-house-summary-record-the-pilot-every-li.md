@@ -1,7 +1,7 @@
 ---
 id: T-2637
 title: Glessner House summary record, the pilot: every line mapped to a graded fact in the Glessner research or a source record, fact-checked, and approved by the owner as the pattern for every other building
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-1005
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 922
 claimed_by: run 10/16/2026, 6:30:42 PM CT
 blocked_on: null
 needs_bake: false
