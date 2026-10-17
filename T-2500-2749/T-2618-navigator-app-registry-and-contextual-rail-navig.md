@@ -1,7 +1,7 @@
 ---
 id: T-2618
 title: Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-202
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 940
 claimed_by: run 10/17/2026, 12:42:27 AM CT
 blocked_on: null
 needs_bake: false
