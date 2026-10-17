@@ -29,4 +29,9 @@ The ticket budget refused this: the queue stands at 150 lines, at or over its ce
 
 > Owner asked in the project thread 'Trees in 1812 and 1835' (2026-10-17) for this work; the queue is at its ceiling
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:**
+- Every tree species the zone records and plantings name is grown from its own architecture in `renderers/web/js/tree-model.js` (crown envelope, fork, scaffold angle, limb rise or sag, twig droop), with bark and leaf tiles of its own from `tools/generate_tree_atlas.py` (procedural, no third-party photograph), leaves at true size.
+- Trees are built once per species variant and drawn instanced, with near, mid and far levels of one grown tree; the 1904 parkway elms use the same models.
+- Measured before and after on dev's own tools: 1835 and 1812 phone and desktop memory (`tools/measure_memory.mjs`), 1835 desktop frame time (baseline taken on dev first, since dev is already red there), 1904 desktop spawn triangles. None gets worse; the saving is what T-2744 and T-2745 spend on more trees.
+- The architecture rules are written up as one numbered liberty; timber census baselines rebaselined with the reason.
+- Research: /mnt/project-files/trees-1812-1835/research-report.md (project thread 'Trees in 1812 and 1835').

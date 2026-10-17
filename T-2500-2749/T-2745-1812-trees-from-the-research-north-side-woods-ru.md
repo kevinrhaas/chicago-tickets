@@ -29,4 +29,7 @@ The ticket budget refused this: the queue stands at 152 lines, at or over its ce
 
 > Owner asked in the project thread 'Trees in 1812 and 1835' (2026-10-17) for this work; the queue is at its ceiling
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:**
+- 1812 carries, from the research report (/mnt/project-files/trees-1812-1835/research-report.md): the North Side woods running east to the shore sand hills, cleared only round the houses and gardens (Kirkland 1893); the forks wooded enough to hide both branches from the fort; a younger 16th-18th Street shore grove with the dune scrub; the Kinzie Lombardy poplar row, two young cottonwoods behind the house and the garden north of it (Wau-Bun, Andreas).
+- The battle ground stays beach, dune ridge, hollow and open prairie (Heald's report); the south bank stays wet prairie.
+- Grading, liberties and memory as T-2744.
