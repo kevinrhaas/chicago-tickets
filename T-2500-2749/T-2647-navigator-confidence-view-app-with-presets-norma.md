@@ -52,11 +52,11 @@ at 25 %. The Confidence icon glows while the view is on. Footer readout: GRADE M
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] QA-12: ATTESTED ONLY gives the same scene as hiding Inferred and Reconstructed by hand.
-- [ ] C toggles BY GRADE; each preset is one tap; the #confidence-menu HUD controls are gone.
+- [x] QA-12: ATTESTED ONLY gives the same scene as hiding Inferred and Reconstructed by hand.
+- [x] C toggles BY GRADE; each preset is one tap; the #confidence-menu HUD controls are gone.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
-- [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] Works in all four machine skins and with reduced motion.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
