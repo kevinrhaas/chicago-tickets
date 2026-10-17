@@ -45,3 +45,17 @@ visible work it protects.
 - [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
 - [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+
+## Finding (2026-10-17, from T-2620's work on #957): a live case for the lint to catch
+
+Go to rows (in the drawer's list and in the Jaunts app's Go to) and the business card
+show `limit_reason` from `data/businesses/*.json` verbatim, and 26 anchored firms carry
+raw ids in that sentence: *"The register places this house against `tremont_house_1` and
+the town holds no roof of its own for it (`action: new_building`), so the anchor is as
+far as the reading goes."* (`biz_andrews_eells`, `biz_collins_caton`, `biz_d_graves`,
+`biz_dr_j_h_barnard`, `biz_g_spring`, …). The lint should flag these strings once it
+reads compiled data a visitor sees, not only renderer JS. The fix belongs at the source
+(the compile writes the landmark's display name and drops the action code) or at the one
+place the sentence is shown. T-1182 §1 already notes the same sentence as the only
+record of the anchor, so resolving the anchor onto `structure_id` there would let the
+display text name it properly.
