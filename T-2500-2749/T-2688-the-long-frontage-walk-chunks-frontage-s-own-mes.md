@@ -1,7 +1,7 @@
 ---
 id: T-2688
 title: The long frontage walk chunks, frontage's own mesh, the far walk tops and the yard's woodpile chunk cut into pieces whose 16-bit grid keeps the millimetre, so every position in the three layers is 8 B
-state: claimed
+state: split
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2576
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 6:58:46 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T00:28:50.299Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38983841004
 claimed_at: 2026-10-16T23:58:46.972Z
 decision: null
