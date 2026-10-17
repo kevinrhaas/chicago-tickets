@@ -1,7 +1,7 @@
 ---
 id: T-2639
 title: Navigator Inspect tabs: Overview · People · Design · Story · Photos · Sources, a new building always opening on Overview, and the People tab listing who lived, worked or visited in the scene year, then before and after
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-504
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 977
 claimed_by: run 10/17/2026, 5:53:46 AM CT
 blocked_on: null
 needs_bake: false
