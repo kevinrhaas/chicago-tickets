@@ -1,7 +1,7 @@
 ---
 id: T-2622
 title: Navigator keyboard and accessibility: N toggles it, 1-9 select rail apps, Esc closes, the rail is a tablist of tabpanels, focus moves into the app on open and is always visible
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-205
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 947
 claimed_by: run 10/17/2026, 1:48:26 AM CT
 blocked_on: null
 needs_bake: false
