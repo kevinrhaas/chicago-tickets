@@ -21,7 +21,9 @@
 T-2592 — Frame governor's moving reading: frame-time sd and p95 fall for walk, turn and flight at light on the phone profile, read where a frame costs inside the governor's range (the steward runner's SwiftShader draws one in 2.3 to 3.6 s)
 T-2716 — The near set drawn from the shader in the page: the near ring's instances computed from the GLSL lattice, deal and the kept field tile, the slot ring's handover in GLSL, the CPU scatter kept only for the heads, critic captures passing, zero page errors
 T-2717 — The GPU near ring's readings: the near re-deal's main-thread ms at zero and the moving p95 at the throttled phone profile, before and after; the remaining sets (mid, forb, heads, far shrubs) filed as one follow-up
-T-2602 — T-2598's remaining readings: captures at glessner-aloft-ne and the three street-eye stands (measure_memory --walk prairie --captures), the moving p95 at phone profile on a GPU, and the 1904 memory ceilings re-read with residency
+T-2718 — T-2598's capture stands and 1904 ceilings: residency captures at glessner-aloft-ne and the three street-eye stands, and the 1904 memory ceilings re-read at spawn with residency and lowered by the rule
+T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
+T-2720 — The GL meter against three's texture arithmetic on the H0 classic page: which of the 39.5 MiB gap is the meter's, and memory_ceilings.json moved if it is
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
