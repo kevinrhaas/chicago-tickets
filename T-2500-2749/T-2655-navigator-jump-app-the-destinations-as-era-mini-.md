@@ -1,7 +1,7 @@
 ---
 id: T-2655
 title: Navigator Jump app: the destinations as era mini-cards with HERE on the current one, an in-world jump (ring, time-stream, landing) to another, and RECALL to the Observatory as the screen's only signal-red key
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-902
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 952
 claimed_by: run 10/17/2026, 1:58:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T10:38:20Z
 claimed_run: null
 claimed_at: 2026-10-17T06:58:34.172Z
 decision: null
