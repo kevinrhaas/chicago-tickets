@@ -231,10 +231,8 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
 # BLOCKED-OWNER T-2670 (opened 2026-10-16, META) — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80…
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
-T-2738 — Prairie draft second sweep: stand the leftover detached pieces against their walls and make the floating draft porches solid stoops
 T-2740 — Go to list: sort by distance, address, name or owner
 T-2741 — Where-am-I on the compass: era street and today's street and address, every year
-T-2742 — Navigator close key: an X at the top right of the open device that closes it like the collapse arrow, styled to match it on every appearance, with a 44 px touch target on a phone
 # BLOCKED-TECH T-2744 (opened 2026-10-17, META) — 1835 trees from the research: the 16th-18th Street shore cottonwood grove, cedar and sand-cherry dune scrub, North Side…
 #     waits: T-2743 (species tree models and instancing free the memory the 1835 trees spend)
 # BLOCKED-TECH T-2745 (opened 2026-10-17, META) — 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street gro…

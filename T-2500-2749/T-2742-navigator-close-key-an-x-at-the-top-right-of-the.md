@@ -1,7 +1,7 @@
 ---
 id: T-2742
 title: Navigator close key: an X at the top right of the open device that closes it like the collapse arrow, styled to match it on every appearance, with a 44 px touch target on a phone
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 988
 claimed_by: run 10/17/2026, 2:02:42 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T19:39:59Z
 claimed_run: null
 claimed_at: 2026-10-17T19:02:42.553Z
 decision: null

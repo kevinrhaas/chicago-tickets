@@ -1,7 +1,7 @@
 ---
 id: T-2738
 title: Prairie draft second sweep: stand the leftover detached pieces against their walls and make the floating draft porches solid stoops
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 986
 claimed_by: run 10/17/2026, 1:44:29 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-17T19:52:18Z
 claimed_run: null
 claimed_at: 2026-10-17T18:44:29.535Z
 decision: null
