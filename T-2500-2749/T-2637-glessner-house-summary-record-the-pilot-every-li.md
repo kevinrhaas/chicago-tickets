@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: 2026-10-16T23:30:42.599Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -64,3 +64,14 @@ NAV-1005 and the editorial note in §08. The mockup's Glessner copy (M7/M8) is i
 The record's `residents` is empty, and the gate is right to refuse anything else: no 1904 people directory exists. The 1835 one (`data/sidecars/1835/people.json`) is compiled by `tools/compile_scene.py` from the 1835 household records in `data/residents/`, and only for a scene whose `layers` list residents. The 1904 scene lists none, and the smoke holds it to having no People section (T-1740). Making the Glessner household enter a 1904 directory honestly is a separate parcel: 1904 household records, a residents layer on the 1904 scene, the compile path, and re-ruling T-1740's "no People section in 1904" check. That should be its own ticket. Until it lands, the Glessners are named in the summary, the key facts (Owner) and the story.
 
 The household facts are ready for that ticket. John J. and Frances M. Glessner lived at 1800 in 1904 (HABS data pages; the museum's family page). The grown children did not: the daughter married in February 1898 and "within a few years" moved one block north to 1700 S. Prairie Avenue, and the son married in June 1898 (`glessner_house_family_page`). No source read names the 1904 household staff.
+
+## Decision needed
+
+**Question:** Approve the Glessner House summary record (draft PR #922, https://github.com/kevinrhaas/chicago/pull/922) as the pattern for every other building's front page? It has a 3-sentence summary, 5 key facts, 3 Look-for items, 6 notable facts and a 12-entry story, 28 facts, all Attested and sourced. The Nutshell Studies, Richardson's death before construction and the 1966 rescue each now cite a real source record. It has no residents, because 1904 has no people directory yet (finding on this ticket).
+
+- (a) Approve as the pattern: merge it, and later records ship on the gate without a card each
+- (b) Revise: say what to change (tone, length, which facts lead, or the empty residents) and the pilot is reworked before merge
+
+**Recommendation:** (a) Approve as the pattern: merge it, and later records ship on the gate without a card each — every line is graded, sourced and fact-checked against what the sources say; the empty residents are a missing 1904 directory, not a flaw in the pattern
+
+**Asked:** 2026-10-16. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
