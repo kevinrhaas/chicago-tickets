@@ -1,7 +1,7 @@
 ---
 id: T-2696
 title: Water, floors, verges and heights read in the worker beside the zones (the floor circles, water.isWater, streets.verge and terrain.surfaceHeight the deal still asks on the main thread), with measure_walk_frames at the throttled phone profile: spread-pass main-thread ms per pass and moving p95 down for walk and turn, boot to ready quoted before and after
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2684
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 937
 claimed_by: run 10/16/2026, 10:38:02 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T05:54:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38999254855
 claimed_at: 2026-10-17T03:38:02.407Z
 decision: null
