@@ -1,7 +1,7 @@
 ---
 id: T-2724
 title: Keith's checker band pitched along its rows as the 1888 plate lays it: Florian 1948's and Nickel 1967's band differences closed, the stale bow-coursing text ruled, and the views it settles read matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2714
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 981
 claimed_by: run 10/17/2026, 12:20:48 PM CT
 blocked_on: null
 needs_bake: false
