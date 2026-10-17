@@ -1,7 +1,7 @@
 ---
 id: T-2703
 title: The distant ground base and the streets' three surfaces cut in Node: tools/prebuild_layers.mjs --layer base,streets builds terrain.js's protected base grid over frontage's own footprints and createStreets's own surfaces at both ridge layouts, each cut by spatial-batch.js's spatialPieces and written with an input hash, byte-equal to the live page's batches (--parity, zero page errors), determinism and stale-input refusal gated in check.sh
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2694
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 9:23:06 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38993985220
+claimed_at: 2026-10-17T02:23:06.739Z
 decision: null
 decision_answer: null
 ---
