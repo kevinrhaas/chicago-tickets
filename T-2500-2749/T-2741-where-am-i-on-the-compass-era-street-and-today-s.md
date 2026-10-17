@@ -1,7 +1,7 @@
 ---
 id: T-2741
 title: Where-am-I on the compass: era street and today's street and address, every year
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 994
 claimed_by: run 10/17/2026, 1:51:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T20:48:36Z
 claimed_run: null
 claimed_at: 2026-10-17T18:51:18.206Z
 decision: null
