@@ -1,7 +1,7 @@
 ---
 id: T-2689
 title: _confidence out of float32 in frontage, enclosures and yard (0, 0.5 and 1 kept exact), so structures + frontage + enclosures + yard reach T-2549's 40 % on the /1835/ phone
-state: open
+state: claimed
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2576
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/16/2026, 7:13:44 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38983797786
+claimed_at: 2026-10-17T00:13:44.551Z
 decision: null
 decision_answer: null
 ---
