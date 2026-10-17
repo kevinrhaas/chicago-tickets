@@ -58,7 +58,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
-T-2614 — Navigator gesture gating without a gate: audio and pointer lock start on the first Home choice, canvas tap or Navigator control, desktop shows CLICK TO ENGAGE LOOK until lock, and iOS Safari logs no autoplay errors
 T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
 T-2618 — Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
 T-2619 — Navigator dock: when closed it always shows a status lamp, the NAVIGATOR label, the year and the current app's icon, and one tap or swipe up opens the last app at HALF
