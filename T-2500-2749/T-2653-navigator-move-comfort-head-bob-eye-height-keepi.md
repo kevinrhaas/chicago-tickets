@@ -1,7 +1,7 @@
 ---
 id: T-2653
 title: Navigator Move comfort: head bob, eye height (keeping the researched default and its 'Why?') and snap-turn on touch
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 7:42:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-17T12:42:31.751Z
 decision: null
 decision_answer: null
 ---
