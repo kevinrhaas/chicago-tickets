@@ -59,7 +59,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
-T-2613 — Navigator landing replaces Tap to enter: the last digit clunks into place, an ARRIVED flash, the device flips to Navigator Home and the scene un-blurs, with #gate-btn and the Welcome card retired behind a small js/journey.js state machine
 T-2614 — Navigator gesture gating without a gate: audio and pointer lock start on the first Home choice, canvas tap or Navigator control, desktop shows CLICK TO ENGAGE LOOK until lock, and iOS Safari logs no autoplay errors
 T-2617 — Navigator device: the handheld that replaces the drawer, a phone bottom sheet with DOCK, HALF and FULL detents, a 400 px desktop panel that collapses to its rail, the bezel and screen-code header, and the Home app
 T-2618 — Navigator app registry and contextual rail: navigator.register with when(ctx) and badge(ctx), icons that slide in and out within 240 ms with a lamp-amber first-appearance dot, at most 10 icons
@@ -111,7 +110,6 @@ T-2665 — Navigator License keepsake: awarded on finishing the tour and shown w
 T-2666 — Navigator teacher handout: Guide › For teachers prints the seven tour steps on one page with three suggested Jaunts per destination
 T-2667 — Evidence hub becomes Guide › About this destination: ten topics folded into four cards, How we grade, Sources, Liberties and What lived and grew here, with the order book behind Researcher mode
 T-2668 — Visitor-UI lint: check.sh fails on file paths, ids, snake_case, 'tier', 'ticket' or 'order book' in visitor strings, with Researcher-mode strings exempt
-T-2669 — Reading-level check: summaries, facts, captions and tour bubbles score Flesch-Kincaid grade 9 or lower in check.sh, with the sentence and length limits of §03
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 T-2606 — The yards' sward test indexed: suppressesSward scans every fenced interior's bounding box for every lattice slot (2.3 s of a 7.5 s flora profile at 4x/390x780, the largest single flora cost), so a cell grid like flora's circleGrid answers it with identical answers at every slot
