@@ -23,7 +23,6 @@ T-2733 — The frame governor's moving reading off the owner's phone: the Read f
 T-2716 — The near set drawn from the shader in the page: the near ring's instances computed from the GLSL lattice, deal and the kept field tile, the slot ring's handover in GLSL, the CPU scatter kept only for the heads, critic captures passing, zero page errors
 T-2717 — The GPU near ring's readings: the near re-deal's main-thread ms at zero and the moving p95 at the throttled phone profile, before and after; the remaining sets (mid, forb, heads, far shrubs) filed as one follow-up
 T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
-T-2720 — The GL meter against three's texture arithmetic on the H0 classic page: which of the 39.5 MiB gap is the meter's, and memory_ceilings.json moved if it is
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
@@ -231,6 +230,5 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
 # BLOCKED-OWNER T-2670 (opened 2026-10-16, META) — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80…
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
-T-2734 — Home page destination clips play in black and white
 T-2738 — Prairie draft second sweep: stand the leftover detached pieces against their walls and make the floating draft porches solid stoops
 T-2740 — Go to list: sort by distance, address, name or owner
