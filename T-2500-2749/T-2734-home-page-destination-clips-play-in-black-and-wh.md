@@ -1,7 +1,7 @@
 ---
 id: T-2734
 title: Home page destination clips play in black and white
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 982
 claimed_by: run 10/17/2026, 1:22:45 PM CT
 blocked_on: null
 needs_bake: false
