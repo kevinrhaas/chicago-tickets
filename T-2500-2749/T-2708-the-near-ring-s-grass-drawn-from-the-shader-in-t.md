@@ -1,7 +1,7 @@
 ---
 id: T-2708
 title: The near ring's grass drawn from the shader in the page: the near set's instances computed from the GLSL lattice, deal and field tile with their heads, placement statistics at the critic anchors within sampling error of the CPU lattice, critic captures passing, the near re-deal at zero and moving p95 quoted at the throttled phone profile, zero page errors; the remaining sets (mid, forb, heads, far shrubs) filed as one follow-up
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2699
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: null
 claimed_by: run 10/17/2026, 3:15:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T08:18:32.709Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39016210646
 claimed_at: 2026-10-17T08:15:10.440Z
 decision: null
