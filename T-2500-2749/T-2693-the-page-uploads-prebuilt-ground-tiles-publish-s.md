@@ -1,7 +1,7 @@
 ---
 id: T-2693
 title: The page uploads prebuilt ground tiles: publish.sh writes them into site/4d/data/prebuilt/1835/, terrain.js batches them when their input hash is current and builds in the browser when missing or stale, check_published.mjs refuses a stale one, and measure_boot_phases --published quotes terrain's phase and longest task at the phone profile before and after, cold and warm, with SITE-BUDGET re-measured
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2678
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 933
 claimed_by: run 10/16/2026, 8:54:37 PM CT
 blocked_on: null
 needs_bake: false
