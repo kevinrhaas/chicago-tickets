@@ -1,7 +1,7 @@
 ---
 id: T-2636
 title: Building fallback summary: a building with no summary record gets one templated from its sidecar, never raw fields, never ids, paths or snake_case
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-503
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-16
 pr: 918
 claimed_by: run 10/16/2026, 4:42:14 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T03:40:36Z
 claimed_run: null
 claimed_at: 2026-10-16T21:42:14.765Z
 decision: null
