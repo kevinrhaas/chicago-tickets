@@ -1,7 +1,7 @@
 ---
 id: T-2697
 title: The near ring's slot lattice in GLSL: scatter's world-anchored cells, xorshift jitter, hash3 and the stratified Feistel draw computed per gl_InstanceID in a three-free shader module, read back from Chromium against flora.js's own scatter at every near slot of a set of stands (positions to the millimetre, the draw u exact), with the instance-to-slot mapping the draw will use
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2557
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 926
 claimed_by: run 10/16/2026, 7:25:36 PM CT
 blocked_on: null
 needs_bake: false
