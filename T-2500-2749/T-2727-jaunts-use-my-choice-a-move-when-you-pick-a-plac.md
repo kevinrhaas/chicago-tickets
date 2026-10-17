@@ -30,3 +30,15 @@ The ticket budget refused this: the queue stands at 141 lines, at or over its ce
 > owner request 2026-10-17 on #960: make the Jaunt travel rule a visible setting; default recommended
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Owner's call (2026-10-17, on #960)
+"for 960 can you add that as an option/setting for the user?" — then chose: a toggle, default recommended.
+
+## Acceptance
+- [ ] Move › "When you pick a place" carries a switch, **Jaunts use my choice**, off by default (new key in `chicago4d.settings`, e.g. `jauntsFollowChoice: false`).
+- [ ] Off: every Jaunt travels by its own recommended mode (getting-there.js § jauntModeFor), whatever the getting-there choice. On: every Jaunt uses the visitor's getting-there choice, except a Jaunt that cannot be travelled that way, which keeps its own and says so.
+- [ ] T-2652's `arriveChosen` rule (recommended until the visitor first picks) is retired; the settings note under the choice says plainly what the switch does, in string-table words (check_strings clean).
+- [ ] Persisted and restored across reloads and destinations like the other Move settings; storage refused or corrupt falls back to off.
+- [ ] Unit test for both states and the can't-travel-that-way fallback; a marked smoke check (part 13) flips the switch and reads a Jaunt's mode both ways.
+- [ ] Works at 390×780 and on desktop, all four skins, reduced motion; no ids or snake_case visible.
+- [ ] `changelog.d/T-2727.json` entry says what a visitor will see.
