@@ -1,7 +1,7 @@
 ---
 id: T-2736
 title: The HUD target tag fades: shown after the 400 ms dwell, it fades out a few seconds later and when you look away, and wraps to show the whole name and distance instead of cutting it off with an ellipsis
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 985
 claimed_by: run 10/17/2026, 1:41:59 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T20:03:30Z
 claimed_run: null
 claimed_at: 2026-10-17T18:42:00.001Z
 decision: null

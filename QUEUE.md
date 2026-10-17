@@ -58,7 +58,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
 T-2625 — HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
 T-2735 — Return to the Observatory: All destinations and Recall ask first, then a light reverse ring carries you back
-T-2736 — The HUD target tag fades: shown after the 400 ms dwell, it fades out a few seconds later and when you look away, and wraps to show the whole name and distance instead of cutting it off with an ellipsis
 T-2628 — HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
 T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
 T-2727 — Jaunts use my choice: a Move › When you pick a place switch, off by default, so every Jaunt travels the way it recommends unless the visitor turns it on (replaces T-2652's hidden arriveChosen rule)
