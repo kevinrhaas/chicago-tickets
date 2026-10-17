@@ -1,7 +1,7 @@
 ---
 id: T-2661
 title: Navigator Guide controls sheet: device-aware touch or keyboard controls from controls/intent.js, replacing the control-help popover
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-803
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 959
 claimed_by: run 10/17/2026, 2:58:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T11:40:16Z
 claimed_run: null
 claimed_at: 2026-10-17T07:58:51.889Z
 decision: null
