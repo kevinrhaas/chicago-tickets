@@ -1,7 +1,7 @@
 ---
 id: T-2747
 title: 1904 walking jaunts: famous names, famous architects, three style tours, and a self-updating built-so-far tour
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 996
 claimed_by: run 10/17/2026, 2:34:22 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T23:17:29Z
 claimed_run: null
 claimed_at: 2026-10-17T19:34:22.896Z
 decision: null
