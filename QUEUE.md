@@ -233,3 +233,4 @@ T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIR
 T-2738 — Prairie draft second sweep: stand the leftover detached pieces against their walls and make the floating draft porches solid stoops
 T-2740 — Go to list: sort by distance, address, name or owner
 T-2741 — Where-am-I on the compass: era street and today's street and address, every year
+T-2742 — Navigator close key: an X at the top right of the open device that closes it like the collapse arrow, styled to match it on every appearance, with a 44 px touch target on a phone
