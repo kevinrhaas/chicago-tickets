@@ -1,7 +1,7 @@
 ---
 id: T-2706
 title: The near deal's species and placement in GLSL: a three-free module that, from T-2697's lattice slot and T-2698's field tile, carries or drops each near slot as flora.js does (zone, turf, the matrix share and the weight walk, floors, the trodden verge, water substrates, the woody band, the walker's clearance) and gives placeGraminoid's height, spread, arch, yaw and colour, read back from Chromium against flora.js's own near deal at every near slot of the critic stations, slot for slot where the tile agrees, with the disagreeing share and the placement statistics quoted
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2699
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 939
 claimed_by: run 10/16/2026, 11:53:01 PM CT
 blocked_on: null
 needs_bake: false
