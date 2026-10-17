@@ -1,7 +1,7 @@
 ---
 id: T-2746
 title: 1904 roadway: clear the dark band across 18th at Prairie and hide the lot lines by default
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-17
 pr: 995
 claimed_by: run 10/17/2026, 2:23:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T21:17:09Z
 claimed_run: null
 claimed_at: 2026-10-17T19:23:01.675Z
 decision: null
