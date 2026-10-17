@@ -1,7 +1,7 @@
 ---
 id: T-2634
 title: Navigator Free roam: docks the Navigator and shows the one-time tip 'Tap any building to inspect it.'
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 3:56:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-17T08:56:32.694Z
 decision: null
 decision_answer: null
 ---
