@@ -1,7 +1,7 @@
 ---
 id: T-2654
 title: Navigator Map app: the whole field inside the device with your arrow, tap a building to preview it then Go, Jaunt routes dotted, and a legend in the Confidence view colors
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/17/2026, 3:43:21 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-17T08:43:21.407Z
 decision: null
 decision_answer: null
 ---
