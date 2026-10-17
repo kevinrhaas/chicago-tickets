@@ -35,3 +35,10 @@ When T-2586 was split (2026-10-17T06:48:07.932Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39009862193) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. The cowl ventilator's cap read through T-2579's re-fitted cameras in the c. 1888 view looking SW (cap higher over the coping than its render) and the c. 1888 Glessner-front view (the print shows no cap over the coping): set-back, height, or the picture's date ruled, built and baked.
+2. The cap differences in `a18-gh-1800-block-looking-sw-c1888` and `a18-gh-glessner-front-with-keith` closed (fixed, or not shown with the reason).
+
+
+## Context (T-2712, 2026-10-17)
+
+The hall stack under the cowl now stops under the coping (16.1 m), so the cap is the only thing left over the return in those two views. The Glessner-front record's item also notes the picture is undated and may postdate the ventilator.

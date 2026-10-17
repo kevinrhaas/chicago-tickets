@@ -35,3 +35,16 @@ When T-2586 was split (2026-10-17T06:48:07.932Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39009862193) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. The checker band read against the 1888 plate and built so nickel-1967's and Florian 1948's band differences close; the loggia's column height ruled between the 1888 plate (about 0.2 m shorter than built) and the 1965 view (about 0.3 m taller); the bow's alternating deep and thin courses built; baked.
+2. Every reference view of `keith_house_1808_prairie` reads `matches` with nothing `open` (including `a18-owner-1800-block-looking-sw`, `differs` with no open item: its reviewer's reason written down), and T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off. Split further if this is more than one run.
+
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Carried from T-2586/T-2580/T-1883: this piece closes the house, so `ticket.mjs done` refuses it until every view of the building below is `matches`.
+
+- keith_house_1808_prairie
+
+## Findings carried from T-2586
+
+See T-2580's body: the `nickel-1967` checker-band reading (T-2577) is written `open` in its match record; the loggia readings (T-2579/T-2681) are written in the porch-1965 and inland-1888 records.

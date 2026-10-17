@@ -35,3 +35,6 @@ When T-2586 was split (2026-10-17T06:48:07.932Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39009862193) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. `keith_house_1808_prairie`'s hall stack (`chimney_positions` `hall`) stops under the north return's coping, through a per-stack `top_m` a K01 flat roof accepts (bounded: 0.6 m over the deck it stands on), recorded with its liberty; baked.
+2. Every reference view re-rendered from the new GLB; each T-2578 hall-stack difference closed, and each view whose last open difference it was reviewed whole and set `matches`.
+
