@@ -1,7 +1,7 @@
 ---
 id: T-2557
 title: GPU-procedural near grass: the near ring dealt in the vertex shader from the lattice's own hash, the heightfield and the ground masks, with no CPU lattice and no re-deal on move
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-15
-closed: null
+closed: 2026-10-16
 pr: null
 claimed_by: run 10/16/2026, 7:25:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T00:25:31.780Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/38985727841
 claimed_at: 2026-10-17T00:25:15.181Z
 decision: null
