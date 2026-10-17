@@ -1,7 +1,7 @@
 ---
 id: T-2652
 title: Navigator getting-there style: Teleport, Ride there or Fly over, one choice that Go to, Map and Jaunts all use
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-702
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-17
 pr: 960
 claimed_by: run 10/17/2026, 7:42:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-17T15:45:58Z
 claimed_run: null
 claimed_at: 2026-10-17T12:42:19.908Z
 decision: null
