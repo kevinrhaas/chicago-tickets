@@ -1,7 +1,7 @@
 ---
 id: T-0003
 title: Town furniture: fences, signboards, wagons, porches, docks
-state: split
+state: blocked-tech
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,8 +12,13 @@ opened: 2026-08-17
 closed: 2026-08-17
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-0001
 needs_bake: false
+closed_at: null
+claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
 ---
 
 **The owner's ask (K5):** the scene is buildings on bare ground; a working town has STUFF.
