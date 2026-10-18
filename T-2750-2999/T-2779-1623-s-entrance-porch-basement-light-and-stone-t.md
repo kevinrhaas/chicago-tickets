@@ -1,7 +1,7 @@
 ---
 id: T-2779
 title: 1623's entrance porch, basement light and stone: the entrance arch as broad as the window's (about 1.85 m) springing from a carved band at about 3.4 m, the door and stoop about 1.3 m north of its axis at the back of the porch with the landing's iron guard, the 1.8 m segmental basement light behind its grille, the smoother coursed stone above the springing; K01 rebaked and 1623's match record brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2729
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 2:48:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39160097151
+claimed_at: 2026-10-18T19:48:21.623Z
 decision: null
 decision_answer: null
 ---
