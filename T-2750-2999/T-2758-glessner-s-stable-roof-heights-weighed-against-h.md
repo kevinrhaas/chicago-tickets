@@ -35,3 +35,7 @@ When T-2228 was split (2026-10-18T09:32:42.378Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112871207) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Finding on the lap of #1017 (2026-10-18)
+
+The report did not re-derive off CI: on the steward runner `--check` went red on #1017's own unchanged head (same numpy 2.5.4 / scipy 1.18.1). Photograph 1's `doorway_aspect` fit has no minimum. With its controls nearly all in the north face, a level camera trades pixel aspect exactly against focal length and distance: RMS is 3.9229 px at every pinned aspect from 1.00 to 1.06. So the free fit stopped wherever rounding left it, which put the cupola at S11.3 in CI and S11.77 here. Along that valley the gable stays at 38.62 ft, so **camera, not roof** stands, but the cupola slides from S14.4 to S10.4. #1017 merged at a head that did not carry the fix; the follow-up PR walks the valley at pinned aspects and corrects the S11.3 in LIBERTIES.md, the habs-01 match record and the T-2228 README.
