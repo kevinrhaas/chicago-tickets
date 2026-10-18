@@ -1,7 +1,7 @@
 ---
 id: T-2763
 title: Keith's loggia height re-ruled against the plate's level fits: whether the column and its seat (capital top 5.59 m, pedestal cap 3.0 m, deck 2.0 m) or the front's third-storey lights carry the 6-8 % every level camera leaves on the column, built and rebaked, and inland-1888's camera replaced once a level fit determines its eye (height and distance)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2749
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 6:54:29 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39124758790
+claimed_at: 2026-10-18T11:54:29.198Z
 decision: null
 decision_answer: null
 ---
