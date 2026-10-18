@@ -1,7 +1,7 @@
 ---
 id: T-2755
 title: 1637 Prairie's c. 1870 Grosvenor photograph weighed as evidence of its own date: its source record and reference copy, its camera solved and its match record written, each thing it shows ruled kept by the remodel (built, or open) or replaced (not shown for 1904), and the engraving's match record brought up to date
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2536
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 4:10:00 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39112875575
+claimed_at: 2026-10-18T09:10:00.421Z
 decision: null
 decision_answer: null
 ---
