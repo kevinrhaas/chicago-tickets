@@ -247,7 +247,6 @@ T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIR
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
 # BLOCKED-TECH T-2745 (opened 2026-10-17, META) — 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street gro…
 #     waits: T-2744 (the 1835 placement tools and grove records it reuses)
-T-2807 — 1835 woods structure: the North Side and river woods dealt in clumps with openings and younger trees in the gaps, and a hazel, wild plum, hawthorn, gray dogwood and oak-grub thicket at the woods' prairie edge, as grown instanced shrubs
 T-2808 — 1835 North Side woods: the Rush Street path and the Green Bay road cut two rods wide through them
 T-2809 — 1835 fruit trees: the fort's company-garden fruit trees and currants, and Dr. Harmon's young sod-fenced orchard by the lake
 T-2810 — 1835 river woods: wild grape curtains on the river-facing edge, and a few snags and fallen logs in the wet woods and gallery

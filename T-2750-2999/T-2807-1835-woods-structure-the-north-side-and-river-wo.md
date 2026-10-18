@@ -1,7 +1,7 @@
 ---
 id: T-2807
 title: 1835 woods structure: the North Side and river woods dealt in clumps with openings and younger trees in the gaps, and a hazel, wild plum, hawthorn, gray dogwood and oak-grub thicket at the woods' prairie edge, as grown instanced shrubs
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2767
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1045
 claimed_by: run 10/18/2026, 2:16:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T21:49:29Z
 claimed_run: null
 claimed_at: 2026-10-18T19:16:15.877Z
 decision: null
