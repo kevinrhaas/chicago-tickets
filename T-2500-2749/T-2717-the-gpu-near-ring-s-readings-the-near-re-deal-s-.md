@@ -1,7 +1,7 @@
 ---
 id: T-2717
 title: The GPU near ring's readings: the near re-deal's main-thread ms at zero and the moving p95 at the throttled phone profile, before and after; the remaining sets (mid, forb, heads, far shrubs) filed as one follow-up
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2708
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 8:24:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39131087798
+claimed_at: 2026-10-18T13:24:34.820Z
 decision: null
 decision_answer: null
 ---
