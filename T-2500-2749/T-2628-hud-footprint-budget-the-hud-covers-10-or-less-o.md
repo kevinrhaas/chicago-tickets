@@ -45,3 +45,8 @@ HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and resp
 - [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
 - [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+
+## Owner's ruling (2026-10-18)
+T-2741's street readout under the compass (on by default) put the phone HUD at 12.1 %. Asked: toast it, don't count it,
+shrink it, or raise the budget. Owner: **"Keep it up; don't count it"** — the 10 % budget is measured without readouts the
+visitor can switch off; the readout's own share is reported beside the figure (#971).
