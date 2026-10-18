@@ -1,7 +1,7 @@
 ---
 id: T-2625
 title: HUD declutter: Start/Jaunts, the Confidence chip and caret, pace, theme and menu leave the HUD's top row, each reachable in the Navigator, and the street readout becomes a 2 s toast
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-301
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 969
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T10:23:58Z
 claimed_run: null
 claimed_at: null
 decision: null
