@@ -1,7 +1,7 @@
 ---
 id: T-1789
 title: Build the first modular 1835 human library in Blender on the shared portable rig
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: generic-human-master 10/18/2026, 3:42:42 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T20:42:42.076Z
 decision: null
 decision_answer: null
 ---
