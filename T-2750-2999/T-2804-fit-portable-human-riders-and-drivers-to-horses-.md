@@ -27,7 +27,9 @@ T-2672, T-1789, T-1790, T-1792, T-2801, T-2802, T-2803. Read each dependency bef
 
 ## Scope and acceptance
 
-Fit **one anonymous portable-human rider and one driver pose** to the approved horse and carriage/wagon interfaces, reusing the existing human rig and period wardrobe.
+Fit **one portable-human rider and one driver pose using suitable existing attested, inferred or reconstructed residents** to the approved horse and carriage/wagon interfaces, reusing the existing human rig and period wardrobe. Use an anonymous person only when no suitable existing resident can be used, with that choice documented.
+
+Owner clarification, 2026-10-18: "Ok generally if you can use assign existing attested inferred or reconstructed people as the reference and model, don’t make generic people unless you have no other choice". Resident identity and appearance have separate evidence: assigning a model to a resident does not establish an attested portrait likeness. The first 1835 authoring references are the existing reconstructed teamsters Otis Bardwell and Martin Flynn and stable keeper Joseph Dufresne; use them only in their eligible period and retain their reconstructed status.
 
 - Seat, stirrup, hands/reins, pelvis/legs and gaze align with horse/driver anchors. Body animation follows horse gaits or vehicle movement without penetrating saddle, seat, wheel or animal.
 - Demonstrate idle/walk/trot with mounted rider and seated driver, transitions and rein slack/tension; no unsupported historical named likeness is introduced.
