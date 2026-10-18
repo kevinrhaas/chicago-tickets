@@ -1,7 +1,7 @@
 ---
 id: T-2749
 title: Keith's loggia at the plate's and the 1965 view's scale: the 1888 plate's camera re-fit level with the loggia's off-plane controls, the 1965 camera's depth at the loggia read off the plate's 1.02 m pedestal, and the bow lights' places judged on the new plate camera
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2726
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 5:32:03 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T10:47:57.446Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39119364461
 claimed_at: 2026-10-18T10:32:03.346Z
 decision: null
