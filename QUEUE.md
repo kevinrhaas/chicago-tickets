@@ -232,3 +232,4 @@ T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from th
 T-2785 — The DEV pill and the arrival card's build stamp back on a phone (dev only); the full-width preview banner stays off it
 # BLOCKED-TECH T-0003 (opened 2026-08-17, TOWN) — Town furniture: fences, signboards, wagons, porches, docks
 #     waits: T-0001
+T-0002 — Weathered facades: unpainted boards, no two buildings alike
