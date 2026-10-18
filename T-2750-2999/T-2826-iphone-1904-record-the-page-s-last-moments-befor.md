@@ -1,7 +1,7 @@
 ---
 id: T-2826
 title: iPhone 1904: record the page's last moments before a display reset (black box)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1049
 claimed_by: run 10/18/2026, 5:49:39 PM CT
 blocked_on: null
 needs_bake: false
