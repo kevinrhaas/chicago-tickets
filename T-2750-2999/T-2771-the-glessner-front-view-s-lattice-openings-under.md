@@ -1,7 +1,7 @@
 ---
 id: T-2771
 title: The Glessner-front view's lattice openings under the coping: the last 0.2 m the stack reads deeper in the render ruled against Florian 1948 and the 1888 plate, or built
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2750
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1011
 claimed_by: run 10/18/2026, 7:25:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T13:19:30Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39126908038
 claimed_at: 2026-10-18T12:25:20.740Z
 decision: null
