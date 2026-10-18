@@ -34,3 +34,15 @@ When T-2744 was split (2026-10-18T10:50:34.470Z), this was already on it. Read i
 The run that split it (by hand) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Added 2026-10-18: the woods' structure, edge and dead wood
+
+Kevin asked (thread "1812/1835 tree cover", 2026-10-18) for plants beyond the documented groves. The ecology analysis (`/mnt/project-files/trees-1812-1835/ecology-analysis.md` §2.6-2.7) adds to this ticket, since it already owns the North Side woods' understory:
+
+- **Clumped canopy**: deal the woods by a cluster process (dense patches, small openings, younger trees in gaps). From the air they read as an evenly spaced orchard today (`eco-shots/north-woods-air.png`).
+- **The prairie-woods edge as a thicket**: hazel (the survey's own note for the township), wild plum, hawthorn, gray dogwood, oak grubs; not a density fade.
+- **River gallery**: wild grape curtains on the river-facing edge, dogwood, elderberry, ninebark under the trees.
+- **Dead wood**: a few snags and fallen logs in the wet woods and gallery, graded inferred and kept modest.
+- **Shrubs that read at distance**: as instanced templates past flora.js's near ring, not only inside it.
+
+Hold every tier's detail ceiling, 1835 memory and the town_backyard frame.
