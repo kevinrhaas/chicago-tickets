@@ -1,7 +1,7 @@
 ---
 id: T-2775
 title: 1904 restarts on an iPhone walking down Prairie Avenue: the lakefront railway keeps 215 MB of geometry a phone never lets go of; lay the full rail section only near the eye and release the railway's page copies after upload
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1018
 claimed_by: run 10/18/2026, 9:06:14 AM CT
 blocked_on: null
 needs_bake: false
