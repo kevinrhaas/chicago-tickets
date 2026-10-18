@@ -233,4 +233,6 @@ T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIR
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
 # BLOCKED-TECH T-2745 (opened 2026-10-17, META) — 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street gro…
 #     waits: T-2744 (the 1835 placement tools and grove records it reuses)
-T-2744 — 1835 trees from the research: the 16th-18th Street shore cottonwood grove, cedar and sand-cherry dune scrub, North Side woods at their recorded density with the Rush Street path, Kinzie cottonwoods, fort fruit trees and Harmon's orchard
+T-2766 — 1835 trees, part 1: the 16th-18th Street shore cottonwood grove (50-75 large trees, a clump of 8-9 near its middle) and the two Kinzie cottonwoods behind the house, graded and sourced; the North Side woods raised toward their recorded density with the savings T-2743 measured, memory and 1835 frame time measured
+T-2767 — 1835 trees, part 2: the North Side woods' shrub layer, the Rush Street path and the Green Bay road cut through them; the fort's company-garden fruit trees and currants; Dr. Harmon's young sod-fenced orchard by the lake
+T-2768 — 1835 trees, part 3: the dune scrub on the sand hills from about 12th-16th to 25th Street, low red cedar, ground pine and sand cherry (needs a red cedar model and leaf tile in the T-2743 tree models)

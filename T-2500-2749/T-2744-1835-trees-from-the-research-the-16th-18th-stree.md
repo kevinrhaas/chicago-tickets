@@ -1,7 +1,7 @@
 ---
 id: T-2744
 title: 1835 trees from the research: the 16th-18th Street shore cottonwood grove, cedar and sand-cherry dune scrub, North Side woods at their recorded density with the Rush Street path, Kinzie cottonwoods, fort fruit trees and Harmon's orchard
-state: claimed
+state: split
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 5:49:27 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T10:51:08.726Z
 claimed_run: null
 claimed_at: 2026-10-18T10:49:27.052Z
 decision: null
