@@ -19,7 +19,7 @@ GitHub API access recovered. Draft PR [#1041](https://github.com/kevinrhaas/chic
 
 Read [fit-followup.md](fit-followup.md) for the second checkpoint. Its exact full precommit gate passed 971 steps, none red, exit 0; local log `/tmp/transport-followup-check-complete.log`. Horse silhouettes/gait, physical tugs, actual front-turntable rolling and collar fit are refined. Full triangle checks replaced misleading nearest-face signs in the limb test. Corrected and failed receipts are preserved. No photographic, continuous-collision, animal-suitability, braking/holdback or production scene acceptance is claimed.
 
-## Active validation and human work (21:40 UTC)
+## Active validation and human work (21:55 UTC)
 
 The exact merged-tree local preflight passed 972 steps, none red. Published fixed
 desktop stage 1 passed 95/0; other interrupted earlier runs retain their failures and
@@ -35,12 +35,13 @@ pass is claimed while the two full browser runs remain in progress.
 Local code checkout is now on `steward/generic-teamster-humans`, branched from
 transport head1b3c73d. T2672 policy, T1789 body preparation/canonical builder, and
 T2823 documented anonymous-fallback mechanics are committed and pushed at
-**e6f72ceb489dd625554dcabdbaced064c0b7e214**, draft
+**6ae3c766f174546a53c34db02c024abfd2667517** (first checkpoint e6f72ceb4), draft
 [PR1046](https://github.com/kevinrhaas/chicago/pull/1046). Full preflight passed:
 973 check.sh steps, zero failed, plus changelog and ticket-ID checks. The postcommit
 changelog check also passed. No local Blender was run. Canonical human workflow
-[39168738942](https://github.com/kevinrhaas/chicago/actions/runs/39168738942) was
-dispatched with build_teamsters=true on that exact SHA and is running. Download
+[39169918123](https://github.com/kevinrhaas/chicago/actions/runs/39169918123) was
+dispatched with build_teamsters=true on that exact SHA and is running. The first
+manual build failed before Blender; see the runtime preparation repair below. Download
 its actual artifacts and inspect them before accepting model quality. The owner subsequently directed
 existing attested/inferred/reconstructed people first, anonymous only if no choice.
 The first actual references are existing reconstructed 1835 residents
@@ -62,7 +63,7 @@ in human-next-drafts/eyes-reduced. Whole-person added triangles by LOD are
 1584/736/288/128. CPU diagnostics and topology checks are not Blender/glTF
 acceptance. Review the initial CI output before integrating this follow-up.
 
-## Canonical CI preparation repair in progress
+## Canonical CI preparation repair committed
 
 Human workflow39168738942 completed: existing fixture byte reproduction and
 desktop/mobile actor checks PASS; resident study FAILED before Blender at neutral
@@ -70,10 +71,10 @@ prepared input byte40084. The retained failure log and resident-prep-runtime-dif
 show Python3.11 left-fold sum reproduces that exact offset (max6.66e-16). No actual
 resident masters/GLBs were built. Do not report that run green.
 
-Local staged follow-up uses explicit math.fsum reductions and regenerated neutral,
+Committed follow-up6ae3c766f uses explicit math.fsum reductions and regenerated neutral,
 adult25 and adult35 inputs/reports. Eleven actual-source tests pass, including full
 serialized-byte comparison under emulated legacy sum. System Python3.13 independently
-regenerated all three exact bytes. Full preflight is running, session67658, log
-/tmp/resident-human-preflight-stable-reductions.log; code is not yet committed/pushed.
-Keep the exact-byte CI assertion. Commit only after the full gate passes, then
-redispatch build_teamsters=true at the new SHA. No local Blender.
+regenerated all three exact bytes. Full preflight PASS (973 steps, zero failed), plus postcommit changelog PASS.
+Code is committed/pushed and the corrected canonical workflow39169918123 is running
+on6ae3c766f. Full passing transcripts and hashes are saved as resident-check-6ae3c766f
+receipts here. Keep the exact-byte CI assertion. No local Blender.

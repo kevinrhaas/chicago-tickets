@@ -68,3 +68,11 @@ pushed to steward/generic-teamster-humans in draft PR1046. Full local preflight
 passed all973 steps, zero failed, plus changelog and ticket-ID checks. Canonical
 CI build39168738942 is running; no actual resident GLB acceptance, new scene
 instances or named likenesses are claimed.
+
+## Checked preparation follow-up
+
+Commit6ae3c766f174546a53c34db02c024abfd2667517 is pushed in PR1046 after
+all973 checks/preflight passed. It fixes the reproduced Python3.11/3.12 reduction
+difference without weakening exact-byte comparison. Eleven source tests pass; all
+three inputs also reproduce with Python3.13. Corrected canonical CI39169918123 is
+running. No actual resident exports or photographic/driver acceptance yet.
