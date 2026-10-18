@@ -1,7 +1,7 @@
 ---
 id: T-2767
 title: 1835 trees, part 2: the North Side woods' shrub layer, the Rush Street path and the Green Bay road cut through them; the fort's company-garden fruit trees and currants; Dr. Harmon's young sod-fenced orchard by the lake
-state: claimed
+state: split
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2744
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 2:12:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T19:15:26.086Z
 claimed_run: null
 claimed_at: 2026-10-18T19:12:29.025Z
 decision: null
