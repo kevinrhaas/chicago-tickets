@@ -61,3 +61,19 @@ Reduced original eye components and the unapplied integration patch are preserve
 in human-next-drafts/eyes-reduced. Whole-person added triangles by LOD are
 1584/736/288/128. CPU diagnostics and topology checks are not Blender/glTF
 acceptance. Review the initial CI output before integrating this follow-up.
+
+## Canonical CI preparation repair in progress
+
+Human workflow39168738942 completed: existing fixture byte reproduction and
+desktop/mobile actor checks PASS; resident study FAILED before Blender at neutral
+prepared input byte40084. The retained failure log and resident-prep-runtime-diff.json
+show Python3.11 left-fold sum reproduces that exact offset (max6.66e-16). No actual
+resident masters/GLBs were built. Do not report that run green.
+
+Local staged follow-up uses explicit math.fsum reductions and regenerated neutral,
+adult25 and adult35 inputs/reports. Eleven actual-source tests pass, including full
+serialized-byte comparison under emulated legacy sum. System Python3.13 independently
+regenerated all three exact bytes. Full preflight is running, session67658, log
+/tmp/resident-human-preflight-stable-reductions.log; code is not yet committed/pushed.
+Keep the exact-byte CI assertion. Commit only after the full gate passes, then
+redispatch build_teamsters=true at the new SHA. No local Blender.
