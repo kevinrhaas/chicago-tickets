@@ -1,7 +1,7 @@
 ---
 id: T-2766
 title: 1835 trees, part 1: the 16th-18th Street shore cottonwood grove (50-75 large trees, a clump of 8-9 near its middle) and the two Kinzie cottonwoods behind the house, graded and sourced; the North Side woods raised toward their recorded density with the savings T-2743 measured, memory and 1835 frame time measured
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2744
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1022
 claimed_by: run 10/18/2026, 5:51:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T16:30:22Z
 claimed_run: null
 claimed_at: 2026-10-18T10:51:16.322Z
 decision: null
