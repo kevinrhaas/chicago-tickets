@@ -230,6 +230,4 @@ T-2768 — 1835 trees, part 3: the dune scrub on the sand hills from about 12th-
 T-2783 — 1835 and 1812 prairie, part 1: the far prairie past flora.js's near ring reads as flat paint; add a mid ring of cheap grass cards and a grass-coloured, streaked ground so the near ring has no visible edge, held in every tier's ceiling and the 1835 frame
 T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty
 T-2785 — The DEV pill and the arrival card's build stamp back on a phone (dev only); the full-width preview banner stays off it
-# BLOCKED-TECH T-0003 (opened 2026-08-17, TOWN) — Town furniture: fences, signboards, wagons, porches, docks
-#     waits: T-0001
 T-0002 — Weathered facades: unpainted boards, no two buildings alike
