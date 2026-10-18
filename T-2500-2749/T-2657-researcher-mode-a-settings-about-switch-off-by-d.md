@@ -1,7 +1,7 @@
 ---
 id: T-2657
 title: Researcher mode: a Settings › About switch, off by default, that brings back the order book, ticket references, source ids, file paths and the full 'Why this default' essays the visitor UI no longer carries
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-S03
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1051
 claimed_by: run 10/18/2026, 3:53:03 PM CT
 blocked_on: null
 needs_bake: false
