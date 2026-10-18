@@ -1,7 +1,7 @@
 ---
 id: T-2754
 title: 1625's stepped four-storey rear under its mansard with its dormer and stack, and 1625's match record brought to matches (the group's image gate)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2731
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 2:47:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39160103642
+claimed_at: 2026-10-18T19:47:27.394Z
 decision: null
 decision_answer: null
 ---
