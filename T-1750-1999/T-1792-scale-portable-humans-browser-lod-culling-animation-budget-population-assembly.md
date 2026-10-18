@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-After Mark proves the path, make the same architecture safe for a living town rather than
+After one accepted period-qualified person proves the path, make the same architecture safe for a living town rather than
 copying a hero-cost actor hundreds of times. Implementation target:
 `kevinrhaas/chicago` **dev**.
 
@@ -49,6 +49,6 @@ copying a hero-cost actor hundreds of times. Implementation target:
 **Stop condition:** the next programme can add more named residents and ambient street
 population using measured budgets and reusable assets rather than revisiting the pipeline.
 
-## Depends on (2026-10-16)
+## Depends on — owner steering, 2026-10-18
 
-T-1791 was split into T-2673, T-2674 and T-2675. Do not claim this until **T-2675** (Mark Beaubien inspected and measured in the 1835 scene) has merged: scaling beyond the first person starts from his measured cost.
+T-2672 policy and the portable asset/export/runtime prerequisites still apply. Prefer an accepted asset based on an existing attested, inferred or reconstructed person and record its period/wardrobe eligibility and measured browser cost. Mark Beaubien (T-2675) is one suitable route, not a mandatory identity for all work. If no suitable existing person can serve, T-2823 permits a specifically documented anonymous adult fallback with accepted period-qualified asset/wardrobe and a recorded no-suitable-person basis. An empty-eligibility profile, CI fixture or unreviewed placeholder cannot satisfy this prerequisite. No resident records or facts may be invented to populate the scene.

@@ -69,3 +69,5 @@
 # photographic acceptance remains open. No other ticket was reordered.
 
 - 2026-10-18 — Owner, Chicago 4D period transport request: "build tickets for these, place them in the queue in bands below the portable humans" and "set up multiple agents and begin to take and work these in parallel". Added bands 8D (T-2791 children T-2792–T-2797) and 8E (T-2798 children T-2799–T-2805) immediately after 8C; all pre-existing ticket lines retain their relative order.
+
+- 2026-10-18 — Owner requested generic adult driver/rider/standing/walking identity mechanics, then clarified existing attested/inferred/reconstructed people are preferred and anonymous adults only when no suitable person can serve. T-2823 is inserted in 8C directly below T-2672 and above T-1789; T-1792 no longer requires Mark specifically, preserving period-qualified existing-person-first acceptance and a documented anonymous fallback only.
