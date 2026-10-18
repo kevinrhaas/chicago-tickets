@@ -1,7 +1,7 @@
 ---
 id: T-2664
 title: Navigator first-landing tour offer: offered once per device after landing, declining never re-prompts, and one-time hints after it for the first Jaunt, first Jump and first Reconstructed building
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-802
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1013
 claimed_by: run 10/18/2026, 6:30:00 AM CT
 blocked_on: null
 needs_bake: false
