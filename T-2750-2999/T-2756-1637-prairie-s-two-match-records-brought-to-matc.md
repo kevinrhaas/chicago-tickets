@@ -1,7 +1,7 @@
 ---
 id: T-2756
 title: 1637 Prairie's two match records brought to matches: what the Grosvenor photograph shows the remodel kept built, and the engraving's last open items (the main cornice's band over the swell bay, the stacks' hooded crowns) built or argued (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2536
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 10:44:50 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39140721449
+claimed_at: 2026-10-18T15:44:50.928Z
 decision: null
 decision_answer: null
 ---
