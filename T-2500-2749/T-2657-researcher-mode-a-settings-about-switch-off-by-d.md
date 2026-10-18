@@ -46,3 +46,20 @@ that render only in Researcher mode.
 - [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
 - [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+
+**Finding, 2026-10-18 (from T-2668's visitor-UI lint, branch claude/t2668-visitor-lint).**
+Two things the lint does not yet cover still show ids to a visitor:
+- **The Shops & work card's location lines** (`basis`, and `limit_reason` on every location in
+  data/businesses/index.json). Several name structure ids, a few name ticket numbers, and the 17
+  lines for firms not trading at the scene date cite newspaper claim ids.
+- **Four hand-written civic-office notes** that T-2668 allowlists under this ticket. They show in
+  their Go to rows and cite research ids, `data/exclusions.json` or
+  `docs/RESEARCH/hogan_store.md`:
+  - biz_chicago_post_office
+  - biz_cook_county_offices
+  - biz_indian_agency_chicago
+  - biz_us_land_office_chicago
+
+Both belong behind Researcher mode, with a visitor wording in front. When this lands:
+- Remove the four allowlist entries from tools/check_visitor_ui.py (a stale entry fails the gate).
+- Extend the lint to the card's location lines.
