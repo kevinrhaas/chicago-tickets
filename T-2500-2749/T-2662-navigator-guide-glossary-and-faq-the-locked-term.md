@@ -1,7 +1,7 @@
 ---
 id: T-2662
 title: Navigator Guide glossary and FAQ: the locked terms with one-line meanings, 'Is this real?' and 'What does Reconstructed mean?' in 60 words or fewer each, and a locked term's first appearance on a screen showing its meaning on tap
-state: open
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-804
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 966
 claimed_by: null
 blocked_on: null
 needs_bake: false
