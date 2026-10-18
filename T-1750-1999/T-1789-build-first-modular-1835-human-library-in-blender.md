@@ -45,8 +45,23 @@ exports, and Unreal is a later consumer. Implementation target: `kevinrhaas/chic
   silhouette; distant tiers simplify hair, fingers, garment detail and materials without
   changing the person's scale or identity.
 - Provide a Blender collection/assembly recipe and at least three deliberately different
-  anonymous test residents rendered in Blender and exported through the real Chicago GLB
-  path. These are pipeline proofs, not historical assertions or new residents.
+  test residents rendered in Blender and exported through the real Chicago GLB path.
+  Prefer existing attested, inferred or reconstructed person records as references and
+  model assignments. Anonymous figures are permitted only when no suitable existing
+  person can be used (owner, 2026-10-18). Pipeline proofs never mint new biographies or
+  upgrade reconstructed identities or appearance into attested likenesses.
 
 **Stop condition:** Mark Beaubien can be built mostly by assembling/refining this library
 rather than creating an unrelated one-off rig.
+
+## Owner steering — 2026-10-18
+
+“Ok generally if you can use assign existing attested inferred or reconstructed people
+as the reference and model, don’t make generic people unless you have no other choice.”
+
+First study references: rc_bardwell_otis (teamster20–29), rc_dufresne_joseph
+(livery stable keeper30–39), rc_flynn_martin (teamster30–39), all already reconstructed
+in the1835 dataset. Body/skin/garment choices remain separately reconstructed. Two
+adult shape studies and color variants do not complete the different-person or
+photographic-quality acceptance. The first canonical CI bake is still pending the
+checked code checkpoint; no new scene instances or named likenesses are claimed.
