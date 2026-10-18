@@ -1,7 +1,7 @@
 ---
 id: T-2667
 title: Evidence hub becomes Guide › About this destination: ten topics folded into four cards, How we grade, Sources, Liberties and What lived and grew here, with the order book behind Researcher mode
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-1002
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1048
 claimed_by: run 10/18/2026, 3:55:38 PM CT
 blocked_on: null
 needs_bake: false
