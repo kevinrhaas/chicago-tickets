@@ -1,7 +1,7 @@
 ---
 id: T-2666
 title: Navigator teacher handout: Guide › For teachers prints the seven tour steps on one page with three suggested Jaunts per destination
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 9:28:21 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T14:28:21.362Z
 decision: null
 decision_answer: null
 ---
