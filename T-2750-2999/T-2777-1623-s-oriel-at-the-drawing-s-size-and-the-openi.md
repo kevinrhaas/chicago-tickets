@@ -1,7 +1,7 @@
 ---
 id: T-2777
 title: 1623's oriel at the drawing's size and the openings at the drawing's places: the oriel about 4.8 m at the wall, 3.4 m of front and 0.9 m out on its corbelling over the two arches, four lights to its front and a lit light in each cant, the window arch centred about 1.55 m from the north wall and the entrance arch about 4.6 m; K01 rebaked and the match record's size, lights and places rows closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2729
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1025
 claimed_by: run 10/18/2026, 10:11:03 AM CT
 blocked_on: null
 needs_bake: false
