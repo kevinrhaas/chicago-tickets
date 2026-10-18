@@ -1,7 +1,7 @@
 ---
 id: T-2645
 title: Navigator Inspect Photos tab: images sorted by date with year, caption and 'from this spot', the 12 best first and the rest behind 'All N'
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-510
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1027
 claimed_by: run 10/18/2026, 7:57:41 AM CT
 blocked_on: null
 needs_bake: false
