@@ -1,7 +1,7 @@
 ---
 id: T-2764
 title: The 1965 view's camera (T-2579) given depth at Keith's loggia so its pedestal reads at the print's ~41 px, on the column the plate's level fit rules; T-2725's two open items in a18-gh-1808-porch-1965 ruled
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2749
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1019
 claimed_by: run 10/18/2026, 9:08:59 AM CT
 blocked_on: null
 needs_bake: false
