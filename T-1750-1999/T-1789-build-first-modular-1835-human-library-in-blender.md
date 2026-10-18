@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-09-30
 closed: null
-pr: null
+pr: 1046
 claimed_by: generic-human-master 10/18/2026, 3:42:42 PM CT
 blocked_on: null
 needs_bake: true
@@ -63,5 +63,8 @@ First study references: rc_bardwell_otis (teamster20–29), rc_dufresne_joseph
 (livery stable keeper30–39), rc_flynn_martin (teamster30–39), all already reconstructed
 in the1835 dataset. Body/skin/garment choices remain separately reconstructed. Two
 adult shape studies and color variants do not complete the different-person or
-photographic-quality acceptance. The first canonical CI bake is still pending the
-checked code checkpoint; no new scene instances or named likenesses are claimed.
+photographic-quality acceptance. The checked code checkpoint is e6f72ceb489dd625554dcabdbaced064c0b7e214,
+pushed to steward/generic-teamster-humans in draft PR1046. Full local preflight
+passed all973 steps, zero failed, plus changelog and ticket-ID checks. Canonical
+CI build39168738942 is running; no actual resident GLB acceptance, new scene
+instances or named likenesses are claimed.

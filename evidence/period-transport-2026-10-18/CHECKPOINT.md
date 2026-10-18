@@ -19,7 +19,7 @@ GitHub API access recovered. Draft PR [#1041](https://github.com/kevinrhaas/chic
 
 Read [fit-followup.md](fit-followup.md) for the second checkpoint. Its exact full precommit gate passed 971 steps, none red, exit 0; local log `/tmp/transport-followup-check-complete.log`. Horse silhouettes/gait, physical tugs, actual front-turntable rolling and collar fit are refined. Full triangle checks replaced misleading nearest-face signs in the limb test. Corrected and failed receipts are preserved. No photographic, continuous-collision, animal-suitability, braking/holdback or production scene acceptance is claimed.
 
-## Active validation and human work (20:57 UTC)
+## Active validation and human work (21:40 UTC)
 
 The exact merged-tree local preflight passed 972 steps, none red. Published fixed
 desktop stage 1 passed 95/0; other interrupted earlier runs retain their failures and
@@ -27,14 +27,21 @@ are not full passes. The existing smoke harness cold device probe now runs befor
 the first town render; timing limits and application device behavior are unchanged.
 Full desktop smoke [39164186323](https://github.com/kevinrhaas/chicago/actions/runs/39164186323),
 full mobile [39164260098](https://github.com/kevinrhaas/chicago/actions/runs/39164260098),
-and fast gate [39164182373](https://github.com/kevinrhaas/chicago/actions/runs/39164182373)
-are running on that exact head. Sixteen other PR checks completed without failure;
-no full CI smoke pass is claimed while these remain in progress.
+are still running on that exact head. Fast gate
+[39164182373](https://github.com/kevinrhaas/chicago/actions/runs/39164182373) passed.
+Seventeen of nineteen PR checks have completed without failure; no full CI smoke
+pass is claimed while the two full browser runs remain in progress.
 
 Local code checkout is now on `steward/generic-teamster-humans`, branched from
 transport head1b3c73d. T2672 policy, T1789 body preparation/canonical builder, and
-T2823 documented anonymous-fallback mechanics are under a fresh full preflight.
-No human code checkpoint SHA or PR exists yet. The owner subsequently directed
+T2823 documented anonymous-fallback mechanics are committed and pushed at
+**e6f72ceb489dd625554dcabdbaced064c0b7e214**, draft
+[PR1046](https://github.com/kevinrhaas/chicago/pull/1046). Full preflight passed:
+973 check.sh steps, zero failed, plus changelog and ticket-ID checks. The postcommit
+changelog check also passed. No local Blender was run. Canonical human workflow
+[39168738942](https://github.com/kevinrhaas/chicago/actions/runs/39168738942) was
+dispatched with build_teamsters=true on that exact SHA and is running. Download
+its actual artifacts and inspect them before accepting model quality. The owner subsequently directed
 existing attested/inferred/reconstructed people first, anonymous only if no choice.
 The first actual references are existing reconstructed 1835 residents
 `rc_bardwell_otis`, `rc_dufresne_joseph`, `rc_flynn_martin`. Do not fabricate new
@@ -44,5 +51,8 @@ Read code `docs/RESEARCH/resident-teamsters-2026-10-18/README.md` for the canoni
 CI build route, output IDs and remaining acceptance. Blender is forbidden locally;
 CI outputs must be downloaded, independently inspected and then checked/committed.
 No new scene placements, seated driver, actual riding tack, photographic human,
-or production ticket completion has occurred. The official CC0 skin pack is being
-acquired and its actual licenses/images reviewed separately, not yet ingested.
+or production ticket completion has occurred. The original official CC0 Toigo bronze2048² PNG and exact source receipts are
+ingested and packed by the builder. No fabricated4K/detailmaps or portrait
+likeness is claimed. Its actual Blender/glTF appearance remains pending the CI
+output. Upstream source bytes are pinned; LICENSE.md.gz preserves its original
+notice bytes exactly and is hash-verified before preparation.
