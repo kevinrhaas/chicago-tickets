@@ -18,11 +18,9 @@
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
-T-2737 — dev's still-frame (desktop) ceiling broken on 1835 town_backyard since 529f58a61: full 15664 ms vs 13750, balanced 10659 vs 10500, light 7015 vs 7000 (frame-time run 39057019019); find the landing that slowed every frame and either win it back or argue the ceiling in still_frame_ceilings.json with the reading
 T-2733 — The frame governor's moving reading off the owner's phone: the Read frame pacing result copied back and filed, sd and p95 fallen (or not) for walk, turn and flight under Adaptive against Fixed
 T-2717 — The GPU near ring's readings: the near re-deal's main-thread ms at zero and the moving p95 at the throttled phone profile, before and after; the remaining sets (mid, forb, heads, far shrubs) filed as one follow-up
 T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
-T-2743 — Species tree models for every year: grown architecture per species, species bark and true-size leaves, built once and instanced with three detail levels (1835, 1812 timber and the 1904 parkway elms)
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,

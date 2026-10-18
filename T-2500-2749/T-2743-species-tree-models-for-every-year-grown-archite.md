@@ -1,7 +1,7 @@
 ---
 id: T-2743
 title: Species tree models for every year: grown architecture per species, species bark and true-size leaves, built once and instanced with three detail levels (1835, 1812 timber and the 1904 parkway elms)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-18
 pr: 1003
 claimed_by: run 10/17/2026, 2:20:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T10:48:07Z
 claimed_run: null
 claimed_at: 2026-10-17T19:20:55.979Z
 decision: null
