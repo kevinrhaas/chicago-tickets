@@ -169,6 +169,7 @@ T-1949 — Verify the completed 20th-22nd Prairie streetscape
 # Owner, 2026-10-03: had moved it to sit directly above the Prairie Avenue 1904 architectural programme.
 # Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
 T-2672 — AGENTS.md's standing constraint rewritten to the owner's 2026-10-16 rulings: human figures drawn once the portable-humans pipeline renders them, and Native and Metis people depicted on informed, evidence-bounded judgement
+T-2823 — Anonymous adult role identities: period-qualified profiles and actor selection without invented residents
 T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
 T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evidence with attested likeness, period analogy and reconstruction kept apart, the figure assembled from the T-1789 library on the shared rig, inspected front, three-quarter and profile renders, and LODs exported through T-1787
