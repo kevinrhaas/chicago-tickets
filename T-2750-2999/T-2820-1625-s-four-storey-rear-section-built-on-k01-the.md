@@ -1,7 +1,7 @@
 ---
 id: T-2820
 title: 1625's four-storey rear section built on K01: the 1911 sheet's s20-1625-a1 stepping 1.3 m south beside the main body's rear 7.6 m, its brick step-out with the photograph's door and windows on its street face, under its own slated mansard joined into the main roof with the street-face dormer and the rear stack over it; rebaked, and the match record's rear-section item closed or narrowed to what is left
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2754
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1039
 claimed_by: run 10/18/2026, 2:52:39 PM CT
 blocked_on: null
 needs_bake: false
