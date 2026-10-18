@@ -1,7 +1,7 @@
 ---
 id: T-2793
 title: Build one articulated period wagon master from the existing wagon families
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: wagon-model agent 10/18/2026, 1:45:25 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T18:45:25.994Z
 decision: null
 decision_answer: null
 ---
