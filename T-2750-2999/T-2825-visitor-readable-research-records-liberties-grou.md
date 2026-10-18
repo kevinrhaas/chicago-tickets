@@ -71,3 +71,8 @@ Researcher mode only:
 - The visible text never carries ticket numbers or ticket jargon ("T-1198 seats…", "the ticket that
   owns it", "tier N", record ids).
 - Outside Researcher mode, no ticket link at all.
+
+**Finding, 2026-10-18 (T-2650, branch claude/t2650-confidence-overlays).** Some 1904 building card
+titles carry production wording, for example "…, K01 frontage assembly" and "…map-led altered house".
+They show on the card and in the target tag. T-2650's overlay labels take only the title's lead
+phrase, so they are clean, but the titles themselves are within this ticket's scope.
