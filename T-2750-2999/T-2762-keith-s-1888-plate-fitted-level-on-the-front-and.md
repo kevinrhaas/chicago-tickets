@@ -1,7 +1,7 @@
 ---
 id: T-2762
 title: Keith's 1888 plate fitted level on the front and the loggia's off-plane controls (tools/keith_plate_level_fit.py, every control read at the plate's native 1559 px against the committed GLB), and the finding filed in inland-1888's match record: whether any level camera draws the as-built loggia's column and pedestal at the print's 191.5 / 77 px
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2749
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1005
 claimed_by: run 10/18/2026, 5:48:02 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T11:24:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39119364461
 claimed_at: 2026-10-18T10:48:02.935Z
 decision: null
