@@ -1,7 +1,7 @@
 ---
 id: T-2728
 title: 1623's entrance and base from the Building Budget drawing: the deep round entrance arch matching the window's with its glazed door, the front rock-faced to the arches' springing, the basement's broad light behind an iron grille, and the stoop between iron rails and newels
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2435
 opened: 2026-10-17
-closed: null
+closed: 2026-10-18
 pr: 992
 claimed_by: run 10/17/2026, 1:20:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T12:20:14Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39057134959
 claimed_at: 2026-10-17T18:20:53.496Z
 decision: null
