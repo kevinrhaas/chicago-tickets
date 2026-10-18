@@ -1,7 +1,7 @@
 ---
 id: T-2822
 title: iPhone: display resets on a building tap or opening the Navigator beside Glessner (1904)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 3:34:45 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T20:34:46.000Z
 decision: null
 decision_answer: null
 ---
