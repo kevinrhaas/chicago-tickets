@@ -1,7 +1,7 @@
 ---
 id: T-2786
 title: 1904 still restarts on an iPhone after T-2775: the railway's strip scratch and every building's source geometry stay reachable after their batches are built
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 11:22:20 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T16:22:20.305Z
 decision: null
 decision_answer: null
 ---
