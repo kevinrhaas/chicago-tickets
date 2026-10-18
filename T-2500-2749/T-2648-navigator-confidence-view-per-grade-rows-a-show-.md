@@ -1,7 +1,7 @@
 ---
 id: T-2648
 title: Navigator Confidence view per-grade rows: a show toggle, four curated swatches with a color-blind-safe set, Look (Tint, Ghost, Dither), opacity 0-100 % and a live count per grade
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-602
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 1036
 claimed_by: run 10/18/2026, 8:40:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T20:40:07Z
 claimed_run: null
 claimed_at: 2026-10-18T13:40:15.468Z
 decision: null
