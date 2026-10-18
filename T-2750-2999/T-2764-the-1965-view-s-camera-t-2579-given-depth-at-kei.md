@@ -34,3 +34,7 @@ When T-2749 was split (2026-10-18T10:47:49.823Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39119364461) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Findings carried from T-2765 (PR #1010)
+
+T-2765 moved the bow's principal and basement lights to the second storey's bearings (-33, -11, 11, 33 degrees; four principal, three basement). This camera's three bow controls (the south bow light's head and sill, the next light's head, the basement light's head) were picked on the old -27 and 0 degree lights' south edges, so re-pick them from the rebuilt GLB before re-fitting. Re-picked on the -33 and -11 degree lights, the same seven controls fit at about 2.9 px RMS (max 6.8) where they fit 1.3-1.7 px, with the eye about 5 m further south; the +33 degree light is not seen from this camera (its reveal covers it about 65 degrees off its face). The open item is on a18-gh-1808-porch-1965.match.json.
