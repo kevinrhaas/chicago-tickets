@@ -33,4 +33,4 @@ When T-2536 was split (2026-10-18T09:09:48.348Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112875575) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** the c. 1870 Grosvenor photograph (`a16-ghm-blog-1637-grosvenor-asbuilt`) has a source record in `data/sources/` and its reference copy committed with its attribution; a camera `data/reference_views/spalding_house_1637_prairie/grosvenor_asbuilt_photo.json` whose `solve` states the lines and lengths it rests on and its residuals; `photo_match.mjs` run on it and its match record written, every thing the photograph shows listed and ruled: kept by the remodel (fixed if built, open if not, for T-2756) or replaced by it, argued `not shown` for 1904 with the later evidence that says so. The engraving's match record loses its stale duplicate (T-2537's window) and rules its garden-wall item on T-2443's ruling. Gate green.

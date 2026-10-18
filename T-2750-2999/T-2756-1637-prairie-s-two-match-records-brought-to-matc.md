@@ -33,4 +33,7 @@ When T-2536 was split (2026-10-18T09:09:48.348Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112875575) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** every item T-2755 leaves open in either of 1637's match records (`spalding_remodel_engraving`, `grosvenor_asbuilt_photo`) is built and reads fixed, or is argued with the evidence; both records read `matches` with nothing open, from the GLB in the tree; T-2449's image gate (spalding_house_1637_prairie) passes `ticket.mjs done`.
+
+## Image gate
+- spalding_house_1637_prairie
