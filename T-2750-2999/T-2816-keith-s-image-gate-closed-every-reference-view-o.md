@@ -34,3 +34,11 @@ When T-2751 was split (2026-10-18T19:48:54.877Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39160084726) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Carried from T-2751/T-2726/T-1883: this piece closes the house, so `ticket.mjs done` refuses it until every view of the building below is `matches`.
+
+- keith_house_1808_prairie
+
+The parent T-2751 holds the findings (cowl, stoop, crown stack, 1965 factor, plate items) that pieces T-2811..T-2815 build; read it first.
