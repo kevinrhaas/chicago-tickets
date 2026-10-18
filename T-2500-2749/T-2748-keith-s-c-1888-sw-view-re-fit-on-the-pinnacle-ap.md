@@ -1,7 +1,7 @@
 ---
 id: T-2748
 title: Keith's c. 1888 SW view re-fit on the pinnacle apexes: the camera solved level on the three pinnacle apexes the print shows, the north return and its cap judged at that camera, and owner-1800's reproduction carried onto it and given its reviewer's reason
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2726
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 999
 claimed_by: run 10/18/2026, 3:55:12 AM CT
 blocked_on: null
 needs_bake: false
