@@ -75,3 +75,10 @@ come straight from the research records:
 Two ways to close it, and which one is the owner's call: hide the entry bodies' internal parts
 behind Researcher mode (`data-researcher`), or rewrite the records into visitor words. Separately,
 the arrival line still reads "Reconstructed from the sources under Sources."
+
+## Owner's ruling (2026-10-18): scope change
+"You should rewrite the records so you are not referring to internal ticket numbers or internal
+record ids in researcher or educator mode." Researcher mode does NOT bring back ticket references
+or source and record ids. It still holds the order book and the full "Why this default" essays.
+The records themselves are rewritten under T-2825. The two civic-note and Shops & work findings
+above move to T-2825 too.
