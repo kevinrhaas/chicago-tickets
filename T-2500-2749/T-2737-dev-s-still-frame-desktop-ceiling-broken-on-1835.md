@@ -1,7 +1,7 @@
 ---
 id: T-2737
 title: dev's still-frame (desktop) ceiling broken on 1835 town_backyard since 529f58a61: full 15664 ms vs 13750, balanced 10659 vs 10500, light 7015 vs 7000 (frame-time run 39057019019); find the landing that slowed every frame and either win it back or argue the ceiling in still_frame_ceilings.json with the reading
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 1004
 claimed_by: run 10/18/2026, 3:53:14 AM CT
 blocked_on: null
 needs_bake: false
