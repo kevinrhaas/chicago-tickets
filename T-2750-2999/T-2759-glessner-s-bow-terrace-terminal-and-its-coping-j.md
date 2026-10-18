@@ -1,7 +1,7 @@
 ---
 id: T-2759
 title: Glessner's bow terrace terminal and its coping join brought to HABS sheet 4 and photograph 5, and the terrace section's match record reviewed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2228
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1009
 claimed_by: run 10/18/2026, 5:33:51 AM CT
 blocked_on: null
 needs_bake: false
