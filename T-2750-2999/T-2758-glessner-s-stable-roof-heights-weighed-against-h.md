@@ -1,7 +1,7 @@
 ---
 id: T-2758
 title: Glessner's stable roof heights weighed against HABS photograph 1 and the Cornell view: whether the ~2 ft by which photograph 1 reads the whole stable roof low is camera or roof, the Cornell camera re-solved at the roof, and the cupola's centre parallax (about 4 ft north of S14.6) put to the owner if it holds
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2228
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1017
 claimed_by: run 10/18/2026, 8:42:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T15:28:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39132201933
 claimed_at: 2026-10-18T13:42:26.311Z
 decision: null
