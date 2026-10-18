@@ -242,7 +242,6 @@ T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIR
 # BLOCKED-TECH T-2745 (opened 2026-10-17, META) — 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street gro…
 #     waits: T-2744 (the 1835 placement tools and grove records it reuses)
 T-2767 — 1835 trees, part 2: the North Side woods' shrub layer, the Rush Street path and the Green Bay road cut through them; the fort's company-garden fruit trees and currants; Dr. Harmon's young sod-fenced orchard by the lake
-T-2768 — 1835 trees, part 3: the dune scrub on the sand hills from about 12th-16th to 25th Street, low red cedar, ground pine and sand cherry (needs a red cedar model and leaf tile in the T-2743 tree models)
 T-2783 — 1835 and 1812 prairie, part 1: the far prairie past flora.js's near ring reads as flat paint; add a mid ring of cheap grass cards and a grass-coloured, streaked ground so the near ring has no visible edge, held in every tier's ceiling and the 1835 frame
 T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty
 T-2806 — 1904 still restarts on an iPhone after a walk: phone-only hidden-wall culling makes ~10 MB of garbage a frame; the railway's ground strips are unshared triangles

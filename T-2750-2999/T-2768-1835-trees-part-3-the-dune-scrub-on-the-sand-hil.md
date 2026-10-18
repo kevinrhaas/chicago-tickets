@@ -1,7 +1,7 @@
 ---
 id: T-2768
 title: 1835 trees, part 3: the dune scrub on the sand hills from about 12th-16th to 25th Street, low red cedar, ground pine and sand cherry (needs a red cedar model and leaf tile in the T-2743 tree models)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2744
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1032
 claimed_by: run 10/18/2026, 11:30:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T19:11:42Z
 claimed_run: null
 claimed_at: 2026-10-18T16:30:37.016Z
 decision: null
