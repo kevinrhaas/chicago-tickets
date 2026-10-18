@@ -63,3 +63,15 @@ Two things the lint does not yet cover still show ids to a visitor:
 Both belong behind Researcher mode, with a visitor wording in front. When this lands:
 - Remove the four allowlist entries from tools/check_visitor_ui.py (a stale entry fails the gate).
 - Extend the lint to the card's location lines.
+
+**Finding, 2026-10-18 (from T-2667, branch claude/t2667-guide-about).** With Researcher mode off,
+the hub's cards, tiles, topic headings and section notes are clean. Opened entries are not; they
+come straight from the research records:
+- Liberties: 492 of 623 entries cite ticket numbers.
+- Ground (1835 and 1904), open questions and the town's people carry "tier" and ticket references.
+- The people topic also has a "the ticket that owns it" column.
+- The Source detail view shows record ids and locators.
+
+Two ways to close it, and which one is the owner's call: hide the entry bodies' internal parts
+behind Researcher mode (`data-researcher`), or rewrite the records into visitor words. Separately,
+the arrival line still reads "Reconstructed from the sources under Sources."
