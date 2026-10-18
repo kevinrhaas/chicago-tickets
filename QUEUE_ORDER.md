@@ -67,3 +67,5 @@
 # 2026-10-16 — Retain T-1883 at its existing owner-directed top position after chicago#853
 # merged. Removed only the duplicate bottom line appended by `ticket.mjs unblock`;
 # photographic acceptance remains open. No other ticket was reordered.
+
+- 2026-10-18 — Owner, Chicago 4D period transport request: "build tickets for these, place them in the queue in bands below the portable humans" and "set up multiple agents and begin to take and work these in parallel". Added bands 8D (T-2791 children T-2792–T-2797) and 8E (T-2798 children T-2799–T-2805) immediately after 8C; all pre-existing ticket lines retain their relative order.

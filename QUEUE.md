@@ -174,6 +174,27 @@ T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubie
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 
+# --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
+# Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
+# first review existing assets and dated photographic evidence, then models, moving distant traffic and interaction.
+# T-2792 and T-2799 begin in parallel by explicit owner instruction; respect every model's rights/date/needs_bake gates.
+T-2792 — Carriages and wagons: evidence register and first master specification
+T-2793 — Build one articulated period wagon master from the existing wagon families
+T-2794 — Build one photographic period passenger-carriage master
+T-2795 — Animate vehicle running gear and matched draft-horse hitches
+T-2796 — Move horse-drawn traffic through distant streets with measured LOD budgets
+T-2797 — Board, ride and leave a carriage or wagon with accessible controls
+
+# --- 8E. PERIOD HORSES AND GEAR — photographic animals, tack, riders, then mounting/riding (epic T-2798)
+# Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
+T-2799 — Horses and gear: dated reference dossier and first master specification
+T-2800 — Build the first anatomically grounded photographic horse master
+T-2801 — Build period draft harnesses and vehicle hitch assemblies
+T-2802 — Build period riding saddles, bridles and horse gear
+T-2803 — Rig the horse and author grounded idle, walk and trot clips
+T-2804 — Fit portable-human riders and drivers to horses and vehicles
+T-2805 — Mount, ride, steer and dismount a horse with accessible controls
+
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
 # Commented holds, never claimable. Unblock only when every dependency AND a capable executor are proven.
 # HOLD T-1472 — on-demand latest-validated Mac build/release; qualified Mac + release access.
