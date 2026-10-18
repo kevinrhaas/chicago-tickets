@@ -1,7 +1,7 @@
 ---
 id: T-2811
 title: Keith's cowl ventilator set to the c. 1888 SW print: about 0.3 m nearer the north return's face than the reconstructed 0.6 m, rebaked, the print's cowl item ruled (its 0.13 m height excess weighed against the camera's own 6 px) and the 1888 plate's cowl re-checked
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2751
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1038
 claimed_by: run 10/18/2026, 2:49:14 PM CT
 blocked_on: null
 needs_bake: false
