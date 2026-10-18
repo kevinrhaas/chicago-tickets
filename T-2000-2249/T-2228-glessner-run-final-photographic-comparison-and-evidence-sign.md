@@ -1,7 +1,7 @@
 ---
 id: T-2228
 title: Glessner: run final photographic comparison and evidence sign-off
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-09
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 3:53:05 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-18T09:32:51.341Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39112871207
 claimed_at: 2026-10-18T08:53:05.631Z
 decision: null
