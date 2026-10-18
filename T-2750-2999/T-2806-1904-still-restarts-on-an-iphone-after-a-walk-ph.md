@@ -1,7 +1,7 @@
 ---
 id: T-2806
 title: 1904 still restarts on an iPhone after a walk: phone-only hidden-wall culling makes ~10 MB of garbage a frame; the railway's ground strips are unshared triangles
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1037
 claimed_by: run 10/18/2026, 1:18:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T19:38:49Z
 claimed_run: null
 claimed_at: 2026-10-18T18:18:08.668Z
 decision: null
