@@ -1,7 +1,7 @@
 ---
 id: T-2726
 title: Keith's image gate closed: the c. 1888 SW camera re-fit, the Glessner-front stack, the bow lights' and joints' grain, the 1965 tint and pedestal panels and owner-1800's reviewer reason ruled, every view of keith_house_1808_prairie reads matches, and T-1883's acceptance checked off
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2714
 opened: 2026-10-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 3:52:48 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39112866799
+claimed_at: 2026-10-18T08:52:48.908Z
 decision: null
 decision_answer: null
 ---
