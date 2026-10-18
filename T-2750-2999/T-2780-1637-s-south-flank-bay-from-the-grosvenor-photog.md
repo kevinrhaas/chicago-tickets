@@ -1,7 +1,7 @@
 ---
 id: T-2780
 title: 1637's south-flank bay from the Grosvenor photograph: the 1911 sheet's canted bay on the south wall (about u 4.1 to 1.0, 0.75 m out) built in dressed stone through the principal storey, its round-arched lights over small round lights in its base under a bracketed entablature to the photograph's heights, a balustraded balcony on its top, and the round-headed window over it opened in the south wall; rebaked, and the Grosvenor record's projection and window items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2756
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1028
 claimed_by: run 10/18/2026, 10:46:40 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T23:07:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39140721449
 claimed_at: 2026-10-18T15:46:40.372Z
 decision: null
