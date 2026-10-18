@@ -1,7 +1,7 @@
 ---
 id: T-2750
 title: Keith's grain and tint rulings: the joints', carvings' and head bands' items in the four front views, the 1965 view's pedestal panels and tint, and the Glessner-front view's lattice openings under the coping, each built or ruled below the picture's grain
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2726
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 6:06:13 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39120702955
+claimed_at: 2026-10-18T11:06:13.140Z
 decision: null
 decision_answer: null
 ---
