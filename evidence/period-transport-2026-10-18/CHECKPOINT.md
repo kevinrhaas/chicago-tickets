@@ -1,5 +1,7 @@
 # Session recovery checkpoint — 2026-10-18
 
+**Current human checkpoint: `0577792dc5b4107fcf4aeab0014d0b9fb3f44ab6`, pushed on `steward/generic-teamster-humans`, PR1046. Full preflight PASS:975steps/0failed; postcommit changelog PASS. Canonical resident workflow39173614006 is running at that exact SHA. Transport PR1041 remains draft/not green; next bring latest dev into transport and run replacement full split coverage. No local Blender. Never export CHICAGO_TICKETS_DIR into gates.**
+
 Code repository: `kevinrhaas/chicago`, branch `steward/period-transport-2793`.
 Latest transport commit: `1b3c73d22016596d07b133019df24422c2b54790` (merged dev `7d5daca7d82748acce0fda541c638b260bdd3be4`).
 Previous modeling checkpoint: `6b51f65ca01921cfcdf447566774205671aca43d`.
@@ -92,3 +94,9 @@ Never export CHICAGO_TICKETS_DIR globally or into preflight/check.sh. Prefix ONL
 Actual-function AST wiring tests also caught and repaired a dictionary/string mismatch in exported proof references. Fourteen frame/wiring and nine skin tests now pass. Code remains staged pending the corrected full gate. Next commit/CI SHA must replace this staged checkpoint.
 
 Dev has advanced to a99f3623849bb2e7ce6c7d255ff3adecc66d5dcd (at last read), including an upstream120s Guide readiness fix and new rendering/UI content. Merge latest dev into transport before replacement full coverage; preserve upstream Guide fix. Source gait study now quantifies unsupported feet at4/7walkkeys from actual adult25/35 rigs and shoe geometry. The unintegrated diagnostic/proposal is saved under human-next-drafts/resident-gait-draft.tar.gz; it is not exported skin or photographic gait acceptance.
+
+## Export repair checkpoint committed and pushed
+
+0577792dc5b4107fcf4aeab0014d0b9fb3f44ab6 includes the strict authored rigid-frame proof, bounded scale repair, exact skin consolidation, scene-volume quantization and actual-function wiring regression. Clean full preflight passed975steps with0failed after unsetting the ticket override. All14frame/wiring +9skin tests pass. Postcommit changelog PASS. Full passing logs and hashes saved here. Canonical workflow39173614006 (build_teamsters=true) is running at that exact SHA; inspect real results before reporting green or accepting models. Original fixture path unchanged.
+
+Unintegrated mature1904body for existing attested glessner_john_j is saved under human-next-drafts/resident-1904-body-draft.tar.gz. Appearance/wardrobe/actions remain reconstructed, not a portrait or professional coachman claim. Gait draft now has actual 1001-phase IK/contact source prototypes for both body ages; no BPy/export/visual gait acceptance. Inspection hardening is being independently reviewed, including actual texture binding/temporal motion and raw-vs-cleaned skin comparison; use its latest corrected proposal, not older copies.
