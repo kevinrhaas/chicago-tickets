@@ -35,7 +35,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 1. Up from the principal sill, the front's and the bow's courses laid deep and thin in turn at the print's split (T-2772 reads 33 / 18 px, about 0.44 / 0.24 m, against the model's 0.49 / 0.195 m, the pair's pitch unchanged), and the bow's beds laid level with the front's, as the print lays them (7 of 8 front beds have a bow bed within 3 px in print, 2 of 7 in the render).
-2. From the principal sill to the pavement, four even courses (35-37 px in print, about 0.47-0.50 m) over a foot, on the front and the bow, where the model lays seven, thin and deep in turn over two base courses.
+2. From the principal sill to the pavement, three even courses (35-37 px in print, about 0.47-0.49 m) over a 49 px foot, on the front and the bow, where the model lays seven, thin and deep in turn over two base courses.
 3. Rebaked, every Keith view re-rendered, and `python3 tools/keith_plate_grain_read.py` re-run on the new render: its print and render rows agree within 2 px a course, and the four front views' T-2772 joints items set `fixed`.
 
 ## Findings carried from T-2772's reading (2026-10-18)
