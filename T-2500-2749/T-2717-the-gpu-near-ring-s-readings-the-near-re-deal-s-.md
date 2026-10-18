@@ -1,7 +1,7 @@
 ---
 id: T-2717
 title: The GPU near ring's readings: the near re-deal's main-thread ms at zero and the moving p95 at the throttled phone profile, before and after; the remaining sets (mid, forb, heads, far shrubs) filed as one follow-up
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2708
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 1014
 claimed_by: run 10/18/2026, 8:24:34 AM CT
 blocked_on: null
 needs_bake: false
