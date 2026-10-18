@@ -59,7 +59,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
 T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house' hotspots with grades replacing the attribute table, Compare styles, and the Richardsonian Romanesque module for Glessner House
 T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
-T-2643 — Navigator Inspect Story tab: BUILT, YOU ARE HERE and TODAY on a timeline from design to today, filtered by the scene's era
 T-2644 — Navigator Inspect Sources tab: facts grouped by Attested, Inferred and Reconstructed with a Liberties section, human source titles, and full citations collapsed under each fact
 T-2645 — Navigator Inspect Photos tab: images sorted by date with year, caption and 'from this spot', the 12 best first and the rest behind 'All N'
 T-2648 — Navigator Confidence view per-grade rows: a show toggle, four curated swatches with a color-blind-safe set, Look (Tint, Ghost, Dither), opacity 0-100 % and a live count per grade
@@ -70,7 +69,6 @@ T-2657 — Researcher mode: a Settings › About switch, off by default, that br
 T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
 T-2659 — Navigator sound, on by default: the ticker's flap ticks capped at 12 a second, the landing clunk, relay clicks and a hum while the Navigator is open, per-destination ambience, and Settings › Sound with master, effects and ambience
 T-2660 — Field log on the device: landed, first inspect, tabs opened, Show me, Jaunts started and finished, Tour steps and Confidence presets counted in localStorage only, shown in Settings › About with a Clear button, never sent
-T-2664 — Navigator first-landing tour offer: offered once per device after landing, declining never re-prompts, and one-time hints after it for the first Jaunt, first Jump and first Reconstructed building
 T-2665 — Navigator License keepsake: awarded on finishing the tour and shown with the Jaunt keepsakes in the Jaunts app
 T-2666 — Navigator teacher handout: Guide › For teachers prints the seven tour steps on one page with three suggested Jaunts per destination
 T-2667 — Evidence hub becomes Guide › About this destination: ten topics folded into four cards, How we grade, Sources, Liberties and What lived and grew here, with the order book behind Researcher mode
