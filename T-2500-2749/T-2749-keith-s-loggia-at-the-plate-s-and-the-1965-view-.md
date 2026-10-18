@@ -34,3 +34,8 @@ When T-2726 was split (2026-10-18T08:54:59.736Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112866799) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. The 1888 plate's camera (`inland-1888` and the plate family sharing T-1883's controls) re-fit level, with the loggia's off-plane controls (the pedestals' south faces, the north pedestal's offset from the front's north corner), and the loggia's column and pedestal reading their built 2.5 m / 1.02 m within a few per cent.
+2. The 1965 view's camera (T-2579) given depth at the loggia so the 1.02 m pedestal reads at the print's ~41 px; T-2725's two open items ruled.
+3. The bow's principal and basement lights judged on the new plate camera (fixed, or built where they are not).
+
+The parent T-2726's "Findings carried from T-2725's run" section holds the measurements this piece starts from.

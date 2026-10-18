@@ -34,3 +34,13 @@ When T-2726 was split (2026-10-18T08:54:59.736Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112866799) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. Every reference view of `keith_house_1808_prairie` reads `matches` with nothing `open`, from the GLB in the tree.
+2. T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off.
+
+## Image gate (owner, 2026-10-11, T-2368)
+
+Carried from T-2726/T-2714/T-2586/T-2580/T-1883: this piece closes the house, so `ticket.mjs done` refuses it until every view of the building below is `matches`.
+
+- keith_house_1808_prairie
+
+The parent T-2726's "Findings carried from T-2725's run" section holds the measurements this piece starts from.

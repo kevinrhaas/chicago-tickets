@@ -34,3 +34,8 @@ When T-2726 was split (2026-10-18T08:54:59.736Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112866799) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. `a18-gh-1800-block-looking-sw-c1888.json` re-solved as a level camera on the pinnacle apexes the print shows (the north-east and rear pinnacles over the north return, and the south-east one where it reads), each control read at full resolution against the committed GLB's own apex, the residuals and the not-fitted checks written into `solve`.
+2. T-2713's open item (the rear pinnacle about 60 px right of and 40 px below the print) re-read at that camera: fixed, or the return/cap difference it then shows built or written as its own open item.
+3. `a18-owner-1800-block-looking-sw.json` (a reproduction transferred from the c. 1888 camera) carried onto the new camera through its own transfer, and its match record given a reviewer's reason for its verdict.
+
+The parent T-2726's "Findings carried from T-2725's run" section holds the measurements this piece starts from.

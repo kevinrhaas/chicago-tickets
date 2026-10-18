@@ -34,3 +34,8 @@ When T-2726 was split (2026-10-18T08:54:59.736Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39112866799) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+1. The four front views' "individual joints, upper capitals' carving and head bands' exact sections" items each built from what the picture resolves or ruled `not shown` with the picture's grain at the feature measured (px per m) and stated.
+2. The 1965 view's pedestal sunk panels and its tint each built or ruled with the reading.
+3. The Glessner-front view's lattice openings under the deeper coping (T-2579 open item) built or ruled.
+
+The parent T-2726's "Findings carried from T-2725's run" section holds the measurements this piece starts from.
