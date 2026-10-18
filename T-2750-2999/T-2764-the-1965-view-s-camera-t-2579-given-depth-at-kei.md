@@ -1,7 +1,7 @@
 ---
 id: T-2764
 title: The 1965 view's camera (T-2579) given depth at Keith's loggia so its pedestal reads at the print's ~41 px, on the column the plate's level fit rules; T-2725's two open items in a18-gh-1808-porch-1965 ruled
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2749
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1019
 claimed_by: run 10/18/2026, 9:08:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T15:15:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39134354150
 claimed_at: 2026-10-18T14:08:59.945Z
 decision: null
