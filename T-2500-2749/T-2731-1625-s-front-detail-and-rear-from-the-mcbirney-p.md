@@ -1,7 +1,7 @@
 ---
 id: T-2731
 title: 1625's front detail and rear from the McBirney photograph: mullioned casements in quoined surrounds and segment-headed upper sash, the proud quoined frontispiece with its carved panel, hood-moulded window and paired lights, the plain plinth, the stepped four-storey rear under its mansard, and 1625's match record brought to matches (the group's image gate)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2435
 opened: 2026-10-17
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 3:53:44 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T08:55:23.302Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39112862071
 claimed_at: 2026-10-18T08:53:44.920Z
 decision: null
