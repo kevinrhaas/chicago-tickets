@@ -1,7 +1,7 @@
 ---
 id: T-2539
 title: 1801 Prairie onto K01 in Bedford stone: the kit lays an all-stone house and carries a round corner tower whose cone stands over the main roof, and the Kimball house moves onto it with the photograph's openings, entrance arches and curved stair (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1889
 opened: 2026-10-15
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 11:54:32 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T16:56:06.852Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39146724739
 claimed_at: 2026-10-18T16:54:32.906Z
 decision: null
