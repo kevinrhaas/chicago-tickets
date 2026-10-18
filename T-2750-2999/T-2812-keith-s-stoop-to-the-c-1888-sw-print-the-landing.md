@@ -1,7 +1,7 @@
 ---
 id: T-2812
 title: Keith's stoop to the c. 1888 SW print: the landing's pierced balustrade about 35 px further left and the arch under the flight a low round-headed opening (about 27 x 20 px against the built 33 x 62), read beside the 1965 porch view and the 1888 plate, rebaked
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2751
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 2:59:31 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39160947734
+claimed_at: 2026-10-18T19:59:31.850Z
 decision: null
 decision_answer: null
 ---
