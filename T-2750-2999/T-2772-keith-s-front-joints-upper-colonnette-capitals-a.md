@@ -1,7 +1,7 @@
 ---
 id: T-2772
 title: Keith's front joints, upper colonnette capitals and head bands read at the 1888 plate's native 1559 px (tools/keith_plate_grain_read.py): course beds read course by course on the front's south strip and the bow's south flank and piers against the render, the crown's bands against the lattice rows, and in the four front views the capitals and the head bands' sections ruled with their grain stated and the joints item restated with what the plate reads
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2770
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1015
 claimed_by: run 10/18/2026, 8:11:15 AM CT
 blocked_on: null
 needs_bake: false
