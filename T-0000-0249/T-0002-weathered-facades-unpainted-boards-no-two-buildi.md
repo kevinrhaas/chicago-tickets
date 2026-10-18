@@ -1,7 +1,7 @@
 ---
 id: T-0002
 title: Weathered facades: unpainted boards, no two buildings alike
-state: blocked-tech
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -12,13 +12,8 @@ opened: 2026-08-17
 closed: 2026-08-17
 pr: null
 claimed_by: null
-blocked_on: a committed source for the complement
+blocked_on: null
 needs_bake: false
-closed_at: null
-claimed_run: null
-claimed_at: null
-decision: null
-decision_answer: null
 ---
 
 **The owner's ask (K4):** buildings read as freshly painted and identical. Most 1835 frame
