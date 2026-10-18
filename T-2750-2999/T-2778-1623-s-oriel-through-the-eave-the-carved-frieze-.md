@@ -1,7 +1,7 @@
 ---
 id: T-2778
 title: 1623's oriel through the eave: the carved frieze at about 8.1-9.0 m, the upper stage of five shorter lights to about 10.4 m, and the steep conical slate roof with its finial, eave about 10.9 m and apex about 13.4 m, rising past the main cornice; K01 rebaked and the match record's upper-stage row closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2729
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 11:49:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39146393624
+claimed_at: 2026-10-18T16:49:06.695Z
 decision: null
 decision_answer: null
 ---
