@@ -1,7 +1,7 @@
 ---
 id: T-2752
 title: 1625's street windows from the McBirney photograph: K01 lays a stone front's windows storey by storey at their own centres, widths and kinds — the lower storeys' mullioned, transomed leaded casements, the wider four-light window over the door, the segment-headed upper sash and the frontispiece's paired narrow lights — on a plain plinth with no basement lights
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2731
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 3:55:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39112862071
+claimed_at: 2026-10-18T08:55:28.078Z
 decision: null
 decision_answer: null
 ---
