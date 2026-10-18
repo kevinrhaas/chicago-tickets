@@ -1,7 +1,7 @@
 ---
 id: T-2818
 title: 1623's basement light: the broad segmental light about 1.8 m across under its voussoirs, behind an iron grille with its band of scrolls over close uprights; K01 rebaked and the match record's basement row closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2779
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 2:51:30 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39160097151
+claimed_at: 2026-10-18T19:51:30.424Z
 decision: null
 decision_answer: null
 ---
