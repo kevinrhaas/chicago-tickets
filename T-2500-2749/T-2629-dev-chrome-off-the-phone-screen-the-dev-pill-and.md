@@ -36,10 +36,10 @@ they live in Settings › About (dev builds only); desktop may keep a small stam
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] At 390x844 no DEV pill or build stamp overlaps the HUD or Navigator; Settings › About shows both on dev builds.
+- [x] At 390x844 no DEV pill or build stamp overlaps the HUD or Navigator; Settings › About shows both on dev builds.
 - [ ] Works on a 390x844 phone and a 1440x900 laptop, and the 390x780 mobile smoke (the release gate) passes.
 - [ ] Works in all four machine skins and with reduced motion.
-- [ ] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
-- [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
-- [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
-- [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+- [x] No ids, file paths or snake_case visible to a visitor (NAV-1003's lint passes once it has landed).
+- [x] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
+- [x] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
+- [x] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
