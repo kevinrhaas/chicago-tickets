@@ -1,7 +1,7 @@
 ---
 id: T-2644
 title: Navigator Inspect Sources tab: facts grouped by Attested, Inferred and Reconstructed with a Liberties section, human source titles, and full citations collapsed under each fact
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-508
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 1021
 claimed_by: run 10/18/2026, 6:13:47 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T18:33:45Z
 claimed_run: null
 claimed_at: 2026-10-18T11:13:47.260Z
 decision: null
