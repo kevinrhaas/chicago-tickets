@@ -1,7 +1,7 @@
 ---
 id: T-2769
 title: Keith's loggia pedestals read from the 1888 plate and the 1965 view's pedestal panels and tint ruled: the leaf scrolls the plate's grain shows are not there taken off and rebaked, the 1965 tint read against that slide's own neutrals
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2750
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1007
 claimed_by: run 10/18/2026, 6:10:11 AM CT
 blocked_on: null
 needs_bake: false
