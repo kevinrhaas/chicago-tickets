@@ -1,7 +1,7 @@
 ---
 id: T-2753
 title: 1625's frontispiece from the McBirney photograph: the south part stepped proud with quoined edges, the window surrounds' dressed quoins, the carved panel over the door and the hood mould over the four-light window
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2731
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1026
 claimed_by: run 10/18/2026, 10:41:45 AM CT
 blocked_on: null
 needs_bake: false
