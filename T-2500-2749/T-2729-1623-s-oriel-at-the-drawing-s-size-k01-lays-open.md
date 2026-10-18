@@ -1,7 +1,7 @@
 ---
 id: T-2729
 title: 1623's oriel at the drawing's size: K01 lays openings under a street-front oriel and lets its upper stage, carved frieze and conical roof rise past the main cornice, the oriel about 4.8 m at the wall and 0.9 m out with four front lights and lit cants, and the window and entrance arches at the drawing's places; K01 rebaked, and 1623's match record brought to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2435
 opened: 2026-10-17
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 10:09:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T15:10:58.873Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39138026180
 claimed_at: 2026-10-18T15:09:51.590Z
 decision: null
