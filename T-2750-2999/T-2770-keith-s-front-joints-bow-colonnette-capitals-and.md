@@ -1,7 +1,7 @@
 ---
 id: T-2770
 title: Keith's front joints, bow colonnette capitals and head bands read from the 1888 plate, which resolves individual stones on the lower storeys: built or matched course by course once T-2762's level camera registers the render, and in the four front views each item built or ruled with its grain stated
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2750
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: null
 claimed_by: run 10/18/2026, 8:03:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T13:11:10.693Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39129546246
 claimed_at: 2026-10-18T13:03:16.010Z
 decision: null
