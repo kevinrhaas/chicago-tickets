@@ -26,7 +26,7 @@ desktop stage 1 passed 95/0; other interrupted earlier runs retain their failure
 are not full passes. The existing smoke harness cold device probe now runs before
 the first town render; timing limits and application device behavior are unchanged.
 Full desktop smoke [39164186323](https://github.com/kevinrhaas/chicago/actions/runs/39164186323),
-full mobile [39164260098](https://github.com/kevinrhaas/chicago/actions/runs/39164260098),
+and full mobile [39164260098](https://github.com/kevinrhaas/chicago/actions/runs/39164260098)
 are still running on that exact head. Fast gate
 [39164182373](https://github.com/kevinrhaas/chicago/actions/runs/39164182373) passed.
 Seventeen of nineteen PR checks have completed without failure; no full CI smoke
@@ -51,8 +51,13 @@ Read code `docs/RESEARCH/resident-teamsters-2026-10-18/README.md` for the canoni
 CI build route, output IDs and remaining acceptance. Blender is forbidden locally;
 CI outputs must be downloaded, independently inspected and then checked/committed.
 No new scene placements, seated driver, actual riding tack, photographic human,
-or production ticket completion has occurred. The original official CC0 Toigo bronze2048² PNG and exact source receipts are
-ingested and packed by the builder. No fabricated4K/detailmaps or portrait
+or production ticket completion has occurred. The original official CC0 Toigo bronze 2048² PNG and exact source receipts are
+ingested and packed by the builder. No fabricated 4K/detail maps or portrait
 likeness is claimed. Its actual Blender/glTF appearance remains pending the CI
 output. Upstream source bytes are pinned; LICENSE.md.gz preserves its original
 notice bytes exactly and is hash-verified before preparation.
+
+Reduced original eye components and the unapplied integration patch are preserved
+in human-next-drafts/eyes-reduced. Whole-person added triangles by LOD are
+1584/736/288/128. CPU diagnostics and topology checks are not Blender/glTF
+acceptance. Review the initial CI output before integrating this follow-up.
