@@ -1,7 +1,7 @@
 ---
 id: T-2668
 title: Visitor-UI lint: check.sh fails on file paths, ids, snake_case, 'tier', 'ticket' or 'order book' in visitor strings, with Researcher-mode strings exempt
-state: claimed
+state: review
 epic: PIPELINE
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-1003
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1020
 claimed_by: run 10/18/2026, 7:54:14 AM CT
 blocked_on: null
 needs_bake: false
