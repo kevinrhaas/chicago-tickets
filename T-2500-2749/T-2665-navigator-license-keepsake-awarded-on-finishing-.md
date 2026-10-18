@@ -1,7 +1,7 @@
 ---
 id: T-2665
 title: Navigator License keepsake: awarded on finishing the tour and shown with the Jaunt keepsakes in the Jaunts app
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 10:18:27 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T15:18:27.137Z
 decision: null
 decision_answer: null
 ---
