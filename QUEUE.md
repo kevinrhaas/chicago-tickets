@@ -79,6 +79,7 @@ T-2667 — Evidence hub becomes Guide › About this destination: ten topics fol
 T-2606 — The yards' sward test indexed: suppressesSward scans every fenced interior's bounding box for every lattice slot (2.3 s of a 7.5 s flora profile at 4x/390x780, the largest single flora cost), so a cell grid like flora's circleGrid answers it with identical answers at every slot
 T-2723 — The gaze target's GPU pick stops stalling the frame: target.js's look reads back asynchronously (or raycasts on the CPU while moving) instead of a synchronous readPixels on the main thread every 500 ms of movement, with the moving p95 read before and after
 T-2774 — The near ring's remaining sets on the GPU, so the near re-deal reaches zero: the heads hung from the GPU's deal and the CPU near walk retired (T-2717 read it unchanged at 2.6-3.4 ms a pass, because it still deals every near slot for the heads), then mid, forbs and far shrubs, each read with measure_walk_frames.mjs's near re-deal line at the throttled phone profile
+T-2787 — filed over the budget
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
