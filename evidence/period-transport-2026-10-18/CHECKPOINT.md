@@ -1,7 +1,8 @@
 # Session recovery checkpoint — 2026-10-18
 
 Code repository: `kevinrhaas/chicago`, branch `steward/period-transport-2793`.
-Latest commit: `6b51f65ca01921cfcdf447566774205671aca43d` (based on `dev`).
+Latest transport commit: `1b3c73d22016596d07b133019df24422c2b54790` (merged dev `7d5daca7d82748acce0fda541c638b260bdd3be4`).
+Previous modeling checkpoint: `6b51f65ca01921cfcdf447566774205671aca43d`.
 First checkpoint: `7c61614c8f197e42da3720f6628d62722f6a560e`.
 
 Start with `chicago/4d/docs/RESEARCH/period-transport-2026-10-18/README.md` in that commit. It records regeneration, inspection, browser checks, source limitations and next work. The transport collection is at `renderers/web/transport/`; it includes articulated wagon and carriage, a genuinely skinned horse with idle/walk, modular breastcollar harness, and a coupled moving hitch fixture. Generators, parameters, GLBs, screenshots, test receipts and compressed hitch observations are committed together.
@@ -12,8 +13,36 @@ No production ticket is closed. T-2792/T-2799 research and T-2793/T-2794/T-2800/
 
 Research reports here distinguish inspected photographs, actually read OCR, and unread catalog/plate leads. Pullman ownership is unproven. Stubbs edition metadata is `1766 [i.e. 1815?]`; plates remain unseen. OCR component dimensions are not page-verified measurements.
 
-Git transport works. GitHub API access returned proxy CONNECT 403, so no PR is claimed; open a PR into `dev` when API access is available. Additional archive/network rules and tested environment installation/start instructions are saved in the environment draft; saved rules do not establish live access. Do not bypass the proxy. Do not merge or publish to production as part of recovery.
+GitHub API access recovered. Draft PR [#1041](https://github.com/kevinrhaas/chicago/pull/1041) targets dev at exact transport head `1b3c73d22016596d07b133019df24422c2b54790`. The owner explicitly authorized merging to dev once all checks are green. Keep it draft until the full desktop/mobile smokes and required checks pass; then ready and merge that exact head. Production promotion is outside this authorization. Do not bypass the proxy.
 
 ## Follow-up recovery
 
 Read [fit-followup.md](fit-followup.md) for the second checkpoint. Its exact full precommit gate passed 971 steps, none red, exit 0; local log `/tmp/transport-followup-check-complete.log`. Horse silhouettes/gait, physical tugs, actual front-turntable rolling and collar fit are refined. Full triangle checks replaced misleading nearest-face signs in the limb test. Corrected and failed receipts are preserved. No photographic, continuous-collision, animal-suitability, braking/holdback or production scene acceptance is claimed.
+
+## Active validation and human work (20:57 UTC)
+
+The exact merged-tree local preflight passed 972 steps, none red. Published fixed
+desktop stage 1 passed 95/0; other interrupted earlier runs retain their failures and
+are not full passes. The existing smoke harness cold device probe now runs before
+the first town render; timing limits and application device behavior are unchanged.
+Full desktop smoke [39164186323](https://github.com/kevinrhaas/chicago/actions/runs/39164186323),
+full mobile [39164260098](https://github.com/kevinrhaas/chicago/actions/runs/39164260098),
+and fast gate [39164182373](https://github.com/kevinrhaas/chicago/actions/runs/39164182373)
+are running on that exact head. Sixteen other PR checks completed without failure;
+no full CI smoke pass is claimed while these remain in progress.
+
+Local code checkout is now on `steward/generic-teamster-humans`, branched from
+transport head1b3c73d. T2672 policy, T1789 body preparation/canonical builder, and
+T2823 documented anonymous-fallback mechanics are under a fresh full preflight.
+No human code checkpoint SHA or PR exists yet. The owner subsequently directed
+existing attested/inferred/reconstructed people first, anonymous only if no choice.
+The first actual references are existing reconstructed 1835 residents
+`rc_bardwell_otis`, `rc_dufresne_joseph`, `rc_flynn_martin`. Do not fabricate new
+resident biographies, backdate 1839 occupations, or claim photographic likeness.
+
+Read code `docs/RESEARCH/resident-teamsters-2026-10-18/README.md` for the canonical
+CI build route, output IDs and remaining acceptance. Blender is forbidden locally;
+CI outputs must be downloaded, independently inspected and then checked/committed.
+No new scene placements, seated driver, actual riding tack, photographic human,
+or production ticket completion has occurred. The official CC0 skin pack is being
+acquired and its actual licenses/images reviewed separately, not yet ingested.

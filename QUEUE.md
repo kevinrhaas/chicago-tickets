@@ -9,7 +9,8 @@
 #   foot of band 9 (owner, 2026-09-27), unless dev's gate is red or the build in hand cannot finish without them.
 # - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
 # - Human figures are drawn once the portable-humans tickets (8C) render them, and Native and Metis people may be depicted
-#   on informed, evidence-bounded judgement (owner, 2026-10-16; T-2672 rewrites AGENTS.md's standing constraint first).
+#   on informed, evidence-bounded judgement (owner, 2026-10-16; T-2672 updates the standing constraint).
+#   Keep review flags and reasons; they do not veto release. The August gathering is excluded from 1 July 1835.
 #   Black residents, families and businesses stay identified. Respect needs_bake and every ticket-level blocker.
 # - Order (owner, 2026-10-16): the performance and GPU group (band 1), 1904 structures already in progress (band 2), the
 #   Navigator interface (band 3), loop follow-ups (band 9), then the balance of Prairie Avenue 1904 (band 7, nearest
