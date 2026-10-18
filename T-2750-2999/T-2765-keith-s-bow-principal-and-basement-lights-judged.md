@@ -1,7 +1,7 @@
 ---
 id: T-2765
 title: Keith's bow principal and basement lights judged on the plate's re-fitted level camera (fixed, or built where they are not), closing inland-1888's open bow-lights item
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2749
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1010
 claimed_by: run 10/18/2026, 6:29:42 AM CT
 blocked_on: null
 needs_bake: false
