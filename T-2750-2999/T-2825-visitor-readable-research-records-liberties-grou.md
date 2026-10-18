@@ -61,3 +61,13 @@ original scope, under which Researcher mode would bring back ticket references a
 - [ ] tools/check_visitor_ui.py covers the compiled data these surfaces render, not just the string table and page. The Researcher-mode exemption no longer admits ticket numbers or record ids, and the allowlist is empty or every entry names a surface still being fixed.
 - [ ] Every rewritten line still names its evidence by a human title; nothing is dropped that a reader needs to judge the claim.
 - [ ] The 390x780 mobile smoke passes, and the changelog entry says what a reader will see.
+
+## Owner's clarification (2026-10-18)
+"If in that mode you want to refer to the tickets as a link or something as an external source or
+link back, ok, but I don't want to talk internal ticket language to researchers." So, in
+Researcher mode only:
+- A ticket may appear as a link, like an external source: a plain-words label ("the work record",
+  "how this was decided") that opens the ticket.
+- The visible text never carries ticket numbers or ticket jargon ("T-1198 seats…", "the ticket that
+  owns it", "tier N", record ids).
+- Outside Researcher mode, no ticket link at all.

@@ -82,3 +82,13 @@ record ids in researcher or educator mode." Researcher mode does NOT bring back 
 or source and record ids. It still holds the order book and the full "Why this default" essays.
 The records themselves are rewritten under T-2825. The two civic-note and Shops & work findings
 above move to T-2825 too.
+
+## Owner's clarification (2026-10-18)
+"If in that mode you want to refer to the tickets as a link or something as an external source or
+link back, ok, but I don't want to talk internal ticket language to researchers." So, in
+Researcher mode only:
+- A ticket may appear as a link, like an external source: a plain-words label ("the work record",
+  "how this was decided") that opens the ticket.
+- The visible text never carries ticket numbers or ticket jargon ("T-1198 seats…", "the ticket that
+  owns it", "tier N", record ids).
+- Outside Researcher mode, no ticket link at all.
