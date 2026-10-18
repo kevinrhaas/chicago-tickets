@@ -34,3 +34,7 @@ When T-2729 was split (2026-10-18T15:10:53.379Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39138026180) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Findings carried from T-2777 (2026-10-18)
+
+The oriel now stands at the drawing's size (4.8 m at the wall, 3.4 m of front, 0.65 m out) over arches at 1.55 and 4.6 m (PR #1025). One new open row in `building_budget_front.match.json` is this piece's: **the drawing places the oriel's front about 0.35 m north of the middle of its wall junctions**. Its cants are drawn 20 px (north) and 51 px (south) across, where a symmetric oriel through the solved camera draws 31 and 28, so the build's front lights stand 16-18 px south of the drawn ones. A level camera north of the oriel's axis cannot widen the south cant past the north one, so the cause is either the pen perspective (rule it as the drawing's and mark the row accordingly) or an oriel whose front stands north of its middle, which would need a K01 change: `_bays` takes only a symmetric canted plan. The cant lights are also 0.35 m, narrower than drawn: a 0.96 m cant holds no wider light with its recess in front of the house wall (`check_bay_kit` recess and pier rules).
