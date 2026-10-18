@@ -1,7 +1,7 @@
 ---
 id: T-2785
 title: The DEV pill and the arrival card's build stamp back on a phone (dev only); the full-width preview banner stays off it
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 11:21:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-18T16:21:34.842Z
 decision: null
 decision_answer: null
 ---
