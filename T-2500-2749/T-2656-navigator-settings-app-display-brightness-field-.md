@@ -1,7 +1,7 @@
 ---
 id: T-2656
 title: Navigator Settings app: Display (brightness, field of view, road visibility, labels, light/dark, text size 100-140 %), the machine skins as preview tiles, Performance with Auto, Sound, Units, and About & What's new
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-903
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 1030
 claimed_by: run 10/18/2026, 8:28:21 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T22:16:29Z
 claimed_run: null
 claimed_at: 2026-10-18T13:28:21.584Z
 decision: null
