@@ -1,22 +1,22 @@
 ---
 id: T-2776
 title: Keith's 1888-plate and 1965 match records given back the T-2769 rulings the T-2765 merge (#1010) dropped
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
-effort: M
+effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 9:21:29 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39130047565
+claimed_at: 2026-10-18T14:21:29.708Z
 decision: null
 decision_answer: null
 ---
