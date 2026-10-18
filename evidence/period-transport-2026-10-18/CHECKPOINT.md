@@ -1,6 +1,6 @@
 # Session recovery checkpoint — 2026-10-18
 
-**Current human checkpoint: `0577792dc5b4107fcf4aeab0014d0b9fb3f44ab6`, pushed on `steward/generic-teamster-humans`, PR1046. Full preflight PASS:975steps/0failed; postcommit changelog PASS. Canonical resident workflow39173614006 is running at that exact SHA. Transport PR1041 remains draft/not green; next bring latest dev into transport and run replacement full split coverage. No local Blender. Never export CHICAGO_TICKETS_DIR into gates.**
+**Current human checkpoint: `0577792dc5b4107fcf4aeab0014d0b9fb3f44ab6`, pushed on `steward/generic-teamster-humans`, PR1046. Full preflight PASS:975steps/0failed; postcommit changelog PASS. Canonical resident workflow39173614006 PASSED at that exact SHA (all3masters/24GLBs/24desktop-mobile inspections); artifactvisualreview remains blocked. Transport PR1041 remains draft/not green; next bring latest dev into transport and run replacement full split coverage. No local Blender. Never export CHICAGO_TICKETS_DIR into gates.**
 
 Code repository: `kevinrhaas/chicago`, branch `steward/period-transport-2793`.
 Latest transport commit: `1b3c73d22016596d07b133019df24422c2b54790` (merged dev `7d5daca7d82748acce0fda541c638b260bdd3be4`).
@@ -108,3 +108,9 @@ Local checkout is back on steward/period-transport-2793, merging current dev a99
 Human canonical workflow39173614006 at0577792dc passed existingfixture/browseractor, all3 canonicalmasterbuilds/source+webcontracts and independentKhronos container step; measure/inspection still running at last read. No artifact downloaded or photographic acceptance.
 
 Grounded-gait integration proposal is saved under human-next-drafts/resident-grounded-gait-integration.tar.gz, frozen against0577792dc. Six tests pass; actual37key30fps SLERP+LINEAR source sampling over1001phases has~0.336mm plantedsole drift and~0.222mm maximum source penetration. It remains outsideapp and unverified in Blender/export/browser. Do not substitute dense-solver nearzero values for sampled interpolation metrics.
+
+## Canonical resident CI passed
+
+Workflow39173614006 at0577792dc5b4107fcf4aeab0014d0b9fb3f44ab6 completedSUCCESS. Existingfixture/actor passed; actualPython3.11 preparations reproduced; all3canonicalmasters and24source/webGLBs built and passed unchangedhumancontract; independentKhronos reported0errors/7warnings each;24desktop/mobile inspection runs mechanical_passed=true, photographic_gate=open. All12frame receipts parsed from log (use JSONDecoder.raw_decode because some log lines have trailing output), binary-preservation flags true. Full log/summary/hash receipts saved here. These are current mechanical checks; stronger texture/temporal/surface-comparison proposals remain unapplied.
+
+Artifact12153626816 is148681132bytes. One ordinary download failed at productionresultssa17.blob.core.windows.net (newhost, exactHTTP403notobserved on that attempt). Saved configuration draft nowincludes exacthost17, preserving host13 and allothercustomdomains/startupguidance; revision15, requiresReview/Save/Publish, notapplied. No bypass/retry. Do not claim visual/photographic acceptance or classify the7warnings without actualreports.
