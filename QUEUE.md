@@ -38,7 +38,6 @@ T-2772 — Keith's front joints, upper colonnette capitals and head bands read a
 T-2773 — Keith's lower courses built to the 1888 plate's reading: from the principal sill to grade four even courses (about 0.45 m) on the front and the bow where the model alternates, and the alternating rhythm above split about 0.44 / 0.23 m at the pair's unchanged 0.68 m pitch; the head band's projection weighed against the plate's deeper shadow under it; rebaked, and the four front views' joints items closed
 T-2751 — Keith's image gate closed: every reference view of keith_house_1808_prairie reads matches with nothing open, and T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off
 T-2758 — Glessner's stable roof heights weighed against HABS photograph 1 and the Cornell view: whether the ~2 ft by which photograph 1 reads the whole stable roof low is camera or roof, the Cornell camera re-solved at the roof, and the cupola's centre parallax (about 4 ft north of S14.6) put to the owner if it holds
-T-2759 — Glessner's bow terrace terminal and its coping join brought to HABS sheet 4 and photograph 5, and the terrace section's match record reviewed
 T-2760 — Glessner's west-court access levels: the west-wing courtyard door's 1.77 m sill and the descending areaway on HABS sheet 2 reconciled with the sections and the dated alterations, and the courtyard views reviewed
 T-2761 — Glessner's photographic sign-off: the remaining opening, ornament, material and lighting differences in every canonical view resolved or accepted with a reason, a discrepancy register, and every match record brought to matches
 T-2729 — 1623's oriel at the drawing's size: K01 lays openings under a street-front oriel and lets its upper stage, carved frieze and conical roof rise past the main cornice, the oriel about 4.8 m at the wall and 0.9 m out with four front lights and lit cants, and the window and entrance arches at the drawing's places; K01 rebaked, and 1623's match record brought to matches
@@ -61,7 +60,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
-T-2629 — Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
 T-2641 — Navigator Inspect Design tab: the style card, numbered 'On this house' hotspots with grades replacing the attribute table, Compare styles, and the Richardsonian Romanesque module for Glessner House
 T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
 T-2643 — Navigator Inspect Story tab: BUILT, YOU ARE HERE and TODAY on a timeline from design to today, filtered by the scene's era

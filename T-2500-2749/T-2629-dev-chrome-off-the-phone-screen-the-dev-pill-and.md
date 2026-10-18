@@ -1,7 +1,7 @@
 ---
 id: T-2629
 title: Dev chrome off the phone screen: the DEV pill and build stamp move to Settings › About on phones
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: NAV-305
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 1006
 claimed_by: run 10/18/2026, 4:14:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T13:22:06Z
 claimed_run: null
 claimed_at: 2026-10-18T09:14:35.526Z
 decision: null
