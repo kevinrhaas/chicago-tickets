@@ -1,7 +1,7 @@
 ---
 id: T-2628
 title: HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and respects safe areas, measured by the smoke
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-304
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 971
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T12:36:08Z
 claimed_run: null
 claimed_at: null
 decision: null
