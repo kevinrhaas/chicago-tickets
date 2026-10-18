@@ -1,7 +1,7 @@
 ---
 id: T-2773
 title: Keith's lower courses built to the 1888 plate's reading: from the principal sill to grade four even courses (about 0.45 m) on the front and the bow where the model alternates, and the alternating rhythm above split about 0.44 / 0.23 m at the pair's unchanged 0.68 m pitch; the head band's projection weighed against the plate's deeper shadow under it; rebaked, and the four front views' joints items closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2770
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1023
 claimed_by: run 10/18/2026, 9:46:16 AM CT
 blocked_on: null
 needs_bake: false
