@@ -1,7 +1,7 @@
 ---
 id: T-2757
 title: Glessner's stable cupola body clear of the ridge as HABS photograph 1 and the Cornell c. 1887 view show it: the dovecote band in open air, the pyramid's height read through photograph 1's camera against the gable apex and ridge, rebaked, and the two northwest match records' cupola differences reviewed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2228
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1002
 claimed_by: run 10/18/2026, 4:32:56 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-18T11:47:19Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39112871207
 claimed_at: 2026-10-18T09:32:56.665Z
 decision: null
