@@ -1,7 +1,7 @@
 ---
 id: T-2818
 title: 1623's basement light: the broad segmental light about 1.8 m across under its voussoirs, behind an iron grille with its band of scrolls over close uprights; K01 rebaked and the match record's basement row closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2779
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1040
 claimed_by: run 10/18/2026, 2:51:30 PM CT
 blocked_on: null
 needs_bake: false
