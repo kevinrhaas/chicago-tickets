@@ -35,3 +35,12 @@ When T-2847 was split (2026-10-19T13:02:12.160Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39250098546) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2866 (2026-10-19, PR #1092): four more items on the match record
+
+Recorded `open` on `inland_architect_front.match.json` against this ticket, which owns bringing it to matches:
+
+- **The rear section's door's leaf.** With its transom read (bar at y 745-746 px, built `transom_m` 0.65), the leaf stands about 1.45 m over the walk's grade on the re-solved camera (1.3-1.6 m across the eye's softness). No door at grade is that short, so its foot is about 0.5-0.7 m under the walk, behind the fence. That reopens T-2846's ruling of a door at grade: an areaway's door, or steps down.
+- **The main south wall's three low openings,** none built: a small round-headed light near grade at about s 5.7 (x 484-490, about 0.25-0.9 m); a tall narrow round-headed opening under the oriel at about s 8.5 (x 504-511, about 0.2-2.0 m, a door or a light); a narrow one at about s 11.1 (x 521-526, about 0.8-1.9 m).
+- **The side lights' heads:** the build dresses the ground floor's light and the stair light with K03's gauged fan head (about 0.3 m), where the print shows plain heads.
+- **The rear section's dormer's head:** the print's stands under a flat hood with a projecting cornice, as the main roof's new south dormer does. The build's is T-2820's gabled pediment, its apex about 15 px over the hood's line.
