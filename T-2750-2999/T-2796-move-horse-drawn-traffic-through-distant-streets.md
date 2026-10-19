@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: parallel distant transport 10/18/2026, 10:06:54 PM CT
+claimed_by: continuing paired street traffic agent 10/19/2026, 9:33:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T03:06:54.728Z
+claimed_at: 2026-10-19T14:33:31.487Z
 decision: null
 decision_answer: null
 ---
