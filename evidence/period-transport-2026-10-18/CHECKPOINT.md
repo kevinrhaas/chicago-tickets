@@ -1,5 +1,17 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 11:12 UTC.**
+
+MERGE CANDIDATE remains clean/pushed/frozen668e48180cfa20fe48b594041fcc0c0e2499ee72. Full1,015-step preflight, postcommit checks and fresh installed6sample drawtrace/restoration PASS. Browser/server CLOSED. PR1041 DRAFT/unmerged; user authorizes dev merge ONLY when complete final-head qualificationgreen. No app changes or production ticket closures.
+
+All19 final workflows already dispatched ONCE; ONE metadata observer46559 remainsactive at/workspace/shared/final-668e-metadata. Latest actualsnapshot2026-10-19T11:12:36.687965+00:00: states{'in_progress': 13, 'completed': 6}, conclusions{'pending': 13, 'success': 6}. MaingateSUCCESS; moving walk/turn/fly/ride stepSUCCESS, phoneGPU checkpending. No redispatch/duplicateobserver. Detailedstage/assertionunion remainsUNPROVEN untilactualnetworkpolicychange. Runtime11:05 read confirmed observed/spec1/customhosts[], draftREV16unapplied. No oldlogwatchers, deniedfetch retries/relays or localBlender.
+
+NEXT HORSE ONLY: rootreleased bounded source→audit→export trial and ONE exactrepeat, eachphaseexit0. Candidate26027c225b0c2f3c6ed72543cb2e80238196a86815b7bb910744cbc65cb23ed3: whole11,452triangles/6draws/15joints; actualhead+ears2,960triangles. Both GLB/manifest/exportproof/authority andsource sidecars byteEXACT across2builds. Firstarchive8f3ecf2a... and repeatarchive4d339270... arecommittedcentral final-668e-qualification. These areUNACCEPTED outside assets, appunchanged.
+
+Independent actualKhronosPASS0errors/0warnings/50infos. Decoded index/bounds/unitnormal/jointpalette/weight-sums/fulloldPOS-JOINT-WEIGHTprefix/binaryprefix/docchecksPASS. FIRSTindependentprotected48mappingFAILEDambiguous at check.pyline40; this isUNRESOLVED mapping, NOT established modeldefect or acceptance. Originalchecker/receipt preserved central next-ear-first-independent-validation. Rootreleased ONLYread-only<=30smappingdiagnosis in NEW/workspace/shared/horse-ear-protected48-mapping-diagnosis: inspectactualparentchain/IBMs vslocalheadtranslation andfrozenproducersemanticheadrange/fullcoatduplicates; NO priorcheckeredit/rerun/SAT. Awaitactualdiagnosisbeforechoosingcorrection.
+
+Proposed idle0 SAT+head-vs-allbody/unchanged078 firstgear plan saved butNOTexecuted/released. No posed/collision/gear/render/photo acceptance or newbrowser. Existingbaseline832earcontacts/258gearpropercrossings andallunexecutedremainingposesremainred/unproven. CurrentprimarytaskisfinalCI/conditionaldevmerge; nextonly horseworkmustneverchange668e.
+
 **CURRENT HANDOFF — 2026-10-19 11:05 UTC.**
 
 Final code668e48180cfa20fe48b594041fcc0c0e2499ee72 unchanged/clean/pushed/frozen. Full1,015-step preflight+postcommit+fresh6drawsample browser+normalrestoration PASS, browser/serverCLOSED; see11:00details below. PR1041 DRAFT/unmerged; dev merge authorized ONLY when actual final qualification green, no production ticket closures.
