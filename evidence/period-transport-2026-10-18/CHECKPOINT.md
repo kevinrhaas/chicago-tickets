@@ -170,3 +170,16 @@ The mobile continuation completed exit0 with9rows. Combined validator confirms36
 Root applied the authored-only zero-origin exporter option, strict declared-time metadata audit/pre-browser wiring and diagnostics on the human branch. Focused16frame/wiring+10audit+12sole tests pass. Fullpreflight is RUNNING, code uncommitted until green. Actual new resident exports remain required. No Blender locally.
 
 Concrete W01 removable bench/footboard geometry and existing-resident bindings are now saved outside app: resident-wagon-driver-draft-reviewed.tar.gz. Baseline output remains byte-identical; generatedstudy9240triangles/23meshes includes reconstructed cleats/fasteners/footboard/supports and3sockets. Actualexportcorners/supportcontacts and sampledwheelclearances were checked. Pose/cloth triangle contacts, construction/historical and visual acceptance remain open. Root has not integrated this proposal.
+
+
+## Follow-up source/call evidence corrections and seated proposal
+
+Pricing receipt corrected: only trees.js/tree-model.js are byte-verified equal e5; main.js differs by human role-card import/listener with no actors. There is no all-rendering-module attestation. General330draw-callcap remains, AND light's stricter90-callfloor remains: worst89leaves1callheadroom. All caps remain strict. Corrected complete36receipt/patch is in transport-balanced-budget-analysis-latest.tar.gz.
+
+Actual379CIlog contains24issue_code_counts JSONrecords (an earlier note missed them). Alltruncatedfalse, all168warnings NODE_SKINNED_MESH_NON_ROOT,7perGLB. Infos472total include388UNUSED_OBJECT/72NODE_EMPTY/12UNSUPPORTED_EXTENSION. Only logcodecounts were read, noartifactpointer/fullmessageinspection and noharmlessnessclaim. Saved ci379-structured-issues.json and ci379-parsed-summary.json.
+
+Outside W01 proposal now includes explicit opt-in sit_drive canonical-builder patch. It converts source-global pose through actual Blenderrestbases and pins existingresident/body/pose/physicalbench hashes. Three purePython regressions compare actualsource FK/LBS through3independentrestrollframes x3residents, worst6.73e-15m. This is source math/wiring, not actualBPyexecution, cloth/grip/renderacceptance. No appintegration yet. Allidle/walk remains unchanged withoutoptin.
+
+1904wardrobereport retains actually viewed1902civilianportrait limitedneck/lapelcontext; no clearedexactsummerfullgarment/seatedbuggyplate was acquired. Glessnerexistingexecutiveidentity remains; no genericcoachman/1835uniformsubstitution.
+
+Twelve ignored publishedhumanfiles were byte-verified against379committedsources and archived ahead of eventualbranchswitch; none deleted duringrunningpreflight. Branchswitchcleanup must targetonlythat exactignoredsubtree afterverification.

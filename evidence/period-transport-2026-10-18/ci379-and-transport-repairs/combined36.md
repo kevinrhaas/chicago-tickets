@@ -10,7 +10,7 @@ Validated **36 unique finite rows**, exactly2 viewports ×3 tiers ×6 stands.
 |balanced|2,607,952|desktop 1280x800 / prairie_west|314|desktop 1280x800 / lake_and_market|2,535,000|2,625,000|17,048|
 |light|1,154,091|desktop 1280x800 / prairie_west|89|desktop 1280x800 / lake_and_market|1,190,000|1,190,000|35,909|
 
-Arithmetic candidates preserve18,059 full /16,806 balanced headroom before rounding up to5,000. Light remains1,190,000; calls remain330. No constants are changed.
+Arithmetic candidates preserve18,059 full /16,806 balanced headroom before rounding up to5,000. Light remains 1,190,000. General calls cap remains 330; the separate light-tier 90-call floor also remains unchanged (measured worst 89, only 1 call of headroom). Full/balanced retain 330. No constants are changed.
 
 |Viewport|Tier|Stand|Triangles|Calls|Split|
 |---|---|---|---:|---:|---|
@@ -51,6 +51,6 @@ Arithmetic candidates preserve18,059 full /16,806 balanced headroom before round
 |mobile 390x780|light|prairie_west|977,672|74|mobile_continuation|
 |mobile 390x780|light|sauganash_26|422,840|63|mobile_continuation|
 
-Root reports379 rendering modules match frozen e5; aggregator validates numeric coverage only and does not independently attest module hashes.
+Source receipt verifies trees.js and tree-model.js match frozen e5; main.js differs only by the human role-card import/listener, with no human actors placed. No attestation that all rendering modules match. Aggregator validates numeric coverage only, not source hashes.
 
 Arithmetic candidate only; no app/budget change. Full/balanced preserve original absolute margins; light remains1190000. Actual scene/period/photographic acceptance is separate.
