@@ -1,7 +1,7 @@
 ---
 id: T-2867
 title: 1625's oriel's west cheek lit (a light about 0.3 m across, a K08 narrow light kind) and its apron a flat face to a moulded foot at about 2.3 m, and 1625's match record brought to matches (the group's image gate)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2847
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 3:24:12 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39318240965
+claimed_at: 2026-10-19T20:24:12.194Z
 decision: null
 decision_answer: null
 ---
