@@ -1,7 +1,7 @@
 ---
 id: T-2846
 title: 1625's McBirney camera re-solved on the south wall's level lines (the eave and the top-floor heads), the rear section's step ruled 1.8 m wide on it, its door ruled a door at grade (head about 2.0 m, not an areaway), and the oriel on the main south wall built from the photograph
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2838
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1081
 claimed_by: run 10/19/2026, 4:17:58 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T11:02:45Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39227105060
 claimed_at: 2026-10-19T09:17:58.774Z
 decision: null
