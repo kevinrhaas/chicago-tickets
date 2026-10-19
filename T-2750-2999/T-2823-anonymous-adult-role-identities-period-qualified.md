@@ -1,7 +1,7 @@
 ---
 id: T-2823
 title: Anonymous adult fallback role identities: period-qualified profiles and actor selection without invented residents
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: 1041
 claimed_by: resident-fallback 10/18/2026, 4:38:54 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T22:05:13Z
 claimed_run: null
 claimed_at: 2026-10-18T21:38:54.211Z
 decision: null

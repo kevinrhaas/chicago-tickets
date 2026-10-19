@@ -1,7 +1,7 @@
 ---
 id: T-2883
 title: 1625's oriel's west cheek lit (a light about 0.3 m across, a K08 narrow light kind) and its apron a flat face to a moulded foot at about 2.3 m in place of the kit's corbel courses; rebaked and the oriel's cheek-and-apron item on inland_architect_front closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2867
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1105
 claimed_by: run 10/19/2026, 3:26:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T22:06:17Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39318240965
 claimed_at: 2026-10-19T20:26:01.314Z
 decision: null

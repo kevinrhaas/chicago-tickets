@@ -1,7 +1,7 @@
 ---
 id: T-2672
 title: AGENTS.md's standing constraint rewritten to the owner's 2026-10-16 rulings: human figures drawn once the portable-humans pipeline renders them, and Native and Metis people depicted on informed, evidence-bounded judgement
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: XS
 legacy_id: null
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-19
 pr: 1041
 claimed_by: generic-human-policy 10/18/2026, 3:41:27 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T22:05:13Z
 claimed_run: null
 claimed_at: 2026-10-18T20:41:27.871Z
 decision: null
