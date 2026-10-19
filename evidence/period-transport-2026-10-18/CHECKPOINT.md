@@ -1,6 +1,23 @@
 # Session recovery checkpoint — 2026-10-18
 
 
+**CURRENT HANDOFF — 2026-10-19 14:55 UTC.**
+
+APP09a3ad1d4 clean/pushed/FROZEN, PR1041 draft/unmerged. Env soleobserver74152 healthy; latest4selectedSUCCESS6running9queued,0failures. Normalgate/movingframes/automatichumans/reportSUCCESS; canonical namedseated pending. Finalv6 SHA7fb02a unchanged/approved, NOTexecuted untilall19success+mandatoryjobs. Freshoutputfinal-09a3-normal-dev-gates-v6 then ordinaryexact09a conditionalDEV squashmerge alreadydelegated. No duplicatepolling/redispatch/appedit.
+
+COMBINED HORSE criticaltrial NOWACTIVE horse_research: source /workspace/shared/horse-combined-oral-neck-mane-next; oral21cadaa+neck/mane1eee+gearfe76. Readonlygraft261old→471new oral-only,13016→13226tri; head3122/neck1492/mane456 remappedsourceledger. Independentexecutable review PASS afterfixedexistingreceipt-overwritebug; portablepreexistingreceiptnegativePASS.16local76externalpins exact. ONE150s candidate→decodedbinding→actualbinary64idle fullstructural+ALL36gear+bitvirtualvolume; firstfailurestop. No combinedgeometry/fitacceptance yet. Oral21cadaa separateRESTPASS fca079 archived, bitmin6.16167mm unsignedsidegap/noactualbitendcaps; earlier3crossings/FKfailurespreserved.
+
+HORSE QUALITY: rootviewed1eee images: betterthroat/crest butcoarsehead/neck/body/ear/eye/rigidmane, farbelowphoto. Newboundary-aware normalONLY03884cb89314e8549fd48394290aa8f6fce1eb3f898b48b491b2b6fb6f77a4d9 hasactualP/indices/JW/rig/otherattrs exact,464ear/crossmaterialN protected. Actual12A/BPASS/0errors, rootviewedfrontquarterbefore/after visiblejawshadingimprovement; silhouetteunchanged. No redundantSAT. Archives1180/4531 saved. Horse_model nowreference-matchedside/landmark/anatomysculptproposal usingactualclearedCuyer/Muybridge withlaterdateanalogyhonesty; hold63poseexpansionuntilcombinedmodel. BrowserCLOSED.
+
+WAGON: combinedhardware+fineoriginalmaterial0138ad2565f3e8b08029ef788c5196c65c80c79643313e944c726b993ff31ee4,12104tri/23draw/6MiB estimatedmaps, actual12A/BPASS, rootviewedhardwaremacro+combinedwhole. Source /workspace/shared/w01-combined-refinement-next. DefaultW01/f415/namedfixture preserved. Carriage_model preparingselfcontained REVIEWABLEAPPINTEGRATIONpatch/newgalleryvariant OUTSIDEONLY forrootaftercurrentmerge; no/sharedruntimepaths, licenses/liberties/params/sourceproof. Allphotohistoricalfinish/loadacceptance open.
+
+TRAFFIC79b82 correctedactualPASS limitedpairedstudy; rootviewedmobile+desktoproute.39136tri/+1draw, actualDOM+framing/GPUcanary/restore allPASS; no fittedharness/driver/traces/finishedpulling, Lightrefused/FullBalancedrebudgetproposalONLY, no mainadmission. Earlier518dmobileFAILpreserved.
+
+C02: candidate43a31988adb01d8c695b12d127f21471b4d57794dd8e4e2425fda6b0f2101aa4 crowneddrivercushion+welt actualtopology/readback/Khronos0/0,12228tri(+716),31meshes62nodes, others/doors/sockets exact. Ware1875p326clearedtextfamilyanalogy notspecificC02design. Archive19b9 saved. Viewer currentlyindependentactual/fixture review thenONE<=120s desk/mobileclosed/open/detailA/B authorized; browserlaneFREE afterhorse normals. Missingplanarimportinitialfailurepreserved.
+
+PERSISTENCE: actual-progress-1455 contains8verifiedarchives+source/actualreviews/manifest androotvisualnotes. CentralT2796/T2801 updated, need sync. RenewedT2794 normalclaimpushed also; T2800/T2801/T2796/T2804 refreshed earlier. Rootsoleapp/centralwriter, allproductivequalityworkoutside frozenapp. No photographedmaster/rider/driver/riding ticketclosure.
+
+
 **CURRENT HANDOFF — 2026-10-19 14:38 UTC.**
 
 Application remains clean/pushed/FROZEN at09a3ad1d4, tree5e0bfad5. PR1041 draft/unmerged. Normal gate/moving-frames/automatic humans/report are SUCCESS; selected19 qualification set latest1success6running12queued, no failures. Canonical named seated still pending. Environment-validation owns sole observer74152 and approved v6 SHA7fb02a; all19 actualsuccess + mandatoryjobs/source/freshdev/PR checks before ONE final v6 audit in fresh final-09a3-normal-dev-gates-v6. Then ordinary exact09a conditional squash merge toDEV is already delegated/authorized. No duplicate polling/redispatch/appedit. Original v5 preserved; exact optional auxiliarybake skips source-audited in saved v6 evidence. No logs/artifacts accessed; photographic tickets remain open.

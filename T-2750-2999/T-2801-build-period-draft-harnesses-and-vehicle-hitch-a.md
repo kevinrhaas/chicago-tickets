@@ -102,3 +102,10 @@ f89 preserves32otherparts; actual all36 idle globally FAILED152proper(bit44,bree
 ### Progress 2026-10-19 14:11 UTC
 
 fe76 actualbinary64idle globalFAIL44proper ONLYbitbar; all35nonbitparts0atidle0. Fullsource/rest/projection/witness/archivebf97 saved. No63pose/positiveclearance/visualacceptance; closedmouthbit interface remainsrealblocker.
+
+
+## Mouth and combined fit progress — 2026-10-19 14:55 UTC
+
+Oral candidate `21cadaa8…` passes decoded source binding and strict rest head self/bit checks: zero bit-side/head intersections,6.16167mm minimum full-side unsigned distance. Virtual caps are analysis only; actual bit mesh remains open-ended. Earlier FK-checker and three-corner-crossing failures are preserved; a reviewed two-face diagonal correction solved the latter without coordinate/tolerance changes.
+
+A combined oral+repaired neck/mane+fe76gear candidate is now in its single bounded actual idle trial after executable source review. No combined fit, other pose, photographic or production acceptance yet. Exact rest-pass and reviewed source evidence are saved in actual-progress-1455.

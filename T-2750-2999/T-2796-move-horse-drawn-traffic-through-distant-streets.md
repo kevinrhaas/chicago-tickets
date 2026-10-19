@@ -61,3 +61,10 @@ These measurements contain no new town humans or moving traffic. Full/balanced r
 ## Parallel checkpoint — 2026-10-19
 
 Outside-app deterministic distant-transport prototype prepared with route/LOD/admission tests. Actual asset draw cost exceeds current Light headroom; no main-scene placement/production acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
+
+
+## Paired street study result — 2026-10-19 14:55 UTC
+
+Corrected responsive source passed actual desktop/mobile study checks: both horses and wagon visible, actual canvas/aspect/disclaimer and projected framing checked. Each enabled batch adds one draw and39,136triangles; all12off/on/restored counter rows pass. Actual GPU transform-feedback comparison against independent source checks all46,880vertices at six times, maximum world-component difference0.0000568m. Local finished-frame timings are study measurements, not phone/main-scene capacity proof. Root inspected actual mobile and route images.
+
+The earlier mobile crop failure remains preserved. Archive `79b82d0c…` is saved in actual-progress-1455. No fitted harness, yoke, traces or driver; Full/Balanced rebudget is a proposal only, Light refuses, and no main-scene admission or photographic completion is claimed.
