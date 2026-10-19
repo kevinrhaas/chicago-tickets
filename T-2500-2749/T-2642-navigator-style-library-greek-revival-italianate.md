@@ -1,7 +1,7 @@
 ---
 id: T-2642
 title: Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-506b
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1065
 claimed_by: run 10/18/2026, 7:28:42 PM CT
 blocked_on: null
 needs_bake: false
