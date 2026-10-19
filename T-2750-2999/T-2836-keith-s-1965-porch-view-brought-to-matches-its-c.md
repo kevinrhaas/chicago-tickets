@@ -1,7 +1,7 @@
 ---
 id: T-2836
 title: Keith's 1965 porch view brought to matches: its camera re-solved with the principal heads at the blinded middle light's head (4.70 m), the loggia's place in plan ruled (the slide reads it about 0.7-0.8 m south, the 1888 plate's south pair about 30 px right, the pedestals 0.9 m against the plan's 0.6), re-rendered, and the joints-and-carving item read at the slide's grain
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2831
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 4:00:45 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39226099716
+claimed_at: 2026-10-19T09:00:45.117Z
 decision: null
 decision_answer: null
 ---
