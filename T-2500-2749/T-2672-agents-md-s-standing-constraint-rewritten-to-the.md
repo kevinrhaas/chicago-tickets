@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-16
 closed: null
-pr: 1046
+pr: 1041
 claimed_by: generic-human-policy 10/18/2026, 3:41:27 PM CT
 blocked_on: null
 needs_bake: false
@@ -60,3 +60,6 @@ Do this before any figure lands in a scene: T-1789 onward read AGENTS.md.
 - [ ] AGENTS.md's standing constraint states both 2026-10-16 rulings verbatim and the rules above; no line elsewhere in AGENTS.md still says no human figure is ever drawn.
 - [ ] check.sh passes (the review-constraint measure included); no tool or gate refuses `released` because a record carries `review_required`, and a test shows a flagged record no longer blocks it.
 - [ ] The chicago-tickets `QUEUE.md` header's standing-rule line matches (pushed with `ticket.mjs sync`).
+
+
+Combined source checkpoint: work now lives in PR1041 at9cc7b9ac8 (full local998/0 and postcommit checksPASS). PR1046 is a preserved authoring source checkpoint; canonical resident qualification remains pending, and this retarget does not close production acceptance.

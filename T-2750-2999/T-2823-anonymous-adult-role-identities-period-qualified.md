@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-18
 closed: null
-pr: 1046
+pr: 1041
 claimed_by: resident-fallback 10/18/2026, 4:38:54 PM CT
 blocked_on: null
 needs_bake: false
@@ -47,3 +47,6 @@ Prefer existing attested, inferred or reconstructed people as reference/model; g
 ## Work started
 
 Contract/runtime/profile validation and refusal tests implemented; production asset acceptance and scene placement remain outside this ticket. No photographic quality, wardrobe acceptance or completed population budget is claimed.
+
+
+Combined source checkpoint: work now lives in PR1041 at9cc7b9ac8 (full local998/0 and postcommit checksPASS). PR1046 is a preserved authoring source checkpoint; canonical resident qualification remains pending, and this retarget does not close production acceptance.
