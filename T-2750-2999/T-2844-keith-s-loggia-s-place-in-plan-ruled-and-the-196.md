@@ -1,7 +1,7 @@
 ---
 id: T-2844
 title: Keith's loggia's place in plan ruled and the 1965 porch view re-solved: the first-floor plan's front pedestals (about 0.6 m, at v 6.73-7.34 and 9.58-10.23) read against the 1888 plate and the 1965 slide, the slide's camera fitted with its principal heads at the middle light's 4.70 m on that place and re-rendered, and the joints-and-carving item read at the slide's grain
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2836
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 4:13:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39226099716
+claimed_at: 2026-10-19T09:13:30.268Z
 decision: null
 decision_answer: null
 ---
