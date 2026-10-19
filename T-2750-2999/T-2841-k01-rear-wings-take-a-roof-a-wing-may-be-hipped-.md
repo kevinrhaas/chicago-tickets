@@ -1,7 +1,7 @@
 ---
 id: T-2841
 title: K01 rear wings take a roof: a wing may be hipped or gabled (its gable to a named side) over its wall top instead of decked flat, its covering K04's slate, its eave and the host wall's junction closed — the kit 1801 Prairie's gabled section (r3, a 3-storey wall top at about 13.9 m standing over the main block's 8.1 m cornice) and its east range (r2) need before the move
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2789
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1103
 claimed_by: run 10/19/2026, 3:52:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T23:02:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39321008191
 claimed_at: 2026-10-19T20:52:15.519Z
 decision: null
