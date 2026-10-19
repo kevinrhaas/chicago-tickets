@@ -73,3 +73,8 @@ Saved implementation checkpoint512f4a7e3 is pushed, including reviewed C02 and d
 Supported W01 bench and named-driver authoring are committed and pushed at `09a3ad1d4`; full local preflight passed 1,016 steps and the published bench passed desktop/mobile views. PR1041 remains draft while its 19 selected qualification runs complete. No photographic ticket closure.
 
 Outside-app timber A/B candidate `9af2109f…` passed common-camera framing and geometry checks; root inspected actual desktop bench comparisons. Grain improves the flat baseline but remains broad/soft, and the full wagon still needs coherent wood, paint and iron detail. Eight actual captures are saved in `evidence/period-transport-2026-10-18/next-visible-parcels-2026-10-19/material-review-1420/`; the browser helper lacked a console listener, so console-error absence is unproven. Existing procedural maps have cleared project provenance; they are not photographic scans. A whole-wagon finish candidate is being developed outside the frozen release.
+
+
+## Whole-wagon finish result — 2026-10-19 14:38 UTC
+
+Outside-app filtered candidate `464e430d…` passed12actual desktop/mobile matched A/B captures, keeping23draw batches and an estimated6MiB decoded mapped texture memory with mipmaps. Root inspected the actual bench image: finer irregular grain improves the flat baseline, while photographic timber, cut ends/hubs and optical calibration remain open. Earlier48MiB and regular-comb candidates are preserved as unaccepted. An original bounded fastener refinement is now under development, with no changes to current release09a.

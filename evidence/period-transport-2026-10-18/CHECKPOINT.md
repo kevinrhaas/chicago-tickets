@@ -1,6 +1,21 @@
 # Session recovery checkpoint — 2026-10-18
 
 
+**CURRENT HANDOFF — 2026-10-19 14:38 UTC.**
+
+Application remains clean/pushed/FROZEN at09a3ad1d4, tree5e0bfad5. PR1041 draft/unmerged. Normal gate/moving-frames/automatic humans/report are SUCCESS; selected19 qualification set latest1success6running12queued, no failures. Canonical named seated still pending. Environment-validation owns sole observer74152 and approved v6 SHA7fb02a; all19 actualsuccess + mandatoryjobs/source/freshdev/PR checks before ONE final v6 audit in fresh final-09a3-normal-dev-gates-v6. Then ordinary exact09a conditional squash merge toDEV is already delegated/authorized. No duplicate polling/redispatch/appedit. Original v5 preserved; exact optional auxiliarybake skips source-audited in saved v6 evidence. No logs/artifacts accessed; photographic tickets remain open.
+
+HORSE breakthrough: fitted-mane+hybrid candidate1eee14e7d80ef8dcbe7e9d2ab3250cc7ea711a74f4cda730dd4b2af954cfcd89, packet5f716ee2583aad96c2e0c8c1107e91f9d4d511f717683b8274eab04d1c1dd23a. Local pipeline4.466s/Khronos0/0, independentactualREST/ownership PASS. ONE full idle34.878s PASS all6 COMPLETE scopes (head2912 internal/vsALL, neck1492 internal/vsALL, newmane456 self/vsALL), zero strictproper/unexpected; allbaseline negatives retained. Old192204 failure+full diagnostic49raw/47proper MANE ONLY preserved. New short25mm roachedmass/1mm rootstand-off reconstructed, notphoto/groom acceptance. All18rootsegments actualcoat edges with2owners. Candidate outsideapp, no otherpose/gearacceptance. Browser lane now handed from viewer's completedtraffic to horse_model for alreadyauthorized <=120s matched260parent/1eee desktop/mobile profile/frontquarter/whole; rootmust inspectactualimages before63pose expansion/install.
+
+ORAL separate: c933 actual decodedbinding PASS after quaternion-FK guardfix, then strictREST FAILED3proper connectorcorner triangles. Exact2-face alternate diagonal source correction reviewed; ONE new generation/rest+bit trial activehorse_research in horse-oral-channel-diagonal-candidate. No coordinate/tolerance/width changes, earlierfailures preserved. No gearfit/pose/photo acceptance yet.
+
+MATERIALS: filtered464e actual12captures PASS/23draws/6MiBestimate, root reviewed bench modest finegrain improvement, stillnotphoto. Archive0ec97 saved. Prior1d739 regularcomb/mipalias risks and1463 48MiB/37draw cost preserved unaccepted. Whole464e asset/producers ready OUTSIDE for later integration, not09a. Hardware author implementing opt-in exact20part reconstruction +1072tri predicted12104,23batches, withinoldAABBs; defaultf415 exact. Later1904 textanalogy isnot1835boltattestation or permissiontoderivefromunclearedimages.
+
+TRAFFIC: paired actualGPU/mechanics passed but firstMOBILEVISUALFAILED due stale1280px inlinecanvas. Failurearchive518d saved. Corrected219fd responsive source independentlyreviewed; viewer's ONE repeat justCLOSED0/cost+DOM/projectedguardsPASS, actualmobilePNG inspection pendingfinalreport. Source/shader/route/geometryunchanged; 39136tri/+1draw, correctpaircentralpole, no harness/driver/traces/finishedpulling. Light refuses. Full/Balanced consciousrebudgetproposal only, no capedit/mainadmission. Horsevisual lane now free.
+
+PERSISTENCE: actual-progress-1438 holds9verified newarchives plus source/actualreviews inclba9d idlePASS,0ec97 material,518d trafficFAIL,de84 oralinitialfailure. Root solecentralwriter; renewed expiredclaims T2800/T2801/T2796/T2804 throughnormaltool, allpushed. T2793 protected byownopenPR. Currentroot ticketprogress edits need sync. Do notclose photographic/occupieddriver/rider/riding tickets onengineeringmerge.
+
+
 **HORSE IDLE FAILURE - 2026-10-19 14:27 UTC.** Actual192204 hybrid headinternal/head-vsALL andnewpatchinternal COMPLETE0proper/0unexpected. Firstexternalnewpatchfailure is retainedMANEtriangle103 vsnewpatch16, witness[.0158361,1.8071132,.5319245]. One33.505sactualrunFAILED; archivea7b4a70e saved actual-progress-1425. No browser/newexport/retry. DiagnosticinventoryACTIVE39169 reusesEXACTsavedbinary64capture, <=90s, completesnewpatch-vsALL with unchangedpredicates toidentifyallremainingcohorts; cannotturnFAILintoPASS. Thenconcretenewmane-fit sourceproposal. Apprelease09a remainsfrozen; envsoleCIobserver/v6mergeauthority unchanged.
 
 

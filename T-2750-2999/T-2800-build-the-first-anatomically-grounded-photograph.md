@@ -119,3 +119,10 @@ Outside-app candidate `192204d9…` replaces the folded lower rear-head/neck joi
 ### Actual idle result — 2026-10-19 14:27 UTC
 
 Candidate `192204d9…` remains **unaccepted**. The retained head passed its internal and external checks, and the replacement neck passed internal checks. The first external neck failure is a proper crossing with retained mane triangle103, rather than the former head fold. The33.505-second run stopped at that witness; later external pairs remain untested. Failure archive `a7b4a70e…` is saved alongside the local proofs. A separate read-only inventory of the same captured arrays is diagnosing all remaining external collisions before a concrete mane-fit reconstruction. No photographic or full motion acceptance.
+
+
+## Fitted mane and neck idle result — 2026-10-19 14:38 UTC
+
+Candidate `1eee14e7…` passed all six complete binary64 idle collision scopes: retained head, new neck and replacement mane, each internally and against all other active horse triangles. No strict proper or unexpected SAT contacts; original negative controls still fail as intended. The fitted mane retires only the original240mane faces, preserving tail/dark head features and all old attribute bytes; the230vertex/456face replacement follows19actual coat roots with matched skin weights. Local export/Khronos0/0 and independent decoded REST/ownership passed. Archive `ba9d5b57…` is saved in actual-progress-1438.
+
+This is one idle pose and a short25mm reconstructed roached hair mass. Other poses, gear, photographic grooming/anatomy and production acceptance remain open. Actual visual review follows before broader animation testing or installation.
