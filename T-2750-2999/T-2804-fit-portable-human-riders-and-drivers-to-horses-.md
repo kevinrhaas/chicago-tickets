@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing named resident driver fit 10/19/2026, 9:33:48 AM CT
+claimed_by: continuing parallel period transport team 10/19/2026, 1:49:22 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T14:33:48.737Z
+claimed_at: 2026-10-19T18:49:22.778Z
 decision: null
 decision_answer: null
 ---
