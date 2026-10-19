@@ -1,7 +1,7 @@
 ---
 id: T-2855
 title: Glessner's north cameras re-solved with the gable pairs' sill and head left free (HABS 13 and 14), and both pairs rebuilt at the photographs' reading (sill about 19.6, head about 24.3 ft against the built 20.0-25.25); rebaked and both views re-rendered
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2850
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1084
 claimed_by: run 10/19/2026, 6:04:28 AM CT
 blocked_on: null
 needs_bake: false
