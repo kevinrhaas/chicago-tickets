@@ -1,7 +1,7 @@
 ---
 id: T-2859
 title: Glessner's three court dormers to HABS sheet 4: the first dormer's centre to the drawing's S 32.1 (built 32.3), the hip covers slimmed to the drawing's single hip line and stopped under the bell so the finial's bell reads, the bell's profile, the apron's fascia and the light's frame stock read at the drawing's grain; rebaked and habs04-court-exterior's dormer item closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2852
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 7:01:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39245212958
+claimed_at: 2026-10-19T12:01:53.323Z
 decision: null
 decision_answer: null
 ---
