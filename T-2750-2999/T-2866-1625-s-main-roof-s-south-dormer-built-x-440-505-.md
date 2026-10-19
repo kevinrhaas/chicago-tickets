@@ -1,7 +1,7 @@
 ---
 id: T-2866
 title: 1625's main roof's south dormer built (x 440-505 px, its hood about y 340-360) and the main south wall's windows moved to the re-solved camera's columns (the top floor's at about 2.4 and 5.2 m, a stair light at about 9.4 m, the ground floor's at about 2.3 m), and the rear section's door's transom light
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2847
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1092
 claimed_by: run 10/19/2026, 9:16:01 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T16:53:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39266133303
 claimed_at: 2026-10-19T14:16:01.121Z
 decision: null
