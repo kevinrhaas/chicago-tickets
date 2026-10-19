@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: harness-model agent 10/18/2026, 1:52:28 PM CT
+claimed_by: continuing harness and oral-fit agent 10/19/2026, 9:33:20 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-18T18:52:28.343Z
+claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
+claimed_at: 2026-10-19T14:33:20.428Z
 decision: null
 decision_answer: null
 ---
