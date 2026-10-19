@@ -1,5 +1,8 @@
 # Session recovery checkpoint — 2026-10-18
 
+**INTEGRATION UPDATE - 2026-10-19 13:48 UTC.** Namedv2 final5a0a305d is now INSTALLED13files/2optinmodifications; installed10sourcebodytests+actualf415/defaultW01hashrefusal/cleanupregressionPASS. Realbench+galleryinstalled. Initialcompiler tail FAILED because incomingL-k entry followed transportnarrativeheading; failurelogpreserved. Rootinserted recognized Per-subject liberties section before exactincomingappend, no researchbodychanges, sourceproof saved. Newtailv2 ACTIVE73787 nowlap2ofmax3, previouslapmovedtree. Need terminalconvergence beforeticketreconcile/scenetail/publish/fullpreflight. Old64220observer39480latest18success1pending. Newv5+seateddispatcher source readyUNFINALIZED; freeze reviewednewpins afternewcommit. Allappuncommittedownedtextdiff saved app-integration-recovery.patch; newfiles in finalnamedv2+bench archives. Rootsoleapp/centralwriter.
+
+
 **CURRENT HANDOFF - 2026-10-19 13:42 UTC.**
 
 App NOWUNFROZEN/MIDMERGE: HEAD64220,MERGE_HEAD actualdevfe41412f5bb04d5477a78a0a9f922dc5a4065c82. Thirddevadvance includes59paths/newGlessner+Spaldinggeometry; PR1041DRAFT/DIRTY/unmerged. AuthoredLIBERTIES conflict resolved preservingboth exactbase-prefix appends+newbench/namedseated addendum. Two generatedconflicts temporarilyours/staged for compiler; source-owned tailcompile_liberties ACTIVE27532, log /workspace/shared/transport-devfe414-merge/rederive-tail.log. Three provenignored/untrackedoldGlessnercaches refreshed fromverifiednewcommittedarchive; materialize/checkPASS. No broadresolver/networkretry/bake.
