@@ -1,7 +1,7 @@
 ---
 id: T-2733
 title: The frame governor's moving reading off the owner's phone: the Read frame pacing result copied back and filed, sd and p95 fallen (or not) for walk, turn and flight under Adaptive against Fixed
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2722
 opened: 2026-10-17
-closed: null
+closed: 2026-10-18
 pr: 1056
 claimed_by: run 10/18/2026, 7:56:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T02:17:25Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39181954116
 claimed_at: 2026-10-19T00:56:53.810Z
 decision: null
