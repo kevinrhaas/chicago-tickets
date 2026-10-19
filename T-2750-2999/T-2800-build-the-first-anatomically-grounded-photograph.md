@@ -162,3 +162,10 @@ This qualifies one idle pose. Matched appearance review, anatomical/photo qualit
 Natural-labial candidate419a6194 passed one complete idle engineering trial, including all8 structural scopes, all36 gear parts and full bit checks. Corrected horse-only and bitted desktop/mobile matched captures both passed and were actually viewed. The rectangular opening and stacked lip bands improved; blunt muzzle, weak lip seam and polygonal nostril remain below natural/photographic acceptance. Source-only anatomical refinement continues; motion of this variant is unqualified.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.
+
+
+## Measured progress — 2026-10-19 21:23 UTC
+
+The next native-muzzle source passed full independent source/index/caller review, but its one actual candidate7de84296 failed the first head-internal check after16.205 seconds on a genuine proper crossing between front-cap and underside triangles near the front crease. Later structural scopes, all36 gear checks and bit clearance are UNRUN. No unchanged retry or appearance capture followed. Full immutable failure325efc9d and all source/input bytes are preserved in github-backup-212247. Prior419a is still the passing static engineering reference; natural anatomy and photographic acceptance remain open.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence note changes no ticket state, claim or PR association.

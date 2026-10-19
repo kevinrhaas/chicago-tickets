@@ -83,3 +83,10 @@ The next source scope includes both leather routes (16 changed/13 protected part
 Root-peel saddle candidateff905fee passes all7 negative stages, source/readback/Khronos/capture and all29 self scopes. The inherited billet/root crossing is repaired. Assembly stops at pair308/328 on an unclassified raw leather/iron contact with no strict-proper witness;307 pairs are complete, remaining assembly/whole-horse/visual checks are unrun. Full failure77429dc5 is preserved; exact source-owned contact diagnosis continues without waiver or automatic retry.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.
+
+
+## Measured progress — 2026-10-19 21:23 UTC
+
+Saved exact witness analysis found60 genuine proper crossings,30 per side, between ff905 folded stirrup leather and neighboring iron arch segments. A duplicate-boundary alias correction alone cannot qualify that asset. The next central-fold source narrows the fold to about25.5mm and explicitly owns two iron subdivisions, expanding coverage to18 affected parts/351 relevant interpart pairs/18 whole-horse comparisons while retaining all29 self checks. Corrected source archive dc44fe47 is frozen and undergoing full independent review; no actual central-fold candidate exists yet. Source and original failures are backed up; riding, load and photographic acceptance remain open.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence note changes no ticket state, claim or PR association.

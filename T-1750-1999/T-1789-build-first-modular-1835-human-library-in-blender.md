@@ -134,3 +134,10 @@ These are unexecuted canonical-authoring adapters, not Blender masters, exported
 Named1812 Kinzie-the-elder and1904 John Jacob Glessner source studies are committed/pushed at2726042ad in draftPR1099. Full local1018-step preflight passed, but actual canonicalCI39314363829 failed in master/export authoring after source/body reproduction and fixture verification passed. Exact exception remains unknown because logs/artifact redirects are blocked. An independently reviewed diagnostics-only patch is ready, preserving original exceptions and all normal thresholds. Native2048 middle-aged/older PNG skin sources and rights/atlas compatibility evidence are acquired separately; no new canonical model/likeness/photographic acceptance.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.
+
+
+## Measured progress — 2026-10-19 21:23 UTC
+
+The diagnostics integration is committed and pushed at5410b708fc177eb794249af0b157a36edb1e34b3 in draft PR1099. Full local preflight passed1,020 steps/377 deliberate refusal self-tests; exact-commit publication, mirror, changelog and ID checks passed. Actual canonical run39325858203 is in progress. The caught authoring exception will be exposed without relaxing any original export/normal gate. Named studies remain unaccepted for actual garment fit, age-specific appearance, photographic quality or world placement. Mature-skin opt-in source is separately reviewed and not installed.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence note changes no ticket state, claim or PR association.
