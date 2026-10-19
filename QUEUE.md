@@ -65,7 +65,7 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # building dossier (summary record, Glessner pilot, Inspect), E6 Confidence view, E7 Move, E9 Map/Jump/Settings with Researcher
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
-# evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
+# evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest, T-2670) is held in band 8F.
 T-2825 — Visitor-readable research records: liberties, ground, open questions, people and source details name no internal ticket number or record id, in any mode
 T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
 
@@ -203,6 +203,12 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # HOLD T-1359 — streaming corruption; affected Mac/Unreal/browser access, after native priorities.
 # HOLD T-1361 — after T-1358/T-1359, approved licensed build runner, GPU host, budget and credentials.
 
+# --- 8F. PLAYTESTS — HELD (owner, 2026-10-19: "Let's put all of those playtest tickets in a common band below unreal and hold
+# ---     them for now"). Commented holds, never claimable; a run does not prepare their materials until the owner lifts the hold.
+# HOLD T-2670 — Student playtest (NAV-1006): 6-8 students aged 14-16, three tasks (find a house, learn who lived there, tell
+#     Attested from Reconstructed), 80 % unaided. Needs the owner to arrange the students; T-2663 (tour) and T-2637 (Glessner
+#     pilot) have merged, so the task cards and observer sheet can be prepared once the hold is lifted.
+
 # --- 8b. BLOCKED AND WAITING — every ticket that is not workable and not finished
 # Commented on purpose: visible to the owner, never claimable. `ticket.mjs block` writes these lines and `check`
 # refuses a blocked ticket that is missing from this band (T-1518, T-1541).
@@ -236,8 +242,6 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-# BLOCKED-OWNER T-2670 (opened 2026-10-16, META) — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80…
-#     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
 T-2810 — 1835 river woods: wild grape curtains on the river-facing edge, and a few snags and fallen logs in the wet woods and gallery
 T-2783 — 1835 and 1812 prairie, part 1: the far prairie past flora.js's near ring reads as flat paint; add a mid ring of cheap grass cards and a grass-coloured, streaked ground so the near ring has no visible edge, held in every tier's ceiling and the 1835 frame
 T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty
