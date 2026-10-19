@@ -1,7 +1,7 @@
 ---
 id: T-2878
 title: One run per house at a time: ticket.mjs claim refuses a 1904 house ticket while that house has a live claim, a ticket in review or an open PR, and list --workable marks the row HOUSE BUSY
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: session 10/19/2026, 2:00:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-19T19:00:52.911Z
 decision: null
 decision_answer: null
 ---
