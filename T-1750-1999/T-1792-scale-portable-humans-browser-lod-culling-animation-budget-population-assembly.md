@@ -1,7 +1,7 @@
 ---
 id: T-1792
 title: Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: parallel human population budgets 10/18/2026, 10:06:51 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
+claimed_at: 2026-10-19T03:06:51.995Z
 decision: null
 decision_answer: null
 ---
