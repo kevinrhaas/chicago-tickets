@@ -1,7 +1,7 @@
 ---
 id: T-2660
 title: Field log on the device: landed, first inspect, tabs opened, Show me, Jaunts started and finished, Tour steps and Confidence presets counted in localStorage only, shown in Settings › About with a Clear button, never sent
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: NAV-S02
 parent: null
 opened: 2026-10-16
 closed: null
-pr: null
+pr: 1054
 claimed_by: run 10/18/2026, 5:48:18 PM CT
 blocked_on: null
 needs_bake: false
