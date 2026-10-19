@@ -1,7 +1,7 @@
 ---
 id: T-2888
 title: 1812 Prairie's iron balcony on the south projection's flat top from the Levy photograph: K08's balcony rail taken onto a projection's flat top, round its front and cheeks, its height read off the print, and the match record's balcony item closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2544
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 5:43:15 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39335896424
+claimed_at: 2026-10-19T22:43:15.087Z
 decision: null
 decision_answer: null
 ---
