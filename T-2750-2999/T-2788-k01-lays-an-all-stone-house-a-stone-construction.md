@@ -1,7 +1,7 @@
 ---
 id: T-2788
 title: K01 lays an all-stone house: a stone construction whose K02 coursed stone goes round every face (flanks, rear and wings), with stone dressings where a brick house has brick, so a Bedford-stone house is not a stone front on a brick box (the kit piece 1801 Prairie's move needs)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2539
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: 1034
 claimed_by: run 10/18/2026, 12:13:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T07:09:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39148213133
 claimed_at: 2026-10-18T17:13:40.396Z
 decision: null
