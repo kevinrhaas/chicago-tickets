@@ -1,7 +1,7 @@
 ---
 id: T-2845
 title: Keith's loggia built at the plan's place: K07's front pedestals about 0.6 m square at v 6.73-7.34 and 9.58-10.23 carrying their pairs at the 1888 plate's pitch (about 0.36 m), the stair's north cheek run into the south pedestal and the flight to the plan's clear width (about 1.8 m); rebaked, porch-1965 and inland-1888 re-rendered, the column's remaining height factor in the slide (k about 1.1 on the plan's place) ruled, and porch-1965 brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2836
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 6:18:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39242391997
+claimed_at: 2026-10-19T11:18:34.661Z
 decision: null
 decision_answer: null
 ---
