@@ -1,7 +1,7 @@
 ---
 id: T-2849
 title: Glessner's stable end to its photographs: the ventilated cupola body and pyramid, the stable gable, roof vent and portal read against habs-15, habs-01 and the Cornell northwest view; rebaked and those three match records' stable items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2761
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1082
 claimed_by: run 10/19/2026, 4:34:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T11:30:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39230508566
 claimed_at: 2026-10-19T09:34:07.144Z
 decision: null
