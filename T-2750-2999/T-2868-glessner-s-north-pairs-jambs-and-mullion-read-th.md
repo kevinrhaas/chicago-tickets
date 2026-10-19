@@ -1,7 +1,7 @@
 ---
 id: T-2868
 title: Glessner's north pairs' jambs and mullion read through the re-solved HABS 13 and 14 cameras: the inner jambs to the photographs' 1.3-ft pier (W 10.5/11.8 and 28.4/29.7), the colonnette's shaft, capital and base to their read heights; rebaked and both match records' pair items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2856
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 9:07:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39264498509
+claimed_at: 2026-10-19T14:07:24.419Z
 decision: null
 decision_answer: null
 ---
