@@ -1,7 +1,7 @@
 ---
 id: T-2858
 title: Glessner's north-end Prairie openings moved to HABS sheet 6 (first-floor A and B and the second-floor north trio about 0.3-0.65 ft north, the first-floor lights to the sheet's width) and the north pier ruled against both NE photographs; rebaked, the three front views re-rendered and their front items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2851
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1090
 claimed_by: run 10/19/2026, 8:43:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T22:33:25Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39258358714
 claimed_at: 2026-10-19T13:43:35.554Z
 decision: null
