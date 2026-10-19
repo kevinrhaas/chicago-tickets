@@ -1,5 +1,18 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT NEXT-PARCEL HANDOFF — 2026-10-19 13:29 UTC.**
+
+App64220 clean/frozen, PR1041 draft/unmerged. Latest qualification 2026-10-19T13:27:27.787680+00:00: {'success': 17, 'pending': 2}; all normal checks green; two selected smokes pending. ONE observer39480; do not duplicate/redispatch. Original final-v4 qualification/merge process still required.
+
+- W01 supported bench candidate actual geometry/Khronos pass, flag-off/repeat byte exact; no occupied/photographic acceptance.
+- Named sit_drive canonical-authoring/runtime/CI source proposal,10CPUguards pass; actual canonical cloth export/render pending, depends on supported W01 atomically.
+- Horse local topology SOURCE-only12triangle replacement; no actual generation/3D/SAT acceptance. Independent review/source pipeline in progress. Quarter positive deformation family independently confirmed infeasible; prior failure untouched.
+- Headgear actual candidate FAIL protected bodygear invariant; preserved here, no fit acceptance. Exact baseline recovery in progress before any new generation.
+- Traffic shared batch CPU pass24964tri; actual first sandbox run could not launch. Permitted actual WebGL run plain desktop+1call/+24964tri with exact restoration, then STOP on favicon404. Original errors retained. Explicit missing-favicon source fix/repeat authorized; do not suppress errors. No production/main-scene traffic admission.
+
+All photographic/complete-riding tickets remain open. No app changes while64220qualifies. New archives/source reviews here are recovery evidence, not acceptance.
+
+
 **CURRENT PROGRESS — 2026-10-19 12:52 UTC.**
 
 User received a candid whole-band status: portable-human foundations complete; current wagon/carriage/human/horse engineering prototypes close to a dev checkpoint, but photographic finishing, actual seated drivers/mounted riders, main-scene traffic and real boarding/riding remain unfinished. No production/photo/riding tickets closed. PR1041 still draft/unmerged; app64220 frozen/clean/pushed. Single metadata observer39480 continues; latest 2026-10-19T12:50:27.723274+00:00 counts {'pending': 14, 'success': 5}, no failures. No redispatch or duplicate observer. Final v4 normal dev release instructions below remain applicable only after all actual checks succeed.
