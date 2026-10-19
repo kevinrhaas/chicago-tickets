@@ -60,7 +60,6 @@ T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest) waits on the owner in 8b.
-T-2642 — Navigator style library: Greek Revival, Italianate, Second Empire, Queen Anne and Chicago School modules, each with four sourced 'how to spot it' cues and a credited reference plate
 T-2649 — Confidence view persists and shows a HUD legend: choices saved to localStorage chicago4d.confidence and carried across destinations, and a legend chip under the year chip while the view is on
 T-2825 — Visitor-readable research records: liberties, ground, open questions, people and source details name no internal ticket number or record id, in any mode
 T-2658 — Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
