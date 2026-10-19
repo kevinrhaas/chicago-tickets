@@ -65,3 +65,8 @@ The proposed canonical builder clip converts source global poses through actual 
 ## Parallel checkpoint — 2026-10-19
 
 Outside-app named-resident driver adapter and source arm-IK/seat fit prepared. Preserve existing identity/date, no invented occupation/likeness, no keyframed scale. Actual canonical export/clothed contact/loaded reins remain pending. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
+
+
+### Progress 2026-10-19 13:42 UTC
+
+Supported W01 geometry and desktop/mobile8-view browser checks pass; visiblebench now installed in uncommitted app. Namedseatedv2 still outside; canonicalclothed result pendingCI, no occupant/photoacceptance.

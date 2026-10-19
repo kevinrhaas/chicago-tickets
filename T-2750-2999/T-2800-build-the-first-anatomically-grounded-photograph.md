@@ -104,3 +104,8 @@ Full first-failure archive SHA256df1f5e1a130090da5d0ad445b4237e38c84d4e9d15826f7
 ### Progress 2026-10-19 12:52 UTC: infeasible neck deformation family
 
 Read-only exact source algebra proves columns14..22 admit no positive lambda under the unchanged movement bound. Therefore a smaller positive vector cannot fix the failed quarter-vector export. Evidence archive0239b49df268030b9f2630c2aeb59d4d888c24f8fb655fb03de0fae3249824ac saved centrally in quarter-readonly-feasibility. No retry, model generation or guard relaxation. Local source-owned neck topology repair proposal and independent review now in progress outside app; feasibility/visual/posed/SAT acceptance remain unproven.
+
+
+### Progress 2026-10-19 13:42 UTC
+
+c243 topology candidate local REST/Khronos passed but actual binary64 idle FAILED at head/new-neck strict crossing; archive9e3bd699 preserved. No app install/acceptance.
