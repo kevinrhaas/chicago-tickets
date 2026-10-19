@@ -32,7 +32,6 @@ T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (Swif
 
 T-2836 — Keith's 1965 porch view brought to matches: its camera re-solved with the principal heads at the blinded middle light's head (4.70 m), the loggia's place in plan ruled (the slide reads it about 0.7-0.8 m south, the 1888 plate's south pair about 30 px right, the pedestals 0.9 m against the plan's 0.6), re-rendered, and the joints-and-carving item read at the slide's grain
 T-2816 — Keith's image gate closed: every reference view of keith_house_1808_prairie re-reviewed from the GLB in the tree and reading matches with nothing open, and T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off
-T-2760 — Glessner's west-court access levels: the west-wing courtyard door's 1.77 m sill and the descending areaway on HABS sheet 2 reconciled with the sections and the dated alterations, and the courtyard views reviewed
 T-2761 — Glessner's photographic sign-off: the remaining opening, ornament, material and lighting differences in every canonical view resolved or accepted with a reason, a discrepancy register, and every match record brought to matches
 T-2819 — 1623's stone and the oriel's front: the smoother coursed stone beside the oriel above the arches' springing and the carved band across both arches, and the oriel front's place along the wall ruled; K01 rebaked and 1623's match record brought to matches
 T-2837 — 1625's plinth, door height and second-floor segmental heads to the McBirney photograph: the plain plinth to 0.26 m, the door on one riser to the print's 2.64 m head, the heads re-read; rebaked, and the match record's three front items closed
@@ -68,7 +67,6 @@ T-2606 — The yards' sward test indexed: suppressesSward scans every fenced int
 T-2723 — The gaze target's GPU pick stops stalling the frame: target.js's look reads back asynchronously (or raycasts on the CPU while moving) instead of a synchronous readPixels on the main thread every 500 ms of movement, with the moving p95 read before and after
 T-2774 — The near ring's remaining sets on the GPU, so the near re-deal reaches zero: the heads hung from the GPU's deal and the CPU near walk retired (T-2717 read it unchanged at 2.6-3.4 ms a pass, because it still deals every near slot for the heads), then mid, forbs and far shrubs, each read with measure_walk_frames.mjs's near re-deal line at the throttled phone profile
 T-2829 — Why Adaptive pacing makes turning less steady on the owner's phone (turn sd 4.7 to 6.5 ms, max 44 to 73 ms in T-2733's reading), and whether Adaptive stays the default until it does not
-T-2832 — Shops & work: the 94 authored firms' cards fetch businesses/<id>.json, which 404s; the record lives under businesses/authored/
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
