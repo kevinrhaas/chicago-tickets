@@ -34,3 +34,7 @@ When T-2602 was split (2026-10-17T16:59:35.730Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39051423277) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## 2026-10-19 — the owner's first 1904 attempt crashed
+
+The owner tried the 1904 reading on his iPhone with T-2732's Read frame pacing; the tab died at the Glessner front (T-2828). Take this reading only after T-2733 (the tool's 1904 poses, scene and ratio printed, a longer run) and T-2828 (the crash) have merged; then ask the owner for a 1904 reading and file it here.
