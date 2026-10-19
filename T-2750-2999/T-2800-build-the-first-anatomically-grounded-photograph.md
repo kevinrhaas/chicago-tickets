@@ -99,3 +99,8 @@ Full failed trial archive SHA256e838ce94800efcb9f108cb8b78435283c9425f74e78bac47
 ONE separately reviewed neck-side diagnostic ran with the explicit24-value quarter vector, preserving the head/ear/portal attributes and existing rig. It stopped in export phase1 after1.3754seconds: proposed movement exceeded the declared original local neck-column limit. No candidate GLB was encoded or emitted. Metadata, Khronos, independent rest readback, capture, collision, other poses, gear and browser checks did not run. No retry, alternate parameter or repair followed.
 
 Full first-failure archive SHA256df1f5e1a130090da5d0ad445b4237e38c84d4e9d15826f7b8945f525ef92cdb8, exact vector, receipts and stderr are saved under devdfd-merge-requalification/quarter-first-actual-failure. A read-only source-feasibility analysis is now deriving whether any positive continuation parameter can satisfy the unchanged movement bound, rather than guessing another parameter. Existing26027 head/neck penetration remains unresolved; no new model or photographic/production acceptance is claimed.
+
+
+### Progress 2026-10-19 12:52 UTC: infeasible neck deformation family
+
+Read-only exact source algebra proves columns14..22 admit no positive lambda under the unchanged movement bound. Therefore a smaller positive vector cannot fix the failed quarter-vector export. Evidence archive0239b49df268030b9f2630c2aeb59d4d888c24f8fb655fb03de0fae3249824ac saved centrally in quarter-readonly-feasibility. No retry, model generation or guard relaxation. Local source-owned neck topology repair proposal and independent review now in progress outside app; feasibility/visual/posed/SAT acceptance remain unproven.

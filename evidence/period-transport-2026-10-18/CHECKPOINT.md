@@ -1,5 +1,14 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT PROGRESS — 2026-10-19 12:52 UTC.**
+
+User received a candid whole-band status: portable-human foundations complete; current wagon/carriage/human/horse engineering prototypes close to a dev checkpoint, but photographic finishing, actual seated drivers/mounted riders, main-scene traffic and real boarding/riding remain unfinished. No production/photo/riding tickets closed. PR1041 still draft/unmerged; app64220 frozen/clean/pushed. Single metadata observer39480 continues; latest 2026-10-19T12:50:27.723274+00:00 counts {'pending': 14, 'success': 5}, no failures. No redispatch or duplicate observer. Final v4 normal dev release instructions below remain applicable only after all actual checks succeed.
+
+Quarter-vector failure now has hash-verified read-only exact-algebra diagnosis archive0239b49d saved under quarter-readonly-feasibility. Columns14..22 have NO positive lambda under the unchanged movement guard. A smaller positive vector cannot solve this family; no retry or guard relaxation. Existing source geometry/witness suggests a local topology repair may be possible but is UNPROVEN. No new horse GLB/capture/SAT/gear acceptance. Independent review requested.
+
+Six existing agents resumed independent useful next work outside frozen app: horse_model local neck topology proposal; horse_research bridle contour candidate; carriage_model actual W01 seat/furniture candidate; viewer_survey named resident seated portable-human integration; carriage_research one-draw distant traffic proposal; environment_validation independent algebra/topology/traffic review. Agents must preserve identity/date/provenance, original failures, caps and strict contact rules. No Blender install or app edits. Root remains sole central-ticket writer and owns merge/CI observer.
+
+
 **QUARTER TRIAL UPDATE — 2026-10-19 12:45 UTC.**
 
 The one released quarter-vector export trial has now RUN and FAILED/STOPPED phase1 after1.3754seconds. Movement exceeded its original local neck-column guard. NO new GLB was emitted; metadata/Khronos/REST/capture/SAT were NOT RUN. No retry/search/repair. Archive df1f5e1a is saved centrally with exact vector, first-failure and operator receipts. Author is doing READONLY algebra/source diagnosis of feasible positive intervals; no alternate parameter or actual model operation is authorized. The previous handoff's 'not yet started' is historical and superseded by this result.
