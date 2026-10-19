@@ -109,3 +109,13 @@ Read-only exact source algebra proves columns14..22 admit no positive lambda und
 ### Progress 2026-10-19 13:42 UTC
 
 c243 topology candidate local REST/Khronos passed but actual binary64 idle FAILED at head/new-neck strict crossing; archive9e3bd699 preserved. No app install/acceptance.
+
+
+## Hybrid head/neck progress — 2026-10-19 14:25 UTC
+
+Outside-app candidate `192204d9…` replaces the folded lower rear-head/neck join: 96 neck faces and 48 lower head faces retire; 720 new vertices and 1,492 faces form the replacement. The upper poll/ear join, eyes, muzzle, all original attribute bytes and rig/clips remain exact. Local export and Khronos passed, and independent actual REST/ownership confirms the declared head disk and neck annulus. One actual animated idle check is running; no collision, anatomy, photographic or production acceptance follows from these local checks. Source and actual local evidence are saved in `evidence/period-transport-2026-10-18/next-visible-parcels-2026-10-19/actual-progress-1425/`.
+
+
+### Actual idle result — 2026-10-19 14:27 UTC
+
+Candidate `192204d9…` remains **unaccepted**. The retained head passed its internal and external checks, and the replacement neck passed internal checks. The first external neck failure is a proper crossing with retained mane triangle103, rather than the former head fold. The33.505-second run stopped at that witness; later external pairs remain untested. Failure archive `a7b4a70e…` is saved alongside the local proofs. A separate read-only inventory of the same captured arrays is diagnosing all remaining external collisions before a concrete mane-fit reconstruction. No photographic or full motion acceptance.

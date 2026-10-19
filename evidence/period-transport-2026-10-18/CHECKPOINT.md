@@ -1,6 +1,12 @@
 # Session recovery checkpoint — 2026-10-18
 
 
+**HORSE IDLE FAILURE - 2026-10-19 14:27 UTC.** Actual192204 hybrid headinternal/head-vsALL andnewpatchinternal COMPLETE0proper/0unexpected. Firstexternalnewpatchfailure is retainedMANEtriangle103 vsnewpatch16, witness[.0158361,1.8071132,.5319245]. One33.505sactualrunFAILED; archivea7b4a70e saved actual-progress-1425. No browser/newexport/retry. DiagnosticinventoryACTIVE39169 reusesEXACTsavedbinary64capture, <=90s, completesnewpatch-vsALL with unchangedpredicates toidentifyallremainingcohorts; cannotturnFAILintoPASS. Thenconcretenewmane-fit sourceproposal. Apprelease09a remainsfrozen; envsoleCIobserver/v6mergeauthority unchanged.
+
+
+**PARALLEL PROGRESS - 2026-10-19 14:25 UTC.** Hybrid candidate192204 passed ONE local pipeline3.55s/Khronos0/0 + independent actual REST/ownership; ONE120s actualidle active70628. No collision/visual acceptance yet. Sourcea18/localcce8 and reviews saved actual-progress-1425. Oral124face/66rim connected disk independently audited, new roof/backwall/floor cavity producer under development; protected sixnostril normals exact. Wholewagon1463 actual12 A/Bcaptures PASS console/GL/framing, root viewed whole/bench: broad/soft grain,37vs23draws/~48MiBestimate poor tradeoff; next lowercost finer originalmaterial underway. Fullsource/archivef9ca saved. Envapproved v6SHA7fb02a exact auxiliaryskip classification; all19selected success stillmandatory, soleobserver74152. Final audit path final-09a3-normal-dev-gates-v6 afterterminalgreen; ordinary devmerge only. App09a clean/frozen.
+
+
 **MATERIAL REVIEW UPDATE - 2026-10-19 14:20 UTC.** Root inspected actual9af/baseline desktopbench: modestgrainimprovement, broad/soft/notphotographic. Eightcapture archivebac7 hashverified andsaved in next-visible-parcels-2026-10-19/material-review-1420; missingconsolelistener limitationpreserved. Wholewagonfinishnextoutsideapp. Envsole09aobserver74152 continues; auxiliaryoptionalbake skipclassification sourceaudit underwayforoutside successorverifier, all19selectedruns remainmandatorysuccess. Noappedit/redispatch.
 
 **CURRENT RELEASE HANDOFF - 2026-10-19 14:11 UTC.**
