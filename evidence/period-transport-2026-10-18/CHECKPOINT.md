@@ -1,5 +1,20 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT PREFLIGHT HANDOFF - 2026-10-19 13:59 UTC.**
+
+MAIN: featureHEADstill64220, MERGE_HEADfe414. Complete59stepcompiler tailCONVERGED2laps; earlierunknownsectionfailure preserved+correctedbyaddingrecognized Per-subject contextwithoutchangingauthoredentry. All637previouslibertyIDs/titlespreserved, oneincomingL-kadded. Normal ticketreconcileNOOP. ActualpublishPASS104.26MB usingexistingbcPATH; firstpublish'smissingbcsizeprint preserved, correctedpublishbeforeverification.
+
+ActualINSTALLEDpublishedbenchprobe PASSbothviewports8views,steer/roll/reset/touch/hash/gl/page+consolechecks, browser/serverclosed. Namedv2installed13files/hashguard+10bodytestsPASS; actualclothed/canonicalresultpendingCI. FullpreflightACTIVE22576, fourworkers/requiredreaders/unsetCHICAGO_TICKETS_DIR; logs /workspace/shared/transport-devfe414-merge/preflight*. Stagedtestedtree5e0bfad5fd30b322596efd469ab4dcc3f962c63d. Firststagecommandhadwrongroot-relativegitaddcwd andstoppedBEFOREpreflight; correctedcurrent22576isactualrun. Do notcommituntilactualfullterminalPASS+treeunchanged.
+
+origin/devfetchduringpreflightadvancedtoee1991c87eb629039abf2b353e965c4f7cc5518b, ONLY3pathchangelogfold (removeT2839/T2855entryfiles/addfoldedentries). Thiscanmergeserver-sideclean afterfe414mergecommit; doNOTchasecleanmetadatafold withunneededrequalification. CheckfreshactualPRmergeabilitybeforefreshdispatch/merge. Actualgeometryfe414incorporated.
+
+Old64220observer39480latest2026-10-19T13:58:28.071018+00:00 {'success': 18, 'pending': 1}; keepoldresultsrevision-specific. Stopoldobserverbeforepushingnewhead, no duplicate/re-dispatch. environment_validation preparing finalizedv5/seateddispatcher againstexactstagedTREE withnewCODE/sourcepins; noAPIyet. Aftergreenpreflight commitordinarymergedfeaturetree/postchecks/publish/push, verifyactualdevclean, dispatchFRESH18smokes+canonicalBOTHinputs trueONCE, ONEnewmetadataobserver, actualallgreen+freshnormaldevverifierbeforedev-onlymerge. No productionpromotion/photo/ridingticketclosures.
+
+Newhorse smoothlocaltrialFAILEDanchor-skinfieldguard BEFOREcurvegen/GLB; tinyarchive0e3198saved. Authorreadonlydiagnosingactualanchors vswrongassumption thenoneindependentlyreviewednewtrialallowedwithstrictpreservation. Hindgear67trial actualFAIL104proper: bit44same,breeching12improved,hips24eachREGRESSED; f5ddearchive saved. Authordiagnoseddiscontinuousray-envelopebranchchords, preparingfullstripgeometrysolution; nooffsetsearch/waivers. Allfailurespreserved, noappinstall.
+
+OutsideGPUtraffic18pixelcomparisonsPASSandroute/hitchsourceproposalpreserved; physicalW01singlesocketREFUSED, cartshaftgaugemismatchknown, pairedharnessbudgetfailsLight. Materialsoutsideonly: correctedmeanmatched/continuousgrain9afcandidateKhronos0/0; priorA/Bdesktoponly/mobileframingFAILpreserved, nextstrictsamegeometrycamera sourcepreparedbutNOBROWSERwhilemainpreflight. Proceduralmapsnotphotoscan/photoacceptance.
+
+
 **INTEGRATION UPDATE - 2026-10-19 13:48 UTC.** Namedv2 final5a0a305d is now INSTALLED13files/2optinmodifications; installed10sourcebodytests+actualf415/defaultW01hashrefusal/cleanupregressionPASS. Realbench+galleryinstalled. Initialcompiler tail FAILED because incomingL-k entry followed transportnarrativeheading; failurelogpreserved. Rootinserted recognized Per-subject liberties section before exactincomingappend, no researchbodychanges, sourceproof saved. Newtailv2 ACTIVE73787 nowlap2ofmax3, previouslapmovedtree. Need terminalconvergence beforeticketreconcile/scenetail/publish/fullpreflight. Old64220observer39480latest18success1pending. Newv5+seateddispatcher source readyUNFINALIZED; freeze reviewednewpins afternewcommit. Allappuncommittedownedtextdiff saved app-integration-recovery.patch; newfiles in finalnamedv2+bench archives. Rootsoleapp/centralwriter.
 
 
