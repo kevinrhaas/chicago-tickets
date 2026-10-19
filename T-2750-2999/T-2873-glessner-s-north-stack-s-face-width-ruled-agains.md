@@ -1,7 +1,7 @@
 ---
 id: T-2873
 title: Glessner's north stack's face width ruled against HABS 14, sheet 6 and photograph 4 (HABS 14 reads the face about 124 px across the date stones' height against the render's 92, the stones 75 and 78 px against 49 and 56, every height agreeing), built or argued on T-2870's stones; rebaked and HABS 14's stack-width item closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2871
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1100
 claimed_by: run 10/19/2026, 1:57:40 PM CT
 blocked_on: null
 needs_bake: false
