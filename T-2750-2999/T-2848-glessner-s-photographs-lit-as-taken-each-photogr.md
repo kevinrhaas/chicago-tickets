@@ -1,7 +1,7 @@
 ---
 id: T-2848
 title: Glessner's photographs lit as taken: each photographic reference camera (cornell-northwest-west-windows, habs-01, habs-13, habs-14, habs-15, habs-16, habs-17, and taylor-2135-ne's existing sun checked) given a sun_uvy read off its own lit walls and cast shadows, re-rendered, and each match record's lighting difference closed or stated with what the picture cannot show
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2761
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 4:18:15 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39227553559
+claimed_at: 2026-10-19T09:18:15.322Z
 decision: null
 decision_answer: null
 ---
