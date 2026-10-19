@@ -1,7 +1,7 @@
 ---
 id: T-2815
 title: Keith's 1888 plate items built: the south pedestal's bordered side field, the bow's principal lights in three tiers between stone bars, and the bow cap's carved band under its light top, rebaked and inland-1888 brought to matches
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2751
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1059
 claimed_by: run 10/18/2026, 7:50:26 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T03:09:04Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39181948422
 claimed_at: 2026-10-19T00:50:26.625Z
 decision: null

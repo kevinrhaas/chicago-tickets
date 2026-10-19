@@ -19,7 +19,6 @@
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
-T-2828 — 1904 on the owner's iPhone dies walking up to the Glessner front at Light and Sharpness 1: the tab was killed about 5 s into a walk from the 18th Street spawn across Prairie Avenue (last at 1390,-3220, 741 textures, 550k triangles), found and fixed against the phone memory ceiling
 T-2833 — 1904 context city: the stand-ins seen down the streets read as period buildings and trees, not boxes and blobs
 T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
 
@@ -34,7 +33,6 @@ T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (Swif
 
 T-2813 — Keith's crown stack: about 0.1-0.17 m out between the lattice's foot and the head band (a shallower K10 moulded course first), rebaked, the Glessner-front and Florian cameras re-solved and tools/keith_crown_stack.py re-run, closing the Glessner-front lattice item
 T-2831 — Keith's loggia column ruled between the 1888 plate, Nickel 1967 and the 1965 slide (about 0.78, 0.95 and 1.11 of the bow's principal opening), the late pictures' principal openings read for blinded transoms, built or argued, and porch-1965 brought to matches
-T-2815 — Keith's 1888 plate items built: the south pedestal's bordered side field, the bow's principal lights in three tiers between stone bars, and the bow cap's carved band under its light top, rebaked and inland-1888 brought to matches
 T-2816 — Keith's image gate closed: every reference view of keith_house_1808_prairie re-reviewed from the GLB in the tree and reading matches with nothing open, and T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off
 T-2760 — Glessner's west-court access levels: the west-wing courtyard door's 1.77 m sill and the descending areaway on HABS sheet 2 reconciled with the sections and the dated alterations, and the courtyard views reviewed
 T-2761 — Glessner's photographic sign-off: the remaining opening, ornament, material and lighting differences in every canonical view resolved or accepted with a reason, a discrepancy register, and every match record brought to matches
