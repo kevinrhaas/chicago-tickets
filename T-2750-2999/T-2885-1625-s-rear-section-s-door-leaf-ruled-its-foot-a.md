@@ -34,3 +34,9 @@ When T-2867 was split (2026-10-19T20:25:50.274Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39318240965) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2883 (2026-10-19, PR #1105): one more item on the match record
+
+Recorded `open` on `inland_architect_front.match.json` against this ticket, which owns bringing it to matches:
+
+- **The oriel's apron's tone.** T-2883 built the apron's form (a flat face from 3.6 m to a moulded foot at 2.3 m), but the print's apron reads darker than the oriel's walls over it, and stippled, as a rock-faced stone or a rough-cast or shingled face would. The build lays it in the oriel's own pale dressed stone: K08's apron shares the `corbel` role, and K01 maps every stone K08 role to the one `bay_stone` slot, so a darker apron needs a slot of its own (or an argued ruling that the print's tone is shadow).
