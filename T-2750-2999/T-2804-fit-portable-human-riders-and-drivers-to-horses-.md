@@ -70,3 +70,8 @@ Outside-app named-resident driver adapter and source arm-IK/seat fit prepared. P
 ### Progress 2026-10-19 13:42 UTC
 
 Supported W01 geometry and desktop/mobile8-view browser checks pass; visiblebench now installed in uncommitted app. Namedseatedv2 still outside; canonicalclothed result pendingCI, no occupant/photoacceptance.
+
+
+### Progress 2026-10-19 14:11 UTC
+
+Supported bench and named sit_drive authoring committed/pushed09a3ad1d4;1016localsteps+publishedbenchbothviewportsPASS. Freshcanonical BOTHflagsrun39266264143 pending; actualclothedseated/master/contact acceptance remainsopen. PR1041draft/unmerged, devmergeonlywhengreen.
