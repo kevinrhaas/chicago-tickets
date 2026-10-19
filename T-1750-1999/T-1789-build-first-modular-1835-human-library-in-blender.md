@@ -141,3 +141,10 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `
 The diagnostics integration is committed and pushed at5410b708fc177eb794249af0b157a36edb1e34b3 in draft PR1099. Full local preflight passed1,020 steps/377 deliberate refusal self-tests; exact-commit publication, mirror, changelog and ID checks passed. Actual canonical run39325858203 is in progress. The caught authoring exception will be exposed without relaxing any original export/normal gate. Named studies remain unaccepted for actual garment fit, age-specific appearance, photographic quality or world placement. Mature-skin opt-in source is separately reviewed and not installed.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence note changes no ticket state, claim or PR association.
+
+
+## Final handover — 2026-10-19 22:40 UTC
+
+Human source is pushed at5410b708 in draftPR1099, local1020/377 preflightPASS. Actual canonicalCI39325858203 now conclusively fails Kinzie body normal raw delta0.0019328318828065018>unchanged0.001; Glessner not reached. Reviewed explicit normal experiment recovery16f67776/peer6948ed2e is saved in final backup224031, NOT installed or proven by actual Blender/export. Portable1835 infrastructure landed in PR1041; new1812/1904 canonical models remain unaccepted. See root HANDOVER.md for immediate patch/integration next step.
+
+Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.

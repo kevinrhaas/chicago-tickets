@@ -148,3 +148,10 @@ The original ab70+3bb45 run completed all63 selected poses successfully in2456.2
 Combined fitted-rear plus corrected-girth gear43bc48a5 passed idle source/decoded/dimension/self checks, all35 interpart comparisons and all36 parts against the whole horse. Independent stored audit replayed all76 inner faces/523 certificate leaves (maximum29.895mm under the declared30mm bound). Upper ends remain38.3–44.3mm away from existing hardware and explicitly unbound. Matched visual capture is active; new motion, complete hitch and photographic acceptance remain open.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.
+
+
+## Final handover — 2026-10-19 22:40 UTC
+
+Six-part upper attachment actual0752b0b1 failed affected pair86 after85 completed: pad178/support_l145 genuine transverse crossing. Independent audit proves this equals inherited parent pad34/support145; inherited overlap remains fatal. Later pairs/wholehorse/078negative/full532facefit UNRUN. Complete source/input/failure/audits f0b6172 saved in final backup224031. Next eight-part/252pair support-route reconstruction is a proposal only. Qualified lowergirth43bc static+visual retained; no complete harness/motion/photo acceptance.
+
+Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.

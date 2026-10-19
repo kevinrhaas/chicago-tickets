@@ -169,3 +169,10 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `
 The next native-muzzle source passed full independent source/index/caller review, but its one actual candidate7de84296 failed the first head-internal check after16.205 seconds on a genuine proper crossing between front-cap and underside triangles near the front crease. Later structural scopes, all36 gear checks and bit clearance are UNRUN. No unchanged retry or appearance capture followed. Full immutable failure325efc9d and all source/input bytes are preserved in github-backup-212247. Prior419a is still the passing static engineering reference; natural anatomy and photographic acceptance remain open.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence note changes no ticket state, claim or PR association.
+
+
+## Final handover — 2026-10-19 22:40 UTC
+
+Actual7de8 failed front crease as preserved previously. Corrected front-lip section source a9023a26 is now frozen and saved in final backup224031;17 pure controlsPASS, full independent successor review and actual trial remain. Prior419a static and bitted/unbitted comparison remains the passing engineering reference, not photographic acceptance. Detailed mouth handoff and diagnosis are copied with the source.
+
+Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.

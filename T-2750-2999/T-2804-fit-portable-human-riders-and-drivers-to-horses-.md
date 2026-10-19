@@ -87,3 +87,10 @@ Root corrected Otis proposed page source/published data+assetbase using actualpr
 Named1812/1904 source studies in draftPR1099 preserve identified records and appearance reconstruction limits. Kinzie currently supplies standing/walking studies; Glessner standing/walking/passenger, with no invented coachman assignment. Actual export build failed and is being diagnosed. Existing1835 named seated-driver authoring remains historical input evidence; occupied rider/driver fit, real rein grip, scene placement and riding/boarding are not accepted.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.
+
+
+## Final handover — 2026-10-19 22:40 UTC
+
+Portable1835 human/driver-study foundation landed with PR1041 into DEV; actual occupied wagon or riding deployment remains unfinished. Kinzie1812/Glessner1904 source remains draftPR1099 with a diagnosed failed normal check and reviewed uninstalled recovery, not working world people. Glessner remains standing/walking/passenger only, not a coachman/rider. Complete next-agent instructions are in root HANDOVER.md.
+
+Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.

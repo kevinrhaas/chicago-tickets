@@ -90,3 +90,10 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `
 Saved exact witness analysis found60 genuine proper crossings,30 per side, between ff905 folded stirrup leather and neighboring iron arch segments. A duplicate-boundary alias correction alone cannot qualify that asset. The next central-fold source narrows the fold to about25.5mm and explicitly owns two iron subdivisions, expanding coverage to18 affected parts/351 relevant interpart pairs/18 whole-horse comparisons while retaining all29 self checks. Corrected source archive dc44fe47 is frozen and undergoing full independent review; no actual central-fold candidate exists yet. Source and original failures are backed up; riding, load and photographic acceptance remain open.
 
 Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence note changes no ticket state, claim or PR association.
+
+
+## Final handover — 2026-10-19 22:40 UTC
+
+Centralfoldcf148 actual passed all29self and329pairs then failed iron/tread pair330. Independent exact proofs establish88 genuine inherited iron/footplate crossings. Remainingpairs/horse unrun. Failure271cb78 and reviewed next capped-foot/partitioned-tread proposal37e1cd1 saved in final backup224031. Next20affected/370pair/20horse source repair is not implemented; preserve upperiron/leathers and88negative witnesses. No riding/load/photo acceptance.
+
+Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
