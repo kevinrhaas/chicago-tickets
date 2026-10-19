@@ -1,7 +1,7 @@
 ---
 id: T-2851
 title: Glessner's Prairie front to Taylor 2135, HABS 16 and HABS 17: street openings and entry alignment, roof framing and the main roof and stack heights read and built; rebaked and the three match records' front items closed
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2761
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 6:02:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T11:12:48.623Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39241108897
 claimed_at: 2026-10-19T11:02:00.407Z
 decision: null
