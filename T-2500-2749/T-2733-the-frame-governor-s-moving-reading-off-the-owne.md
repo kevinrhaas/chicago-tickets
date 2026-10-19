@@ -80,3 +80,14 @@ flight  adaptive    161  31.2   5.0  30.0  41.0  49.0   48   0
 - [ ] `js/pacing-read.js`'s readout prints the scene year and the renderer's actual pixel ratio (and the Sharpness stop) beside the device ratio, and offers a longer run (e.g. 15 s a mode), so the 1904 reading (T-2719) and any repeat are attributable and less noisy.
 - [ ] **Per-scene poses** (owner's 1904 attempt crashed, 2026-10-19 — T-2828): `poseFor` only knows 1835 anchor ids, so in 1904 every move fell back to the `glessner_house` anchor and the walk went due west across Prairie Avenue into the Glessner front. Each scene gets its own walk (in 1904: along the Prairie Avenue sidewalk, north–south, parallel to the street), turn and flight poses, and no pose ever enters a structure footprint (a test walks each scene's poses against the footprints).
 - [ ] One follow-up filed with this reading attached: why Adaptive makes **turning** less steady on the owner's phone (max 73 ms, sd up 38 %), and whether Adaptive should stay the default until it does not — a decision card for the owner if the answer is to change the default.
+
+## Finding from T-2828 (2026-10-19, PR #1057)
+
+T-2828 read the owner's crash path on the runner (`measure_memory.mjs --walk glessner-approach`)
+and let a phone's GLB KTX2 levels go once uploaded: 403 -> 347 MB at the Glessner front after GC,
+1904 mobile ceiling 450 -> 400 MiB. **Not fixed, and the first lead if this reading still dies:**
+for the first seconds after the welcome the page carries about 130 MB of boot ArrayBuffers that
+are already garbage (201.8 MB before the first natural GC, 68.1 after), so the no-GC total reads
+499-512 MB at the first stations, over the ceiling until it is collected
+(`docs/measurements/T-2828-glessner-approach.md` § What is not settled). Not filed as its own
+ticket: the queue was at its ceiling (151/140).
