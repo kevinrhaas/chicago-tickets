@@ -1,5 +1,7 @@
 # Session recovery checkpoint — 2026-10-18
 
+**PUSH CHECKPOINT — 2026-10-19 16:13 UTC.** github-backup-1613 preserves completed full63 pose chunks, neutral-mouth source and REAL FAILED first trial, saddle front-cover revised source/reviews, observer-loss recovery. Application09a clean/pushed/frozen; PR1041 unmerged. Existing geometry process survived infrastructure interruption; no duplicate run. CI observer process died with no terminal result; one fresh remote-state reconciliation authorized after /proc proof. Last saved14/19success is historical, not current green. No photo/riding/occupied-human closure. See backup README and per-archive hashes. Normal sync/push now.
+
 
 **PUSH CHECKPOINT — 2026-10-19 15:59 UTC.** github-backup-1559 preserves11hashverifiedarchives inclACTUALnewpairab70+3bb45QUARTER8PASS e730 (269.63s/all8/all36/fullstructure/bit/negativechecks), 2posePASS5c312f, source991, original63CAPTUREONLYdiagnostic3splitarchives, b683saddlePARTIALvisual+proofs, neutralmouthdesign/WIP, correctedOtissourcepathfix. Full63FUNCTIONALqualification nowACTIVE35160 (2700s/oneworker/firstfailureSTOP), NOTqualifiedyet. Source/pair/prerequisitesfrozenandrehashguarded; max40MiBfuturecompletedposechunks requested. Fittedreststudy7c2fe76idle-only staysunchanged.
 
