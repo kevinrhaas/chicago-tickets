@@ -1,7 +1,7 @@
 ---
 id: T-2869
 title: Glessner's north gable stack's date-stone panel and monogram (HABS 14 reads the upper stone's monogram as a joined device, not plain AD) and the north tower finial (about 30-40 px east of the photograph's in HABS 14, with the cone) brought to the photographs; rebaked and both match records' remaining north items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2856
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 9:57:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39272534847
+claimed_at: 2026-10-19T14:57:17.041Z
 decision: null
 decision_answer: null
 ---
