@@ -1,7 +1,7 @@
 ---
 id: T-2865
 title: 1625's south side wall's eave brought down to the print's 10.9 m (its top storey, the front's corner and gable foot and the hip over it), and the rear section's cornice, windows, attic curb and dormer re-read at their re-solved heights on the McBirney camera
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2847
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1088
 claimed_by: run 10/19/2026, 8:02:31 AM CT
 blocked_on: null
 needs_bake: false
