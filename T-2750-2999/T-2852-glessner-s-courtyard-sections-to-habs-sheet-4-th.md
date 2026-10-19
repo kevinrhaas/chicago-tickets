@@ -1,7 +1,7 @@
 ---
 id: T-2852
 title: Glessner's courtyard sections to HABS sheet 4: the apron and finial silhouette and frame stock, the stair tower's plan-against-section place and radius ruled, the terrace coping's terminal at the post, the hood's gutter and fascia projection; rebaked and the three habs04 match records closed
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2761
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 6:36:08 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T12:01:47.859Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39245212958
 claimed_at: 2026-10-19T11:36:08.182Z
 decision: null
