@@ -1,7 +1,7 @@
 ---
 id: T-2649
 title: Confidence view persists and shows a HUD legend: choices saved to localStorage chicago4d.confidence and carried across destinations, and a legend chip under the year chip while the view is on
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-604
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-19
 pr: 1061
 claimed_by: run 10/18/2026, 3:44:11 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T15:05:10Z
 claimed_run: null
 claimed_at: 2026-10-18T20:44:11.412Z
 decision: null
