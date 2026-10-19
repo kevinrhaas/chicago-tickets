@@ -242,3 +242,4 @@ T-2783 — 1835 and 1812 prairie, part 1: the far prairie past flora.js's near r
 T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty
 T-2824 — Phone boot upload pass: draws rejected before the first shadow map (sampler2DShadow on unit 0)
 T-2864 — Season setting in every year: 1812 and 1835 get spring, fall and winter for woods, prairie, ground and sun
+T-2878 — One run per house at a time: ticket.mjs claim refuses a 1904 house ticket while that house has a live claim, a ticket in review or an open PR, and list --workable marks the row HOUSE BUSY
