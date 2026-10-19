@@ -1,7 +1,7 @@
 ---
 id: T-2544
 title: 1812 Prairie's front detail from the Levy photograph: the balcony over the projection, the third storey's arched windows and fanlight, the stone lower storeys under the brick upper wall with its stone bands, and whatever the first piece's match record left open on the front (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1884
 opened: 2026-10-15
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 5:39:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T22:43:08.439Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39335896424
 claimed_at: 2026-10-19T22:39:55.704Z
 decision: null
