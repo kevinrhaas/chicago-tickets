@@ -1,5 +1,15 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 11:00 UTC.**
+
+Final code **668e48180cfa20fe48b594041fcc0c0e2499ee72** remains clean/pushed/frozen; tested treebeeb06e4a, full1,015-step preflight and postcommit checks PASS. PR1041 DRAFT/unmerged; user authorizes ordinary dev merge only when green. No production ticket closures or photo/riding acceptance.
+
+Fresh installed browser session27009 **FINISHED0**, completedtrue/errors[], all6actual traces PASS and same camera/normal restoration PASS. Browser/server CLOSED, no GPU activity. Actual calls: tint287/287; reconstructed40%ghost325/325; X-RAY313/313. Source/published flora SHA bb9582... and smoke2b435d...; full checkout668e/build668e bound. Three card materialflagsTRUE, allotherfloraFALSE; actual drawn ghost cards oneDoubleSide submission each; directcallANDtriangle sums exactly matchstats inall6samples. Genericghosttriangleoverages REMAIN (3,481,961 row;3,649,433XRAY vs3,470,000); no universal visiblecard/pixel/photo/wholebudget claim. Fullreceipt SHA107173ba42d75059e88d5adca630bff9d03dacd813f2f72ba59fb9ab52fa05f4 andsourcehelpers saved central `hair-normal-precision-2026-10-19/final-668e-qualification/fresh-installed-draw-proof/`.
+
+All19 final qualification workflows are already dispatched once: canonical39240880624 plus18smoke IDs in completed receipt `/workspace/shared/transport-smoke-dispatch-c02-668e48180.json`. DO NOT redispatch. ONE metadata-only observer46559 remains ACTIVE; `/workspace/shared/final-668e-metadata/observer.json`/latest.json, stdout `/workspace/shared/final-668e-metadata-observer.log`. Latest10:59:36 snapshot10running/9queued, no missing IDs, automaticmoving-frames/gate pending. No duplicate observer. Observer never reads logs/artifacts and alwaysmarkscoverage/mergeunproven. Runtime network policy stillspec1/customhosts[]; detailedactualassertionunion and unresolved prior512fmovingfailure require allowed log access. Saved draftREV16 already includes exactdeniedhost16; user notified Review/Save/Publishneeded. No denied retries/relays or old logwatchers untilactualpolicychange.
+
+Follow10:57/10:56 handoffs below for all paths and release details. Next: await actual final-headchecks/canonical+18smoke terminal; inspect actual evidence and requiredchecks, preservecentralcheckpoint. Merge into dev only after completeGREENqualification; noadmin/force/directdevpush. App muststayunchanged duringfinalCI. Next horse exporter source is still revisingoutsideapp; actualcandidate/export/heavy checks remainHELDpendingrootreview/release even though localbrowserclosed.
+
 **CURRENT HANDOFF — 2026-10-19 10:57 UTC.**
 
 Final code remains **668e48180cfa20fe48b594041fcc0c0e2499ee72**, clean/pushed, full1,015-step preflight and postcommit checks PASS. App frozen. PR1041 DRAFT/unmerged. User authorizes dev merge only when green.
