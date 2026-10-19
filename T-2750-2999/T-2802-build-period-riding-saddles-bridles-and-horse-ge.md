@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root portable riding rein correction 2026-10-19 10/19/2026, 10:28:23 AM CT
+claimed_by: continuing parallel period transport team 10/19/2026, 1:49:19 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T15:28:23.271Z
+claimed_at: 2026-10-19T18:49:19.852Z
 decision: null
 decision_answer: null
 ---
