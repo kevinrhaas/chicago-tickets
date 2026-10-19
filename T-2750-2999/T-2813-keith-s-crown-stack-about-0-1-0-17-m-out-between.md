@@ -1,7 +1,7 @@
 ---
 id: T-2813
 title: Keith's crown stack: about 0.1-0.17 m out between the lattice's foot and the head band (a shallower K10 moulded course first), rebaked, the Glessner-front and Florian cameras re-solved and tools/keith_crown_stack.py re-run, closing the Glessner-front lattice item
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2751
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 7:47:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39181936203
+claimed_at: 2026-10-19T00:47:29.884Z
 decision: null
 decision_answer: null
 ---
