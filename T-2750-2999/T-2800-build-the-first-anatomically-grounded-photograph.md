@@ -83,3 +83,12 @@ The outside ear-root candidate `26027c225b0c2f3c6ed72543cb2e80238196a86815b7bb91
 This is export/rest-data proof, not posed collision, gear-fit, visual or photographic acceptance. The independent mapping failure and its semantic-ownership diagnosis are preserved. Before collision execution, source review identified post-skinning float32 rounding above the unchanged 1e-8 predicate scale and an incomplete baseline negative-control guard. A separate checker revision is being prepared with binary64 world coordinates and the complete known negative cohort. No actual candidate capture/SAT/gear/browser check has run.
 
 Source, both builds, validation receipts and failures are saved under `evidence/period-transport-2026-10-18/hair-normal-precision-2026-10-19/final-668e-qualification/`. The candidate remains outside frozen PR1041 (`668e48180`); photographic master and production acceptance remain open.
+
+
+## Measured progress — 2026-10-19 11:56 UTC
+
+After independent precision and negative-control review, ONE CPU idle0 capture/check ran against outside candidate26027c22 and parent090be8. The externally bounded trial stopped after19.05seconds with checker exit1. All12 known baseline strict source-owner negatives were detected exactly once. Candidate head/ear internal scope completed:2,960triangles,4,428 certified source edges,14,698 raw SAT contacts each proven confined to an owned source point, zero proper crossings and zero unexpected contacts.
+
+The broader head-versus-all-rest scope FAILED at its first genuine head/neck penetration and remains incomplete. Candidate head triangle2055 is retained sourceface33 (baseline2061); neck triangle690 is unchanged. Independent source mapping confirms identical source ownership, actual world triangles and strict intersection witness in both parent and candidate. A pre-existing penetration remains a failure; it is not waived by the successful internal scope. No retries, repairs, gear checks, other poses, browser view or app installation ran.
+
+Full failed trial archive SHA256e838ce94800efcb9f108cb8b78435283c9425f74e78bac47fdfa0fbda0ed89f7, separate source-owner diagnosis SHAb7ff11d02b590d5d51adc85a502544cf21ad3d15d5433aacb480e29ac6f751fe and independent assessment are saved in final-668e-qualification. Next geometry work must repair the source-owned neck portal, preserve the protected48 head attributes or explicitly amend their scope, and requalify actual geometry. Photographic/production acceptance remains open.
