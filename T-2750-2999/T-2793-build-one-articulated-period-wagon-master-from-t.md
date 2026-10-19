@@ -61,3 +61,8 @@ Reviewed original tapered octagonal spokes and1.2mm board/stave chamfers are int
 ## Measured progress — 2026-10-19 08:26 UTC
 
 Combined PR1041 is committed and pushed at `f97ee94970385d35f469c449c6b111b0d8488057`, reconciled with dev c7770e99. Full local preflight passed 1,012 checks, and the remote required gate and canonical human workflow passed. The final 18-leg published desktop/mobile smoke matrix is running at that exact head; merge to dev remains conditional on all remaining checks and strict coverage. No production ticket closure. The separate C02 door/body portable package and actual browser proof remain saved for a later PR; construction/photo acceptance is still open.
+
+
+## Measured progress — 2026-10-19 10:13 UTC
+
+Saved implementation checkpoint512f4a7e3 is pushed, including reviewed C02 and devfb6a; fullpreflight1015/0 and postcommit checks pass. PR1041 remains draft: earlierf97 desktop13 failed draw331/330 and HUD31.23%/10; current targeted actual512f camera trace passes tint287,rowghost327,XRAY316 twice each, but does not reproduce331 or qualify wholematrix. HUDmeasurement correction is uncommitted under actualdiagnosis; no finalmatrix/merge yet. Wagon photographic/period/production acceptance remains open.

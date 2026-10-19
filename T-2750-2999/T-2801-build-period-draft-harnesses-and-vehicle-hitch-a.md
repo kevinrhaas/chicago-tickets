@@ -80,3 +80,8 @@ Four-part chest repair committed/pushed1cbcfb84e after full1007-step preflight a
 Current PR1041 baseline gear 45930f41 / horse 89b048b7 retains its 63-pose whole-horse four-part clearance proof: minimum 5.113260 mm, zero tested surface intersections. Outside next pair 078ed2ce / b880 has a fresh minimum 5.488604 mm for the four guarded parts; all 36 gear parts against the changed body patch have zero tested crossings and positive 3.254303 mm minimum, which is explicitly not a 5 mm claim for all gear. Corrected socket cap registration and six actual attachment overlaps pass, with all prior failed trials preserved.
 
 The new actual views still show unaccepted pad/girth gaps, thick layered straps and unsupported static trace/rein rods. Vertex stand-off reaches about 54 mm; no acceptable upper-gap threshold or containment claim is invented. Loaded tack, dynamic reins/contacts, continuous motion, historical construction and photographic fit remain open. Both current and next-pair receipts are saved under the central transport evidence; next-pair bytes remain outside PR1041.
+
+
+## Measured progress — 2026-10-19 10:13 UTC
+
+Installedgear45930f41... remains the current validated baseline: fourchangedparts over63actualwholehorse idle/walk/trot samples0propercrossings,minimum5.113260mm; other32parts unchanged. Next-only078gear versus connectedhead854/090 FAILED firstidle with262rawSAT/258strictpairs; laterposes untested and no reroute accepted. Head-ear root repair source work is separate; no newgear installed and no pressurefit/containment/loadedtack/photo acceptance.
