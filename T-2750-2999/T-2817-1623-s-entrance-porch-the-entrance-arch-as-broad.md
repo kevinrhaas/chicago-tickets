@@ -1,7 +1,7 @@
 ---
 id: T-2817
 title: 1623's entrance porch: the entrance arch as broad as the window's (about 1.85 m) springing from about 3.4 m, the door and stoop about 1.3 m north of its axis at the back of the porch, and the landing's iron guard; K01 rebaked and the match record's entrance and guard rows closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2779
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 1:14:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39207208980
+claimed_at: 2026-10-19T06:14:08.095Z
 decision: null
 decision_answer: null
 ---
