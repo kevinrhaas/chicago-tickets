@@ -1,7 +1,7 @@
 ---
 id: T-2787
 title: K01 carries a K08 tower: a round or octagonal tower on grade against a wall, standing past the main eave with its cap over the main roof, its back closed in the wall's plane above the eave, and the main eave, cornice and gutter stopped against it; refused where it would sit under the eave, and held by the contract check (the kit piece 1801 Prairie's move needs)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2539
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: 1031
 claimed_by: run 10/18/2026, 11:56:14 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T07:41:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39146724739
 claimed_at: 2026-10-18T16:56:14.106Z
 decision: null
