@@ -1,7 +1,7 @@
 ---
 id: T-2848
 title: Glessner's photographs lit as taken: each photographic reference camera (cornell-northwest-west-windows, habs-01, habs-13, habs-14, habs-15, habs-16, habs-17, and taylor-2135-ne's existing sun checked) given a sun_uvy read off its own lit walls and cast shadows, re-rendered, and each match record's lighting difference closed or stated with what the picture cannot show
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2761
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1079
 claimed_by: run 10/19/2026, 4:18:15 AM CT
 blocked_on: null
 needs_bake: false
