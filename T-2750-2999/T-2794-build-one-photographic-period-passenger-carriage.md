@@ -51,3 +51,10 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+
+## Latest measured checkpoint — 2026-10-19 04:52 UTC
+
+Open C01 rounded cushions are committed in PR1041 finalcandidate e1b31c070; it remains an engineering development model. Separate reconstructed1904 C02 enclosed carriage and real hinged door are prepared OUTSIDE the app. Latest exact-source archive c02-door-mechanical-repair-review.tar.gz SHA256 fb10f0e2f9dd624831b0bf24ef9e533832dc9c847fd343721034e3703de2743a has11512triangles, deterministic/Khronos0/0 closed/open exports, eight new desktop/mobile images and zero actual moving-vs-fixed surface intersections at15 sampled angles with no exclusions. Earlier visual and full-triangle mechanical failures are retained. Whole continuous sweep, passenger fit, photographic/period-construction review and production integration remain open. Pullman ownership/subtype are unproved; dimensions/details are original reconstruction. No production closure.
+
+Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.

@@ -84,3 +84,10 @@ running. No actual resident exports or photographic/driver acceptance yet.
 
 
 Combined source checkpoint: work now lives in PR1041 at9cc7b9ac8 (full local998/0 and postcommit checksPASS). PR1046 is a preserved authoring source checkpoint; canonical resident qualification remains pending, and this retarget does not close production acceptance.
+
+
+## Latest measured checkpoint — 2026-10-19 04:52 UTC
+
+Combined authoring source is committed/pushed at e1b31c070bfb11d99331aa3d903023cf9865940c in PR1041 (full preflight1006/0 and postchecks PASS). Actual pinned Blender run39196464162 at9e25 passed all three resident raw-normal and source-UV seam guards at unchanged0.001; zero bad corners/seam groups, max deltas6.96794e-5/5.86337e-5/5.86337e-5. Master/export steps completed; pipeline FAILED at the next hierarchy-control sibling import. The explicit script-directory import fix plus six actual-entrypoint/control tests is committed at e1. Corrected canonical39200379231 and18 published smoke legs are pending at that frozen head. Hierarchy/hair/Khronos/loaded-browser and photographic acceptance remain open; artifacts remain inaccessible under current unapplied network draft. PR1046 is a preserved source checkpoint, not a separate merge target.
+
+Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.

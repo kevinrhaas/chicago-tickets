@@ -54,3 +54,10 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Parallel checkpoint — 2026-10-19
 
 Additive grounded engineering trot integrated into app WIP, exact regeneration and bare-horse browser sole checks pass. Clip dropdown reads actual duration/stride. Transition/stop blend FAILED actual sole -22.9mm; world-foot IK replacement in progress outside app. No riding/hitch-trot acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
+
+
+## Latest measured checkpoint — 2026-10-19 04:52 UTC
+
+Grounded trot and loop-continuous preview are committed at PR1041 finalcandidate e1b31c070. World-foot IK stop/start/change work is now an OUTSIDE portable20-clip proposal plus exact10-phase stop references. Stable finite-player source archive09de08f and corrected browser evidence53932072 are saved centrally:30 finite cases x101 actual poses passed desktop AND mobile numerical and recovery/lifecycle checks; original first-RAF negative-delta failure is retained, with corrected short actual-RAF/captures passing. Unchanged sole guards remain strict. Starts/gaitchanges route through neutral, not direct constant-speed blends. Arbitrary-phase/turning/occupied/tack/hitch-trot acceptance and app integration remain open.
+
+Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.
