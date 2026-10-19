@@ -1,7 +1,7 @@
 ---
 id: T-2830
 title: Keith's 1965 porch view: the slide's 1.25-1.35 factor at the loggia tested by fit against the slide's optics (pitch, lens distortion, principal point), the bow's heights and the loggia's plan, and Nickel 1967 read as a third picture of the loggia beside the bow
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2814
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1055
 claimed_by: run 10/18/2026, 8:03:34 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T02:13:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39181942737
 claimed_at: 2026-10-19T01:03:34.329Z
 decision: null
