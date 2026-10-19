@@ -1,7 +1,7 @@
 ---
 id: T-2784
 title: 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty
-state: review
+state: done
 epic: FLORA
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: 1106
 claimed_by: run 10/19/2026, 10:14:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T23:41:29Z
 claimed_run: null
 claimed_at: 2026-10-19T15:14:05.955Z
 decision: null
