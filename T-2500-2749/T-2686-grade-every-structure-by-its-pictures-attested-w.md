@@ -2,7 +2,7 @@
 id: T-2686
 title: Grade every structure by its pictures: Attested when a reasonable picture of it exists, Inferred when only maps or text record it, Reconstructed when our model of the town placed it; the 1835 streets drawn on the plat are Attested
 state: done
-epic: PROVENANCE
+epic: META
 requested_by: owner
 seen: true
 effort: M
