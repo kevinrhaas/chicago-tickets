@@ -1,7 +1,7 @@
 ---
 id: T-2760
 title: Glessner's west-court access levels: the west-wing courtyard door's 1.77 m sill and the descending areaway on HABS sheet 2 reconciled with the sections and the dated alterations, and the courtyard views reviewed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2228
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1076
 claimed_by: run 10/19/2026, 3:12:44 AM CT
 blocked_on: null
 needs_bake: false
