@@ -42,3 +42,7 @@ T-2849 closed the stable gable's centring, dovecote, corbels and keystone hoist,
 - the cupola's stone landing ledges run unbroken round its corners in the Cornell print (the model stops them short);
 - the cupola's stone shaft stands taller above the roof in both northwest prints;
 - the pyramid's covering, like the whole roof, reads slate against the model's red tile (house-wide).
+
+## Found by T-2873 (2026-10-19): the 18th Street stack's vertical layout
+
+With the north stack widened to HABS 14's 7.1 ft (T-2873), its widths match the photograph row by row (126-131 px through the stones against 125-134), but three heights do not. (1) The gable's coping meets the stack's sides at about row 326 in HABS 14 and row 292 in the render: 34 px, about 20 px past the camera's own 14 px stack-crest offset, so roughly 1.5 ft lower than built. (2) The 1886 stone stands about 0.6 ft lower under the device's stone (a gap of about 13 px in the photograph against 5 in the render). (3) The two crosses read level at the 1886 stone's mid-height in HABS 14 (rows 311 and 315 on a stone at 302-326) but stepped in photograph 4 (the east one near the stone's foot, the west one near its head), which is the reading the record's 44.15 and 44.95 ft carry (L-glessner-datestone-2214). Rule each against HABS 14, photograph 4 and HABS 01, build or argue it, rebake, and close HABS 14's stack-layout item. Filed here because the queue stood at its 140-line ceiling.
