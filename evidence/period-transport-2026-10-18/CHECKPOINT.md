@@ -1,5 +1,15 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 11:05 UTC.**
+
+Final code668e48180cfa20fe48b594041fcc0c0e2499ee72 unchanged/clean/pushed/frozen. Full1,015-step preflight+postcommit+fresh6drawsample browser+normalrestoration PASS, browser/serverCLOSED; see11:00details below. PR1041 DRAFT/unmerged; dev merge authorized ONLY when actual final qualification green, no production ticket closures.
+
+Final19workflows already dispatched once. ONE metadata observer46559 ACTIVE at `/workspace/shared/final-668e-metadata/`; latest11:04:37 snapshot4SUCCESS/11running/4queued, no failures or missing IDs. DO NOTredispatch or duplicateobserver. Final-head automatic moving-frames job118020695718 metadata proves the previously failing walk/turn/fly/ride step nowSUCCESS; its phoneGPUrelease step stillRUNNING. Maingate pending. Detailedactualassertion-union/artifact content remainsUNPROVEN; no source changes or acceptance from metadata alone.
+
+Runtime policy read AGAIN11:05:16: observed/spec1, observationscurrenttrue, restricted/customhosts[]. DraftREV16 stillunapplied. Do NOTretry deniedlogs/artifacts, oldlogwatchers or relays until actualpolicychange. Completecheck run metadata is allowed. All current proof/dispatch/sourcehelpers plus11:05metadata andlive moving-step receipt saved under central final-668e-qualification.
+
+Next-only sourceanalysis isolates actual FIRSTidle0gear failures: cheekpiece_l67/67 raw/strict, cheekpiece_r63/63, browband92/88, noseband40/40; crownpiece0/0onlyonepose. Total262/258;62remainingposesUNTESTED. Fourqualifiedbodygearparts remainseparate/protected. Exactinputhashes/triangleIDssaved next-headgear-source-analysis, no geometry/fit acceptance. Revised outside ear-root exporter source independently reviewed with index/seam/bounds/materialowner/root-headpalette guards; awaiting final archivedhash+boundedplan before root mayrelease ONE fresh source/audit/export-local trial. No actualcandidate or exporterexecution yet; no dense63sweep/browser/app edits authorized. This nextwork mustNOTchange final668e mergecandidate.
+
 **CURRENT HANDOFF — 2026-10-19 11:00 UTC.**
 
 Final code **668e48180cfa20fe48b594041fcc0c0e2499ee72** remains clean/pushed/frozen; tested treebeeb06e4a, full1,015-step preflight and postcommit checks PASS. PR1041 DRAFT/unmerged; user authorizes ordinary dev merge only when green. No production ticket closures or photo/riding acceptance.
