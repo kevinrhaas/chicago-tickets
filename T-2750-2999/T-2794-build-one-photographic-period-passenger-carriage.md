@@ -68,3 +68,8 @@ Minimal reviewed reconstructed1904 C02 is now installed and saved in pushed512f4
 ## Progress — 2026-10-19 15:18 UTC
 
 Normal-only cc469f corrects measured cushion normal symmetry while retaining every position/index/rig attribute; actual A/B still shows the corner mark. Shadow ON/OFF diagnostic was inconclusive because the visible cached shadow remained despite render-pass costs changing. Preserved all three outcomes and the explicitly UNRESOLVED integration in github-backup-1518. A source-reviewed material-refresh control repair is authorized next; no visual acceptance.
+
+
+## Progress — 2026-10-19 15:42 UTC
+
+Actual corrected shader-refresh control proves shadow contribution to corner starburst. Actual geometry/ground-fitted2048 shadowfrustum removes the mark in tested original/fitted/door70 views, retaining enabled shadows/light/bias/geometry/rendercost and exactrestore. Root viewed matchedPNGs. New optional dc110d integration preserved; actual installedpage/gates and photographicquality remain open.

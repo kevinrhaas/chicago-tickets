@@ -143,3 +143,8 @@ New cheek/throat shape 57d63e passed the single bounded idle0 structural/gear ch
 ## Progress — 2026-10-19 15:29 UTC
 
 Root inspected matched cheek57d frontquarter before/after and whole/profile images: modest cheek improvement but coarse eye/ear/body/limb/mane and open-mouth silhouette remain. Visual archive0ea4 and root review saved in github-backup-1529. Connected eye/orbit/eyelid source proposal now underway, qualified ab70 baseline unchanged. Complete declared source closure6f10 now preserved with exact licenses,153pins, twoauthor audits and root247member safety/hash audit; clean-machine replay remains unrun.
+
+
+## Progress — 2026-10-19 15:42 UTC
+
+New eye e578 passes one bounded idle/fullhead3410-neck1492-mane456/all36gear check, Khronos0/0. Protectedhalo initial pre-export refusal preserved and concretely corrected by excluding three protected nonboundary neck neighbors.16matchedframes remain VISUALLY UNACCEPTED: olive/buttoneye and inherited wideopenmouth. Root actually inspectedtightorbitbefore/after+profile. Next neutral bit-carrying mouth source investigation, no motionbaseline/appchanges.

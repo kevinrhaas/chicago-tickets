@@ -78,3 +78,8 @@ Outside-app timber A/B candidate `9af2109f…` passed common-camera framing and 
 ## Whole-wagon finish result — 2026-10-19 14:38 UTC
 
 Outside-app filtered candidate `464e430d…` passed12actual desktop/mobile matched A/B captures, keeping23draw batches and an estimated6MiB decoded mapped texture memory with mipmaps. Root inspected the actual bench image: finer irregular grain improves the flat baseline, while photographic timber, cut ends/hubs and optical calibration remain open. Earlier48MiB and regular-comb candidates are preserved as unaccepted. An original bounded fastener refinement is now under development, with no changes to current release09a.
+
+
+## Progress — 2026-10-19 15:42 UTC
+
+Frozen09a is already pushed. PR1041 merge still blocked on remaining mandatory workflows plus contradictory required-step metadata in two otherwise successful jobs39266459095/39266463876. Aggregate, single refresh and direct immutable job details all retain published-test in_progress/postpending. Preserved evidence in github-backup-1542. No finalv6/merge/waiver. A source-only exacttwo-attempt2 freshqualification plan is being reviewed; no rerunPOST yet.
