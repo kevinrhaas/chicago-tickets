@@ -1,7 +1,7 @@
 ---
 id: T-2856
 title: Glessner's north pairs' jambs and mullion read through the re-solved HABS 13 and 14 cameras (the photographs show lights about 2.8 ft wide and a colonnette about 1.3 ft against the plan's 1.9-ft pier), the gable stack's panel and the north tower finial brought to the photographs; rebaked and both match records' north items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2850
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 9:01:54 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39264498509
+claimed_at: 2026-10-19T14:01:54.685Z
 decision: null
 decision_answer: null
 ---
