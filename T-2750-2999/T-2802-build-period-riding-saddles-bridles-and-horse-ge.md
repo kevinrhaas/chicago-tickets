@@ -54,3 +54,8 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Parallel checkpoint — 2026-10-19
 
 Outside-app original reconstructed 1835 saddle/bridle geometry checkpoint archived. Static rein endpoint mismatch10.957mm and unfinished visual shape retained; no rider/period/photo acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
+
+
+## Progress — 2026-10-19 15:29 UTC
+
+Portable riding-rein candidate a457874a appends glTF root/head skinning to the two existing reins with exact source geometry/BIN prefix. Actual Three checks PASS84 rows (21 walk samples, both sides, identity/transformed parent); max bit residual1.92e-8m/hand3.40e-8m and old10.957mmfailure reproduced. Deterministic, Khronos0errors/2explicit NODE_SKINNED_MESH_NON_ROOT warnings; first36zero-slot warnings preserved and concretely corrected. No collision/rider/ab70/physical-force/period/photo acceptance or app installation. All source/results in github-backup-1529/riding-rein-skin-endpoints-2026-10-19.tar.gz; final independent readback pending.

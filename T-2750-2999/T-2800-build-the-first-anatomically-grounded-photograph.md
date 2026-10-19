@@ -138,3 +138,8 @@ Full source, model and evidence package `bbbe96f7…` plus authority packet `1cd
 ## Progress — 2026-10-19 15:18 UTC
 
 New cheek/throat shape 57d63e passed the single bounded idle0 structural/gear check with 379 moved vertices, unchanged rig/indices and 19.7675mm maximum displacement. Visual/anatomical acceptance and moving poses remain open. Source and actual proof are preserved in github-backup-1518. Immutable ab70/fe76 is starting eight quarter poses; the 63-pose grid remains conditional on all eight complete passes.
+
+
+## Progress — 2026-10-19 15:29 UTC
+
+Root inspected matched cheek57d frontquarter before/after and whole/profile images: modest cheek improvement but coarse eye/ear/body/limb/mane and open-mouth silhouette remain. Visual archive0ea4 and root review saved in github-backup-1529. Connected eye/orbit/eyelid source proposal now underway, qualified ab70 baseline unchanged. Complete declared source closure6f10 now preserved with exact licenses,153pins, twoauthor audits and root247member safety/hash audit; clean-machine replay remains unrun.

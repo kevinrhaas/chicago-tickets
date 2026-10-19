@@ -121,3 +121,8 @@ Full source, model and evidence package `bbbe96f7…` plus authority packet `1cd
 ## Progress — 2026-10-19 15:18 UTC
 
 The new 57d63e anatomy variant clears all 36 unchanged fe76 harness parts at idle0 in the bounded strict check. This does not qualify moving fit/pressure. Motion qualification continues on immutable ab70/fe76, first eight quarter poses then conditional 63-grid. Complete external replay closure is being assembled separately; bbbe terminal archive alone is insufficient.
+
+
+## Progress — 2026-10-19 15:29 UTC
+
+Reviewed nonindexed capture correction enabled actual walk0. Complete structural head/neck/mane scopes PASS, then all36-part check found70proper breeching crossings ONLY against original right upper hind limb (tenfaces1620..1633); other35parts clear. FirstfailureSTOP: zero fullyqualifiedposes, remaining7/full63 NOTRUN, bitvolume not reached. Preserved e0c1 archive and exact70 ownership/witnesses. Capture-only63 now explicitly diagnostic to derive swept-hull breeching route, not fit approval.
