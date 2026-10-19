@@ -1,7 +1,7 @@
 ---
 id: T-2650
 title: Confidence view overlays: street names, building labels, people pins and the Jaunt route, each with its own toggle at the foot of the app
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: NAV-605
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-18
 pr: 1050
 claimed_by: run 10/18/2026, 4:10:47 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T01:10:32Z
 claimed_run: null
 claimed_at: 2026-10-18T21:10:47.838Z
 decision: null
