@@ -1,7 +1,7 @@
 ---
 id: T-2824
 title: Phone boot upload pass: draws rejected before the first shadow map (sampler2DShadow on unit 0)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 9:42:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-19T14:42:10.480Z
 decision: null
 decision_answer: null
 ---
