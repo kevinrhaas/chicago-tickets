@@ -237,7 +237,6 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-2608 — Navigator arrival: a two-line year readout, DESTINATION 1904 · PRAIRIE AVE above the ticker from first paint and the ticker rolling from the present year down to the destination, with the 'Destination year' label removed
 # BLOCKED-OWNER T-2670 (opened 2026-10-16, META) — Student playtest: 6-8 students, three tasks (find a house, learn who lived there, tell Attested from Reconstructed), 80…
 #     waits: needs the owner to arrange 6-8 students aged 14-16; a run can prepare the task cards and observer sheet once T-2663 (tour) and T-2637 (Glessner pilot) have merged
-T-2809 — 1835 fruit trees: the fort's company-garden fruit trees and currants, and Dr. Harmon's young sod-fenced orchard by the lake
 T-2810 — 1835 river woods: wild grape curtains on the river-facing edge, and a few snags and fallen logs in the wet woods and gallery
 T-2783 — 1835 and 1812 prairie, part 1: the far prairie past flora.js's near ring reads as flat paint; add a mid ring of cheap grass cards and a grass-coloured, streaked ground so the near ring has no visible edge, held in every tier's ceiling and the 1835 frame
 T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty

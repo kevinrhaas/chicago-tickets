@@ -1,7 +1,7 @@
 ---
 id: T-2809
 title: 1835 fruit trees: the fort's company-garden fruit trees and currants, and Dr. Harmon's young sod-fenced orchard by the lake
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2767
 opened: 2026-10-18
-closed: null
+closed: 2026-10-18
 pr: 1067
 claimed_by: run 10/18/2026, 8:26:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T03:37:51Z
 claimed_run: null
 claimed_at: 2026-10-19T01:26:01.938Z
 decision: null
