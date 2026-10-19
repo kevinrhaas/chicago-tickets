@@ -1,7 +1,7 @@
 ---
 id: T-2834
 title: iPhone page stops right after a building card opens: the first card drew every liberty (28k nodes) into the hidden panel
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 10:14:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-19T03:14:28.138Z
 decision: null
 decision_answer: null
 ---
