@@ -20,6 +20,11 @@
       "file": "default-orchestrator-original-failure.json",
       "sha256": "c926b33c111848acafe2d92335a7aa09cb5fe3aa002be8ef823be004cf528924",
       "bytes": 319
+    },
+    {
+      "file": "c02-portable-next-pr-source-proof.tar.gz",
+      "sha256": "a185e7cf0105a04b772d5f690cebb2b645f7557a00ad262bd97c2f8405849aab",
+      "bytes": 971610
     }
   ]
 }
