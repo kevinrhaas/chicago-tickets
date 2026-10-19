@@ -85,3 +85,10 @@ The new actual views still show unaccepted pad/girth gaps, thick layered straps 
 ## Measured progress — 2026-10-19 10:13 UTC
 
 Installedgear45930f41... remains the current validated baseline: fourchangedparts over63actualwholehorse idle/walk/trot samples0propercrossings,minimum5.113260mm; other32parts unchanged. Next-only078gear versus connectedhead854/090 FAILED firstidle with262rawSAT/258strictpairs; laterposes untested and no reroute accepted. Head-ear root repair source work is separate; no newgear installed and no pressurefit/containment/loadedtack/photo acceptance.
+
+
+## Measured progress — 2026-10-19 11:42 UTC
+
+The saved first-idle failure is now isolated by actual part and witness triangle: left cheekpiece 67 raw/67 proper pairs, right cheekpiece 63/63, browband 92/88 and noseband 40/40; crownpiece has zero in this one row. Total 262 raw SAT pairs and 258 proper crossings. The other 62 poses remain untested for this failed pair. Exact input hashes and triangle IDs are in the central `final-668e-qualification/next-headgear-source-analysis/` receipt.
+
+These head straps are separate from the four qualified breastcollar/support/pad parts. The new ear-root candidate has only source/export/rest-data checks so far; it has not renewed any gear-fit proof. The proposed next repair follows actual cheek/orbital, frontal and muzzle contours while preserving unaffected parts, widths, thicknesses and attachments. No reroute, containment, loaded fit, full-motion or photographic acceptance is claimed. Current application gear and ticket state remain unchanged.

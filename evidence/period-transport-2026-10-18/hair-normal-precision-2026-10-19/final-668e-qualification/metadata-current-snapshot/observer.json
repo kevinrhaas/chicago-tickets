@@ -104,7 +104,7 @@
     "merge readiness"
   ],
   "latest_snapshot": {
-    "at": "2026-10-19T11:30:36.945769+00:00",
+    "at": "2026-10-19T11:42:36.774237+00:00",
     "sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
     "pr_head": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
     "pr_head_matches": true,
@@ -2208,5 +2208,5 @@
       "scope": "Job/step metadata only; no logs or artifact inspection"
     }
   },
-  "metadata_requests": 157
+  "metadata_requests": 205
 }

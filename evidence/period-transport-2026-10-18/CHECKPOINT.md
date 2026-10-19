@@ -1,5 +1,13 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 11:42 UTC.**
+
+The application is clean and frozen at **668e48180cfa20fe48b594041fcc0c0e2499ee72**. PR1041 is draft and unmerged. All 19 final qualification workflows were dispatched once; the single metadata observer is session46559, writing `/workspace/shared/final-668e-metadata/`. Latest snapshot 2026-10-19T11:42:36.774237+00:00: {'success': 17, 'pending': 2}. Main gate, full moving-frames/phone check, automatic humans/report and canonical human/resident-master workflow are green. Remaining smoke runs still block merge. Do not redispatch or start another observer. No browser or local gate is running.
+
+When all 19 finish successfully, run the reviewed **v3** normal release verifier from the 11:31 handoff below, with a fresh output directory. It checks actual mandatory test steps, exact dispatch/run sets, source hashes and current PR/check state. Normal merge into dev is authorized when those checks pass. Passed stdout and artifacts remain uninspected; strict log-union coverage stays unproven. Do not retry denied hosts or bypass branch rules.
+
+Horse tickets T-2800/T-2801 now record the reproducible outside candidate, independent rest checks, precise failed headgear parts and all remaining limits. Candidate26027c22 is still unaccepted and outside the application. The first idle checker was never executed; its float32 capture and incomplete negative-cohort guard are being corrected in a preserved revision before any actual collision run. Full source review is saved centrally. No new horse fit, pose, browser, photographic or production acceptance is claimed.
+
 **CURRENT HANDOFF — 2026-10-19 11:31 UTC.**
 
 PRIMARYapp668e48180cfa20fe48b594041fcc0c0e2499ee72 clean/pushed/FROZEN, treebeeb06e4. Full1,015-step preflight+postcommit+freshinstalled6drawsamples/restorationPASS; no browser/server/gate active. PR1041 DRAFT/unmerged. ALL19finalworkflows alreadydispatchedONCE; SINGLEmetadataobserver46559 active/workspace/shared/final-668e-metadata; latest2026-10-19T11:30:36.945769+00:00:{'success': 17, 'pending': 2}. Maingate/moving-framesFULL/automatichumans/reportSUCCESS; canonicalhumans+residentmastersworkflow39240880624alsoSUCCESS(allmandatoryactualstepscheckedOFFLINE). Remainingselectedsmokes PENDINGBLOCKmerge. No redispatch/duplicateobserver.

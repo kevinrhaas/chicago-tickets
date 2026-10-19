@@ -74,3 +74,12 @@ A new isolated ear-shape proposal is being compared with actually viewed, cleare
 ## Measured progress — 2026-10-19 10:13 UTC
 
 Installed baselinehorse89b048 remains unchanged in pushed512f4a7e3. Next-only connectedhead090be8 material variant removes blackstripe but still inherits actualhead-ear selfcontacts and fails unchangedbridle fit; no nextgeometry installed. Concrete ear-root sourceproposal eebdefc39f2c... independently reconstructs44barycentric knots. Root approved22skull/18leaf amendment overexact6skullface complements with48protectedattributevectors unchanged; generator/test authoring outsideapp only, actualgeneration/fullSAT/browser held during town qualification. Sourcechart is not generated/animated/photo proof.
+
+
+## Measured progress — 2026-10-19 11:42 UTC
+
+The outside ear-root candidate `26027c225b0c2f3c6ed72543cb2e80238196a86815b7bb910744cbc65cb23ed3` now has two byte-identical builds (GLB, manifest, export proof and authority). Actual Khronos validation reports zero errors, zero warnings and 50 informational notices. Independent decoded checks confirm 11,452 triangles, six primitives, 15 skin joints, valid indices/bounds/unit normals/weight sums, unchanged original position/joint/weight prefixes and protected document. All attributes of the 48 protected head vertices remain exact; the only old normal changes are the declared 22 coat and 18 inner-ear ring vertices.
+
+This is export/rest-data proof, not posed collision, gear-fit, visual or photographic acceptance. The independent mapping failure and its semantic-ownership diagnosis are preserved. Before collision execution, source review identified post-skinning float32 rounding above the unchanged 1e-8 predicate scale and an incomplete baseline negative-control guard. A separate checker revision is being prepared with binary64 world coordinates and the complete known negative cohort. No actual candidate capture/SAT/gear/browser check has run.
+
+Source, both builds, validation receipts and failures are saved under `evidence/period-transport-2026-10-18/hair-normal-precision-2026-10-19/final-668e-qualification/`. The candidate remains outside frozen PR1041 (`668e48180`); photographic master and production acceptance remain open.
