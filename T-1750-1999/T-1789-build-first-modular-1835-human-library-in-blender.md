@@ -96,3 +96,8 @@ Durable inputs, failed receipts and current recovery instructions: `evidence/per
 ## Measured progress — 2026-10-19 05:48 UTC
 
 Actual canonical run39200379231 on e1b31c070 reached measurement: all three normal probes, hierarchy/import controls, declared animation times, hair and 24 Khronos container checks passed. Twelve source/web LOD0/1 resident exports lack eyeBlinkLeft, eyeBlinkRight and jawOpen (36 findings), so measurement refuses output and detailed contact/framing inspection is not reached. Root is repairing actual facial morph authoring with cleared compatible sources and unchanged limits; no figure or photographic acceptance. Terminal evidence: evidence/period-transport-2026-10-18/combined-dev1920-2026-10-19/human-e1-normal-morph-failure-summary.json.
+
+
+## Measurement diagnosis correction — 2026-10-19 05:57 UTC
+
+The prior CI report was not evidence that body targets were absent: tools/human_fixture.html enumerated only the first skinned mesh, now hair. The installed minimal fix enumerates all skinned meshes and preserves exact morph defaults without changing the required names or >1mm movement threshold. Actual-source Three.js canaries reproduce the original reader failure and pass corrected mesh orders; missing/no-op targets still fail. The actual resident target arrays and detailed quality remain pending corrected canonical CI. No source-quality expression replacement is part of this fix.
