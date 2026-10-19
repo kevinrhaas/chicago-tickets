@@ -1,7 +1,7 @@
 ---
 id: T-2835
 title: Keith's loggia column ruled at its built 2.2 m: the late pictures' principal glass read at the middle light's head (the top lights blind by 1965), Nickel 1967's capital top re-read, and the three pictures' columns read on the bow's own sill-to-string-course span
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2831
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1071
 claimed_by: run 10/18/2026, 11:46:22 PM CT
 blocked_on: null
 needs_bake: false
