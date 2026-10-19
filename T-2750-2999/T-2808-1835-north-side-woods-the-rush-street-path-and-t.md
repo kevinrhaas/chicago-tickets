@@ -1,7 +1,7 @@
 ---
 id: T-2808
 title: 1835 North Side woods: the Rush Street path and the Green Bay road cut two rods wide through them
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2767
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1053
 claimed_by: run 10/18/2026, 4:55:26 PM CT
 blocked_on: null
 needs_bake: false
