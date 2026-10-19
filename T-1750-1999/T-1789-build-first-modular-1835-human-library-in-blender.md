@@ -120,3 +120,10 @@ Namedresident authoring remains in pushed512f4a7e3, with canonical32fixtures/48s
 Outside the frozen application, separate 1812 John Kinzie the elder age49 and 1904 John Glessner age61 CC0 body preparations and strict identity/date/role adapters are backed up. Appearances and numerical body choices remain reconstructed. Glessner is eligible only for standing/walking/passenger demonstrations; the separate 1902-text-bounded worker jacket does not identify or clothe him. The original 1835 builder remains unchanged.
 
 These parcels are authoring arrays and unexecuted Blender adapter source, not canonical exports, photographic people or scene placements. Actual human artifact delivery/inspection remains blocked by unchanged environment artifact-host access.
+
+
+## Era wardrobe authoring — 2026-10-19
+
+1812 John Kinzie the elder now has an actual age49 body preparation and four original shirt/waistcoat/trouser/shoe authoring components (19,881 faces).1904 John Glessner has a separate mature61 body and thirteen original civilian garment components (5,408 faces). Both source/array/identity guards passed independent review; all cuts, colors, dimensions and outfit combinations remain explicit reconstructions. No historical likeness or driving event is asserted.
+
+These are unexecuted canonical-authoring adapters, not Blender masters, exported GLBs, collision-qualified clothing, photographic people or scene placements. Opt-in canonical build/export integration source is next; original1835 builder defaults remain exact.
