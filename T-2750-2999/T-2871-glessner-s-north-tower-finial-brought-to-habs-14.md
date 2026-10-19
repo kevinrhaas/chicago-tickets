@@ -35,3 +35,7 @@ When T-2869 was split (2026-10-19T15:04:06.336Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39272534847) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2870 (2026-10-19): the north stack's face and date stones read wider in HABS 14
+
+On the re-solved HABS 14 camera, with the stones rebuilt for T-2870, the photograph reads the stack's face about 124 px across at the stones' height (x 912-1036) against the render's 92, the upper stone 75 px (x 938-1013) against 49 and the lower 78 against 56, while every height agrees within a few pixels (the stones 25 and 23 px; the crest about 12 px lower in the photograph, as the camera's own stack-crest control already reads 15 px off). The stones' shares of the face agree (0.60-0.63 against 0.55-0.61), so it is the face (built 5.1 ft) that disagrees, not the stones' layout on it. A camera error does not easily scale widths about 1.35 times and leave heights alone, so rule the face's width against HABS 14, sheet 6 and photograph 4, build or argue it, and close HABS 14's T-2872-labelled stack-width item (filed in its match record under this ticket's number). Filed here rather than as a new ticket because the queue stood at its 140-line ceiling.
