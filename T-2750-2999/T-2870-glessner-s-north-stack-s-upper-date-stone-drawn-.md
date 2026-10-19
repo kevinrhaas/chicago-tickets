@@ -1,7 +1,7 @@
 ---
 id: T-2870
 title: Glessner's north stack's upper date stone drawn as HABS 14's joined device - two outward-facing bowls each closed by a stem and joined by a bar at mid-height, about 0.43 of the stone wide and 0.53 high (read at the photograph's grain), not plain AD set in a font; rebaked and HABS 14's stack-panel item closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2869
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1094
 claimed_by: run 10/19/2026, 10:04:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T18:53:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39272534847
 claimed_at: 2026-10-19T15:04:16.498Z
 decision: null
