@@ -98,3 +98,10 @@ Resolved dev conflict is committed and pushed at `aedc80126c6178376d3fb60f40297b
 ## Progress — 2026-10-19: pushed aedc branch, CI setup failure
 
 PR1041 remains open and unmerged at pushed, clean aedc80126. Local full preflight passed 1,017 checks and 377 refusal self-tests. Canonical human build and auxiliary attempt2 passed. One selected smoke job failed Playwright installation before publication or application assertions; annotations establish exit1 but not its cause. Original failure is retained, no test waived, and a source-only once-only diagnostic recovery plan awaits review. Merge remains conditional on actual green checks and fresh exact-head/dev verification.
+
+
+## Measured progress — 2026-10-19 20:55 UTC
+
+Transport source f2f607b0 passed all18 selected published renderer workflows and5 normal workflows; final V10 source/job audit passed. A subsequent real conflict with dev a139 is resolved and independently audited across all15,933 index paths. Full local preflight is still running; the resolved merge is not committed or merged yet. Fresh full renderer qualification is planned for the changed runtime. No photographic or ticket acceptance is claimed.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.

@@ -76,3 +76,10 @@ New b870 saddle covers pass readback, wood-cover and complete idle horse interse
 New saddle 83f7b0b9 passes the two original negative controls, actual export/readback, Khronos (zero errors; two inherited skin warnings), idle capture and all 29 self-embedding scopes. Assembly fails at pair 185/301: left quarter crosses the original stirrup leather. Whole-horse checks did not run. Saved-array diagnosis also finds both original leather routes crossing jockeys and irons. Failure archive afe90d47 is preserved.
 
 The next source scope includes both leather routes (16 changed/13 protected parts); geometry trial is not released. Credible attachment/routing and any required small layer amendment need explicit source review. No proper crossing is waived and no riding/photo acceptance is claimed.
+
+
+## Measured progress — 2026-10-19 20:55 UTC
+
+Root-peel saddle candidateff905fee passes all7 negative stages, source/readback/Khronos/capture and all29 self scopes. The inherited billet/root crossing is repaired. Assembly stops at pair308/328 on an unclassified raw leather/iron contact with no strict-proper witness;307 pairs are complete, remaining assembly/whole-horse/visual checks are unrun. Full failure77429dc5 is preserved; exact source-owned contact diagnosis continues without waiver or automatic retry.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.

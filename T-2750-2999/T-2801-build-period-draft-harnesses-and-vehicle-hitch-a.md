@@ -141,3 +141,10 @@ The original ab70+3bb45 sampled-fit run continued through the executor interrupt
 ## Sampled-fit milestone — 2026-10-19 16:40 UTC
 
 The original ab70+3bb45 run completed all63 selected poses successfully in2456.2018s:21eachidle/walk/trot, includingclipendpoints. All2268namedgearpart/pose checks report zero raw/proper intersections. Authorstoredreadback rehashed1575actualartifacts, source inventories and11archives. Finalindependentstoredreview is pending; no rerun. Nineimmutablechunks plus terminalcontrols are backed across the current GitHub evidence batches. This establishes sampled fit only; continuous collision, foot grounding, forces/pressure, vehicle traces and photographic acceptance remain open. Ticket remains active.
+
+
+## Measured progress — 2026-10-19 20:55 UTC
+
+Combined fitted-rear plus corrected-girth gear43bc48a5 passed idle source/decoded/dimension/self checks, all35 interpart comparisons and all36 parts against the whole horse. Independent stored audit replayed all76 inner faces/523 certificate leaves (maximum29.895mm under the declared30mm bound). Upper ends remain38.3–44.3mm away from existing hardware and explicitly unbound. Matched visual capture is active; new motion, complete hitch and photographic acceptance remain open.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.

@@ -127,3 +127,10 @@ These parcels are authoring arrays and unexecuted Blender adapter source, not ca
 1812 John Kinzie the elder now has an actual age49 body preparation and four original shirt/waistcoat/trouser/shoe authoring components (19,881 faces).1904 John Glessner has a separate mature61 body and thirteen original civilian garment components (5,408 faces). Both source/array/identity guards passed independent review; all cuts, colors, dimensions and outfit combinations remain explicit reconstructions. No historical likeness or driving event is asserted.
 
 These are unexecuted canonical-authoring adapters, not Blender masters, exported GLBs, collision-qualified clothing, photographic people or scene placements. Opt-in canonical build/export integration source is next; original1835 builder defaults remain exact.
+
+
+## Measured progress — 2026-10-19 20:55 UTC
+
+Named1812 Kinzie-the-elder and1904 John Jacob Glessner source studies are committed/pushed at2726042ad in draftPR1099. Full local1018-step preflight passed, but actual canonicalCI39314363829 failed in master/export authoring after source/body reproduction and fixture verification passed. Exact exception remains unknown because logs/artifact redirects are blocked. An independently reviewed diagnostics-only patch is ready, preserving original exceptions and all normal thresholds. Native2048 middle-aged/older PNG skin sources and rights/atlas compatibility evidence are acquired separately; no new canonical model/likeness/photographic acceptance.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.

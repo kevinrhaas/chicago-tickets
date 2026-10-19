@@ -80,3 +80,10 @@ Supported bench and named sit_drive authoring committed/pushed09a3ad1d4;1016loca
 ## Progress — 2026-10-19 15:59 UTC
 
 Root corrected Otis proposed page source/published data+assetbase using actualproject resolveBases and fixed nonexistentThree/build import. Threeactualresolverlayoutcases/queryoverrides+independent sourcereviewPASS; full sourcefca804 backed. Actualapprovednamed4LODbytes/hashes remainunavailable and notsubstituted. Useraskedapplyalready-preparedcloudnetworkdraft16; no blockedassetdownload retry/relay oractualperson/render/driverfit acceptance.
+
+
+## Measured progress — 2026-10-19 20:55 UTC
+
+Named1812/1904 source studies in draftPR1099 preserve identified records and appearance reconstruction limits. Kinzie currently supplies standing/walking studies; Glessner standing/walking/passenger, with no invented coachman assignment. Actual export build failed and is being diagnosed. Existing1835 named seated-driver authoring remains historical input evidence; occupied rider/driver fit, real rein grip, scene placement and riding/boarding are not accepted.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.

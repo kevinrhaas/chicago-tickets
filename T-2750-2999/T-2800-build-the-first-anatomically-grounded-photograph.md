@@ -155,3 +155,10 @@ New eye e578 passes one bounded idle/fullhead3410-neck1492-mane456/all36gear che
 Candidate e173bb8608a90e94a4f998e65ec9e09b2d2880d8639f2b1dc756f87815f485f8 passed one fixed 72.085-second trial and independent stored audit fa466871. Eight complete head/neck/mane/mouth structural scopes report zero strict proper or unexpected SAT contacts; owned contacts remain explicitly counted. All 36 harness parts clear the actual horse. Actual bit-side unsigned clearance minimum is 1.105 mm; virtual caps are analysis only. The original metadata-loss refusal is preserved and corrected by retaining the primitive's existing provenance fields. Full archive 0cbb3a06 is centrally backed up.
 
 This qualifies one idle pose. Matched appearance review, anatomical/photo quality, motion, LODs and production acceptance remain open; no asset is installed or ticket closed.
+
+
+## Measured progress — 2026-10-19 20:55 UTC
+
+Natural-labial candidate419a6194 passed one complete idle engineering trial, including all8 structural scopes, all36 gear parts and full bit checks. Corrected horse-only and bitted desktop/mobile matched captures both passed and were actually viewed. The rectangular opening and stacked lip bands improved; blunt muzzle, weak lip seam and polygonal nostril remain below natural/photographic acceptance. Source-only anatomical refinement continues; motion of this variant is unqualified.
+
+Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `github-backup-204639`. Ticket remains open; no status/claim/PR association changed by this evidence note.
