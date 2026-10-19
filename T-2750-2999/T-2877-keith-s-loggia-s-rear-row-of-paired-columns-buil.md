@@ -1,7 +1,7 @@
 ---
 id: T-2877
 title: Keith's loggia's rear row of paired columns built as the 1888 plate and Nickel 1967 show it (its depth and whether free or engaged ruled), rebaked, and every reference view of keith_house_1808_prairie reading matches with nothing open, with T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2875
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 2:31:24 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-19T19:52:12.899Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39310732937
 claimed_at: 2026-10-19T19:31:24.458Z
 decision: null
