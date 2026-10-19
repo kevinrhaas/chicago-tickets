@@ -55,3 +55,10 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Development checkpoint, 2026-10-18
 
 See `evidence/period-transport-2026-10-18/fit-followup.md` and `CHECKPOINT.md` for the pushed code revision, measured progress and remaining gates. These are bounded original development studies; no photographic-quality, complete physical-fit or production acceptance is claimed. T-2795 work is dependency exploration while its master/gear/gait acceptance remains unfinished.
+
+
+## Broader measured follow-up — 2026-10-19 05:00 UTC
+
+Actual shared-surface shoulder V1 eliminated detached caps topologically but rendered as an angular/webbed sheet: VISUALFAIL/unapplied. V2/V2b ellipse variants had actual self/body or collar collisions; V2c was CPU-safe but still visually webbed. All source/16capture/failure archives retained. Approved next LOCAL forechest sculpt permits declared torso changes while protecting head/neck, skeleton, clips, sockets and lower/sole positions. First localforechestV1 passes sampled body/self/topology/Khronos/sole checks but gear fit FAIL; exactbaseline controls identified preexisting strap crossings rather than blaming all newbody. Bare-body diagnostic review and independent original-baseline gear repair are separate outside-app lanes. No photographic/anatomical or production acceptance.
+
+See `evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/` and `CHECKPOINT.md` for exact recovery. Queue/state unchanged.
