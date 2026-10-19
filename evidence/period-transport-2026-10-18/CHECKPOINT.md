@@ -1,5 +1,15 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 12:00 UTC.**
+
+PRIMARYMERGE: all19 at668e succeeded, but actualdev49fc advance caused3generatedconflicts. PR1041 remainsDRAFT/unmerged. AppMIDMERGE HEAD668e plusorigin/dev49fc. Broad --resolve FAILED at unrelated network raster download measure_north_branch_banks.py; failure saved /workspace/shared/transport-dev49fc-merge/rederive-resolve.log, no retry/bypass. Safer source-owned downstream rebuild `node tools/rederive.mjs --tail tools/compile_liberties.py` ACTIVEsession99320: first59-step lap completed, secondconvergence lap nowrunning. It starts at earliestaffectedcompiler and includes all downstreamsteps; fullgate remainsmandatory. Only3unmerged outputs changed beyondcleanincoming99pathmerge; no human/transport/flora/smoke changes.3staleIGNORED/untrackedGlessner caches refreshedfromnewcommittedverifiedarchive; no baking/packing.
+
+Next: wait99320exit0 AND terminal convergence 'last one moved nothing', stage3generatedconflicts; ordinaryticketreconcilebaseorigin/dev then scene-tail/publish perPIPELINE, fullpreflightbeforecommit. Source8pinnedfiles unchanged. Commit/pushnormalfeaturebranch; dispatchFRESHall18smokes andcanonical viaexistingparameterizedscripts onceatnewfullSHA. Newmetadataobserver needsNEWoutfolder; old46559completed0, donotrestart. Incoming1904/manifests/sourcecatalogs/libs/changelog mean no provencompleteinput-equivalence; independentassessment recommendsfreshall19. Do not reuse668easfinalheadproof.
+
+FinalverifierNEWv4 rootread/reviewed/source-onlyOFFLINEtestsPASS, NOTexecuted: /workspace/shared/verify_normal_dev_gates_v4.py SHA3749953bbd38afb938f0ba7cd635c6f18687b03a24adf1162d72057ea55cc434. REQUIRES--sha FULLNEW40SHA,--dispatch NEWRECEIPT,--canonical NEWRECEIPT,--terminal-jobs NEWOBSERVERFILE,--out FRESHoutsidefolder,--verify. Same45sboundednormalGETcode/metadata, all19actualmandatoryjobs/steps/exactsets/freshPRdevcleancheck. Oldv3preserved. granularreport_ci_steps_passed maytruebutoverallfalseondevconflict. Strictstdoutcoveragealwaysfalse/unproven, artifactsuninspected. Afterfreshgreenordinaryready/exactSHAconditionalsquashintodev, verifystate; noproduction.
+
+NEXTONLYhorseactualidletrialFAILED asdocumented; candidate26027remainsUNACCEPTEDoutsideapp. Independentface33/headneckcrossingconfirmedunchangedfromparent; notwaived. NEWsource-onlyneckring8proposalarchive94c5df0d saved here,7normal/-O syntheticcontrols; noactualgeneration/export/capture/SAT/lambdachoice/feasibilityclaim. Allhead/ear/protected48/rig/gearheld; futureproposalneedsreviewandseparatereleasebeforetrial.
+
 **CURRENT HANDOFF — 2026-10-19 11:56 UTC.**
 
 All19 final668e qualification workflows AND actual mandatory jobs/test steps SUCCESS; observer46559 completed0 and final receipts saved here. However final normal verifier correctly FAILED: PRbase metadatafb6 versus actualdev49fc8540089679188b3205f31a03d74812457b46, and PRmergeablefalse/dirty. This is an ACTUAL merge conflict, not missing log access. PR1041 remains draft/unmerged. Never publish the prepared green body or merge request claiming audit passed.
