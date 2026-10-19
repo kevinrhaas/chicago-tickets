@@ -50,3 +50,9 @@ HUD footprint budget: the HUD covers 10 % or less of a 390x844 viewport and resp
 T-2741's street readout under the compass (on by default) put the phone HUD at 12.1 %. Asked: toast it, don't count it,
 shrink it, or raise the budget. Owner: **"Keep it up; don't count it"** — the 10 % budget is measured without readouts the
 visitor can switch off; the readout's own share is reported beside the figure (#971).
+
+## Owner's ruling (2026-10-18): the Confidence legend chip is not counted
+T-2649's legend chip (#conf-legend, 81x22 px under the year chip) shows only while the visitor
+has the Confidence view on. With it on, the phone HUD measured 10.46 % of 390x780 (9.81 %
+without it). Ruling: "Don't count it." Like T-2741's street readout, the 10 % budget is measured
+without it, and its share is reported.

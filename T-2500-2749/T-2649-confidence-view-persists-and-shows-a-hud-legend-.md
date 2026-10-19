@@ -44,3 +44,9 @@ While the view is on, a small legend chip sits under the year chip; tapping it o
 - [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
 - [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+
+## Owner's ruling (2026-10-18): the Confidence legend chip is not counted
+T-2649's legend chip (#conf-legend, 81x22 px under the year chip) shows only while the visitor
+has the Confidence view on. With it on, the phone HUD measured 10.46 % of 390x780 (9.81 %
+without it). Ruling: "Don't count it." Like T-2741's street readout, the 10 % budget is measured
+without it, and its share is reported.
