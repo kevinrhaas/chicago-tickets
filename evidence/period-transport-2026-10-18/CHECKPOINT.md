@@ -1,5 +1,8 @@
 # Session recovery checkpoint — 2026-10-18
 
+
+**MATERIAL REVIEW UPDATE - 2026-10-19 14:20 UTC.** Root inspected actual9af/baseline desktopbench: modestgrainimprovement, broad/soft/notphotographic. Eightcapture archivebac7 hashverified andsaved in next-visible-parcels-2026-10-19/material-review-1420; missingconsolelistener limitationpreserved. Wholewagonfinishnextoutsideapp. Envsole09aobserver74152 continues; auxiliaryoptionalbake skipclassification sourceaudit underwayforoutside successorverifier, all19selectedruns remainmandatorysuccess. Noappedit/redispatch.
+
 **CURRENT RELEASE HANDOFF - 2026-10-19 14:11 UTC.**
 
 MAIN CLEAN/PUSHED/FROZEN at09a3ad1d4af7c87c5026de1077497d8a04a5a562, tree5e0bfad5fd30b322596efd469ab4dcc3f962c63d. Actualdevgeometryfe414 merged; actualcurrentdev ee199 is3filechangelogfold-only andservermergeabletruepre-dispatch. FullpreflightPASS1016steps/377refusalselftests, changelog+IDPASS. Savedactualexit0/alltranscriptsPASS; toolwrapperreported1anomalyretained. Testedstagedtreeunchanged, committedordinarymerge TicketT2793; postcommitchangelog/ID/publishPASS104.26MB; worktreeclean/pushdone. Supportedbench actualpublisheddesktop/mobile8viewsPASS; namedv2installed10bodytests+actualsupported/baselinehash/cleanupguardPASS. ActualcanonicalclothedseatedresultPENDINGCI. Do NOTeditappduringqualification.

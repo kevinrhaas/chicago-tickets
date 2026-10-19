@@ -66,3 +66,10 @@ Combined PR1041 is committed and pushed at `f97ee94970385d35f469c449c6b111b0d848
 ## Measured progress — 2026-10-19 10:13 UTC
 
 Saved implementation checkpoint512f4a7e3 is pushed, including reviewed C02 and devfb6a; fullpreflight1015/0 and postcommit checks pass. PR1041 remains draft: earlierf97 desktop13 failed draw331/330 and HUD31.23%/10; current targeted actual512f camera trace passes tint287,rowghost327,XRAY316 twice each, but does not reproduce331 or qualify wholematrix. HUDmeasurement correction is uncommitted under actualdiagnosis; no finalmatrix/merge yet. Wagon photographic/period/production acceptance remains open.
+
+
+## Progress — 2026-10-19 14:20 UTC
+
+Supported W01 bench and named-driver authoring are committed and pushed at `09a3ad1d4`; full local preflight passed 1,016 steps and the published bench passed desktop/mobile views. PR1041 remains draft while its 19 selected qualification runs complete. No photographic ticket closure.
+
+Outside-app timber A/B candidate `9af2109f…` passed common-camera framing and geometry checks; root inspected actual desktop bench comparisons. Grain improves the flat baseline but remains broad/soft, and the full wagon still needs coherent wood, paint and iron detail. Eight actual captures are saved in `evidence/period-transport-2026-10-18/next-visible-parcels-2026-10-19/material-review-1420/`; the browser helper lacked a console listener, so console-error absence is unproven. Existing procedural maps have cleared project provenance; they are not photographic scans. A whole-wagon finish candidate is being developed outside the frozen release.
