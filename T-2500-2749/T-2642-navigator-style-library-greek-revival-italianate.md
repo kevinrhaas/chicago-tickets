@@ -45,3 +45,5 @@ module by their `style`.
 - [ ] Locked terms used exactly: Attested, Inferred, Reconstructed, Confidence view, Liberties, Sources, Jaunts.
 - [ ] Every element id the smoke reads is preserved, or the smoke is updated in the same PR.
 - [ ] A changelog.d/<ticket>.json entry says what a visitor will see, within the What's-New budget.
+
+**2026-10-19.** Part 1 is PR #1065 (branch claude/t2642-style-library-v2): Second Empire and Italianate, four sourced cues and a public-domain plate each, on 1900, 2115 and 1834 Prairie. Left out for want of a source: Greek Revival (only the 1853 courthouse and the 1836 Clarke House, which is excluded from 1835, are named in it); Queen Anne (Chicagology calls 1919 Prairie Queen Anne, which conflicts with the district marker); Chicago School (no such building in either scene). A research pass on those three is under way, and the owner decides the rest.

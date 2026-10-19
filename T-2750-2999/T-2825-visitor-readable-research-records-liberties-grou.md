@@ -76,3 +76,5 @@ Researcher mode only:
 titles carry production wording, for example "…, K01 frontage assembly" and "…map-led altered house".
 They show on the card and in the target tag. T-2650's overlay labels take only the title's lead
 phrase, so they are clean, but the titles themselves are within this ticket's scope.
+
+**2026-10-19.** Part 1 is PR #1064 (branch claude/t2825-readable-records): every compiled research record (liberties, ground, exclusions, open questions, order book, completion audit, population profile, census, Sources) is in plain words, and check_visitor_ui.py reads them on a `records` surface, with an empty allowlist. Part 2 (claude/t2825-readable-records-2) covers what part 1 did not reach: the person card, plants and wildlife, the rest of the Shops & work card, the "tier N" labels, the City tile's hover text and the 1904 card titles. The ticket stays open until part 2 merges.
