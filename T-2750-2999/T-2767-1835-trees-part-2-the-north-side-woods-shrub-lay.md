@@ -46,3 +46,7 @@ Kevin asked (thread "1812/1835 tree cover", 2026-10-18) for plants beyond the do
 - **Shrubs that read at distance**: as instanced templates past flora.js's near ring, not only inside it.
 
 Hold every tier's detail ceiling, 1835 memory and the town_backyard frame.
+
+## Open after T-2809: Harmon's sod fence
+
+T-2809 planted Dr. Harmon's orchard (`data/flora/plantings/harmon_orchard_1835.json`, its plot and fence line in `clears_local_enu_m`) but did not draw the sod fence Kinzie saw him building in 1831: `renderers/web/js/enclosures.js` draws timber fences only, with one wood material. The fence wants a turf-bank fence type there (a low trapezoid of sod, grass on top, earth on the faces) and an enclosure record for the plot. Not filed as its own ticket because the queue is over its ceiling; whoever next works the enclosure layer or 1835 trees should take it.
