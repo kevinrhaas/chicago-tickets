@@ -1,7 +1,7 @@
 ---
 id: T-2828
 title: 1904 on the owner's iPhone dies walking up to the Glessner front at Light and Sharpness 1: the tab was killed about 5 s into a walk from the 18th Street spawn across Prairie Avenue (last at 1390,-3220, 741 textures, 550k triangles), found and fixed against the phone memory ceiling
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 7:46:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39181929840
+claimed_at: 2026-10-19T00:46:40.886Z
 decision: null
 decision_answer: null
 ---
