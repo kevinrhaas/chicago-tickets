@@ -161,3 +161,12 @@ Transport e5 mobile complete coverage is green. Desktop stage5 balanced West pra
 Fresh current-local six-stand/two-viewport/three-tier sweep timed out at480s after27valid rows (all18desktop,6mobilefull,first3mobilebalanced). These are retained partial diagnostics, not a complete36-row sweep or canonical CI. Continuation is being prepared without changing source. Current full/balanced West readings exceed old caps under fresh measurement; light remains within1.19m in measured rows. Do not apply the earlier +30k balanced-only proposal; it is superseded. No causal claim attributes the whole measurement difference to upstream trees.
 
 `ci379-and-transport-repairs/sha256.json` records archived actual failure logs, source-grounded timing proposal, readiness proposal, pricing-source review and partial probe receipts. App remains clean379 until live pricing finishes. Existing named residents remain first choice; anonymous fallback only without a suitable existing person.
+
+
+## Complete split pricing; authored timing fix in preflight
+
+The mobile continuation completed exit0 with9rows. Combined validator confirms36unique finite rows, exactly2viewports x3tiers x6stands. Global worst triangles: full3,449,919/balanced2,607,952/light1,154,091, all at desktopWestprairie. Worstcalls occur separately at desktopLakeandMarket:319/314/89. Original18,059/full and16,806/balanced absolute margins, rounded up5k, yield3.47m/2.625m candidate caps; light1.19m unchanged. These are split diagnostic measurements, not completed canonical smoke coverage. See combined36.md and reviewed-sha256.json.
+
+Root applied the authored-only zero-origin exporter option, strict declared-time metadata audit/pre-browser wiring and diagnostics on the human branch. Focused16frame/wiring+10audit+12sole tests pass. Fullpreflight is RUNNING, code uncommitted until green. Actual new resident exports remain required. No Blender locally.
+
+Concrete W01 removable bench/footboard geometry and existing-resident bindings are now saved outside app: resident-wagon-driver-draft-reviewed.tar.gz. Baseline output remains byte-identical; generatedstudy9240triangles/23meshes includes reconstructed cleats/fasteners/footboard/supports and3sockets. Actualexportcorners/supportcontacts and sampledwheelclearances were checked. Pose/cloth triangle contacts, construction/historical and visual acceptance remain open. Root has not integrated this proposal.
