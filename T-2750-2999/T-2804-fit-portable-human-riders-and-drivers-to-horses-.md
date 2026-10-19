@@ -52,3 +52,10 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+
+## Existing-resident driver study — 2026-10-19
+
+Outside-app W01 proposal includes reconstructed removablebench/footboard with actualsurface sockets and source-body sit_drive poses bound to rc_bardwell_otis/rc_dufresne_joseph/rc_flynn_martin. Their existingidentity/scene/grade/bodyhashes are retained. The old W01driver socket was not an installedseat and is not used as seating proof. Baselinewagon output remainsbyte-identical without explicitstudyoptin.
+
+A proposed canonicalbuilder clip converts sourceglobal poses through actual Blenderrestbases, preserving idle/walk unless explicitly enabled. Pure source FK/LBS tests preserve seat/feetcontact throughindependent restrollframes; no actualBlender/export/clothtriangle/palm/rein/continuousmotion or photographic acceptance. Horse-mountedrider remains unimplemented, no saddle substitute invented. This is saved developmentwork under dependencies, not a completed driver/rider ticket or a new scene placement. Latest archivedproposal: evidence/period-transport-2026-10-18/ci379-and-transport-repairs/resident-wagon-driver-draft-latest.tar.gz.

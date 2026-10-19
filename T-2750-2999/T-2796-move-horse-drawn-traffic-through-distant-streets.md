@@ -50,3 +50,8 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+
+## Current traffic pricing constraint — 2026-10-19
+
+The complete split fresh diagnostic (36unique rows, sixstands xthreetiers xtwoviewports) measures Light's global worst at1,154,091triangles and89drawcalls. The strict limits remain1,190,000triangles and90calls; general330callbudget does not override Light's separatefloor. Only1call/35,909triangles remain at the sampledworst. The measurements contain no newtownhumans or movingtraffic; full/balanced repricing buys no unmeasured futureactors. Before adding traffic, measure sharedmaterials/instancing/LOD costs and actual savings, then qualify completepublished desktop/mobile coverage. Existing placedstaticwagons remain intact. Receipts: evidence/period-transport-2026-10-18/ci379-and-transport-repairs/combined36.md.
