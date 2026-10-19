@@ -1,7 +1,7 @@
 ---
 id: T-2879
 title: Glessner's courtyard plan-against-section ruled on sheet 2's printed 47'-2" chain (12'-6" + 12'-0" + 10'-0" + 12'-8"): the bow and the stair tower kept on the plan, sheet 4's court offset (its 26'-10" range drawn 26.19 ft deep; the bow's flanks 0.64-0.71 ft north) and its 11.1-ft tower drum measured against the printed 10'-0", and the terminal post's 0.4-0.84 ft disagreement traced to the two frames, written into the record, the research and habs04-terrace-section
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2860
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1101
 claimed_by: run 10/19/2026, 2:30:47 PM CT
 blocked_on: null
 needs_bake: false
