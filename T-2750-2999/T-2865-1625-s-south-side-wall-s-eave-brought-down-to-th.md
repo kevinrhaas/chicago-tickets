@@ -1,7 +1,7 @@
 ---
 id: T-2865
 title: 1625's south side wall's eave brought down to the print's 10.9 m (its top storey, the front's corner and gable foot and the hip over it), and the rear section's cornice, windows, attic curb and dormer re-read at their re-solved heights on the McBirney camera
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2847
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 8:02:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39250098546
+claimed_at: 2026-10-19T13:02:31.407Z
 decision: null
 decision_answer: null
 ---
