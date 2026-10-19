@@ -1,7 +1,7 @@
 ---
 id: T-2832
 title: Shops & work: the 94 authored firms' cards fetch businesses/<id>.json, which 404s; the record lives under businesses/authored/
-state: claimed
+state: review
 epic: RENDERING
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1077
 claimed_by: run 10/19/2026, 2:52:42 AM CT
 blocked_on: null
 needs_bake: false
