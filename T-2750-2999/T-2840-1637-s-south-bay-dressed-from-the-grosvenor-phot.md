@@ -1,7 +1,7 @@
 ---
 id: T-2840
 title: 1637's south bay dressed from the Grosvenor photograph: the capitals' and consoles' carving, the frieze's ovals and the arches over the lights, the cheeks' lights (a K08 light shallow enough for a 1.0 m cheek), the shutters at the window over it and the front light's place weighed; and the Grosvenor record brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2781
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 3:25:10 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39318316917
+claimed_at: 2026-10-19T20:25:10.432Z
 decision: null
 decision_answer: null
 ---
