@@ -1,7 +1,7 @@
 ---
 id: T-2810
 title: 1835 river woods: wild grape curtains on the river-facing edge, and a few snags and fallen logs in the wet woods and gallery
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2767
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1093
 claimed_by: run 10/19/2026, 7:02:43 AM CT
 blocked_on: null
 needs_bake: false
