@@ -34,3 +34,12 @@ When T-2838 was split (2026-10-19T09:17:47.360Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39227105060) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Handoff from T-2846 — 2026-10-19
+
+T-2846 re-solved the McBirney camera (`data/reference_views/house_1625_prairie/inland_architect_front.json`) on the main south wall's level lines: the eave's shadow (column profiles at x 438-522, slope 1.20) and the two top-floor side heads (x 451, y 407; x 483, y 447), with the sheet's depths. The eye is now 28.7 m in front of the stone face, 8.4 m south of the south wall, at 1.0 m (f 1108 px, principal [757, 756]); the front plane is unchanged. On it:
+
+- **The main south eave is 10.9 m, not 13.0.** It meets the corner pier at y 374 in the front's own plane, which no camera choice moves. The pier's top (y 286, 13.2 m) and the gable stand over it. The match record reopens T-2730's eave item on this.
+- **The rear section's heights**, read on the new camera: its cornice 10.9 m (y 486), lower window about 3.4-5.9 m (y 623-690), upper 7.75-9.7 m (y 518-572), the dormer's sill about 11.6 m and its sash's head 13.4 m, the curb about 14.3 m, and a transom light over the door's leaf (y 731-745). The eye's height is soft (0.5-1.3 m); each 0.4 m of it moves these by about 0.15 m.
+- **The main roof's south slope carries a dormer** (x 440-505, its hood about y 340-360) that is not built.
+- **Found too, and added here because the queue is at its ceiling:** the main south wall's windows. On the new camera the top floor's two side lights stand about 2.4 and 5.2 m behind the front (x 451 and 483), a stair light at about 9.4 m (x 513, 7.3-9.8 m) and the ground floor's at about 2.3 m (x 457, 1.0-2.7 m). The build has two columns at 3.8 and 10.6 m (`north_bays`). If this does not fit beside the eave in one run, split it off.
