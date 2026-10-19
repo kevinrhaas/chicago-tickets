@@ -64,9 +64,45 @@ the same way: the tool only walked where a visitor walks.
    at every Glessner distance a visitor can reach, without lowering the Glessner match records.
 3. If the owner's phone can be read again, the same walk (T-2733 fixes the tool's 1904 path) no longer kills the tab.
 
+## Second reproduction — the owner, 2026-10-19, minutes later
+
+Same phone, same build (dev@a369c613), same steps; the tab died the same way. Verbatim:
+
+```
+{"page":"mvej54gs-q5ie","year":"1904","build":"DEV PREVIEW · dev@a369c613 · Oct 18, 2026, 6:28 PM CT","start":1792370540764,"ended":null,"last":{"t":58662,"calls":94,"tris":377414,"geo":291,"tex":741,"w":375,"h":636,"ratio":1,"heap":null,"at":"1375,-3221"},"entries":[{"t":0,"k":"boot","to":"light@1"},{"t":31553,"k":"ready"},{"t":34923,"k":"pick","meshes":0,"batches":183},{"t":34942,"k":"picked","hit":"structures:merged"},{"t":37712,"k":"pick","meshes":0,"batches":183},{"t":37723,"k":"picked","hit":"structures:merged"},{"t":37730,"k":"nav","level":1,"app":"home"},{"t":39148,"k":"nav","level":2,"app":"home"},{"t":42977,"k":"nav","level":2,"app":"settings"},{"t":54616,"k":"nav","level":0,"app":"settings"},{"t":55545,"k":"pick","meshes":0,"batches":183},{"t":55573,"k":"picked","hit":"structures:merged"},{"t":56062,"k":"pick","meshes":0,"batches":183},{"t":56087,"k":"picked","hit":"structures:merged"},{"t":56596,"k":"pick","meshes":0,"batches":183},{"t":56619,"k":"picked","hit":"structures:merged"},{"t":57109,"k":"pick","meshes":0,"batches":183},{"t":57131,"k":"picked","hit":"structures:merged"},{"t":57638,"k":"pick","meshes":0,"batches":183},{"t":57657,"k":"picked","hit":"structures:merged"},{"t":58157,"k":"pick","meshes":0,"batches":183},{"t":58177,"k":"picked","hit":"structures:merged"},{"t":58685,"k":"pick","meshes":0,"batches":183},{"t":58701,"k":"picked","hit":"structures:merged"},{"t":59236,"k":"pick","meshes":0,"batches":183},{"t":59396,"k":"picked","hit":"structures:merged"},{"t":59758,"k":"pick","meshes":0,"batches":183}]}
+```
+
+**Read across the two logs:**
+
+| | first | second |
+|---|---|---|
+| boot → ready | 43.7 s | 31.6 s |
+| Read starts (Navigator closes) | 65.06 s | 54.62 s |
+| last sample | 67.74 s at 1390, -3220 | 58.66 s at 1375, -3221 |
+| last completed pick | 166 ms (69.63 → 69.80) | **160 ms** (59.24 → 59.40) |
+| page dies (last entry) | 70.15 s — **5.09 s** after the Read starts | 59.76 s — **5.14 s** after |
+| textures / geometries in the last sample | 741 / 291 | 741 / 291 |
+| triangles drawn in the last sample | 549,763 | 377,414 |
+
+- **Deterministic**: both die ~5.1 s into the Read — 0.8 s rest at the spawn, then ~4.3 s into the first walk
+  (Fixed). The walk moves ~10 m/s (20 m by 1.9 s into the walk; 35 m by 3.3 s), so the page dies **about
+  40–45 m due west of the 18th Street spawn — at `poseFor`'s 40 m turn, inside or behind the Glessner
+  House**, not at the curb.
+- **Texture and geometry COUNTS do not climb** (741 / 291 in both, and the same in the samples before), so
+  look at what grows in BYTES or in objects the counters do not see: a texture whose image is swapped for a
+  larger one in place (residency, KTX2 tier), render targets, shader programs, or an interior/occlusion
+  path that switches on when the camera is inside the house (`setGlessnerOcclusion`).
+- **A ~160 ms pick precedes the death both times**, then one more pick starts and nothing follows. Usual
+  picks are 15–25 ms. Find what that pick does differently at that pose (a program compile for a newly
+  shown mesh, an allocation, a readback stall).
+- The Read teleports through walls; a visitor walking has collision. Part of the fix is saying whether a
+  visitor can reach the state that kills the page (the Glessner front at the curb, the courtyard, flying
+  over and down into the house), and the fix must hold for every place a visitor can reach. T-2733 also
+  takes the tool's walk off this path.
+
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-- [ ] The kill reproduced as a measured over-ceiling reading on the runner (or, if the runner stays under the ceiling, the reading that shows which resource climbs toward the Glessner front), committed under `docs/measurements/`.
+- [ ] The kill reproduced on the runner at the logged poses (spawn → 40–45 m west, through the 40 m turn) as a measured over-ceiling reading (or, if the runner stays under the ceiling, the reading that shows which resource climbs toward the Glessner front), committed under `docs/measurements/`.
 - [ ] After the fix, the same path and a stop 3 m from the Glessner front read under the phone ceiling with stated margin; the 1904 smoke passes at 390x780; Glessner's photo-match records unchanged.
 - [ ] The gaze pick allocates nothing per pick (a test counts textures, render targets and materials across 20 picks).
 - [ ] The crash log's `last` gains the texture/geometry byte estimate it can read, so the next phone crash says how much was resident, not only how many.
