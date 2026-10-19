@@ -1,7 +1,7 @@
 ---
 id: T-2874
 title: Keith's loggia pairs' plan arrangement ruled between the 1965 slide, the 1888 plate and Nickel 1967 (the slide reads each pair about 8 px wider than the 0.36 m side-by-side pairs draw; a stagger of about 0.2 m in depth would carry it), built or argued; rebaked if it moves and porch-1965 brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2816
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 12:14:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39290349628
+claimed_at: 2026-10-19T17:14:40.186Z
 decision: null
 decision_answer: null
 ---
