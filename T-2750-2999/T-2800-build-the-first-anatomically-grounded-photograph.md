@@ -133,3 +133,8 @@ This is one idle pose and a short25mm reconstructed roached hair mass. Other pos
 Exact horse `ab70aff958bc8a2780458d37212be1866c730817f485fbebbf53bd3c0e3931c3` plus unchangedfe76 harness passed a complete bounded idle0 trial in36.13s. Decoded source binding and protectedrig/storage pass; all3,122head,1,492neck and456mane internal/external scopes pass; all36named gear parts against all13,226horse faces have0rawSAT/0proper contacts. Bit full-side unsigned clearance remains6.16167mm. Baseline negative crossings reproduce on the new horse; old baseline counts remain revision-specific.
 
 Full source, model and evidence package `bbbe96f7…` plus authority packet `1cdfbf43…` are backed up in github-backup-1459. The eight-pose walk/trot stage and subsequent63-framegrid are being prepared; neither has executed. Photographic anatomy/grooming, continuous motion and production acceptance remain open.
+
+
+## Progress — 2026-10-19 15:18 UTC
+
+New cheek/throat shape 57d63e passed the single bounded idle0 structural/gear check with 379 moved vertices, unchanged rig/indices and 19.7675mm maximum displacement. Visual/anatomical acceptance and moving poses remain open. Source and actual proof are preserved in github-backup-1518. Immutable ab70/fe76 is starting eight quarter poses; the 63-pose grid remains conditional on all eight complete passes.

@@ -1,6 +1,11 @@
 # Session recovery checkpoint — 2026-10-18
 
 
+**PUSH CHECKPOINT — 2026-10-19 15:18 UTC.** New github-backup-1518 preserves seven hash-verified source/model/result archives, independent reviews, fitted-horse integration plan and human readiness audit. W01 final v2 is ready outside app; install only after existing release merges. Horse cheek/throat 57d63e has ONE complete idle structural/all36gear PASS; appearance/other poses open. ab70 quarter8 motion now starting; 63 conditional on all8 PASS. C02 normal correction passes technical checks but corner mark remains; cached-shadow ON/OFF control was inconclusive and preserved. New reviewed control repair authorized. Complete equine replay closure being assembled; prior bbbe archive alone is not complete.
+
+Application09a remains clean/pushed/frozen; sole observer latest11/19success,2running,6queued,0failures. Normal exact-head dev merge remains delegated only after all19 and finalv6 proof. No photo/riding/occupied-human ticket closure. Network status stillspec1/customhostsEMPTY/stateunknown; no artifact retry/relay. This checkpoint will be committed/pushed with normal ticket sync.
+
+
 **PUSH CHECKPOINT — 2026-10-19 15:00 UTC.** UserexplicitlyreaffirmedperiodicGitHubpushes. Latest appstill09a clean/pushed/frozen; ticketspriorheaddebe7d2a waspushed, thisbatch nowbacks up6complete source/model/evidencearchives+manifest in github-backup-1459. Best functionalhorseab70+fe76 actualidle0ALLscopes/ALL36gearPASS36.13s, archivebbbe96 andauthoritypacket1cdfbf. Earlierstoragefailure0d3582preserved; exactprefixguard correction reviewed.
 
 Horse_research nowpreparing reviewed8distinctwalk/trotquarterposebatch then63gridONLYif8PASS; Float64/fullcoverage/sourcebindings/badgeometrycontrols/max4workers/firstfailurestop. NOPOSEBATCHexecutedyet. Horse_model authorizedconcretecheek/orbit/throatnewqualityvariantonqualifiedab70; report230937 referencecomparisonactuallyviewed,12–20mmfirstsculptboundsnotmeasurements; mouth/bit/nostril/rig/soles protected. Normal03884visualimprovementreviewed; independentnormal-onlyP/JWidentitymeansnoredundantSAT.

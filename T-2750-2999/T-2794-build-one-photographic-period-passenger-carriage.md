@@ -63,3 +63,8 @@ Durable inputs, failed receipts and current recovery instructions: `evidence/per
 ## Measured progress — 2026-10-19 10:13 UTC
 
 Minimal reviewed reconstructed1904 C02 is now installed and saved in pushed512f4a7e3. GLB93d402... has11512triangles,31batches,62nodes; optional paint/studio work excluded. Root actual15angle door check,5semantic hierarchy negatives,8desktop/mobile captures and measured isolation probes pass. Fullpreflight1015/0 and postcommit checks pass. Source-history quotation preserved separately from reconstructedworkingdoor. No continuous sweep/containment/occupant/boarding/photo acceptance; PR1041 remains draft pending separate town desktop/animation qualification failures.
+
+
+## Progress — 2026-10-19 15:18 UTC
+
+Normal-only cc469f corrects measured cushion normal symmetry while retaining every position/index/rig attribute; actual A/B still shows the corner mark. Shadow ON/OFF diagnostic was inconclusive because the visible cached shadow remained despite render-pass costs changing. Preserved all three outcomes and the explicitly UNRESOLVED integration in github-backup-1518. A source-reviewed material-refresh control repair is authorized next; no visual acceptance.
