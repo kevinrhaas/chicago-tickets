@@ -1,7 +1,7 @@
 ---
 id: T-2864
 title: Season setting in every year: 1812 and 1835 get spring, fall and winter for woods, prairie, ground and sun
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1089
 claimed_by: run 10/19/2026, 7:56:36 AM CT
 blocked_on: null
 needs_bake: false
