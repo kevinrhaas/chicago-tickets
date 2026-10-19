@@ -136,3 +136,8 @@ New swept-breeching3bb45 +immutableab70 actual idle0 and oldfailedwalk0 FULLPASS
 ## Progress — 2026-10-19 16:20 UTC
 
 The original ab70+3bb45 sampled-fit run continued through the executor interruption.35of63 poses have completed with all selected checks passing; the entire21-frame idle sequence is complete. Full-grid acceptance is pending terminal results. Immutable evidence chunks00–27 have been pushed;28–34 is ready for the next backup. The failed original archiver was confirmed defunct, and a reviewed exclusive atomic archiver resumed persistence without restarting or modifying the fit run. No continuous collision, force/pressure, grounding or photographic acceptance.
+
+
+## Sampled-fit milestone — 2026-10-19 16:40 UTC
+
+The original ab70+3bb45 run completed all63 selected poses successfully in2456.2018s:21eachidle/walk/trot, includingclipendpoints. All2268namedgearpart/pose checks report zero raw/proper intersections. Authorstoredreadback rehashed1575actualartifacts, source inventories and11archives. Finalindependentstoredreview is pending; no rerun. Nineimmutablechunks plus terminalcontrols are backed across the current GitHub evidence batches. This establishes sampled fit only; continuous collision, foot grounding, forces/pressure, vehicle traces and photographic acceptance remain open. Ticket remains active.
