@@ -1,7 +1,7 @@
 ---
 id: T-2855
 title: Glessner's north cameras re-solved with the gable pairs' sill and head left free (HABS 13 and 14), and both pairs rebuilt at the photographs' reading (sill about 19.6, head about 24.3 ft against the built 20.0-25.25); rebaked and both views re-rendered
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2850
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 6:04:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39235984264
+claimed_at: 2026-10-19T11:04:28.529Z
 decision: null
 decision_answer: null
 ---
