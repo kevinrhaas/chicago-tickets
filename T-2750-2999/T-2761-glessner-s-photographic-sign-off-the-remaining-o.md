@@ -1,7 +1,7 @@
 ---
 id: T-2761
 title: Glessner's photographic sign-off: the remaining opening, ornament, material and lighting differences in every canonical view resolved or accepted with a reason, a discrepancy register, and every match record brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2228
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 4:17:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39227553559
+claimed_at: 2026-10-19T09:17:32.689Z
 decision: null
 decision_answer: null
 ---
