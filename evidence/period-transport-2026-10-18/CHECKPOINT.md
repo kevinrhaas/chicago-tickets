@@ -1,5 +1,15 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 10:57 UTC.**
+
+Final code remains **668e48180cfa20fe48b594041fcc0c0e2499ee72**, clean/pushed, full1,015-step preflight and postcommit checks PASS. App frozen. PR1041 DRAFT/unmerged. User authorizes dev merge only when green.
+
+The canonical one-shot run39240880624 and **all18 smoke dispatches are COMPLETE**, exact remote head verified, dispatcher40631 finished0. Durable receipts: `/workspace/shared/human-probe-dispatch-668e48180.json` and `/workspace/shared/transport-smoke-dispatch-c02-668e48180.json`. **Do not redispatch.** All19 run IDs were discovered exactly once; full receipts copied to central `hair-normal-precision-2026-10-19/final-668e-qualification/`.
+
+Exactly ONE metadata-only observer is now ACTIVE: exec session46559, `/workspace/shared/final-668e-metadata/observer.json` and `latest.json`; stdout `/workspace/shared/final-668e-metadata-observer.log`. Initial actual snapshot9running/10queued, no missing IDs. It is bounded90min with60s polls, no log/artifact requests, stops on API failure, and explicitly cannot prove stage-union coverage or merge readiness. **Do not launch a duplicate observer.** Existing detailed-log watchers remain unused because runtime policy spec1/customhosts[] has not changed; saved draftREV16 needs Review/Save/Publish. No denied-network retries or relays.
+
+Exactly ONE fresh installed browser remains ACTIVE: exec session27009; `/workspace/shared/f97-ghost-budget-diagnosis/run-668e48180-installed-trace.json`;600s bound. Actual first tint-cold sample287calls, installed flags and exactDirectcall/triangle accounting PASS; remaining samples/restoration pending. No other browser/gate/GPU actions. Follow detailed10:56 handoff below for hashes/qualifications. Current local evidence is supporting scope only; final-head moving-frames, canonical, complete18-cell smoke and normal checks remain pending. No ticket closures, photo acceptance or boarding/riding claims.
+
 **CURRENT HANDOFF — 2026-10-19 10:56 UTC.**
 
 Final code commit **668e48180cfa20fe48b594041fcc0c0e2499ee72** is committed and pushed on `steward/period-transport-2793`. Exact tested tree `beeb06e4afbbca563f5f4f252f4e56cbd44b1b1e`, application clean. Full preflight session19138 finished PASS: 1,015 steps, 377 deliberate self-tests, zero failures; changelog and ticket-ID questions PASS. Postcommit changelog/entry checks PASS and publisher session4837 finished0. All source/proof/qualification helpers saved under `hair-normal-precision-2026-10-19/final-668e-qualification/`. New narrow flora single-pass flag and HUD readiness fix are now installed. No app edits during qualification.
