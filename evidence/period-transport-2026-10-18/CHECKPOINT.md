@@ -1,5 +1,17 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 10:19 UTC.**
+
+App remains512f4a7e3 pushed/clean baseline plusTHREE uncommittedrootfiles: reviewedHUDreadiness in smoke_renderer.mjs andbyteappendedSTATUS/ROADMAP. No runtime/assetflag edit yet; fullpreflightafterpatchNOTRUN. PR1041 draft/unmerged; userauthorizesdevmergewhenactualfinalchecksGREEN.
+
+Actual512f held-prep diagnostic16695 FINISHED1, browser/serverCLOSED: SIXdrawsamplesvalidwithsummedactualcallaccountingandSAMEcamera: tint287=206main+81shadow; rowghost327=199opaque+80shadow+48ghost; XRAY316=177opaque+74shadow+65ghost, samecold/settled. NORMALrestorationtrue. Oldf97actual331 remainsNOTREPRODUCED; don'tclaimfixed. Allsource/rows+independentreview saved actual-512f-draw-trace. ActualHUDv2FAILEDfirstscreenshot60s beforebaselineadded; runs[],negatives[],noHUDpassorfailnumbers. Fallbackscreenshot5stimeout; noHTTP/request/consoleerrors, api.readytrue/errornull,14expectedreviewflags. Thisisdiagnosticcapturefailure,notHUDqualification.
+
+NextcombinedoutsideharnessPREPARINGNOTRUN /workspace/shared/f97-ghost-budget-diagnosis/run-targeted-flora-pixels-hud-v3.mjs; rootreviewawaitsfreshoutpaths+helperhashes+independentHUDv3review. Noactivebrowsercurrently. UsesEXACTsameworkingheldUIprep, realpixelbaseline/candidate/restored9frames tint/rowghost/XRAY. CandidateONLYcardMat.forceSinglePass=true foractualflatcamera-facingflora-mid/far/midcarry; otherplants/trees/buildingsprotected. Actualtracehas2Back/Frontcardpairs; Three185docsrecommendflatvegetationonepass,butshaderwind/overlaprequiresactualexactpixels+restorationproofbeforeacceptance. Sourceproposal /workspace/shared/flora-billboard-singlepass-proposal/ andhelperdirtiesACTUALcachedghosttwinforcorrectshaderflags. NOappflagpatchinstalledyet. Strong330capunchanged. HUDv3module9eebb640... savesbaselineBEFOREcapture, preservesv2measurementprefix, pausesWebGLONLYdiagnosticscreenshot/restorefinally, keepsallactualmeasurementsunheld andrequirescapture+state-restorationproof. New600srunneedrootreleaseonceprepared; freshpathsnooverwritingoldfailedreceipts.
+
+Newautomatic512f moving-framesFAILROOTCAUSEUNRESOLVED; logstoragehost16denied, no retry/bypass; supportedannotationsonlyexit1. Runtimepolicy stillspec1/observed1/customhosts[], no newCIqualificationdispatch. Afteractualpixel/HUDproof: justifiedruntimeflag(ifaccepted), fullpreflight, commit/push, finalcanonical+18matrixONCEatnewexacthead, freshrequiredchecks/readiness, normalconditionaldevmergeonlyallGREEN. No productionticketclosure.
+
+Horseearsourceimplementation31fa193... savednext-package-checks/ear-root-source-implementation-held. Rootexplicitlyapproved22/18+sixfacecomplementexception; sourcemathcontrolsPASSbutNOactualcandidate/GLBgeneration, exporterNOTimplemented, fullSAT/browserheld. Allprevioushead-ear/bridle/photo/ridingfailuresremainred/unaccepted. Otheragentsoutsideonly. Ticketprogress2793/2794/2800/2801/1789updated10:13andpushed.
+
 **CURRENT HANDOFF — 2026-10-19 10:08 UTC.**
 
 512f4a7e3 remains committed/pushed green1015 fast-gate checkpoint. Root now has THREE UNCOMMITTED files: smoke_renderer.mjs reviewed HUD readiness patch358f08ce (wait after hint, actual visible/inviewport dock/nativeanimation, readiness for BOTH plants) plus byte-appended STATUS/ROADMAP. No runtime/asset edits; 330draw and10%HUD unchanged. Source controls14+9 PASS and root independently reran. Full preflight NOT YET run after patch; no new code commit. Recovery patch/source/review in desktop-diagnosis-progress-1008.
