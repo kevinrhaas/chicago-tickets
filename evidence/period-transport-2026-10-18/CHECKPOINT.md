@@ -1,6 +1,6 @@
 # Session recovery checkpoint — 2026-10-18
 
-**Current committed human checkpoint: `379e7d3d002379088d40e0f85cab5e4bbc5c0415`, pushed on `steward/generic-teamster-humans`, draft PR1046. Full preflight PASS985/0; postcommit changelog PASS. Canonical resident run39177201156 FAILED at the walk-duration guard; no resident gait/visual acceptance. Authored-only zero-time-origin fix is prepared outside app, not yet applied. Transport draft PR1041 frozen at e5e726ba8d8030216ad7769f0878e99fe8dbe43d: fast gate PASS978/0, mobile all15sections PASS, desktop has TWO real failures (budget/confidence restoration) and three legs pending at last collection. Neither PR is mergeable yet. No local Blender. Never export CHICAGO_TICKETS_DIR into gates.**
+**Current human code checkpoint: `45bb1933e89f3eb20cd9dffd8a07e94e45b693db`, committed/pushed on `steward/generic-teamster-humans`, draft PR1046. Full preflight PASS986/0 plus postchecks; postcommit changelog PASS. Canonical resident run39179622053 is RUNNING at that exact SHA. Authored-only zero-time-origin fix is committed; actual loaded gait/visual acceptance remains pending. Current local checkout is transport branch e5 with a MERGE IN PROGRESS from dev a369c613012328384ed3ffa75055a83b42d84288: authored LIBERTIES append conflict resolved preserving dev verbatim, generated conflicts being rebuilt by tools/rederive.mjs --resolve. Do not commit until full gate. Transport frozen remote e5: fast gate PASS978/0, mobile all15sections PASS;16/18legs terminal,2known desktop failures and desktop13/14 still running. No merge on failed/incomplete coverage. No local Blender; no global CHICAGO_TICKETS_DIR.**
 
 Code repository: `kevinrhaas/chicago`, branch `steward/period-transport-2793`.
 Latest transport commit: `1b3c73d22016596d07b133019df24422c2b54790` (merged dev `7d5daca7d82748acce0fda541c638b260bdd3be4`).
@@ -183,3 +183,10 @@ Outside W01 proposal now includes explicit opt-in sit_drive canonical-builder pa
 1904wardrobereport retains actually viewed1902civilianportrait limitedneck/lapelcontext; no clearedexactsummerfullgarment/seatedbuggyplate was acquired. Glessnerexistingexecutiveidentity remains; no genericcoachman/1835uniformsubstitution.
 
 Twelve ignored publishedhumanfiles were byte-verified against379committedsources and archived ahead of eventualbranchswitch; none deleted duringrunningpreflight. Branchswitchcleanup must targetonlythat exactignoredsubtree afterverification.
+
+
+## Zero-origin repair checkpoint committed
+
+Human45bb1933e89f3eb20cd9dffd8a07e94e45b693db committed/pushed after actual986step preflightPASS (376intentionalselftests), changelog/ticketchecksPASS and postcommitchangelogPASS. Logs and hashes preserved in resident-zero-origin-validation.json. Canonical build39179622053 received one successfuldispatch and its actualheadmatches; watcher /workspace/shared/human-ci-watch-45bb1933. Need terminal actualloadedtime/contact/framing results, not old379failure or057success. PR1046 updated, remainsdraft.
+
+Root switched cleanly to transport aftersaving45. Currentdev advanced to a369c613012328384ed3ffa75055a83b42d84288 with UI/1904building changes. Local --no-commit merge conflicts: authoredLIBERTIES retaineddevverbatim plus bothtransportsections; remaining4derivedsourceuse/index/coverage conflicts are rebuilding fromsource via rederive--resolve starting149/198. Newmeasuredcorrections notyetapplied untilrebuildfinishes. Keepremotee5frozen untilall18terminal collected; allreplacementcoverage must audit NEWmergedsource. Twelve staleignoredhumanmirrorfiles were removed onlyaftermatchingarchivedbytes; sourcehumanfiles unchanged.
