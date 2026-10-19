@@ -92,3 +92,10 @@ After independent precision and negative-control review, ONE CPU idle0 capture/c
 The broader head-versus-all-rest scope FAILED at its first genuine head/neck penetration and remains incomplete. Candidate head triangle2055 is retained sourceface33 (baseline2061); neck triangle690 is unchanged. Independent source mapping confirms identical source ownership, actual world triangles and strict intersection witness in both parent and candidate. A pre-existing penetration remains a failure; it is not waived by the successful internal scope. No retries, repairs, gear checks, other poses, browser view or app installation ran.
 
 Full failed trial archive SHA256e838ce94800efcb9f108cb8b78435283c9425f74e78bac47fdfa0fbda0ed89f7, separate source-owner diagnosis SHAb7ff11d02b590d5d51adc85a502544cf21ad3d15d5433aacb480e29ac6f751fe and independent assessment are saved in final-668e-qualification. Next geometry work must repair the source-owned neck portal, preserve the protected48 head attributes or explicitly amend their scope, and requalify actual geometry. Photographic/production acceptance remains open.
+
+
+## Measured progress — 2026-10-19 12:45 UTC
+
+ONE separately reviewed neck-side diagnostic ran with the explicit24-value quarter vector, preserving the head/ear/portal attributes and existing rig. It stopped in export phase1 after1.3754seconds: proposed movement exceeded the declared original local neck-column limit. No candidate GLB was encoded or emitted. Metadata, Khronos, independent rest readback, capture, collision, other poses, gear and browser checks did not run. No retry, alternate parameter or repair followed.
+
+Full first-failure archive SHA256df1f5e1a130090da5d0ad445b4237e38c84d4e9d15826f7b8945f525ef92cdb8, exact vector, receipts and stderr are saved under devdfd-merge-requalification/quarter-first-actual-failure. A read-only source-feasibility analysis is now deriving whether any positive continuation parameter can satisfy the unchanged movement bound, rather than guessing another parameter. Existing26027 head/neck penetration remains unresolved; no new model or photographic/production acceptance is claimed.

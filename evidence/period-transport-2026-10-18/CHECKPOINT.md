@@ -1,5 +1,11 @@
 # Session recovery checkpoint — 2026-10-18
 
+**QUARTER TRIAL UPDATE — 2026-10-19 12:45 UTC.**
+
+The one released quarter-vector export trial has now RUN and FAILED/STOPPED phase1 after1.3754seconds. Movement exceeded its original local neck-column guard. NO new GLB was emitted; metadata/Khronos/REST/capture/SAT were NOT RUN. No retry/search/repair. Archive df1f5e1a is saved centrally with exact vector, first-failure and operator receipts. Author is doing READONLY algebra/source diagnosis of feasible positive intervals; no alternate parameter or actual model operation is authorized. The previous handoff's 'not yet started' is historical and superseded by this result.
+
+PRIMARY still clean/frozen64220decf0; PR1041 DRAFT/unmerged. One metadata observer39480 active. Latest12:44 snapshot:1success/18pending, no failure. All19 were already dispatched ONCE. Continue final qualification/normal exact-head dev merge when green as detailed below.
+
 **CURRENT HANDOFF — 2026-10-19 12:42 UTC.**
 
 App and remote feature branch are clean/frozen at **64220decf047a2d21d8cb65803b7941799a97f7a**, tree **d62e2c5201940aba5a2fd4228e00c98d7480744c**. Both actual dev advances are merged, latest base dfd996af106e256a3dce9f596549602bd0780677. Full preflight PASS1015steps/377selftests, postcommit changelog/ID/publish PASS and push complete. Actual GitHub pre-dispatch check confirms current base and mergeabletrue (pending checks made stateunstable). PR1041 remains draft/unmerged; body updated to exact64220pending status. Do not edit app while qualification runs.
