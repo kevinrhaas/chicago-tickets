@@ -1,7 +1,7 @@
 ---
 id: T-2819
 title: 1623's stone and the oriel's front: the smoother coursed stone beside the oriel above the arches' springing and the carved band across both arches, and the oriel front's place along the wall ruled; K01 rebaked and 1623's match record brought to matches
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2779
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: 1078
 claimed_by: run 10/19/2026, 3:59:29 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T10:13:18Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39226109008
 claimed_at: 2026-10-19T08:59:29.431Z
 decision: null
