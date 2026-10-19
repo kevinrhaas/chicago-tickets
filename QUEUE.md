@@ -248,4 +248,3 @@ T-2810 — 1835 river woods: wild grape curtains on the river-facing edge, and a
 T-2783 — 1835 and 1812 prairie, part 1: the far prairie past flora.js's near ring reads as flat paint; add a mid ring of cheap grass cards and a grass-coloured, streaked ground so the near ring has no visible edge, held in every tier's ceiling and the 1835 frame
 T-2784 — 1835 and 1812 prairie, part 2: woody plants of the open plain from the ecology analysis: prairie rose, New Jersey tea and leadplant scattered, pussy and slender willow clumps and buttonbush at slough edges, and a few lone bur oaks and cottonwoods in the fire shadow just east of sloughs and the river; ecology inferred, positions reconstructed under a liberty
 T-2824 — Phone boot upload pass: draws rejected before the first shadow map (sampler2DShadow on unit 0)
-T-2827 — iPhone 1904 page stops mid-pick: draw only the batches a pick's ray meets; phone probe answers from boxes
