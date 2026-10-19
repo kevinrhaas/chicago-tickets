@@ -1,7 +1,7 @@
 ---
 id: T-2872
 title: Glessner's north tower finial ruled against HABS 01 and 14: the tip triangulated from both photographs, the cone's size read from its silhouette in both, and HABS 14's camera re-solved with its off-plane controls varied - the tower's plan built or argued, and HABS 14's finial item closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2871
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1095
 claimed_by: run 10/19/2026, 11:11:12 AM CT
 blocked_on: null
 needs_bake: false
