@@ -1,7 +1,7 @@
 ---
 id: T-2781
 title: 1637's south flank finished from the Grosvenor photograph: the bay's columns and carved dress, the pale band along the wall's foot read as water table or coping and built, and the panelled stack at about u 6.0 weighed against the engraving's wing stack and the one the evidence holds built; rebaked, and the Grosvenor record brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2756
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 2:14:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39214273784
+claimed_at: 2026-10-19T07:14:30.447Z
 decision: null
 decision_answer: null
 ---
