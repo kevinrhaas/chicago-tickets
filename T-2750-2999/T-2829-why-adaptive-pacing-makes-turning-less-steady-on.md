@@ -1,7 +1,7 @@
 ---
 id: T-2829
 title: Why Adaptive pacing makes turning less steady on the owner's phone (turn sd 4.7 to 6.5 ms, max 44 to 73 ms in T-2733's reading), and whether Adaptive stays the default until it does not
-state: open
+state: claimed
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 9:42:05 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-19T14:42:05.035Z
 decision: null
 decision_answer: null
 ---
