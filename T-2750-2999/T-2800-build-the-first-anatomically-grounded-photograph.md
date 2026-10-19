@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing horse model agent 10/19/2026, 9:32:50 AM CT
+claimed_by: continuing parallel period transport team 10/19/2026, 1:49:13 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T14:32:50.153Z
+claimed_at: 2026-10-19T18:49:13.857Z
 decision: null
 decision_answer: null
 ---
