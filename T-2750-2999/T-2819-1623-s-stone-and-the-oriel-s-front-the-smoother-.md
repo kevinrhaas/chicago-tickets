@@ -1,7 +1,7 @@
 ---
 id: T-2819
 title: 1623's stone and the oriel's front: the smoother coursed stone beside the oriel above the arches' springing and the carved band across both arches, and the oriel front's place along the wall ruled; K01 rebaked and 1623's match record brought to matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2779
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1078
 claimed_by: run 10/19/2026, 3:59:29 AM CT
 blocked_on: null
 needs_bake: false
