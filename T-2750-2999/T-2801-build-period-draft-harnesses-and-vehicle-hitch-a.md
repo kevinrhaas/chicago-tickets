@@ -131,3 +131,8 @@ Reviewed nonindexed capture correction enabled actual walk0. Complete structural
 ## Progress — 2026-10-19 15:59 UTC
 
 New swept-breeching3bb45 +immutableab70 actual idle0 and oldfailedwalk0 FULLPASS; then all8distinct walk/trotquarterposes FULLPASS269.63s, all36gear+fullhead/neck/mane/bit checks complete, independent artifact/hash auditPASS. Other35parts unchanged. Full63 nowrunning once, NOTaccepted yet. Complete source/model/actualproof e730/5c312f/991 and diagnosticcaptures backed github-backup-1559. Oldfe76walk70FAIL preserved; no pressure/continuous/photo/riding acceptance.
+
+
+## Progress — 2026-10-19 16:20 UTC
+
+The original ab70+3bb45 sampled-fit run continued through the executor interruption.35of63 poses have completed with all selected checks passing; the entire21-frame idle sequence is complete. Full-grid acceptance is pending terminal results. Immutable evidence chunks00–27 have been pushed;28–34 is ready for the next backup. The failed original archiver was confirmed defunct, and a reviewed exclusive atomic archiver resumed persistence without restarting or modifying the fit run. No continuous collision, force/pressure, grounding or photographic acceptance.

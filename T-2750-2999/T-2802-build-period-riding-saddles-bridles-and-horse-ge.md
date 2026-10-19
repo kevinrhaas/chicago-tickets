@@ -64,3 +64,8 @@ Portable riding-rein candidate a457874a appends glTF root/head skinning to the t
 ## Progress — 2026-10-19 15:59 UTC
 
 Newb683 five-shell refinement source/geometry/readback/idlefit PASS and12actualmatchedbrowserframes PASSengineering. Roundedwaist/hems improve oldsurface but exposedwoodarch/tallbox remainvisuallyUNACCEPTED. Preserved b7da source/oldinputs/model/proofs+nextsourceplan and d6df actualimages. OriginalA457rein skin/24otherparts/rig/sockets exact. No newab70/rider/periodphotoacceptance orappinstallation.
+
+
+## Progress — 2026-10-19 16:20 UTC
+
+New b870 saddle covers pass readback, wood-cover and complete idle horse intersection checks, and12 matched browser frames pass framing/controls/GL checks. All24 protected parts and prior rein binding remain exact. Evidence25258cfc is pushed in855e0378. Root inspected the close image: a pale structural band and steep boxlike profile remain visibly unfinished. Subsequent decoded geometry analysis identifies panel/leather interpenetration outside the earlier horse-only test scope; a coherent layering plan is being prepared. No production, rider, moving fit or photographic acceptance and no app installation.
