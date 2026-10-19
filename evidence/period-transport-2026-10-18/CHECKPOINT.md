@@ -1,5 +1,15 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 10:08 UTC.**
+
+512f4a7e3 remains committed/pushed green1015 fast-gate checkpoint. Root now has THREE UNCOMMITTED files: smoke_renderer.mjs reviewed HUD readiness patch358f08ce (wait after hint, actual visible/inviewport dock/nativeanimation, readiness for BOTH plants) plus byte-appended STATUS/ROADMAP. No runtime/asset edits; 330draw and10%HUD unchanged. Source controls14+9 PASS and root independently reran. Full preflight NOT YET run after patch; no new code commit. Recovery patch/source/review in desktop-diagnosis-progress-1008.
+
+ONE active browser owner environment_validation session16695, new /workspace/shared/f97-ghost-budget-diagnosis/run-512f-held-v2-receipt.json,600s bound. Published runtime512f unchanged; dirty smokehash separate. Uses existing smoke holdDraws ONLY during nonpixel UI/route preparation, restored before EVERY stat/forcedstep/capture/trace. Detailed realdraw rows must sum exactly to stats; HUDv2 frozen822a5b... Keep app frozen, no competing browser/gate. Previous90sboot failure and improved240sdeadline are preserved; improvedboot actuallyPASS63.3s, route/HoganarrivalPASS, zeroHTTP/request/consoleerrors, but deadline atsafe-swatch click produced NO draw/HUD samples. No causal proof yet. Need actualtrace, justifieddrawcorrection(ifneeded), actualHUD/refusal confirmation then fullpreflight/commit/push and exactheadcanonical+18matrix once before dev merge. PR1041 remainsDRAFT, mergeabletrue atlastread but NOT qualified.
+
+New automatic512f moving-frames actualFAILED in browser/performance step6, rootcauseUNRESOLVED. Numericjoblogredirect denied atproductionresultssa16; no retry/bypass. Supportedcheckannotations onlyexit1. Actualpolicy stillspec1/observed1/customhosts[], draftunapplied. Preservefailure; no harmless/transientclaim.
+
+Horseear-root concrete sourceproposal eebdefc... independently verifies44barycentric knots. Root approved22lower/18upper and exactsixskullface complement exception, all48vectors protected; horse_model may authorgenerator/tests OUTSIDEAPP only, HOLDactualgeneration/fullSAT/browser untilGPUwindowreleased. Otheranatomy/gear/photo/ridingfailures remainopen; no horseinstalled. No newmanualCIqualification dispatched, no devmerge or production closure.
+
 **CURRENT HANDOFF — 2026-10-19 09:58 UTC.**
 
 Code checkpoint COMMITTED/PUSHED/CLEAN at 512f4a7e372ec7dc89ebad20dfff6837b336cf97, exact tree d083bcef3efac589486e15e73d4f7a94fabcce56. Restored-cache FULL preflight PASS1015/0,377 intentional selftests; postcommit changelog/entry PASS. Green logs/commit receipt saved in fb6-c02-requalification/green-512f-checkpoint. Publisher completed and local mirror build512f4a7e3. PR1041 stays DRAFT: earlier f97 desktop13 actual331>330 draw budget and31.23%>10% HUD blockers remain unresolved. No new-head qualification dispatched. User requests merge to dev WHEN GREEN; no merge yet.
