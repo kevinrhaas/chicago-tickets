@@ -1,7 +1,7 @@
 ---
 id: T-2860
 title: Glessner's courtyard plan-against-section ruled - HABS sheet 2 against sheet 4 along S at the bow's flanks (sheet 4 draws the bow at about S 26.3-38.6 against the plan's 26.8-39.3), the stair tower (0.63 ft, radius 0.3 ft) and the terrace's terminal post (about 1.1 ft) - and the ruling built in the bow, the tower and the coping's terminal at the post; rebaked and habs04-terrace-section brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2852
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 2:09:33 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39307905632
+claimed_at: 2026-10-19T19:09:33.906Z
 decision: null
 decision_answer: null
 ---
