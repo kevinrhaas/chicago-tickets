@@ -1,7 +1,7 @@
 ---
 id: T-2881
 title: Keith's loggia's rear row built: a pair of turned shafts on a pedestal against the house wall behind each front pair, at the depth, pitch and girth the 1888 plate reads (four shaft centres fitted through its camera) and the first-floor plan's v; rebaked, every reference view re-rendered and re-read, and the rear-row item closed on inland-1888, its three reproductions and Nickel 1967
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2877
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1102
 claimed_by: run 10/19/2026, 2:52:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T21:12:40Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39310732937
 claimed_at: 2026-10-19T19:52:18.686Z
 decision: null
