@@ -1,7 +1,7 @@
 ---
 id: T-2832
 title: Shops & work: the 94 authored firms' cards fetch businesses/<id>.json, which 404s; the record lives under businesses/authored/
-state: open
+state: claimed
 epic: RENDERING
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 2:52:42 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39217831963
+claimed_at: 2026-10-19T07:52:42.769Z
 decision: null
 decision_answer: null
 ---
