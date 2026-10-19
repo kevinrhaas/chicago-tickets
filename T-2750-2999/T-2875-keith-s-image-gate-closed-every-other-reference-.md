@@ -1,7 +1,7 @@
 ---
 id: T-2875
 title: Keith's image gate closed: every other reference view of keith_house_1808_prairie re-matched from the GLB in the tree (fifteen read stale after T-2845's rebake) and reading matches with nothing open, and T-1883's full acceptance (close street, corner and aerial views; liberties, licences and compressed assets) checked off
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2816
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 1:03:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39291854778
+claimed_at: 2026-10-19T18:03:21.572Z
 decision: null
 decision_answer: null
 ---
