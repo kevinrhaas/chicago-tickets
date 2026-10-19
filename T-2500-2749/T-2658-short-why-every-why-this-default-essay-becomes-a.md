@@ -1,7 +1,7 @@
 ---
 id: T-2658
 title: Short 'Why?': every 'Why this default' essay becomes a one-line hint plus a popover of 40 words or fewer, with the full text shown in Researcher mode
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: NAV-904
 parent: null
 opened: 2026-10-16
-closed: null
+closed: 2026-10-19
 pr: 1063
 claimed_by: run 10/18/2026, 7:46:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T20:07:47Z
 claimed_run: null
 claimed_at: 2026-10-19T00:46:06.231Z
 decision: null
