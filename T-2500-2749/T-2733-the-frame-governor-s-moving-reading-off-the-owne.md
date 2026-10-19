@@ -1,7 +1,7 @@
 ---
 id: T-2733
 title: The frame governor's moving reading off the owner's phone: the Read frame pacing result copied back and filed, sd and p95 fallen (or not) for walk, turn and flight under Adaptive against Fixed
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2722
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 1056
 claimed_by: run 10/18/2026, 7:56:53 PM CT
 blocked_on: null
 needs_bake: false
