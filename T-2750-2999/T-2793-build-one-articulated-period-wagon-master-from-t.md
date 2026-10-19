@@ -88,3 +88,8 @@ Frozen09a is already pushed. PR1041 merge still blocked on remaining mandatory w
 ## Merge recovery — 2026-10-19 16:20 UTC
 
 PR1041 is already pushed. Fresh GitHub reconciliation found 16 old-head workflows successful, one cancelled after90m22s, and two running. Meanwhile dev advanced to28c53 and introduced a real smoke HUD conflict. Root merged dev locally, preserving both navigatorDock and confLegend. Independent index review confirms no assets or liberties were lost. Existing dev also carries its150-minute smoke policy. Local preflight is running after restoring three stale ignored Glessner files from dev's verified package; no new application commit yet. Fresh checks must qualify the eventual updated SHA. Old two-rerun recovery authority is invalidated; no bypass/merge occurred. Durable evidence is pushed in backup commits8a066c58 and855e0378. Photographic acceptance remains open.
+
+
+## Checked merge pushed — 2026-10-19 16:53 UTC
+
+Resolved dev conflict is committed and pushed at `aedc80126c6178376d3fb60f40297bec5c7c9ec7` in PR1041. Full local preflight passed1,017checks/377 deliberate selftests; postcommit changelog/ID and104.28MB published mirror checks pass. Fresh remote SHA/tree and26code pins match; PR is mergeable with CI pending. One canonicalboth-flags run and18 smoke runs were dispatched once at this exact head; normal automatic CI remains required. One durable observer tracks them. No merge until actualgreen/final verifier; no source or assertion waiver. Photographic finish/LOD/period acceptance still open.
