@@ -1,7 +1,7 @@
 ---
 id: T-2863
 title: dev's T-2648 ghost draw budget broken on desktop since #1067 (T-2809 fruit trees): 'a grade row's Look ghosts the grade live, inside the draw budget' reads 331 calls against BUDGET.drawCalls 330 (main.js) in desktop smoke stage 13; win the call back or argue the budget with the reading
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1061
 claimed_by: run 10/19/2026, 7:06:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T15:05:10Z
 claimed_run: null
 claimed_at: 2026-10-19T12:06:24.368Z
 decision: null
