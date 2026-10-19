@@ -1,7 +1,7 @@
 ---
 id: T-2847
 title: 1625's south eave brought down to the print's 10.9 m (its storey, the gable's foot and the hip over it), the rear section's windows, transomed door, dormer and curb re-read on the re-solved camera, the main roof's south dormer built, and 1625's match record brought to matches (the group's image gate)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2838
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 8:01:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39250098546
+claimed_at: 2026-10-19T13:01:34.590Z
 decision: null
 decision_answer: null
 ---
