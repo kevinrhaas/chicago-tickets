@@ -5,7 +5,7 @@ state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-2875
 opened: 2026-10-19
@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
