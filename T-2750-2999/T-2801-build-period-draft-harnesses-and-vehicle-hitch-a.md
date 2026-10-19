@@ -126,3 +126,8 @@ The new 57d63e anatomy variant clears all 36 unchanged fe76 harness parts at idl
 ## Progress — 2026-10-19 15:29 UTC
 
 Reviewed nonindexed capture correction enabled actual walk0. Complete structural head/neck/mane scopes PASS, then all36-part check found70proper breeching crossings ONLY against original right upper hind limb (tenfaces1620..1633); other35parts clear. FirstfailureSTOP: zero fullyqualifiedposes, remaining7/full63 NOTRUN, bitvolume not reached. Preserved e0c1 archive and exact70 ownership/witnesses. Capture-only63 now explicitly diagnostic to derive swept-hull breeching route, not fit approval.
+
+
+## Progress — 2026-10-19 15:59 UTC
+
+New swept-breeching3bb45 +immutableab70 actual idle0 and oldfailedwalk0 FULLPASS; then all8distinct walk/trotquarterposes FULLPASS269.63s, all36gear+fullhead/neck/mane/bit checks complete, independent artifact/hash auditPASS. Other35parts unchanged. Full63 nowrunning once, NOTaccepted yet. Complete source/model/actualproof e730/5c312f/991 and diagnosticcaptures backed github-backup-1559. Oldfe76walk70FAIL preserved; no pressure/continuous/photo/riding acceptance.

@@ -59,3 +59,8 @@ Outside-app original reconstructed 1835 saddle/bridle geometry checkpoint archiv
 ## Progress — 2026-10-19 15:29 UTC
 
 Portable riding-rein candidate a457874a appends glTF root/head skinning to the two existing reins with exact source geometry/BIN prefix. Actual Three checks PASS84 rows (21 walk samples, both sides, identity/transformed parent); max bit residual1.92e-8m/hand3.40e-8m and old10.957mmfailure reproduced. Deterministic, Khronos0errors/2explicit NODE_SKINNED_MESH_NON_ROOT warnings; first36zero-slot warnings preserved and concretely corrected. No collision/rider/ab70/physical-force/period/photo acceptance or app installation. All source/results in github-backup-1529/riding-rein-skin-endpoints-2026-10-19.tar.gz; final independent readback pending.
+
+
+## Progress — 2026-10-19 15:59 UTC
+
+Newb683 five-shell refinement source/geometry/readback/idlefit PASS and12actualmatchedbrowserframes PASSengineering. Roundedwaist/hems improve oldsurface but exposedwoodarch/tallbox remainvisuallyUNACCEPTED. Preserved b7da source/oldinputs/model/proofs+nextsourceplan and d6df actualimages. OriginalA457rein skin/24otherparts/rig/sockets exact. No newab70/rider/periodphotoacceptance orappinstallation.
