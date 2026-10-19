@@ -20,6 +20,7 @@
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 T-2828 — 1904 on the owner's iPhone dies walking up to the Glessner front at Light and Sharpness 1: the tab was killed about 5 s into a walk from the 18th Street spawn across Prairie Avenue (last at 1390,-3220, 741 textures, 550k triangles), found and fixed against the phone memory ceiling
+T-2833 — 1904 context city: the stand-ins seen down the streets read as period buildings and trees, not boxes and blobs
 T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
