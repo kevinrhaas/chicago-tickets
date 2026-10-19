@@ -1,7 +1,7 @@
 ---
 id: T-2831
 title: Keith's loggia column ruled between the 1888 plate, Nickel 1967 and the 1965 slide (about 0.78, 0.95 and 1.11 of the bow's principal opening), the late pictures' principal openings read for blinded transoms, built or argued, and porch-1965 brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2814
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 11:32:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39198216601
+claimed_at: 2026-10-19T04:32:52.948Z
 decision: null
 decision_answer: null
 ---
