@@ -113,3 +113,10 @@ Existing reconstructed Otis Bardwell, Joseph Dufresne and Martin Flynn remain th
 ## Measured progress — 2026-10-19 10:13 UTC
 
 Namedresident authoring remains in pushed512f4a7e3, with canonical32fixtures/48source-and-published inspections mechanicalPASS atpriorf97 workflow39220530645. Humanexport/rig/hair sources are unchanged at512f; this does not qualify wholemergedhead or photographic likeness. Generic512f automatic humanjob succeeded but teamsterjobskipped; new opted-in finalcanonical dispatch not yet made. PR1041 staysdraft pending actual desktop/animation blockers; no productionclosure.
+
+
+## Parallel era authoring — 2026-10-19
+
+Outside the frozen application, separate 1812 John Kinzie the elder age49 and 1904 John Glessner age61 CC0 body preparations and strict identity/date/role adapters are backed up. Appearances and numerical body choices remain reconstructed. Glessner is eligible only for standing/walking/passenger demonstrations; the separate 1902-text-bounded worker jacket does not identify or clothe him. The original 1835 builder remains unchanged.
+
+These parcels are authoring arrays and unexecuted Blender adapter source, not canonical exports, photographic people or scene placements. Actual human artifact delivery/inspection remains blocked by unchanged environment artifact-host access.

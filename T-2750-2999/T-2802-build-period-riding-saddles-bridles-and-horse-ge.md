@@ -69,3 +69,10 @@ Newb683 five-shell refinement source/geometry/readback/idlefit PASS and12actualm
 ## Progress — 2026-10-19 16:20 UTC
 
 New b870 saddle covers pass readback, wood-cover and complete idle horse intersection checks, and12 matched browser frames pass framing/controls/GL checks. All24 protected parts and prior rein binding remain exact. Evidence25258cfc is pushed in855e0378. Root inspected the close image: a pale structural band and steep boxlike profile remain visibly unfinished. Subsequent decoded geometry analysis identifies panel/leather interpenetration outside the earlier horse-only test scope; a coherent layering plan is being prepared. No production, rider, moving fit or photographic acceptance and no app installation.
+
+
+## Progress — 2026-10-19: underbelly construction and remaining leather crossings
+
+New saddle 83f7b0b9 passes the two original negative controls, actual export/readback, Khronos (zero errors; two inherited skin warnings), idle capture and all 29 self-embedding scopes. Assembly fails at pair 185/301: left quarter crosses the original stirrup leather. Whole-horse checks did not run. Saved-array diagnosis also finds both original leather routes crossing jockeys and irons. Failure archive afe90d47 is preserved.
+
+The next source scope includes both leather routes (16 changed/13 protected parts); geometry trial is not released. Credible attachment/routing and any required small layer amendment need explicit source review. No proper crossing is waived and no riding/photo acceptance is claimed.

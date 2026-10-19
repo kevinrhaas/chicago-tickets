@@ -148,3 +148,10 @@ Root inspected matched cheek57d frontquarter before/after and whole/profile imag
 ## Progress — 2026-10-19 15:42 UTC
 
 New eye e578 passes one bounded idle/fullhead3410-neck1492-mane456/all36gear check, Khronos0/0. Protectedhalo initial pre-export refusal preserved and concretely corrected by excluding three protected nonboundary neck neighbors.16matchedframes remain VISUALLY UNACCEPTED: olive/buttoneye and inherited wideopenmouth. Root actually inspectedtightorbitbefore/after+profile. Next neutral bit-carrying mouth source investigation, no motionbaseline/appchanges.
+
+
+## Progress — 2026-10-19: conforming neutral mouth, actual idle pass
+
+Candidate e173bb8608a90e94a4f998e65ec9e09b2d2880d8639f2b1dc756f87815f485f8 passed one fixed 72.085-second trial and independent stored audit fa466871. Eight complete head/neck/mane/mouth structural scopes report zero strict proper or unexpected SAT contacts; owned contacts remain explicitly counted. All 36 harness parts clear the actual horse. Actual bit-side unsigned clearance minimum is 1.105 mm; virtual caps are analysis only. The original metadata-loss refusal is preserved and corrected by retaining the primitive's existing provenance fields. Full archive 0cbb3a06 is centrally backed up.
+
+This qualifies one idle pose. Matched appearance review, anatomical/photo quality, motion, LODs and production acceptance remain open; no asset is installed or ticket closed.

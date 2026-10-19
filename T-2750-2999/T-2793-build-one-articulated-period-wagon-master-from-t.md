@@ -93,3 +93,8 @@ PR1041 is already pushed. Fresh GitHub reconciliation found 16 old-head workflow
 ## Checked merge pushed — 2026-10-19 16:53 UTC
 
 Resolved dev conflict is committed and pushed at `aedc80126c6178376d3fb60f40297bec5c7c9ec7` in PR1041. Full local preflight passed1,017checks/377 deliberate selftests; postcommit changelog/ID and104.28MB published mirror checks pass. Fresh remote SHA/tree and26code pins match; PR is mergeable with CI pending. One canonicalboth-flags run and18 smoke runs were dispatched once at this exact head; normal automatic CI remains required. One durable observer tracks them. No merge until actualgreen/final verifier; no source or assertion waiver. Photographic finish/LOD/period acceptance still open.
+
+
+## Progress — 2026-10-19: pushed aedc branch, CI setup failure
+
+PR1041 remains open and unmerged at pushed, clean aedc80126. Local full preflight passed 1,017 checks and 377 refusal self-tests. Canonical human build and auxiliary attempt2 passed. One selected smoke job failed Playwright installation before publication or application assertions; annotations establish exit1 but not its cause. Original failure is retained, no test waived, and a source-only once-only diagnostic recovery plan awaits review. Merge remains conditional on actual green checks and fresh exact-head/dev verification.
