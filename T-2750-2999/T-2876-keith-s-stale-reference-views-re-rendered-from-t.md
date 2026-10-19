@@ -1,7 +1,7 @@
 ---
 id: T-2876
 title: Keith's stale reference views re-rendered from the GLB in the tree and re-read, the 1888 plate's three reproductions' cameras re-derived from the plate's re-fitted camera, and the loggia's rear row of paired columns recorded open where the plate and Nickel 1967 show it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2875
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1097
 claimed_by: run 10/19/2026, 1:23:40 PM CT
 blocked_on: null
 needs_bake: false
