@@ -1,7 +1,7 @@
 ---
 id: T-2857
 title: Glessner's Prairie front read: the opening layout checked camera-free by cross-ratio in Taylor 2135, HABS 16 and HABS 17, the openings and north pier re-measured on HABS sheet 6, stack and roof heights read, and the three match records' front items made specific
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2851
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 6:12:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39241108897
+claimed_at: 2026-10-19T11:12:53.671Z
 decision: null
 decision_answer: null
 ---
