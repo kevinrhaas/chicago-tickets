@@ -1,6 +1,15 @@
 # Session recovery checkpoint — 2026-10-18
 
 
+**PUSH CHECKPOINT — 2026-10-19 15:00 UTC.** UserexplicitlyreaffirmedperiodicGitHubpushes. Latest appstill09a clean/pushed/frozen; ticketspriorheaddebe7d2a waspushed, thisbatch nowbacks up6complete source/model/evidencearchives+manifest in github-backup-1459. Best functionalhorseab70+fe76 actualidle0ALLscopes/ALL36gearPASS36.13s, archivebbbe96 andauthoritypacket1cdfbf. Earlierstoragefailure0d3582preserved; exactprefixguard correction reviewed.
+
+Horse_research nowpreparing reviewed8distinctwalk/trotquarterposebatch then63gridONLYif8PASS; Float64/fullcoverage/sourcebindings/badgeometrycontrols/max4workers/firstfailurestop. NOPOSEBATCHexecutedyet. Horse_model authorizedconcretecheek/orbit/throatnewqualityvariantonqualifiedab70; report230937 referencecomparisonactuallyviewed,12–20mmfirstsculptboundsnotmeasurements; mouth/bit/nostril/rig/soles protected. Normal03884visualimprovementreviewed; independentnormal-onlyP/JWidentitymeansnoredundantSAT.
+
+C02cushion43a319 actual12row/40PNG A/BPASSincldoorscontrols/bothviews/.98/consoleGL/shadowcost, slightrightcornerseamartifact/photoopen; archivea5c403saved. W01integration6207 archiveSAVEDbutNOTFINAL: viewerfoundfixed80msframefreshnessrace andnestedtoolstep-isolationrecognition; carriage_modelpreparingsuccessorwithrenderedView/frameSerialwait+flatentry, nofakeisolationrow. Original0138assetunchanged. ROOTmustapplyaftercurrentmerge, measureactualentry/source+publishedbrowser/preflightbeforecommit.
+
+CIobserver74152/envsoleowner/latest5success6running8queued0failures; finalv6notrun. No duplicateAPIpoll/redispatch/appedit. Normalexact09aDEVmerge alreadydelegatedwhenall19+v6green. All photo/riding/occupiedticketsstayopen. Rootsolecentralwriter; thischeckpointpendingnormal sync/pushnow.
+
+
 **CURRENT HANDOFF — 2026-10-19 14:55 UTC.**
 
 APP09a3ad1d4 clean/pushed/FROZEN, PR1041 draft/unmerged. Env soleobserver74152 healthy; latest4selectedSUCCESS6running9queued,0failures. Normalgate/movingframes/automatichumans/reportSUCCESS; canonical namedseated pending. Finalv6 SHA7fb02a unchanged/approved, NOTexecuted untilall19success+mandatoryjobs. Freshoutputfinal-09a3-normal-dev-gates-v6 then ordinaryexact09a conditionalDEV squashmerge alreadydelegated. No duplicatepolling/redispatch/appedit.

@@ -109,3 +109,10 @@ fe76 actualbinary64idle globalFAIL44proper ONLYbitbar; all35nonbitparts0atidle0.
 Oral candidate `21cadaa8…` passes decoded source binding and strict rest head self/bit checks: zero bit-side/head intersections,6.16167mm minimum full-side unsigned distance. Virtual caps are analysis only; actual bit mesh remains open-ended. Earlier FK-checker and three-corner-crossing failures are preserved; a reviewed two-face diagonal correction solved the latter without coordinate/tolerance changes.
 
 A combined oral+repaired neck/mane+fe76gear candidate is now in its single bounded actual idle trial after executable source review. No combined fit, other pose, photographic or production acceptance yet. Exact rest-pass and reviewed source evidence are saved in actual-progress-1455.
+
+
+## Combined horse and harness — 2026-10-19 15:00 UTC
+
+Exact horse `ab70aff958bc8a2780458d37212be1866c730817f485fbebbf53bd3c0e3931c3` plus unchangedfe76 harness passed a complete bounded idle0 trial in36.13s. Decoded source binding and protectedrig/storage pass; all3,122head,1,492neck and456mane internal/external scopes pass; all36named gear parts against all13,226horse faces have0rawSAT/0proper contacts. Bit full-side unsigned clearance remains6.16167mm. Baseline negative crossings reproduce on the new horse; old baseline counts remain revision-specific.
+
+Full source, model and evidence package `bbbe96f7…` plus authority packet `1cdfbf43…` are backed up in github-backup-1459. The eight-pose walk/trot stage and subsequent63-framegrid are being prepared; neither has executed. Photographic anatomy/grooming, continuous motion and production acceptance remain open.

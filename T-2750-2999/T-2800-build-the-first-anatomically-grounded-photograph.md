@@ -126,3 +126,10 @@ Candidate `192204d9…` remains **unaccepted**. The retained head passed its int
 Candidate `1eee14e7…` passed all six complete binary64 idle collision scopes: retained head, new neck and replacement mane, each internally and against all other active horse triangles. No strict proper or unexpected SAT contacts; original negative controls still fail as intended. The fitted mane retires only the original240mane faces, preserving tail/dark head features and all old attribute bytes; the230vertex/456face replacement follows19actual coat roots with matched skin weights. Local export/Khronos0/0 and independent decoded REST/ownership passed. Archive `ba9d5b57…` is saved in actual-progress-1438.
 
 This is one idle pose and a short25mm reconstructed roached hair mass. Other poses, gear, photographic grooming/anatomy and production acceptance remain open. Actual visual review follows before broader animation testing or installation.
+
+
+## Combined horse and harness — 2026-10-19 15:00 UTC
+
+Exact horse `ab70aff958bc8a2780458d37212be1866c730817f485fbebbf53bd3c0e3931c3` plus unchangedfe76 harness passed a complete bounded idle0 trial in36.13s. Decoded source binding and protectedrig/storage pass; all3,122head,1,492neck and456mane internal/external scopes pass; all36named gear parts against all13,226horse faces have0rawSAT/0proper contacts. Bit full-side unsigned clearance remains6.16167mm. Baseline negative crossings reproduce on the new horse; old baseline counts remain revision-specific.
+
+Full source, model and evidence package `bbbe96f7…` plus authority packet `1cdfbf43…` are backed up in github-backup-1459. The eight-pose walk/trot stage and subsequent63-framegrid are being prepared; neither has executed. Photographic anatomy/grooming, continuous motion and production acceptance remain open.
