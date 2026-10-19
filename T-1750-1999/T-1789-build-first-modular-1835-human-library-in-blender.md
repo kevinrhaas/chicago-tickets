@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: 1041
-claimed_by: generic-human-master 10/18/2026, 3:42:42 PM CT
+claimed_by: continuing parallel period transport team 10/19/2026, 1:49:10 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-18T20:42:42.076Z
+claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
+claimed_at: 2026-10-19T18:49:10.983Z
 decision: null
 decision_answer: null
 ---
