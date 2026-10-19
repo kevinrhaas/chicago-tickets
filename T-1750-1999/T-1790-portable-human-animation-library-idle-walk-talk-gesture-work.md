@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: parallel people motion 10/18/2026, 10:06:49 PM CT
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
+claimed_at: 2026-10-19T03:06:49.232Z
 decision: null
 decision_answer: null
 ---
