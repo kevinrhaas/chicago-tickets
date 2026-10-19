@@ -73,3 +73,10 @@ See `evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/` and `
 ## Measured progress — 2026-10-19 05:48 UTC
 
 Four-part chest repair committed/pushed1cbcfb84e after full1007-step preflight and postchecks passed. Current actual63-pose whole-horse surface proof: zero intersections, minimum5.113260mm against declared5mm; original frozen negative control reproduces100proper crossings. Eight actual paired views inspected; no pressure/continuous-motion/photographic acceptance. Current dev1920 integration and separate required resident facial morph repair are pending before combined dev merge; no final smoke coverage or ticket closure.
+
+
+## Measured progress — 2026-10-19 08:26 UTC
+
+Current PR1041 baseline gear 45930f41 / horse 89b048b7 retains its 63-pose whole-horse four-part clearance proof: minimum 5.113260 mm, zero tested surface intersections. Outside next pair 078ed2ce / b880 has a fresh minimum 5.488604 mm for the four guarded parts; all 36 gear parts against the changed body patch have zero tested crossings and positive 3.254303 mm minimum, which is explicitly not a 5 mm claim for all gear. Corrected socket cap registration and six actual attachment overlaps pass, with all prior failed trials preserved.
+
+The new actual views still show unaccepted pad/girth gaps, thick layered straps and unsupported static trace/rein rods. Vertex stand-off reaches about 54 mm; no acceptable upper-gap threshold or containment claim is invented. Loaded tack, dynamic reins/contacts, continuous motion, historical construction and photographic fit remain open. Both current and next-pair receipts are saved under the central transport evidence; next-pair bytes remain outside PR1041.

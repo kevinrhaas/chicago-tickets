@@ -56,3 +56,8 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## W01 visible refinement checkpoint, 2026-10-19
 
 Reviewed original tapered octagonal spokes and1.2mm board/stave chamfers are integrated in the current combined source WIP, not yet committed. Exact bundle is saved alongside CHECKPOINT.md.9000→10792triangles,22mesh batches/47nodes and wheel bounds/pivots/socket frames unchanged; source wrapper regenerates exact reviewed GLB7749a0199b93bd196ecf6c3482af8ec537f1420a38f6fac88ab79fd8f34d44aa. Two-run determinism and independent Khronos0/0 passed on proposal bytes; controlled close/clay/mobile images were inspected. Full-view gain is modest; geometry cost and eventual LOD decision remain explicit. All dimensions/material variation are reconstructed engineering, no photographic/historical joinery acceptance. Combined full gate/commit pending; production ticket remains open.
+
+
+## Measured progress — 2026-10-19 08:26 UTC
+
+Combined PR1041 is committed and pushed at `f97ee94970385d35f469c449c6b111b0d8488057`, reconciled with dev c7770e99. Full local preflight passed 1,012 checks, and the remote required gate and canonical human workflow passed. The final 18-leg published desktop/mobile smoke matrix is running at that exact head; merge to dev remains conditional on all remaining checks and strict coverage. No production ticket closure. The separate C02 door/body portable package and actual browser proof remain saved for a later PR; construction/photo acceptance is still open.

@@ -62,3 +62,10 @@ See `evidence/period-transport-2026-10-18/fit-followup.md` and `CHECKPOINT.md` f
 Actual shared-surface shoulder V1 eliminated detached caps topologically but rendered as an angular/webbed sheet: VISUALFAIL/unapplied. V2/V2b ellipse variants had actual self/body or collar collisions; V2c was CPU-safe but still visually webbed. All source/16capture/failure archives retained. Approved next LOCAL forechest sculpt permits declared torso changes while protecting head/neck, skeleton, clips, sockets and lower/sole positions. First localforechestV1 passes sampled body/self/topology/Khronos/sole checks but gear fit FAIL; exactbaseline controls identified preexisting strap crossings rather than blaming all newbody. Bare-body diagnostic review and independent original-baseline gear repair are separate outside-app lanes. No photographic/anatomical or production acceptance.
 
 See `evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/` and `CHECKPOINT.md` for exact recovery. Queue/state unchanged.
+
+
+## Measured progress — 2026-10-19 08:26 UTC
+
+The outside b880 body / 078 gear pair passed its fresh 63-pose intersection/distance checks, and eight full plus two detail desktop/mobile views were captured. Root reviewed four actual current images and rejected photographic acceptance: primitive ear/head/neck silhouette, tubular limbs, angular hindquarters, flat tail and synthetic tack remain. The archive `horse-v2-pair-cpu-sidecar-visual-next-pr-2026-10-19.tar.gz` (SHA256 `e9e203ecef7d653c54ec0205efbbe13cac0a70c605a1066af93e0cf68c261456`) preserves all proof and the earlier framing failure. Sidecar-only cleanup passes 13 negative-control tests under normal and optimized Python; original GLB bytes stay unchanged.
+
+A new isolated ear-shape proposal is being compared with actually viewed, cleared Cuyer plates. Its altered ear geometry/weights and its own metadata authority are explicit; no metric, breed or Chicago identity is inferred from the diagrams. This proposal remains outside the fixed f97 merge candidate. Anatomical and photographic production acceptance stays open.

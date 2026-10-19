@@ -101,3 +101,10 @@ Actual canonical run39200379231 on e1b31c070 reached measurement: all three norm
 ## Measurement diagnosis correction — 2026-10-19 05:57 UTC
 
 The prior CI report was not evidence that body targets were absent: tools/human_fixture.html enumerated only the first skinned mesh, now hair. The installed minimal fix enumerates all skinned meshes and preserves exact morph defaults without changing the required names or >1mm movement threshold. Actual-source Three.js canaries reproduce the original reader failure and pass corrected mesh orders; missing/no-op targets still fail. The actual resident target arrays and detailed quality remain pending corrected canonical CI. No source-quality expression replacement is part of this fix.
+
+
+## Measured progress — 2026-10-19 08:26 UTC
+
+Canonical human run [39220530645](https://github.com/kevinrhaas/chicago/actions/runs/39220530645) passed at `f97ee94970385d35f469c449c6b111b0d8488057`: both jobs, 32 actual source/web GLB fixture measurements, 24 published and 24 source resident inspections, six hierarchy/raw surface comparisons, and 24 Khronos reports with zero errors/warnings. The actual published hair normals are now Int16; maximum length error 0.000022319 is below the unchanged 0.005 guard. The repaired all-mesh reader finds three moving expressions at LOD0/1. The earlier missing-target report was a reader defect, and the later hair failure was pinned exporter high-mode quantization; neither is silently relabeled as a source-quality acceptance.
+
+Existing reconstructed Otis Bardwell, Joseph Dufresne and Martin Flynn remain the identities. PR1041 has passed full local 1,012-step preflight and the remote required gate; final browser smoke coverage is still pending. Independent CI-image review, photographic quality, scene placement, riding/boarding and production acceptance remain open. PR1046 is a preserved source checkpoint consolidated into PR1041, not a second merge target. See `evidence/period-transport-2026-10-18/hair-normal-precision-2026-10-19/f97-final-validation/canonical-success/`.
