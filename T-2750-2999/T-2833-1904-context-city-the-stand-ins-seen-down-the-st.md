@@ -1,7 +1,7 @@
 ---
 id: T-2833
 title: 1904 context city: the stand-ins seen down the streets read as period buildings and trees, not boxes and blobs
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/18/2026, 9:27:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-19T02:27:26.033Z
 decision: null
 decision_answer: null
 ---
