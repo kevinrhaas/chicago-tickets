@@ -19,7 +19,6 @@
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
-T-2833 — 1904 context city: the stand-ins seen down the streets read as period buildings and trees, not boxes and blobs
 T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
