@@ -1,7 +1,7 @@
 ---
 id: T-2745
 title: 1812 trees from the research: North Side woods run east to the sand hills, wooded forks, the young 16th-18th Street grove and dune scrub, the Kinzie poplars and young cottonwoods
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-17
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2744 (the 1835 placement tools and grove records it reuses)
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
