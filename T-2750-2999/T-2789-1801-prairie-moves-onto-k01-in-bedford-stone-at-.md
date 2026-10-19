@@ -1,7 +1,7 @@
 ---
 id: T-2789
 title: 1801 Prairie moves onto K01 in Bedford stone at T-2538's massing: the main block, south pavilion, flank section, gabled section and east range, its round tower and north-east turret on K08 towers with their cones over the main roof, compared with the draft from the Taylor camera, the draft builder's copy retired
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2539
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 2:48:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39217831963
+claimed_at: 2026-10-19T07:48:34.786Z
 decision: null
 decision_answer: null
 ---
