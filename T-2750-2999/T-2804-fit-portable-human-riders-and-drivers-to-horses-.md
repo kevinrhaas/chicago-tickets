@@ -61,3 +61,7 @@ The outside-app W01 proposal includes a reconstructed removable bench and footbo
 The proposed canonical builder clip converts source global poses through actual Blender rest bases, preserving idle/walk unless explicitly enabled. Pure source FK/LBS tests preserve seat and foot contact through independent rest-roll frames. Actual Blender export, clothing triangles, palm/rein contact, continuous motion and photographic acceptance remain open. No mounted rider or saddle is implemented. This is development work under the dependencies, with no new scene placement or ticket completion.
 
 [Saved proposal archive](../evidence/period-transport-2026-10-18/ci379-and-transport-repairs/resident-wagon-driver-draft-latest.tar.gz).
+
+## Parallel checkpoint — 2026-10-19
+
+Outside-app named-resident driver adapter and source arm-IK/seat fit prepared. Preserve existing identity/date, no invented occupation/likeness, no keyframed scale. Actual canonical export/clothed contact/loaded reins remain pending. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.

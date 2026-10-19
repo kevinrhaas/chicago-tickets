@@ -50,3 +50,7 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+## Parallel checkpoint — 2026-10-19
+
+Additive grounded engineering trot integrated into app WIP, exact regeneration and bare-horse browser sole checks pass. Clip dropdown reads actual duration/stride. Transition/stop blend FAILED actual sole -22.9mm; world-foot IK replacement in progress outside app. No riding/hitch-trot acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.

@@ -44,3 +44,7 @@ historical people. Implementation target: `kevinrhaas/chicago` **dev**.
 
 **Stop condition:** named people can share one animation library in Blender and the browser
 instead of embedding bespoke actions in every character file.
+
+## Parallel checkpoint — 2026-10-19
+
+Named-person source motion/CI authoring parcel is being archived; actual BPy/export, loaded contact and scene acceptance remain pending T1789. No anonymous replacement. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.

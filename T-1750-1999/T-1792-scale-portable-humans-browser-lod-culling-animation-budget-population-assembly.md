@@ -52,3 +52,7 @@ population using measured budgets and reusable assets rather than revisiting the
 ## Depends on — owner steering, 2026-10-18
 
 T-2672 policy and the portable asset/export/runtime prerequisites still apply. Prefer an accepted asset based on an existing attested, inferred or reconstructed person and record its period/wardrobe eligibility and measured browser cost. Mark Beaubien (T-2675) is one suitable route, not a mandatory identity for all work. If no suitable existing person can serve, T-2823 permits a specifically documented anonymous adult fallback with accepted period-qualified asset/wardrobe and a recorded no-suitable-person basis. An empty-eligibility profile, CI fixture or unreviewed placeholder cannot satisfy this prerequisite. No resident records or facts may be invented to populate the scene.
+
+## Parallel checkpoint — 2026-10-19
+
+Actual fixture desktop/mobile 12 cases pass functional skin/morph, scheduling and logical resource cleanup, including disposal during pending parse. One mobile framing gap remains. Outside-app source archive follows; no named-resident/photo or town admission acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.

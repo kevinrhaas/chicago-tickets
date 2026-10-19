@@ -51,3 +51,7 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+## Parallel checkpoint — 2026-10-19
+
+Outside-app unoccupied boarding camera study passes desktop/mobile/touch/reduced-motion controls with actual carriage sockets. Archive boarding-study-review.tar.gz. No visible person, physical boarding or production acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.

@@ -57,3 +57,7 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 The complete split fresh diagnostic covers 36 unique rows: six stands, three tiers and two viewports. Light's worst readings are 1,154,091 triangles and 89 draw calls. Its strict limits remain 1,190,000 triangles and 90 calls; the general 330-call budget does not override Light's separate floor. Only one call and 35,909 triangles remain at the sampled worst.
 
 These measurements contain no new town humans or moving traffic. Full/balanced repricing buys no unmeasured future actors. Before adding traffic, measure shared materials, instancing, LOD costs and actual savings, then qualify complete published desktop/mobile coverage. Existing placed static wagons remain intact. See [the complete pricing receipt](../evidence/period-transport-2026-10-18/ci379-and-transport-repairs/combined36.md).
+
+## Parallel checkpoint — 2026-10-19
+
+Outside-app deterministic distant-transport prototype prepared with route/LOD/admission tests. Actual asset draw cost exceeds current Light headroom; no main-scene placement/production acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
