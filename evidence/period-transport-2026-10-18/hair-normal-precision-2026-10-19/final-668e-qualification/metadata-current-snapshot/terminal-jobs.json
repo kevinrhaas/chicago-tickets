@@ -1321,5 +1321,248 @@
       }
     ],
     "scope": "Job/step metadata only; no logs or artifact inspection"
+  },
+  "39240930078": {
+    "run_id": 39240930078,
+    "attempt": 1,
+    "head_sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
+    "collected_utc": "2026-10-19T11:24:37.374320+00:00",
+    "required_job_names": [
+      "smoke"
+    ],
+    "required_jobs_completed_success": true,
+    "jobs": [
+      {
+        "id": 118021262140,
+        "name": "smoke",
+        "run_id": 39240930078,
+        "head_sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
+        "run_attempt": 1,
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/kevinrhaas/chicago/actions/runs/39240930078/job/118021262140",
+        "started_at": "2026-10-19T10:55:37Z",
+        "completed_at": "2026-10-19T11:24:12Z",
+        "steps": [
+          {
+            "name": "Set up job",
+            "number": 1,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/checkout@v4",
+            "number": 2,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/setup-node@v4",
+            "number": 3,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Install Playwright",
+            "number": 4,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Publish the mirror the smoke serves (site/4d/ is generated)",
+            "number": 5,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run the smoke against the published mirror",
+            "number": 6,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/setup-node@v4",
+            "number": 11,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/checkout@v4",
+            "number": 12,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Complete job",
+            "number": 13,
+            "status": "completed",
+            "conclusion": "success"
+          }
+        ]
+      }
+    ],
+    "scope": "Job/step metadata only; no logs or artifact inspection"
+  },
+  "39240926556": {
+    "run_id": 39240926556,
+    "attempt": 1,
+    "head_sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
+    "collected_utc": "2026-10-19T11:27:37.313641+00:00",
+    "required_job_names": [
+      "smoke"
+    ],
+    "required_jobs_completed_success": true,
+    "jobs": [
+      {
+        "id": 118021252293,
+        "name": "smoke",
+        "run_id": 39240926556,
+        "head_sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
+        "run_attempt": 1,
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/kevinrhaas/chicago/actions/runs/39240926556/job/118021252293",
+        "started_at": "2026-10-19T10:55:35Z",
+        "completed_at": "2026-10-19T11:27:15Z",
+        "steps": [
+          {
+            "name": "Set up job",
+            "number": 1,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/checkout@v4",
+            "number": 2,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/setup-node@v4",
+            "number": 3,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Install Playwright",
+            "number": 4,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Publish the mirror the smoke serves (site/4d/ is generated)",
+            "number": 5,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run the smoke against the published mirror",
+            "number": 6,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/setup-node@v4",
+            "number": 11,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/checkout@v4",
+            "number": 12,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Complete job",
+            "number": 13,
+            "status": "completed",
+            "conclusion": "success"
+          }
+        ]
+      }
+    ],
+    "scope": "Job/step metadata only; no logs or artifact inspection"
+  },
+  "39240974579": {
+    "run_id": 39240974579,
+    "attempt": 1,
+    "head_sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
+    "collected_utc": "2026-10-19T11:30:37.324925+00:00",
+    "required_job_names": [
+      "smoke"
+    ],
+    "required_jobs_completed_success": true,
+    "jobs": [
+      {
+        "id": 118021406990,
+        "name": "smoke",
+        "run_id": 39240974579,
+        "head_sha": "668e48180cfa20fe48b594041fcc0c0e2499ee72",
+        "run_attempt": 1,
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/kevinrhaas/chicago/actions/runs/39240974579/job/118021406990",
+        "started_at": "2026-10-19T11:05:22Z",
+        "completed_at": "2026-10-19T11:30:03Z",
+        "steps": [
+          {
+            "name": "Set up job",
+            "number": 1,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/checkout@v4",
+            "number": 2,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/setup-node@v4",
+            "number": 3,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Install Playwright",
+            "number": 4,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Publish the mirror the smoke serves (site/4d/ is generated)",
+            "number": 5,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run the smoke against the published mirror",
+            "number": 6,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/setup-node@v4",
+            "number": 11,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/checkout@v4",
+            "number": 12,
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Complete job",
+            "number": 13,
+            "status": "completed",
+            "conclusion": "success"
+          }
+        ]
+      }
+    ],
+    "scope": "Job/step metadata only; no logs or artifact inspection"
   }
 }
