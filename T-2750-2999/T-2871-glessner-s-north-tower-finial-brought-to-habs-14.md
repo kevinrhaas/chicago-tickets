@@ -1,7 +1,7 @@
 ---
 id: T-2871
 title: Glessner's north tower finial brought to HABS 14: on the re-solved camera the model's tip stands about 27 px WEST (image-right) and 10 px above the photograph's (x 1329 against 1302), while HABS 01 holds it within 2 px; a joint fit of both photographs puts the tip at about W 39.7 / S 8.6 / 44.9 ft (both within 3 px), which a drum of radius about 8.6 ft still tangent to 18th Street and ending at the same W 48.3 would carry - the tower's plan ruled against both photographs and the camera's own off-plane residuals (stack crest 15 px, tower depth 15 px), built or argued; rebaked and both match records' remaining north items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2869
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 11:04:04 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39281492286
+claimed_at: 2026-10-19T16:04:04.834Z
 decision: null
 decision_answer: null
 ---
