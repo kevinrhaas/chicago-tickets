@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: horse-model agent 10/18/2026, 1:45:58 PM CT
+claimed_by: continuing horse model agent 10/19/2026, 9:32:50 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-18T18:45:58.871Z
+claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
+claimed_at: 2026-10-19T14:32:50.153Z
 decision: null
 decision_answer: null
 ---
