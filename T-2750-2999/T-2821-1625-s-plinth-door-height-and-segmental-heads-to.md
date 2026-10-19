@@ -1,7 +1,7 @@
 ---
 id: T-2821
 title: 1625's plinth, door height and segmental heads to the McBirney photograph, whatever the rear section's piece left open, and 1625's match record brought to matches (the group's image gate)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2754
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 1:16:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39207214812
+claimed_at: 2026-10-19T06:16:24.483Z
 decision: null
 decision_answer: null
 ---
