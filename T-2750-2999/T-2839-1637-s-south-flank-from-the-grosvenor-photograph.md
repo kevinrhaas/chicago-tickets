@@ -1,7 +1,7 @@
 ---
 id: T-2839
 title: 1637's south flank from the Grosvenor photograph: the bay's columns at its angles and cheeks, the stone belt course along the wall's foot, and the panelled stack placed on the south wall by crossing the photograph with the engraving; rebaked
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2781
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 2:39:01 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39214273784
+claimed_at: 2026-10-19T07:39:01.955Z
 decision: null
 decision_answer: null
 ---
