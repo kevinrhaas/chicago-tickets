@@ -1,5 +1,11 @@
 # Session recovery checkpoint — 2026-10-18
 
+**CURRENT HANDOFF — 2026-10-19 11:49 UTC.**
+
+App HEAD remains clean, pushed and frozen at `668e48180cfa20fe48b594041fcc0c0e2499ee72`. PR1041 is draft/unmerged. Latest metadata shows 18 of 19 qualification workflows successful and one smoke run still active (39240923017). Observer session46559 is the sole observer; no redispatch or duplicate observer. When it completes successfully, execute reviewed v3 normal gate verifier as described below, then update PR body, ready and normal exact-head squash merge into dev when clean. No production promotion. Prepared green PR body in shared is conditional and has NOT been published. Strict passed-stdout union remains unproven and artifact content uninspected.
+
+The new outside horse idle-checker archive `216352eeceda10684b98f9bbf44c7db71a6d688e815e381c8819f4bf5d9c20fa` is saved here but UNEXECUTED. Binary64 capture and all12 pinned negative signatures reviewed; reviewer found that all12 plus duplicate known witness is collapsed by a set. Author is preparing another preserved source revision to refuse duplicate known signatures before any actual capture/SAT release. Existing source and all model failures remain preserved. This next work does not change the app or block an otherwise green ordinary merge.
+
 **CURRENT HANDOFF — 2026-10-19 11:42 UTC.**
 
 The application is clean and frozen at **668e48180cfa20fe48b594041fcc0c0e2499ee72**. PR1041 is draft and unmerged. All 19 final qualification workflows were dispatched once; the single metadata observer is session46559, writing `/workspace/shared/final-668e-metadata/`. Latest snapshot 2026-10-19T11:42:36.774237+00:00: {'success': 17, 'pending': 2}. Main gate, full moving-frames/phone check, automatic humans/report and canonical human/resident-master workflow are green. Remaining smoke runs still block merge. Do not redispatch or start another observer. No browser or local gate is running.
