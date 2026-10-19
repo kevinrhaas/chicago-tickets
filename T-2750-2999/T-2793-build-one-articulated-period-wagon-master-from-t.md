@@ -51,3 +51,8 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+
+## W01 visible refinement checkpoint, 2026-10-19
+
+Reviewed original tapered octagonal spokes and1.2mm board/stave chamfers are integrated in the current combined source WIP, not yet committed. Exact bundle is saved alongside CHECKPOINT.md.9000→10792triangles,22mesh batches/47nodes and wheel bounds/pivots/socket frames unchanged; source wrapper regenerates exact reviewed GLB7749a0199b93bd196ecf6c3482af8ec537f1420a38f6fac88ab79fd8f34d44aa. Two-run determinism and independent Khronos0/0 passed on proposal bytes; controlled close/clay/mobile images were inspected. Full-view gain is modest; geometry cost and eventual LOD decision remain explicit. All dimensions/material variation are reconstructed engineering, no photographic/historical joinery acceptance. Combined full gate/commit pending; production ticket remains open.

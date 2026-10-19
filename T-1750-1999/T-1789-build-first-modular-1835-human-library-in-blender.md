@@ -76,3 +76,8 @@ all973 checks/preflight passed. It fixes the reproduced Python3.11/3.12 reductio
 difference without weakening exact-byte comparison. Eleven source tests pass; all
 three inputs also reproduce with Python3.13. Corrected canonical CI39169918123 is
 running. No actual resident exports or photographic/driver acceptance yet.
+
+
+## Actual surface authoring failure, 2026-10-19
+
+2679d6c98 local preflight991/0 and postcommit changelog passed, but canonical39184480142 failed on the first resident body custom-normal readback guard. Numeric error was not logged before raise; later resident master/export/hair/hierarchy/browser checks skipped. Legacy fixture job passed separately. Bounded diagnostic-only code now precedes the unchanged1e-3guard in the combined PR1041 WIP. Pinned Blender codec analysis proves1e-3 is not a universal quantizer bound under ordinary ideal frames, but supplies no complete floating-point/fallback replacement or actual resident error/seam measurements. No threshold waiver or photographic acceptance. Failure logs/source analysis and unapplied alternatives are archived beside CHECKPOINT.md. PR1046 is a preserved source checkpoint for consolidation, not a separate merge target.

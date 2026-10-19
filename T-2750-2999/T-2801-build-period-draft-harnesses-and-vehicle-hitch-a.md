@@ -54,3 +54,10 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Development checkpoint, 2026-10-18
 
 See `evidence/period-transport-2026-10-18/fit-followup.md` and `CHECKPOINT.md` for the pushed code revision, measured progress and remaining gates. These are bounded original development studies; no photographic-quality, complete physical-fit or production acceptance is claimed. T-2795 work is dependency exploration while its master/gear/gait acceptance remains unfinished.
+
+
+## Headstrap trial checkpoint, 2026-10-19
+
+Unapplied original head/gear source and actual controlled views are archived in `evidence/period-transport-2026-10-18/combined-transport-resident-wip/horse-head-next-evidence-2026-10-19.tar.gz` (SHA2566f02b1ea392679d56d11ac73af9aebbda8dc34f2fa5c0dac286689716cf7b046). Full triangle SAT checks across21 sampled walk phases found118crossing pairs/phase on baseline head/original headstraps,50on first new head/original gear. A tighter route then failed58pairs/phase despite positive sampled vertex signs; this failure is preserved. Final paired V2head/V3gear has0pairs at21phases and a separately computed2.146834mm unsigned triangle minimum. These are discrete surface tests against a nonwatertight whole horse: no containment, comfort, continuous motion, load or historical fit acceptance follows.
+
+Root actually inspected head profile/three-quarter and coupled gear three-quarter images. Cheek geometry and strap routing improve, but thick ears, grommet eyelid, head/neck notch, angular straps and near-eye check-rein remain visible. Candidate remains outside the application while the head/neck join is refined. Widths/thicknesses, bit/rein endpoints and31unaffected mesh buffers are preserved in the candidate; paired gear must not be applied independently to the baseline horse. Production ticket remains claimed/open.
