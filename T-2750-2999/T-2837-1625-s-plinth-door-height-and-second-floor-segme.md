@@ -1,7 +1,7 @@
 ---
 id: T-2837
 title: 1625's plinth, door height and second-floor segmental heads to the McBirney photograph: the plain plinth to 0.26 m, the door on one riser to the print's 2.64 m head, the heads re-read; rebaked, and the match record's three front items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2821
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1073
 claimed_by: run 10/19/2026, 1:22:25 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-19T09:05:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39207214812
 claimed_at: 2026-10-19T06:22:25.098Z
 decision: null
