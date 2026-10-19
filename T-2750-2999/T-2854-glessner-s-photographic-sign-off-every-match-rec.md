@@ -34,3 +34,11 @@ When T-2761 was split (2026-10-19T09:17:54.024Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39227553559) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2849 (PR #1082)
+
+T-2849 closed the stable gable's centring, dovecote, corbels and keystone hoist, and built the cupola body in stone. These stable-end items are still open in the habs-01 and Cornell match records, and this sign-off cannot pass until they are built:
+- the hoist beam's projection: HABS photograph 1 and the Cornell view show it several times its modelled 1.75 ft;
+- the cupola's stone landing ledges run unbroken round its corners in the Cornell print (the model stops them short);
+- the cupola's stone shaft stands taller above the roof in both northwest prints;
+- the pyramid's covering, like the whole roof, reads slate against the model's red tile (house-wide).
