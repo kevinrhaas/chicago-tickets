@@ -1,7 +1,7 @@
 ---
 id: T-2925
 title: Glessner's bow and stair tower to HABS sheet 4 in the court view: the bow's lights and door at the drawing's sizes (two broad lights and a narrow one above; a broad light, the door and a narrow light below) under its continuous stone lintel and sill courses, the stair tower's four slits and three lantern lights at the drawn heights and places on the plan's drum, and the three dormers re-zeroed onto the plan's frame (T-2879); rebaked and those habs04-court-exterior items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2862
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 4:57:23 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39402887819
+claimed_at: 2026-10-20T09:57:23.076Z
 decision: null
 decision_answer: null
 ---
