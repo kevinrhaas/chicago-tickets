@@ -1,7 +1,7 @@
 ---
 id: T-2921
 title: 1801 Prairie's bowed bay and paired windows from the Taylor photograph: the two-storey bow between the loggia and the pavilion with its transomed lights, its cornice carried up to the photograph's and its stone balcony, and the pavilion's paired mullioned and transomed windows; the Taylor match record's bay-and-openings item closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2911
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1132
 claimed_by: run 10/20/2026, 3:55:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T13:37:05Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39392738801
 claimed_at: 2026-10-20T08:55:28.607Z
 decision: null

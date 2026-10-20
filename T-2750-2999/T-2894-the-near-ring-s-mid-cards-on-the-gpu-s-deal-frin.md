@@ -1,7 +1,7 @@
 ---
 id: T-2894
 title: The near ring's mid cards on the GPU's deal (fringe, inner handover and census), so a near pass no longer walks the mid ring on the CPU; read with measure_walk_frames.mjs's near re-deal line and the CPU profile at the throttled phone profile, with the near re-deal line's pass count fixed to agree with the near rebuild count first
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2774
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: 1135
 claimed_by: run 10/20/2026, 4:14:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T13:37:58Z
 claimed_run: null
 claimed_at: 2026-10-20T09:14:34.941Z
 decision: null
