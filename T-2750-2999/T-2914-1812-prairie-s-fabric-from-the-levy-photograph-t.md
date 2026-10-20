@@ -1,7 +1,7 @@
 ---
 id: T-2914
 title: 1812 Prairie's fabric from the Levy photograph: the stone stops at the second floor's belt and the street front over it is brick, the south projection brick over its rock-faced basement, the belts, sills, arches, voussoirs and the north window's quoined surround still stone (K01 learns a brick line on a stone front and on a stone bay)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2890
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 1:24:09 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39378715538
+claimed_at: 2026-10-20T06:24:09.920Z
 decision: null
 decision_answer: null
 ---
