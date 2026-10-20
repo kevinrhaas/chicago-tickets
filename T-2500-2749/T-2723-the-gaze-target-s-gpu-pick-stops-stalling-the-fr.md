@@ -47,3 +47,7 @@ governor (T-2555) cannot trim. Readings: `docs/measurements/t-2721-live-llvmpipe
 **Before/after for this ticket:** the same command with and without the change, on hardware
 whose frame costs tens of milliseconds if T-2722's answer provides it; on this runner, the
 `--no-gaze` reading is the floor the change can reach (no `readPixels` in the profile).
+
+## Finding (PR #1112, 2026-10-20)
+
+Since T-2827 the phone profile draws no gaze pick at all (0 offscreen draws, no `readPixels`), so the stall T-2721 measured at the phone profile was already gone there; what remained was desktop / fine pointer only, and that is what `gpuPickAsync` takes off the frame (SwiftShader: `readPixels` 41.2 s / 37.9 s -> none, landing on the `--no-gaze` floor). The frame-pacing gain needs GPU hardware (T-2722); `--gl llvmpipe` fell back to SwiftShader on the steward box (no libEGL_mesa).
