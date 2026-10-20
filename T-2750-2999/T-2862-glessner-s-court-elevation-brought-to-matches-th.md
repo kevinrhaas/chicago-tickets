@@ -1,7 +1,7 @@
 ---
 id: T-2862
 title: Glessner's court elevation brought to matches: the bow's lights and door read on HABS sheet 4 (two broad lights and a narrow one above; a broad light, the door and a narrow light below), the stair tower's slit lights and every remaining court-exterior item closed; rebaked and habs04-court-exterior brought to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2852
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 4:51:47 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T09:57:16.856Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39402887819
 claimed_at: 2026-10-20T09:51:47.698Z
 decision: null
