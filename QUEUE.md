@@ -46,7 +46,6 @@ T-2915 — 1812 Prairie's carved stone from the Levy photograph: the carved frie
 T-2891 — 1812 Prairie's remaining front items from the Levy photograph: the porch's broad round arch over the door and side light, the straight stair between solid stone balustrades with its pierced landing panel, the downpipes at both ends, the projection flush with the south corner and its barred basement light near the walk, and the gable's swell, shoulder stones, nine-light grid window and carved kneelers
 T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-2542 — 1811 Prairie's roofs from the photograph and the Inland Architect plate: the front bay's stone gable with its arched lights and fretwork balcony, the entrance block's pyramid and finial, the main slate roof, the north flank's stepped brick gable and the stacks; the plate's camera and match record, and the envelope's match records brought to matches (after the piece before it)
 T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
