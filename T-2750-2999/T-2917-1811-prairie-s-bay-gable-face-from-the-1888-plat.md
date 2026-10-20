@@ -1,7 +1,7 @@
 ---
 id: T-2917
 title: 1811 Prairie's bay gable face from the 1888 plate: the great round arch over three flat-headed lights between colonnettes, its tympanum's three small round-arched lights and the carving over it, the gable about 4 m across in the front's smooth ashlar (K01's wall gable learns an arched recess)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1892
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 9:51:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T15:14:31.537Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39442074078
 claimed_at: 2026-10-20T14:51:15.160Z
 decision: null
