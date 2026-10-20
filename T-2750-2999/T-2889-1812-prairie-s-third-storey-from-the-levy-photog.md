@@ -1,7 +1,7 @@
 ---
 id: T-2889
 title: 1812 Prairie's third storey from the Levy photograph: the large round-arched window with its fanlight over the balcony and the smaller arched window to its north, with their voussoirs, rising into the shaped gable, whose face is brought onto the wall's own plane to let them (the record's gable-face item); and the second storey's wide north window (1.66 m) under its transom
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2544
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1114
 claimed_by: run 10/19/2026, 8:07:56 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T04:43:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39351189462
 claimed_at: 2026-10-20T01:07:57.109Z
 decision: null
