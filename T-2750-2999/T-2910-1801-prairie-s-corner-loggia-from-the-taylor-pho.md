@@ -1,7 +1,7 @@
 ---
 id: T-2910
 title: 1801 Prairie's corner loggia from the Taylor photograph: a round arch on the front and one on the 18th Street face, each about 1.9 m wide centred about 1.6 m from the corner, and the broad stair of nine risers coming down the front between swept cheek walls to footing blocks; the Taylor match record's corner-entrance item closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2790
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1123
 claimed_by: run 10/19/2026, 11:18:50 PM CT
 blocked_on: null
 needs_bake: false
