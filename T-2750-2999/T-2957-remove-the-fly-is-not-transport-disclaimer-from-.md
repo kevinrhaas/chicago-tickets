@@ -1,7 +1,7 @@
 ---
 id: T-2957
 title: Remove the fly-is-not-transport disclaimer from the app's text
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1151
 claimed_by: run 10/20/2026, 1:21:19 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T18:44:44Z
 claimed_run: null
 claimed_at: 2026-10-20T18:21:21.040Z
 decision: null
