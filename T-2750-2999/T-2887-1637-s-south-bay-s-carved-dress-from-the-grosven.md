@@ -1,7 +1,7 @@
 ---
 id: T-2887
 title: 1637's south bay's carved dress from the Grosvenor photograph: the capitals' and consoles' carving, the frieze's ovals, the corona's mouldings and the shutters at the window over the bay; and the Grosvenor record brought to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2840
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 10:08:12 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T03:28:33.121Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39362047857
 claimed_at: 2026-10-20T03:08:12.695Z
 decision: null
