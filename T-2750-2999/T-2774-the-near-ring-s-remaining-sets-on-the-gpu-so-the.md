@@ -1,7 +1,7 @@
 ---
 id: T-2774
 title: The near ring's remaining sets on the GPU, so the near re-deal reaches zero: the heads hung from the GPU's deal and the CPU near walk retired (T-2717 read it unchanged at 2.6-3.4 ms a pass, because it still deals every near slot for the heads), then mid, forbs and far shrubs, each read with measure_walk_frames.mjs's near re-deal line at the throttled phone profile
-state: claimed
+state: split
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 7:57:39 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T01:32:01.599Z
 claimed_run: null
 claimed_at: 2026-10-20T00:57:39.107Z
 decision: null
