@@ -58,7 +58,6 @@ T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: th
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest, T-2670) is held in band 8F.
-T-2825 — Visitor-readable research records: liberties, ground, open questions, people and source details name no internal ticket number or record id, in any mode
 
 # --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
 T-2894 — The near ring's mid cards on the GPU's deal (fringe, inner handover and census), so a near pass no longer walks the mid ring on the CPU; read with measure_walk_frames.mjs's near re-deal line and the CPU profile at the throttled phone profile, with the near re-deal line's pass count fixed to agree with the near rebuild count first
