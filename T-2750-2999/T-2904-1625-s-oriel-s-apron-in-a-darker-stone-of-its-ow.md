@@ -1,7 +1,7 @@
 ---
 id: T-2904
 title: 1625's oriel's apron in a darker stone of its own (a K01 slot for a bay's apron, or an argued ruling that the print's tone is shadow), and 1625's match record brought to matches with nothing open (the group's image gate)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2885
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1129
 claimed_by: run 10/20/2026, 2:25:16 AM CT
 blocked_on: null
 needs_bake: false
