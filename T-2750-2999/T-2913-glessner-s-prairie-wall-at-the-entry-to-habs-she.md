@@ -1,7 +1,7 @@
 ---
 id: T-2913
 title: Glessner's Prairie wall at the entry to HABS sheet 5: the course lines either side of the door (the sheet's at about 7.1, 5.8, 4.7, 3.8, 2.5 and 1.0 ft over the door datum against the build's 7.3, 6.7, 6.1, 5.5, 4.4, 3.6, 2.3 and 0.8) and the header stone's length and joints (the sheet's at S 27.7 and 36.0 against the period photograph's stone of about 10.6 ft) read and built or ruled; rebaked and habs5-entry brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2853
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 12:17:45 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39463754866
+claimed_at: 2026-10-20T17:17:45.878Z
 decision: null
 decision_answer: null
 ---
