@@ -1,7 +1,7 @@
 ---
 id: T-2719
 title: T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2602
 opened: 2026-10-17
-closed: null
+closed: 2026-10-20
 pr: 1137
 claimed_by: run 10/20/2026, 8:47:57 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T15:00:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39432047918
 claimed_at: 2026-10-20T13:47:57.434Z
 decision: null
