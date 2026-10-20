@@ -1,7 +1,7 @@
 ---
 id: T-2960
 title: 1736 Prairie's upper windows and veranda to the c. 1890 photograph: the upper lights' segmental heads under moulded hoods whose ends turn down, and the veranda in painted timber, its slender posts carried down past the deck onto piers with the raised basement's dark openings between them and a light timber rail for K07's stone balustrade; those match-record items closed and rebaked
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2935
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 2:32:53 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39483261160
+claimed_at: 2026-10-20T19:32:53.807Z
 decision: null
 decision_answer: null
 ---
