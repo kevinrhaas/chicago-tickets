@@ -1,7 +1,7 @@
 ---
 id: T-2899
 title: The smoke's boot wait is the 90 s page default, not its 30 s: smoke_renderer.mjs:1778 passes { timeout: 30000 } as waitForFunction's arg, not its options; desktop boots on a loaded 4-core runner take 107-170 s and fail 'scene reaches ready' with zero page errors - pass the options in their slot and set the wait from a measured boot
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 1:38:08 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-20T06:38:08.989Z
 decision: null
 decision_answer: null
 ---
