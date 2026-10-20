@@ -1,7 +1,7 @@
 ---
 id: T-2891
 title: 1812 Prairie's remaining front items from the Levy photograph: the porch's broad round arch over the door and side light, the straight stair between solid stone balustrades with its pierced landing panel, the downpipes at both ends, the projection flush with the south corner and its barred basement light near the walk, and the gable's swell, shoulder stones, nine-light grid window and carved kneelers
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2544
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 12:39:05 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T17:40:36.672Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39465680402
 claimed_at: 2026-10-20T17:39:05.036Z
 decision: null
