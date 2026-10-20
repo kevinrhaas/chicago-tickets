@@ -1,7 +1,7 @@
 ---
 id: T-2897
 title: Why Adaptive pacing made turning less steady on the owner's phone, found and fixed in the governor: no pace on a 120 Hz phone's own between-rate, a pace earned over three windows, the scale ladder stopped at a step that buys nothing; the mechanism fitted from his Fixed rows by tools/model_governor_phone.mjs, and the readout printing ratio switches, hitches on a switch and the paced share
-state: open
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2829
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1112
 claimed_by: null
 blocked_on: null
 needs_bake: false
