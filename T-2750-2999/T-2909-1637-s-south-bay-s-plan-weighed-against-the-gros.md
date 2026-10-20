@@ -1,7 +1,7 @@
 ---
 id: T-2909
 title: 1637's south bay's plan weighed against the Grosvenor photograph and its record brought to matches: a deeper bay or longer cheeks against the 1911 sheet's 0.75 m (the photograph's west cheek 47 px against the build's 37), the front light's place and the large roundel in the base under it, and the Grosvenor record reading matches with nothing open
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2887
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1126
 claimed_by: run 10/20/2026, 12:22:25 AM CT
 blocked_on: null
 needs_bake: false
