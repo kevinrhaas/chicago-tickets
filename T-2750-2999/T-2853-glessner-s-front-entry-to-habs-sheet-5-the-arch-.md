@@ -1,7 +1,7 @@
 ---
 id: T-2853
 title: Glessner's front entry to HABS sheet 5: the arch's proportion, the stone joints, the door leaf and hardware built, and the carving's leaves read at the drawing's grain; rebaked and habs5-entry brought to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2761
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/19/2026, 11:57:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T05:46:20.695Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39371172739
 claimed_at: 2026-10-20T04:57:40.095Z
 decision: null
