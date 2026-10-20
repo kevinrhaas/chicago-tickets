@@ -1,7 +1,7 @@
 ---
 id: T-2949
 title: Glessner's Prairie header stone to HABS sheet 5's 10.2 ft, and the courses beside the door read at the sheet's own scale (the printed string from a base line 0.54 ft under the sill, the 1888 photograph agreeing) and ruled, the build's 0.20 ft lower base handed to T-2955; rebaked
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2913
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1153
 claimed_by: run 10/20/2026, 12:38:56 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T20:06:07Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39463754866
 claimed_at: 2026-10-20T17:38:56.951Z
 decision: null
