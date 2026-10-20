@@ -67,6 +67,9 @@ T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: th
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest, T-2670) is held in band 8F.
+# Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
+T-2941 — Sound defaults to off: a first visit (and a visitor with no saved sound choice) starts muted, the sound setting still turns it on and is remembered
+T-2942 — The gaze target's name tag defaults to the right-hand nav: smaller, under the address and styled like the other tags so it does not repeat the address, with a Settings choice of right (default), centre (today's) or bottom, and a second choice of fades after a few seconds (default) or always shown
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
@@ -235,5 +238,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-T-2941 — Sound defaults to off: a first visit (and a visitor with no saved sound choice) starts muted, the sound setting still turns it on and is remembered
-T-2942 — The gaze target's name tag defaults to the right-hand nav: smaller, under the address and styled like the other tags so it does not repeat the address, with a Settings choice of right (default), centre (today's) or bottom, and a second choice of fades after a few seconds (default) or always shown
