@@ -1,7 +1,7 @@
 ---
 id: T-2903
 title: 1625's rear section's door leaf ruled: its foot about 0.5-0.7 m under the walk (an areaway's door or steps down), the leaf built a door's height to it, and the match record's door item closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2885
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1124
 claimed_by: run 10/20/2026, 12:04:12 AM CT
 blocked_on: null
 needs_bake: false
