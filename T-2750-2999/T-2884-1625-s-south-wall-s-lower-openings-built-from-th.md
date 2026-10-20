@@ -1,7 +1,7 @@
 ---
 id: T-2884
 title: 1625's south wall's lower openings built from the print (a small round-headed light near grade at about s 5.7, a tall narrow round-headed opening under the oriel at about s 8.5, a narrow one at about s 11.1) and its ground-floor and stair lights' heads plain, as the print draws them, in place of K03's gauged fans; rebaked and both items on inland_architect_front closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2867
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1109
 claimed_by: run 10/19/2026, 5:20:02 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T02:06:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39333448520
 claimed_at: 2026-10-19T22:20:02.963Z
 decision: null
