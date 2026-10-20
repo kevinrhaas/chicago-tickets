@@ -1,7 +1,7 @@
 ---
 id: T-2965
 title: Glessner's Prairie window colonnettes to HABS sheet 6 and the owner's photographs: every shaft tapered, standing on an angular splayed block base, under a carved foliate capital (each one different, on all four groups, not only the group over the carved string), and dressed in the house's granite colour
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive thread 'Glessner window colonnettes' (owner, 2026-10-20) 10/20/2026, 2:52:12 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-20T19:52:13.200Z
 decision: null
 decision_answer: null
 ---
