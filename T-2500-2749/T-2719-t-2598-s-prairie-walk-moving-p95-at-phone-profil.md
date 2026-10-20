@@ -1,7 +1,7 @@
 ---
 id: T-2719
 title: T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2602
 opened: 2026-10-17
 closed: null
-pr: null
+pr: 1137
 claimed_by: run 10/20/2026, 8:47:57 AM CT
 blocked_on: null
 needs_bake: false
