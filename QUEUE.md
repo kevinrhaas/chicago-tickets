@@ -28,6 +28,7 @@ T-2927 — 1904's flight at phone profile draws at 73-80 ms (about 13 fps, every
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 T-2938 — The loop claims a group of related tickets and ships them as one PR: ticket.mjs claim and done take several ids (claim A B C, done A B C --pr N, and a release for a member the run cannot finish), and AGENTS.md, the tickets README and the steward prompt say how a run chooses 1-5 tickets that share files or a subsystem and fit one run, so 3-5 tickets merge together and PR churn falls
+T-2940 — ticket.mjs new files a follow-up into the band of its kind: performance, GPU, memory and frame-time work to the foot of band 1, a building's follow-up beside that building's own tickets (its band 2 or 7 lines, by structure id or address), and only loop operations (tooling, lap, claims, bake and rederive faults, measurement gaps) to the foot of band 9; a --kind flag (perf|building|ops) with a stated default, and the standing rule in QUEUE.md's header held to the tool
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
