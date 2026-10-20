@@ -46,7 +46,11 @@ T-2915 — 1812 Prairie's carved stone from the Levy photograph: the carved frie
 T-2891 — 1812 Prairie's remaining front items from the Levy photograph: the porch's broad round arch over the door and side light, the straight stair between solid stone balustrades with its pierced landing panel, the downpipes at both ends, the projection flush with the south corner and its barred basement light near the walk, and the gable's swell, shoulder stones, nine-light grid window and carved kneelers
 T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-1892 — Finish 1811 Coleman-Ames Romanesque house architecture
+T-2916 — 1811 Prairie's north bay from the 1888 plate: the two iron-grilled basement lights under its windows and the pierced stone balcony on its deck, built and the plate's match record items closed
+T-2917 — 1811 Prairie's bay gable face from the 1888 plate: the great round arch over three flat-headed lights between colonnettes, its tympanum's three small round-arched lights and the carving over it, the gable about 4 m across in the front's smooth ashlar (K01's wall gable learns an arched recess)
+T-2918 — 1811 Prairie's entrance porch from the 1888 plate: the open round-arched porch about 1.8 m wide and deep on clustered columns with carved capitals, the door set far back in it, and the stair between scrolled stone cheek walls
+T-2919 — 1811 Prairie's front fabric from the 1888 plate: the smooth ashlar of the bay's upper stage and the oriel over the rock-faced courses, the bay's canted north face, the oriel's square returns and its cornice down to the plate's 9.06 m, and the two front downpipes
+T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: the hipped mass over the bay with the lower south roof to the tall stack, the stack's corbelled cap and the range's second stack, the other pictures' cameras solved and every 1811 match record brought to matches (after the pieces before it)
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
