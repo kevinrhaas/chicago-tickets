@@ -1,7 +1,7 @@
 ---
 id: T-2906
 title: Glessner's habs04-terrace-section brought to matches: the court's two stone steps under the east-court garden light built to the drawing's length and height (the upper tread ends about S49.4 against the drawn 52.35, the lower 51.8 against 53.1), the light's outer stone surround, and the light's south end against the stair drum sheet 4 draws wide ruled; habs04-court-exterior's and habs04-hood-section's cameras, in the same un-re-zeroed sheet-4 frame, re-zeroed by the same +0.65 ft
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2880
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 10:10:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39362419916
+claimed_at: 2026-10-20T03:10:28.944Z
 decision: null
 decision_answer: null
 ---
