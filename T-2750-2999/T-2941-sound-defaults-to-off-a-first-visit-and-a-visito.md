@@ -1,7 +1,7 @@
 ---
 id: T-2941
 title: Sound defaults to off: a first visit (and a visitor with no saved sound choice) starts muted, the sound setting still turns it on and is remembered
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1161
 claimed_by: run 10/20/2026, 4:55:27 PM CT
 blocked_on: null
 needs_bake: false
