@@ -1,7 +1,7 @@
 ---
 id: T-2896
 title: The far shrubs, the carry sets and the far band on the GPU's deal, so the near re-deal reaches the GPU pass's own cost alone; read with the CPU profile and the near re-deal line at the throttled phone profile
-state: open
+state: claimed
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2774
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 8:15:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-20T13:15:14.077Z
 decision: null
 decision_answer: null
 ---
