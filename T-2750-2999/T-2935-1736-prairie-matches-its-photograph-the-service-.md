@@ -1,7 +1,7 @@
 ---
 id: T-2935
 title: 1736 Prairie matches its photograph: the service wing and rear carriage building, the mansard's date argued, the 2015 curbstone detail read, and every 1736 match record brought to matches (after the pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1874
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 2:31:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39483261160
+claimed_at: 2026-10-20T19:31:10.556Z
 decision: null
 decision_answer: null
 ---
