@@ -1,7 +1,7 @@
 ---
 id: T-2926
 title: Glessner's east-wing court face south of the stair tower to HABS sheet 4: the upper storey's two windows in one lintel and sill course (S 63.9-71.9), the middle storey's two framed windows in theirs (S 63.4-72.5), and the passage opening under them; rebaked and habs04-court-exterior brought to matches with nothing open (after the bow and stair tower piece)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2862
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 8:03:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39426107335
+claimed_at: 2026-10-20T13:03:06.752Z
 decision: null
 decision_answer: null
 ---
