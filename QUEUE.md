@@ -241,3 +241,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2954 — Card holds focus with a visible release; tour teaches select and release, menus and settings, not Confidence
+T-2958 — The published tree is at its 320 MiB budget: dev stands about 0.02 MiB under it after T-2933's 1736 landed, so every PR that adds a byte to site/4d fails check.sh's dataset step (#1144 reads 320.034 MiB); measure where the growth since T-2596's 268.87 MiB went (Glessner's web GLB is 41.9 MiB again, data/gltf 138.9 MiB), hand bytes back or re-budget with the measurement in validate.py's SITE_BUDGET_MB note and docs/SITE-BUDGET.md
