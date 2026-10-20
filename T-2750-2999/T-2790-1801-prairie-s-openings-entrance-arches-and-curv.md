@@ -1,7 +1,7 @@
 ---
 id: T-2790
 title: 1801 Prairie's openings, entrance arches and curved stair on K01 from the Taylor photograph and the Inland Architect entrance plate, and the Taylor match record's opening and entrance items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2539
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 11:15:58 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39367392671
+claimed_at: 2026-10-20T04:15:58.697Z
 decision: null
 decision_answer: null
 ---
