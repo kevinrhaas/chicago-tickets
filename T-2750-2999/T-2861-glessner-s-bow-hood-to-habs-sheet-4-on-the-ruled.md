@@ -1,7 +1,7 @@
 ---
 id: T-2861
 title: Glessner's bow hood to HABS sheet 4 on the ruled bow: the copper hood's ends (sheet 4 ends the roof at about S 38.6 against the built 39.9), the gutter's end caps and projection and the fascia under it read on the section; rebaked and habs04-hood-section brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2852
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 10:06:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39444689151
+claimed_at: 2026-10-20T15:06:57.194Z
 decision: null
 decision_answer: null
 ---
