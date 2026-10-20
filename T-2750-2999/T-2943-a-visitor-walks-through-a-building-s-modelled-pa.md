@@ -1,7 +1,7 @@
 ---
 id: T-2943
 title: A visitor walks through a building's modelled passage: the walker treats every footprint as a solid wall, so Glessner's carriage passage from Prairie Avenue to the court (passage_front_z..passage_court_z in data/structures/glessner_house.json) blocks the walk at its mouth; carve a declared passage out of the footprint the walker collides with, wherever its headroom clears the eye, Glessner first and generic for any structure (a horse and carriage later uses the same opening)
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 11:08:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-20T16:08:11.701Z
 decision: null
 decision_answer: null
 ---
