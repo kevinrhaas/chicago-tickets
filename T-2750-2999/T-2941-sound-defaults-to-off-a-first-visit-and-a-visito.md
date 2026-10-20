@@ -2,7 +2,7 @@
 id: T-2941
 title: Sound defaults to off: a first visit (and a visitor with no saved sound choice) starts muted, the sound setting still turns it on and is remembered
 state: open
-epic: UI
+epic: RENDERING
 requested_by: owner
 seen: false
 effort: S
