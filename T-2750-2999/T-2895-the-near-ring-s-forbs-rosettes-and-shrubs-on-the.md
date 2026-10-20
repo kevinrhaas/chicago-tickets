@@ -1,7 +1,7 @@
 ---
 id: T-2895
 title: The near ring's forbs, rosettes and shrubs on the GPU's deal (multi-head plants, forbSeat re-seating and the woody band), read with the CPU profile and the near re-deal line at the throttled phone profile
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2774
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: 1140
 claimed_by: run 10/20/2026, 9:20:01 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T15:23:19Z
 claimed_run: null
 claimed_at: 2026-10-20T14:20:01.090Z
 decision: null

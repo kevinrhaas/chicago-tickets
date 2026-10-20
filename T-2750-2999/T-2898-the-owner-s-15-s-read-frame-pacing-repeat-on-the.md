@@ -1,7 +1,7 @@
 ---
 id: T-2898
 title: The owner's 15 s Read frame pacing repeat on the T-2829 build (/4d/dev/1835/, iPhone, Settings, Performance, Read frame pacing): the turn row's Adaptive sd and p95 at or under Fixed's, at most one ratio switch, and whether any frame over 50 ms came on a switch; filed verbatim, and Adaptive stays the default only if it passes
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2829
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: 1140
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T15:23:19Z
 claimed_run: null
 claimed_at: null
 decision: null
