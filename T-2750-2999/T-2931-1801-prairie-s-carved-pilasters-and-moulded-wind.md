@@ -1,7 +1,7 @@
 ---
 id: T-2931
 title: 1801 Prairie's carved pilasters and moulded window surrounds from the Taylor photograph: the carved pilasters beside the bow and the pavilion and the moulded surrounds of the bow's lights and the pavilion's pairs, built or argued and their Taylor match record item closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2922
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1144
 claimed_by: run 10/20/2026, 10:32:08 AM CT
 blocked_on: null
 needs_bake: false
