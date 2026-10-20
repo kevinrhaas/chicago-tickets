@@ -1,7 +1,7 @@
 ---
 id: T-2956
 title: Jaunt road notes: the MAP Reconstruction route tag reads like a missing label; say what it means once
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1150
 claimed_by: run 10/20/2026, 1:10:36 PM CT
 blocked_on: null
 needs_bake: false
