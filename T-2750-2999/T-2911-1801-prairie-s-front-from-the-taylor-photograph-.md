@@ -1,7 +1,7 @@
 ---
 id: T-2911
 title: 1801 Prairie's front from the Taylor photograph: the bowed two-storey bay under its balcony where the photograph puts it, the paired and mullioned windows in carved surrounds and the carved frieze over the principal storey; the Taylor match record's bay-and-openings item closed
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2790
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 3:26:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T08:55:21.943Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39392738801
 claimed_at: 2026-10-20T08:26:15.828Z
 decision: null
