@@ -361,6 +361,31 @@ run.
   there; they are named here rather than converted, and this repo's surfaces
   are the ones this gate holds.
 
+## A run may take a group — one to five tickets, one PR (owner, 2026-10-20)
+
+Owner: "when claiming a ticket, it can and should evaluate if it can claim multiple and
+handle them as a group in a single PR that way we minimize PR churn ... so maybe 3-5 tickets
+might get picked up and merged together". Needs chicago PR #1149 (T-2938) on `dev`; a
+checkout without `ticket.mjs release` claims and closes one ticket per command.
+
+- Pick the anchor as always (topmost / k-th workable) and claim it alone at once, then
+  `node tools/ticket.mjs list --workable --group T-ANCHOR` for linked mates (same house,
+  same small split, cross-references, shared files) — a hint, read each.
+- Up to five in all, fitting one run: up to five S, or one M plus up to three S; never an L;
+  needs_bake only if the run bakes anyway. Under N slices, never one of the first N rows.
+- `claim T-B T-C --with T-ANCHOR` — ONE commit to main; every member checked as a single
+  claim is; refusals printed, the rest claimed; non-zero exit only if none was. Each member
+  records `group: T-A,T-B,T-C`.
+- One branch named for every member, one commit per ticket, ONE PR titled
+  `T-A, T-B, T-C: …` with one What's-New entry (`changelog.d/<anchor>.json`, one item per
+  ticket), then `done T-A T-B T-C --pr N` (all to review; settle closes each when the PR
+  merges).
+- A member the run will not finish: `release T-B --why "…"` before the gate (back to open,
+  place kept, reason written) or `split` — never left claimed, never shipped half-done.
+- Follow-ups go to the band of their KIND (T-2940): `new --kind perf` → foot of band 1,
+  `building` → under that building's last line, `ops` → foot of band 9; without --kind the
+  title decides.
+
 ## Sizing: effort is measured in RUNS, and L must be split
 
 The owner asked whether tickets should carry work points, split past a threshold.
