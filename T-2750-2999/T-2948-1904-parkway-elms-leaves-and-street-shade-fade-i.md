@@ -1,7 +1,7 @@
 ---
 id: T-2948
 title: 1904 parkway elms: leaves and street shade fade in instead of popping as you walk
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1148
 claimed_by: run 10/20/2026, 11:45:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T17:46:16Z
 claimed_run: null
 claimed_at: 2026-10-20T16:45:37.908Z
 decision: null
