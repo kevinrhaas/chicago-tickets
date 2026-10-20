@@ -1,7 +1,7 @@
 ---
 id: T-2842
 title: A K08 tower stands on a K01 rear wing's wall: k01.wall.wing.<id>.north (and south, rear) take a tower past the wing's own eave, its cone over the wing's roof — the kit 1801 Prairie's north-east turret on the east range (r2, sheet 28's second bump) needs before the move
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2789
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1111
 claimed_by: run 10/19/2026, 7:06:09 PM CT
 blocked_on: null
 needs_bake: false
