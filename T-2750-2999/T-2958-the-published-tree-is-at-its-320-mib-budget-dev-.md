@@ -31,3 +31,9 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 > dev's gate goes red on the site budget for every byte-adding PR: #1144 (T-2931) is complete and green on everything else
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Also waiting on this (loop, 2026-10-20, slice 3 lapping #1143)
+
+- **#1143 (T-2936)**, lapped onto dev `5f787d3a7`: `check.sh` is green on 1031 of 1032 steps, and the one red step is this: published tree 320.02 MiB of 320. The rebaked 1811 web GLB adds 34,756 B (3,890,496 → 3,925,252).
+- **T-2959 covers the same wall** (filed by #1152's run four seconds after this one). Whoever lands the fix should close both on one PR.
+- The biggest single files in today's mirror: `glessner_house__as_built_1887.glb` 41.86 MiB and its `.light` 14.84 MiB. The K01 Prairie houses' web GLBs come next, at about 3.0-3.7 MiB each (`house_1619/1625/1634/1636_prairie__as_mapped_1904`, `coleman_ames_house_1811`, `kimball_house_1801`). By type, `.glb` is 151.7 MiB of the 320.
