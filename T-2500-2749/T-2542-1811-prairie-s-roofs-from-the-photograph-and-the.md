@@ -1,7 +1,7 @@
 ---
 id: T-2542
 title: 1811 Prairie's roofs from the photograph and the Inland Architect plate: the front bay's stone gable with its arched lights and fretwork balcony, the entrance block's pyramid and finial, the main slate roof, the north flank's stepped brick gable and the stacks; the plate's camera and match record, and the envelope's match records brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1891
 opened: 2026-10-15
 closed: null
-pr: null
+pr: 1120
 claimed_by: run 10/19/2026, 9:42:20 PM CT
 blocked_on: null
 needs_bake: false
