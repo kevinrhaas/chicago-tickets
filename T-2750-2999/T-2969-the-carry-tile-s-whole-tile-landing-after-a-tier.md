@@ -1,7 +1,7 @@
 ---
 id: T-2969
 title: The carry tile's whole-tile landing after a tier change or jump (85-101 ms, one long main-thread task at the phone profile) chunked across frames or returned interleaved by the worker, read before and after
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2896
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1159
 claimed_by: run 10/20/2026, 3:11:01 PM CT
 blocked_on: null
 needs_bake: false
