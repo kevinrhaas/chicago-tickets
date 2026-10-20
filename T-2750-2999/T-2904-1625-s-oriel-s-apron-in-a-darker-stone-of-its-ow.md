@@ -1,7 +1,7 @@
 ---
 id: T-2904
 title: 1625's oriel's apron in a darker stone of its own (a K01 slot for a bay's apron, or an argued ruling that the print's tone is shadow), and 1625's match record brought to matches with nothing open (the group's image gate)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2885
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: 1129
 claimed_by: run 10/20/2026, 2:25:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T14:40:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39385900238
 claimed_at: 2026-10-20T07:25:16.734Z
 decision: null
