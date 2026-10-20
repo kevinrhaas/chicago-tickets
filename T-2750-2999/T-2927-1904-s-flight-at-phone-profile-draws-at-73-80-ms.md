@@ -1,7 +1,7 @@
 ---
 id: T-2927
 title: 1904's flight at phone profile draws at 73-80 ms (about 13 fps, every frame over 50 ms in Fixed and Adaptive, p95 85-90) on the owner's iPhone (T-2719's reading, 2026-10-20): find what the 1904 aerial spends a frame on at Light and bring the flight's median under the walk's (about 40 ms), read before and after on the same phone with Read frame pacing
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1161
 claimed_by: run 10/20/2026, 4:55:24 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T23:00:29Z
 claimed_run: null
 claimed_at: 2026-10-20T21:55:24.816Z
 decision: null
