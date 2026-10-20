@@ -70,6 +70,7 @@ T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: th
 # Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
 T-2941 — Sound defaults to off: a first visit (and a visitor with no saved sound choice) starts muted, the sound setting still turns it on and is remembered
 T-2942 — The gaze target's name tag defaults to the right-hand nav: smaller, under the address and styled like the other tags so it does not repeat the address, with a Settings choice of right (default), centre (today's) or bottom, and a second choice of fades after a few seconds (default) or always shown
+T-2943 — A visitor walks through a building's modelled passage: the walker treats every footprint as a solid wall, so Glessner's carriage passage from Prairie Avenue to the court (passage_front_z..passage_court_z in data/structures/glessner_house.json) blocks the walk at its mouth; carve a declared passage out of the footprint the walker collides with, wherever its headroom clears the eye, Glessner first and generic for any structure (a horse and carriage later uses the same opening)
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
