@@ -1,7 +1,7 @@
 ---
 id: T-2901
 title: Front door: a live device-performance meter on the Temporal Observatory, assessed during the Wolf Point opening
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1118
 claimed_by: run 10/19/2026, 9:17:44 PM CT
 blocked_on: null
 needs_bake: false
