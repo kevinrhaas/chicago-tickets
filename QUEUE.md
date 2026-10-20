@@ -241,4 +241,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2824 — Phone boot upload pass: draws rejected before the first shadow map (sampler2DShadow on unit 0)
-T-2892 — The PR lap merges assets/manifest.json and manifest.web.json entry by entry, so two PRs that bake different structures stop conflicting there
