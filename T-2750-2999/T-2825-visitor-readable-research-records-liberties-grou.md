@@ -1,7 +1,7 @@
 ---
 id: T-2825
 title: Visitor-readable research records: liberties, ground, open questions, people and source details name no internal ticket number or record id, in any mode
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1127
 claimed_by: run 10/18/2026, 4:48:06 PM CT
 blocked_on: null
 needs_bake: false
