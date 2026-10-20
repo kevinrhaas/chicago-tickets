@@ -1,7 +1,7 @@
 ---
 id: T-2947
 title: Quiet offline-copy control on the welcome, and fix its download stopping on every deployed build
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1147
 claimed_by: run 10/20/2026, 11:38:15 AM CT
 blocked_on: null
 needs_bake: false
