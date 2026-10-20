@@ -1,7 +1,7 @@
 ---
 id: T-2886
 title: 1637's south bay's cheeks lit from the Grosvenor photograph: a round-arched light between each cheek's two columns over a small light in its base, under a narrow arch band K06 sizes per window, and the front light's place weighed against the photograph
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2840
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1104
 claimed_by: run 10/19/2026, 3:27:41 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T02:36:18Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39318316917
 claimed_at: 2026-10-19T20:27:41.013Z
 decision: null
