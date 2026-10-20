@@ -20,7 +20,6 @@
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 T-2719 — T-2598's Prairie walk moving p95 at phone profile on a real GPU (SwiftShader draws a frame in seconds, so the steward runner cannot read it)
-T-2901 — Front door: a live device-performance meter on the Temporal Observatory, assessed during the Wolf Point opening
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
@@ -36,7 +35,6 @@ T-2861 — Glessner's bow hood to HABS sheet 4 on the ruled bow: the copper hood
 T-2862 — Glessner's court elevation brought to matches: the bow's lights and door read on HABS sheet 4 (two broad lights and a narrow one above; a broad light, the door and a narrow light below), the stair tower's slit lights and every remaining court-exterior item closed; rebaked and habs04-court-exterior brought to matches
 T-2853 — Glessner's front entry to HABS sheet 5: the arch's proportion, the stone joints, the door leaf and hardware built, and the carving's leaves read at the drawing's grain; rebaked and habs5-entry brought to matches
 T-2854 — Glessner's photographic sign-off: every match record reading matches with nothing open, the discrepancy register's final acceptance written with what is attested against inferred, and every courtyard and rear face reviewed (the image gate)
-T-2902 — 1625's rear section's dormer under the print's flat hood: a square head under a projecting cornice and a low hipped cap, as the main roof's south dormer's, in place of T-2820's gabled pediment; rebaked and the match record's dormer item closed
 T-2903 — 1625's rear section's door leaf ruled: its foot about 0.5-0.7 m under the walk (an areaway's door or steps down), the leaf built a door's height to it, and the match record's door item closed
 T-2904 — 1625's oriel's apron in a darker stone of its own (a K01 slot for a bay's apron, or an argued ruling that the print's tone is shadow), and 1625's match record brought to matches with nothing open (the group's image gate)
 T-2908 — 1637's south bay's carved dress and the shutters over it from the Grosvenor photograph: the columns' capitals carved, the frieze's ovals, the consoles' scrolls, the corona's bed mouldings and cymatium, and the open louvred shutters at the window over the bay; the record's dress and shutter items closed
@@ -235,4 +233,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-T-2907 — The PR lap re-materializes the Glessner v4 package after merging dev, so a dev repack no longer leaves every PR alone at publish

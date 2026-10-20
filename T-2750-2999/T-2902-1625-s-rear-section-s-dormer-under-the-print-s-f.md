@@ -1,7 +1,7 @@
 ---
 id: T-2902
 title: 1625's rear section's dormer under the print's flat hood: a square head under a projecting cornice and a low hipped cap, as the main roof's south dormer's, in place of T-2820's gabled pediment; rebaked and the match record's dormer item closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2885
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1119
 claimed_by: run 10/19/2026, 9:18:09 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T04:06:08Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39357253957
 claimed_at: 2026-10-20T02:18:09.647Z
 decision: null
