@@ -1,7 +1,7 @@
 ---
 id: T-2930
 title: 1801 Prairie's bow balcony from the Taylor photograph: its pierced stone panels (the print's diagonal lattice of diamond piercings, two panels either side of a centre post) in place of K08's square balusters, built on K08's stone balcony and the Taylor match record's balcony item closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2922
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1139
 claimed_by: run 10/20/2026, 9:07:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T15:21:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39433840022
 claimed_at: 2026-10-20T14:07:34.805Z
 decision: null
