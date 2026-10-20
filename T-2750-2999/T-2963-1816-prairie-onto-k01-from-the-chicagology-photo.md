@@ -1,7 +1,7 @@
 ---
 id: T-2963
 title: 1816 Prairie onto K01 from the Chicagology photograph: the 1911 sheet's front block and rear range, the canted front bay, the south flank's canted bay, the columned porch under its iron balcony, the slated mansard with its dormers, and the photograph's camera solved with its match record
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1886
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1158
 claimed_by: run 10/20/2026, 2:48:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T21:25:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39484344543
 claimed_at: 2026-10-20T19:48:30.355Z
 decision: null
