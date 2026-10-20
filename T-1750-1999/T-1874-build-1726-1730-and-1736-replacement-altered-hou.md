@@ -1,7 +1,7 @@
 ---
 id: T-1874
 title: Refine 1726, 1730 and 1736 replacement/altered houses
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 10:13:12 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-20T15:13:27.866Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39445349645
 claimed_at: 2026-10-20T15:13:12.283Z
 decision: null
