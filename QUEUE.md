@@ -53,7 +53,6 @@ T-2923 — 1801 Prairie's loggia carving from the Taylor photograph: the archivo
 T-2540 — 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
 T-2900 — 1801 Prairie's east range finished on K01: the north-east turret turned round the wing's corner with its eaves at the range's own (the Taylor photograph's; T-2842's tower past a wing's eave cannot carry it), and the range run the 1911 sheet's full v 0-18.3 behind its 6 m gabled section (a K01 wing longer than its host wall), each a kit piece laid on 1801
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-2951 — 1812 Prairie's gable from the Levy photograph: the outline's swell below the shoulders drawn to the print's, the shoulder stones built as blocks, the nine-light (three by three) grid window between stone mullions and transoms, and the kneelers carved scrolls under small pinnacles
 T-2952 — 1812 Prairie's porch and stair from the Levy photograph: the broad round arch (about 3.2 m across, its crown about 5.2 m) over the door and its side light, and the straight stair to the walk between solid stone balustrades with a pierced panel at the landing
 T-2953 — 1812 Prairie's south projection from the Levy photograph: flush with the south corner, its barred basement light from about 0.1 m over the walk and about 1 m high, and downpipes down both ends of the front
 T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
@@ -246,4 +245,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-T-2954 — Card holds focus with a visible release; tour teaches select and release, menus and settings, not Confidence
