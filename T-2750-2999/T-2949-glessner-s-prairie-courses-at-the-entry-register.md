@@ -1,7 +1,7 @@
 ---
 id: T-2949
 title: Glessner's Prairie courses at the entry registered on HABS sheet 5's base line (the printed string's beds within 0.08 ft of the sheet's beside the door, the 1888 photograph agreeing) and the header stone to the sheet's 10.2 ft; rebaked
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2913
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 12:38:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39463754866
+claimed_at: 2026-10-20T17:38:56.951Z
 decision: null
 decision_answer: null
 ---
