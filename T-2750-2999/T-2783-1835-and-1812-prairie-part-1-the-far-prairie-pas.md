@@ -1,7 +1,7 @@
 ---
 id: T-2783
 title: 1835 and 1812 prairie, part 1: the far prairie past flora.js's near ring reads as flat paint; add a mid ring of cheap grass cards and a grass-coloured, streaked ground so the near ring has no visible edge, held in every tier's ceiling and the 1835 frame
-state: review
+state: done
 epic: FLORA
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-18
-closed: null
+closed: 2026-10-19
 pr: 1108
 claimed_by: run 10/19/2026, 10:14:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T00:38:52Z
 claimed_run: null
 claimed_at: 2026-10-19T15:14:00.359Z
 decision: null
