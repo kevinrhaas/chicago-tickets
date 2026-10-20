@@ -1,7 +1,7 @@
 ---
 id: T-2908
 title: 1637's south bay's carved dress and the shutters over it from the Grosvenor photograph: the columns' capitals carved, the frieze's ovals, the consoles' scrolls, the corona's bed mouldings and cymatium, and the open louvred shutters at the window over the bay; the record's dress and shutter items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2887
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: 1122
 claimed_by: run 10/19/2026, 10:28:38 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T05:17:14Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39362047857
 claimed_at: 2026-10-20T03:28:38.898Z
 decision: null
