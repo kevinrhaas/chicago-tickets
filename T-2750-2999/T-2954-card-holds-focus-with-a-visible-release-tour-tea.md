@@ -1,7 +1,7 @@
 ---
 id: T-2954
 title: Card holds focus with a visible release; tour teaches select and release, menus and settings, not Confidence
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1156
 claimed_by: run 10/20/2026, 1:06:09 PM CT
 blocked_on: null
 needs_bake: false
