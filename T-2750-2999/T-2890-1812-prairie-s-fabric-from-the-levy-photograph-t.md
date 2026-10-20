@@ -1,7 +1,7 @@
 ---
 id: T-2890
 title: 1812 Prairie's fabric from the Levy photograph: the rock-faced stone basement and stone first storey under brick upper storeys banded and dressed in stone, with the carved frieze and bosses, in place of the all-stone street front
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2544
 opened: 2026-10-19
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 1:13:39 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T06:24:03.525Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39378715538
 claimed_at: 2026-10-20T06:13:39.554Z
 decision: null
