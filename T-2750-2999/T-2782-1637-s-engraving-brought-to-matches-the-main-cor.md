@@ -1,7 +1,7 @@
 ---
 id: T-2782
 title: 1637's engraving brought to matches: the main cornice's band over the swell bay, the stacks' hooded crowns and the garden wall's run before 1635 built or argued, and both of 1637's match records reading matches with nothing open (the image gate)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2756
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 7:24:08 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39421393892
+claimed_at: 2026-10-20T12:24:08.788Z
 decision: null
 decision_answer: null
 ---
