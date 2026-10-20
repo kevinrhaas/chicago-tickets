@@ -1,7 +1,7 @@
 ---
 id: T-2916
 title: 1811 Prairie's north bay from the 1888 plate: the two iron-grilled basement lights under its windows and the pierced stone balcony on its deck, built and the plate's match record items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1892
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1130
 claimed_by: run 10/20/2026, 3:35:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T12:16:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39393567041
 claimed_at: 2026-10-20T08:35:00.602Z
 decision: null
