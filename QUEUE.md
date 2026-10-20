@@ -27,6 +27,7 @@ T-2967 — The far band (rebuildFar, out to 120 m on the phone and 175 m at full
 T-2968 — The far shrubs (70-140 m) dealt on the GPU against the far band's field, so the far pass no longer walks them on the CPU; read with the far pass line at the throttled phone profile
 T-2969 — The carry tile's whole-tile landing after a tier change or jump (85-101 ms, one long main-thread task at the phone profile) chunked across frames or returned interleaved by the worker, read before and after
 T-2927 — 1904's flight at phone profile draws at 73-80 ms (about 13 fps, every frame over 50 ms in Fixed and Adaptive, p95 85-90) on the owner's iPhone (T-2719's reading, 2026-10-20): find what the 1904 aerial spends a frame on at Light and bring the flight's median under the walk's (about 40 ms), read before and after on the same phone with Read frame pacing
+T-2970 — Draw-call budgets count driver draws, not renderer.info.calls: three counts a BatchedMesh multi-draw as one call though every kept instance is a driver draw (T-2927 read 27,895 GL draws where renderer.info said 339 at the 1904 flight), so the 90-call cap, measure_walk_frames, the detail ceilings and the smoke's draw checks move to a counted GL-call figure, re-baselined after T-2927's coalescing
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
