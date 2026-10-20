@@ -1,7 +1,7 @@
 ---
 id: T-2924
 title: dev's gate is red since #1127: publish.sh copies data/reader/*.json into the mirror and check_published.mjs has no declared transform for them (11 published files trace to no source), so 'publish.sh produces a mirror that matches its source' fails on dev and every open PR
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1133
 claimed_by: run 10/20/2026, 4:36:05 AM CT
 blocked_on: null
 needs_bake: false
