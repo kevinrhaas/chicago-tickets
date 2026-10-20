@@ -1,7 +1,7 @@
 ---
 id: T-2907
 title: The PR lap re-materializes the Glessner v4 package after merging dev, so a dev repack no longer leaves every PR alone at publish
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-19
 closed: null
-pr: null
+pr: 1117
 claimed_by: run 10/19/2026, 10:13:05 PM CT
 blocked_on: null
 needs_bake: false
