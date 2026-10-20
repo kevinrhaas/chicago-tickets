@@ -1,7 +1,7 @@
 ---
 id: T-2885
 title: 1625's rear section's door leaf ruled (its foot about 0.5-0.7 m under the walk: an areaway's door or steps down) and its dormer under the print's flat hood with a projecting cornice and moulded frame, and 1625's match record brought to matches with nothing open (the group's image gate)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2867
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: null
 claimed_by: run 10/19/2026, 9:15:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T02:18:05.032Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39357253957
 claimed_at: 2026-10-20T02:15:37.816Z
 decision: null
