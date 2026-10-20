@@ -1,7 +1,7 @@
 ---
 id: T-2912
 title: Glessner's Prairie fan stilted to HABS sheet 5 (its centre 0.5 ft over the spring line, the springers and the tympanum's rings run plumb down to it, the extrados 6.5 ft) and the field's roundels laid at the sheet's eight places and sizes on stems from the foot boss; the sheet's later door leaf ruled against the period photograph; rebaked and habs5-entry re-rendered
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2853
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1125
 claimed_by: run 10/20/2026, 12:46:24 AM CT
 blocked_on: null
 needs_bake: false
