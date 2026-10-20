@@ -1,7 +1,7 @@
 ---
 id: T-2915
 title: 1812 Prairie's carved stone from the Levy photograph: the carved frieze over the second storey's north window and the patterned panel band over it, the carved bosses under the projection's second-storey jambs, and the projection's quoined window jambs and the band at its arched window's spring, built or argued and the Levy record's fabric items closed
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2890
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1141
 claimed_by: run 10/20/2026, 9:21:39 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T17:05:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39437485129
 claimed_at: 2026-10-20T14:21:39.413Z
 decision: null
