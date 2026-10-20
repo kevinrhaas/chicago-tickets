@@ -1,22 +1,22 @@
 ---
 id: T-2933
 title: 1736 Prairie onto K01 from the c. 1890 McBirney photograph: its camera solved and match record written, and the draft rebuilt in place as the photographed three-storey corner house — two storeys of tall hooded windows over a raised basement, the mansard with its arched dormers, the full-width columned veranda with its balustrade and side stair, and the closed faces declared
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-1874
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 10:13:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39445349645
+claimed_at: 2026-10-20T15:13:32.494Z
 decision: null
 decision_answer: null
 ---
