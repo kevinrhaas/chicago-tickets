@@ -1,7 +1,7 @@
 ---
 id: T-2893
 title: The near ring's heads hung from the GPU's deal and the CPU near walk retired where the GPU draws the near ring (T-2774's first slice): heads matched one to one at 18 anchors x 4 bearings, every other set bit-identical, rebuildGround 2275 to 1053 ms at the phone profile
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2774
 opened: 2026-10-19
-closed: null
+closed: 2026-10-19
 pr: 1112
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T03:06:03Z
 claimed_run: null
 claimed_at: null
 decision: null

@@ -1,7 +1,7 @@
 ---
 id: T-2723
 title: The gaze target's GPU pick stops stalling the frame: target.js's look reads back asynchronously (or raycasts on the CPU while moving) instead of a synchronous readPixels on the main thread every 500 ms of movement, with the moving p95 read before and after
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-17
-closed: null
+closed: 2026-10-19
 pr: 1112
 claimed_by: run 10/19/2026, 7:57:35 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T03:06:03Z
 claimed_run: null
 claimed_at: 2026-10-20T00:57:35.579Z
 decision: null
