@@ -1,7 +1,7 @@
 ---
 id: T-2958
 title: The published tree is at its 320 MiB budget: dev stands about 0.02 MiB under it after T-2933's 1736 landed, so every PR that adds a byte to site/4d fails check.sh's dataset step (#1144 reads 320.034 MiB); measure where the growth since T-2596's 268.87 MiB went (Glessner's web GLB is 41.9 MiB again, data/gltf 138.9 MiB), hand bytes back or re-budget with the measurement in validate.py's SITE_BUDGET_MB note and docs/SITE-BUDGET.md
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1155
 claimed_by: run 10/20/2026, 2:26:51 PM CT
 blocked_on: null
 needs_bake: false

@@ -1,7 +1,7 @@
 ---
 id: T-2959
 title: The published tree stands at 319.99 of its 320 MiB site budget on dev (0.01 MiB left, dev gate 2026-10-20 19:17Z), so any PR that adds bytes fails validate.py's site check: #1152 (1812 Prairie's gable, +19 KB on its web GLB) is complete and green but for this; win back headroom (site_budget.py's largest and duplicate groups, the textured web GLBs) or re-budget with the measured whole-tree arithmetic T-2595 used (two allowances plus other site content under the 1 GiB Pages ceiling), and write the new figure and why into validate.py and docs/SITE-BUDGET.md
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1155
 claimed_by: run 10/20/2026, 2:26:56 PM CT
 blocked_on: null
 needs_bake: false
