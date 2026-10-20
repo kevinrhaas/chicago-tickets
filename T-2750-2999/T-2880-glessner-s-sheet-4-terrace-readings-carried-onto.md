@@ -1,7 +1,7 @@
 ---
 id: T-2880
 title: Glessner's sheet-4 terrace readings carried onto the plan's frame (re-zeroed on the printed 26'-10" court face, about +0.65 ft): the coping's section profile, the two terrace grilles and the east-court garden light moved with the habs04-terrace-section camera re-zeroed on the same control, the coping's terminal built into the plan's post, rebaked and habs04-terrace-section brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2860
 opened: 2026-10-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/19/2026, 8:01:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39349824782
+claimed_at: 2026-10-20T01:01:20.679Z
 decision: null
 decision_answer: null
 ---
