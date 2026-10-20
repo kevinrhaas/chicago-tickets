@@ -5,20 +5,29 @@
 # STANDING RULES
 # - Add a finding to the ticket it was found in before filing a new one. `ticket.mjs new` refuses at 140 queue lines
 #   (T-1295) unless `--anyway --why "<reason>"`.
-# - Loop follow-ups (tooling, lap, bake and rederive faults, deal and seating refinements, measurement gaps) go to the
-#   foot of band 9 (owner, 2026-09-27), unless dev's gate is red or the build in hand cannot finish without them.
+# - A follow-up goes to the band of its KIND (owner, 2026-10-20): performance, GPU, memory and frame-time work to the foot of
+#   band 1; a building's to that building's band, beside its own tickets; loop operations (tooling, lap, claims, bake and
+#   rederive faults, measurement gaps) to the foot of band 9 (owner, 2026-09-27), unless dev's gate is red or the build in
+#   hand cannot finish without them.
 # - A decision only the owner can make: `ticket.mjs ask`. The ticket keeps its place and runs skip it until answered.
 # - Human figures are drawn once the portable-humans tickets (8C) render them, and Native and Metis people may be depicted
 #   on informed, evidence-bounded judgement (owner, 2026-10-16; T-2672 updates the standing constraint).
 #   Keep review flags and reasons; they do not veto release. The August gathering is excluded from 1 July 1835.
 #   Black residents, families and businesses stay identified. Respect needs_bake and every ticket-level blocker.
-# - Order (owner, 2026-10-16): the performance and GPU group (band 1), 1904 structures already in progress (band 2), the
-#   Navigator interface (band 3), loop follow-ups (band 9), then the balance of Prairie Avenue 1904 (band 7, nearest
-#   Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
+# - Order (owner, 2026-10-16; band 9 moved up 2026-10-20): the performance and GPU group (band 1), loop operations (band 9),
+#   1904 structures already in progress (band 2), the Navigator interface (band 3), then the balance of Prairie Avenue
+#   1904 (band 7, nearest Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
+
+T-2896 — The far shrubs, the carry sets and the far band on the GPU's deal, so the near re-deal reaches the GPU pass's own cost alone; read with the CPU profile and the near re-deal line at the throttled phone profile
+T-2927 — 1904's flight at phone profile draws at 73-80 ms (about 13 fps, every frame over 50 ms in Fixed and Adaptive, p95 85-90) on the owner's iPhone (T-2719's reading, 2026-10-20): find what the 1904 aerial spends a frame on at Light and bring the flight's median under the walk's (about 40 ms), read before and after on the same phone with Read frame pacing
+
+# --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
+# ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
+T-2938 — The loop claims a group of related tickets and ships them as one PR: ticket.mjs claim and done take several ids (claim A B C, done A B C --pr N, and a release for a member the run cannot finish), and AGENTS.md, the tickets README and the steward prompt say how a run chooses 1-5 tickets that share files or a subsystem and fit one run, so 3-5 tickets merge together and PR churn falls
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
@@ -31,11 +40,14 @@
 
 T-2861 — Glessner's bow hood to HABS sheet 4 on the ruled bow: the copper hood's ends (sheet 4 ends the roof at about S 38.6 against the built 39.9), the gutter's end caps and projection and the fascia under it read on the section; rebaked and habs04-hood-section brought to matches
 T-2913 — Glessner's Prairie wall at the entry to HABS sheet 5: the course lines either side of the door (the sheet's at about 7.1, 5.8, 4.7, 3.8, 2.5 and 1.0 ft over the door datum against the build's 7.3, 6.7, 6.1, 5.5, 4.4, 3.6, 2.3 and 0.8) and the header stone's length and joints (the sheet's at S 27.7 and 36.0 against the period photograph's stone of about 10.6 ft) read and built or ruled; rebaked and habs5-entry brought to matches
+T-2928 — Glessner's court face between the bow and the stair tower to HABS sheet 4: the first-floor window (drawn about 9.6-14.2 ft under a lintel stone about 14.2-15.3, built 9.5-14.6 under a thin one), the narrow second-floor light and its head and sill stones (drawn about 20.0-25.0 under a stone at 25.0-26.2), the garden-level light's grille at S 47-50, and the court-east-north leader at S42.4 that sheet 4 does not draw; rebaked and habs04-court-exterior brought to matches with nothing open (found by T-2926)
+T-2939 — Glessner's court-bow leader to HABS sheet 4: the pipe drawn dropping from the bow trough's north end at about S 26.95 (plan 27.6) to 26.56 ft and offsetting north to S 26.54 at 25.8 ft, with the ring drawn at S 26.45, 26.55 ft, against the build's box leader dropping about 0.5 ft further north with no ring; read, built or ruled, rebaked and habs04-hood-section brought to matches
 T-2854 — Glessner's photographic sign-off: every match record reading matches with nothing open, the discrepancy register's final acceptance written with what is attested against inferred, and every courtyard and rear face reviewed (the image gate)
 T-2931 — 1801 Prairie's carved pilasters and moulded window surrounds from the Taylor photograph: the carved pilasters beside the bow and the pavilion and the moulded surrounds of the bow's lights and the pavilion's pairs, built or argued and their Taylor match record item closed
 T-2932 — 1801 Prairie's carved frieze over the principal storey from the Taylor photograph: the carved relief band over the loggia's arches and the cartouche band under the second storey's sills, built or argued and their Taylor match record item closed
 T-2923 — 1801 Prairie's loggia carving from the Taylor photograph: the archivolts' mouldings, the carved piers and panels beside and over both arches, the carved blocks at the cheeks' foot and the balcony's carved face, built or argued and the Taylor match record's loggia-carving item closed
 T-2540 — 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
+T-2900 — 1801 Prairie's east range finished on K01: the north-east turret turned round the wing's corner with its eaves at the range's own (the Taylor photograph's; T-2842's tower past a wing's eave cannot carry it), and the range run the 1911 sheet's full v 0-18.3 behind its 6 m gabled section (a K01 wing longer than its host wall), each a kit piece laid on 1801
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-2915 — 1812 Prairie's carved stone from the Levy photograph: the carved frieze over the second storey's north window and the patterned panel band over it, the carved bosses under the projection's second-storey jambs, and the projection's quoined window jambs and the band at its arched window's spring, built or argued and the Levy record's fabric items closed
 T-2891 — 1812 Prairie's remaining front items from the Levy photograph: the porch's broad round arch over the door and side light, the straight stair between solid stone balustrades with its pierced landing panel, the downpipes at both ends, the projection flush with the south corner and its barred basement light near the walk, and the gable's swell, shoulder stones, nine-light grid window and carved kneelers
@@ -54,13 +66,6 @@ T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: th
 # mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
 # it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
 # evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest, T-2670) is held in band 8F.
-
-# --- 9. LOOP IMPROVEMENTS — a follow-up a run files lands at this band's foot (owner, 2026-09-27)
-T-2896 — The far shrubs, the carry sets and the far band on the GPU's deal, so the near re-deal reaches the GPU pass's own cost alone; read with the CPU profile and the near re-deal line at the throttled phone profile
-T-2900 — 1801 Prairie's east range finished on K01: the north-east turret turned round the wing's corner with its eaves at the range's own (the Taylor photograph's; T-2842's tower past a wing's eave cannot carry it), and the range run the 1911 sheet's full v 0-18.3 behind its 6 m gabled section (a K01 wing longer than its host wall), each a kit piece laid on 1801
-T-2927 — 1904's flight at phone profile draws at 73-80 ms (about 13 fps, every frame over 50 ms in Fixed and Adaptive, p95 85-90) on the owner's iPhone (T-2719's reading, 2026-10-20): find what the 1904 aerial spends a frame on at Light and bring the flight's median under the walk's (about 40 ms), read before and after on the same phone with Read frame pacing
-T-2928 — Glessner's court face between the bow and the stair tower to HABS sheet 4: the first-floor window (drawn about 9.6-14.2 ft under a lintel stone about 14.2-15.3, built 9.5-14.6 under a thin one), the narrow second-floor light and its head and sill stones (drawn about 20.0-25.0 under a stone at 25.0-26.2), the garden-level light's grille at S 47-50, and the court-east-north leader at S42.4 that sheet 4 does not draw; rebaked and habs04-court-exterior brought to matches with nothing open (found by T-2926)
-T-2939 — Glessner's court-bow leader to HABS sheet 4: the pipe drawn dropping from the bow trough's north end at about S 26.95 (plan 27.6) to 26.56 ft and offsetting north to S 26.54 at 25.8 ft, with the ring drawn at S 26.45, 26.55 ft, against the build's box leader dropping about 0.5 ft further north with no ring; read, built or ruled, rebaked and habs04-hood-section brought to matches
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
@@ -229,4 +234,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-T-2938 — The loop claims a group of related tickets and ships them as one PR: ticket.mjs claim and done take several ids (claim A B C, done A B C --pr N, and a release for a member the run cannot finish), and AGENTS.md, the tickets README and the steward prompt say how a run chooses 1-5 tickets that share files or a subsystem and fit one run, so 3-5 tickets merge together and PR churn falls
