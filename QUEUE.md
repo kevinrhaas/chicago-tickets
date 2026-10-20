@@ -242,3 +242,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2946 — Jaunt road notes name the wrong side and the wrong buildings; one name style for jaunt stops and notes
 T-2947 — Quiet offline-copy control on the welcome, and fix its download stopping on every deployed build
+T-2948 — 1904 parkway elms: leaves and street shade fade in instead of popping as you walk
