@@ -34,3 +34,7 @@ When T-2852 was split (2026-10-19T12:01:40.355Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39245212958) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2906 (2026-10-20): what the re-zeroed camera shows
+
+T-2906 re-zeroed habs04-court-exterior's camera on the plan's frame (+0.65 ft, eye v 7.3455 to 7.1474), as T-2880 did the terrace section. In that frame every reading T-2859 took on native sheet 4 is now 0.65 ft north of the drawn one: the three dormer centres (built S32.1, 45.0, 67.8 at sheet 4's own S) render about 0.45-0.75 ft north of the drawn dormers. Under T-2879's ruling they belong at about S32.75, 45.65 and 68.45. The stair tower reads about 1 ft north of the drawn one, which is T-2879's wide-drum disagreement (the plan governs; not adopted). Both are recorded as open on habs04-court-exterior.match.json; this ticket closes that view.
