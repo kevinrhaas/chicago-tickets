@@ -1,7 +1,7 @@
 ---
 id: T-2951
 title: 1812 Prairie's gable from the Levy photograph: the outline's swell below the shoulders drawn to the print's, the shoulder stones built as blocks, the nine-light (three by three) grid window between stone mullions and transoms, and the kneelers carved scrolls under small pinnacles
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2891
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 12:40:41 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39465680402
+claimed_at: 2026-10-20T17:40:41.553Z
 decision: null
 decision_answer: null
 ---
