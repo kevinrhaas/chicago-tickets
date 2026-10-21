@@ -1,7 +1,7 @@
 ---
 id: T-2968
 title: The far shrubs (70-140 m) dealt on the GPU against the far band's field, so the far pass no longer walks them on the CPU; read with the far pass line at the throttled phone profile
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2896
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1170
 claimed_by: GPU performance thread 10/21/2026, 6:00:44 AM CT
 blocked_on: null
 needs_bake: false
