@@ -52,3 +52,5 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Owner steering and source update —2026-10-21
 
 Owner2026-10-21 reprioritizes visible parked vehicles replacing selected oldgeneration first, then ready static people/horses, then capability. T-2979 is the first boundedmain-scene placement. Historicalmaker/model research and actualnamed model authoring run inparallel; parentphotographic/moving/boarding acceptance staysopen. Existinginstruction to preservealloldwagons is superseded for selectedreplacements by owner; carts/covered andLight/far/loadfallback preserved.
+
+Owner follow-up2026-10-21: upgraded covered wagons may replace older covered wagons as they become ready. Preserve the existing intentional visual differences; do not turn the covered family into identical clones. Record original per-stand variation and use stable source-bounded variants. Current farm-box placement PR1174 remains a separate bounded delivery.

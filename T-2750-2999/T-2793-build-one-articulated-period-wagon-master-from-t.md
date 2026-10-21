@@ -112,3 +112,9 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `
 Foundation landed: PR1041 actually merged into DEV at22:05:13UTC as cc79b6b19f5c87febb8199453ed0f1d4326dbd15. All18 selected desktop/mobile smoke workflows and4 automatic workflows passed on qualified25b9; final V11 PASS. Ordinary merge, no protection bypass or production promotion. This does not close photographic acceptance or wagon boarding/driving. W01/C02 study and portable human infrastructure are available in DEV; remaining optional refinements and limitations are listed in root HANDOVER.md.
 
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
+
+## Owner's covered-wagon follow-up — 2026-10-21
+
+As better covered wagons become ready, replace the existing covered wagons with better covered-wagon models. Preserve the deliberate visual variety already present: upgraded vehicles must not read as clones. Inventory each selected original stand's identity, dimensions, orientation, material/wood/canvas variation and load details before replacement; carry distinct, stable variants into the new family rather than applying one identical mesh/finish everywhere. Keep type/date/source limits explicit. Unmeasured differences remain declared reconstruction, never invented manufacturer/model claims.
+
+This is the owner's next-family direction. Covered variants remain a separate follow-up to this farm-box master's acceptance. Current T-2979/PR1174 replaces only three farm-box stands and retains the old covered wagons; it is not a covered-family completion. Future replacements should retain Light/far/load-failure fallback and earn actual photographic comparison and desktop/mobile scene acceptance.
