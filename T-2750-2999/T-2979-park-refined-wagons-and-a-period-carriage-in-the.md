@@ -1,7 +1,7 @@
 ---
 id: T-2979
 title: Park refined wagons and a period carriage in the walking scenes
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
