@@ -1,7 +1,7 @@
 ---
 id: T-2923
 title: 1801 Prairie's loggia carving from the Taylor photograph: the archivolts' mouldings, the carved piers and panels beside and over both arches, the carved blocks at the cheeks' foot and the balcony's carved face, built or argued and the Taylor match record's loggia-carving item closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: T-2911
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 7:12:12 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39518537756
+claimed_at: 2026-10-21T00:12:13.523Z
 decision: null
 decision_answer: null
+group: T-2932,T-2923
 ---
 
 1801 Prairie's loggia carving from the Taylor photograph: the archivolts' mouldings, the carved piers and panels beside and over both arches, the carved blocks at the cheeks' foot and the balcony's carved face, built or argued and the Taylor match record's loggia-carving item closed.

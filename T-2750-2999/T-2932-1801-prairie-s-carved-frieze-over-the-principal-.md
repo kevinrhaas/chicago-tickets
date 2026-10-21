@@ -19,6 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/3951853
 claimed_at: 2026-10-21T00:12:05.959Z
 decision: null
 decision_answer: null
+group: T-2932,T-2923
 ---
 
 1801 Prairie's carved frieze over the principal storey from the Taylor photograph: the carved relief band over the loggia's arches and the cartouche band under the second storey's sills, built or argued and their Taylor match record item closed.
