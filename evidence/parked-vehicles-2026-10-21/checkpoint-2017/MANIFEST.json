@@ -1,6 +1,56 @@
 {
   "files": [
     {
+      "file": "FINAL-PUBLISHED-runtime/desktop-1835.png",
+      "bytes": 269031,
+      "sha256": "c0c9ed03dbaa93d2c0b1a826778609a2da9b9ea035822426b207f70856740ef2"
+    },
+    {
+      "file": "FINAL-PUBLISHED-runtime/desktop-1904.png",
+      "bytes": 64672,
+      "sha256": "aafc450fc061ffb21c4e28b28626cf208af430820207b180ad2a04366a3bc973"
+    },
+    {
+      "file": "FINAL-PUBLISHED-runtime/mobile-1835.png",
+      "bytes": 120623,
+      "sha256": "9e058417e08fd3f6c14add6d8a00ba8227f0b32dd768d56a1a3a8cfc2be0bdfc"
+    },
+    {
+      "file": "FINAL-PUBLISHED-runtime/mobile-1904.png",
+      "bytes": 38452,
+      "sha256": "d47b8ae915cefb977aaee1c4d4f40a4cfcddcdb92b971011825c086b41119f40"
+    },
+    {
+      "file": "FINAL-PUBLISHED-runtime/receipt.json",
+      "bytes": 16192,
+      "sha256": "8377bd94596370aa64ec6d756157a3bd7529e3d42a3b5486c855b08e2d8d9bde"
+    },
+    {
+      "file": "FINAL-SOURCE-runtime/desktop-1835.png",
+      "bytes": 269046,
+      "sha256": "e49418e446b7798db4ece8ccaa0e9cc19d41bab20a762dd8af31943fad59e593"
+    },
+    {
+      "file": "FINAL-SOURCE-runtime/desktop-1904.png",
+      "bytes": 64672,
+      "sha256": "aafc450fc061ffb21c4e28b28626cf208af430820207b180ad2a04366a3bc973"
+    },
+    {
+      "file": "FINAL-SOURCE-runtime/mobile-1835.png",
+      "bytes": 120629,
+      "sha256": "b0b3d422fa3b46ddfca92bde1fa83a5fb5090688ab7c641e2adb1f278a010c40"
+    },
+    {
+      "file": "FINAL-SOURCE-runtime/mobile-1904.png",
+      "bytes": 38452,
+      "sha256": "d47b8ae915cefb977aaee1c4d4f40a4cfcddcdb92b971011825c086b41119f40"
+    },
+    {
+      "file": "FINAL-SOURCE-runtime/receipt.json",
+      "bytes": 16255,
+      "sha256": "d01f470d86450937a368e1ab17bd649b7b1b8453aa61b36ef44ea9a037ff3fca"
+    },
+    {
       "file": "HUMAN-1835-WORKWEAR-COVERAGE-EYES-SOURCE-PEER-PASS-v1-2026-10-21.tar.gz",
       "bytes": 852138,
       "sha256": "f80fab1c9c7c9f002b940c03959c308b42fb92ea1b2d761ff4d5061f8a089cf3"
@@ -16,9 +66,19 @@
       "sha256": "101ae4c68421f3e7480f165a8a82caa01dbc458d5f7c7a047595b5975b7ff792"
     },
     {
+      "file": "PARKED-2979-INITIAL-RUNTIME-FINAL-GROUND-AND-CI-SOURCE-2026-10-21.tar.gz",
+      "bytes": 267868,
+      "sha256": "c7ea119036d45bf5b6ad84ee5f1975d3f221542114e696d7d379fb25201931f1"
+    },
+    {
       "file": "STATUS.md",
       "bytes": 518,
       "sha256": "46e61fabc2340733fa5d0546dcdcc0efc21e148e6406a27104b9af5bbe4c18f9"
+    },
+    {
+      "file": "STUDEBAKER-BROUGHAM-SOLID-HUB-v6-SOURCE-2026-10-21.tar.gz",
+      "bytes": 429170,
+      "sha256": "77914c2cffb0d1748bbe62c4e63a28d813a85b518634a1a25fbdf67f5ac8a26d"
     },
     {
       "file": "STUDEBAKER-BROUGHAM-SOURCE-WIP-v5-2026-10-21.tar.gz",
