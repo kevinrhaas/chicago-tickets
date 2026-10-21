@@ -11,15 +11,14 @@ parent: T-2896
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: GPU performance thread 10/21/2026, 12:40:41 AM CT
+claimed_by: GPU performance thread 10/21/2026, 3:16:21 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://claude.ai/code/session_01UfdVX51mgge3GRcdKL7AcW
-claimed_at: 2026-10-21T05:40:42.476Z
+claimed_at: 2026-10-21T08:16:22.246Z
 decision: null
 decision_answer: null
-group: T-2967,T-2968
 ---
 
 The far shrubs (70-140 m) dealt on the GPU against the far band's field, so the far pass no longer walks them on the CPU; read with the far pass line at the throttled phone profile.
