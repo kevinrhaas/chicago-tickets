@@ -1,4 +1,8 @@
-# Current handover — 2026-10-21, 22:42 UTC
+# Current handover — 2026-10-21, 22:54 UTC
+
+**READ FIRST: this paragraph supersedes all historical checkout/worker instructions below.** App is `steward/covered-period-wagons-20261021`, HEAD2aeb,26STAGEDfiles/index514767b0, no unstaged. Mainv2 is ACTIVE under covered_validation_recovery, started22:50:14; do notchangeHEAD/index/source/mirroruntilclosed. Human2f75 is COMMITTED/PUSHED in DEVdraftPR1175 and actualcanonical39687040336 has TERMINALSUCCESS +independentmechanicalqualification. DO NOT reapply historicalhumanstash/patch. No humanfigure/photoacceptance. ParkedPR1174still17+3, newsoleGETownerci_parked_recovery/PID573558/session23438/recovered4; old524900diedinrestartandwasverifiedabsent. Agentownsordinarygreenmergeonlyafter18+3/freshchecks. NoextraPOSTs. `checkpoint-canonical-success/STATUS.md` has currentcanonical/V5source/bounds-readerfix/restartproof; `checkpoint-covered-first-town/` has exactintegratedstagedpatcha7bdcd57 and actualold/newtownpair. Mainv1failedonlyitsboundsreader; preciseactualdiagnosticpassedwithoutguardwaiver. CurrentV5isfrozenoutsideapp, independentpeerreviewrunning. No coveredfullpreflight/commit/PR orDEVmergeyet.
+
+## Historical chronological handover (read only for evidence lineage)
 
 User authorizes parallel implementation, regular GitHub pushes and ordinary green DEV merges. Prioritize attractive parked vehicles, then ready people/horses, then occupied/moving/riding. Use existing attested, inferred or reconstructed people before generic. Covered upgrades must preserve their deliberate differences. No production promotion. Root alone writes tracked app/tickets; agents prepare disjoint outside-app parcels.
 

@@ -165,3 +165,7 @@ Photographic/interaction acceptance remains open; this evidence note changes no 
 ## Pushed V4 source checkpoint — 2026-10-21 22:34 UTC
 
 Full1038/0preflight and exactcommit checksPASS; reviewed V4 source2f75ef23dbb316ebe4cf53e65ce3af8b04f140d3 is pushed in DEVdraftPR1175. Observed shoulder holes, collar separation, trouser tear and toe exposure repaired in actual source-swap previews. Completefit/periodtailoring/photoquality remainopen, including40 inherited idle negativefaceprojections. ONE both-true canonical workflow39687040336 isrunning; no actual new canonical export/sole/seated/world acceptance yet. Branchmuststayunchangeduntilterminal. This is a partialauthoringcheckpoint and does not closeT1789. Evidence: evidence/parked-vehicles-2026-10-21/checkpoint-human-pushed/.
+
+## Exact V4 canonical success — 2026-10-21 22:54 UTC
+
+Run39687040336 completedSUCCESS22:46:24 at2f75ef23, attempt1/bothinputsTRUE. Independentlyqualified source24+published24inspections,24sole receipts under2mm,6seated+3refusals,6hierarchycomparisons,W01bothpaths/viewportsand24containers0errors/0warnings. RootviewedactualBardwellwebstandingquarter/closeface/seatedquarter; coverage/shoe/eyerepairsareexported. Periodtailoring, photographicface/hair/skin, fullfit andworld/occupiedacceptanceremainOPEN; nofigureenabled. SourcePR1175staysdraftpendingparentDEVancestry/normalgates, broadT1789notclosed. Successcapsule37717ad7 andnextV5sourceproposalc26f48fb backedupin evidence/parked-vehicles-2026-10-21/checkpoint-canonical-success/.
