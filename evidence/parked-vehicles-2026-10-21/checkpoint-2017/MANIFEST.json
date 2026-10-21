@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-21T20:15:03.468784+00:00",
+  "files": [
+    {
+      "file": "HUMAN-1835-WORKWEAR-COVERAGE-EYES-SOURCE-PEER-PASS-v1-2026-10-21.tar.gz",
+      "bytes": 852138,
+      "sha256": "f80fab1c9c7c9f002b940c03959c308b42fb92ea1b2d761ff4d5061f8a089cf3"
+    },
+    {
+      "file": "KINZIE-DEARBORN-CONSTRUCTION-PROOF-AND-BROUGHAM-BRIEF-2026-10-21.tar.gz",
+      "bytes": 2913993,
+      "sha256": "101ae4c68421f3e7480f165a8a82caa01dbc458d5f7c7a047595b5975b7ff792"
+    },
+    {
+      "file": "STUDEBAKER-BROUGHAM-SOURCE-WIP-v5-2026-10-21.tar.gz",
+      "bytes": 731493,
+      "sha256": "8ef302e8f0d334dacd59933c7a7a2d57deb16967d0900a580ba3f261649bf7ee"
+    },
+    {
+      "file": "human-workwear-wagon-independent-source-review.json",
+      "bytes": 3896,
+      "sha256": "2de5b5d883f6d1a7191dc5aa491658efe0407c19134a07432762c2ef9a39a6f3"
+    },
+    {
+      "file": "parked-ground-receipt.json",
+      "bytes": 4412,
+      "sha256": "df67a7b10b400b60676621670a0807ff529bba2f748768c6b4fdf3d1aa822c2c"
+    },
+    {
+      "file": "T-2979-FULL-STAGED.patch",
+      "bytes": 1695723,
+      "sha256": "b129b0af7be7b320d22a67409df9b5854a36eda8159775e563793a7907bae4cc"
+    }
+  ]
+}
