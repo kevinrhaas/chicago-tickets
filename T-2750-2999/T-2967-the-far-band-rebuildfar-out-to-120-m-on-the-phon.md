@@ -1,7 +1,7 @@
 ---
 id: T-2967
 title: The far band (rebuildFar, out to 120 m on the phone and 175 m at full) dealt on the GPU against a coarser kept field designed for its reach, with the tile-class differences a coarser texel brings measured and bounded, so the near pass no longer walks it on the CPU; read with the near re-deal line at the throttled phone profile
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2896
 opened: 2026-10-20
-closed: null
+closed: 2026-10-21
 pr: 1169
 claimed_by: GPU performance thread 10/21/2026, 12:40:41 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-21T08:03:36Z
 claimed_run: https://claude.ai/code/session_01UfdVX51mgge3GRcdKL7AcW
 claimed_at: 2026-10-21T05:40:42.474Z
 decision: null
