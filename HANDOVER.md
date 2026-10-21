@@ -1,4 +1,4 @@
-# Current handover — 2026-10-21, 22:02 UTC
+# Current handover — 2026-10-21, 22:18 UTC
 
 User authorizes parallel implementation, regular GitHub pushes and ordinary green DEV merges. Prioritize attractive parked vehicles, then ready people/horses, then occupied/moving/riding. Use existing attested, inferred or reconstructed people before generic. Covered upgrades must preserve their deliberate differences. No production promotion. Root alone writes tracked app/tickets; agents prepare disjoint outside-app parcels.
 
@@ -8,7 +8,7 @@ Draft DEV PR https://github.com/kevinrhaas/chicago/pull/1174, T-2979 in review, 
 
 Full local1038-step/380-selftest gate passed. Exact-commit checks passed. Final source/published runtime fixtures passed168 assertions. Final main images/card/ground/budgets passed within the honest limits:11 normal browser screenshots and2 canvas-only1904 desktop captures; original failed/interrupted receipts retained. Local final packet5662755c is in checkpoint-2118.
 
-Latest confirmed CI:17/18 selected cells and all3 normal workflows green; only desktop13/run39673247878 remains (started20:49:26, historical58–85min). Exactly18 smoke dispatches once, no reruns. Sole current GET observer is wagon_visual, PID515879/session55183, `/workspace/shared/parked-2979-2aebef95-ci-observer-recovered2/latest.json`, deadline23:47 UTC. PreviousPID459564 stopped on actual GitHub503; death verified before continuation. Do not start duplicates or redispatch. When18 qualify, root verifies fresh head/base DEV/required checks/mergeability, marks ready and ordinary squash merges. No admin bypass.
+Latest confirmed CI:17/18 selected cells and all3 normal workflows green; only desktop13/run39673247878 remains (started20:49:26, historical58–85min). Exactly18 smoke dispatches once, no reruns. Sole current GET observer is wagon_visual, PID524900/session57494, `/workspace/shared/parked-2979-2aebef95-ci-observer-recovered3/latest.json`, deadline23:47 UTC. PreviousPID459564 stopped on actual GitHub503; subsequent515879 died during exec transport loss. Both deaths were verified before each continuation. Do not start duplicates or redispatch. When18 qualify, root verifies fresh head/base DEV/required checks/mergeability, marks ready and ordinary squash merges. No admin bypass.
 
 ## Current app and human source recovery
 
@@ -95,3 +95,7 @@ Application directory is `/workspace/chicago/chicago/4d`. Read its `AGENTS.md` b
 The final backup directory is named in the newest entry of [CHECKPOINT.md](evidence/period-transport-2026-10-18/CHECKPOINT.md). Its `MANIFEST.json` pins every copied file and its `STATUS.md` distinguishes actual success, actual failure and unexecuted source. It contains the final merge evidence capsule `e21df6703ffb682a193a7106f84ee1d169a2a94fc38f18f96c48328d5f4f76dd`, the human recovery parcel, latest horse successor, harness complete failure and saddle failure/proposal, plus detailed author handoffs. Earlier backups retain complete prior input bytes, passing references and failed trials. Use the newest checkpoint first; older running/uncommitted statements are historical.
 
 All remaining model corrections are within the user's existing task authorization. Preserve strict physical/export guards and review concrete source changes; do not add another user approval round for ordinary repairs or green DEV merges.
+
+## Covered proposal update — 22:18 UTC
+
+`checkpoint-covered-proposal/` durably preserves proposal10ef740f, independent reviewf73bfcd4 and recovered3 observer source/nonterminal snapshot. The review passes bounded source/data/static-GLB compatibility only. env_validation now owns the finite actual module fixture outside the app; no tracked source or runtime acceptance yet. Existing near/Light fallback is retained; compressed distinct LOD exports and main scene acceptance remain open.
