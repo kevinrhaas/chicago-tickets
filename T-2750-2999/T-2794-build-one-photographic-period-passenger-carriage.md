@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: carriage_visual 10/21/2026, 2:58:52 PM CT
+claimed_by: run 10/21/2026, 6:16:07 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-21T19:58:53.082Z
+claimed_at: 2026-10-21T23:16:08.435Z
 decision: null
 decision_answer: null
 ---
