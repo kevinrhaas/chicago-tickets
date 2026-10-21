@@ -1,7 +1,7 @@
 ---
 id: T-2937
 title: 1811 Prairie's bay gable to the 1888 plate's width: the gable about 4 m across with its rake running out past the pinnacles' inner faces (K01's wall gable lets its pinnacles engage the rake where the K10 cornice return now keeps them clear), the great arch's moulded archivolt at the plate's depth across that width, and the carved stone over the arch built or argued
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2917
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1167
 claimed_by: run 10/20/2026, 8:26:36 PM CT
 blocked_on: null
 needs_bake: false
