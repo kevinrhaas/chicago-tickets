@@ -19,7 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/3951847
 claimed_at: 2026-10-21T00:06:07.840Z
 decision: null
 decision_answer: null
-group: T-2950,T-2955
+group: T-2950,T-2955,T-2971
 ---
 
 Glessner's front door height: sheet 6's 7.75 ft against sheet 5's 7.60 (at its own scale bar) and the 1888 photograph's proportion (about 7.4 ft on a 5 ft width), which put the door head on the seventh bed joint where the build leaves it 0.25 ft over; read and built or ruled, the habs5-entry camera re-solved on the result, and habs5-entry brought to matches.

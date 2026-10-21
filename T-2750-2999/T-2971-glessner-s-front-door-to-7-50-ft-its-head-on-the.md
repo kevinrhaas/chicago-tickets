@@ -1,7 +1,7 @@
 ---
 id: T-2971
 title: Glessner's front door to 7.50 ft, its head on the seventh bed joint (sheet 6 read at its own printed scale draws it 7.60, sheet 5 7.60, the 1888 photograph about 7.4; both sheets put the head on a bed, which the printed string sets at 7.50), the leaf and header following, the habs5-entry camera re-solved on the scan's own square 100 px a foot, and habs5-entry's door and course items closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: T-2950
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 7:49:35 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39518471797
+claimed_at: 2026-10-21T00:49:35.895Z
 decision: null
 decision_answer: null
+group: T-2950,T-2955,T-2971
 ---
 
 Glessner's front door to 7.50 ft, its head on the seventh bed joint (sheet 6 read at its own printed scale draws it 7.60, sheet 5 7.60, the 1888 photograph about 7.4; both sheets put the head on a bed, which the printed string sets at 7.50), the leaf and header following, the habs5-entry camera re-solved on the scan's own square 100 px a foot, and habs5-entry's door and course items closed.
