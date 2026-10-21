@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2791
 opened: 2026-10-21
 closed: null
-pr: null
+pr: 1174
 claimed_by: run 10/21/2026, 2:35:03 PM CT
 blocked_on: null
 needs_bake: false
@@ -34,3 +34,5 @@ Owner steering2026-10-21: prioritize attractive parked vehicles first, then read
 **Actual street inspection2026-10-21:** All four first-phase PNGs are saved and root-inspected: published1835desktop Western Hotel/Wolf Point, and1904mobile Balanced wide/curbside carriage. Placements and grounding are acceptable as a bounded prototype increment. Western scene2449driver draws/1,249,166tri; mobile carriage close3975/1,875,879, both within unchanged budgets. GL/page/console errors0. The overall helper receipt remains FAIL because an existing people.json request failure omitted its error reason; preserve that unresolved event, not a retroactive PASS. Phase2 adds one justified reason-preserving publishedmobile recheck to the four remaining planned boots, plus real vehicle popup DOM checks. Final corrected full preflight is now running (session34702); no application commit/PR/merge yet. Actual images, failed receipts and the prepared successor caller are backed up as capsule3e456644 in checkpoint-2017.
 
 **Committed/pushed2026-10-21:** `2aebef95f6a5b6fa1bd8353db936c7674a73c32f` on `steward/parked-period-vehicles-20261021`. Corrected full preflight PASS1038steps/380deliberate refusal self-tests; exact-commit changelog/ID checks PASS. Final commit-stamped publication and remaining world/request/card checks are delegated to env_validation; CI qualifier wagon_visual will dispatch the18-cell grid once root supplies the draftPR. No DEV merge yet.
+
+**DEV review opened:** Draft https://github.com/kevinrhaas/chicago/pull/1174 at exact pushed2aebef95. Local acceptance recheck and18selected CI smoke cells are running in parallel. Ticket remains claimed pending that review work; no merge/done claim.
