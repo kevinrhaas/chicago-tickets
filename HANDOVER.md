@@ -1,4 +1,4 @@
-# Current handover — 2026-10-21, 22:18 UTC
+# Current handover — 2026-10-21, 22:23 UTC
 
 User authorizes parallel implementation, regular GitHub pushes and ordinary green DEV merges. Prioritize attractive parked vehicles, then ready people/horses, then occupied/moving/riding. Use existing attested, inferred or reconstructed people before generic. Covered upgrades must preserve their deliberate differences. No production promotion. Root alone writes tracked app/tickets; agents prepare disjoint outside-app parcels.
 
@@ -99,3 +99,7 @@ All remaining model corrections are within the user's existing task authorizatio
 ## Covered proposal update — 22:18 UTC
 
 `checkpoint-covered-proposal/` durably preserves proposal10ef740f, independent reviewf73bfcd4 and recovered3 observer source/nonterminal snapshot. The review passes bounded source/data/static-GLB compatibility only. env_validation now owns the finite actual module fixture outside the app; no tracked source or runtime acceptance yet. Existing near/Light fallback is retained; compressed distinct LOD exports and main scene acceptance remain open.
+
+## Active checkout and validation update — 22:23 UTC
+
+App checkout is NOW the human branch, fast-forwarded to reviewed parked2aeb with exact V4 stash applied once. Human-only documentation suffixes were appended to current parked bytes;675liberties/source-use regenerated. Nine human files staged, no appcommit. Full preflightRUNNING session50457 at /workspace/shared/human-workwear-v4-FULL-PREFLIGHT-2026-10-21.log; retain actual terminal result before committing. Stash remains intact; do not reapply. Earlier clean-parked checkout paragraph above is historical. `checkpoint-covered-runtime/` stores actual26-check modulePASS43b75f06 and refreshed HELD canonical helpers/V4 pins. Main covered inspection caller is being prepared outsideapp; no more local browser whilefullgate. Parked lastsmoke stillpending.
