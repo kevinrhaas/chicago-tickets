@@ -7,7 +7,7 @@ requested_by: owner
 seen: true
 effort: M
 legacy_id: null
-parent: null
+parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
@@ -20,6 +20,21 @@ claimed_at: null
 decision: null
 decision_answer: null
 ---
+
+## Scope and acceptance
+
+Owner, 2026-10-21: as better covered wagons become available, replace older covered examples while retaining their deliberate differences so they do not look like clones. This is a bounded static covered-model increment beside T-2793, whose master acceptance is farm-box only. It does not close the parent photographic-quality, animation, horse or boarding requirements.
+
+- Audit exact existing covered-record IDs, dimensions, body/gear schemes, canvas aging, per-board variation, placed yokes and seeds. Preserve their coordinates/bearings and stable individual identities. Do not change all wagons or silently turn covered examples into open farm boxes.
+- Reuse the current original authored W01 running gear where compatible; create original reproducible bows/canvas, visibly layered seams and restrained folds/weathering. Retain existing source/license provenance and explicitly declare reconstructed construction, color, wear and any geometry variation. No maker, owner, historical load or Dearborn identity is invented.
+- Select a small actual-ground-qualified subset only after comparing its old and new appearance. Carry forward the same seeded finish family, aging and laid-by yoke where present. Geometry variation may be added with a declared stable seed but must remain mechanically coherent. Shared material/mesh resources and compressed near/mid/far outputs stay within existing phone budgets.
+- Use the actual portable GLB/sidecar and parked transport path with unchanged Light/far/load-failure fallback, wheel/tongue ground guards, inspection-card confidence/disposal behavior, and no unintended duplicate old/new objects. Source data must be copied by the supported publisher.
+- Render matched old/new source and published close, side, front-quarter and distant views on desktop and mobile. Show multiple upgraded covered examples side by side so finish/canvas differences are visible. Compare with cleared period construction evidence; list remaining photographic differences candidly.
+- Record deterministic reproduction, validators, actual triangle/draw/texture/memory cost and console/GL checks. Required full preflight and appropriate published smoke pass before an ordinary DEV merge; commit/push intermediate source and evidence. No local Blender installation, no production promotion, no parent photographic closure on a prototype.
+
+## Starting evidence
+
+Read current `renderers/web/js/yard.js`, `data/transport/parked/`, T-2792/T-2793 and T-2979. The existing coverage has common dimensions but stable seeded body/gear color, canvas aging and board variation. Replacing an entire old build can also hide its laid-by yoke: explicitly preserve that gear. The first read-only variation audit is being saved outside the app; root owns tracked integration.
 
 Upgrade selected covered wagons while preserving their distinct finishes.
 
