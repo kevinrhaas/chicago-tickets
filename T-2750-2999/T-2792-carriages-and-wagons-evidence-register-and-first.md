@@ -51,3 +51,8 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+
+## Owner steering and source update —2026-10-21
+
+Primary-source manufacturer/type register now acquired and backed in evidence/parked-vehicles-2026-10-21/HISTORICAL-VEHICLE-REGISTER.md. Specifics: Fort1812 baggagewagons (maker unknown); Dearborn passengerwagon in Kinzie1831 pp297/302 with pairteam; Briggs&Humphrey actualRandolphStreet carriage/sleighshop1835; Studebaker1893 Chicago branch and Brougham/FarmNo4/FancyParcelNo382 plates. Market availability is not localownership or rankedpopularity. Exact source images/rights and modelling limits retained. CurrentW01/C02 not retrospectively branded.

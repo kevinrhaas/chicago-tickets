@@ -47,3 +47,8 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+
+## Owner steering and source update —2026-10-21
+
+Owner2026-10-21 reprioritizes visible parked vehicles replacing selected oldgeneration first, then ready static people/horses, then capability. T-2979 is the first boundedmain-scene placement. Historicalmaker/model research and actualnamed model authoring run inparallel; parentphotographic/moving/boarding acceptance staysopen. Existinginstruction to preservealloldwagons is superseded for selectedreplacements by owner; carts/covered andLight/far/loadfallback preserved.
