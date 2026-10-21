@@ -36,6 +36,3 @@ Owner, 2026-10-21: as better covered wagons become available, replace older cove
 
 Read current `renderers/web/js/yard.js`, `data/transport/parked/`, T-2792/T-2793 and T-2979. The existing coverage has common dimensions but stable seeded body/gear color, canvas aging and board variation. Replacing an entire old build can also hide its laid-by yoke: explicitly preserve that gear. The first read-only variation audit is being saved outside the app; root owns tracked integration.
 
-Upgrade selected covered wagons while preserving their distinct finishes.
-
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
