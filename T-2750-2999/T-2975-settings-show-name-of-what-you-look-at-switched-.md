@@ -1,7 +1,7 @@
 ---
 id: T-2975
 title: Settings › Show › Name of what you look at, switched off, hides the docked name tag; the Settings checkboxes read plainly as on or off on a phone
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-21
 closed: null
-pr: null
+pr: 1171
 claimed_by: run 10/21/2026, 9:19:31 AM CT
 blocked_on: null
 needs_bake: false
