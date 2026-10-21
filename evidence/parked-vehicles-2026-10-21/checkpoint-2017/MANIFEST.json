@@ -1,5 +1,4 @@
 {
-  "at": "2026-10-21T20:15:03.468784+00:00",
   "files": [
     {
       "file": "HUMAN-1835-WORKWEAR-COVERAGE-EYES-SOURCE-PEER-PASS-v1-2026-10-21.tar.gz",
@@ -7,9 +6,19 @@
       "sha256": "f80fab1c9c7c9f002b940c03959c308b42fb92ea1b2d761ff4d5061f8a089cf3"
     },
     {
+      "file": "HUMAN-1835-WORKWEAR-EXACT-NEXT-STEPS-2026-10-21.tar.gz",
+      "bytes": 4214,
+      "sha256": "dbc23cae95f53a351de2657f8f28e10d126a14c807e1ff05df809ceadbc1d56b"
+    },
+    {
       "file": "KINZIE-DEARBORN-CONSTRUCTION-PROOF-AND-BROUGHAM-BRIEF-2026-10-21.tar.gz",
       "bytes": 2913993,
       "sha256": "101ae4c68421f3e7480f165a8a82caa01dbc458d5f7c7a047595b5975b7ff792"
+    },
+    {
+      "file": "STATUS.md",
+      "bytes": 518,
+      "sha256": "46e61fabc2340733fa5d0546dcdcc0efc21e148e6406a27104b9af5bbe4c18f9"
     },
     {
       "file": "STUDEBAKER-BROUGHAM-SOURCE-WIP-v5-2026-10-21.tar.gz",
@@ -17,9 +26,34 @@
       "sha256": "8ef302e8f0d334dacd59933c7a7a2d57deb16967d0900a580ba3f261649bf7ee"
     },
     {
+      "file": "T-2979-FULL-STAGED.patch",
+      "bytes": 1695723,
+      "sha256": "b129b0af7be7b320d22a67409df9b5854a36eda8159775e563793a7907bae4cc"
+    },
+    {
+      "file": "T-2979-PUBLISH-SCHEMA-FIX-FULL-STAGED.patch",
+      "bytes": 1697431,
+      "sha256": "945ac28caaa96b57bc6f8516dfc26dcafa332e21d9bf2dc444d74a5c9618c10f"
+    },
+    {
+      "file": "VALIDATION-UPDATE.md",
+      "bytes": 511,
+      "sha256": "068d636d6e418652c78d9164d40a884812c540ea6bca51ca59fc808a5d661318"
+    },
+    {
       "file": "human-workwear-wagon-independent-source-review.json",
       "bytes": 3896,
       "sha256": "2de5b5d883f6d1a7191dc5aa491658efe0407c19134a07432762c2ef9a39a6f3"
+    },
+    {
+      "file": "parked-2979-GROUND-FINAL-PREFLIGHT-2026-10-21.log",
+      "bytes": 1459,
+      "sha256": "973a27a273985057456a794ffa746e26e0eba7cc73a0c6c4254c07ac683a5b72"
+    },
+    {
+      "file": "parked-2979-schema-corrected-VALIDATE-2026-10-21.log",
+      "bytes": 125349,
+      "sha256": "db039aecca9c707e34d45c15e5394d73e10464d2a3c58b21744ee51327f34dd9"
     },
     {
       "file": "parked-ground-receipt.json",
@@ -27,9 +61,9 @@
       "sha256": "df67a7b10b400b60676621670a0807ff529bba2f748768c6b4fdf3d1aa822c2c"
     },
     {
-      "file": "T-2979-FULL-STAGED.patch",
-      "bytes": 1695723,
-      "sha256": "b129b0af7be7b320d22a67409df9b5854a36eda8159775e563793a7907bae4cc"
+      "file": "studebaker-brougham-v5-wagon-source-review.json",
+      "bytes": 4356,
+      "sha256": "354840e247a370f7d05fe01bfb15e3b1ed611083c446ba899eee07ca1c811ea9"
     }
   ]
 }
