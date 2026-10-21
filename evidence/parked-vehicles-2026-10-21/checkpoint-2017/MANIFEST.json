@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "file": "FINAL-1038-CHECK-PASS.log",
+      "bytes": 1249593,
+      "sha256": "462e4f76b8f4841c9243ad03b78741d8d529072abe0742af0a6a7f42c05f4fd2"
+    },
+    {
       "file": "FINAL-PUBLISHED-runtime/desktop-1835.png",
       "bytes": 269031,
       "sha256": "c0c9ed03dbaa93d2c0b1a826778609a2da9b9ea035822426b207f70856740ef2"
@@ -111,14 +116,39 @@
       "sha256": "068d636d6e418652c78d9164d40a884812c540ea6bca51ca59fc808a5d661318"
     },
     {
+      "file": "desktop-1835-western-yard.png",
+      "bytes": 1164045,
+      "sha256": "ef47a8275c946e2ed63bc5935e24e8c4cc78b6cf9a0c5d87d2e875577585787c"
+    },
+    {
       "file": "human-workwear-wagon-independent-source-review.json",
       "bytes": 3896,
       "sha256": "2de5b5d883f6d1a7191dc5aa491658efe0407c19134a07432762c2ef9a39a6f3"
     },
     {
+      "file": "mobile-1904-carriage-close.png",
+      "bytes": 918445,
+      "sha256": "dec2df17cb21fbffc3f6e0acef85a6a6403d34677d3af5fa740c3cea7891401c"
+    },
+    {
+      "file": "parked-2979-EXACT-COMMIT-changelog.log",
+      "bytes": 159,
+      "sha256": "1553d159e34009124903e27573711e13f5183ee1434c8d014a5775e7269a4e78"
+    },
+    {
+      "file": "parked-2979-EXACT-COMMIT-ids.log",
+      "bytes": 281,
+      "sha256": "6c5acfd585e393428f7cc6d33cf945249b5e10fc4206721e6545325cab09577a"
+    },
+    {
       "file": "parked-2979-GROUND-FINAL-PREFLIGHT-2026-10-21.log",
       "bytes": 1459,
       "sha256": "973a27a273985057456a794ffa746e26e0eba7cc73a0c6c4254c07ac683a5b72"
+    },
+    {
+      "file": "parked-2979-PUBLISH-SCHEMA-CORRECTED-PREFLIGHT-2026-10-21.log",
+      "bytes": 718,
+      "sha256": "4a05f63afade9fcc6fb27745b14f89650ce5237a986e4908c90c6635f8feb898"
     },
     {
       "file": "parked-2979-schema-corrected-VALIDATE-2026-10-21.log",
