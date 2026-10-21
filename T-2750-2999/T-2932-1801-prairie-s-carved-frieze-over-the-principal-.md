@@ -1,7 +1,7 @@
 ---
 id: T-2932
 title: 1801 Prairie's carved frieze over the principal storey from the Taylor photograph: the carved relief band over the loggia's arches and the cartouche band under the second storey's sills, built or argued and their Taylor match record item closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2922
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1165
 claimed_by: run 10/20/2026, 7:12:05 PM CT
 blocked_on: null
 needs_bake: false
