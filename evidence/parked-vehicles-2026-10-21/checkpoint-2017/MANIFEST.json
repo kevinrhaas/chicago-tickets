@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "file": "CI-LAST-SAVED-NOT-TERMINAL.json",
+      "bytes": 6769,
+      "sha256": "d3c3b739a2f70fb0f001a5798b07f5c1d42f562b188de50a6451eac77b660701"
+    },
+    {
       "file": "FINAL-1038-CHECK-PASS.log",
       "bytes": 1249593,
       "sha256": "462e4f76b8f4841c9243ad03b78741d8d529072abe0742af0a6a7f42c05f4fd2"
@@ -69,6 +74,11 @@
       "file": "KINZIE-DEARBORN-CONSTRUCTION-PROOF-AND-BROUGHAM-BRIEF-2026-10-21.tar.gz",
       "bytes": 2913993,
       "sha256": "101ae4c68421f3e7480f165a8a82caa01dbc458d5f7c7a047595b5975b7ff792"
+    },
+    {
+      "file": "PARKED-2979-2AEBEF95-ACTUAL18DISPATCH-OBSERVER-START-2026-10-21.tar.gz",
+      "bytes": 23125,
+      "sha256": "8aeea804612b07c1e2781e7cd8b7dc17f4e5db0eb2b6b6889bacde7be41555ff"
     },
     {
       "file": "PARKED-2979-ACTUAL-WORLD-PHASE1-AND-PHASE2-CALLER-2026-10-21.tar.gz",
