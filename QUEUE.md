@@ -53,7 +53,6 @@ T-2900 — 1801 Prairie's east range finished on K01: the north-east turret turn
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-2545 — 1812 Prairie's flanks, rear and the roof behind the gable, and the Levy, c. 1955 and 1915 Tribune match records brought to matches (after the pieces before it)
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
-T-2937 — 1811 Prairie's bay gable to the 1888 plate's width: the gable about 4 m across with its rake running out past the pinnacles' inner faces (K01's wall gable lets its pinnacles engage the rake where the K10 cornice return now keeps them clear), the great arch's moulded archivolt at the plate's depth across that width, and the carved stone over the arch built or argued
 T-2918 — 1811 Prairie's entrance porch from the 1888 plate: the open round-arched porch about 1.8 m wide and deep on clustered columns with carved capitals, the door set far back in it, and the stair between scrolled stone cheek walls
 T-2919 — 1811 Prairie's front fabric from the 1888 plate: the smooth ashlar of the bay's upper stage and the oriel over the rock-faced courses, the bay's canted north face, the oriel's square returns and its cornice down to the plate's 9.06 m, and the two front downpipes
 T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: the hipped mass over the bay with the lower south roof to the tall stack, the stack's corbelled cap and the range's second stack, the other pictures' cameras solved and every 1811 match record brought to matches (after the pieces before it)
