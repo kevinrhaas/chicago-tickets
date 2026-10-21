@@ -62,4 +62,10 @@ Owner, 2026-10-11: "if you have an image you should work towards it until it's a
 
 Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
 
-No picture of this building was found by address in the Prairie library on 2026-10-11. Before building, search the library (every record, street views and neighbours' plates included) and `data/sources/`. If one turns up, add an `## Image gate` section here naming the structure id as a bullet.
+## Image gate
+
+The building register holds two pictures of this house (owner confirmed 2026-10-16); both apply under AGENTS.md rule 11. Structure id:
+
+- `buckingham_house_2036_prairie` — views: `a20-chicagology-2036-street-engraving-1880`, `a20-glessner-2100-block-west-side-1890s`
+
+Solve both cameras into `data/reference_views/buckingham_house_2036_prairie/`, build until `node tools/photo_match.mjs` matches both, and argue the 1890s photo's alterations (its own date) in the match record rather than copying them into 1904.
