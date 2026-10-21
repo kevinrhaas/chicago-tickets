@@ -1,8 +1,11 @@
-# Current handover — 2026-10-21, 21:18 UTC
+# Current handover — 2026-10-21, 21:25 UTC
 
 User authorizes parallel people/wagon/carriage/horse work, periodic GitHub pushes and ordinary green DEV merges. Prioritize visibly improved parked models, then ready figures/horses, then moving/occupied/riding. Use existing attested, inferred or reconstructed people before generic figures. Better covered wagons must retain deliberate differences; do not turn them into clones. Queue rank remains owner-controlled.
 
 ## Current application and next action
+
+**Current local checkout update, 21:25 UTC:** Root is now on `steward/1835-workwear-repair-20261021` from DEVfdb227dbf, with independently reviewed V2 source patch6c9a9ed2 applied UNCOMMITTED plus append-only documentation. Full preflight is next; no source commit/canonical export yet. Parked PR1174 remains unchanged remotely at2aebef95 and17/18selected+all3normalchecks pass, only desktop13 remains. Source capsule9d557aa4, actual V2 PNGs/peer review and Broughamv7/next-ratio proposals are in `checkpoint-2125/`. T2980 covered follow-up is normally claimed; env_validation works only outside app, preserving exact seeded coats and laid-by yokes. Browser/model workers HOLD during gate. The parked application bullet below describes that saved branch/PR, not current local checkout.
+
 
 - Repo `/workspace/chicago`, app `chicago/4d`, clean branch `steward/parked-period-vehicles-20261021`, pushed head `2aebef95f6a5b6fa1bd8353db936c7674a73c32f`.
 - Draft DEV PR https://github.com/kevinrhaas/chicago/pull/1174, T-2979. Three original 1835 farm-box stands replaced at exact old coordinates; one generic empty/unhitched 1904 carriage. No new 1812 example, figures/horses, traffic, boarding or photographic closure.

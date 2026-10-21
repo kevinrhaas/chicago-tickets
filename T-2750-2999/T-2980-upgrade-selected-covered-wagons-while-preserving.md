@@ -36,3 +36,4 @@ Owner, 2026-10-21: as better covered wagons become available, replace older cove
 
 Read current `renderers/web/js/yard.js`, `data/transport/parked/`, T-2792/T-2793 and T-2979. The existing coverage has common dimensions but stable seeded body/gear color, canvas aging and board variation. Replacing an entire old build can also hide its laid-by yoke: explicitly preserve that gear. The first read-only variation audit is being saved outside the app; root owns tracked integration.
 
+**Started2026-10-21:** Normal claim pushed268e0c74. Frozen source audit in checkpoint-2125 distinguishes86declared index rows and18covered from historical80 main-group count; no new runtime census claim. Exact per-ID seeds/coats/geometry and laid-by yokes recorded. Outside-app representative source prototype underway, root sole tracked writer. No new covered GLB/placement/photo PASS yet.
