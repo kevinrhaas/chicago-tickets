@@ -1,7 +1,7 @@
 ---
 id: T-2969
 title: The carry tile's whole-tile landing after a tier change or jump (85-101 ms, one long main-thread task at the phone profile) chunked across frames or returned interleaved by the worker, read before and after
-state: review
+state: done
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2896
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1159
 claimed_by: run 10/20/2026, 3:11:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-21T03:00:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39489028084
 claimed_at: 2026-10-20T20:11:02.799Z
 decision: null
