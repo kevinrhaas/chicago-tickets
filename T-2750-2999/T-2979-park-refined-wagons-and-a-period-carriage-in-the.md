@@ -7,7 +7,7 @@ requested_by: owner
 seen: true
 effort: M
 legacy_id: null
-parent: null
+parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
@@ -30,3 +30,5 @@ Owner steering2026-10-21: prioritize attractive parked vehicles first, then read
 **Progress2026-10-21:** Final actual wheel-vs-rendered-road check passed (maximum0.690mm difference; all carriage wheels on the rendered asphalt). Final full preflight is running; no application PASS, commit, PR or merge claimed yet. Current staged source, source-reviewed human repair and named Studebaker WIP are preserved in `evidence/parked-vehicles-2026-10-21/checkpoint-2017/`; the new named model remains unrendered/unaccepted.
 
 **Validation update2026-10-21:** Full1038-step run terminated with one failed step: the dataset validator rejected the unregistered new scene layer (two scene errors). The scene schema now registers `parked_transport`; targeted full dataset validation passes0errors. Independent publication review found and fixed the missing parked placement-data copy, with a matching byte-copy contract row. Final published runtime and first actual street images are next; a fresh full gate is still required before commit.
+
+**Actual street inspection2026-10-21:** All four first-phase PNGs are saved and root-inspected: published1835desktop Western Hotel/Wolf Point, and1904mobile Balanced wide/curbside carriage. Placements and grounding are acceptable as a bounded prototype increment. Western scene2449driver draws/1,249,166tri; mobile carriage close3975/1,875,879, both within unchanged budgets. GL/page/console errors0. The overall helper receipt remains FAIL because an existing people.json request failure omitted its error reason; preserve that unresolved event, not a retroactive PASS. Phase2 adds one justified reason-preserving publishedmobile recheck to the four remaining planned boots, plus real vehicle popup DOM checks. Final corrected full preflight is now running (session34702); no application commit/PR/merge yet. Actual images, failed receipts and the prepared successor caller are backed up as capsule3e456644 in checkpoint-2017.

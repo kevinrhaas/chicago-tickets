@@ -66,6 +66,16 @@
       "sha256": "101ae4c68421f3e7480f165a8a82caa01dbc458d5f7c7a047595b5975b7ff792"
     },
     {
+      "file": "PARKED-2979-ACTUAL-WORLD-PHASE1-AND-PHASE2-CALLER-2026-10-21.tar.gz",
+      "bytes": 4229910,
+      "sha256": "3e45664461ca99c9d07f06806fdbf9d5e72dbb590c69b1e20b4e79cf927e3d44"
+    },
+    {
+      "file": "PARKED-2979-FINAL-SOURCE-PUBLISHED-RUNTIME-2026-10-21.tar.gz",
+      "bytes": 994216,
+      "sha256": "07d743bb07dd2fdc6a50a0908d1efd742a25b5bbaf1cd8b67208e42dd4362545"
+    },
+    {
       "file": "PARKED-2979-INITIAL-RUNTIME-FINAL-GROUND-AND-CI-SOURCE-2026-10-21.tar.gz",
       "bytes": 267868,
       "sha256": "c7ea119036d45bf5b6ad84ee5f1975d3f221542114e696d7d379fb25201931f1"

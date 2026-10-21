@@ -1,5 +1,7 @@
 # Current resume update — 2026-10-21,20:28 UTC
 
+Latest20:38 update: phase1 completed with all four actual PNGs root-inspected and acceptable placement/grounding/budgets, but receipt honestly FAIL solely because mobile existingpeople.json failure lacked errorText. Phase2 has five authorized boots (originalfour plus one necessary published1904mobile diagnostic), reason-preserving request classification and actual W01/C02 popup DOM checks. All browsers CLOSED. Final publisher/schema-corrected full preflight NOW RUNNING, session34702, log /workspace/shared/parked-2979-PUBLISH-SCHEMA-CORRECTED-PREFLIGHT-2026-10-21.log. No source changes planned. wagon_visual now owns fresh CI qualification; env_validation owns only world captures and will make no POST. Source still55stagedfiles/no commit/PR. Actual phase1capsule3e456644 and finalruntime07d743bb now preserved in checkpoint-2017. The following older20:28 paragraph is chronological context, superseded where it differs.
+
 The Oct19 handover below is historical. Current local DEV base is fdb227dbf. PR1099 already merged; canonical human exports now pass mechanics but actual images show garment/eye/shoe defects. No new figure is enabled.
 
 Active pushed claims: T-2979 parked delivery; T-2794 carriage_visual source-matched Studebaker Brougham; T-1789 human_recovery source-reviewed1835 workwear repair. T-2791/T-2792 carry parked-first priority and primary-source manufacturer/type findings. User's ordinary green DEV merge, parallel work and push authority persists.
