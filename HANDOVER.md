@@ -1,3 +1,15 @@
+# Current resume update —2026-10-21
+
+The Oct19handover below is historical. CurrentDEV at resume: fdb227dbf. PR1099 was already merged by another session; real canonical exports now pass technical checks, but actual images show major garment/eye/shoe defects. No new figure is enabled.
+
+Active tickets: T-2979 claimed for parked main-scene W01/C02 delivery; T-2794 refreshed for carriage_visual, new source-matched1893StudebakerBrougham; T-1789 refreshed for human_recovery, source-reviewed garment/eye fix. T-2791/T-2792 carry the revised parked-first plan and acquired historicalmaker/modelregister. AllordinarygreenDEVmerge/parallelwork/push authority persists. No need anotherownerpermissionround.
+
+Application /workspace/chicago is UNCOMMITTED/STAGED on steward/parked-period-vehicles-20261021, basefdb227dbf. Three selected original1835farm-box stands are now WesternHotel main+second, WolfPointtavern second (nearlyplanaractualground);1904curbsideC02atE1397.6N-3228.2. Light/far/failure retainsold1835props. Actual sourcefixture passed84checks on originalflatground; finalreal-ground integration added streetGrid.carriagewayHeight to follow depressed1904road, currentlyunderfinalisolatedcheck. Earlier fullpreflights INTERRUPTED forcriticalgroundfixes/environmentrestart, NONEpassed yet. No sourcecommit/PR/DEVlanding yet. Latestcode/archives under evidence/parked-vehicles-2026-10-21; rootmustfinishfullpreflight,actualsource+publishedmainrenders,commit/push,completebrowsergrid andgreenDEVmerge.
+
+Latestnamedmodelwork/peoplefixes remain outsideapp. See chronologicalroot/agentmessagesandcurrentticketheaders; preserveallfailed/partialruns. Networknowunrestricted/enforced/spec2 andrealhumanartifactdownloadworks; oldnetworkblockbelowissuperseded.
+
+---
+
 # Chicago4D handover — 2026-10-19
 
 ## Start here

@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Current parallel delivery —2026-10-21
+
+Claimed for carriage_visual. Select the actual1893 Studebaker Brothers Brougham catalog plate as the next distinct source-matched1904 parked model. The existing C02 is still a generic reconstruction, not retrospectively a Studebaker. New geometry is being authored outside the tracked app: compact roof, deepU/curved lower door, bowed rear quarter, empty raised driver's bench, thin black running gear/wheels, lamps and pair-team pole. Source dimensions/opposite-side details remain disclosed reconstructions. Primary plate/provenance are in evidence/parked-vehicles-2026-10-21/HISTORICAL-VEHICLE-REGISTER.md. Actual matched reference renders and the original ticket's photographic/period acceptance remain required. Parked C02 material/shaft-rest placement is the separately bounded T-2979 increment.
+
+
 ## Depends on
 
 T-2792. Read each dependency before claiming; do not silently skip its proof.

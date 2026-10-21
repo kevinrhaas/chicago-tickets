@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Current parallel delivery —2026-10-21
+
+Claimed for human_recovery. The old normal-recovery failure is superseded: PR1099 actually merged64ad57ee on20Oct and canonical39414040843/39442643176 passed technical gates. Actual exported Glessner and Bardwell images now downloaded/viewed show exposed shoulder/thigh seams, poor shoes and eyes; technical green is not photographic acceptance. Do not place these poor figures in the town. A focused1835 workwear repair source patch bbf3553f repairs welded seams/per-cornerUV, clipped vest, actual source-foot enclosure without hidden anatomy, subtle weave and original sclera/iris/pupil. Independent source review passed; capsule f80fab1c is saved locally and due in next evidence backup. Real canonical/export/sole/source+published visual validation still pending. Original raw0.001 normal/probe/identity/rig/socket/animation guards remain.
+
+
 Create the reusable Blender-side human kit from which named and ambient 1835 residents
 can be assembled. The checked/reproducible Blender assets are canonical; browser GLBs are
 exports, and Unreal is a later consumer. Implementation target: `kevinrhaas/chicago` **dev**.
