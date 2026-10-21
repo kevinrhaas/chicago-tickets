@@ -11,12 +11,12 @@ parent: T-2896
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: GPU performance thread 10/20/2026, 10:00:26 PM CT
+claimed_by: GPU performance thread 10/21/2026, 12:40:41 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://claude.ai/code/session_01UfdVX51mgge3GRcdKL7AcW
-claimed_at: 2026-10-21T03:00:26.729Z
+claimed_at: 2026-10-21T05:40:42.476Z
 decision: null
 decision_answer: null
 group: T-2967,T-2968
