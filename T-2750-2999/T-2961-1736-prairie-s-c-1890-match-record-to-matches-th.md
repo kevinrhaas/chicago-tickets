@@ -1,7 +1,7 @@
 ---
 id: T-2961
 title: 1736 Prairie's c. 1890 match record to matches: the low street-line wall and its pier at the stair's foot built, the veranda roof's slope read over the fascia, and the lower front with a canted bay left of the house argued (1736's own south part gone by 1911, or a neighbour) and built or ruled; the 2015 curbstone photograph (a16-ghm-blog-1736-mcbirney-curbstone-2015) read for what it fixes of the street wall
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2935
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 9:52:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39535060728
+claimed_at: 2026-10-21T02:52:48.001Z
 decision: null
 decision_answer: null
 ---
