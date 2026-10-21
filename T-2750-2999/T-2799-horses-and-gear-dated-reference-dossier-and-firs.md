@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: horse-research agent 10/18/2026, 12:53:48 PM CT
+claimed_by: horse_reference 10/21/2026, 4:00:49 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-18T17:53:48.479Z
+claimed_at: 2026-10-21T21:00:50.869Z
 decision: null
 decision_answer: null
 ---
