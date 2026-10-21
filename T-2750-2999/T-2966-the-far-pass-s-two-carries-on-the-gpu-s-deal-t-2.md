@@ -1,7 +1,7 @@
 ---
 id: T-2966
 title: The far pass's two carries on the GPU's deal (T-2896's first slice): flora-near-carry and flora-mid-carry dealt in GLSL against a kept carry tile, 137,562 instances bit-identical at 72 phone poses, far pass median 28-40 to 13-18 ms walking; the streets' growth test asked per 16 m bin
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2896
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1162
 claimed_by: run 10/20/2026, 7:26:53 PM CT
 blocked_on: null
 needs_bake: false
