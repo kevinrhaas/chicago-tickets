@@ -1,7 +1,7 @@
 ---
 id: T-2952
 title: 1812 Prairie's porch and stair from the Levy photograph: the broad round arch (about 3.2 m across, its crown about 5.2 m) over the door and its side light, and the straight stair to the walk between solid stone balustrades with a pierced panel at the landing
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2891
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1164
 claimed_by: run 10/20/2026, 7:25:38 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-21T01:36:41Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39520773307
 claimed_at: 2026-10-21T00:25:39.363Z
 decision: null
