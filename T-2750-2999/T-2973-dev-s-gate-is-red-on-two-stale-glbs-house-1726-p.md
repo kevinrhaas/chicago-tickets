@@ -1,7 +1,7 @@
 ---
 id: T-2973
 title: dev's gate is red on two stale GLBs: house_1726_prairie__as_mapped_1904.glb and house_1730_prairie__as_mapped_1904.glb no longer match their inputs (T-2934 #1154 moved them onto K01, then T-2931 changed the K01 recipe and re-emitted every K01 asset but these two, which were not yet on its base); re-bake both on the merged recipe (tools/bake.sh --only house_1726_prairie, house_1730_prairie) so validate.py's stale check passes
-state: claimed
+state: withdrawn
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: null
 claimed_by: run 10/20/2026, 8:42:22 PM CT
-blocked_on: null
+blocked_on: moot: #1164 (T-2952/T-2953, 5eb3ffd43) re-emitted every K01 asset on the merged recipe, 1726 and 1730 included; validate.py --all on dev reads 0 errors
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-21T01:45:51.238Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39528387434
 claimed_at: 2026-10-21T01:42:23.831Z
 decision: null
