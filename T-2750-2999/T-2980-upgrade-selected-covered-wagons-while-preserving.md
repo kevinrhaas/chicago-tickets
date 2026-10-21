@@ -1,7 +1,7 @@
 ---
 id: T-2980
 title: Upgrade selected covered wagons while preserving their distinct finishes
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: covered-wagon agent 2026-10-21 10/21/2026, 4:21:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-21T21:21:17.707Z
 decision: null
 decision_answer: null
 ---
