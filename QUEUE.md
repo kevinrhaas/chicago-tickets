@@ -218,9 +218,8 @@ T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-# BLOCKED-TECH T-2485 (opened 2026-10-13, SOUTH_TIME) — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garde…
-#     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
 T-2978 — Glessner's sheet-4 section datum: T-2228 reads every court-face height over y 5858, but sheet 4 draws its ground at about y 5980 at the north wall and y 5994 beside the underpass mouth, 1.3-1.4 ft lower; read from the drawn ground the court lintel stands 8.5 ft over the court (record 7.1) and the passage clears 9.65 ft (sheet) against the model's 8.15. Re-read the datum against sheet 4's own ground line and sheet 6's printed levels, then rule or rebuild the court face's heights (found by T-2976)
 T-2162 — Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
+T-2485 — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood
