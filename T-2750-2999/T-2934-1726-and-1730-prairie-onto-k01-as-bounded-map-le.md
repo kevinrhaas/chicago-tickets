@@ -1,7 +1,7 @@
 ---
 id: T-2934
 title: 1726 and 1730 Prairie onto K01 as bounded map-led brick houses (no picture of either is known): the 1911 sheet's plans with their 2B and 3B/2B storeys, masonry corners, recessed sash under lintels, stone foundations and high stoops, each roof, gutters, stacks and rear declared, the two fronts distinct, and the draft's block liberty for them retired
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1874
 opened: 2026-10-20
-closed: null
+closed: 2026-10-20
 pr: 1154
 claimed_by: run 10/20/2026, 12:43:12 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-20T23:58:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39467743568
 claimed_at: 2026-10-20T17:43:12.072Z
 decision: null
