@@ -1,7 +1,7 @@
 ---
 id: T-2977
 title: Fly key moves into the compass instrument, smaller; the Inspect key fades in and out; nothing on the right edge overlaps in phone landscape
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-21
 closed: null
-pr: null
+pr: 1173
 claimed_by: run 10/21/2026, 9:51:44 AM CT
 blocked_on: null
 needs_bake: false
