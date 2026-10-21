@@ -236,3 +236,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2484 — same site, one PR at a time (owner, 2026-10-10): the Kinzie establishment is sited around the house T-2484 builds
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
+T-2973 — dev's gate is red on two stale GLBs: house_1726_prairie__as_mapped_1904.glb and house_1730_prairie__as_mapped_1904.glb no longer match their inputs (T-2934 #1154 moved them onto K01, then T-2931 changed the K01 recipe and re-emitted every K01 asset but these two, which were not yet on its base); re-bake both on the merged recipe (tools/bake.sh --only house_1726_prairie, house_1730_prairie) so validate.py's stale check passes
