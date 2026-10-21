@@ -78,3 +78,5 @@ Normal-only cc469f corrects measured cushion normal symmetry while retaining eve
 ## Progress — 2026-10-19 15:42 UTC
 
 Actual corrected shader-refresh control proves shadow contribution to corner starburst. Actual geometry/ground-fitted2048 shadowfrustum removes the mark in tested original/fitted/door70 views, retaining enabled shadows/light/bias/geometry/rendercost and exactrestore. Root viewed matchedPNGs. New optional dc110d integration preserved; actual installedpage/gates and photographicquality remain open.
+
+**Actual Brougham comparison, 2026-10-21:** V6 rendered6 frames without runtime errors, but earlier manually estimated wheel controls were inaccurate. Technical render PASS is not source match. Corrected independently reviewed nearwheel controls front810,820/r106 and rear1277,795/r137 carry stated uncertainty; old numeric guesses withdrawn. Preserve actual packet8544c1a1 and correction60eac984 in checkpoint-2118. Boundedv7 wheelbase/radius correction plus fresh actual comparison authorized before cabin/roof judgment. No installation/photo closure.

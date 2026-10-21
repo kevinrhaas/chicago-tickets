@@ -51,3 +51,5 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 ## Evidence
 
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
+
+**Bounded reference review, 2026-10-21:** Eight candidate families reviewed; recommendation and saved source/license/anatomy evidence in checkpoint-2118/horse-reference-review-pack.tar.gz (6211caeb). BlueMesh draft-horse actual public preview is strongest, CC BY4 declared,200080faces/4Ktextures/0anims; normal asset download HTTP401 so no mesh acquired. HenryS lighter animated candidate also401. No access controls bypassed. Current procedural anatomy remains photographically inadequate; no placement. CC0 living anatomy and public-domain structural plates acquired for original refinement. Modern anatomy references do not attest historical breed/gear/owner.
