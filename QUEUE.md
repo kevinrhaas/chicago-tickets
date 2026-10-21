@@ -161,6 +161,7 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # T-2792 and T-2799 begin in parallel by explicit owner instruction; respect every model's rights/date/needs_bake gates.
 T-2792 — Carriages and wagons: evidence register and first master specification
 T-2793 — Build one articulated period wagon master from the existing wagon families
+T-2980 — Upgrade selected covered wagons while preserving their distinct finishes
 # Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).
 T-2979 — Park refined wagons and a period carriage in the walking scenes
 T-2794 — Build one photographic period passenger-carriage master
