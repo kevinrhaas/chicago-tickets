@@ -1,7 +1,7 @@
 ---
 id: T-2953
 title: 1812 Prairie's south projection from the Levy photograph: flush with the south corner, its barred basement light from about 0.1 m over the walk and about 1 m high, and downpipes down both ends of the front
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: T-2891
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/20/2026, 7:25:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39520773307
+claimed_at: 2026-10-21T00:25:52.820Z
 decision: null
 decision_answer: null
+group: T-2952,T-2953
 ---
 
 1812 Prairie's south projection from the Levy photograph: flush with the south corner, its barred basement light from about 0.1 m over the walk and about 1 m high, and downpipes down both ends of the front.
