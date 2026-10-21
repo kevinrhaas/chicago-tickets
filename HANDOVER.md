@@ -1,4 +1,4 @@
-# Current handover — 2026-10-21, 22:34 UTC
+# Current handover — 2026-10-21, 22:42 UTC
 
 User authorizes parallel implementation, regular GitHub pushes and ordinary green DEV merges. Prioritize attractive parked vehicles, then ready people/horses, then occupied/moving/riding. Use existing attested, inferred or reconstructed people before generic. Covered upgrades must preserve their deliberate differences. No production promotion. Root alone writes tracked app/tickets; agents prepare disjoint outside-app parcels.
 
@@ -107,3 +107,7 @@ App checkout is NOW the human branch, fast-forwarded to reviewed parked2aeb with
 ## Latest source/CI/checkout — 22:34 UTC (supersedes earlier checkout instructions)
 
 Human V4 is now COMMITTED/PUSHED2f75ef23, DEVdraftPR1175; full1038/0preflight plus exactcommitchecksPASS. Canonicalhuman39687040336 isRUNNINGbothinputsTRUE, horse_referenceGET-onlyowner. DO NOT move/push humanrefuntilterminal. Stash ishistoricalonly, do not reapply. AppcheckoutNOWcoveredbranchsteward/covered-period-wagons-20261021 based2aeb,24reviewedproposal filesinstalledUNCOMMITTED; sevenproducts/sixplacements/eightrefusalsPASS. FirstnewlibertyformatcompileFAILED3fields, fixedonlynewsection andcorrectedderivePASS675liberties/398sources; supportedpublishsession51524running, actualmainproofnotyetstarted. Rootownsapp. wagon_visualhasexplicitfinalordinaryDEVmergeownershipforPR1174whenstrict18+3andfreshrequiredcheckspass; currently17+3. `checkpoint-human-pushed/` haspassinggate/sourcepatch/realdispatchreceipt/tailoringrefsandcurrentstatus.
+
+## First covered main pixels and full staged recovery — 22:42 UTC
+
+`checkpoint-covered-first-town/` saves exact26-file integratedstagedpatcha7bdcd57 plusnormalpublishedWestern old/newPNGpair. Root boundedvisualPASS: cover smoother/bowed/seamed, originalblue/oxidefamily retained, productionshadowgalleryribbingabsentatthisview. Fenceoccludeslowergear/yoke inBOTH, so fullclearanceisnotprovenbythesePNGs. Supportedpublish/mirrorPASS; remainingmaincontrols/22PNGcallerRUNNINGenv_validation53396, HEAD/index/source/mirrorMUSTSTAYFIXEDuntilclosed. ActualpatchALREADYinstalled, DONOTreapply. Fullcoveredpreflight/currentCIstillpending. Humanmanualcanonical39687040336running, masters/containers passed, source/web/soleinspectionactive; DO NOT movehumanref. Parkedstill17+3pendinglastdesktop13.
