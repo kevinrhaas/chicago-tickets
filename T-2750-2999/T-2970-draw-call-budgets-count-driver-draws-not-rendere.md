@@ -1,7 +1,7 @@
 ---
 id: T-2970
 title: Draw-call budgets count driver draws, not renderer.info.calls: three counts a BatchedMesh multi-draw as one call though every kept instance is a driver draw (T-2927 read 27,895 GL draws where renderer.info said 339 at the 1904 flight), so the 90-call cap, measure_walk_frames, the detail ceilings and the smoke's draw checks move to a counted GL-call figure, re-baselined after T-2927's coalescing
-state: claimed
+state: review
 epic: RENDERING
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1163
 claimed_by: run 10/20/2026, 6:34:08 PM CT
 blocked_on: null
 needs_bake: false
