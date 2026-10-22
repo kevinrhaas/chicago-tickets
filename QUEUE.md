@@ -19,6 +19,7 @@
 #   1904 (band 7, nearest Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
+T-2992 — 1904 light tier over its triangle ceiling from the air over the district: tools/qa_draft_t2982.mjs's air stand (1360,-3620 at 110 m, looking to 1300,-3480) reads 1,323,370 triangles at 390x780 light against the 1,270,000 ceiling, 2951 draw calls; T-2982's eight drafts carry 16,980 of them, so dev breaches without them. Measure with measure_detail_ceilings.mjs at a 1904 aerial stand and cull or re-budget light (found lapping #1180)
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 
