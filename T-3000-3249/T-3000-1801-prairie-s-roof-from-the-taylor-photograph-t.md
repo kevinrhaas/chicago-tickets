@@ -1,7 +1,7 @@
 ---
 id: T-3000
 title: 1801 Prairie's roof from the Taylor photograph: the tall hooded dormers in the mansard's steep faces (the build's sit sunk and show only their gables), the iron cresting and finials round the deck, and the pavilion's and the flank's tall stacks
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2540
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 11:47:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39815968472
+claimed_at: 2026-10-22T16:47:18.980Z
 decision: null
 decision_answer: null
 ---
