@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: parallel people motion 10/18/2026, 10:06:49 PM CT
+claimed_by: null
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T03:06:49.232Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -48,3 +48,5 @@ instead of embedding bespoke actions in every character file.
 ## Parallel checkpoint — 2026-10-19
 
 Named-person source motion/CI authoring parcel is being archived; actual BPy/export, loaded contact and scene acceptance remain pending T1789. No anonymous replacement. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
+
+**Released 2026-10-21** (claim of parallel people motion 10/18/2026, 10:06:49 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

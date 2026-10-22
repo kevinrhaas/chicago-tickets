@@ -1,7 +1,7 @@
 ---
 id: T-2801
 title: Build period draft harnesses and vehicle hitch assemblies
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing parallel period transport team 10/19/2026, 1:49:16 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T18:49:16.875Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -155,3 +155,5 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `
 Six-part upper attachment actual0752b0b1 failed affected pair86 after85 completed: pad178/support_l145 genuine transverse crossing. Independent audit proves this equals inherited parent pad34/support145; inherited overlap remains fatal. Later pairs/wholehorse/078negative/full532facefit UNRUN. Complete source/input/failure/audits f0b6172 saved in final backup224031. Next eight-part/252pair support-route reconstruction is a proposal only. Qualified lowergirth43bc static+visual retained; no complete harness/motion/photo acceptance.
 
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
+
+**Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:16 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

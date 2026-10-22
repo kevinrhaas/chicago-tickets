@@ -1,7 +1,7 @@
 ---
 id: T-2800
 title: Build the first anatomically grounded photographic horse master
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing parallel period transport team 10/19/2026, 1:49:13 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T18:49:13.857Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -176,3 +176,5 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence no
 Actual7de8 failed front crease as preserved previously. Corrected front-lip section source a9023a26 is now frozen and saved in final backup224031;17 pure controlsPASS, full independent successor review and actual trial remain. Prior419a static and bitted/unbitted comparison remains the passing engineering reference, not photographic acceptance. Detailed mouth handoff and diagnosis are copied with the source.
 
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
+
+**Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:13 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

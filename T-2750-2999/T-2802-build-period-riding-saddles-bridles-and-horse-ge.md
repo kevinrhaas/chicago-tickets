@@ -1,7 +1,7 @@
 ---
 id: T-2802
 title: Build period riding saddles, bridles and horse gear
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing parallel period transport team 10/19/2026, 1:49:19 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T18:49:19.852Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -97,3 +97,5 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`. This evidence no
 Centralfoldcf148 actual passed all29self and329pairs then failed iron/tread pair330. Independent exact proofs establish88 genuine inherited iron/footplate crossings. Remainingpairs/horse unrun. Failure271cb78 and reviewed next capped-foot/partitioned-tread proposal37e1cd1 saved in final backup224031. Next20affected/370pair/20horse source repair is not implemented; preserve upperiron/leathers and88negative witnesses. No riding/load/photo acceptance.
 
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
+
+**Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:19 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

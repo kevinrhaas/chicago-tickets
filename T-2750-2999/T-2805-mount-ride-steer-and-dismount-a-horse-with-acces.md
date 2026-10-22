@@ -1,7 +1,7 @@
 ---
 id: T-2805
 title: Mount, ride, steer and dismount a horse with accessible controls
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: parallel horse riding interaction 10/18/2026, 10:22:11 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T03:22:11.074Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -61,3 +61,5 @@ Outside-app rider-role extension reuses same boarding core;19 combined behavior 
 Stable finite connection is prepared OUTSIDE app: mounted-finite-gear-source-proof.tar.gz SHA256 f01a2c62a95eb97f171bf105458eb1b93232db3ff54179d6ff3dcd42151cac81. ActualGLB CPU exact stop_walk_phase_013 shows cancel/dispose retains seat/attachment while stopping, reaches trueidle0 at absolute7.278709677m, then detaches once without resolving exit. Failure/retry/deferred and existing regressions pass. Gear parent inverse binding is measured over30clips x6poses under translated/yawed actor, transform proof only. Ten exact supported stop entries; arbitrary-phase/turning recovery, live route hookup, rider/tack/contact/coupled-browser and production riding remain open.
 
 Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.
+
+**Released 2026-10-21** (claim of parallel horse riding interaction 10/18/2026, 10:22:11 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

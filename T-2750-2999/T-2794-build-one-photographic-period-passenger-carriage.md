@@ -1,7 +1,7 @@
 ---
 id: T-2794
 title: Build one photographic period passenger-carriage master
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T02:56:47.965Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2980,T-2792,T-2794,T-2799
 ---
 
 ## Current parallel delivery —2026-10-21
@@ -87,3 +86,5 @@ Actual corrected shader-refresh control proves shadow contribution to corner sta
 **V9 actual checkpoint22:02UTC:** Capsule7159b842 and material ruling f200aae7 backed up in checkpoint-final-candidates. Model03c333af/30,782tri/24batches repeat/Khronos0/0, same-camera actual comparison improves body/glass proportions and repairs measured door overlap/trim normals. Roof/perch/dash/finish/shadows remain open. Preview8mm normalBias is not an app fix. Source upper rear quarter cannot resolve material; opaque dark remains bounded reconstruction, not attested glass. No app integration/photo closure.
 
 **V10 source-only roof proposal — 2026-10-21 23:21 UTC:** Normal expiredclaim renewed6c939868. Frozen2c00175c preserves candidate645e3a9c/deterministicrepeat/Khronos0/0,337nonroof P/N arrays and allnodes/materials/camera exact. Conservative roofcrown/trim refinement only; metricchanges reconstructed, correctPDplateb458565e. UNRENDERED, no new source match/app/photo acceptance. Saved in checkpoint-v10-and-coalescing-held; oldV9/history unchanged.
+
+**Released 2026-10-21** (claim of root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

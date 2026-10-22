@@ -1,7 +1,7 @@
 ---
 id: T-2792
 title: Carriages and wagons: evidence register and first master specification
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T02:56:47.964Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2980,T-2792,T-2794,T-2799
 ---
 
 ## Scope and acceptance
@@ -57,3 +56,5 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Owner steering and source update —2026-10-21
 
 Primary-source manufacturer/type register now acquired and backed in evidence/parked-vehicles-2026-10-21/HISTORICAL-VEHICLE-REGISTER.md. Specifics: Fort1812 baggagewagons (maker unknown); Dearborn passengerwagon in Kinzie1831 pp297/302 with pairteam; Briggs&Humphrey actualRandolphStreet carriage/sleighshop1835; Studebaker1893 Chicago branch and Brougham/FarmNo4/FancyParcelNo382 plates. Market availability is not localownership or rankedpopularity. Exact source images/rights and modelling limits retained. CurrentW01/C02 not retrospectively branded.
+
+**Released 2026-10-21** (claim of root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

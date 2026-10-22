@@ -1,7 +1,7 @@
 ---
 id: T-2797
 title: Board, ride and leave a carriage or wagon with accessible controls
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: parallel vehicle boarding 10/18/2026, 10:06:57 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T03:06:57.543Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -62,3 +62,5 @@ Outside-app unoccupied boarding camera study passes desktop/mobile/touch/reduced
 The unoccupied camera study remains outside the app. C02 now has a separately archived real aperture/rigid-door proposal with15-angle whole-surface clearance and actual desktop/mobile views; continuous sweep and a person passing through remain unqualified. Shared strict rollback proposal retains attachment/reservation when stopping fails, refuses premature disposal and releases only after successful recovery. Exact stable source+CPU proof archive mounted-finite-gear-source-proof.tar.gz SHA256 f01a2c62a95eb97f171bf105458eb1b93232db3ff54179d6ff3dcd42151cac81. No occupied boarding or production interaction is enabled.
 
 Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.
+
+**Released 2026-10-21** (claim of parallel vehicle boarding 10/18/2026, 10:06:57 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

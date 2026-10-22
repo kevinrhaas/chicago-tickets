@@ -1,7 +1,7 @@
 ---
 id: T-1792
 title: Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: parallel human population budgets 10/18/2026, 10:06:51 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T03:06:51.995Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -56,3 +56,5 @@ T-2672 policy and the portable asset/export/runtime prerequisites still apply. P
 ## Parallel checkpoint — 2026-10-19
 
 Actual fixture desktop/mobile 12 cases pass functional skin/morph, scheduling and logical resource cleanup, including disposal during pending parse. One mobile framing gap remains. Outside-app source archive follows; no named-resident/photo or town admission acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
+
+**Released 2026-10-21** (claim of parallel human population budgets 10/18/2026, 10:06:51 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

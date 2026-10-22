@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: parallel horse gait 10/18/2026, 10:07:00 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T03:07:00.027Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -61,3 +61,5 @@ Additive grounded engineering trot integrated into app WIP, exact regeneration a
 Grounded trot and loop-continuous preview are committed at PR1041 finalcandidate e1b31c070. World-foot IK stop/start/change work is now an OUTSIDE portable20-clip proposal plus exact10-phase stop references. Stable finite-player source archive09de08f and corrected browser evidence53932072 are saved centrally:30 finite cases x101 actual poses passed desktop AND mobile numerical and recovery/lifecycle checks; original first-RAF negative-delta failure is retained, with corrected short actual-RAF/captures passing. Unchanged sole guards remain strict. Starts/gaitchanges route through neutral, not direct constant-speed blends. Arbitrary-phase/turning/occupied/tack/hitch-trot acceptance and app integration remain open.
 
 Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.
+
+**Released 2026-10-21** (claim of parallel horse gait 10/18/2026, 10:07:00 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

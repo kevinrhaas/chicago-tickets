@@ -1,7 +1,7 @@
 ---
 id: T-2804
 title: Fit portable-human riders and drivers to horses and vehicles
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing parallel period transport team 10/19/2026, 1:49:22 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T18:49:22.778Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -94,3 +94,5 @@ Recovery: `evidence/period-transport-2026-10-18/CHECKPOINT.md`, current backup `
 Portable1835 human/driver-study foundation landed with PR1041 into DEV; actual occupied wagon or riding deployment remains unfinished. Kinzie1812/Glessner1904 source remains draftPR1099 with a diagnosed failed normal check and reviewed uninstalled recovery, not working world people. Glessner remains standing/walking/passenger only, not a coachman/rider. Complete next-agent instructions are in root HANDOVER.md.
 
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
+
+**Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:22 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

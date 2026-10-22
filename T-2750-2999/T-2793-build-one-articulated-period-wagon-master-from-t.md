@@ -1,7 +1,7 @@
 ---
 id: T-2793
 title: Build one articulated period wagon master from the existing wagon families
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: wagon-model agent 10/18/2026, 1:45:25 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-18T18:45:25.994Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -118,3 +118,5 @@ Photographic/interaction acceptance remains open; this evidence note changes no 
 As better covered wagons become ready, replace the existing covered wagons with better covered-wagon models. Preserve the deliberate visual variety already present: upgraded vehicles must not read as clones. Inventory each selected original stand's identity, dimensions, orientation, material/wood/canvas variation and load details before replacement; carry distinct, stable variants into the new family rather than applying one identical mesh/finish everywhere. Keep type/date/source limits explicit. Unmeasured differences remain declared reconstruction, never invented manufacturer/model claims.
 
 This is the owner's next-family direction. Covered variants remain a separate follow-up to this farm-box master's acceptance. Current T-2979/PR1174 replaces only three farm-box stands and retains the old covered wagons; it is not a covered-family completion. Future replacements should retain Light/far/load-failure fallback and earn actual photographic comparison and desktop/mobile scene acceptance.
+
+**Released 2026-10-21** (claim of wagon-model agent 10/18/2026, 1:45:25 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

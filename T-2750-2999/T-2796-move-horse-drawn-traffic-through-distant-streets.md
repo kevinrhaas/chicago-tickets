@@ -1,7 +1,7 @@
 ---
 id: T-2796
 title: Move horse-drawn traffic through distant streets with measured LOD budgets
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: continuing parallel period transport team 10/19/2026, 1:49:28 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/chicago/pull/1041
-claimed_at: 2026-10-19T18:49:28.267Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,5 @@ Outside-app deterministic distant-transport prototype prepared with route/LOD/ad
 Corrected responsive source passed actual desktop/mobile study checks: both horses and wagon visible, actual canvas/aspect/disclaimer and projected framing checked. Each enabled batch adds one draw and39,136triangles; all12off/on/restored counter rows pass. Actual GPU transform-feedback comparison against independent source checks all46,880vertices at six times, maximum world-component difference0.0000568m. Local finished-frame timings are study measurements, not phone/main-scene capacity proof. Root inspected actual mobile and route images.
 
 The earlier mobile crop failure remains preserved. Archive `79b82d0c…` is saved in actual-progress-1455. No fitted harness, yoke, traces or driver; Full/Balanced rebudget is a proposal only, Light refuses, and no main-scene admission or photographic completion is claimed.
+
+**Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:28 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion

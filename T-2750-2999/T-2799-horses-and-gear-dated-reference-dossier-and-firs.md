@@ -1,7 +1,7 @@
 ---
 id: T-2799
 title: Horses and gear: dated reference dossier and first master specification
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T02:56:47.965Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2980,T-2792,T-2794,T-2799
 ---
 
 ## Scope and acceptance
@@ -54,3 +53,5 @@ Owner request, 2026-10-18: two epics below portable humans; inspect both researc
 Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `viewer-survey.md`. They distinguish pixel inspection from metadata, record coverage and rights, and explain external archive access blockers. The Prairie visual pass was targeted, not all 944 source records were visually reviewed. Read the master specifications as they are added; they are a first-pass design, not proof of finished models.
 
 **Bounded reference review, 2026-10-21:** Eight candidate families reviewed; recommendation and saved source/license/anatomy evidence in checkpoint-2118/horse-reference-review-pack.tar.gz (6211caeb). BlueMesh draft-horse actual public preview is strongest, CC BY4 declared,200080faces/4Ktextures/0anims; normal asset download HTTP401 so no mesh acquired. HenryS lighter animated candidate also401. No access controls bypassed. Current procedural anatomy remains photographically inadequate; no placement. CC0 living anatomy and public-domain structural plates acquired for original refinement. Modern anatomy references do not attest historical breed/gear/owner.
+
+**Released 2026-10-21** (claim of root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
