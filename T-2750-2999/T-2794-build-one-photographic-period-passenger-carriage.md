@@ -126,3 +126,8 @@ Human shoulder source96c4da4b is committed/pushed after full1,042/380 preflight 
 ## Actual canonical-success checkpoint — 2026-10-22 ~07:35 UTC
 
 Canonical39736567239/source96c4 fully passed; root imported exact8 Bardwell assets into pending current DEV00f4 merge. Full final preflight2 is running after exact ignored Glessner package restoration; no final commit/DEV merge yet. Covered mobile6partialFAIL+2continuationPASS and V13portable/source8 actual proof are preserved separately; horse photo quality remains rejected. This progress is not whole photographic acceptance. Current ownership, failures and continuation: `evidence/parked-vehicles-2026-10-22/checkpoint-canonical39736567239-success-final-integration/STATE.md`.
+
+
+## Final person integration pushed and horse base advanced — 2026-10-22 08:15 UTC
+
+Final person14323534e is pushed after full1042/380 preflight and postcommit mirrorPASS;18 required smoke cells and moving are running. First final desktop visual failed autoLODwait; actual tiny production browser diagnostic passed. One observation-only samehead desktop repeat10021 is running; no DEV merge yet. Licensed textured horse41acd9be is accepted as a development base after actual4views, not photo completion. Current ownership/failures/nextsteps: `evidence/parked-vehicles-2026-10-22/checkpoint-14323534-pushed-final-CI-and-horse-base/STATE.md`.
