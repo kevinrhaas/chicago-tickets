@@ -1,3 +1,9 @@
+# Current blocker — 2026-10-22 01:44 UTC
+
+**PR1174 source e694 is pushed but CI GATE FAILED:** exact authored-parts JSON hash in covered-parent regeneration,1/1041. Observer stopped; no reruns. Native3.11 vs3.12 floating-sum difference reproduced outsideapp; explicitmath.fsum restores original rawparts/hardware hashes, fullproduct proof pending. Root will preserve ALL guards and model bytes. Details/fullfailedlog/proof and dependencyreview: `evidence/parked-vehicles-2026-10-22/checkpoint-source-repro-failure-human-saved/`.
+
+**Local app is NOW CLEAN parked branch e694.** Complete staged humanV6/provenance candidate was saved (human-only patchb41877c5 vs e694,16files/484144bytes) then merge explicitly ABORTED to prioritize vehiclefix. Earlier activehumanmerge paragraphs below are historical. Rootowns lap1175, renewedT1789 andT2980 claims. Newhumanfullgate/commit/export still notdone; canonical supportheldsha:null. Do not lose/reapplycandidate twice. Currentfailurecapsule556f4d54 preserves9strictselected+2normalproof, later11selected successconclusions/7running, nofullqualification; remainingjobsuntouched. NoDEVmerge.
+
 # Active human candidate — 2026-10-22 01:35 UTC
 
 Local app is NOW on human branch2f75 with uncommitted merge of checked vehiclee694 and applied V5+V6b95 source patch. Three append-only doc conflicts are resolved in working bytes but not indexed; derived liberties still unmerged pending proper regeneration and forthcoming provenance followup. NO newhumanfullgate/commit/push/export yet. Do not treat local tree as clean parked source. Root owns lap1175 and renewedT1789 claim. Recovery details and exact merge suffixes: `evidence/parked-vehicles-2026-10-22/checkpoint-human-v6-integration-started/STATE.md`.
