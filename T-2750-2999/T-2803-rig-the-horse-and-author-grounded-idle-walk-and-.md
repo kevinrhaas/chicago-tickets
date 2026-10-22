@@ -63,3 +63,8 @@ Grounded trot and loop-continuous preview are committed at PR1041 finalcandidate
 Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.
 
 **Released 2026-10-21** (claim of parallel horse gait 10/18/2026, 10:07:00 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+
+## Owner priority and parallel checkpoint — 2026-10-22, 17:13 UTC
+
+Owner explicitly expects natural standing shifts rather than frozen figures. Native horse clips fail as walk/rest idle; safe head/tail-only idle and independent-limb rerig/gait work are being prepared, with contact/animation/browser acceptance pending. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-b092-pushed-and-natural-idle-teams/`.

@@ -54,3 +54,8 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Development checkpoint, 2026-10-18
 
 See `evidence/period-transport-2026-10-18/fit-followup.md` and `CHECKPOINT.md` for the pushed code revision, measured progress and remaining gates. These are bounded original development studies; no photographic-quality, complete physical-fit or production acceptance is claimed. T-2795 work is dependency exploration while its master/gear/gait acceptance remains unfinished.
+
+
+## Owner priority and parallel checkpoint — 2026-10-22, 17:13 UTC
+
+Parallel source adapter now covers actual W01 steering/rolling and existing reconstructed teamster Bardwell seating identity. Native horse gait, fitted harness/coupling, driver contacts and live world proof remain incomplete. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-b092-pushed-and-natural-idle-teams/`.

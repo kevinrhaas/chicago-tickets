@@ -70,3 +70,8 @@ Corrected responsive source passed actual desktop/mobile study checks: both hors
 The earlier mobile crop failure remains preserved. Archive `79b82d0c…` is saved in actual-progress-1455. No fitted harness, yoke, traces or driver; Full/Balanced rebudget is a proposal only, Light refuses, and no main-scene admission or photographic completion is claimed.
 
 **Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:28 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+
+## Owner priority and parallel checkpoint — 2026-10-22, 17:13 UTC
+
+Owner prioritizes first repeating team circuit before population expansion/player riding. Actual finite route/controller work is underway with fixed steering, road/ROW/terrain/static-obstacle bounds; no live moving-team or phone acceptance yet. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-b092-pushed-and-natural-idle-teams/`.
