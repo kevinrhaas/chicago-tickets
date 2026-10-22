@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: root renewing own independent people and transport work; no grouped PR 10/22/2026, 10:40:26 AM CT
+claimed_by: root renewing own people work; independent claim 10/22/2026, 12:20:11 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T15:40:26.686Z
+claimed_at: 2026-10-22T17:20:12.133Z
 decision: null
 decision_answer: null
 ---
