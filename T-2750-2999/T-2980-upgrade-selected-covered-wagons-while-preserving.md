@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: root renewing own independent people and transport work; no grouped PR 10/22/2026, 10:40:35 AM CT
+claimed_by: root renewing own covered wagon work; independent claim 10/22/2026, 12:20:22 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T15:40:36.019Z
+claimed_at: 2026-10-22T17:20:23.417Z
 decision: null
 decision_answer: null
 ---
