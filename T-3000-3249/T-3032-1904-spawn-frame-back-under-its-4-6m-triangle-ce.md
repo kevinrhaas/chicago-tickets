@@ -1,7 +1,7 @@
 ---
 id: T-3032
 title: 1904 spawn frame back under its 4.6M triangle ceiling after the vase elms
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1205
 claimed_by: run 10/22/2026, 12:38:49 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T20:17:56Z
 claimed_run: null
 claimed_at: 2026-10-22T17:38:50.985Z
 decision: null
