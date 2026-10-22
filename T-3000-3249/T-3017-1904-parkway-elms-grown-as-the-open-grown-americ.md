@@ -1,7 +1,7 @@
 ---
 id: T-3017
 title: 1904 parkway elms grown as the open-grown American elm: a forked trunk, arching limbs and hanging sprays in place of the fan-shaped leaf cards, then tuned for desktop and phone GPU
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 10:00:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-22T15:00:37.555Z
 decision: null
 decision_answer: null
 ---
