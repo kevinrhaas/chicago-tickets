@@ -1,3 +1,21 @@
+# Current work — 2026-10-22, 18:36 UTC
+
+Use HANDOVER.md for exact hashes, receipts and recovery paths. All seven claims are independent and owned by root; agents write only in their assigned worktree or outside-app source packets.
+
+| Ticket | Current delivery and next check |
+| --- | --- |
+| T1789 | Person commit c63d9f219 is pushed with full preflight and publication checks passing. Integrate the latest DEV delta and finish required browser/CI coverage before merging PR1175. |
+| T2794 | V15 comparison views are complete. V16 optics regressed under fixed light and remain rejected. V17 rear-quarter model is packaged and validated; actual comparison views and app intake remain next. |
+| T2800 | Standing horse and idle code are staged in the horse agent's existing worktree. Actual idle CPU proof and consumer peer review pass; final enabled source freeze, full gate and published yard inspection remain. |
+| T2803 | The filtered standing idle is valid and measured. A separate 26-joint experimental horse exists, with static proofs but no walking animation or motion acceptance. |
+| T2795 | The adapter and rolling/steering proofs are saved. Actual seated clothing intersects the bench; the fit agent is correcting the pose while preserving shoe contact. Harness and doubletree remain absent. |
+| T2796 | Route/controller source is saved and inert. Preserve the worn-core clearance failure; actual fitted team, gait and world/mobile swept clearance are still required. |
+| T2980 | Eleven app files are staged in the covered-wagon worktree. Reproduction and focused checks pass. Run its full gate next, then qualify the visible increment and push. |
+
+The next full gates are covered wagons, then the horse idle. Root coordinates the four-core environment and updates canonical tickets. DEV's separately owned T3032 draw-budget failure remains open. No broad photographic ticket is complete. Historical workplans below are retained for context.
+
+---
+
 # Active work and durable checkpoints — 2026-10-22, 17:52 UTC
 
 Root owns app integration and canonical ticket writes. The pushed person checkpoint is `4dee6d5f6` (PR1175 still draft/unmerged), with full1047 preflight and postcommit publish/mirror PASS. The latest pushed ticket/handover checkpoint is `f6f78c775`. An ordinary merge of current DEV64e83fcd is in progress; authored disclosure is resolved and repository-supported generated resolver30457 is running. Final current-tree gate/commit/push remain next. Preserve historical CI source labels; no duplicate dispatches.
