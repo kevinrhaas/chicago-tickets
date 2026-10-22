@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 22:38 UTC
+
+PR1212 pusheda086cd7, clean tree4eda, final1049/381 and committed-HEAD checks/publication PASS. Actual modern-license/historical-grade card fix committed. Historical fde6 mobile idle PASS and original desktop timing FAIL preserved. Current card/idle browser qualification packet being prepared; no new result yet. Two agents implementing future1812/1904 loader/schema and actual drawn-ground providers outside current app/PR; no unmeasured stand activated. See HANDOVER and latest evidence checkpoint.
+
+
 ## Checkpoint — 2026-10-22, 21:49 UTC
 
 Draft PR #1212 is pushed at fde6bc317 with actual1047/381 preflight and publication PASS. Original mobile51298 PASS verifies head/tail idle, exact fixed hoof patches, confidence/reduced-motion pause, picking and disposal. Desktop private timing failures remain failed with exact host-clock accounting; not a desktop idle acceptance claim. Modern model credit is removed from historical attested attributes in the saved own-card fix, with attribution/license retained and reconstructed placement explicit. Normal8249 merge is frozen4eda1bf9 with supported rederive PASS; final fullgate runner is ready/HELD for root's next slot. Photographic anatomy, breed/ownership attestation, walk/trot, harness/hitching, riders and boarding remain open.

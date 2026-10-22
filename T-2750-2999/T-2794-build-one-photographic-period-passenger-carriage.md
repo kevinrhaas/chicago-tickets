@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 22:38 UTC
+
+PR1213 pushed3289b16, clean tree01d923, final1049checks/381self-tests and committed-HEAD checks/publication PASS. Historic8249 mobile diagnostic DEADLINE FAIL270s: two completed views PASS, quarter visibly shows V17, road/contact/canopy/budget PASS; third frame recorded but geometry/image incomplete. No photographic completion/currentDEV acceptance. One unchanged desktop diagnostic separately released; no retry. See HANDOVER and latest evidence checkpoint.
+
+
 ## Checkpoint — 2026-10-22, 21:49 UTC
 
 Draft PR #1213 is pushed at df9fb149 with actual1047/381 preflight and postcommit publication PASS. This is a bounded first parked1893 Studebaker-design Brougham in1904, not photographic completion. Actual source near views show an improved opaque rear-quarter recess; world/canopy/contact/render-budget views remain pending. A real false-presence card lead is fixed in the saved staged delta, preserving all six legacy cards exactly. Normal merge to8249 and supported compile-liberties tail62536 are ACTIVE; no final gate/browser/merge yet. Later readonly audit corrects the tentative glazing diagnosis:7/10 source-camera rays pass through glass to plain fixture background,3/10 meet the legitimate opposite rear-quarter wall; no opaque door infill blocks forward apertures. The proposed transmission material is SUPERSEDED/NOT AUTHORIZED because it adds an expensive whole-scene opaque pass. First inspect unchanged1213 in ordinary1904 street views; pane-shadow changes remain future hypotheses, not accepted candidates. Preserve geometry, contacts, lamps and ambiguous opaque rear quarter. Capsule f11cf669 contains the exact causal limits and superseding note.

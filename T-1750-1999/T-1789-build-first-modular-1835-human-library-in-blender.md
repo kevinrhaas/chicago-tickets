@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 22:38 UTC
+
+PR1175 pushed248ecfb, final1048/381 and committed-HEAD checks/publication PASS. All FOUR repaired snapshot cells are now strict published PASS: desktop/mobile1-2 each194/0; desktop/mobile9-12 each69/0, exact248 source. Originalfe98 full18 retains six actual failures and is not overallPASS. Existing single scoped CI integration39861691808 active at22:18 mainstep, no actualpush asof22:34; root lease deliberately released, nativeautomergeOFF. After actual correctbbe4integration need final14/15both+focusedWhats-newboth+normalCI, then ordinaryDEVmerge. See HANDOVER and latest evidence checkpoint.
+
+
 ## Checkpoint — 2026-10-22, 21:49 UTC
 
 PR #1175 is open/ready at pushed fe9832a149. Root owns its lap lease. Actual supported integration to DEV8249 plus three source-proven published-test repairs is frozen at staged fc2a6cbc; full preflight session5211 is ACTIVE, not PASS. The immutable fe98 full18 batch currently has10 valid PASS/5 actualFAIL/3 active; old failures stay failures. Final affected1–2,9–12,14,15 both viewports and focused release-note checks are prepared, not executed. Human assets/data/runtime remain unchanged. Broad photographic people, other eras, drivers/riders remain open; see HANDOVER for exact processes/recovery.
