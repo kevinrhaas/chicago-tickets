@@ -203,3 +203,8 @@ Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-
 ## Root progress checkpoint — 2026-10-22 ~06:04 UTC
 
 PR1174 actually merged DEV and four bounded tickets are done. PR1175 ad813 is pushed with1041/380 local preflight and three normal source/human/report checks green; promotion remains held for the actual missing waistcoat shoulder panels. Mobile normal town V3 passed all4images/card/four loaders/farLOD3 and closed; desktop V3 remains overall partial/deadline FAIL despite completed4images/card/timing. Moving attempt1 failure is preserved; one unchanged diagnostic attempt2 is in progress, no18smokes. V12 carriage actual generation passed, matched-view outcome pending; horse head actual build complete, structural/appearance unqualified. Connected garment source review and parallel model refinements continue. This is progress, not photographic or whole-ticket completion. See `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-actual-mobile-and-desktop-partial/STATE.md`.
+
+
+## Parallel source checkpoint — 2026-10-22 ~06:17 UTC
+
+Moving ad813 attempt2 SUCCESS after one unchanged diagnostic repeat; original failure retained, first_pass:false. Main app stays pushed/draftad813. Reviewed connected-waistcoat repair is frozen/uncommitted in isolated worktree while fullpreflight38322 runs; no freshcanonical or final18smokes yet. Latest carriageV12 portable and8sourceviews pass but coarsejoins/photoopen; latest horse d356 structural+4view passes but photographic appearance rejected; covered main phases held. Full sourcepatch/finite controls/actualmodel comparisons and handover are durable in `evidence/parked-vehicles-2026-10-22/checkpoint-waistcoat-source-gating-and-models/`. No whole photographic ticket closure.

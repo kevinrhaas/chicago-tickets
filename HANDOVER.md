@@ -1,3 +1,15 @@
+# Current work and ownership — 2026-10-22 ~06:17 UTC
+
+PR1174 is merged DEV and T2792/T2799/T2979/T2981 DONE. Main app PR1175 remains pushed ad813/draft. Actual moving attempt2 now SUCCESS after one diagnostic repeat, both flora+32phonechecks; first_pass:false and original failure remains immutable. Actual mobile town PASS; original desktop overall partial/deadline FAIL remains. No18smokes yet.
+
+Priority connected-waistcoat source repair is UNCOMMITTED in isolated `/workspace/chicago-waistcoat`, branch `steward/bardwell-connected-waistcoat-20261022` fromad813. Full preflight38322 ACTIVE, exact Python311/escalated/readers environment, source frozen. Agentci_human_recovery owns that worktree, will commit/push on fullgreen and single-dispatch canonicalbothinputs at exactpushedSHA, then freeze until actualqualification. Main app remains untouched; do not overwrite either checkout or start competing fullgate. Root captured recoverable trackedpatch/untrackednewresearch+test and exactreviewedsourcecapsule159f2606. Canonical finalassets/import/CI/photo remain pending.
+
+BroughamV12 generation+portable near/mid/far and actual8sourceviews pass; rootviews show closerdoorshape but coarsehardware/bodyjoins. Actualmid/far20198/11874tri supersedeestimates; originaldetail-variable shadow documented, no retry/amendment. Real1904PMREM distinctstand preview being prepared using productionnativeactor and unchangedmain scene; existingC02 retained. Horse d356 fullstructuralscreen+4views pass, but rootrejectsphotographicquality; wholebody/joint/mane/tailsource next. Betterbaseaudit retained: BlueMesh standingCC-BYdownloadrequiresauthentication; noacquiredphotoreplacement, noauthbypass. Covered16maincomparisonframes remainHELD in threeboundedphases pendinghumanpreflightclosure.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-waistcoat-source-gating-and-models/STATE.md`. Includes movingactual90ac6c3c, horselatest27a0698f, Broughamactuale2477ca7, source159f2606 and betterbaseauditc48227fc. Do not close broad photographic/animation/riding parents on these progress receipts. Root still holds T1789/T2794/T2800/T2980, owns1175lap; queueband ordering unchanged. No productionpromotion.
+
+---
+
 # Current continuation — 2026-10-22 ~06:04 UTC
 
 PR1174 merged to DEV; T2792/T2799/T2979/T2981 are DONE. PR1175 is draft at committed/pushed ad813a6278b7d76961b78ef3483f1bbf3e106c02, clean, with full1041/380 local preflight and all3 normal remote source/human/report checks SUCCESS. No eighteen-smoke dispatch yet. Moving39727250726 attempt1 failed actual Light flora max38.6ms; one explicitly authorized unchanged diagnostic repeat is attempt2 IN_PROGRESS. Preserve the first failure and no further automatic repeat.
