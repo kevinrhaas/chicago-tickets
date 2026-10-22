@@ -11,14 +11,15 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: run 10/21/2026, 6:16:07 PM CT
+claimed_by: root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-21T23:16:08.435Z
+claimed_at: 2026-10-22T02:56:47.965Z
 decision: null
 decision_answer: null
+group: T-2980,T-2792,T-2794,T-2799
 ---
 
 ## Current parallel delivery —2026-10-21
