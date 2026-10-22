@@ -1,7 +1,7 @@
 ---
 id: T-2987
 title: 1811 Prairie's north bay rock-faced to its first floor's sill course and smooth ashlar over it, and the 1888 plate's two front downpipes (at the bay's south return and the entrance block's south corner) from rainwater heads of their own
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2919
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 12:55:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39729396513
+claimed_at: 2026-10-22T05:55:35.424Z
 decision: null
 decision_answer: null
 ---
