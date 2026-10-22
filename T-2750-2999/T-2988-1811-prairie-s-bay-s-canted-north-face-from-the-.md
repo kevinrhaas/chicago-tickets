@@ -1,7 +1,7 @@
 ---
 id: T-2988
 title: 1811 Prairie's bay's canted north face from the 1911 sheet and the 1888 plate: the face from the main wall at (u 7.51, v 0.16) to the bay front's north corner (u 8.60, v 2.29), a narrow window a storey (x 60-112 px on the plate), where K08's projection is square-cornered and K01 refuses an asymmetric bay plan; the balcony, string courses and wall gable carried round it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2919
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1185
 claimed_by: run 10/22/2026, 2:02:15 AM CT
 blocked_on: null
 needs_bake: false
