@@ -1,7 +1,7 @@
 ---
 id: T-3018
 title: Calumet Avenue's west frontage, 20th to 22nd Street (beside the drafted Hanford and Wheeler-Kohn houses), drafted from sheet 35 as the background census ranks them (21st-22nd: 6 of 6 lots seen, 2140 from 20 stands; 20th-21st: 4 of 6)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3010
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 10:09:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39801022827
+claimed_at: 2026-10-22T15:09:34.955Z
 decision: null
 decision_answer: null
 ---
