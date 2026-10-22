@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root renewing own independent parallel work; no multi-ticket PR group 10/22/2026, 8:04:40 AM CT
+claimed_by: root renewing own independent people and transport work; no grouped PR 10/22/2026, 10:40:32 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T13:04:41.231Z
+claimed_at: 2026-10-22T15:40:33.213Z
 decision: null
 decision_answer: null
 ---
