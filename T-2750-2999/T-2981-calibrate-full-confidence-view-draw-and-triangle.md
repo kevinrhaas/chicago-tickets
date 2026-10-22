@@ -37,3 +37,5 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 
 
 **2026-10-22 checkpoint:** T2981 integrated as8stagedfiles on cleanbase0a037;8actualconfidencepolicy testsPASS. Normal7800pin unchanged; newactualFullonlytrianglechecks/policyidentity+restoration/publicAPI agreement included. Mandatory fullpreflight39885RUNNING. Exactstagedpatch andcompletepairedraw e0bd capsule in checkpoint-combined-vehicle-preflight. No commit/CI/DEVmerge claimed.
+
+**Source committed/pushed — 2026-10-22 01:26 UTC:** e694849a2c516a9862a2564c5ff86d97406e09ab in PR1174,9files. Full retry1041steps/380deliberate selftests PASS after actual measured test-isolation registration fixed sole first-gate failure; original failure retained. Exact own/DEV changelog+IDs and postpublish/mirror PASS. Actual dispatcher84050 EXIT0,18accepted/18discovered at exacthead, no reruns. Remote qualification and DEV merge pending. Source/evidence/current handover backed checkpoint-e694849a2-pushed; no geometry/counter/sort or lower-tier budget changes.
