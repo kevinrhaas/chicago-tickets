@@ -1,7 +1,7 @@
 ---
 id: T-2799
 title: Horses and gear: dated reference dossier and first master specification
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: horse reference and master handoff agent 10/21/2026, 9:57:57 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-22T02:57:58.286Z
 decision: null
 decision_answer: null
 ---
