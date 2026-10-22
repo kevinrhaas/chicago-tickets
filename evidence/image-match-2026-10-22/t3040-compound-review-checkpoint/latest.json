@@ -1,0 +1,31 @@
+{
+  "code_commit": "d3685569c5284946ab400deb0d2ccd0aa17a06be",
+  "code_branch": "steward/t3040-fort-reference-groups",
+  "pr": "https://github.com/kevinrhaas/chicago/pull/1218",
+  "state": "review; GitHub CI pending; not merged at this checkpoint",
+  "full_preflight": {
+    "exit": 0,
+    "checks_passed": 1047,
+    "self_tests": 381
+  },
+  "published_smoke": {
+    "mobile_stage_10": "31 passed, 0 failed",
+    "desktop_stage_3": "107 passed, 0 failed; 10m30s, exceeds documented 10m foreground budget",
+    "scope": "selected slices, not entire suite"
+  },
+  "original_model_matches_complete": false,
+  "proposals": "T-2375, T-2377, T-2388 are unapplied; git apply --check passed, but no bake, functional validation or completed image match",
+  "research": "https://github.com/kevinrhaas/chicago/blob/d3685569c5284946ab400deb0d2ccd0aa17a06be/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md",
+  "sha256": {
+    "unapplied-next-parcels/T-2375.md": "ab6b01809428bee1dba4fc700262abe9cf8118057922ebc7ce073921b467bb4c",
+    "unapplied-next-parcels/T-2375.patch": "f73cbc841e57e76289a7746c9e8be5290eca66444ec277d75bcf7349142bb2f0",
+    "unapplied-next-parcels/T-2377.md": "7ff4f22925acb8fe9ad86709c8eb99a6f3d5781b83114bb89f978b32d59a3528",
+    "unapplied-next-parcels/T-2377.patch": "91add0e49542b2ec226fbac0ff8bea108ca2558b3a9e8625e6f2685d5b1fe4ca",
+    "unapplied-next-parcels/T-2388.md": "89e1586c369165973d891a5e8c26c5f074984b2d20e65b7893d53ce3cf8d8e1c",
+    "unapplied-next-parcels/T-2388.patch": "44cb76e18cf94aada74f42fa67cd47912a56f632ed86376a76d810a8c90c27c9",
+    "validation/preflight-check.log.gz": "b22aa3fea04e85921388a566ae669c17436bc01a56e78143c7db561fccff0acb",
+    "validation/t3040-preflight-final.log.gz": "6aac071147d0c47b29a725d7fccd9eb85a01a008c24e7dd4bdcedc28257fc628",
+    "validation/t3040-smoke-desktop.log.gz": "9a2f492f3a6d77c2651a15405ff18bd984ec81505c06be1080c81d0b42af9d0b",
+    "validation/t3040-smoke-mobile.log.gz": "6f1811a991e031e71a79c175cd98b1d46120882db922aeefecf1080cd0600cd4"
+  }
+}

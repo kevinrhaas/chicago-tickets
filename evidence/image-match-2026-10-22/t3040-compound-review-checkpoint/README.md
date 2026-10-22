@@ -1,5 +1,25 @@
 # T-3040 recoverable checkpoint
 
+## Latest checkpoint: code pushed, PR open
+
+Code commit `d3685569c5284946ab400deb0d2ccd0aa17a06be` is pushed on
+`steward/t3040-fort-reference-groups`; [PR #1218](https://github.com/kevinrhaas/chicago/pull/1218)
+targets `dev`. Local preflight passed all 1,047 checks. Published smoke slices
+passed 31 mobile and 107 desktop checks; the full renderer suite was not run.
+GitHub CI and merge were pending at this checkpoint. Read `latest.json` for the
+exact state and retained validation logs. Prefer the pushed code to the older WIP
+archive below; never apply that archive over newer work.
+
+`unapplied-next-parcels/` preserves three agents' next proposals for T-2375,
+T-2377 and T-2388, each with evidence and remaining validation. All passed
+`git apply --check` against the checkpoint source. They have not been applied,
+baked, visually validated or claimed as picture matches. Review provenance and
+current code before use; keep those original tickets open until their full gates
+pass. All 17 ticket findings and both actual fort comparisons are in the code
+research document linked by `latest.json`.
+
+## Earlier WIP recovery archive
+
 WIP, not a green or completed model-match claim. Six agents reviewed T-2372 through T-2388; findings are in the archived docs/RESEARCH/fort-reference-groups-T-3040/README.md and on the tickets.
 
 The code prerequisite renders complete fort groups and fingerprints every member mesh and placement. Both actual baselines say differs. T-3041 and T-2388 retain the matching work.
