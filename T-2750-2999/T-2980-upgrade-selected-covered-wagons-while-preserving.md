@@ -55,3 +55,10 @@ Two covered near-native models now preserve each original ID, seed-based finish 
 **Consolidated source pushed — 2026-10-22 01:26 UTC:** Covered0a037 is now included in vehicle PR1174 at e694849a2c516a9862a2564c5ff86d97406e09ab with T2981 Full Ghost calibration. PR1176 was retargetedDEV then closed UNMERGED as superseded; no topic merge. Combined1041/380preflight and exact checks/postpublish/mirror PASS;18fresh exact-head smoke jobs dispatched once, still unqualified. Current checkpoint-e694849a2-pushed preserves actual receipts. Full photographic/compressed-LOD/occupied acceptance stays open; this partial increment does not close T2980.
 
 **Released 2026-10-21** (claim of covered-wagon agent 2026-10-21 10/21/2026, 4:21:16 PM CT): Both distinct covered source models are pushed in PR1174; full photographic finish, compressed LOD and occupied acceptance remain open for the next refinement. Partial source is not ticket completion.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:01 UTC
+
+PR1174 actually merged DEV969cd3d3e and public releasea989 serves both reviewed distinct covered derivatives byteexact. This does not close photographic scope. New two-line sourceproposal reconstructs20–28mm inter-bow drape; generation/actualmatchedvisualreview still held. Root claim renewed normally04:45:55; parallel authoring remains active.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.

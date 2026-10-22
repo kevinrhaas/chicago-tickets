@@ -184,3 +184,10 @@ Photographic/interaction acceptance remains open; this evidence note changes no 
 Four fresh actual desktop/mobile side/three-quarter renders of exact installed89b048/715316bytes/14172triangles were captured and independently viewed by root and horseagent. Zero page/network errors; caller/environment-only patch, bounded ownedprocess cleanup and exactpins are preserved in checkpoint-source-catalog-PASS-and-actual-horse. This is a geometric fixture, visibly inadequate for photographic release: long upright ears, wedge head/tiny eyes, angular neck/barrel, box/tube upper legs, overbent stick-like stance, sparse mane and separating slab tail. Ground contact success is not anatomical/photographic acceptance.
 
 The earlier croup-only source draft is retained but is not the chosen production direction. Active next work is an explicitly amended original anatomical quad cage with shared shoulder/hip branch loops, curved muscle volumes, revised neutral limb landmarks, continuous head/neck, shorter tapered ears, facial planes and rooted mane/tail. Existing poor geometry is not protected merely because it was pinned; deliberate changes will be recorded. No new candidate geometry/browser/photo acceptance yet. T2799 researchspec is checked/pushedreview1174; this photographic master staysclaimed/open for completion.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:01 UTC
+
+First new anatomical static mesh4fa3dce8 exported568192B/23552tri; independent readback found586 proper trianglecrossings at limb-to-body joins and nostril apertures. Closedmanifold, finite normals and four soleplanes alone do not qualify it. Failedmesh/witnesses preserved; source correction uses measured aperture/profile causes and an explicit40mm authored-datum correction. No placement, animation/oldrig/tack/socket or photographic acceptance.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.

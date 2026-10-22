@@ -179,3 +179,10 @@ Run39687040336 completedSUCCESS22:46:24 at2f75ef23, attempt1/bothinputsTRUE. Ind
 **Correction of seated footwear diagnosis — 2026-10-22 00:38 UTC:** SourceCPUproof8f1447ee identifies staleidle SkinnedMesh bounding spheres in V2preview, not a demonstrated shoe-source defect. Ten recordedcameras rejectcachedsphere; twoquartercontrolsretainshoes, matching actualbrownpixels. Canonical450vertices/weights andposedboundsreproduce; productionHumanActoralreadysetsfrustumCulled=false. ActualV3previewwithONLYthatproductioncullingpolicy passed24captures/framing/actualshoerenderguards,0errors, browser/serverCLOSED; rootviewed4selectedimageswithshoes. Earlier broadseatedsourceFAIL is superseded; originalpictures/receiptsremain. Fullposedfit/midfoot drift/40inheritedidleprojections/photo remainopen. V5/V6sourceunapplied. Proof/prepared+actualreceipts saved in checkpoint-terrain-attribution-and-shoe-correction; fullactualimagecapsule follows. PR1175bodyremotecorrectionalreadyPATCHED.
 
 **2026-10-22 checkpoint:** ActualV6sourcepreview CLOSED/PASS24captures/framing+shoeguards/0errors; completecapsule8713e2ef in checkpoint-combined-vehicle-preflight. Root3andindependent8selectedimages show levelcleanerhems andshoes; sharedcameras/boneframesexact. BothvariantsV5/V6sourcearrays, notcanonical/unapplied. Finishedcuffs/thickness/ankleenclosure/fullfit/photoOPEN.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:01 UTC
+
+One actual initial standing Bardwell candidate is integrated with eight exact canonical master/webGLBs and existing reconstructed resident identity/card. Firstgate1040/1041 registry omission fixed from unchanged actual canonical measurements. Secondgate18808 failed30steps with execution-sandbox spawnSync EPERM and stalled children (operator interruption preserved); unchanged fallback step passes0.16s with required permissions. Fresh fullpreflight, commit/push, published desktop/mobile and fresh15part coverage remain required. T1789 photo/library acceptance remains open.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.

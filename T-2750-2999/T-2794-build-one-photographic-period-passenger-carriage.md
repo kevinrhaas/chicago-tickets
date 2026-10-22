@@ -92,3 +92,10 @@ Actual corrected shader-refresh control proves shadow contribution to corner sta
 ## Active parallel completion — 2026-10-22 03:04 UTC
 
 Assigned to carriage model completion agent. Repair actual standalone preview cleanup without dropping its zero-resource guard, then inspect the actual V10 roof against the cleared1893Studebaker plate and prepare a usable integration parcel. See `WORKPLAN-PEOPLE-TRANSPORT.md` for current owners and dependency order.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:01 UTC
+
+Actual four-view depth diagnostic PASS: default24bit depth with .05near caused body/door quantization mottling;100near removes it with identical sourcegeometry/materials/light/pose/XYprojection and fully retained model. No geometric repair is justified by that artifact. Nine catalogue-backed latch/fitting components peer-cleared for one bounded generation; unsupported flat-top trim bead deferred. Door contour and photographic/main-world acceptance remain open; no Brougham installation yet.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.
