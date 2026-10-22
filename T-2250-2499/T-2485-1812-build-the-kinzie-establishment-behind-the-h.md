@@ -62,3 +62,19 @@ Before `done`, the builder adds an `## Image gate` section here naming every out
 ## Found at T-2504 (2026-10-15)
 
 A building with the numeral '32' (the horse mill, index no. 32, `not_located`) is drawn between the easternmost no. 31 house and Kinzie's kitchen garden, at about sheet px [1177, 427, 1215, 455], its '32' under it near (1190, 460). The register's `north_bank` rule (anchored on kinzie_house_1812) can seat it.
+
+## Image gate
+
+- `kinzie_stable_1812` — Eastman 1820 (`eastman_1820`): matches. Sarony, Cram and Teich draw a whitewashed gabled building end-on at the same place about 1831; no one heading draws both it and Eastman's log stable, so those three fix only the stable's place and carry no camera for it. Eastman, drawn on the spot in 1820, governs the form.
+- `kinzie_lodging_house_1812` — Eastman 1820 (`eastman_1820`): differs, 1 open item. Eastman draws the far roof end as a hipped end; `log_dwelling` builds no hip on a log building (it refuses one as an invention), so a gable stands, its apex 9 px right of the drawn ridge end. Needs a decision: is this one 1820 plate enough for a hipped log house, or a different archetype?
+- `kinzie_bake_house_1812` — Sarony (`sarony_1912`), Cram (`cram_1893`), Teich (`teich_postcard`): all three match. Its narrow, low oven flue needed two new optional `log_dwelling` attributes, `ridge_stack_w_m` and `ridge_stack_head_m`. Every other log asset rebuilds byte-identical.
+- No camera: Gemmell's 1820 plate (`chicago_settlement_view_1820.jpg`) is too blurred to make out any outbuilding. No picture sees the dairy (it is behind the house and its cottonwoods), the horse mill (gone before the 1830s pictures, and Eastman's view does not reach it) or the garden fence. All three are reconstructed liberties (L420).
+
+## Sources at T-2485
+
+- **Read:** Wau-Bun ch. XVII and VI (local epub), Currey 1912, Kirkland 1893, the five pictures through the house's solved cameras, and Whistler's index no. 32 through Quaife 1913 note 413.
+- **Not reachable:** Quaife 1928, "Property of Jean Baptiste Point Sable" (MVHR 15:1), which prints du Sable's 1800 bill of sale. JSTOR sits behind a script wall, and HathiTrust and archive.org are both blocked from the run's container. So the bill was **not read**: no record cites it, and none of its dimensions are used. Its building list is T-2484's report of it.
+- **Not re-read:** the Whistler sheet image, because the Gutenberg image host is blocked. The horse mill is seated on T-2504's box for no. 32 (above), and its record says so.
+- **Rulings** (records and `docs/RESEARCH/1812_other_structures.md`):
+  - Stand: the horse mill, the bakehouse, the dairy, and one barn (as the stable).
+  - Not built for 1812: the second barn, the poultry house and the smokehouse (`data/exclusions.json`).
