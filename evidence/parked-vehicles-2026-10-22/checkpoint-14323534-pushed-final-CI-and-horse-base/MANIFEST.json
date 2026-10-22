@@ -7,6 +7,11 @@
       "sha256": "e6d0f061223beb7a73e72ccb05c9dcdbd05feb278ce0dabf489ef8467fc6f576"
     },
     {
+      "path": "CURRENT-TIMED-EXECUTION.md",
+      "bytes": 2315,
+      "sha256": "239f17fbb0fb4a07606c7af4bc1286949795f350252fccfa36dca1e09e2f04e0"
+    },
+    {
       "path": "STATE.md",
       "bytes": 5743,
       "sha256": "10268858e10c71ef08d403495a745748ba447d8746395b8313ef12fc1a28c07e"
@@ -15,6 +20,16 @@
       "path": "bardwell-final-town-loader-diagnosis-20261022.zip",
       "bytes": 98605,
       "sha256": "648695f6bd9a40e7bba88e0357db95b1e32b9c18158ffc17e20aefbfa44ecaf0"
+    },
+    {
+      "path": "bardwell-final-town-waiter-boundary-repair-20261022.zip",
+      "bytes": 59981,
+      "sha256": "526d55e89af520aa82b598d6e7916ee65aa4f0fd51f8cc1cd8e6d82ea0cac9b2"
+    },
+    {
+      "path": "bardwell-fuller-linen-sleeves-cuffs-SOURCE-REPAIR-V2-20261022.tar.gz",
+      "bytes": 943726,
+      "sha256": "a022f3a9bf53fc09cb257a5324e7f11654778621d3c8b1399dcb21d3509d7e45"
     },
     {
       "path": "covered-comparison-independent-caveat.tar",
