@@ -1,7 +1,7 @@
 ---
 id: T-3031
 title: Glessner's stable cupola's height above the ridge: the Cornell view reads its eave and apex about 27-32 px (about 2 ft) higher against the gable apex and the cupola's own foot, while HABS 01 reads them within about 5 px (0.4 ft) and HABS 01's cupola about 25 px narrower; the two solved cameras disagree by more than either's local error at the stable end, so re-solve both cameras on stable-end control (gable apex, coping feet, ridge, cupola corners), rule the body height and the cupola's S place (parallax moves it about 10 px a foot), build and rebake
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3023
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1210
 claimed_by: run 10/22/2026, 1:50:12 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T20:44:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39832935571
 claimed_at: 2026-10-22T18:50:13.064Z
 decision: null
