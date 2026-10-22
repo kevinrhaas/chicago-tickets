@@ -1,7 +1,7 @@
 ---
 id: T-2987
 title: 1811 Prairie's north bay rock-faced to its first floor's sill course and smooth ashlar over it, and the 1888 plate's two front downpipes (at the bay's south return and the entrance block's south corner) from rainwater heads of their own
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2919
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1182
 claimed_by: run 10/22/2026, 12:55:34 AM CT
 blocked_on: null
 needs_bake: false
