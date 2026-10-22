@@ -1,7 +1,7 @@
 ---
 id: T-3010
 title: Calumet Avenue's west frontage, 20th to 22nd Street (beside the drafted Hanford and Wheeler-Kohn houses), and Indiana Avenue's east frontage, 16th to 18th Street, with East 16th Street's lot, drafted from sheets 35 and 20 as the background census ranks them
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2983
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 10:07:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39801022827
+claimed_at: 2026-10-22T15:07:56.935Z
 decision: null
 decision_answer: null
 ---
