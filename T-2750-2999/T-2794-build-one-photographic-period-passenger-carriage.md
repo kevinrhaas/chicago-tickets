@@ -106,3 +106,8 @@ Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recov
 Ninefittings V11actualgenerationrepeat+protected457parts+KhronosPASS. Eightnormalmatchedsourcecamera imagesPASS/CLOSED; rootviewed detail+global. Fittingsreadcoherently, depthmottleabsent; door/windowwaist andflatfinishes remainbelowphotographicbar. Doorcontoursourceproposal andparallelmaterialauditactive. No appintegration/fullticketclosure.
 
 Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-FIRST-TOWN-FAIL/`.
+
+
+## Root progress checkpoint — 2026-10-22 ~06:04 UTC
+
+PR1174 actually merged DEV and four bounded tickets are done. PR1175 ad813 is pushed with1041/380 local preflight and three normal source/human/report checks green; promotion remains held for the actual missing waistcoat shoulder panels. Mobile normal town V3 passed all4images/card/four loaders/farLOD3 and closed; desktop V3 remains overall partial/deadline FAIL despite completed4images/card/timing. Moving attempt1 failure is preserved; one unchanged diagnostic attempt2 is in progress, no18smokes. V12 carriage actual generation passed, matched-view outcome pending; horse head actual build complete, structural/appearance unqualified. Connected garment source review and parallel model refinements continue. This is progress, not photographic or whole-ticket completion. See `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-actual-mobile-and-desktop-partial/STATE.md`.

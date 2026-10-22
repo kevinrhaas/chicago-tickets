@@ -1,3 +1,15 @@
+# Current continuation — 2026-10-22 ~06:04 UTC
+
+PR1174 merged to DEV; T2792/T2799/T2979/T2981 are DONE. PR1175 is draft at committed/pushed ad813a6278b7d76961b78ef3483f1bbf3e106c02, clean, with full1041/380 local preflight and all3 normal remote source/human/report checks SUCCESS. No eighteen-smoke dispatch yet. Moving39727250726 attempt1 failed actual Light flora max38.6ms; one explicitly authorized unchanged diagnostic repeat is attempt2 IN_PROGRESS. Preserve the first failure and no further automatic repeat.
+
+Actual mobile V3 PASSED/CLOSED in202s, all3 fixed normal views, own resident card,4 canonical loader rows and farLOD3, source/index/published exact, zero page errors. Desktop V3 completed all4 images/card/timing with successful performed guards, but overall540s TIMEOUT during extra loaders before far; preserve PARTIAL/FAIL. Its separate functional continuation is prepared, not run. Root actually reviewed front/quarter/card/mobile: visible missing waistcoat shoulder panels are the current promotion blocker. Connected-mesh source correction is under independent review; no trim disguise, no application yet. Keep root app atad813 while exact-head inspection runs; later repair can use isolated worktree.
+
+Brougham V12 raw8016867d now actually generated repeatably,460protected/6changed components and bounds/nodes/materials/anchors pass, Khronos0/0. Matched V11→V12 fixed-source8 comparison is released but not yet terminal here. Horse head revision d35679f9 built once; actual full structural screen pending and photographic acceptance open. Covered drape two candidates retain both finishes; bounded main comparisons prepared, not run. T2794 renewed/pushed05:59, active T1789/T2980/T2800 claims continue. No broad photographic/animation/riding ticket is closed by these increments.
+
+Latest durable evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-actual-mobile-and-desktop-partial/STATE.md`. Mobile actual archive3af1d1d9, desktop actual partial9019a127; first moving failure75e08066, one diagnostic POST receipts, exact source comparisonb4eaaf6a and narrowly scoped collector V2adf164b8 all preserved. Historical running snapshots are superseded by appended root terminal notes, not rewritten.
+
+---
+
 # Latest pushed candidate and actual acceptance gaps — 2026-10-22 ~05:34 UTC
 
 Current root state, 2026-10-22 ~05:34 UTC. PR1174 is actually merged DEV969cd3d3e and public releasea989 serves exact reviewed vehicle bytes. T2792/T2799/T2979/T2981 are DONE; the active photographic parents remain open.

@@ -193,3 +193,8 @@ Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recov
 Initial standing increment is COMMITTED/PUSHED in PR1175 atad813a627; fullpreflight1041/380 and publishedmirror2041exact/3117transforms PASS. Firstactualdesktop run closedFAIL onlyfrontcamera10percentmargin; profilepassesactualground<.271mm/2534calls/1968552tri and rootviewedPNG. V3fixedpitch sourceproof passesall4LODs, notbrowserrunyet. FreshhumanCI/reportPASS, sourcegatepending, moving39727250726FAIL beingretrieved; no18smokes/greenmerge yet. Allphoto/library/occupied acceptance remainsopen.
 
 Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-FIRST-TOWN-FAIL/`.
+
+
+## Root progress checkpoint — 2026-10-22 ~06:04 UTC
+
+PR1174 actually merged DEV and four bounded tickets are done. PR1175 ad813 is pushed with1041/380 local preflight and three normal source/human/report checks green; promotion remains held for the actual missing waistcoat shoulder panels. Mobile normal town V3 passed all4images/card/four loaders/farLOD3 and closed; desktop V3 remains overall partial/deadline FAIL despite completed4images/card/timing. Moving attempt1 failure is preserved; one unchanged diagnostic attempt2 is in progress, no18smokes. V12 carriage actual generation passed, matched-view outcome pending; horse head actual build complete, structural/appearance unqualified. Connected garment source review and parallel model refinements continue. This is progress, not photographic or whole-ticket completion. See `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-actual-mobile-and-desktop-partial/STATE.md`.
