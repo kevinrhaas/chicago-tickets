@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: root continuing own PR1175 after source-preview review 10/21/2026, 8:30:44 PM CT
+claimed_by: root continuing own PR1175 standing-person integration and photographic work 10/21/2026, 11:23:20 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T01:30:44.996Z
+claimed_at: 2026-10-22T04:23:21.602Z
 decision: null
 decision_answer: null
 ---
