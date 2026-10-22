@@ -1,3 +1,21 @@
+# Active work and durable checkpoints — 2026-10-22, 17:52 UTC
+
+Root owns app integration and canonical ticket writes. The pushed person checkpoint is `4dee6d5f6` (PR1175 still draft/unmerged), with full1047 preflight and postcommit publish/mirror PASS. The latest pushed ticket/handover checkpoint is `f6f78c775`. An ordinary merge of current DEV64e83fcd is in progress; authored disclosure is resolved and repository-supported generated resolver30457 is running. Final current-tree gate/commit/push remain next. Preserve historical CI source labels; no duplicate dispatches.
+
+| Ticket | Active parcel / next concrete delivery |
+| --- | --- |
+| T-1789 | Root integrates the actual existing Bardwell person. Independent source/actual-skin review clears an eight-second head/pelvis/planted-feet idle proposal for a later canonical build; agent animated_horse_source is completing one bounded video-only source preview using existing ffmpeg. This is not an exported candidate or photographic acceptance. |
+| T-2794 | Agent ci_human_recovery independently reviews the frozen V15 curved/slender step-support producer before one actual generation. V14 native development views pass; actual1904-world and photographic closure remain open. |
+| T-2800 | Root preserves pushed static horse0b and staged secondary integration. Actual desktop/mobile yard proof passes; integrate after person without losing secondary work. Original licensed source remains untouched. |
+| T-2803 | Agent horse_completion and independent peer ci_parked_recovery prepare a separate lossless portable import plus filtered idle. Whole original/firstappend validator FAIL remains recorded. Correct root-skinned transform source before one finite actual normalization; build actual four-limb hierarchy/segmentation source for later walking. |
+| T-2795 | Concrete W01/current-horse/Bardwell adapter is frozen with CPU rolling/steering proof; next integrate the proper four-limb horse gait, actual harness and driver contacts. Never turn on static sliding horses as walking teams. |
+| T-2796 | Frozen503m candidate/controller is backed up; next root corridor-line/reconstructed-shoulder ruling and actual full animated swept-bound/world/mobile proof once the team is fitted. Worn-core clearance FAIL stays explicit. |
+| T-2980 | Concrete six-file exact sag intake is READY at `/workspace/shared/covered-cloth-sag-EXACT-INTAKE-PREPARED-20261022/README-HANDOFF.md`: unchanged baseline hashes, four text deltas plus two already-generated stronger-drape GLBs. Next root-owned visible parcel is intake/verification on the same two distinct wagons. It is no longer a completed CI-repair task. If deferred beyond this run, release via ticket.mjs with this artifact. |
+
+All seven are fresh independent claims, group null, audit17:43. Renew T2803/2795/2796 before19:57UTC; remaining four and own1175 lap before20:20UTC if still active. Keep queue order. Prior PR1174 and its four bounded completed tickets remain done. All broad photographic, occupied and riding acceptance stays open. Historical notes below are superseded by this current block and HANDOVER.
+
+---
+
 # Current execution — 2026-10-22 04:01 UTC
 
 PR1174 headca82d06541b31a560d0c29e426668e777db3ad61 is PUSHED after full1041/380preflightPASS and exactcommit/PRchecks; postcommitpublish/mirrorPASS. Four scopes are in review on1174: T2979,T2981,T2792,T2799. Root owns ordinaryDEVmerge as soon current-head sourcegate/movingframes+targetedsourcecatalog evidence are green; do not independently lap/merge it. Old18historicale694runtimejobsallPASS with preciseunchangedscene/modelprojection and explicitnewcatalog/releasemetadata exceptions.
