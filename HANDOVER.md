@@ -1,3 +1,7 @@
+## 2026-10-22 03:42 UTC —18 historical smokes PASS; source candidate retry pending
+
+Actual sole collector closed cleanly with all18 e694 smoke jobs passing. Current source gate first ran1040/1041PASS; only stale derived T0462 resident CSV after corrected Kinzie citation. Regenerated with existing exporter; package checkPASS. Root staged treec0b314187a80cbcf8cc115ffeec8f400386b827e includes new concise research release note. Not yet committed/pushed; do not call this allgreen. Bounded BroughamLOD generation owns CPU gap, then root repeats fullgate. Exact standing Otis Bardwell import proposal prepared from qualified humanrun39712579846/head34cf; main-town review remains. Compact support/proofs/failure/candidate patch in evidence/parked-vehicles-2026-10-22/checkpoint-first-gate-repair-and-18-smokes. Broader photo/animation/occupied/riding tickets stayopen.
+
 # Chicago4D handover — 2026-10-22 02:44 UTC
 
 ## Active continuation — 2026-10-22 03:31 UTC
