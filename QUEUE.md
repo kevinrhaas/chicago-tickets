@@ -81,7 +81,6 @@ T-2486 — 1812: build Antoine Ouilmette's house and garden close behind the Kin
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
-T-3009 — Indiana Avenue's east frontage, 20th to 22nd Street, and East 21st Street's two lots drafted from sheet 35 as the background census ranks them (Indiana 20th-21st: 11 of 11 lots seen from Prairie, 2029 from 25 stands down 20th Street)
 T-3013 — The 1904 state of five Indiana-side fronts sheet 35 draws with 1911 commercial uses (found by T-3009): the printing works at 2001-2003 Indiana, the motor garages at 2101-2105 and 2129-2131, the auto repair and blacksmith shop at 215-217 E. 21st with the open lot beside it, and the five-storey branch post office at 2133 Indiana with 202-212 E. 22nd; find what stood on each lot on 1 July 1904 (a 1904 directory, a building permit, a dated photograph or an earlier Sanborn) and draft it, or record the ground open, on the 35w census rows the trace already carries
 T-3014 — First Presbyterian Church at 2029-2035 Indiana Avenue and 21st Street (drafted by T-3009 from sheet 35 alone): source its 1904 presence and congregation, find a photograph or drawing of the church and its spire, and refine the draft's brick body, hipped roof, corner tower and 90 ft spire, its buttresses and openings, to them
 T-3018 — Calumet Avenue's west frontage, 20th to 22nd Street (beside the drafted Hanford and Wheeler-Kohn houses), drafted from sheet 35 as the background census ranks them (21st-22nd: 6 of 6 lots seen, 2140 from 20 stands; 20th-21st: 4 of 6)
@@ -222,7 +221,6 @@ T-2373 — Match the 1832 lighthouse to its pictures
 T-2374 — Match Cobweb Castle to its pictures
 T-2375 — Match the Dearborn Street drawbridge to its pictures
 T-2376 — Match the Green Tree Tavern to its pictures
-T-3029 — Set the Green Tree Tavern on its ground in 1835
 T-2377 — Match Hogan's store, the first post office to its pictures
 T-2378 — Match J. B. Beaubien's homestead to its pictures
 T-2379 — Match the Lake House under construction to its pictures

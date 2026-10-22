@@ -1,7 +1,7 @@
 ---
 id: T-3029
 title: Set the Green Tree Tavern on its ground in 1835
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1207
 claimed_by: claude (project thread) 10/22/2026, 11:29:06 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T19:32:19Z
 claimed_run: null
 claimed_at: 2026-10-22T16:29:07.949Z
 decision: null
