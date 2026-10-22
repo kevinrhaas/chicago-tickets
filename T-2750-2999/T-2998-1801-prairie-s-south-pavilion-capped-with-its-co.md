@@ -1,7 +1,7 @@
 ---
 id: T-2998
 title: 1801 Prairie's south pavilion capped with its coped stone gable from the Taylor photograph: K08 gives a projection a gable facing out, its face carried up between kneelers under raking stone copings, a pinnacle on each kneeler and a finial at the apex, its slate roof run back to the wall, laid on 1801's south pavilion in place of its low hip, and the Taylor match record's gable difference worked
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2540
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 5:16:00 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39760105850
+claimed_at: 2026-10-22T10:16:01.027Z
 decision: null
 decision_answer: null
 ---
