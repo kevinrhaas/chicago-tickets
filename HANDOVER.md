@@ -1,10 +1,10 @@
-# Chicago4D handover — 2026-10-22 02:24 UTC
+# Chicago4D handover — 2026-10-22 02:26 UTC
 
 The owner authorizes parallel agents, regular GitHub pushes, and ordinary green merges into DEV. Prioritize attractive parked vehicles, then period people and horses. Preserve the covered wagons' deliberate variations. Use existing attested, inferred or reconstructed people before anonymous figures. No production promotion.
 
 ## Current pushed work
 
-- [Vehicle PR1174](https://github.com/kevinrhaas/chicago/pull/1174): OPEN/DRAFT into DEV, exact pushed head **dd147cae0e85f9e39855d0d130da19e782f7eecb**, tree **5badfa088cfeb4ff9c86e31a1d2221a09c790db3**. Local `/workspace/chicago` is clean on `steward/parked-period-vehicles-20261021`.
+- [Vehicle PR1174](https://github.com/kevinrhaas/chicago/pull/1174): OPEN/DRAFT into DEV, exact pushed head **dd147cae0e85f9e39855d0d130da19e782f7eecb**, tree **5badfa088cfeb4ff9c86e31a1d2221a09c790db3**. Parked dd147 remains pushed. **Local checkout is now on human branch in an uncommitted merge of dd147**, with reviewed V5/V6 and provenance applied. Index tree100b4ee4; full Python3.11 preflight session63963 is running. It has not passed yet; do not commit or dispatch based on the previous vehicle gate.
 - The PR includes three refined 1835 farm wagons, two covered variants retaining their blue/oxide and oak/dark-oak finishes, and a generic empty 1904 carriage. This is an initial visible increment; full photographic and occupied acceptance remains open.
 - PR1176 was retargeted to DEV and closed **unmerged** as superseded; its covered source0a037 is included in1174. Preserve that source branch.
 - [Human PR1175](https://github.com/kevinrhaas/chicago/pull/1175): OPEN/DRAFT, pushed2f75ef23, source-only. Its direct parent is old parked2aeb, so green canonical results alone do not make it mergeable around1174. No town person is enabled. Root owns lap1175 and renewed T1789 claim.
@@ -25,7 +25,7 @@ Root must resolve the actual moving-frame failure, wait for all18 original runti
 
 ## Human refinement ready to resume in parallel
 
-The complete uncommitted human V5/V6 candidate was saved and its merge explicitly aborted to fix the vehicle gate. Recovery: `checkpoint-source-repro-failure-human-saved/saved-human-candidate/`, human-only patch **b41877c5** against e694,16files/484144bytes. It includes V4 plus the fuller trousers, closed lower waistcoat, level cuffs and two registered public-domain Mount1835 comparators. Do not apply it to a tree already containing human changes.
+The earlier uncommitted human V5/V6 candidate was saved and its merge explicitly aborted to fix the vehicle gate. **Root has now resumed it against corrected dd147**: exact geometry b95 then provenance201375 applied, both doc histories preserved byte-safely, 676liberties/400sources normally derived, index tree100b4ee4. Fresh human full preflight is running; no commit or canonical dispatch yet. Portable current human-only patch and state are in `checkpoint-human-v6-dd147-integrating/`. Recovery: `checkpoint-source-repro-failure-human-saved/saved-human-candidate/`, human-only patch **b41877c5** against e694,16files/484144bytes. It includes V4 plus the fuller trousers, closed lower waistcoat, level cuffs and two registered public-domain Mount1835 comparators. Do not apply it to a tree already containing human changes.
 
 To resume on existing human2f75, merge corrected dd147 **without committing**, preserve the exact common2aeb prefix plus both vehicle/human doc suffixes (byte-safe for legacy ROADMAP), and rederive liberties. Apply geometry patch **b95efacb** then provenance-only patch **201375c4** from their saved exact-preimage packets. Helper must be **89428acd**, final recipe **72ec4cd9**. Append the saved V6 prose, derive source-use normally, run a fresh full preflight, commit and push. The previous saved candidate contains exact directions and source packets. Do not reuse the old human stash.
 
