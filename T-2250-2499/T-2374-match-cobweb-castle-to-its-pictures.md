@@ -37,3 +37,9 @@ Pictures:
 ## Image gate
 - cobweb_castle
 
+
+## Picture-review checkpoint — 2026-10-22
+
+The 20-vertex centre/wings/tails footprint is reduced to a bounding box by `log_dwelling_params`. Compound massing is not built; a camera cannot fix it. Implement opt-in compound geometry without changing other cabins.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

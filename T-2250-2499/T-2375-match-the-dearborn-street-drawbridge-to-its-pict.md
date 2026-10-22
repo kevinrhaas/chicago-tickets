@@ -40,3 +40,9 @@ Pictures:
 ## Image gate
 - dearborn_street_drawbridge
 
+
+## Picture-review checkpoint — 2026-10-22
+
+Both pictures show board parapets; `_railing` builds an open pole rail. Add an opt-in board variant preserving existing defaults. The depicted deck hump and a 21.64 px initial frame-fit RMS remain unresolved. Andreas 1884 is rights-cleared.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

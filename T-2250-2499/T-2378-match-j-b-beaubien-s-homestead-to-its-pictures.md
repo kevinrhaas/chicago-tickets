@@ -37,3 +37,9 @@ Pictures:
 ## Image gate
 - jb_beaubien_homestead
 
+
+## Picture-review checkpoint — 2026-10-22
+
+Isolate the keyed Beaubien building from the separate Dean house in the panorama. T-0894 withdrew identity with the U.S. Factor's House; do not borrow that house's two-storey description.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

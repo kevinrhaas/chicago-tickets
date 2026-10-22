@@ -45,3 +45,9 @@ Pictures:
 ## Image gate
 - chicago_lighthouse_1832
 
+
+## Picture-review checkpoint — 2026-10-22
+
+The public-domain Andreas bridge plate shows a domed lantern, cage mullions, finial and gallery rail. `_tower` currently builds an opaque drum, pyramid cap and gallery disk. Add consumed optional details, document reconstructed dimensions, then bake and compare. Do not infer paint from monochrome.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

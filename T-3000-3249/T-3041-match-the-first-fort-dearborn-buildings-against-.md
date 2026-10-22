@@ -38,3 +38,9 @@ The run that split it (by hand) may be working one of the pieces now.
 
 ## Image gate
 - first_fort_dearborn_blockhouse_nw
+
+## Picture-review checkpoint — 2026-10-22
+
+Group support is T-3040. First preserve the documented plan and 75 ft staff while reconciling retrospective tower locations. Both blockhouses carry invented separate chimneys absent from panel 1; removing them is a bounded possible refinement after before/after baking. The panel's cupolas conflict with Whistler's 1808 'not yet built' note; a dated ruling is needed for 1812.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

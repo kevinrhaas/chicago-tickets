@@ -44,3 +44,9 @@ Pictures:
 ## Image gate
 - miller_house
 
+
+## Picture-review checkpoint — 2026-10-22
+
+Colbert/Blanchard pictures show log lower storey, vertical-board upper storey and a low side annex. `_frame_addition` clads both floors in horizontal clapboard and puts the old cabin behind. Add opt-in split cladding and side-wing composition; preserve unrelated defaults.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

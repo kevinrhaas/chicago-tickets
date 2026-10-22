@@ -37,3 +37,9 @@ Pictures:
 ## Image gate
 - hogan_store
 
+
+## Picture-review checkpoint — 2026-10-22
+
+Current generic cabin lacks the depicted off-centre door, single front sash and gable loft light. Existing consumed `front_set_out`, opening dimensions and `end_openings` can refine it without a new archetype. Proposed resolver-valid initial values: door at 4.6 m, window at 10.2 m, sash 0.55×0.95 m, door 0.85×1.95 m, +x gable light at 0.5 and z 3.35 m, ridge chimney at 0.6. These are inferred starting values, not verified measurements. Register the Cameron illustration's own source, then bake and fit (initial wallpoint RMS 13.1 px).
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

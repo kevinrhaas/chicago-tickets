@@ -37,3 +37,9 @@ Pictures:
 ## Image gate
 - st_marys_church
 
+
+## Picture-review checkpoint — 2026-10-22
+
+The later image's open belfry must not be backdated into the July 1835 phase; the original-location phase ends June 1837. Resolve the depicted phase before matching it.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

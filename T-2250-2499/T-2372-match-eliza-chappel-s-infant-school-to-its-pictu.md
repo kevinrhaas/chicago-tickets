@@ -37,3 +37,9 @@ Pictures:
 ## Image gate
 - chappel_infant_school
 
+
+## Picture-review checkpoint — 2026-10-22
+
+`eliza_chappel_school_shore_view` remains `check_required` and prohibits derived assets. The school/annex identity is unresolved and the composed drawing has inconsistent perspective. T-0909 already exhausted the uncredited blog/Young lead; do not rerun that search without a new lead.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

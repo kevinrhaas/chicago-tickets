@@ -53,3 +53,9 @@ Pictures:
 ## Image gate
 - fort_dearborn_blockhouse
 
+
+## Picture-review checkpoint — 2026-10-22
+
+The unique blockhouse at the right of panel 5 has an absent cupola. Add a consumed cupola option, grade occurrence inferred from this source and dimensions reconstructed, then bake. Do not guess which range carries the pictured gallery. Early 1820 views predate replacement barracks; 1838/1850s views cannot silently govern July 1835.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

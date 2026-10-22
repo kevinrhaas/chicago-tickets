@@ -41,3 +41,9 @@ Pictures:
 ## Image gate
 - philo_carpenter_log_shop
 
+
+## Picture-review checkpoint — 2026-10-22
+
+The annex is a separate structure, not a second hotel wing to re-enable. Refine tall multipane sash and brick stack from the rights-cleared Braunhold plate. Preserve the July 1835 function: former shop/school, current use unattested.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

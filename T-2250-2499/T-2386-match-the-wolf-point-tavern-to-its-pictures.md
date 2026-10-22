@@ -44,3 +44,9 @@ Pictures:
 ## Image gate
 - wolf_point_tavern
 
+
+## Picture-review checkpoint — 2026-10-22
+
+The inspected NYPL Blanchard/Shober lithograph bears a legible 1867 publication line. Pictures show parallel gable-front volumes with two entrances and roof-piercing stacks; current model puts core/addition inline. Register that specific source and implement opt-in ridge/entrance composition before solving.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

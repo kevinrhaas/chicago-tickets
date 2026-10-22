@@ -38,3 +38,9 @@ Pictures:
 ## Image gate
 - tremont_house_1
 
+
+## Picture-review checkpoint — 2026-10-22
+
+Gifford shows three storeys, a shuttered three-bay gable and five-bay side, raised entrances and flagstaff; model is two storeys. Source remains `check_required` after Chicagology/CARLI/CHM/Internet Archive investigation. A generic pre-1930 assertion does not settle the original sheet's provenance. Simply rotating the existing 50×30 ft rectangle would also make the wrong broad gable.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.

@@ -37,3 +37,9 @@ Pictures:
 ## Image gate
 - lake_house_construction
 
+
+## Picture-review checkpoint — 2026-10-22
+
+`chicago_fort_dearborn_river_mouth_1830.jpg` actually depicts ca. 1836–1849 per `IMAGE_SOURCES.md`. Its finished hotel cannot establish July 1835 construction progress. Preserve the unfinished phase while resolving this temporal mismatch.
+
+No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
