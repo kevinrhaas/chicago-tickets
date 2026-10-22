@@ -208,3 +208,8 @@ Moving ad813 attempt2 SUCCESS after one unchanged diagnostic repeat; original fa
 ## Actual parallel checkpoint — 2026-10-22, approximately 07:00 UTC
 
 Human shoulder source96c4da4b is committed/pushed after full1,042/380 preflight PASS. One canonical run39736567239 is active; actual masters/exports and initial mechanical checks passed, final artifact/browser/seated qualification pending. Main PR1175 stays draftad813; no final-head18smokes. V13 carriage raw/portable join repair passed; main-lighting caller fix and actual V13 preview remain pending. Horse whole silhouette has actual geometry/four-view passes but is photographically rejected; no installation or whole-ticket closure. Covered mobile eight-image phase4192 is active. See `evidence/parked-vehicles-2026-10-22/checkpoint-source96c4-canonical-running-and-V13/STATE.md` for hashes, failures, ownership and exact next steps.
+
+
+## Actual canonical-success checkpoint — 2026-10-22 ~07:35 UTC
+
+Canonical39736567239/source96c4 fully passed; root imported exact8 Bardwell assets into pending current DEV00f4 merge. Full final preflight2 is running after exact ignored Glessner package restoration; no final commit/DEV merge yet. Covered mobile6partialFAIL+2continuationPASS and V13portable/source8 actual proof are preserved separately; horse photo quality remains rejected. This progress is not whole photographic acceptance. Current ownership, failures and continuation: `evidence/parked-vehicles-2026-10-22/checkpoint-canonical39736567239-success-final-integration/STATE.md`.
