@@ -87,3 +87,10 @@ Owner explicitly expects natural standing shifts rather than frozen figures. Nat
 ## Checkpoint — 2026-10-22, 19:44 UTC
 
 Reviewed c255 idle asset and consumer/host/runtime remain byte-identical after03ef integration. Current enabled source12cc9286 and held yard pins are recoverable. New current source gate and actual idle yard desktop/mobile remain required; old static0b proof is historical. Gait/26joint rig animation remains open.
+
+
+## Saved concrete delivery — 2026-10-22 23:54 UTC
+
+ONEV8candidate improved edge ratios .778392–1.348984→.784081–1.298114 and areas .520688–1.485031→.550116–1.424873, stillFAIL unchanged .9–1.1/.8–1.2caps. Actualunprunedfield alsoFAILS; persistent upperfore/chest triangles5378/5342 mean pruningalone is notthecause. Mechanics/stance/loop/seams/neutral/tail preservation pass. Actualexit2/rawdiagnosis/sourcepatch archived6936d38d. Noexport/activation/secondcandidate or thresholdchange.
+
+Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.

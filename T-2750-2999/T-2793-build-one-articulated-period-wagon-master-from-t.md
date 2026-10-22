@@ -131,3 +131,10 @@ One original licensed OldCart13600b73 source-native inspection passed7.96s with 
 External candidate atlasV2 is saved in `evidence/parked-vehicles-2026-10-22/checkpoint-wagon-atlas-and-active-horse-gate/`, archive SHA256 `18df56c8dd9b3eafc86b199da071819aee7b64fd0ba06b5789544dd86eb4cd23`. Actual bounded build and independent geometry/material readback pass:12,104triangles/23meshes/23primitives/6materialdefinitions, exact original position/normal/index/pivots/paint/iron/covered-variant pins.16,176 serialized UV samples retain the previous candidate's native surface values. Prior crop/gamut failures and the higher-draw V1 remain preserved in the previous checkpoint.
 
 Only licensed modern timber pixels are transferred from Lyskilde/longtail's Old Cart, CC BY4.0; no donor geometry or purported historical maker/date is transferred. W01 remains a bounded reconstructed farm-box wagon, not an identified Dearborn. Original cut ends are disclosed project-authored material. Native donor crop145x40pixels does not establish photographic resolution. Atlas needs2576px texture support and dimension-estimated12,976,992bytes RGBA8+mips; GPU cost, coarser mip appearance, actual town near/far views and period/photo acceptance remain open. No active app replacement or broad ticket closure.
+
+
+## Saved concrete delivery — 2026-10-22 23:54 UTC
+
+Minimal external atlas intake patch41cfd8b5 is saved. ActualWebGL2renderer supportsNPOT/mipmaps but resizes oversizedimages, so patch passesactualmaxTextureSize and selects ORIGINAL fallback BEFOREcandidatefetch for missing/nonfinite/<2576caps. High/exact2576cap usescandidate;Lightfetchesneither;negativecontrol rejectsdisabledguard. ActualGLBsourcefixture merges5batches/9textures (not23appdrawcalls). Exactfresh-baseline appendbinder reproducesd65a4c and rejects3mutations; fullfreshproducerchain remainsunrun. EstimatedactiveRGBA8+mips12,976,992B,+6,685,308overbaseline, outsidebuildingresidencypool. NativeA/B/coarsemips/deviceGPU/photo acceptance remainOPEN; sourcepatchnotapplied.
+
+Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.

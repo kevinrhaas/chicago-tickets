@@ -164,3 +164,10 @@ Actual V14 native baseline/candidate comparison passed eight fixed catalogue-cam
 ## Checkpoint — 2026-10-22, 19:44 UTC
 
 V17 actual eight-image source comparison PASS and reviewed. Independent DEVccad app intake now installed on branchsteward/t2794-brougham-v17-20261022 in reused/tmp/chicago-covered-sag. First compilation found missing Recorded metadata; corrected own entry, separate supported rebuild active. No fullgate/commit/world acceptance yet. Planned stand is25.157m from1904spawn and may add33502triangles; do not waive budget.
+
+
+## Saved concrete delivery — 2026-10-22 23:54 UTC
+
+Genuine ring16mid22238tri saves11264 while near33502tri/contacts/other452parts remain exact. External19file normal runtime patch9f265b55 and ZIPe0a946db are saved; no appactivation. ActualvendoredThree/nativeGLTF source tests pass:7mergedmaterialbatches/level,24mminimumscreen-scaled5%hysteresis,active-onlypicking,100/65/Lightreach,cache/failurefallback/disposal and6legacycards. Fixednative near/midA/B beingprepared; currentworld budget and visual/photo acceptance remainOPEN. Earlierworlddeadline failures remainFAIL.
+
+Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.

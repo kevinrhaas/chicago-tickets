@@ -261,3 +261,10 @@ Pushed standing-horse development source `0b051fd75` now passes actual published
 ## Checkpoint — 2026-10-22, 19:44 UTC
 
 Enabled-idle horse source adapted onto pushed person03ef, staged12cc9286011176d7502f308ed2782055b6e1282f. Supported rebuild PASS, all60 horse-only files byte-identical. Recovery capsule770a1d22 saved. Full preflight/current published idle yard still pending.
+
+
+## Saved concrete delivery — 2026-10-22 23:54 UTC
+
+PR1212 normal merge a47401a24950ec2d6cd652e4badad89533a1fc16/treec9e0b41b746de967d73765633702dac748178d63 is committed and PUSHED. Fullpreflight1050checks/381selftests passed685.46s; actualHEADchangelog/IDs/whitespace and postcommitpublish/mirror pass. Both person and standing-horse scene additions retained. PR staysdraft:1175notlanded/latest73excluded. Current own-card/idle mobile phase19088 is active under original350/360caps; desktopheld. Green recovery e5884d02 retained. No walking/photo completion.
+
+Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.
