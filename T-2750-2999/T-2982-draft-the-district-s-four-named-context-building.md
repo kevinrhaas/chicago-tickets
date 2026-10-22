@@ -1,7 +1,7 @@
 ---
 id: T-2982
 title: Draft the district's four named context buildings with the draft builder: 213, 215 and 217 East Twentieth Street as three houses, 2008 Calumet (Hanford), 2018 Calumet (Wheeler-Kohn) and Second Presbyterian's post-1900 exterior in one dated tower state, each on its own read footprint
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2162
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/21/2026, 11:13:51 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39720186328
+claimed_at: 2026-10-22T04:13:52.521Z
 decision: null
 decision_answer: null
 ---
