@@ -1,7 +1,7 @@
 ---
 id: T-2162
 title: Draft the district's edges: East Twentieth Street, Calumet, Second Presbyterian and the side-street and rail-side background
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-08
-closed: null
+closed: 2026-10-21
 pr: null
 claimed_by: run 10/21/2026, 11:12:59 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-22T04:13:47.179Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39720186328
 claimed_at: 2026-10-22T04:13:00.300Z
 decision: null
