@@ -227,3 +227,8 @@ Final person14323534e is pushed after full1042/380 preflight and postcommit mirr
 ## Actual development-base material comparison — 2026-10-22
 
 Reviewed sourceV2+schema addendum remain not app-installed. One actual bounded material study using the real proposed skinned consumer and unchanged licensed source41acd9be PASSED7.274s,4PNGs, all10inputpins unchanged and browser/server closed. Root reviewed front+quarter for both native metalness1 and declared cloned organic_dielectric_v1 metalness0, selecting dielectric for later development intake. Filename side is actually a front view after sceneheading90; no broadside claim. Flat inspection plane sampled contacts maxper-footminimum0.524226mm, not actual yard/continuous sole proof. Stocky shape/coarse eyes/solid mane/pointed sheet tail/1K coat still fail photographic-master ambition. Actual yard/coarse mobile/source-array-release/card/disposal tests still unrun. See checkpoint-779-final-ci-and-rendering-followups/HORSE-MATERIAL-REVIEW.md and capsule. No completion claim.
+
+
+## Pushed progress and recovery — 2026-10-22, 16:26 UTC
+
+The first static development placement is committed and pushed at `0b051fd75` on `steward/standing-horse-development-20261022`. Full preflight passed 1,047 checks/381 self-tests, postcommit publication/mirror passed, and the unchanged licensed model is durable on GitHub. Actual published-yard desktop review is active; the first full-body yard image was personally viewed. Original pre-horse welcome-entry test failure is preserved, and its reviewed sequencing correction keeps all original limits. Whole desktop/mobile, photographic anatomy/coat, tack, gait and riding acceptance remain open. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-2f-pushed-and-horse0b/`.

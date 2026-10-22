@@ -222,3 +222,8 @@ Final person14323534e is pushed after full1042/380 preflight and postcommit mirr
 ## Initial visible-person increment — 2026-10-22, 14:44 UTC
 
 PR1175 remains draft at779978bce pending the last required desktop smoke stage13; all other17published smoke cells and normal5 workflows strictly audited success. Full1044-step preflight passed. Current-head Full desktop visual and original mobile full passed, all8PNGs root-reviewed; connected waistcoat shoulders and truthful reconstructed identity/modelled firm card accepted for this initial placement. This supersedes the old blanket no-placement note only for the qualified repaired Bardwell model. Dufresne/Flynn are not placed or repaired by this increment. Three supplementary desktop loading/readiness stress attempts FAILED unchanged540/90s limits, and remain open documented follow-up. Broad modular-library/photographic/animatedfit acceptance remains open. Exact evidence and independent review: evidence/parked-vehicles-2026-10-22/checkpoint-779-final-ci-and-rendering-followups/.
+
+
+## Pushed progress and recovery — 2026-10-22, 16:26 UTC
+
+PR1175 is pushed at `2f1bad56f`; full preflight passed 1,046 checks and publication/mirror passed. At 16:21, direct GitHub reads verified all 23 expected source-run identities: 19 succeeded, four smokes running, no failed conclusions. DEV advanced again and requires final conflict resolution and changed-dependency validation before merge. Prior actual person desktop/mobile images remain evidence at their original head; three supplemental readiness failures remain open. Broad photographic library scope is not closed. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-2f-pushed-and-horse0b/`.
