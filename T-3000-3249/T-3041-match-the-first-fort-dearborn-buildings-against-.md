@@ -5,7 +5,7 @@ state: open
 epic: TOWN
 requested_by: owner
 seen: false
-effort: S
+effort: M
 legacy_id: null
 parent: T-2387
 opened: 2026-10-22
@@ -34,4 +34,7 @@ When T-2387 was split (2026-10-22T22:45:49.575Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** Meet the full image acceptance retained on parent T-2387: inspect every listed picture, solve cameras for the appropriate dated form, refine all pictured fort components, render before/after comparisons from current assets, and satisfy the Image gate without unresolved visible differences. Include all 21 named records and account for nine additional extant first-fort context records; rendering context alone does not attest it. Preserve surveyed coordinates and document conflicting retrospective evidence.
+
+## Image gate
+- first_fort_dearborn_blockhouse_nw

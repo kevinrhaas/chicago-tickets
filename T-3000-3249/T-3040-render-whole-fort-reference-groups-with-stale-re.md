@@ -34,4 +34,4 @@ When T-2387 was split (2026-10-22T22:45:49.575Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** Demonstrate one camera rendering all requested scene members, including both complete fort inventories, with correct relative bearings/origins; regression tests refuse missing or wrong-scene members and invalidate review after a peer mesh or placement changes. Save actual compound baseline renders and document calibration limits. This is the tool prerequisite for T-3041 and T-2388, not completion of their image gates; no geometry or matches verdict is claimed.
