@@ -1,6 +1,24 @@
-# Current handover — 2026-10-22, 22:38 UTC
+# Current handover — 2026-10-22, 22:46 UTC
 
 User authorizes parallel agents, periodic pushes and ordinary green DEV merges. Priority: land visible person PR1175, then parked carriage1213, horse1212 and covered-cloth1208. No production/admin merge/workflow changes. Photographic completion, riding and driving remain open.
+
+## Latest actual state — supersedes older source/status entries below
+
+PR #1175 is now PUSHED at `8f5127d4feebcaa63a0bc0c751dc4a1c1e7dd8d3`, tree `deb88944d9898183b391a03376de8bb28a2a91a3`, direct parents 248ecfb56 + bbe4de604. The existing scoped CI integration 39861691808 completed successfully and its exact push log is saved in the newest checkpoint. Root took a new live lap lease after the actual push and fast-forwarded clean primary. Native auto-merge remains OFF. Final publication/mirror passed, session67539; source/main/humans/scene/smoke unchanged by this incoming integration, and actual incoming paths exactly match DEV's known delta.
+
+The four final immutable-source 14/15 desktop/mobile dispatches were accepted and discovered exactly once, ref `steward/pr1175-verify-8f5127d4f`. Strict collector PID1943003/session42873, output `/workspace/shared/PR1175-8f5127d4fe-FINAL1904-GET-owner1`. These do not qualify a later DEV delta automatically.
+
+DEV then advanced to `7d9afc0ecd8653f71c283dff05d951a9a57fda47` (T3036 Glessner cupola corner seams/stone occlusion/recovery package + changelog fold), fetched only into `refs/chicago-snapshots/dev-7d9afc-20261022`. Actual GitHub test merge `8fc3fd3f0db3088f61408e2fe4c0b993f623e1ee`, tree `ac18e697d260a964019eb2c3f89079470bba59ed`, parents [7d9,8f]. Human CI39866198809 passed on that actual test merge; push report39866189083 passed on8f. Normal gate39866198822 and moving39866198764 remain pending. Sole fixed terminal-log collector ci_parked_recovery PID1946907/session38868. Do not rely on stale API base metadata. confidence_performance_review is independently auditing this finite latest delta; exact Glessner triangle counts reportedly unchanged, but actual current coverage still needs review.
+
+Original immutable fe98 desktop13 remains active: run39854587598/job120089360763 started21:07:01, smoke21:09:48, native job150-minute cap about23:37:01. No stall/failure inferred. Sole original18 collector remains active, six original failures preserved. Repaired248 four are all PASS, separately labelled.
+
+The first focused mobile launch stopped BEFORE any browser because the old external wrapper wrongly expected source changelog == walk shim. This failure is preserved in owned-mobile. The exact production T0722 contract is source == site/js/changelog and walk/js/changelog == production WALK_SHIM. Corrected external guard is frozen at `/workspace/shared/PR1175-FOCUSED-WHATSNEW-PUBLISH-CONTRACT-20261022`; source caller, all seven assertions and 360/350 time limits unchanged. New mobile session7648 is RUNNING, output focused-contract-mobile/owned-contract-mobile under PR1175-8F5127-FINAL-INTEGRATION-20261022. Browser lane EXCLUSIVELY root until terminal/cleanup. Desktop still HELD; release it separately after mobile. Do not run old incorrect guard again or relabel its preflight failure PASS.
+
+Carriage desktop10030 closed DEADLINE FAILURE270s, no PNG/geometry verdict; only first frame state 4,587,808 triangles/4,744 draws/GL0, clean source. Browser/server closed with no live owned processes. Original mobile partial/failure retained. Carriage agent now auditing latest DEV triangle risk and a possible distance-LOD proposal, with no source edits. Kimball incoming raw triangles +37,286 exceed old desktop's12,192 spare, so old budget evidence is not current acceptance. Horse source a086 remains frozen; horse_completion preparing semantic integration resolutions externally for after the person landing, preserving both humans and standing-horse/support-region additions to scene1835.
+
+Concrete future multi-era horse support provider code and fit producer are saved externally, not app-installed. Exact drawn constructor geometry yields1812 and1904 fits within unchanged2°/1mm/−10um caps, four triangles/288B each; negative controls and real Three raycast/disposal checks pass. Both world_qualified:false, rows inactive pending real visual/world clearance. Capsule5906b0f3 saved in newest checkpoint. animated_horse_source is finishing matching loader/card/schema external code. No fullgate/browser/source activation claimed.
+
+Latest durable checkpoint: `evidence/parked-vehicles-2026-10-22/checkpoint-actual-person-integration-and-three-era-code/`. Previous checkpoint11228437 is confirmed remote. Root sole canonical writer; claims still fresh from22:06, renew before01:05. Earlier details below retain their original source labels; use this latest section for current control state.
 
 ## PR1175: finish the DEV landing
 
