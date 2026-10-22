@@ -35,3 +35,5 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 
 **Queue filing correction:** `--blocks` bypassed the kind placer and initially appended this ticket at bottom. Correct to foot of performance band1 under the standing2026-10-20 owner rule; other ticket order stays unchanged. This follow-up unblocks the visible T2979/T2980 wagon/carriage parcel in PR1174.
 
+
+**2026-10-22 checkpoint:** T2981 integrated as8stagedfiles on cleanbase0a037;8actualconfidencepolicy testsPASS. Normal7800pin unchanged; newactualFullonlytrianglechecks/policyidentity+restoration/publicAPI agreement included. Mandatory fullpreflight39885RUNNING. Exactstagedpatch andcompletepairedraw e0bd capsule in checkpoint-combined-vehicle-preflight. No commit/CI/DEVmerge claimed.
