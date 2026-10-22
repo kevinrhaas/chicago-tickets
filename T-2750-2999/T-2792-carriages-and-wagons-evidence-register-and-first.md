@@ -1,7 +1,7 @@
 ---
 id: T-2792
 title: Carriages and wagons: evidence register and first master specification
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2791
 opened: 2026-10-18
-closed: null
+closed: 2026-10-21
 pr: 1174
 claimed_by: vehicle evidence completion agent 10/21/2026, 9:57:49 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T04:16:26Z
 claimed_run: null
 claimed_at: 2026-10-22T02:57:51.192Z
 decision: null

@@ -23,7 +23,6 @@
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 
 
-T-2981 — Calibrate Full confidence-view draw and triangle ceilings
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
@@ -162,11 +161,9 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
 # first review existing assets and dated photographic evidence, then models, moving distant traffic and interaction.
 # T-2792 and T-2799 begin in parallel by explicit owner instruction; respect every model's rights/date/needs_bake gates.
-T-2792 — Carriages and wagons: evidence register and first master specification
 T-2793 — Build one articulated period wagon master from the existing wagon families
 T-2980 — Upgrade selected covered wagons while preserving their distinct finishes
 # Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).
-T-2979 — Park refined wagons and a period carriage in the walking scenes
 T-2794 — Build one photographic period passenger-carriage master
 T-2795 — Animate vehicle running gear and matched draft-horse hitches
 T-2796 — Move horse-drawn traffic through distant streets with measured LOD budgets
@@ -174,7 +171,6 @@ T-2797 — Board, ride and leave a carriage or wagon with accessible controls
 
 # --- 8E. PERIOD HORSES AND GEAR — photographic animals, tack, riders, then mounting/riding (epic T-2798)
 # Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
-T-2799 — Horses and gear: dated reference dossier and first master specification
 T-2800 — Build the first anatomically grounded photographic horse master
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
