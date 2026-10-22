@@ -231,3 +231,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3017 — 1904 parkway elms grown as the open-grown American elm: a forked trunk, arching limbs and hanging sprays in place of the fan-shaped leaf cards, then tuned for desktop and phone GPU
+T-3020 — 1736 Prairie card shows the other McBirney house's 1890 plate
