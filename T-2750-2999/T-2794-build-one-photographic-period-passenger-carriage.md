@@ -88,3 +88,7 @@ Actual corrected shader-refresh control proves shadow contribution to corner sta
 **V10 source-only roof proposal — 2026-10-21 23:21 UTC:** Normal expiredclaim renewed6c939868. Frozen2c00175c preserves candidate645e3a9c/deterministicrepeat/Khronos0/0,337nonroof P/N arrays and allnodes/materials/camera exact. Conservative roofcrown/trim refinement only; metricchanges reconstructed, correctPDplateb458565e. UNRENDERED, no new source match/app/photo acceptance. Saved in checkpoint-v10-and-coalescing-held; oldV9/history unchanged.
 
 **Released 2026-10-21** (claim of root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Active parallel completion — 2026-10-22 03:04 UTC
+
+Assigned to carriage model completion agent. Repair actual standalone preview cleanup without dropping its zero-resource guard, then inspect the actual V10 roof against the cleared1893Studebaker plate and prepare a usable integration parcel. See `WORKPLAN-PEOPLE-TRANSPORT.md` for current owners and dependency order.

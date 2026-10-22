@@ -58,3 +58,7 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 Primary-source manufacturer/type register now acquired and backed in evidence/parked-vehicles-2026-10-21/HISTORICAL-VEHICLE-REGISTER.md. Specifics: Fort1812 baggagewagons (maker unknown); Dearborn passengerwagon in Kinzie1831 pp297/302 with pairteam; Briggs&Humphrey actualRandolphStreet carriage/sleighshop1835; Studebaker1893 Chicago branch and Brougham/FarmNo4/FancyParcelNo382 plates. Market availability is not localownership or rankedpopularity. Exact source images/rights and modelling limits retained. CurrentW01/C02 not retrospectively branded.
 
 **Released 2026-10-21** (claim of root parallel people vehicles and horses completion 2026-10-22 10/21/2026, 9:56:46 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Active parallel completion — 2026-10-22 03:04 UTC
+
+Assigned to vehicle evidence completion agent; finish the exact research/specification acceptance with existing inspected-image, rights and manufacturer evidence. Implementation and photographic masters are separate follow-on acceptance. See `WORKPLAN-PEOPLE-TRANSPORT.md` for current owners and dependency order.
