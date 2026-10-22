@@ -1,3 +1,9 @@
+# Current staged repair — 2026-10-22 01:58 UTC
+
+Local app parked/e694 has9STAGED source-onlyfloat-sumrepair files, tree5badfa088cfeb4ff9c86e31a1d2221a09c790db3. **NOTCOMMITTED / fullpreflightNEXT** under matchingCI Python3.11.17 venv `/workspace/shared/w01-python-sum-recovery-20261022/venv311/bin`. Native3.11androot3.12 prove ALL3originalGLBsbyteexact; every originalguard/recipepin preserved. Only10floating sums→math.fsum,sourcehashmetadataandSTATUS. Independent finite review97b16PASS. Fullproof/exactstagedpatch/runtimeprojection/review in `evidence/parked-vehicles-2026-10-22/checkpoint-fsum-repair-staged/STATE.md`. NEVERreapplystagedpatch. Runfullgatebeforecommit; commit/pushpromptlyafterPASS.
+
+Originale694CIgateFAIL isstillreal/historical; nofreshnewheadyet. Sole historical18-smokeGETcollectorci_parked_recovery PID706508/session43530, deadline04:52:36UTC/60s. Latest01:53strict14/18PASS;4remaining. Collectorqualificationfalse permanently; newauthoringfixneedsfreshnormalCI/currenthead/requiredcheck+route/mergebindings andexactruntimeequivalenceproof, neverpretendoldjobsrannewSHA. No duplicatePOSTs. Savedhumanb418 candidate remainsbacked/notcommitted, currentappHUMANMERGEABORTED. Resumehumanafterfix; fullgate/canonicalV6stillneeded. RootownsT2980/T1789claims+lap1175. NoDEVmerge.
+
 # Current blocker — 2026-10-22 01:44 UTC
 
 **PR1174 source e694 is pushed but CI GATE FAILED:** exact authored-parts JSON hash in covered-parent regeneration,1/1041. Observer stopped; no reruns. Native3.11 vs3.12 floating-sum difference reproduced outsideapp; explicitmath.fsum restores original rawparts/hardware hashes, fullproduct proof pending. Root will preserve ALL guards and model bytes. Details/fullfailedlog/proof and dependencyreview: `evidence/parked-vehicles-2026-10-22/checkpoint-source-repro-failure-human-saved/`.
