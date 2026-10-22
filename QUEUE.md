@@ -23,6 +23,8 @@
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 
 
+T-2981 — Calibrate Full confidence-view draw and triangle ceilings
+
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
@@ -225,4 +227,3 @@ T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building 
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 # BLOCKED-TECH T-2486 (opened 2026-10-13, SOUTH_TIME) — 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
 #     waits: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
-T-2981 — Calibrate Full confidence-view draw and triangle ceilings

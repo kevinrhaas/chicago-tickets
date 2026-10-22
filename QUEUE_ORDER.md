@@ -81,3 +81,5 @@
 - 2026-10-20 — Owner: sound defaults off and the gaze tag moves to the right nav (T-2941, T-2942), filed into band 3 (Navigator) at its head. No other ticket moved.
 
 - 2026-10-21 — T-2973 (dev gate red on stale 1726/1730 GLBs) to the head of band 1: it blocks every open PR. No other ticket moved.
+
+2026-10-22 — Steward filing correction: move newly filed T-2981 from fallback queue bottom to the foot of band1, following the standing owner2026-10-20 rule in QUEUE.md that performance/GPU follow-ups go there. `new --kind perf --blocks` bypassed the kind placer; no other relative order changes. T-2981 unblocks the active parked/covered vehicle parcel.
