@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: human_recovery 10/21/2026, 2:59:03 PM CT
+claimed_by: root continuing own PR1175 after source-preview review 10/21/2026, 8:30:44 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-21T19:59:05.739Z
+claimed_at: 2026-10-22T01:30:44.996Z
 decision: null
 decision_answer: null
 ---
