@@ -34,3 +34,8 @@ When T-2540 was split (2026-10-22T10:15:45.925Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39760105850) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found by T-2998 (the pavilion's gable)
+
+With the coped gable laid on (T-2998), the face's place and its third storey are what keep the gable off the print's. Through the Taylor camera the build's gable apex renders at about x 1335, y 182 against the print's x 1270, y 245, and its finial at y 158 against 220: the whole face south and nearer than the print's, as above. And the third storey differs in itself: the print's mullioned pair stands close under a frieze with a roundel and the gable's foot (head about y 470, the shelf under the gable about y 395-420), where the build's pair stands with about 3.3 m of blank wall over it to the 13.9 m wall top (head at 10.6 m). Read the third storey's window and frieze and the gable's springing off the print once the face stands where it does, so the gable's foot follows.
+

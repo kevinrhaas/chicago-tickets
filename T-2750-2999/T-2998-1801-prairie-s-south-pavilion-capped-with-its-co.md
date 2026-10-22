@@ -34,3 +34,5 @@ When T-2540 was split (2026-10-22T10:15:45.925Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39760105850) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+K08 caps a projection with a coped gable (its kneelers, raking copings, slopes run back to the wall, a pinnacle on each kneeler and a stone finial), held by a test and by check_bay_kit.py on 1801's pavilion; 1801's south pavilion carries it in place of its low hip, rebaked, every other K01 master re-keyed byte-identical; and through the Taylor camera the gable's rise, pitch, kneelers, pinnacles and finial read as the print's (its place on the print is T-2999's), the match record's gable difference fixed with the carved tympanum left to T-3002.
