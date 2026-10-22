@@ -37,3 +37,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 
 A camera solved on the c. 1955 photograph (the image store's a18-cgy-1812-wheeler-c1955, link only, 554 x 900 px) from the front's own control, and its match record written: every difference the photograph shows listed, with what is later than 1904 (the photograph is fifty years after the scene) said so. The south flank it sees obliquely and the two stacks (one on the south wall at the front, one behind the north shoulder) read and built, or ruled later.
 
+
+## Found by T-3033
+
+Levy's print ends the south slate face in a vertical band (x 277-293 px) standing just outside the south wall's line (the build's corner at about x 305 px), from the slate's foot up to a heavier level cap at y 257-277 px, about 0.4 m over the north curb's cap (302-313 px), with the tall stack standing on it; the c. 1955 photograph shows the stack on the same brick end. Read: the south wall carried up past the mansard's curb as a coped parapet, the stack in it. T-3033 built the mansard's south face plain and level with the north (its corner leaning in from x 305 to about 360 px); the parapet and the stack's place are this ticket's, an open item on the Levy match record. K01 stands a stack in a side-wall parapet only on a gable roof today (`in_parapet`), so a mansard's south parapet is a kit change.
