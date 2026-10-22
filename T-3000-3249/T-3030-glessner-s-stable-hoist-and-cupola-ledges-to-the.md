@@ -1,7 +1,7 @@
 ---
 id: T-3030
 title: Glessner's stable hoist and cupola ledges to their prints: the hoist stone's projection, width, nose and foot read from the Cornell view, HABS 01 and HABS 15 (it is a long tapered stone cantilever, about 4 ft, not 1.75), the cupola's stone landing ledges run unbroken round its corners as both northwest prints show, rebaked and the three stable-end match records reviewed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3023
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 11:30:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39810036128
+claimed_at: 2026-10-22T16:30:11.324Z
 decision: null
 decision_answer: null
 ---
