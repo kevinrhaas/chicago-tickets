@@ -1,7 +1,7 @@
 ---
 id: T-3006
 title: 1811 Prairie's entrance block's ROUNDED south corner from the 1888 plate (re-read by T-2989): the front's face ends at x 467-470 px (v about 9.5) and the porch arcade's colonnettes (x 476, 490, 501), the oriel's south return and the rock-faced base under them run round a curve of about 0.9 m radius to the south wall's face (x about 515-520, the solve's x 510), which K01 cannot build: teach K01's front block a rounded corner (the wall, its coursing, cornice, eave and gable end carried round it, every other K01 house re-emitting byte-identical), lay it on 1811 and rebake
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2989
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1196
 claimed_by: run 10/22/2026, 9:03:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T17:01:30Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39790422642
 claimed_at: 2026-10-22T14:03:11.768Z
 decision: null
