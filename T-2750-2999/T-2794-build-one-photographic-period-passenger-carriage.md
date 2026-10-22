@@ -99,3 +99,10 @@ Assigned to carriage model completion agent. Repair actual standalone preview cl
 Actual four-view depth diagnostic PASS: default24bit depth with .05near caused body/door quantization mottling;100near removes it with identical sourcegeometry/materials/light/pose/XYprojection and fully retained model. No geometric repair is justified by that artifact. Nine catalogue-backed latch/fitting components peer-cleared for one bounded generation; unsupported flat-top trim bead deferred. Door contour and photographic/main-world acceptance remain open; no Brougham installation yet.
 
 Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:34 UTC
+
+Ninefittings V11actualgenerationrepeat+protected457parts+KhronosPASS. Eightnormalmatchedsourcecamera imagesPASS/CLOSED; rootviewed detail+global. Fittingsreadcoherently, depthmottleabsent; door/windowwaist andflatfinishes remainbelowphotographicbar. Doorcontoursourceproposal andparallelmaterialauditactive. No appintegration/fullticketclosure.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-FIRST-TOWN-FAIL/`.

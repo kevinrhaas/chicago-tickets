@@ -186,3 +186,10 @@ Run39687040336 completedSUCCESS22:46:24 at2f75ef23, attempt1/bothinputsTRUE. Ind
 One actual initial standing Bardwell candidate is integrated with eight exact canonical master/webGLBs and existing reconstructed resident identity/card. Firstgate1040/1041 registry omission fixed from unchanged actual canonical measurements. Secondgate18808 failed30steps with execution-sandbox spawnSync EPERM and stalled children (operator interruption preserved); unchanged fallback step passes0.16s with required permissions. Fresh fullpreflight, commit/push, published desktop/mobile and fresh15part coverage remain required. T1789 photo/library acceptance remains open.
 
 Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:34 UTC
+
+Initial standing increment is COMMITTED/PUSHED in PR1175 atad813a627; fullpreflight1041/380 and publishedmirror2041exact/3117transforms PASS. Firstactualdesktop run closedFAIL onlyfrontcamera10percentmargin; profilepassesactualground<.271mm/2534calls/1968552tri and rootviewedPNG. V3fixedpitch sourceproof passesall4LODs, notbrowserrunyet. FreshhumanCI/reportPASS, sourcegatepending, moving39727250726FAIL beingretrieved; no18smokes/greenmerge yet. Allphoto/library/occupied acceptance remainsopen.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-FIRST-TOWN-FAIL/`.

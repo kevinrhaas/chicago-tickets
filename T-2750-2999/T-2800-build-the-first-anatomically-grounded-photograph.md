@@ -191,3 +191,10 @@ The earlier croup-only source draft is retained but is not the chosen production
 First new anatomical static mesh4fa3dce8 exported568192B/23552tri; independent readback found586 proper trianglecrossings at limb-to-body joins and nostril apertures. Closedmanifold, finite normals and four soleplanes alone do not qualify it. Failedmesh/witnesses preserved; source correction uses measured aperture/profile causes and an explicit40mm authored-datum correction. No placement, animation/oldrig/tack/socket or photographic acceptance.
 
 Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:34 UTC
+
+Actual repaired772staticmesh independently has0propercrossings versus old586 and passes topology/normals/soles. Fourfixedbaseline-camera images PASS/CLOSED; rootviewedside+quarter and rejectsphoto/anatomicalacceptance: spikeears/wedgehead/tinyeyes/vaguejoints/nohair orcoat. Nextsource-only head/orbit/pinna/throatlatch work usesclearedactualreferencepixels. No appinstallation/rig/animation claim.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-FIRST-TOWN-FAIL/`.

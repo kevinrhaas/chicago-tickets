@@ -62,3 +62,10 @@ Two covered near-native models now preserve each original ID, seed-based finish 
 PR1174 actually merged DEV969cd3d3e and public releasea989 serves both reviewed distinct covered derivatives byteexact. This does not close photographic scope. New two-line sourceproposal reconstructs20–28mm inter-bow drape; generation/actualmatchedvisualreview still held. Root claim renewed normally04:45:55; parallel authoring remains active.
 
 Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-standing-runtime-recovery-and-photo-sources/`.
+
+
+## Actual root checkpoint — 2026-10-22 ~05:34 UTC
+
+Actualtwo-finish20–28mm clothdrape generation/readbackPASS/CLOSED22.4s,101protectedstreams/parentprefix/identity retained and0cloth/bowintersections forbaseline+candidate. Compactactualsource/twoGLBs backedhere. Sixteenimage normalmaincomparison callerpreparedHELD; actualappearance notyetreviewed oraccepted, sourcepins/app stillunchanged.
+
+Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-ad813-PUSHED-PASS-and-FIRST-TOWN-FAIL/`.
