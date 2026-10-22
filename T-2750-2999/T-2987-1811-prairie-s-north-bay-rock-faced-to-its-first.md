@@ -19,6 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/3972939
 claimed_at: 2026-10-22T05:55:35.424Z
 decision: null
 decision_answer: null
+group: T-2987,T-2990
 ---
 
 1811 Prairie's north bay rock-faced to its first floor's sill course and smooth ashlar over it, and the 1888 plate's two front downpipes (at the bay's south return and the entrance block's south corner) from rainwater heads of their own.
