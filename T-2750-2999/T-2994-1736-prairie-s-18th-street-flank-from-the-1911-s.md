@@ -1,7 +1,7 @@
 ---
 id: T-2994
 title: 1736 Prairie's 18th Street flank from the 1911 sheet: its three canted bays built on K01 (a frame bay at u 3.4-6.0, the brick bay at 9.4-12.8 rising under the roof, and a frame bay at 16.0-19.2 where the trace's rule had read a side porch), the south windows cleared of them, and the mansard's date argued from the house's 1864 completion, the c. 1890 photograph and the 1911 sheet's curb
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2962
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 2:48:33 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39738428450
+claimed_at: 2026-10-22T07:48:34.098Z
 decision: null
 decision_answer: null
 ---
