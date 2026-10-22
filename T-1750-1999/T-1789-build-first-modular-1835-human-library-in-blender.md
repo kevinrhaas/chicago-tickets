@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 18:34 UTC
+
+Latest person source c63d9f219 is pushed with actual full1047preflight EXIT0 and postcommit publish/mirror PASS. DEV advanced029 with Glessner3030; PR1175 remains draft/dirty/unmerged. Currentsource browser/CI eligibility is not claimed. See current HANDOVER and checkpoint-c63-pushed-and-qualified-idle-source.
+
+
 ## Checkpoint — 2026-10-22, 17:47 UTC
 
 Bardwell person integration checkpoint4dee6d5 is pushed with full1047 preflight and postcommit publish/mirror PASS. PR1175 remains unmerged against advanced DEV. New restrained head/pelvis/planted-foot idle is a source proposal with actual-skin proof, not a canonical export or photographic completion. See current HANDOVER and checkpoint-4dee-pushed-idle-and-team-work.

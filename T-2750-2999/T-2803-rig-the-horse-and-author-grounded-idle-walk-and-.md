@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 18:34 UTC
+
+Actualnormalizedfilteredidle c255 has385poseactualMixer+shadernorm proofPASS: all4hoofpatches+732lowerlimbvertices0drift, clocks/loop/clone/disposePASS, old6neverplayed. ConsumerpeerCLEAR; actualworldvisual/fullgate next. Separate03a1experimental26jointstaticrig passesformat/staticshape but haszeroanimation and gait/selfcontact/nativevisualOPEN.
+
+
 ## Checkpoint — 2026-10-22, 17:47 UTC
 
 A first filtered head/tail idle derivative2f590ee3 exists outside app. Independent new-curve/structural checks pass; whole glTF validation FAILS with inherited90 errors/15900 warnings. Both complete reports and V2 failure/V3 source correction are preserved. Separate normalization SOURCE is under review, not executed. Actual Mixer/full-surface/visual and four-limb walk remain open.

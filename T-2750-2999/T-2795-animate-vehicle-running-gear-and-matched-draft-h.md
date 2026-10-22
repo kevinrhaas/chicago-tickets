@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 18:34 UTC
+
+ActualBardwell sit_drive/W01nativefit found outertrouserseatpenetration7.817783mm with54propercrossings although shoesmatchboard. Body-onlyclearance wasinsufficient. Pelvis/two-boneIKsourcefix underCPUstudy, driveractivationFALSE. No existingmodeleddoubletree/harnesscontact canbelaudedfromemptyframes.
+
+
 ## Checkpoint — 2026-10-22, 17:47 UTC
 
 Concrete W01/current-horse/Bardwell team-adapter source and rolling/steering CPU proof are frozen/backed. liveActivationAllowed remains false. Actual four-limb gait, harness/doubletree/traces/reins, driver garment/seat/shoe/palm contacts and world/mobile proof remain open.

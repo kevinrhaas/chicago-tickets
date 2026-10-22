@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 18:34 UTC
+
+ActualV15source8passes; V16materialstudy actual8technicallypass but darkertrim is a visualREGRESSION and is notselected. V17separateopaquequarterrecess actualraw+correctedexistingrawpackaging passes, originalstale-index FAIL preserved; noV17images/appacceptance. Completecapsules in newestcheckpoint.
+
+
 ## Checkpoint — 2026-10-22, 17:47 UTC
 
 V14 actual raw/near and native eight-view development proof are preserved. V15 slender curved step-support SOURCE capsule is now GitHub-checkpointed; not generated or app-installed. Actual1904 world and photographic acceptance remain open. See current HANDOVER.

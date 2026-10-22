@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 18:34 UTC
+
+Actualstandingidleconsumer/host is implemented in agent-owned secondary worktree; actual385poseCPUproof+consumerpeerCLEAR pass. FinalTRUEflags/sourcefreeze and requiredfullgate/publishedyardvisual stillpending. Originalstatic0bactualyardpass stayshistorical. Newnormalizedidleartifact and separate26jointtrial both0err0warn, notphotoclosure.
+
+
 ## Checkpoint — 2026-10-22, 17:47 UTC
 
 Standing-horse development source0b051fd is pushed and actual published desktop/mobile yard checks pass. The integrated secondary source remains staged/uncommitted at b092. Static horse placement is not photographic, idle, gait, gear or riding completion. See current HANDOVER.
