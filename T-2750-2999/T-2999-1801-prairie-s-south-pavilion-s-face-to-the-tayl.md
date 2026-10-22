@@ -1,7 +1,7 @@
 ---
 id: T-2999
 title: 1801 Prairie's south pavilion's face to the Taylor photograph: it renders about 15 px south of the print's at its north corner and about 60 px at its south corner, built 0.6 m proud of the front at u 20.5 where the camera's corner stands at u 20.1 and the 1911 sheet draws it 0-0.4 m proud; stand it where the photograph and the sheet put it
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2540
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: null
 claimed_by: run 10/22/2026, 8:55:55 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T14:18:52.003Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39790410192
 claimed_at: 2026-10-22T13:55:55.824Z
 decision: null
