@@ -1,3 +1,9 @@
+# Active human candidate — 2026-10-22 01:35 UTC
+
+Local app is NOW on human branch2f75 with uncommitted merge of checked vehiclee694 and applied V5+V6b95 source patch. Three append-only doc conflicts are resolved in working bytes but not indexed; derived liberties still unmerged pending proper regeneration and forthcoming provenance followup. NO newhumanfullgate/commit/push/export yet. Do not treat local tree as clean parked source. Root owns lap1175 and renewedT1789 claim. Recovery details and exact merge suffixes: `evidence/parked-vehicles-2026-10-22/checkpoint-human-v6-integration-started/STATE.md`.
+
+Parked remote remains fixede694 under its current18fresh CI jobs; no second dispatch. Latest saved01:34 observer reading3/18selected+1/3normal; notgreen yet. Source0a+e694 and full1041PASS remain pushed in1174. T2981 nowreview1174; T2980 released normally toOPEN for unfinished photo/LOD acceptance. The following source/evidence notes remain valid except the previous local-checkout description.
+
 # Current handover — 2026-10-22, source pushed and fresh CI started
 
 **Read this first.** Vehicle [PR1174](https://github.com/kevinrhaas/chicago/pull/1174) is OPEN/DRAFT into DEV at **`e694849a2c516a9862a2564c5ff86d97406e09ab`**. Local `/workspace/chicago` is clean on `steward/parked-period-vehicles-20261021`. T2979 parked placement, T2980 distinct covered source `0a0376324`, and T2981 measured Full Ghost budget are committed and pushed. **No DEV merge yet.** PR1176 was retargeted to DEV then closed UNMERGED as superseded before pushing the covered commit into1174; retain its source branch. Never reapply old stashes or saved patches.
