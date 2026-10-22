@@ -1,7 +1,7 @@
 ---
 id: T-3038
 title: 1904 context city: stand-ins and faded streets clear of streets, walks, the IC right of way and each other; lots east of Calumet to the tracks
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1215
 claimed_by: run 10/22/2026, 3:22:06 PM CT
 blocked_on: null
 needs_bake: false
