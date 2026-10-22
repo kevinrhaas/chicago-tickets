@@ -1,7 +1,7 @@
 ---
 id: T-2485
 title: 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-10-22
 pr: 1200
 claimed_by: run 10/22/2026, 7:17:57 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T18:34:51Z
 claimed_run: null
 claimed_at: 2026-10-22T12:17:58.944Z
 decision: null

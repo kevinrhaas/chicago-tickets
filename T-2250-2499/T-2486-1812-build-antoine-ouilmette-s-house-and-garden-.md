@@ -1,7 +1,7 @@
 ---
 id: T-2486
 title: 1812: build Antoine Ouilmette's house and garden close behind the Kinzie house, and Pettell's small cabin near it
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-13
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -52,3 +52,5 @@ The Ouilmette household was Métis; its card carries `review_required` and `touc
 ## Found at T-2504 (2026-10-15)
 
 The no. 31 house nearest Kinzie's is read and left to this ticket as Ouilmette's: `data/traces/whistler_1808_fort_dearborn.json` `north_bank.parts` `no31_east` (sheet box [1119, 446, 1161, 471], `record: null`, `builds: T-2486`). Build it by setting `record` there; `tools/read_whistler_1808.py --check` then seats it by the north-bank rule (about 5.7 x 3.4 m, NE corner near local E +1122, N +348, facing south) and refuses it wet or on a neighbour. Pettell's cabin is not one of the three drawn houses.
+
+**Unblocked 2026-10-22:** T-2485 merged (PR #1200); this took its place in the queue. The block read: T-2485 — same site, one PR at a time (owner, 2026-10-10): Ouilmette's and Pettell's houses stand behind the Kinzie establishment
