@@ -1,7 +1,7 @@
 ---
 id: T-2962
 title: 1736 Prairie's south flank and rear from the 1911 sheet: the 18th Street wall's two small projections and its frame side porch, the service wing and the rear carriage building (house_1736_prairie_coach_house), every closed face declared, and the mansard's date argued
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2935
 opened: 2026-10-20
-closed: null
+closed: 2026-10-22
 pr: null
 claimed_by: run 10/22/2026, 2:28:44 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T07:48:27.209Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39738428450
 claimed_at: 2026-10-22T07:28:45.423Z
 decision: null
