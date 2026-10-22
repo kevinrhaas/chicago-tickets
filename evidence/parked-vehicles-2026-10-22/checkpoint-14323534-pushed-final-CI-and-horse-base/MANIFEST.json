@@ -2,6 +2,11 @@
   "at": "2026-10-22T08:15:27.743388+00:00",
   "files": [
     {
+      "path": "ACTUAL-SECOND-FAIL-WAITER-DIAGNOSIS.md",
+      "bytes": 980,
+      "sha256": "e6d0f061223beb7a73e72ccb05c9dcdbd05feb278ce0dabf489ef8467fc6f576"
+    },
+    {
       "path": "STATE.md",
       "bytes": 5743,
       "sha256": "10268858e10c71ef08d403495a745748ba447d8746395b8313ef12fc1a28c07e"
@@ -60,6 +65,11 @@
       "path": "postcommit-publish-PASS.log",
       "bytes": 2667,
       "sha256": "f5f355763df1a40cfd238de542c6854b23605a698fd199e7ac1b1a6b969ca648"
+    },
+    {
+      "path": "second-desktop-observation-actual-FAIL.json",
+      "bytes": 63166,
+      "sha256": "195b48fcad80e3da259e7b869651b6c6a11937a7c491cea219e98a406f99b6e1"
     }
   ]
 }

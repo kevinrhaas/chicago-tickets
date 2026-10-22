@@ -1,3 +1,9 @@
+# Actual desktop waiter boundary diagnosis — 2026-10-22 ~08:18 UTC
+
+Root10021 completed FAIL/CLOSED; source/index unchanged. Both failures remain actual failures, no PNGs. The richer receipt proves the requested original condition was met inside the unchanged90s limit: wait began at149682.000ms, pending fulfilled with body=true/lod0/pending=false at233750.700ms (84.069s), deadline239682.000ms. Busy-renderer polling resumed at248466.300ms after the deadline and time-first loop exited/raised despite the model already ready. This is concrete evidence for a caller boundary repair, not a new model failure. Main app stays clean/pushed14323534e. ci_human_recovery is preparing a minimal deadline-aware completion-timestamp fix with negative controls; no larger90/540 cap, preload, forceLOD or runtime/source change. No further browser has launched. Root owns future release. Current handover below is the earlier RUNNING snapshot; this addendum supersedes only its10021 state.
+
+---
+
 # Current continuation — 2026-10-22, 08:15 UTC
 
 PR1175 is now COMMITTED/PUSHED at14323534e9493a3630ac9dcbe1b8daa1db3ae454, tree5d88d092719c44c379e66f75ac87cebaee52c783. Main checkout /workspace/chicago is CLEAN on steward/1835-workwear-repair-20261021. Parents are canonical source96c4 and current DEV00f4. Eight exact new Bardwell assets and their full16-file registry subset are safely on GitHub. Final full preflight2 PASSED1,042 steps/380 self-tests, changelog/IDs, postcommit publication and mirror2052exact/3125declared transforms/0unmapped. One built-in pooled step failed then passed its quiet rerun; report retained. First final preflight stale ignored Glessner prerequisite failure remains preserved in the prior checkpoint; exact current archive was materialized without repacking/source changes.
