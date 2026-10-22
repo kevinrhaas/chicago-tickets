@@ -124,3 +124,10 @@ This is the owner's next-family direction. Covered variants remain a separate fo
 ## Actual richer source-base inspection — 2026-10-22
 
 One original licensed OldCart13600b73 source-native inspection passed7.96s with three fixed front/quarter/side PNGs,0clipped/0errors, original root/materials/geometry/hierarchy unchanged, caller/browser closed. Root personally viewed richer timbergrain/joinery/rims/hubs/steeredaxle. Compact proof ea4ecbea is GitHub-backed in evidence/parked-vehicles-2026-10-22/checkpoint-779-final-ci-and-rendering-followups/. It is a development base only: originalauthor provides NO maker/date/region/prototype, so no1835/Dearborn/Studebaker attribution or actual replacement accepted. Metriccalibration/periodanalogue/clearance/optimizedLOD/actualtown acceptance remain open. No broadwagon closure.
+
+
+## Licensed close-view timber source candidate — 2026-10-22 23:40 UTC
+
+External candidate atlasV2 is saved in `evidence/parked-vehicles-2026-10-22/checkpoint-wagon-atlas-and-active-horse-gate/`, archive SHA256 `18df56c8dd9b3eafc86b199da071819aee7b64fd0ba06b5789544dd86eb4cd23`. Actual bounded build and independent geometry/material readback pass:12,104triangles/23meshes/23primitives/6materialdefinitions, exact original position/normal/index/pivots/paint/iron/covered-variant pins.16,176 serialized UV samples retain the previous candidate's native surface values. Prior crop/gamut failures and the higher-draw V1 remain preserved in the previous checkpoint.
+
+Only licensed modern timber pixels are transferred from Lyskilde/longtail's Old Cart, CC BY4.0; no donor geometry or purported historical maker/date is transferred. W01 remains a bounded reconstructed farm-box wagon, not an identified Dearborn. Original cut ends are disclosed project-authored material. Native donor crop145x40pixels does not establish photographic resolution. Atlas needs2576px texture support and dimension-estimated12,976,992bytes RGBA8+mips; GPU cost, coarser mip appearance, actual town near/far views and period/photo acceptance remain open. No active app replacement or broad ticket closure.

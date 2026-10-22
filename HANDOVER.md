@@ -2,6 +2,16 @@
 
 User authorizes parallel agents, periodic pushes and ordinary green DEV merges. Priority: land visible person PR1175, then parked carriage1213, horse1212 and covered-cloth1208. No production/admin merge/workflow changes. Photographic completion, riding and driving remain open.
 
+## Current checkpoint — 23:40 UTC
+
+Eight root claims remain active. Workplan table updated. New durable wagon atlasV2 capsule18df56c8 is in checkpoint-wagon-atlas-and-active-horse-gate; V1 remains separately preserved. No application activation or photographic acceptance. Actual unchanged geometry/primitives, exact rights attribution and13MB texture tradeoff are documented. Agent preparing minimal renderer/authoring intake externally, no candidate hunt.
+
+Horse canonical fresh rebuild completed PASS200steps, cycles, postpublish/mirror and protected-source pins. Exclusive fullpreflight76397 is ACTIVE on stagedtreec9e0b41b746de967d73765633702dac748178d63, HEADa086/MERGE_HEAD8fc. Horse owns heavy lane; no other local browser/publish/fullgate and no sharedorigin/dev advance. On actual PASS agent may commit/push draft1212 and HEAD/postpublish checks. Dependency1175/latest73 remain pending.
+
+1175 remains clean8f/unmerged; nativeautoOFF/rootlease RELEASED for supported selectedlap39871276267, active mainstep, no actual sourcepush asof23:39. Sole GET watchers: lap1975932/session19571; remaining old8f/8fcdesktop14s1972176/session99009. LatestDEV73 requires actual new source ancestry/normalCI and fresh14BOTH, already prepared held dispatcher. Original18 remains12PASS/6FAIL; originaldesktop13 strict160/0 complete. Repaired four strictPASS and focusedUI scoped observations complete, original timeouts remain FAIL. No broad rerun.
+
+Carriage ring16mid22238tri candidate is durable2a0e2154; agent now preparing minimal existing-renderer selector/LOD sourcepatch externally. Future1812/1904horse agent preparing a lightweight actual published-module review overlay/harness, flags remain inactive/worldfalse and finalhorseHEAD not guessed. No app mutation or new local browser released. Earlier control-state details below remain scoped to their timestamps.
+
 ## Latest control state — 23:26 UTC
 
 Original fe98 desktop13 ACTUAL strict PASS160/0, run39854587598/job120089360763, exact source/log required steps. Original18 now CLOSED12strictPASS/6realFAIL; complete capsule206e43db saved in newest checkpoint. All six failures remain real and are separately repaired, never overall18 PASS. Both viewport stage13 valid original observations are now available.
