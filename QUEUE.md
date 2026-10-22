@@ -50,6 +50,7 @@ T-1885 — Finish 1812 Wheeler shaped-gable house architecture
 T-2918 — 1811 Prairie's entrance porch from the 1888 plate: the open round-arched porch about 1.8 m wide and deep on clustered columns with carved capitals, the door set far back in it, and the stair between scrolled stone cheek walls
 T-2919 — 1811 Prairie's front fabric from the 1888 plate: the smooth ashlar of the bay's upper stage and the oriel over the rock-faced courses, the bay's canted north face, the oriel's square returns and its cornice down to the plate's 9.06 m, and the two front downpipes
 T-2920 — 1811 Prairie's roof and stacks from the plate and the photographs: the hipped mass over the bay with the lower south roof to the tall stack, the stack's corbelled cap and the range's second stack, the other pictures' cameras solved and every 1811 match record brought to matches (after the pieces before it)
+T-2984 — 1811 Prairie's porch south arcade from the 1888 plate: the entrance block's south return beside the porch arch opened as a small arcade of round-arched lights on colonnettes with carved capitals (x 467-507 px on the plate), and the stair cheeks' scrolls raised onto their foot blocks about 0.9 m up, where the build rolls them on grade (found by T-2918)
 T-2485 — 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
