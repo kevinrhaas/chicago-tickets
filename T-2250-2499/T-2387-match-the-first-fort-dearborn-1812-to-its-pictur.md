@@ -1,7 +1,7 @@
 ---
 id: T-2387
 title: Match the first Fort Dearborn (1812) to its pictures, every building in it
-state: claimed
+state: split
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-10-22
 pr: null
 claimed_by: run 10/22/2026, 5:44:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T22:46:12.274Z
 claimed_run: null
 claimed_at: 2026-10-22T22:44:38.087Z
 decision: null

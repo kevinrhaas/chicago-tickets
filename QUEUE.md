@@ -226,7 +226,8 @@ T-2383 — Match the Sauganash Hotel to its pictures
 T-2384 — Match St Mary's church to its pictures
 T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
-T-2387 — Match the first Fort Dearborn (1812) to its pictures, every building in it
+T-3040 — Render whole-fort reference groups with stale-review protection
+T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
