@@ -68,3 +68,15 @@ Pictures:
   `kimball_house_1801_prairie`: a18-cgy-1801-kimball-early (photograph, oblique front, undated (1890s)), a18-chicago-and-its-makers-1929-kimball (publication plate, oblique front, 1929 (photograph 1890s)), a18-rba-taylor-1801-kimball-c1895 (photograph, oblique front, c. 1895), dw-rb-inland-kimball-1801-entrance-plate (publication plate, detail, Inland Architect vol. XX no. 6 (Jan. 1893), photogravure edition), dw-rb-architects-club-house-kimball-1801 (publication plate, oblique front, n.d. (c. 1925–26; page [11] of an Architects Club/Sketch Club publication mentioning the Dec. 8, 1925 Dickey competition)), a18-cgy-1801-kimball-1945 (photograph, oblique front, 1945), a18-cgy-1801-kimball-doorway-1961 (newspaper item, detail, June 29, 1961), a18-gh-kimball-exterior-2013 (photograph, oblique front, 2013), a18-gh-kimball-porch-north-2013 (photograph, detail, 2013), a18-gho-simmerling-kimball-1994 (lithograph, oblique front, 1994), a18-kimball-habs-photo-01 (photograph, oblique front, June 1965), a18-kimball-habs-photo-02 (photograph, oblique front, June 1965), and 1 more in the library
 
 - kimball_house_1801_prairie
+
+## Found by T-3000 (2026-10-22): the mansard's curb and deck against the Taylor photograph
+
+Laying the cresting, the corner hood and the finials on the build's curb (T-3000) showed the curb
+itself off the print. At the front's north-west corner the print's curb stands about 35-50 px lower
+than the build's (the corner hip's top at about x 950, y 320 on the 1600 px print against the
+build's x 978, y 247), and the print's corner hip runs about 25-30 px west of the build's all the
+way down from the cornice. The front's deck ends at the print's x 1092, under its south finial,
+where the build's runs on to x 1187. Re-read the lower faces' rise and pitch and the deck's extent
+against the print (the queue was at its ceiling, so this is a finding here, not a ticket of its
+own); the cresting, hood and finials `mansard.deck` lays follow the curb when it moves. The match
+record's open difference names it.
