@@ -116,3 +116,8 @@ PR1174 actually merged DEV and four bounded tickets are done. PR1175 ad813 is pu
 ## Parallel source checkpoint — 2026-10-22 ~06:17 UTC
 
 Moving ad813 attempt2 SUCCESS after one unchanged diagnostic repeat; original failure retained, first_pass:false. Main app stays pushed/draftad813. Reviewed connected-waistcoat repair is frozen/uncommitted in isolated worktree while fullpreflight38322 runs; no freshcanonical or final18smokes yet. Latest carriageV12 portable and8sourceviews pass but coarsejoins/photoopen; latest horse d356 structural+4view passes but photographic appearance rejected; covered main phases held. Full sourcepatch/finite controls/actualmodel comparisons and handover are durable in `evidence/parked-vehicles-2026-10-22/checkpoint-waistcoat-source-gating-and-models/`. No whole photographic ticket closure.
+
+
+## Actual parallel checkpoint — 2026-10-22, approximately 07:00 UTC
+
+Human shoulder source96c4da4b is committed/pushed after full1,042/380 preflight PASS. One canonical run39736567239 is active; actual masters/exports and initial mechanical checks passed, final artifact/browser/seated qualification pending. Main PR1175 stays draftad813; no final-head18smokes. V13 carriage raw/portable join repair passed; main-lighting caller fix and actual V13 preview remain pending. Horse whole silhouette has actual geometry/four-view passes but is photographically rejected; no installation or whole-ticket closure. Covered mobile eight-image phase4192 is active. See `evidence/parked-vehicles-2026-10-22/checkpoint-source96c4-canonical-running-and-V13/STATE.md` for hashes, failures, ownership and exact next steps.

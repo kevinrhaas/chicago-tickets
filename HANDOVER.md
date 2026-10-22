@@ -1,3 +1,17 @@
+# Current handover — 2026-10-22, approximately 07:00 UTC
+
+Human shoulder repair is now COMMITTED/PUSHED as `96c4da4b1fe68e6dec3b18c15da2f14c596a60c5`, validated tree `686c475e41c556beaab90d1782057240094d27d0`. Full preflight2 PASSED1,042 steps/380 self-tests, changelog, IDs and mirror. The first failed run is retained; its sole missing measured-step catalog entry was fixed through the supported tool. The isolated checkout `/workspace/chicago-waistcoat` and its branch remain frozen. Main checkout/draft PR1175 remain clean atad813.
+
+ONE canonical build is running: https://github.com/kevinrhaas/chicago/actions/runs/39736567239 . Exact96c4, attempt1, both study flags true. Fixture job SUCCESS; all three masters/portable exports, hierarchy, animation-time, hair/LOD and container checks passed; actual source/published inspection, seated/W01 and artifact qualification remain pending. Agent ci_human_recovery owns observerPID1074764/exec56339 to07:52:30UTC. No duplicate dispatch/rerun/cancel/ref movement. Root owns later actual eight-asset intake, metadata/complete16-file measurement subset, full final preflight, current-head CI/smokes and final town phases before DEV merge. No18 final-head smokes yet. T1789 and photographic fit remain open.
+
+PR1174 is actually merged and T2792/T2799/T2979/T2981 are DONE. V13 Brougham raw and portable outputs now pass the two measured join repairs;464 other parts/nodes/materials/anchors/bounds retained. Actual V12 main preview failed its light-position helper before images; a source-defined sun-follow repair and V13 repin remain prepared/unrun. Horse whole silhouette2fa2 has actual structural/four-view passes but is still photographically rejected; no installation. Root asked optionally about an existing licensed high-detail base/connection while continuing independent work. Source/PBR/groom plan is saved, no new horse build.
+
+Current sole local browser is covered-cloth MOBILE phase4192, eight planned images; RUNNING here. Desktop Western4 and Oak4 remain held. Do not run another browser/heavy gate until closure. Main input pins remainad813/index76a3. Active claims: T1789, T2794, T2800, T2980; T2800 renewed06:45. Renew OWN T1789 before07:23 and PR1175 lap before07:29. Queue order unchanged; no broad false closure, production promotion, admin merge or workflow changes.
+
+Latest durable proof and exact continuation instructions: `evidence/parked-vehicles-2026-10-22/checkpoint-source96c4-canonical-running-and-V13/STATE.md`. This supersedes earlier uncommitted-source and earlier model-running snapshots, whose actual failures remain historical evidence.
+
+---
+
 # Current work and ownership — 2026-10-22 ~06:17 UTC
 
 PR1174 is merged DEV and T2792/T2799/T2979/T2981 DONE. Main app PR1175 remains pushed ad813/draft. Actual moving attempt2 now SUCCESS after one diagnostic repeat, both flora+32phonechecks; first_pass:false and original failure remains immutable. Actual mobile town PASS; original desktop overall partial/deadline FAIL remains. No18smokes yet.
