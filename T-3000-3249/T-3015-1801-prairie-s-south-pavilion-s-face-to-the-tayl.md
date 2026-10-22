@@ -1,7 +1,7 @@
 ---
 id: T-3015
 title: 1801 Prairie's south pavilion's face to the Taylor photograph, its north edge and its heights: the face from the bow's junction (v 6.85) to the south corner, still 0.6 m proud (its window recesses, 0.55 m, and the main eave's gutter, its lip 0.46 m out, hold it there), the third storey's pair raised under the frieze (sill 9.6 m, head 11.45 m) and the wall top and gable lowered to the print's springing (13.2 m) and apex (about 16.2 m)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2999
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1197
 claimed_by: run 10/22/2026, 9:18:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T15:49:38Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39790410192
 claimed_at: 2026-10-22T14:19:00.019Z
 decision: null
