@@ -1,7 +1,7 @@
 ---
 id: T-2794
 title: Build one photographic period passenger-carriage master
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: carriage model completion agent 10/21/2026, 9:57:53 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-22T02:57:55.032Z
 decision: null
 decision_answer: null
 ---
