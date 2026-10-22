@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: root continuing own PR1175 standing-person integration and photographic work 10/21/2026, 11:23:20 PM CT
+claimed_by: root continuing own PR1175 human repair and final canonical integration 10/22/2026, 2:09:12 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T04:23:21.602Z
+claimed_at: 2026-10-22T07:09:13.365Z
 decision: null
 decision_answer: null
 ---
