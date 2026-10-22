@@ -1,7 +1,7 @@
 ---
 id: T-2981
 title: Calibrate Full confidence-view draw and triangle ceilings
-state: claimed
+state: review
 epic: RENDERING
 requested_by: steward
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-21
 closed: null
-pr: null
+pr: 1174
 claimed_by: run 10/21/2026, 7:52:51 PM CT
 blocked_on: null
 needs_bake: false
