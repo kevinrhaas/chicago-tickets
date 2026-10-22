@@ -1,7 +1,7 @@
 ---
 id: T-2900
 title: 1801 Prairie's east range finished on K01: the north-east turret turned round the wing's corner with its eaves at the range's own (the Taylor photograph's; T-2842's tower past a wing's eave cannot carry it), and the range run the 1911 sheet's full v 0-18.3 behind its 6 m gabled section (a K01 wing longer than its host wall), each a kit piece laid on 1801
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-19
-closed: null
+closed: 2026-10-22
 pr: 1181
 claimed_by: run 10/21/2026, 11:08:49 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T10:06:10Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39720207730
 claimed_at: 2026-10-22T04:08:49.995Z
 decision: null
