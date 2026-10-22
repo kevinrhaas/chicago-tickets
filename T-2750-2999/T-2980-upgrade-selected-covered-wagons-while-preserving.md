@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 17:47 UTC
+
+Covered-wagon sag refinement remains outside app and photographically unaccepted; prior whole-mobile timeout and separate remaining views are not relabeled a whole pass. Existing distinct variants remain in DEV from1174. Current source/checkpoint and remaining integration are in HANDOVER.
+
+
 ## Scope and acceptance
 
 Owner, 2026-10-21: as better covered wagons become available, replace older covered examples while retaining their deliberate differences so they do not look like clones. This is a bounded static covered-model increment beside T-2793, whose master acceptance is farm-box only. It does not close the parent photographic-quality, animation, horse or boarding requirements.

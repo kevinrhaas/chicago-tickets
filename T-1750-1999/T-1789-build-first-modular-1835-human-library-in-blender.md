@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 17:47 UTC
+
+Bardwell person integration checkpoint4dee6d5 is pushed with full1047 preflight and postcommit publish/mirror PASS. PR1175 remains unmerged against advanced DEV. New restrained head/pelvis/planted-foot idle is a source proposal with actual-skin proof, not a canonical export or photographic completion. See current HANDOVER and checkpoint-4dee-pushed-idle-and-team-work.
+
+
 ## Current parallel delivery —2026-10-21
 
 Claimed for human_recovery. The old normal-recovery failure is superseded: PR1099 actually merged64ad57ee on20Oct and canonical39414040843/39442643176 passed technical gates. Actual exported Glessner and Bardwell images now downloaded/viewed show exposed shoulder/thigh seams, poor shoes and eyes; technical green is not photographic acceptance. Do not place these poor figures in the town. A focused1835 workwear repair source patch bbf3553f repairs welded seams/per-cornerUV, clipped vest, actual source-foot enclosure without hidden anatomy, subtle weave and original sclera/iris/pupil. Independent source review passed; capsule f80fab1c is saved locally and due in next evidence backup. Real canonical/export/sole/source+published visual validation still pending. Original raw0.001 normal/probe/identity/rig/socket/animation guards remain.

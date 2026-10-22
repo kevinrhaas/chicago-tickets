@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 17:47 UTC
+
+Concrete W01/current-horse/Bardwell team-adapter source and rolling/steering CPU proof are frozen/backed. liveActivationAllowed remains false. Actual four-limb gait, harness/doubletree/traces/reins, driver garment/seat/shoe/palm contacts and world/mobile proof remain open.
+
+
 ## Depends on
 
 T-2793, T-2794, T-2801, T-2803. Read each dependency before claiming; do not silently skip its proof.

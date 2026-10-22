@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 17:47 UTC
+
+A first filtered head/tail idle derivative2f590ee3 exists outside app. Independent new-curve/structural checks pass; whole glTF validation FAILS with inherited90 errors/15900 warnings. Both complete reports and V2 failure/V3 source correction are preserved. Separate normalization SOURCE is under review, not executed. Actual Mixer/full-surface/visual and four-limb walk remain open.
+
+
 ## Depends on
 
 T-2800. Begin bare-horse rigging independently; the gear-contact subgate waits on T-2801/T-2802 but does not prevent skeleton and gait work. Read each dependency before claiming; do not silently skip its proof.

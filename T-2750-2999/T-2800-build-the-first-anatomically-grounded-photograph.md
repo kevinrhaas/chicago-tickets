@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 17:47 UTC
+
+Standing-horse development source0b051fd is pushed and actual published desktop/mobile yard checks pass. The integrated secondary source remains staged/uncommitted at b092. Static horse placement is not photographic, idle, gait, gear or riding completion. See current HANDOVER.
+
+
 ## Depends on
 
 T-2799. Read each dependency before claiming; do not silently skip its proof.

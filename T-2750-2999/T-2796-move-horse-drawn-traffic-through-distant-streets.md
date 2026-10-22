@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 17:47 UTC
+
+Frozen route source/capsule backed:503.190m/667.787s Randolph east→Clark north→Lake west→LaSalle south,17m corners within8-degree steering. Worked-earth/ROW/dry/obstacle coarse checks pass; worn7m core mask FAIL−3.600m is preserved. Explicit reconstructed-shoulder/corridor ruling and actual animated swept-bound/world/mobile proof still required.
+
+
 ## Depends on
 
 T-2795, T-1792. Read each dependency before claiming; do not silently skip its proof.
