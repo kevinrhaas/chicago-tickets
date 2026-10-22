@@ -5,7 +5,7 @@ state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-2545
 opened: 2026-10-22
@@ -34,3 +34,12 @@ When T-2545 was split (2026-10-22T19:08:22.850Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39832947411) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+Every open item in the Levy match record and in the c. 1955 record fixed or argued, the rear read from the 1911 sheet, and both records at `matches`.
+
+## Image gate
+
+The building closes here (AGENTS.md rule 11): every view below must be `matches`.
+
+- wheeler_house_1812_prairie
+

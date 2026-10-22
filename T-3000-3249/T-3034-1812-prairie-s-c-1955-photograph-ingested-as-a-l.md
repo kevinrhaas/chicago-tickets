@@ -34,3 +34,6 @@ When T-2545 was split (2026-10-22T19:08:22.850Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39832947411) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+A camera solved on the c. 1955 photograph (the image store's a18-cgy-1812-wheeler-c1955, link only, 554 x 900 px) from the front's own control, and its match record written: every difference the photograph shows listed, with what is later than 1904 (the photograph is fifty years after the scene) said so. The south flank it sees obliquely and the two stacks (one on the south wall at the front, one behind the north shoulder) read and built, or ruled later.
+
