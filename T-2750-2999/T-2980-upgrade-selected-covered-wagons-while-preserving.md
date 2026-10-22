@@ -1,7 +1,7 @@
 ---
 id: T-2980
 title: Upgrade selected covered wagons while preserving their distinct finishes
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: covered-wagon agent 2026-10-21 10/21/2026, 4:21:16 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-21T21:21:17.707Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -53,3 +53,5 @@ Two covered near-native models now preserve each original ID, seed-based finish 
 **Source saved and pushed — 2026-10-22 00:17 UTC:** Commit `0a037632481037dcc903fa11697da5681b519f80` and draft [PR1176](https://github.com/kevinrhaas/chicago/pull/1176) preserve both distinct seeded finishes, old stands/bearings and yokes. Full1040-step/380-selftest preflight, exact own changelog/ID checks, postcommit publish and mirror check PASS. Committed proof in `evidence/parked-vehicles-2026-10-22/checkpoint-covered-committed/`. Stacked base is parked topic while PR1174 is red; do not merge into topic. Eventual DEV retarget/reconcile/gate required after parent qualifies. Full photographic/LOD acceptance remains open; no `done`/false parent closure.
 
 **Consolidated source pushed — 2026-10-22 01:26 UTC:** Covered0a037 is now included in vehicle PR1174 at e694849a2c516a9862a2564c5ff86d97406e09ab with T2981 Full Ghost calibration. PR1176 was retargetedDEV then closed UNMERGED as superseded; no topic merge. Combined1041/380preflight and exact checks/postpublish/mirror PASS;18fresh exact-head smoke jobs dispatched once, still unqualified. Current checkpoint-e694849a2-pushed preserves actual receipts. Full photographic/compressed-LOD/occupied acceptance stays open; this partial increment does not close T2980.
+
+**Released 2026-10-21** (claim of covered-wagon agent 2026-10-21 10/21/2026, 4:21:16 PM CT): Both distinct covered source models are pushed in PR1174; full photographic finish, compressed LOD and occupied acceptance remain open for the next refinement. Partial source is not ticket completion.
