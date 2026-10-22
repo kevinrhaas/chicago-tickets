@@ -1,181 +1,109 @@
-# T-2792 — vehicle master specification, first pass
+# T-2792 — vehicle evidence and first-master handoff
 
-Parent epic: T-2791. Date: 2026-10-18. Status: **design artifact only**; no new
-vehicle geometry, glTF export, historical photo match or runtime integration has
-been completed by this document. Research context: [carriages.md](carriages.md).
+Research handoff,22 October 2026. This specifies the next modeling work; it does not certify finished geometry, photographic quality, animation, riding or boarding. [carriages.md](carriages.md), [inspected-image-register.json](inspected-image-register.json) and [existing-vehicle-inventory.json](existing-vehicle-inventory.json) bind the evidence and existing asset bytes. T-2793/T-2794 retain their own actual-model acceptance.
 
-## First masters and the evidence boundary
+## Build choices and chronological limits
 
-**W01: reconstructed 1835 farm-box wagon.** Begin with the committed wagon form in
-`chicago/chicago/4d/data/yard/town_trade_goods.json` and mechanics in
-`renderers/web/js/yard.js`. Make a portable articulated master of the existing
-declared reconstruction. This is an implementable first static vehicle and a
-compatibility target for current placements. It is not a replica of a particular
-surviving wagon. No rights-pending photograph needs to be traced or sampled.
+|Choice|Construction basis and identity|Eligible use and remaining gaps|
+|---|---|---|
+|First static compatibility wagon: W01|Existing project-original farm-box reconstruction; GPL geometry, original CC0 procedural material pixels. Existing3.05×1.07×0.55 m body and running gear; no photograph tracing required.|1835 reconstructed type at existing stands. Maker, owner, specimen, exact timber species/finish and1835 presence at any specific stand are unproved. Never rename it Studebaker, Dearborn or Conestoga.|
+|First documented passenger-carriage target: Studebaker1893 Brougham|Actual 1893 first-party color lithograph, IA illustratedsouve00stud leaf 0095; public-domain publication. Source record `studebaker_1893_illustrated_souvenir` explicitly permits geometry derivation within its limits.|1904 type reconstruction from a model documented before 1904. No particular local household owner, survival or unchanged1904 production is established. Pair-team/pole arrangement; not the C02 single-shaft chassis. Opposite side/interior/measured dimensions remain reconstruction.|
+|First numbered historical wagon target after W01: Studebaker Farm Wagon No4|Same cleared1893 catalog, leaf 0103. Actual green lined box, red running gear/wheels, sprung driver's seat and paired team viewed.|Separate 1904 master, not a1835 replacement. Carry documented model number and visible design; absolute dimensions, hidden construction and placement remain bounded reconstruction. No independent sales/popularity ranking established.|
+|Current C01/C02|Original open/enclosed1904 technical studies, unbranded. C02 is an available static generic parked example, with closed-door/shaft-rest presentation.|Reusable rig/export/picking and technical control; neither is an exact Studebaker, Harvey or Pullman specimen. Retain names/provenance. Refining C02 does not turn it into the catalog brougham without a new actual source comparison.|
+|Dearborn passenger wagon|Kinzie1856 pp297/302 describe John Harris Kinzie's1831 purchase of Kercheval's light dearborn wagon and pair of travelling horses.|Distinct light-passenger design follow-up; no identified manufacturer or measured pre1835 appearance comparator yet. This is not1812 evidence. The text alone cannot specify its roof, curtains, springs or photographically correct silhouette.|
+|1812 baggage wagon|Kinzie1856 retrospective pp210/221 establish baggage-wagon narrative, maker unknown.|An independently bounded utilitarian reconstruction may be proposed; no imported1831 Dearborn or1893 manufacturer badge. The Smithsonian Conestoga is a type comparator with a replica cover, not proof of local1812 use.|
 
-**C01: reconstructed open four-wheel passenger-carriage study for 1904.** Use an
-independently designed procedural prototype with a single-horse shaft interface,
-two-person seat and front steering assembly. Its first numeric envelope below is
-an engineering starting point, explicitly reconstructed, not measured from the
-Clarke/Chrimes or other rights-pending photographs. The selected open-carriage
-family is motivated by the reviewed local evidence, but no pixels, silhouettes,
-decorative designs, textures or extracted measurements from those photographs
-are authorized as asset inputs. Source/rights work should then select an eligible
-documented subtype and revise the study before a period-accurate or photographic
-quality completion claim. Do not name it a Pullman, Chrimes, manufacturer or museum
-replica. The Pullman-location enclosed carriage is a later distinct candidate,
-pending high-resolution identification; it is not silently converted into C01.
+Rights-pending J.P.Smith ICE, Harvey-frontage and Clarke/Chrimes images remain text citations and reference leads only. No tracing, extracted measurements, livery reproduction or sampled textures from those images is an approved asset input. LoC Pullman-location metadata is freshly verified, but higher-resolution pixels remain unavailable; no maker/type/owner is invented to fill that gap.
 
-This sequence permits useful geometry and rig development while source precision
-improves. Neither missing dimensions nor missing ownership attribution stops an
-honestly labeled independent reconstruction. Rights-pending source derivation
-remains excluded.
+## Reuse and current numerical ledger
 
-## Parameter and material ledger
+Retain T-0084's narrow tongue, T-0087's bolsters/reach/hounds/kingbolt and T-2121's individual planks and deterministic coat families. Preserve terrain support, stand-refusal rules, stable instance IDs, bearings, tilt/yoke configuration and per-ID variation. Do not regenerate80 identical clones or replace a freight stand with a passenger coach.
 
-All numbers are metres unless stated. Bounds below are prototype design envelopes,
-not statistical historical confidence intervals. `attested` is reserved for a
-source actually stating a value; none of the carriage dimensions below earns it.
+The current committed data holds80 trade wagons:25 farm_box,17 covered,38 cart, plus one separate two-wheel hogshead water cart. These are record counts, not camera-visible counts. Seventy-one are categorized at street verges and six in yards; do not force the remaining three into either category. Current parked data replaces three farm-box stands and two covered stands in 1835 and adds one reconstructed1904 carriage. Exact six placements/bearings/coordinates and all 80 legacy IDs are in the inventory. Water-cart `water_cart_randolph` stays separate at ENU[1220,-262.4], bearing90.5°.
 
-| Master / attribute | First value / rule | Evidence tier and basis | Replacement trigger |
-|---|---|---|---|
-| W01 box length × width × side height | 3.05 × 1.07 × 0.55 | Reconstructed; existing data declares these numbers invented. | Documented eligible wagon measurement plus an explicit decision to revise legacy proportions. |
-| W01 rear/front wheel diameter | 1.37 / 1.07 | Reconstructed legacy renderer values. | Same; retain wheel/contact relation when changed. |
-| W01 bed datum | 0.95 | Reconstructed legacy renderer value, not historical ground clearance. | Verified mechanical section and rebuilt running gear. |
-| W01 axle fore/aft offsets | ±(3.05/2 − 0.35) = ±1.175 | Derived implementation value; historical tier remains reconstructed. Wheelbase 2.35. | Measured running gear or an explicit prototype revision. |
-| W01 tongue length | 2.75 | Reconstructed legacy renderer value. | Period-compatible hitch study; no unsupported claim that every team fits. |
-| W01 track | Read exact hub/wheel offsets from existing builder, record separately from body width. | Reconstructed implementation-derived; do not mistake 1.07 box width for track. | Export of a numerically audited prototype. |
-| W01 running gear | Bolsters, reach, hounds, kingbolt retained as separate functional assemblies. | Existing code supplies reconstructed sections and derived placements; T-0087 explains the construction. | Verified measured detail, without regressing support/contact. |
-| W01 timber/paint/iron | Procedural timber with existing deterministic coat selection; iron hardware as a separately declared material. | Reconstructed; no particular Chicago wagon's wood species, paint color or iron finish established. | Eligible primary color/material evidence. |
-| C01 body envelope, excluding shafts/wheels | 2.20 long × 1.20 wide; editable range 1.90–2.60 × 1.05–1.45 | Reconstructed design envelope for prototype seat and running gear; not a photograph measurement. | Dated catalog, measured museum vehicle or another eligible technical source. |
-| C01 wheelbase | 1.90; editable range 1.60–2.20 | Reconstructed engineering choice within current body envelope. | Same. |
-| C01 wheel-center track | 1.40; editable range 1.25–1.60 | Reconstructed engineering choice, independently parameterized. | Same; solve wheels, body clearance and turn envelope together. |
-| C01 rear/front wheel diameter | 1.10 / 0.90; range 1.00–1.30 / 0.80–1.10 | Reconstructed first geometry; no established manufacturer/type inference. | Same. |
-| C01 footwell/seat top above ground | 0.55 / 1.00, subject to collision/occupancy study | Reconstructed ergonomic prototype datums, not historical dimensions. | Measured vehicle and portable-human seating test. |
-| C01 usable seat width/depth | 1.00 / 0.45 | Reconstructed two-person prototype; occupants are not shipped by this parcel. | Human contract + eligible vehicle section. |
-| C01 shaft length and spacing | 2.20 ahead of front gear; 0.75 inner spacing initially, both editable | Reconstructed coupling study only. Horse clearance must determine final values; do not scale the horse to fit. | Horse/harness rig integration and period source. |
-| C01 suspension | Independent spring placeholder with front/rear attachment metadata; no named spring design claimed. | Reconstructed study; historical construction unresolved. | Dated measured reference before faithful finished carriage acceptance. |
-| C01 wood/metal/upholstery/paint | Separate procedural material slots; neutral dark paint and unpatterned upholstery for inspection. | Reconstructed choices. A monochrome image cannot attest pigment or upholstery hue. No source-image texture. | Rights-cleared period material/color evidence or explicit bounded reconstruction decision. |
+|Existing output|GLB bytes|Triangles|glTF primitives*|Estimated RGBA8+mips|
+|---|---:|---:|---:|---:|
+|W01 portable study|793932|10792|22|0|
+|W01 driver-bench study|817220|11032|23|0|
+|C01 open study|770892|10416|27|0|
+|C02 enclosed study|860956|11512|31|0|
+|Parked W01|1926852|12104|23|6291456 B|
+|Parked C02|1844804|12228|31|3145728 B|
+|C02 shaft rest, separate|6960|60|1|0|
+|Covered W01 blue / oak|2970424 /2970420|17292 each|26 each|8388608 B each|
 
-Do not copy generated assets into `assets/` without the project's license entry and
-per-attribute provenance/liberty records. Distinguish a license for our authored
-mesh/materials from the rights on reference photographs.
+*Primitive counts are source inventory, not measured driver draws. Shadows, confidence passes, instancing/batching and transparency can change actual work. Texture figures are dimension-based estimates, not GPU allocations. Current files do not provide accepted separate near/mid/far LODs. Full/Balanced/Light parked reach100/65/0 m and legacy fallback are distance/tier policy, not proof of a completed LOD set. The 22 October CI source-reproduction failure and repair are tracked separately; these inspected existing bytes do not establish cross-machine regeneration or qualify any later CI run.
 
-## Coordinate and glTF interface
+All following dimensions are metres. W01 values are reconstructed legacy choices: body3.05×1.07×0.55; bed top0.95; wheelbase2.35; track1.21; front/rear radii0.535/0.685; tongue2.75. Cart body1.98×1.07×0.50, wheel diameter1.42, bed0.86, shafts2.44; hogshead1.22×0.84×0.70. No source measures these particular Chicago vehicles.
 
-Match `docs/HUMAN-ASSET-CONTRACT.md` and the parallel horse contract: glTF right
-handed, Y up, forward +Z, travel/anatomical left +X; metres baked into vertices;
-node scales `[1,1,1]`. Root is ground level at the midpoint between front and rear
-axle stations, with the straight-running wheel-center line symmetric across X.
-If axle radii differ, each axle's Y is its own unloaded radius. A heading in the
-project's geographic bearing convention maps to actor yaw
-`Math.PI - headingDeg * Math.PI / 180`. Verify with the actual loader before shipping.
+C02 reconstructed reference envelope is cabin(width,length,height)[1.32,1.70,1.44], wheelbase1.90, track1.40, radii0.45/0.55, shafts2.20 with0.773 inner tip spacing, supported study steering8°. Its generator validates wheelbase1.6–2.2, track1.25–1.6, front radius0.4–0.55, rear0.5–0.65 and shafts1.8–2.6. These are engineering bounds, not historical confidence intervals.
 
-Proposed stable node names (not claims about existing files):
+The saved Studebaker Brougham v10 proposal has reconstructed wheelbase2.30, track1.34, radii0.528/0.650, body half-width0.585, driver bench width/depth1.08/0.39 and pole2.65. They are reproducible proposal inputs, not a catalog's measured metres or accepted geometry. Its roof revision is explicitly UNRENDERED; reuse its source controls and parameter history rather than claiming another completed master. Whole-body dimensional scale remains nonunique from one lithograph. Resolve scale with eligible measurements or retain a stated reconstruction interval before a scene release. Farm No4 may initially reuse the W01 engineering envelope as a declared scale hypothesis; change its source-visible body/seat/gear design and preserve uncertainty rather than infer exact scale from the printed art.
+
+## Components, mechanics and material work order
+
+1. Build separate body/floor/plank or cabin panels, rear axle/bolster, reach, front hounds/kingpin/forecarriage, individual wheels/hubs/felloes/tyres, drawgear and seats. Body must have a physical support path through the gear. Distinct translucent glazing stays separate from opaque painted panels; no double surfaces or fake opaque windows hiding an open cabin.
+2. Place each wheel pivot at the axle center, axle localX, roll aboutX with explicitly tested forward sign. Front forecarriage pivots aboutY at its kingpin. Test wheel/body/pole swept clearance to the stated limit; preserve actual C02's8° limit rather than the obsolete generic±25° proposal. Whole-axle steering is not automobile Ackermann steering.
+3. W01 uses a team tongue; C02 uses two shafts for one horse. The documented Studebaker Brougham/No4 plates show a pair/pole. Separate configurations, hitch-ready angles and force/clearance envelopes must be represented explicitly. Do not attach a horse to a tongue resting on the ground.
+4. W01 original procedural wood/paint/iron can be reused within its license. Species, pigment, wear and gloss are reconstructed. The Brougham plate documents depicted dark green/black panels, thin dark wheel elements, lamps/glazing and brown driver upholstery/lap robe; it does not identify actual pigments or every empty-seat surface hidden by people. No sepia/monochrome local photograph establishes color. Farm No4's illustrated green box/red running gear/lining are a distinct catalog appearance, not a paint instruction for 1835.
+5. Door/lamp/spring/joinery details visible in the selected plate get individual source-attribute entries. Hidden mechanical geometry receives bounded reconstruction notes. Occupant-facing seats, footboards, boarding steps and door clearances need a later portable-human fit pass before any capability is advertised.
+
+## Portable frames and coupling handoff
+
+Metres; glTF right-handed,+Yup,+Zforward,+Xtravel/anatomical left; scale[1,1,1]. Root is ground at midpoint between axle stations. Geographic ENU(E,N) maps to world(X,Z)=(E,−N), yaw=π−bearingRadians. Treat every socket as a transform relative to its declared parent, never an unexplained world-space vector. Actor controls root motion; clips do not translate the world root.
+
+Actual existing W01 hierarchy and straight-pose local frames:
 
 ```text
 vehicle_root
   vehicle_body
-    vehicle_seat_driver
-    vehicle_seat_passenger_01
-    vehicle_board_left
-    vehicle_board_right
-    vehicle_camera_ride
-  vehicle_running_gear_rear
-    vehicle_wheel_rear_left
-    vehicle_wheel_rear_right
-  vehicle_steer_front
-    vehicle_wheel_front_left
-    vehicle_wheel_front_right
-    vehicle_drawgear
-      vehicle_hitch_single
-      vehicle_hitch_team
-  vehicle_collision
+    vehicle_seat_driver                [0,1.58,0.65]
+    vehicle_driver_foot_left/right      [±0.18,1.12,1.19]
+    vehicle_seat_passenger_01           [0,1.15,-0.45]
+    vehicle_board_left/right           [±0.85,0,0.50]
+    vehicle_camera_ride                 [0,1.80,0.20]
+  vehicle_running_gear_rear             [0,0.685,-1.175]
+    vehicle_wheel_rear_left/right       [±0.605,0,0]
+  vehicle_steer_front                   [0,0.535,1.175]
+    vehicle_wheel_front_left/right      [±0.605,0,0]
+    vehicle_tongue                     [0,0,0.35]
+      vehicle_hitch_team               [0,0,2.75]
+    vehicle_hitch_single               [0,0,0.35] RESERVED, unsupported
+  vehicle_collision                    metadata only until validated
 ```
 
-This is a conceptual hierarchy. Preserve real mechanical attachment if evidence
-requires a body-mounted shaft, independent pole or different front gear: declare
-the difference in metadata rather than forcing an incorrect hierarchy. Hidden
-boarding/seat/hitch nodes are empty transforms, not source-authenticated hardware.
+W01 team socket is[0,0.535,4.275] in root space only with straight/unpitched tongue. Parked loader rotationX=+0.18578444683082146 lowers it near the ground; that display pose is not a hitch-ready coupling. W01 passenger/boarding/camera sockets do not prove occupied interfaces have been released.
 
-- Wheel pivot: wheel center, axle local X; rolling rotation around X. Record
-  signed rolling convention per node and verify forward travel visually. Do not
-  assume mirrored node transforms preserve the same sign.
-- Steering pivot: kingpin local Y; initial wheels straight at angle zero.
-  Provisional steering limit ±25°, marked reconstructed, then reduced if the swept
-  wheels collide with the body. Do not claim ±25° is a measured historical limit.
-- `vehicle_hitch_single` and `vehicle_hitch_team`: +Z toward horses, +Y up; metadata
-  identifies selected hitch, unloaded/loaded pose, attachment height, spacing and
-  compatible harness family. An unused interface is disabled, not a second visible
-  hitch. Wagon tongue/pair and carriage shafts/single are separate configurations.
-- Vehicle root translation is actor driven; clips do not move the root. Wheel
-  rotation derives from path distance `angle = distance / radius`. Front steering
-  follows a mechanically bounded turn solution. Body pitch/suspension and pole/shaft
-  movement must not fight the horse root transform.
-- Rig namespace stays `vehicle_*`; horse nodes stay in the horse namespace. A
-  coupling record maps frames; no animation looks up another asset's guessed bone.
-- Suggested sidecar fields: `asset_id`, `revision`, `scene_eligibility`, `units`,
-  `forward_axis`, `root_datum`, `wheelbase_m`, `track_m`, `wheel_radii_m`,
-  `steer_pivot`, `steer_limits_deg`, `hitch_profiles`, `seats`, `boarding_points`,
-  `collision_shapes`, `materials`, `lods`, `source_attributes`, `liberties`.
+C02 forecarriage[0,0.45,0.95] contains identity `vehicle_drawgear`; its single hitch local[0,0.30,2.20] is root[0,0.75,3.15] in the straight pose. Driver seat root[0,1.32,0.86], passenger seats[±0.24,1.155,−0.68], boarding[±0.85,0.38,−0.12]. Its closed parked presentation does not enable boarding. Covered W01 descendants retain inherited socket names but explicitly mark hitch/driver/passenger/boarding/camera/collision/driver feet `covered_empty_interface_supported:false`; bench and footboard donor geometry were removed. Never infer capability from those names.
 
-## Measurable acceptance matrix
+A coupling sidecar must name `vehicle_asset_id`, vehicle/harness revisions and hashes, selected `profile_id`, vehicle socket and parent, horse named root/frame mapping, hitch-ready local pose, team lateral offsets, collar/trace/shaft/pole clearances, `seats` with pelvis/foot/hand/rein frames, collision envelopes and explicit capabilities. Horse rig names remain in its own namespace. T-2799 owns the anatomical fit; no horse/vehicle scaling to conceal mismatch. Team traces/evener/breastcollar/full collar and single-shaft tugs/breeching are distinct profiles; a photograph showing one is not a complete force diagram. Driver/rider reuse attested/inferred/reconstructed people under current depiction rulings; no invented named likenesses.
 
-Thresholds are proposed engineering criteria for implementation review, not claims
-that a check already exists or passed. Evidence-sensitive values remain adjustable
-before implementation; completion must report the actual measured results.
+`vehicle-master-handoff.json` is the concrete engine-neutral input/receipt checklist. Required sidecar fields are asset/revision, source attributes/rights/liberties, scene bounds, units/axes/root datum, wheel centers/radii/roll signs, steer pivot/limits, hitch profiles, material slots, LOD records, collisions, seat/boarding capabilities. `false`/unvalidated capabilities remain unavailable in the visitor UI.
 
-| Gate | Measurement / required result |
-|---|---|
-| Provenance | Every modeled attribute has a tier and source or bounded liberty; zero invented citations; zero rights-pending image-derived texture/tracing inputs. |
-| Units/root/axes | Inspector reports metre units, scale1, +Z forward, Y up; ground root and declared axles agree with generated data within 1 mm. |
-| Dimension fidelity | Exported envelope, wheelbase, track, wheel radii and sockets agree with chosen parameter values within 1 mm; reconstructed does not mean arbitrary export drift. |
-| Mechanical static integrity | Wheels touch flat ground within 2 mm in unloaded inspection pose; zero unsupported floating box; every axle/body connection visible or declared hidden member. |
-| Steering | Sweep zero to both declared limits; no wheel/body or shaft/body mesh collision; report actual limit and swept footprint. |
-| Rolling | On a straight ten-wheel-circumference test, each wheel turns ten revolutions within 0.1%; no visible skating. This is a later animation gate, not static-master completion. |
-| Coupling | Selected horse/harness sizes fit at walk-ready pose without scaling either asset; record collar/trace/shaft/pole clearances and any reconstructed adjustments. Later integration gate. |
-| Static migration | Instance IDs/counts/coordinates/kinds/paint seeds remain equal to the committed baseline unless an explicit reviewed migration states every change. |
-| Visual review | Same-camera near (approximately 3 m), mid (15 m), distant (60 m) renders; inspect wheel/suspension silhouette, joinery, material response and aliasing. Record focal length and actual distance. |
-| Photo fidelity | When an eligible documented reference is selected, compare actual pixels at a solved/declared camera and log unresolved visible differences. Prototype renders cannot close photographic-quality acceptance. |
-| Budgets | Record triangles, materials, draw calls, bytes and peak visible instances for each LOD on desktop/mobile; propose budget after measurement rather than weakening period detail silently. |
-| Boarding | Empty sockets accessible and collision-tested before humans; visible seating/riding only after human/horse dependency checks and applicable depiction rules. |
+## Executable next-ticket acceptance
 
-## Preserve and migrate the static wagon layer
+Authoring commands run from `chicago/4d`; use a new external output directory and the supported interpreter/dependencies, never overwrite accepted outputs while investigating. Existing interfaces:
 
-1. Snapshot current committed record semantics: 80 trade-goods wagons (25 farm_box,
-   17 covered, 38 cart), their stable IDs/positions/bearings/paint seeds, plus the
-   separate water-cart record. Measure runtime visible counts independently.
-2. Export W01 beside the current renderer behind a development selection. Keep
-   the old layer as the comparison baseline; avoid double drawing the same wagon.
-3. Compare one representative of every kind at identical transforms. Preserve
-   ground sampling, existing stand-refusal logic and static unhitched tongue pose.
-   A new root datum must have an explicit placement adapter; never offset terrain
-   to disguise the conversion.
-4. W01 replaces only eligible farm_box instances at first. Covered wagons, two-wheel
-   carts and water carts retain their existing builder until separate compatible
-   masters exist. A passenger carriage is not substituted for a freight wagon.
-5. Keep per-instance/source identity separate from mesh sharing. Reuse compatible
-   static geometry/LODs where beneficial; moving wagons get actor state instead of
-   rebuilding the whole static yard buffer every frame.
-6. Promote selected instances to mobile actors explicitly. Remove their static
-   duplicates, preserve IDs/provenance and hold the rest unchanged. Route logic must
-   respect scene chronology and collision; a parked 1835 wagon does not become
-   1904 traffic merely because a new master is available.
+```sh
+python tools/transport/generate_wagon.py --parameters data/transport/studies/wagon.json --output-dir "$VEHICLE_OUTPUT/wagon"
+python tools/transport/generate_carriage_c02.py --parameters data/transport/studies/carriage-c02.json --output-dir "$VEHICLE_OUTPUT/carriage-c02" --door-angle-deg 0
+python tools/transport/generate_parked_wagon.py --parameters data/transport/parked/wagon-w01.json --output-dir "$VEHICLE_OUTPUT/parked-wagon"
+```
 
-## Source and rights register still open
+These are documented handoff commands, not runs performed or certified here. The last chain exposed the 22 October machine-dependent source-reproduction failure; use the separately reviewed repair and preserve all original exact-byte guards. Named Studebaker work has its saved external producer/parameters and requires normal reviewed integration before a canonical app command is claimed.
 
-| Lead | Current knowledge | Unresolved operation |
-|---|---|---|
-| LoC `LC-DIG-det-4a08065`, item `2016801921` | No known restrictions in committed record; carriage at Pullman-house kerb; 1893–1901 local bounds. | Retrieve high-resolution original and current institutional rights statement; identify body class. Owner/maker unknown. |
-| LoC companion `4a08066`, item `2016794585` | Context reviewed, c1900; no useful equivalent vehicle detail found. | Context only unless higher resolution changes finding. |
-| Clarke/Chrimes `a19-gh-clarke-wabash-chrimes` | Clear open carriages: right single, left team count unresolved; after 1872, exact date unknown. | Museum provenance, precise dating and rights. No derived asset input while unresolved. |
-| McBirney `a16-ghm-blog-1736-mcbirney-c1890` | Visible J. P. SMITH & CO. ICE wagon with paired draft horses. | Original accession, rights, vehicle dimensions/date; business lettering does not identify manufacturer. |
-| `a20-glessner-2100-block-east-side-1890s` | Single horse, enclosed carriage in street profile; 1890s local dating. | Source original, rights and carriage subtype. |
-| Trowbridge Green Tree | Retrospective1902 depiction of1835, locally `check_required`; ledger describes wagons. | Open actual source image and resolve rights before derivation; do not call it contemporary1835 photography. |
-| Manufacturer/museum technical source | Not yet recovered for C01. | Obtain a dated, eligible section/measurement record to refine independent prototype and support final historical claims. |
+Next two modeling tickets deliver portable source/master and glTF/JSON, original-material license entries, per-attribute source/liberty records and exact input/output SHA receipts. Verify units, dimensions, pivots and sockets within1mm of chosen parameters, unloaded wheel contact within2mm, actual steering swept clearance, solid hubs/joinery/support paths, normals/tangents and no unintended overlaps. Actual later rolling test is ten circumferences/ten turns within0.1%; no animation completion is inferred from empty joints.
 
-External LoC retrieval through the inherited proxy returned403 during the source
-audit. A saved network configuration draft does not establish applied access. Retry
-after the supported runtime policy changes; preserve TLS verification. Meanwhile
-W01 and the independently reconstructed C01 engineering study can proceed under
-the stated provenance/rights boundaries. This document closes no modeling ticket.
+For each cleared source view, record full image/plate ID+SHA, visibility/occlusion masks, source camera model, crop/rotation and whether solved or only approximate. Render source-aligned side/quarter view plus unobscured front/rear/overhead controls. Brougham's original is a lithograph with potentially inconsistent perspective: retain residuals and any camera ambiguity rather than distorting the chassis to fit an impossible camera. Record wheel-center/radius ratios, roof/cabin/door lower-U contour, body-to-wheel clearances, lamp/bench/spring positions and every visible discrepancy. Compare actual pixels; no predicted projection or unrendered v10 closes a match. Inspect near~3 m, mid15 m and distant60 m at recorded FOV/distance on1280×800 and390×780. No photographically accepted label before the source-guided and independent material/detail review passes.
+
+Near/mid/far masters keep all sockets and pivots identical. LOD simplification first removes unseen bevels/fasteners and reduces circular tessellation; never collapses open spokes into a solid wheel at a distance where the gaps remain visible, changes roof/door silhouette, or removes boarding/collision contracts. Draft planning targets are mid≤4000 tri/12 primitives and far≤800 tri/4 primitives per vehicle, subject to actual image/aliasing checks. Near quality begins from the measured existing family cost, not an arbitrary new global cap. These are proposed planning envelopes, not measurements or permission to weaken any shipped budget.
+
+The receipt names source/mirror/GLB hashes, viewport/detail/confidence modes, near/mid/far thresholds and simultaneous instance count; GLB and texture bytes/dimensions; index-derived triangles; source primitive count; actual visitor-frame driver draws/triangles including shadows/confidence; GPU texture allocation where available or explicitly labeled estimate; frame median/p95/max and boot/residency peak. Measure single-object deltas and representative street populations. Normal, Tint, active Ghost, Full/Balanced/Light and mobile fallback retain existing policy and picking. No counter substitution, hidden duplicate, permanent observer or ceiling change can stand in for that receipt.
+
+## Outstanding work precisely retained
+
+Research deliverable is ready for review with its cleared initial choices and bounded modeling instructions. It does not assert the broader collection is exhausted. Current 947 Prairie records include83 contact-screened IDs plus one separate Taylor full-size image:84 known unique,863 without recorded visual coverage; historical83/944 left861. Pre-fire24/24 screening found no dependable contemporary vehicle construction photograph; archive-resolution map magnification remains open. LoC catalog access now works but20.9 MB higher-resolution retrieval failed/timed out and166.6 MB master was not fetched. Smith/Harvey/Clarke original-holder rights, dates and additional elevations remain prerequisites for those particular replicas. Dearborn pre1835 appearance,1812 military construction comparator, exact1904 local owner/specimen and independent maker popularity data remain open. These gaps constrain follow-up models; they are not silently converted into facts or a claim of completed deep research.
+
+## Root validation update — 2026-10-22
+
+The retained V10 Brougham is no longer unrendered: the corrected isolated fixture produced 12 normal desktop/mobile V9/V10 quarter/front/profile captures with identical paired cameras/lights and zero errors. Actual cleanup identifies and releases the owned Three DFG lookup texture; every arm returns to zero geometry/textures. Root inspected the paired desktop quarters: V10 reduces the excessive front roof curl, while fine materials, exact reference-camera match, photographic and main-world acceptance remain open. The generic parked C02 is unchanged and remains unbranded. Actual image/proof capsule SHA25669e78de54548ac296038b7a16ac57b3ade9b7bc191488d20e6633521ce208671.

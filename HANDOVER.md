@@ -1,5 +1,19 @@
 # Chicago4D handover — 2026-10-22 02:44 UTC
 
+## Active continuation — 2026-10-22 03:31 UTC
+
+The owner explicitly asks to keep working through completion with parallel agents. Claims audited: fourteen stale claims reopened normally; five are now active: T1789 people, T2980 covered/source repair, T2792 vehicle references/specification, T2794 carriage, T2799 horse references/specification. T2979/T2981 remain review1174. Current owners/dependencies are in WORKPLAN-PEOPLE-TRANSPORT.md. Root took lap1174 normally; lap1175 is still held.
+
+**Current local app is STAGED on parked dd147, tree0999c385, NOT clean.** Full Python3.11 preflight79092 is RUNNING; no new app commit yet. The portablechart source repair is integrated with unchanged0138/274e/9b/c6 guards and outputs; default material matches original0138 on Haswell and Nehalem, fullW01Haswell/coveredNehalem wrappers pass, and12newnegative+8existingidentitycontrols pass. Faithful sourcehashsidecar/SOURCE/license updates are included. Both T2792/T2799 research/specification proposals are integrated and acceptance reviewed; fullquality model tickets remain separate. Six added source records required an explicit measured raw catalogue allowance160000->168000; citations intact, actual index161435bytes/fullfirstopengzip45965bytes underunchanged120000compressedceiling. All staged source and exact capsules/logs are backed in checkpoint-charts-research-gating. Wait actual fullgate result beforecommit/push; inspect exact tree and owncommit checks. Then updatePR1174 around final scope, mark T2792/T2799 review if green, and collect freshactualnormalCI.
+
+**New human canonical39712579846 at34cf is terminalSUCCESS and strictlyQUALIFIED**, artifactZIP711a5e42; allmandatoryjobs/exports/inspections/normal/sole/W01controls pass. Old GETobserver783847 is CLOSED. Selected29actualPNG/proofcapsule6ce72 is backed; root viewed newBardwell webstandingquarter+face and approves preparing one honestlyreconstructedstandingincrement, without photographic/fulltailoring acceptance. ci_human_recovery is preparing exact8GLBs/standingcandidate(-94,-36.5) and strict instanceindex-seam fix outsideapp. Its finite21controls and staticground/clearance proof pass; actualmain-world rendering stillpending. Keep remotehuman34cf fixed until source/import plan is reconciled; do not redispatchcanonical.
+
+**BroughamV10 now has actual12normal paired desktop/mobile views/error0 PASS**, browser/serverCLOSED, capsule69e78 backed. Corrected fixture positivelyattributes/releases Three's internalDFG_LUT (3textures aftermodels ->1aftershadow ->0afteractualLUTdispose, handledead); old failure retained, no guarddrop. Rootviewed pairedquarters: frontcurlimproves, materials/exactsourcecamera/photo/worldopen. covered_visual_review prepared concrete portableLOD/stand/runtime/sourceparcelac697; furthergeneration HELD untilrootfullgate releases CPUlane.
+
+Historicaloriginale694smoke owner706508 stillcollects17/18; onlydesktop13. Actualjob119584590200 began01:24:59, smoke01:27:29, almostnoqueue; source-pinned150minjoblimit~03:54:59UTC. Latest03:24 snapshot~120minexecution, no stallcauseclaimed. No extraPOST/rerun/cancel. Its olderknownnormalfailure/qualificationfalse remain. RootnewsourceCI can only be qualified after newpush; no DEVmergeyet.
+
+The older sections below retain failure/evidence chronology and are superseded by this block where they conflict.
+
 The owner authorizes parallel agents, periodic GitHub pushes and ordinary green DEV merges. Prioritize attractive parked vehicles, then existing attested/inferred/reconstructed residents and horses. Preserve the covered wagons' distinct finishes. No production promotion. Latest user asked whether any PRs were pushed; root supplied the real links and made another people-source push during this turn.
 
 ## Actual pushed state

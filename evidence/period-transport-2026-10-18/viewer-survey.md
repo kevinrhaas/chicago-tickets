@@ -163,3 +163,12 @@ Preserve future animation requirements from the first model: independently rotat
 - `st-flinn-1891-a-bit-of-prairie-avenue`
 - `st-champion-1908-elevated-boulevards-south-detail`
 - `st-uic-caps-1938-lakeshore-mosaic-image6`
+
+
+## Coverage reconciliation —22 October 2026
+
+The 83-ID contact-screen ledger above is unchanged. The independently saved carriage audit also actually opened `a16-aic-taylor-pullman-from-nw`, which is not in those83 IDs; the combined saved audits therefore document84 unique Prairie records, not an invented second83-image pass. Current source streams contain947 distinct records. Against this current denominator,863 records have no visual coverage documented by the combined audits. Against the original 944-record denominator, the 18 October targeted83-image pass left861 outside its pass. These are different snapshots/scopes; neither means all 944or947 records were visually reviewed. Reopening Smith/Harvey or a higher-resolution version of the same Pullman ID does not add a distinct record. No new broad contact-sheet sweep occurred in this completion.
+
+The existing pre-fire24/24 screening stands, with only the three named candidates examined full size. This found no dependable contemporary vehicle-construction photograph. It does not prove absence of traffic, full map magnification, or access to every archival original. GreenTree's medium conflict and the Kurz sheet's1893 retrospective creation date remain explicit.
+
+[inspected-image-register.json](inspected-image-register.json) consolidates14 relevant actually inspected full-size viewer images, including negative/contextual findings, exact IDs, date/creation-vs-depicted intervals, provenance URLs, rights, visible features and candidate classes. Its107 recorded screening IDs are the 83 Prairie contact-screen IDs plus24 pre-fire IDs; the additional Taylor full-size image is separate. The public-domain Studebaker construction plates are external research sources, not extra viewer records. Fresh LoC catalog metadata now works; higher-resolution scan access remains unresolved as documented in [carriages.md](carriages.md). Rights-pending Smith/Harvey/Clarke references remain citations, not licensed asset inputs.
