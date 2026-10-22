@@ -1,7 +1,7 @@
 ---
 id: T-3009
 title: Indiana Avenue's east frontage, 20th to 22nd Street, and East 21st Street's two lots drafted from sheet 35 as the background census ranks them (Indiana 20th-21st: 11 of 11 lots seen from Prairie, 2029 from 25 stands down 20th Street)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2983
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1198
 claimed_by: run 10/22/2026, 9:04:40 AM CT
 blocked_on: null
 needs_bake: false
