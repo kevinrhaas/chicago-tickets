@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-13
 closed: null
 pr: null
-claimed_by: run 10/21/2026, 11:03:23 PM CT
+claimed_by: run 10/22/2026, 1:38:38 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T04:03:24.834Z
+claimed_at: 2026-10-22T06:38:39.276Z
 decision: null
 decision_answer: null
+group: T-2485,T-2978
 ---
 
 1812: build the Kinzie establishment behind the house: dairy, bake-house, the Frenchmen's lodging house, stables, garden, and whatever of du Sable's 1800 bill of sale still stood.
