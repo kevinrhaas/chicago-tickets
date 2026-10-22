@@ -173,7 +173,7 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
 # first review existing assets and dated photographic evidence, then models, moving distant traffic and interaction.
-# T-2792 and T-2799 begin in parallel by explicit owner instruction; respect every model's rights/date/needs_bake gates.
+# T-2792 and T-2799 completed through PR #1174; retain each remaining model's rights, date and needs_bake gates.
 T-2793 — Build one articulated period wagon master from the existing wagon families
 T-2980 — Upgrade selected covered wagons while preserving their distinct finishes
 # Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).

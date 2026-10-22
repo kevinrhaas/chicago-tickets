@@ -1,3 +1,19 @@
+# Continue here — 2026-10-22, 19:13 UTC
+
+The seven active claims were independently audited against remote ticket files and the actual three-hour tool rule. All are root-owned, independent, live, and have claimed_run:null. Renew T2803 before19:57:01.550Z, T2795 before19:57:06.087Z and T2796 before19:57:10.959Z; T1789/T2794/T2800/T2980 expire20:20:12–23Z. PR1175 lap expires20:20:25Z. Four bounded tickets T2792/T2799/T2979/T2981 remain done through1174. A stale queue comment was corrected without changing order. Canonical was fast-forwarded to55cbdb6c first, preserving other agents’ Prairie splits.
+
+Covered-wagon normal preflight V2 is ACTIVE, session39989 in /tmp/chicago-covered-sag, staged tree6593357c. It has passed publish/bootstrap and focused covered-product/identity/placement checks, but has no full verdict yet. The agent will copy the global /tmp preflight logs immediately at termination. If full PASS and exact tree, root authorized its ordinary source commit/push, cheap actual-HEAD PR-event checks, and postcommit publish/mirror. No PR or broad ticket closure is authorized before root reviews the result. Workspace and /tmp free space are stable around5GB.
+
+Primary ccad merge remains uncommitted. The three new ignored Glessner outputs have now been materialized and byte-verified from the exact incoming package, with old outputs retained in /tmp. Supported resolver99016 is ACTIVE in its second dependency tail; no generated conflict was hand-merged. The c63 source checkpoint remains pushed. Exact GitHub audit found no normal CI on c63: the passing report is not the source gate. Earlier b092 CI remains historical. T3032 fix PR1205 is open/unmerged; its normal gate passes but its moving-frames run fails. Do not claim that fix is landed.
+
+Horse enabled-idle source remains safely backed by ad480f03 capsule and frozen at staged2c805cba. It is next for the serialized full preflight; the earlier static0b yard proof does not become an idle/world proof.
+
+New driver V2 source clears actual CPU counterfactuals of all four LODs using22.096mm internal pelvis/trunk rise with every shoe fixed. It openly leaves4.49mm near clothing support gap and raises wrists/palms22.096mm. Canonical export, rendered support, reins and load transfer remain open; live driver stays disabled. Independent source review is pending. Previous14.08mm all-LOD failure remains preserved.
+
+The V15/V17 carriage source8 comparison is prepared but UNRUN. Its exact source/dependency capsule and driver V2 plus claim audit are in evidence/parked-vehicles-2026-10-22/checkpoint-live-claims-driver-v2-and-v17-prepared/. Release the existing finite browser only after the active full gate closes, then inspect all8 images against the original1893 catalogue. No V16 materials, model regeneration or camera/assertion changes. Broad photographic, harness, gait, traffic and riding tickets remain open.
+
+---
+
 # Continue here — 2026-10-22, 19:00 UTC
 
 The enabled horse-idle source is now backed up in this checkpoint: `HORSE-IDLE-APP-ENABLED-CHECKPOINT-V2-20261022.tar.gz`, SHA **ad480f0324bd3467429084f365913bb8e4bb60a82fd8ead34f526f18b25c6d18**. It reconstructs the exact staged tree **2c805cba64dfa8fb4f22cea096005c14cf3ce0a1** in `/workspace/chicago-waistcoat`, based on b092. The reviewed code and c255 asset are unchanged; idle flags are true, old six clips remain disabled, and the supported 59-step source rebuild passed. Actual 385-pose CPU and consumer review proofs are in the previous checkpoint. No full preflight, commit, push or new published-yard acceptance yet. The duplicate text accidentally introduced by a failed multi-file writer was corrected without changing earlier history; its failure and correction are preserved. The initial 15-second compiler timeout was an artificial caller limit, not a semantic producer failure.
