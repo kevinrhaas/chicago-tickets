@@ -1,7 +1,7 @@
 ---
 id: T-2919
 title: 1811 Prairie's front fabric from the 1888 plate: the smooth ashlar of the bay's upper stage and the oriel over the rock-faced courses, the bay's canted north face, the oriel's square returns and its cornice down to the plate's 9.06 m, and the two front downpipes
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1892
 opened: 2026-10-20
-closed: null
+closed: 2026-10-22
 pr: null
 claimed_by: run 10/22/2026, 12:46:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T05:55:20.393Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39729396513
 claimed_at: 2026-10-22T05:46:05.288Z
 decision: null
