@@ -1,6 +1,6 @@
 ---
 id: T-3015
-title: 1801 Prairie's south pavilion's face to the Taylor photograph, its north edge and its heights: the face from the bow's junction (v 6.85) to the south corner, 0.5 m proud where it stood 0.6 (the least that keeps the main eave's gutter, its lip 0.46 m out, behind it), the third storey's pair raised under the frieze (sill 9.6 m, head 11.45 m) and the wall top and gable lowered to the print's springing (13.2 m) and apex (about 16.2 m)
+title: 1801 Prairie's south pavilion's face to the Taylor photograph, its north edge and its heights: the face from the bow's junction (v 6.85) to the south corner, still 0.6 m proud (its window recesses, 0.55 m, and the main eave's gutter, its lip 0.46 m out, hold it there), the third storey's pair raised under the frieze (sill 9.6 m, head 11.45 m) and the wall top and gable lowered to the print's springing (13.2 m) and apex (about 16.2 m)
 state: claimed
 epic: SOUTH_TIME
 requested_by: owner
@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-1801 Prairie's south pavilion's face to the Taylor photograph, its north edge and its heights: the face from the bow's junction (v 6.85) to the south corner, 0.5 m proud where it stood 0.6 (the least that keeps the main eave's gutter, its lip 0.46 m out, behind it), the third storey's pair raised under the frieze (sill 9.6 m, head 11.45 m) and the wall top and gable lowered to the print's springing (13.2 m) and apex (about 16.2 m).
+1801 Prairie's south pavilion's face to the Taylor photograph, its north edge and its heights: the face from the bow's junction (v 6.85) to the south corner, still 0.6 m proud (its window recesses, 0.55 m, and the main eave's gutter, its lip 0.46 m out, hold it there), the third storey's pair raised under the frieze (sill 9.6 m, head 11.45 m) and the wall top and gable lowered to the print's springing (13.2 m) and apex (about 16.2 m).
 
 Piece 1 of 2 of **T-2999 — 1801 Prairie's south pavilion's face to the Taylor photograph: it renders about 15 px south of the print's at its north corner and about 60 px at its south corner, built 0.6 m proud of the front at u 20.5 where the camera's corner stands at u 20.1 and the 1911 sheet draws it 0-0.4 m proud; stand it where the photograph and the sheet put it**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
