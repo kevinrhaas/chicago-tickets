@@ -1,7 +1,7 @@
 ---
 id: T-3020
 title: 1736 Prairie card shows the other McBirney house's 1890 plate
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1201
 claimed_by: run 10/22/2026, 11:05:32 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T17:24:07Z
 claimed_run: null
 claimed_at: 2026-10-22T16:05:34.201Z
 decision: null

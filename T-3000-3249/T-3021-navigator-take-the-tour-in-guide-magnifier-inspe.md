@@ -1,7 +1,7 @@
 ---
 id: T-3021
 title: Navigator: Take the tour in Guide, magnifier Inspect icon, Home tiles open Move and Confidence, Inspect tabs pinned with Back
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1203
 claimed_by: run 10/22/2026, 11:09:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T17:25:19Z
 claimed_run: null
 claimed_at: 2026-10-22T16:10:00.976Z
 decision: null
