@@ -386,3 +386,7 @@ Human V4 is now COMMITTED/PUSHED2f75ef23, DEVdraftPR1175; full1038/0preflight pl
 ## First covered main pixels and full staged recovery — 22:42 UTC
 
 `checkpoint-covered-first-town/` saves exact26-file integratedstagedpatcha7bdcd57 plusnormalpublishedWestern old/newPNGpair. Root boundedvisualPASS: cover smoother/bowed/seamed, originalblue/oxidefamily retained, productionshadowgalleryribbingabsentatthisview. Fenceoccludeslowergear/yoke inBOTH, so fullclearanceisnotprovenbythesePNGs. Supportedpublish/mirrorPASS; remainingmaincontrols/22PNGcallerRUNNINGenv_validation53396, HEAD/index/source/mirrorMUSTSTAYFIXEDuntilclosed. ActualpatchALREADYinstalled, DONOTreapply. Fullcoveredpreflight/currentCIstillpending. Humanmanualcanonical39687040336running, masters/containers passed, source/web/soleinspectionactive; DO NOT movehumanref. Parkedstill17+3pendinglastdesktop13.
+
+## 14:54 UTC supplemental native source result
+
+OldCart native source study now CLOSED/PASS7.96s,3actualPNG/rootreviewed, alloriginalgeometry/materials/root unchanged. No appinstall. Stronger development base but exactmaker/date/regionunknown. Compactproofea4ecbea+review now saved in checkpoint-779-final-ci-and-rendering-followups; original9.8MB alreadydurable earlier. No browserprocess remains.

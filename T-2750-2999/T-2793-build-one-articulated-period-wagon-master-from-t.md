@@ -120,3 +120,7 @@ As better covered wagons become ready, replace the existing covered wagons with 
 This is the owner's next-family direction. Covered variants remain a separate follow-up to this farm-box master's acceptance. Current T-2979/PR1174 replaces only three farm-box stands and retains the old covered wagons; it is not a covered-family completion. Future replacements should retain Light/far/load-failure fallback and earn actual photographic comparison and desktop/mobile scene acceptance.
 
 **Released 2026-10-21** (claim of wagon-model agent 10/18/2026, 1:45:25 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Actual richer source-base inspection — 2026-10-22
+
+One original licensed OldCart13600b73 source-native inspection passed7.96s with three fixed front/quarter/side PNGs,0clipped/0errors, original root/materials/geometry/hierarchy unchanged, caller/browser closed. Root personally viewed richer timbergrain/joinery/rims/hubs/steeredaxle. Compact proof ea4ecbea is GitHub-backed in evidence/parked-vehicles-2026-10-22/checkpoint-779-final-ci-and-rendering-followups/. It is a development base only: originalauthor provides NO maker/date/region/prototype, so no1835/Dearborn/Studebaker attribution or actual replacement accepted. Metriccalibration/periodanalogue/clearance/optimizedLOD/actualtown acceptance remain open. No broadwagon closure.
