@@ -1,7 +1,7 @@
 ---
 id: T-2796
 title: Move horse-drawn traffic through distant streets with measured LOD budgets
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: root parallel team circuit: bounded route controller agent 10/22/2026, 11:57:09 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-22T16:57:10.959Z
 decision: null
 decision_answer: null
 ---
