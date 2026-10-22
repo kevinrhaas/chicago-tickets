@@ -1,7 +1,7 @@
 ---
 id: T-2972
 title: Glessner's Prairie fan and header re-read on the re-solved habs5-entry camera: at the scan's true scale sheet 5 draws the header one course high (the door head at 7.50 to bed 8 at about 8.75 ft) with a flat top and the fan springing from bed 8, where the build springs it at 9.0 and raises the header's centre to 9.3 (T-2912 and T-2228 read the fan on the old crop, stretched 3.3 % upright, so its spring, stilt (0.5, about 0.35 unstretched) and crown all read tall); read the spring, stilt, crown and the header's top against the owner's close-up, build or rule, rebake, and bring habs5-entry to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2950
 opened: 2026-10-20
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/21/2026, 11:06:50 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39720179118
+claimed_at: 2026-10-22T04:06:51.907Z
 decision: null
 decision_answer: null
 ---
