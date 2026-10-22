@@ -1,6 +1,20 @@
-# Current handover — 2026-10-22, 22:46 UTC
+# Current handover — 2026-10-22, 23:03 UTC
 
 User authorizes parallel agents, periodic pushes and ordinary green DEV merges. Priority: land visible person PR1175, then parked carriage1213, horse1212 and covered-cloth1208. No production/admin merge/workflow changes. Photographic completion, riding and driving remain open.
+
+## Latest control state — 23:03 UTC
+
+All FOUR normal CI runs are now strict PASS: main gate1048/381, humans, moving/upload-release32 and push report. The first three actually checked out8fc (7d9+8f); report checked out8f. Exact logs/workflow/parents are in compact90c1b8dc, saved in newest checkpoint. This does not finish published-smoke qualification.
+
+Final8f immutable snapshot: both15 PASS; both14 still active. Actual8fc merge snapshot: both14 active, strict collector1951846/session52162. Originalfe98 desktop13 still active, native job cap about23:37:01. No rerun/cancel/wholebatch PASS. Root1175 lease remains held; PR ready/open, nativeauto-mergeOFF. Root HEAD remains clean8f, not8fc. Do not claim source8f includes7d9.
+
+Focused mobile full20/0 PASS, exact source8f, zero page errors and owned cleanup empty. Focused desktop original full projection TIMEOUT124 at350s: QA11 assertion actually passed, six feed assertions not reached. Preserve failure and partial scope. Separate six-literal-assertion desktop packet reviewed and released: session47956, output focused-release-six-desktop/owned-release-six-desktop under PR1175-8F5127-FINAL-INTEGRATION-20261022. Original six block hashf926a7c8, new caller1ba66de4; adds actual fresh Normal/defaultgrades/unseen precondition, no reset/state injection, retains original returning reload/boot/hit tests and360/350 caps. No Light/camera/threshold/time changes. Browser lane EXCLUSIVELY root until terminal/cleanup. Capsule700cb9f4 includes exact held packet. If it passes, compose only the six release observations with the separately observed QA11 pass; never relabel the original timeout or full13.
+
+Horse PHASE A is now actually staged in /workspace/chicago-waistcoat: HEADa086, MERGE_HEAD8fc. Five authored conflicts resolved semantically, five generated conflicts intentionally remain for canonical resolve142. Both human and horse/support-region scene additions preserved; default source bounding boxes clear260.742513m, separate mixers/ground callbacks verified. Exact new7d9 Glessner3 outputs materialized, old3 retained. Source checkpoint e21d3d77 saved. Root lap1212 held, draft staysdraft and depends on1175. No heavy rederive/fullgate/commit/push yet. AFTER root six-feed browser closes, release horse_completion for canonical tail + exclusive fullpreflight, raw BASE8fc, existing readers/math1, logs immediately captured; commit/push only on actual PASS. Do not merge1212 before1175 lands. The temporary source parent is actual GitHub testmerge, not a claim that1175 has merged.
+
+Additional concrete sources saved in newest checkpoint: three-era combined horse implementation7d69dc0f (inactive real fits/worldfalse, separate DO-NOT-SHIP review overlay), Glessner1904 coverage83584b1f (V1fail retained, V2 only27 frontal-rest points PASS/no inversions; not whole garment/pose/photo/Blender qualification), carriage source-risk8879bc3c (actual Glessner unchanged triangle/bounds; Kimball+37286; old budget proof not current). Carriage agent is now generating ONE external mid candidate bounded15s/nice19/math1: ring segments16 only, cross-sections8 and other452parts exact, no active app/runtime changes. Root separately claimed openT2793 at23:01, dependencyT2792done/read; horse_skin_review assigned one external W01 material refinement with actual rights verification, no historical rebranding or active app changes. There are now EIGHT independent root claims: prior seven plusT2793. Prior seven renew before01:05; new one before02:00 if still active.
+
+Newest durable checkpoint: evidence/parked-vehicles-2026-10-22/checkpoint-green-normal-ci-and-parallel-implementation/. Earlier source labels/history below retained. Root remains sole canonical ticket writer; ordinary green DEV merges only, no production/admin/workflow edits.
 
 ## Latest actual state — supersedes older source/status entries below
 
