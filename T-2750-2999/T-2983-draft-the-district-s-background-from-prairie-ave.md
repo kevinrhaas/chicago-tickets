@@ -1,7 +1,7 @@
 ---
 id: T-2983
 title: Draft the district's background from Prairie Avenue: a visibility census of the Indiana, Calumet, end-street and rail-side polygons seen from Prairie's camera stands, each drafted as a bounded background mass or recorded as open ground, with the views west, east and down each cross street captured and 1904 measured before and after
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2162
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 7:47:15 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39780524367
+claimed_at: 2026-10-22T12:47:16.292Z
 decision: null
 decision_answer: null
 ---
