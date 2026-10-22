@@ -233,3 +233,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3017 — 1904 parkway elms grown as the open-grown American elm: a forked trunk, arching limbs and hanging sprays in place of the fan-shaped leaf cards, then tuned for desktop and phone GPU
 T-3020 — 1736 Prairie card shows the other McBirney house's 1890 plate
 T-3021 — Navigator: Take the tour in Guide, magnifier Inspect icon, Home tiles open Move and Confidence, Inspect tabs pinned with Back
+T-3022 — Navigator: fold the building card's research into Inspect behind an Expert research setting
