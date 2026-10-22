@@ -1,7 +1,7 @@
 ---
 id: T-2990
 title: 1811 Prairie's stair cheeks' scrolls raised onto plain foot blocks 0.7 m tall, as the 1888 plate draws them (each roll's centre about 0.9 m over grade)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2984
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1182
 claimed_by: run 10/22/2026, 12:55:37 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T06:49:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39729396513
 claimed_at: 2026-10-22T05:55:37.949Z
 decision: null
