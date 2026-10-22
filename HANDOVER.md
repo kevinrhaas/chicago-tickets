@@ -1,3 +1,15 @@
+# Current continuation — 2026-10-22, 14:44 UTC
+
+PR1175 remains DRAFT at pushed779978bce, CLEAN source, base142f. Actual current full1044-step preflight/publish/mirror PASS. Current-head Full desktop visual and original mobile full PASS, root-reviewed8PNGs. Latest strict remote collection17of18publishedsmokes +normal5 PASS; onlydesktopstage13 stillrunning. It historically takes85min on these runners and has150minworkflowcap. SoleGETcollector session45858, output /workspace/shared/ROOT-1175-779978bce-CI-ONLY-23-GET-ACTUAL; do notredispatch/rerun/cancel. Root will ordinary head-pinned DEVmerge only when actualrequiredCIgreen/freshbaseeligible. CI_ONLY qualification/readiness flags remain false; root independently reviews required repository gate evidence.
+
+Three supplementary desktop540/Full90/Balanced90 attempts remain genuineFAILs, neverqualified. Stop additionalmodeexperiments. Correct priorratioinference: defaultHUD1.5 does not establish actualdesktop1.5rasterratio because codecapsbyDPR; Balancedactualratio1. Independent finalassessment says no demonstratedspecificasset/pose/sourcecorrectnessregression; unresolved latency/performance remains followup. Exactfailures/assessment saved in new evidence checkpoint-779-final-ci-and-rendering-followups.
+
+Brougham normal1904 side exec13059 CLOSED/FAIL: screenshot90stimeout,0PNG, sourceunchanged/ownedprocessesclosed. Nativecandidate/PMREM/sun/budget checksPASS; clearance/semanticdisposal not reached. No photoacceptance. Horse actualmaterialstudy43782 CLOSED/PASS7.274s/fourPNGs/root-reviewed: choose declaredorganic_dielectric_v1 forlaterdevelopmentintake; originalunchanged. Filesnamedside areFRONT, notbroadside. Actualyard/mobileintegrationunrun; horsephotographicmaster remainsOPEN. Horse study/receipts/callers andBroughamfailure aredurable innewcheckpoint.
+
+ci_parked_recovery nowowns one≤180s outsideapp nativeOldCartsourceviewstudy; rootheavybrowserlane heldforagentuntilCLOSED. No appmodelintake/publish/source/Gitmutation authorizedinthatstudy. Nootherlocalheavyprocess. BroadT1789/2794/2800/2980 remainclaimed/open; renewbefore16:04. OrdinarygreenDEVmergesauthorized, no production/admin/workflowchanges. PriorPR1174 andfourboundedDONEticketsunchanged.
+
+---
+
 # Current handover — 2026-10-22, about 14:12 UTC
 
 PR1175 is still draft/unmerged, pushed head779978bcee51c62096778a846292c2473b9ec7af, treebd514a647a68aed461f541fc2124a9cc49598626; includes DEV142f295bd. Local full preflight passed1044 steps. Postcommit publish/mirror passed. All18 current-head smoke requests were accepted once; do not redispatch. Last finite remote snapshot14:05:17SUCCESS/6in_progress, zero failures; ALL5normal workflowsSUCCESS. Current source/index/publication frozen and clean.

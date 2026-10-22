@@ -131,3 +131,7 @@ Canonical39736567239/source96c4 fully passed; root imported exact8 Bardwell asse
 ## Final person integration pushed and horse base advanced — 2026-10-22 08:15 UTC
 
 Final person14323534e is pushed after full1042/380 preflight and postcommit mirrorPASS;18 required smoke cells and moving are running. First final desktop visual failed autoLODwait; actual tiny production browser diagnostic passed. One observation-only samehead desktop repeat10021 is running; no DEV merge yet. Licensed textured horse41acd9be is accepted as a development base after actual4views, not photo completion. Current ownership/failures/nextsteps: `evidence/parked-vehicles-2026-10-22/checkpoint-14323534-pushed-final-CI-and-horse-base/STATE.md`.
+
+## Actual normal-world side capture failure — 2026-10-22
+
+V13 current779 normal1904 side preview CLOSED/FAIL484.915s with zeroPNG. Nativecandidate/PMREM/sun/budget checks passed and fixed view was ready at328.077s; screenshot hit unchanged90s limit. Browser/server stopped and inputs unchanged. Explicit clearance, candidate GPUdisposal and scene restoration stages were not reached; browser teardown is not semanticcleanupPASS. ReadPixels stalls are consistent with slow renderer/readback, not conclusively diagnosed. Frozen failure/inputs/owner/caller saved in checkpoint-779-final-ci-and-rendering-followups; no model install or photographic acceptance. Reviewed static-interface/two-footplate source proposal remains unapplied/unexported.
