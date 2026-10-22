@@ -11,14 +11,15 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing own horse master refinement and photographic completion 10/22/2026, 1:45:45 AM CT
+claimed_by: root continuing people horses wagons carriage completion and PR1175 DEV merge 10/22/2026, 8:03:53 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T06:45:46.637Z
+claimed_at: 2026-10-22T13:03:54.579Z
 decision: null
 decision_answer: null
+group: T-1789,T-2794,T-2800,T-2980
 ---
 
 ## Depends on

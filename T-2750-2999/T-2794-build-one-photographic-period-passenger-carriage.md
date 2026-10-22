@@ -11,14 +11,15 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing own V13 carriage completion and current-head normal town inspection after person merge 10/22/2026, 3:20:02 AM CT
+claimed_by: root continuing people horses wagons carriage completion and PR1175 DEV merge 10/22/2026, 8:03:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T08:20:03.223Z
+claimed_at: 2026-10-22T13:03:54.578Z
 decision: null
 decision_answer: null
+group: T-1789,T-2794,T-2800,T-2980
 ---
 
 ## Current parallel delivery —2026-10-21
