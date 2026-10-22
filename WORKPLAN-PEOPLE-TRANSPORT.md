@@ -1,3 +1,13 @@
+# Current execution — 2026-10-22 04:01 UTC
+
+PR1174 headca82d06541b31a560d0c29e426668e777db3ad61 is PUSHED after full1041/380preflightPASS and exactcommit/PRchecks; postcommitpublish/mirrorPASS. Four scopes are in review on1174: T2979,T2981,T2792,T2799. Root owns ordinaryDEVmerge as soon current-head sourcegate/movingframes+targetedsourcecatalog evidence are green; do not independently lap/merge it. Old18historicale694runtimejobsallPASS with preciseunchangedscene/modelprojection and explicitnewcatalog/releasemetadata exceptions.
+
+Active model claims: T2980(root,coveredquality),T1789(root+humanagent),T2794(root+Broughamagent),T2800(root+horseagent). T2792/T2799 are completed research deliverables IN REVIEW, not active research claims. Root is integrating actual visible increments and keeps broad photographic parents open until their true acceptance.
+
+Next concrete app work after1174: qualified exactBardwellstandingasset+ownresidentcard and independentlyvalidated1893StudebakerBrougham model at separate1904stand. ExistinggenericC02 is preserved. Horse agent owns exactinstalled89b048baselinecapture before nextcroup/anatomy trial. T2793 wagon master remains available to a separate loop, as do other genuinelyunblockedopenbandtickets; coordinate throughnormalclaims, not duplicate these four active scopes. Keep working until photographic completion, then animation/occupied/traffic/boarding/riding.
+
+Previous plan and dependency detail follow for continuity:
+
 # People, wagon, carriage and horse completion — 2026-10-22 03:04 UTC
 
 The owner asks for continuous parallel implementation, regular pushes and green DEV merges. Root owns tracked integration. Agents prepare isolated parcels in `/workspace/shared`; their completed parcels are integration inputs, not ticket closure. No production promotion.
