@@ -1,7 +1,7 @@
 ---
 id: T-2540
 title: 1801 Prairie's roof and 18th Street flank from the Taylor, 1929 and HABS photographs: the front's stone gable, the dormers, the cresting deck, the stacks and the rear elevation, and the envelope's match records brought to matches (after the pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1889
 opened: 2026-10-15
-closed: null
+closed: 2026-10-22
 pr: null
 claimed_by: run 10/22/2026, 5:08:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-22T10:15:56.160Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39760105850
 claimed_at: 2026-10-22T10:08:16.712Z
 decision: null
