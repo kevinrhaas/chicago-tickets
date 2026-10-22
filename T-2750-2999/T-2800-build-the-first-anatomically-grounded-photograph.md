@@ -178,3 +178,9 @@ Actual7de8 failed front crease as preserved previously. Corrected front-lip sect
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
 
 **Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:13 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Actual installed baseline and next anatomical refinement — 2026-10-22
+
+Four fresh actual desktop/mobile side/three-quarter renders of exact installed89b048/715316bytes/14172triangles were captured and independently viewed by root and horseagent. Zero page/network errors; caller/environment-only patch, bounded ownedprocess cleanup and exactpins are preserved in checkpoint-source-catalog-PASS-and-actual-horse. This is a geometric fixture, visibly inadequate for photographic release: long upright ears, wedge head/tiny eyes, angular neck/barrel, box/tube upper legs, overbent stick-like stance, sparse mane and separating slab tail. Ground contact success is not anatomical/photographic acceptance.
+
+The earlier croup-only source draft is retained but is not the chosen production direction. Active next work is an explicitly amended original anatomical quad cage with shared shoulder/hip branch loops, curved muscle volumes, revised neutral limb landmarks, continuous head/neck, shorter tapered ears, facial planes and rooted mane/tail. Existing poor geometry is not protected merely because it was pinned; deliberate changes will be recorded. No new candidate geometry/browser/photo acceptance yet. T2799 researchspec is checked/pushedreview1174; this photographic master staysclaimed/open for completion.
