@@ -19,6 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/3977435
 claimed_at: 2026-10-22T12:09:40.464Z
 decision: null
 decision_answer: null
+group: T-2989,T-2991
 ---
 
 1811 Prairie's oriel to the 1888 plate: a flat-fronted box about 3 m across (x 338-470 px) on square returns, its south return lit by two or three narrow lights, its rock-faced base rounded under it, and its cornice down to the plate's 9.06 m under the 9.14 m eave datum (K01's through-eave rule refuses that); re-read the entrance block's south corner first, which the oriel's return and the porch arcade put near x 467-470 px where the camera solve puts it at x 510.
