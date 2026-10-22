@@ -1,7 +1,7 @@
 ---
 id: T-3033
 title: 1812 Prairie's roof behind the gable from the Levy, c. 1955 and 1816 Henderson photographs: K01's mansard taken behind a shaped gable, its straight steep slate faces rising about 2 m from the side walls' heads to a flat-topped curb at about 14.45 m where K01's 45-degree hip stands today, the Levy record's roof item closed, and the 1915 Tribune item ruled no picture of the house (a portrait)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2545
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1211
 claimed_by: run 10/22/2026, 2:08:35 PM CT
 blocked_on: null
 needs_bake: false
