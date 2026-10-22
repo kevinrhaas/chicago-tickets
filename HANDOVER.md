@@ -2,6 +2,18 @@
 
 User authorizes parallel agents, periodic pushes and ordinary green DEV merges. Priority: land visible person PR1175, then parked carriage1213, horse1212 and covered-cloth1208. No production/admin merge/workflow changes. Photographic completion, riding and driving remain open.
 
+## Latest current source — 23:47 UTC
+
+PR1175 actualsupportedCIpush3f73940923d6cd1883334e7170e1b5e78245a7c6/tree18ef0b142bde657b96f7831a920a682c9ca8d97d/parents[8f,73]. Selectedlap39871276267 CLOSED SUCCESS, rawpushlog binds23:43:13; rootreacquiredlease andcleanFFprimary.46expectedchangedpaths/63protectedperson/main/1835/smokepins exact. Sharedorigin/dev remains8249. No localpublish3f yet: horsepostpublishlane held untilagentterminal. Rootthenbackup3verifiedoldignoredGlessneroutputs andmaterializeexactincomingpackage with owntrackedrecoverhelper, normalpublish+mirror. No new authored source/fullgate forpureincoming fold.
+
+Actualimmutableverificationref steward/pr1175-verify-3f73940923 created. ExactlyTWO current14desktop/mobile accepted/discovered once39873849709/39873853044. Sole GETcollector2025419/session90748, PR1175-CURRENT14-3f73940923-GET-owner1; native150min unchanged/180mincollector deadlineOWNER. New normalfoursolecollector2024800/session13565, PR1175-3f73940923-NORMAL-TERMINAL-GET-owner1: gate39873644143/human39873644135/moving39873644115/report39873633580. ReportalreadystrictPASS; otherthreeactive. Actualtestmergee94e5973056fbc3a7cfe27a9beb67b89b0057c19 parents[73,3f], SAMEtree18ef. No oldnormalPASS relabel. Source/nativeautoOFF/lease protected.
+
+Historical8fFOUR nowcomplete4PASS, desktop14actual140/0; d50482ca capsule saved. Only historical8fcdesktop14 remains in oldGETowner99009. Original18 remains12PASS/6FAIL, originaldesktop13strict160/0 complete; originalUItimeouts remainFAIL with separately scopedpositive observations. Root doesnotrestartwhole18/13/UI.
+
+Horse fullpreflight76397 CLOSEDPASS actual685.46seconds,1050checks/381selftests, exactc9e0tree/zerounmerged/unstaged, globalrawlogs copiedimmediately. Agentnowcommitting/pushing1212draft/actualHEADchecks/postpublish; localheavy lane stillreserved untilactualterminal notification. Dependency1175/latest73 pending. Agentpreparesonlyrepinnedowncardidlepacket afterward, SAME15s/1.5owned/350caps; no browserreleaseyet. HistoricaldesktopclockFAIL staysFAIL.
+
+Newdurablecheckpoint checkpoint-current-person-pushed-3f-and-horse-green contains supportedpushf71c9562, historicalfourd50482ca, actualdelta/current14receipts/horsepreflightlog. AtlasV2 priorcheckpoint bcbf9678 confirmedpushed. Fiveagents continue concreteexternal patches: carriagemidselector,W01atlasintake,newerahorseharness andONEsurgicalwalkweightcandidate (plushorseintegration); noappactivation fromexternalcandidates. Claimsoriginalsevenrenewbefore01:05UTC,T2793before02:00. Rootsolecanonicalwriter.
+
 ## Current checkpoint — 23:40 UTC
 
 Eight root claims remain active. Workplan table updated. New durable wagon atlasV2 capsule18df56c8 is in checkpoint-wagon-atlas-and-active-horse-gate; V1 remains separately preserved. No application activation or photographic acceptance. Actual unchanged geometry/primitives, exact rights attribution and13MB texture tradeoff are documented. Agent preparing minimal renderer/authoring intake externally, no candidate hunt.
