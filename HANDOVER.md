@@ -1,3 +1,13 @@
+# Current handover — 2026-10-22 20:34 UTC
+
+PR1175 is the immediate visible-DEV priority. Primary is clean at pushed03ef5178977184928cf454011737ea2b17607b5d. Local incoming4459 full preflight CLOSED FAIL1046/1047: sole stale generated liberties; no bad commit. Saved exact2ad tree was safely aborted with all ownhuman paths unchanged. Existing scoped CI lap run39849920673 (only1175) is IN_PROGRESS, started20:33:42UTC. PR is now ready; native auto-merge OFF; own lap deliberately RELEASED for that workflow. **Observe its actual successful source push, then reacquire lap before published qualification/ordinary DEV merge.** Do not silently leave the lease released or dispatch a duplicate lap. Source/CI/generated/human preservation and published desktop/mobile all-part qualification still pending.
+
+DEVd1cea includes actual merged PR1205 rendering-budget fix and PR1209 Glessner; old red is no longer an assumed current blocker. No production/admin merge/workflow edits. New durable checkpoint: `evidence/parked-vehicles-2026-10-22/checkpoint-visible-dev-1175-ci-lap-and-parallel-source/STATE.md` with actual full failure logs and recovery/source capsules. Follow that current page before older chronological notes below.
+
+Parallel: horse-onlyfde6 source pushed/fullgate+publication PASS; idle desktop timeout remains FAIL, one diagnostic desktop15891 now active, no mobile/retry. Carriage support fix frozenf2a415, focused actual contacts+9negativecontrols pass; retargettoDEVd1cea underway, producers/fullgate held for horse browser. WalkV4 harmonicweights also FAIL actual deformation; preserve failure, no app/gait claim. Current route source proof only and driver V2 source only remain staged research, not live. Seven independent root claims renewed19:35; renew before22:35UTC or release inactive parcels. Four PR1174 tickets stay done; broad photographic/occupied/riding parents stay open.
+
+---
+
 # Continue here — 2026-10-22, 19:49 UTC
 
 Person PR #1175 is pushed at **03ef5178977184928cf454011737ea2b17607b5d**, tree **82061871547ba5e73215c445911c58410ff503ab**. Full preflight passed **1,047 checks, including 381 self-tests**, on the exact tree; postcommit publication and mirror checks passed. Primary `/workspace/chicago` is clean. DEV advanced afterward to **4459c0e22a10563b93b0bec88b0b567f4ff916c6**, adding Indiana Avenue PR #1198, the 1835 Green Tree Tavern ground fix #1207, and a fold. The current integration gap is real; normal CI was absent on 03ef at the last audit. A brief close/reopen refreshed GitHub's stale base metadata and preserved the same draft PR and source. Do not call this merge-ready or relabel historical rendering proofs.
