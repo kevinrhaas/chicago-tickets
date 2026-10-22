@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: root continuing own PR1174 exact generator CI repair 10/21/2026, 8:45:47 PM CT
+claimed_by: root continuing own covered-wagon photographic cloth refinement with parallel agent 10/21/2026, 11:45:55 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T01:45:48.240Z
+claimed_at: 2026-10-22T04:45:55.977Z
 decision: null
 decision_answer: null
 ---
