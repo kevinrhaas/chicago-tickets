@@ -1,7 +1,7 @@
 ---
 id: T-2918
 title: 1811 Prairie's entrance porch from the 1888 plate: the open round-arched porch about 1.8 m wide and deep on clustered columns with carved capitals, the door set far back in it, and the stair between scrolled stone cheek walls
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1892
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1179
 claimed_by: run 10/21/2026, 11:10:16 PM CT
 blocked_on: null
 needs_bake: false
