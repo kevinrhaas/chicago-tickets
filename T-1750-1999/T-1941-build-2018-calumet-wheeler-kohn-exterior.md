@@ -59,3 +59,9 @@ Owner, 2026-10-11: "if you have an image you should work towards it until it's a
 Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
 
 The building has pictures in the library but no 4D record yet: `pa-2018-s.-calumet-avenue-31`. When its record is made, add an `## Image gate` section here naming its structure id as a bullet, so this ticket closes only when it matches.
+
+## Image gate
+
+The district draft T-2982 made this building's record (PR #1180); this ticket refines it in place and closes only when every picture of it matches.
+
+- wheeler_kohn_house_2018_calumet
