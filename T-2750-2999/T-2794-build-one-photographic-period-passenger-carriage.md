@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 21:49 UTC
+
+Draft PR #1213 is pushed at df9fb149 with actual1047/381 preflight and postcommit publication PASS. This is a bounded first parked1893 Studebaker-design Brougham in1904, not photographic completion. Actual source near views show an improved opaque rear-quarter recess; world/canopy/contact/render-budget views remain pending. A real false-presence card lead is fixed in the saved staged delta, preserving all six legacy cards exactly. Normal merge to8249 and supported compile-liberties tail62536 are ACTIVE; no final gate/browser/merge yet. Next visual finding: front/door panes read too opaque against catalogue plate0095. A source/material plan is saved in the checkpoint; only after1213 lands, preserve geometry, contacts, lamps and ambiguous opaque rear quarter while testing reconstructed clear glazing. No new candidate is accepted.
+
 ## Checkpoint — 2026-10-22, 18:34 UTC
 
 ActualV15source8passes; V16materialstudy actual8technicallypass but darkertrim is a visualREGRESSION and is notselected. V17separateopaquequarterrecess actualraw+correctedexistingrawpackaging passes, originalstale-index FAIL preserved; noV17images/appacceptance. Completecapsules in newestcheckpoint.

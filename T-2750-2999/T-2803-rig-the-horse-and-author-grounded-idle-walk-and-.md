@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 21:49 UTC
+
+Source-only V7B actual65-pose study remains unaccepted: exact original isolated-tail weights, neutral rest, all65 mechanics/hoof/seam checks PASS; body skin deformation FAIL at unchanged limits (edge.778392–1.348984, area.520688–1.485031, zero negative normal dots). Original V7 ordered-ID implementation failure and identity-only corrected run are preserved. Capsule3d8ed614 is durable in the latest checkpoint. No gait GLB export, app animation activation or riding claim; do not substitute legacy native clips.
+
 ## Checkpoint — 2026-10-22, 18:34 UTC
 
 Actualnormalizedfilteredidle c255 has385poseactualMixer+shadernorm proofPASS: all4hoofpatches+732lowerlimbvertices0drift, clocks/loop/clone/disposePASS, old6neverplayed. ConsumerpeerCLEAR; actualworldvisual/fullgate next. Separate03a1experimental26jointstaticrig passesformat/staticshape but haszeroanimation and gait/selfcontact/nativevisualOPEN.

@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-22, 21:49 UTC
+
+Draft PR #1212 is pushed at fde6bc317 with actual1047/381 preflight and publication PASS. Original mobile51298 PASS verifies head/tail idle, exact fixed hoof patches, confidence/reduced-motion pause, picking and disposal. Desktop private timing failures remain failed with exact host-clock accounting; not a desktop idle acceptance claim. Modern model credit is removed from historical attested attributes in the saved own-card fix, with attribution/license retained and reconstructed placement explicit. Normal8249 merge is frozen4eda1bf9 with supported rederive PASS; final fullgate runner is ready/HELD for root's next slot. Photographic anatomy, breed/ownership attestation, walk/trot, harness/hitching, riders and boarding remain open.
+
 ## Checkpoint — 2026-10-22, 18:34 UTC
 
 Actualstandingidleconsumer/host is implemented in agent-owned secondary worktree; actual385poseCPUproof+consumerpeerCLEAR pass. FinalTRUEflags/sourcefreeze and requiredfullgate/publishedyardvisual stillpending. Originalstatic0bactualyardpass stayshistorical. Newnormalizedidleartifact and separate26jointtrial both0err0warn, notphotoclosure.
