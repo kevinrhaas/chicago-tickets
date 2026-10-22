@@ -135,3 +135,8 @@ Final person14323534e is pushed after full1042/380 preflight and postcommit mirr
 ## Actual normal-world side capture failure — 2026-10-22
 
 V13 current779 normal1904 side preview CLOSED/FAIL484.915s with zeroPNG. Nativecandidate/PMREM/sun/budget checks passed and fixed view was ready at328.077s; screenshot hit unchanged90s limit. Browser/server stopped and inputs unchanged. Explicit clearance, candidate GPUdisposal and scene restoration stages were not reached; browser teardown is not semanticcleanupPASS. ReadPixels stalls are consistent with slow renderer/readback, not conclusively diagnosed. Frozen failure/inputs/owner/caller saved in checkpoint-779-final-ci-and-rendering-followups; no model install or photographic acceptance. Reviewed static-interface/two-footplate source proposal remains unapplied/unexported.
+
+
+## Actual visual checkpoint — 2026-10-22, 16:34 UTC
+
+Actual V14 native baseline/candidate comparison passed eight fixed catalogue-camera desktop/mobile captures, root-reviewed against the1893 Studebaker plate. Two rounded footplates improve the depicted form. Finish/support/detail differences and actual1904world/phone integration remain open; near-only asset is not photographic or occupied acceptance. Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-actual-horse-yard-and-v14-native/`.

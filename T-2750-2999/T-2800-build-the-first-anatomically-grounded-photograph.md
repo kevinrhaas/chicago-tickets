@@ -232,3 +232,8 @@ Reviewed sourceV2+schema addendum remain not app-installed. One actual bounded m
 ## Pushed progress and recovery — 2026-10-22, 16:26 UTC
 
 The first static development placement is committed and pushed at `0b051fd75` on `steward/standing-horse-development-20261022`. Full preflight passed 1,047 checks/381 self-tests, postcommit publication/mirror passed, and the unchanged licensed model is durable on GitHub. Actual published-yard desktop review is active; the first full-body yard image was personally viewed. Original pre-horse welcome-entry test failure is preserved, and its reviewed sequencing correction keeps all original limits. Whole desktop/mobile, photographic anatomy/coat, tack, gait and riding acceptance remain open. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-2f-pushed-and-horse0b/`.
+
+
+## Actual visual checkpoint — 2026-10-22, 16:34 UTC
+
+Pushed standing-horse development source `0b051fd75` now passes actual published desktop and coarse-pointer mobile yard checks; all four images root-reviewed. Bounded retained support is12triangles/864bytes and actual mobile source yard arrays are released; selection/confidence/no-fetch/disposal pass. Photographic anatomy/detail, tack and motion/riding remain open. Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-actual-horse-yard-and-v14-native/`.
