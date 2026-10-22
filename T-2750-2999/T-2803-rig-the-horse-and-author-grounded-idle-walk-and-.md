@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root parallel team circuit: native horse gait agent 10/22/2026, 11:57:00 AM CT
+claimed_by: root continuing validated people and transport work; independent claim 10/22/2026, 2:35:45 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-22T16:57:01.550Z
+claimed_at: 2026-10-22T19:35:47.606Z
 decision: null
 decision_answer: null
 ---
