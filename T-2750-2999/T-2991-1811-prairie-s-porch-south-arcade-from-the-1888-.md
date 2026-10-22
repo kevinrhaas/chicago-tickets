@@ -1,7 +1,7 @@
 ---
 id: T-2991
 title: 1811 Prairie's porch south arcade from the 1888 plate: three round-arched lights on colonnettes (x 476, 490 and 501 px, capitals y 680-690, crowns y 647-660) on a face receding from the front at about v 9.4-9.5 by the camera, where the solve puts the entrance block's south corner at v 10.40 (x 510); read the block's south return and the porch's side wall, then build it (K01's loggia side arch opens only an end wall)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -11,15 +11,14 @@ parent: T-2984
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: run 10/22/2026, 7:09:53 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39774356402
-claimed_at: 2026-10-22T12:09:54.054Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2989,T-2991
 ---
 
 1811 Prairie's porch south arcade from the 1888 plate: three round-arched lights on colonnettes (x 476, 490 and 501 px, capitals y 680-690, crowns y 647-660) on a face receding from the front at about v 9.4-9.5 by the camera, where the solve puts the entrance block's south corner at v 10.40 (x 510); read the block's south return and the porch's side wall, then build it (K01's loggia side arch opens only an end wall).
@@ -36,3 +35,5 @@ When T-2984 was split (2026-10-22T05:55:23.370Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39729396513) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-22** (claim of run 10/22/2026, 7:09:53 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/39774356402): T-2989's re-read (now T-3005) finds the entrance block's south corner ROUNDED, about 0.9 m radius: the arcade's colonnettes (x 476, 490, 501) step down because they run round that curve, not along a flat receding return. The arcade stands on the curve, so it waits on T-3006, which teaches K01 the rounded corner.
