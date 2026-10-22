@@ -2,7 +2,7 @@
   "code_commit": "d3685569c5284946ab400deb0d2ccd0aa17a06be",
   "code_branch": "steward/t3040-fort-reference-groups",
   "pr": "https://github.com/kevinrhaas/chicago/pull/1218",
-  "state": "review; GitHub CI pending; not merged at this checkpoint",
+  "state": "PR review; integrating newer dev after STATUS.md-only conflict; combined-tree preflight running, merge commit not yet made",
   "full_preflight": {
     "exit": 0,
     "checks_passed": 1047,
@@ -27,5 +27,14 @@
     "validation/t3040-preflight-final.log.gz": "6aac071147d0c47b29a725d7fccd9eb85a01a008c24e7dd4bdcedc28257fc628",
     "validation/t3040-smoke-desktop.log.gz": "9a2f492f3a6d77c2651a15405ff18bd984ec81505c06be1080c81d0b42af9d0b",
     "validation/t3040-smoke-mobile.log.gz": "6f1811a991e031e71a79c175cd98b1d46120882db922aeefecf1080cd0600cd4"
-  }
+  },
+  "pending_dev_merge": {
+    "dev_commit": "ad95c276100e6c8c05b90fe97c0f3323e5206df0",
+    "local_preflight_log": "/tmp/t3040-preflight-merged.log",
+    "local_check_log": "/tmp/preflight-check.log",
+    "exit_marker": "/tmp/t3040-preflight-merged.exit",
+    "execution_session": 70625,
+    "resolution": "Retain both fort T-3040 and new building-date T-3037 status entries. The fort section precedes T-3037 to avoid another end-of-file conflict. Both fort group fingerprints still match the saved comparisons."
+  },
+  "validation_scope": "Saved 1047-check preflight and smoke logs validate the original pushed code tree; new combined-tree validation is pending."
 }
