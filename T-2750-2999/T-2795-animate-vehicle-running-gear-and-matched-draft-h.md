@@ -69,3 +69,8 @@ See `evidence/period-transport-2026-10-18/fit-followup.md` and `CHECKPOINT.md` f
 ## Owner priority and parallel checkpoint — 2026-10-22, 17:13 UTC
 
 Parallel source adapter now covers actual W01 steering/rolling and existing reconstructed teamster Bardwell seating identity. Native horse gait, fitted harness/coupling, driver contacts and live world proof remain incomplete. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-b092-pushed-and-natural-idle-teams/`.
+
+
+## Checkpoint — 2026-10-22, 19:44 UTC
+
+Separately versioned seated sourceV2 passed independent authoring review only. Internal22.096mm rise clears all four CPU LODs with fixed shoes, but near support gap4.49mm, wrists/palms rise22.096mm, tiny coarse export margin. Actual canonical export, support/reins/harness/load/world acceptance remain open; live driver disabled.

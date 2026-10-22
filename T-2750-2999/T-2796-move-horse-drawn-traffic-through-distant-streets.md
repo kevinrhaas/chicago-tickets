@@ -80,3 +80,8 @@ The earlier mobile crop failure remains preserved. Archive `79b82d0c…` is save
 ## Owner priority and parallel checkpoint — 2026-10-22, 17:13 UTC
 
 Owner prioritizes first repeating team circuit before population expansion/player riding. Actual finite route/controller work is underway with fixed steering, road/ROW/terrain/static-obstacle bounds; no live moving-team or phone acceptance yet. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-b092-pushed-and-natural-idle-teams/`.
+
+
+## Checkpoint — 2026-10-22, 19:44 UTC
+
+Active source extension is checking continuous provisional rigid-team clearance and dry worked-earth shoulders within correct ROW; no widened wear mask or moved historic geometry. Existing worn7mcore failure remains visible. Full actual animated horse/harness sweep and world/phone proof remain open.

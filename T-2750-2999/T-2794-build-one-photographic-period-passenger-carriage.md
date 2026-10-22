@@ -150,3 +150,8 @@ V13 current779 normal1904 side preview CLOSED/FAIL484.915s with zeroPNG. Nativec
 ## Actual visual checkpoint — 2026-10-22, 16:34 UTC
 
 Actual V14 native baseline/candidate comparison passed eight fixed catalogue-camera desktop/mobile captures, root-reviewed against the1893 Studebaker plate. Two rounded footplates improve the depicted form. Finish/support/detail differences and actual1904world/phone integration remain open; near-only asset is not photographic or occupied acceptance. Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-actual-horse-yard-and-v14-native/`.
+
+
+## Checkpoint — 2026-10-22, 19:44 UTC
+
+V17 actual eight-image source comparison PASS and reviewed. Independent DEVccad app intake now installed on branchsteward/t2794-brougham-v17-20261022 in reused/tmp/chicago-covered-sag. First compilation found missing Recorded metadata; corrected own entry, separate supported rebuild active. No fullgate/commit/world acceptance yet. Planned stand is25.157m from1904spawn and may add33502triangles; do not waive budget.

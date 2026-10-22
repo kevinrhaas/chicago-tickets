@@ -247,3 +247,8 @@ The first static development placement is committed and pushed at `0b051fd75` on
 ## Actual visual checkpoint — 2026-10-22, 16:34 UTC
 
 Pushed standing-horse development source `0b051fd75` now passes actual published desktop and coarse-pointer mobile yard checks; all four images root-reviewed. Bounded retained support is12triangles/864bytes and actual mobile source yard arrays are released; selection/confidence/no-fetch/disposal pass. Photographic anatomy/detail, tack and motion/riding remain open. Evidence: `evidence/parked-vehicles-2026-10-22/checkpoint-actual-horse-yard-and-v14-native/`.
+
+
+## Checkpoint — 2026-10-22, 19:44 UTC
+
+Enabled-idle horse source adapted onto pushed person03ef, staged12cc9286011176d7502f308ed2782055b6e1282f. Supported rebuild PASS, all60 horse-only files byte-identical. Recovery capsule770a1d22 saved. Full preflight/current published idle yard still pending.

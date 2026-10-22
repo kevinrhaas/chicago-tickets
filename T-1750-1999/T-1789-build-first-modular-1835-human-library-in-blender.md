@@ -237,3 +237,8 @@ PR1175 remains draft at779978bce pending the last required desktop smoke stage13
 ## Pushed progress and recovery — 2026-10-22, 16:26 UTC
 
 PR1175 is pushed at `2f1bad56f`; full preflight passed 1,046 checks and publication/mirror passed. At 16:21, direct GitHub reads verified all 23 expected source-run identities: 19 succeeded, four smokes running, no failed conclusions. DEV advanced again and requires final conflict resolution and changed-dependency validation before merge. Prior actual person desktop/mobile images remain evidence at their original head; three supplemental readiness failures remain open. Broad photographic library scope is not closed. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-2f-pushed-and-horse0b/`.
+
+
+## Checkpoint — 2026-10-22, 19:44 UTC
+
+Pushed person repair03ef5178977184928cf454011737ea2b17607b5d for PR1175 after full1047/381 preflight and postcommit publication/mirror PASS. DEV subsequently advanced to4459c0e22; current merge/CI/rendering eligibility remains pending. Broad photographic library stays open.

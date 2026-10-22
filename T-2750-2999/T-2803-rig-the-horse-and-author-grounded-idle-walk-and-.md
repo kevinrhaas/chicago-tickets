@@ -78,3 +78,8 @@ Durable inputs, failed receipts and current recovery instructions: `evidence/per
 ## Owner priority and parallel checkpoint — 2026-10-22, 17:13 UTC
 
 Owner explicitly expects natural standing shifts rather than frozen figures. Native horse clips fail as walk/rest idle; safe head/tail-only idle and independent-limb rerig/gait work are being prepared, with contact/animation/browser acceptance pending. Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-b092-pushed-and-natural-idle-teams/`.
+
+
+## Checkpoint — 2026-10-22, 19:44 UTC
+
+Reviewed c255 idle asset and consumer/host/runtime remain byte-identical after03ef integration. Current enabled source12cc9286 and held yard pins are recoverable. New current source gate and actual idle yard desktop/mobile remain required; old static0b proof is historical. Gait/26joint rig animation remains open.
