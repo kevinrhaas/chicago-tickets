@@ -62,3 +62,9 @@ Primary-source manufacturer/type register now acquired and backed in evidence/pa
 ## Active parallel completion — 2026-10-22 03:04 UTC
 
 Assigned to vehicle evidence completion agent; finish the exact research/specification acceptance with existing inspected-image, rights and manufacturer evidence. Implementation and photographic masters are separate follow-on acceptance. See `WORKPLAN-PEOPLE-TRANSPORT.md` for current owners and dependency order.
+
+## Completed research acceptance — 2026-10-22
+
+All five research/specification clauses have reviewed deliverables in evidence/period-transport-2026-10-18: current geometry/counts/license/placement inventory, fourteen actually inspected relevant image records with precise coverage and rights, bounded W01/1893 Studebaker Brougham first selections, executable vehicle-master specification and concrete model handoff. The original LoC master access failures remain recorded; catalog access succeeds and does not establish ownership. Kinzie Dearborn evidence is explicitly the1831 journey, chaptersXXIII/XXIV pp297/302. Existing W01/C02 remain unbranded. The actual twelve-view V10 carriage comparison now passes, with photographic/world acceptance still open in T2794.
+
+App source records are integrated in staged treec0b314187a80cbcf8cc115ffeec8f400386b827e for PR1174. First fullgate caught the stale derived Kinzie resident export; ordinary regeneration and package check passed, and the second fullgate is running. Mark review only after a successful gate and actual app push. Independent source/asset review found no blocking findings. Current research scope does not close photographic model, motion or occupied interaction tickets.

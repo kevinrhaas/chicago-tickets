@@ -59,3 +59,9 @@ Read `evidence/period-transport-2026-10-18/carriages.md`, `horses.md`, and `view
 ## Active parallel completion — 2026-10-22 03:04 UTC
 
 Assigned to horse reference and master handoff agent; reconcile stale no-mesh statements against actual current horse/rig/harness and complete the reference/specification acceptance before anatomical master production. See `WORKPLAN-PEOPLE-TRANSPORT.md` for current owners and dependency order.
+
+## Completed research acceptance — 2026-10-22
+
+All five research/specification clauses have reviewed deliverables: exact current horse/rig/harness/runtime inventory, dated inspected source register, explicit period versus later/modern analogy limits, executable horse-master specification and concrete source/rights/model handoff. The actual current horse is715316bytes/14172triangles/6draws/15joints; harness is602980bytes/8012triangles/36parts. These remain procedural fixtures. Sixteen source frames were actually viewed, including direct Moore1891 light-buggy harness and trace dimensions, separate English-coach collar/hames and riding-saddle engraving. Modern CC0 anatomy does not attest an1835 breed, coat or tack.
+
+App docs horse-master-spec.md/.json, horse-reference-register-20261022.json and source records are integrated in staged treec0b314187a80cbcf8cc115ffeec8f400386b827e for PR1174; full gate retry is running after ordinary Kinzie-derived package repair. Mark review only after successful gate and actual app push. Master geometry/photographic coat/hair, tack fit, animation, world placement and riding remain open. T2800 next source-only draft is outside the app and awaits a fresh exact installed-baseline visual comparison.
