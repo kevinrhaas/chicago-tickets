@@ -1,7 +1,7 @@
 ---
 id: T-3059
 title: 1801 Prairie's south pavilion's chamfered south-west corner built from the 1911 sheet (0.44 m along its front, back to the south wall 0.35 m behind the wall's face): K08's shallow projection stands a canted face from the front's corner to the side wall's plane under its kneeler, K01 cuts the house's own corner under it from grade to the soffit, the gable stands on the shortened front with its rise held, and the Taylor camera's south-west bearing is re-checked against the chamfer's near end
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3048
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 2:54:54 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39915708053
+claimed_at: 2026-10-23T07:54:55.472Z
 decision: null
 decision_answer: null
 ---
