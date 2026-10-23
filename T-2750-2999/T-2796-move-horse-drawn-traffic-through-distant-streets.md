@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 1:06:20 AM CT
+claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 3:32:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T06:06:21.483Z
+claimed_at: 2026-10-23T08:32:57.904Z
 decision: null
 decision_answer: null
 ---
