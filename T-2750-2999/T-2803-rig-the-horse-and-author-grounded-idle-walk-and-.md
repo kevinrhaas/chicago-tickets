@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: Codex PR1244 green-merge continuation 10/23/2026, 1:33:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T18:33:17.800Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2800,T-2803
 ---
 
 ## Delivery progress — 2026-10-23 10:14 UTC
@@ -169,3 +168,5 @@ Owner approved using fresh GitHub CI for this reviewed integration after local p
 PR [chicago#1244](https://github.com/kevinrhaas/chicago/pull/1244) merged normally into DEV as `fa115d72534e234fe5ac7b94fd2f1a3eb38065c8`, tree `43665a4b692d5283defba96f236aed14b3c02623`, on reviewed DEV `eb1a0d11`. Exact source `f225b8ae` passed all three fresh applicable GitHub checks: gate [40004752292](https://github.com/kevinrhaas/chicago/actions/runs/40004752292), 1055 steps/382 self-tests; moving frames/phone [40004752222](https://github.com/kevinrhaas/chicago/actions/runs/40004752222); report [40004742266](https://github.com/kevinrhaas/chicago/actions/runs/40004742266). Actual PR checkout/tree/parents and postmerge tree/single DEV parent verified. No admin/bypass or manual workflow dispatch.
 
 Delivered one reconstructed selectable 1835 Western Hotel yard horse with a planted 12-second standing shift, bounded yard support and host pause/visibility/resource ownership. Automatic DEV preview delivery is being verified. This partial merge does not satisfy photographic anatomy/eyes/hair/coat, near/mid/far qualification, walk/trot, complete tack, teams/drivers or riding acceptance. The broader ticket remains unfinished. Final receipts: `chicago-evidence/evidence/horse-pr1244-approved-delivery-2026-10-23/ACTUAL-GREEN-DEV-MERGE/` and `ACTUAL-STRICT-NORMAL-THREE-TERMINAL/`; see HANDOVER.md.
+
+**Released 2026-10-23** (claim of Codex PR1244 green-merge continuation 10/23/2026, 1:33:15 PM CT): PR1244 merged green to DEV fa115d7 and exact public horse assets verified. Session wrap; photographic master and full walk/trot, gear and riding acceptance remain unfinished. Final receipts pushed to chicago-evidence cc2949e; resume HANDOVER.md.
