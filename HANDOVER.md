@@ -4,6 +4,12 @@ This is the current control state. Older detailed history is preserved in Git th
 
 ## Newest actual control state — 2026-10-23, 00:48 UTC
 
+### 01:00 UTC integration control — supersedes prior active workflow
+
+Selected1175incoming39880078603 CLOSEDsuccessbutNOHEADCHANGE: realconflict authoredSTATUS/ROADMAPEOF plus4deriveduses/index/report. Rawjob120176517834logsaved. Rootreacquired1175lapafterterminal; dev_date_delta_audit nowSOLEPRIMARYappwriter, actualno-commitDEVb6merge has6conflicts. Bothauthoredsectionsresolvedbycompletebytehunkunion/outsidebytesexact;4derivedawaitcanonicalrederive --resolve. MergedsmokeEXACTd5d0d297, personpinsawaitfinalcheck. CanonicalignoredGLessnerlightrefreshneedsoldexternalpreservation; master/fullwebalreadycorrect. RootwillreleaseprimaryEXCLUSIVEheavyrederive/fullgate afterthiscanonicalpush. CarriageagentonlylightW01+DEVstaging inothercheckout; noheavyuntilprimaryterminal.
+
+Budgetagentcarriage_geometry_budget externalonlyinspectinggenuineanalyticcurve/tessellationrecipe whilekeepingnear/468semanticparts/sourceidentity/anchors. Actual3fdesktoppart14counter4,599,762/4.6M has238headroom. No additive/replacementbudgetPASSclaimed. V9gaitrejectedcapsulec03feece nowcanonical. All8rootclaimsrenewed00:49.
+
 ### 00:54 UTC checkpoint — newest source/action ownership
 
 Carriage1213 COMMITTED+PUSHED0be5e645e016a212bd04eeda58e893472650d3d0/treed6aff82; fullpreflight1049/381PASS696.251s, actualHEADchecksPASS, normalpostpublish45.298s/mirror1.119sPASS/clean. Recoveryd51764ae. RootacceptedW01V4Btimberincrementafterpersonallyviewingall4PNGs: correctedunitPASS5.46s/zeroerrors/closed, firststalepinFAILpreserved. Recoveryc33ae02d. NOTphotographiccompletion. Carriageagent nowSOLEappwriter in /tmp/chicago-covered-sag authorizedprepare reviewedDEVb6 no-commitintegration + normalfreshW01intake + appendproperlicense/provenance/docs/oneexistingchangelogentry; reportstagedsourcebefore rootnewfullgate release. Wagonagentexternalpayloadowneronly. Do not advanceorigin/dev. Noappapplyelsewhere.

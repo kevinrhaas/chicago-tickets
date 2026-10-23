@@ -258,3 +258,8 @@ Pushed person repair03ef5178977184928cf454011737ea2b17607b5d for PR1175 after fu
 PR1175 supported selected CI fold39871276267 succeeded and pushed3f73940923d6cd1883334e7170e1b5e78245a7c6, tree18ef0b142bde657b96f7831a920a682c9ca8d97d, directparents8f5127d4+DEV73aefb020. All46incomingpaths exactlymatch the knownDEVdelta;63protectedperson/scene/main/smokepins are byte-exact. Root reacquired the ordinary lap lease and fast-forwarded clean primary; no sharedorigin/devadvance or production promotion.
 
 Historical8f selected14/15four are now all strictPASS, includingdesktop14 actual140/0; actual8fcdesktop14 still pending. These retain historicalsource labels. New immutable3f published14desktop/mobile runs39873849709/39873853044 were each accepted/discoveredonce; strictfixed-IDcollector2025419/session90748. New normalCI collector2024800/session13565 observes actual3f/mergee94e(sametree18ef), nottheoldnormal8f qualification. Current merge stillconditional on applicable new results. Recovery in checkpoint-current-person-pushed-3f-and-horse-green. No photographic-library completion.
+
+
+## Delivery checkpoint — 2026-10-23, 01:00 UTC
+
+PR1175 source3f73940923 passed both current desktop/mobile fullpart14 (140assertions/0failures each) plus all four normal source checks. NewDEVb6 introduces building-date UI, source catalog updates and Ames geometry. Selected supported integration39880078603 refused authored STATUS/ROADMAP EOF conflicts without pushing. Owning agent now resolves both complete authored additions, preserves incoming records plus all person pins, and uses canonical derived regeneration before a new fullgate. No merge claimed; renewed root claim remains active.

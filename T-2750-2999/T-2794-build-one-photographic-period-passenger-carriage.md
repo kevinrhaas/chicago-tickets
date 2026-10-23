@@ -171,3 +171,8 @@ V17 actual eight-image source comparison PASS and reviewed. Independent DEVccad 
 Genuine ring16mid22238tri saves11264 while near33502tri/contacts/other452parts remain exact. External19file normal runtime patch9f265b55 and ZIPe0a946db are saved; no appactivation. ActualvendoredThree/nativeGLTF source tests pass:7mergedmaterialbatches/level,24mminimumscreen-scaled5%hysteresis,active-onlypicking,100/65/Lightreach,cache/failurefallback/disposal and6legacycards. Fixednative near/midA/B beingprepared; currentworld budget and visual/photo acceptance remainOPEN. Earlierworlddeadline failures remainFAIL.
 
 Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.
+
+
+## Delivery checkpoint — 2026-10-23, 01:00 UTC
+
+PR1213 pushed0be5e645e016a212bd04eeda58e893472650d3d0 with genuine22,238-triangle mid detail and reliable mobile asset loading. Fullpreflight1049checks/381selftests, actualHEAD checks, postcommit publication and mirror passed. Original near model/legacy assets preserved. Draft remains: currentDEV integration and actual street budget/visual qualification pending. Root is adding the accepted W01 material increment in this same parked-vehicle branch. Current3f desktop street budget has only238tri headroom, so additive carriage is not qualified; genuine further geometry savings are being investigated without changing caps/cameras. Broad photographic acceptance remains open.

@@ -94,3 +94,8 @@ Reviewed c255 idle asset and consumer/host/runtime remain byte-identical after03
 ONEV8candidate improved edge ratios .778392–1.348984→.784081–1.298114 and areas .520688–1.485031→.550116–1.424873, stillFAIL unchanged .9–1.1/.8–1.2caps. Actualunprunedfield alsoFAILS; persistent upperfore/chest triangles5378/5342 mean pruningalone is notthecause. Mechanics/stance/loop/seams/neutral/tail preservation pass. Actualexit2/rawdiagnosis/sourcepatch archived6936d38d. Noexport/activation/secondcandidate or thresholdchange.
 
 Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.
+
+
+## Delivery checkpoint — 2026-10-23, 01:00 UTC
+
+One anatomically motivated V9 support-mask study was tested once against the unchanged65pose checks: mechanics pass, skin fails badly at hard hoof boundaries (edge.06487–8.28369, area.03165–11.09850,38negative normals). Rejected, no export or activation. The earlier V8 chest influence defect is real, but simple post-solve compact masking contradicts full foot-surface ownership. Future work must integrate that boundary into the solve. Source/raw failure/next-step capsule c03feece is saved alongside the latest checkpoint.

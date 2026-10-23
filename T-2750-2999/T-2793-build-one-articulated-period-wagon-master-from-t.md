@@ -138,3 +138,8 @@ Only licensed modern timber pixels are transferred from Lyskilde/longtail's Old 
 Minimal external atlas intake patch41cfd8b5 is saved. ActualWebGL2renderer supportsNPOT/mipmaps but resizes oversizedimages, so patch passesactualmaxTextureSize and selects ORIGINAL fallback BEFOREcandidatefetch for missing/nonfinite/<2576caps. High/exact2576cap usescandidate;Lightfetchesneither;negativecontrol rejectsdisabledguard. ActualGLBsourcefixture merges5batches/9textures (not23appdrawcalls). Exactfresh-baseline appendbinder reproducesd65a4c and rejects3mutations; fullfreshproducerchain remainsunrun. EstimatedactiveRGBA8+mips12,976,992B,+6,685,308overbaseline, outsidebuildingresidencypool. NativeA/B/coarsemips/deviceGPU/photo acceptance remainOPEN; sourcepatchnotapplied.
 
 Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.
+
+
+## Delivery checkpoint — 2026-10-23, 01:00 UTC
+
+Root reviewed all four V4B native images and accepted a bounded finer timber material improvement over the flat tan baseline. Corrected capture passed5.46s with zero browser/GL errors and closed cleanup; stale source-pin attempt remains failed and saved. Fresh original wagon generation reproduces the candidate. Normal intake is assigned to the existing parked-vehicle PR1213; preserve GPL geometry/charts and CC0 modern PolyHaven pixel attribution. Repeated grain and faceted paint/iron remain; photographic master acceptance stays open. Recovery c33ae02d is in the newest evidence checkpoint.
