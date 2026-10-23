@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2384
 opened: 2026-10-23
 closed: null
-pr: 1239
+pr: 1256
 claimed_by: null
 blocked_on: null
 needs_bake: true
