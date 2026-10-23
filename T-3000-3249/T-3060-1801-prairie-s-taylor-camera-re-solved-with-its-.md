@@ -1,7 +1,7 @@
 ---
 id: T-3060
 title: 1801 Prairie's Taylor camera re-solved with its south-west bearing on the chamfer's near end (u 20.6, v 10.56), where T-2538 laid it on the chamfer's back (u 20.1, v 11.2), which the camera cannot see: the pavilion renders about 15 px south of the print across its whole face (its corner at x 1356 against 1335-1343, its north cheek from 1247 against 1232-1250); refit the eye, yaw and focal length to the four bearings and the scale lengths, re-read every height read through the camera, and bring the corner within about 5 px of the print's
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3048
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1243
 claimed_by: run 10/23/2026, 10:18:44 AM CT
 blocked_on: null
 needs_bake: false
