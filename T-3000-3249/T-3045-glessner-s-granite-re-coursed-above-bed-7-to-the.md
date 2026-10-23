@@ -1,7 +1,7 @@
 ---
 id: T-3045
 title: Glessner's granite re-coursed above bed 7 to the measured heights: Taylor 2135 (T-3026's reading) reads beds 7-23 about 4.5-4.75% over the printed inches relative to the openings, bed 23 at 22.2-22.4 ft door, agreeing with sheet 6 (22.39-22.49) against the record's 21.63; rule T-2986's printed-inches ruling again on it, lay the beds on both granite faces round the NE corner, carry the 18th Street apertures set on the string's sums (L305) and the north eave (sheet 4's 23.1 ft ng), rebake, and re-read the photographs' course items
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3026
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1226
 claimed_by: run 10/22/2026, 8:55:55 PM CT
 blocked_on: null
 needs_bake: false
