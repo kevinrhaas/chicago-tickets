@@ -1,7 +1,7 @@
 ---
 id: T-2980
 title: Upgrade selected covered wagons while preserving their distinct finishes
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-21
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:31 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:32.398Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -135,3 +135,5 @@ Final person14323534e is pushed after full1042/380 preflight and postcommit mirr
 ## Checkpoint — 2026-10-22, 19:44 UTC
 
 Increment committed/pushed0656467069ee3f8d0a40685ee571ceaaf4b0a2d7, full1046/381 preflight and postcommit publication/mirror PASS. Draft PR1208 opened. Actual mobile published stage8 PASS21/0; desktop and normal CI pending at last finite audit. Targeted stage8 is not whole-gate qualification. Parent remains claimed/open for photographic work.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:31 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
