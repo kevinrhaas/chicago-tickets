@@ -1,7 +1,7 @@
 ---
 id: T-3056
 title: Correct early-building image credits and evidence limits
-state: claimed
+state: open
 epic: TOWN
 requested_by: steward
 seen: false
@@ -11,15 +11,14 @@ parent: T-2384
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex frame generator and church source prerequisites; continuing own work 10/23/2026, 8:55:28 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T13:55:29.636Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3055,T-3056
 ---
 
 Correct image attribution, chronology and identification for St Mary's, the Beaubien homestead and the log jail. This source prerequisite supports T-2384, T-2378 and T-2380; their full Image gates remain open.
@@ -37,3 +36,5 @@ For the jail, record the actual UCR/Calisphere catalogue credit and combined 193
 ## FILED ABOVE BAND 9, BECAUSE IT BLOCKS
 
 The selected image-match work cannot rely on an invented engraving date, unresolved building identity or unsupported rights claim. These corrections preserve useful attribution while the original geometry comparisons continue.
+
+**Released 2026-10-23** (claim of Codex frame generator and church source prerequisites; continuing own work 10/23/2026, 8:55:28 AM CT): Owner requested session wrap. Canonical work is pushed at 792598d88056dbc768bb5062258a803c6a62524b in draft resume PR https://github.com/kevinrhaas/chicago/pull/1239 . Exact corrected local1056PASS and source-tree/commit proof archived at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Resume the existing PR after Hogan1229, merge current dev and finish final published desktop/mobile coverage before merging. This release does not mark prerequisite or original picture work done.

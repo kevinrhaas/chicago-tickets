@@ -1,7 +1,7 @@
 ---
 id: T-3055
 title: Frame-tavern picture controls preserve legacy geometry
-state: claimed
+state: open
 epic: TOWN
 requested_by: steward
 seen: false
@@ -11,15 +11,14 @@ parent: T-2376
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex frame generator and church source prerequisites; continuing own work 10/23/2026, 8:55:28 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T13:55:29.635Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3055,T-3056
 ---
 
 Frame-tavern picture controls preserve legacy geometry.
@@ -61,3 +60,5 @@ Image gates and meet them before calling the ticket complete.
 A follow-up goes to the foot of band 9 unless dev's gate is red on it or the build in hand cannot finish without it (owner, 2026-09-27). This one was placed above band 9 on this reason:
 
 > Green Tree, Sauganash and Tremont picture work needs consumed bay, gable and corner-elevation controls with preserved defaults; this closes only the shared generator prerequisite, never the original image gates
+
+**Released 2026-10-23** (claim of Codex frame generator and church source prerequisites; continuing own work 10/23/2026, 8:55:28 AM CT): Owner requested session wrap. Canonical work is pushed at 792598d88056dbc768bb5062258a803c6a62524b in draft resume PR https://github.com/kevinrhaas/chicago/pull/1239 . Exact corrected local1056PASS and source-tree/commit proof archived at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Resume the existing PR after Hogan1229, merge current dev and finish final published desktop/mobile coverage before merging. This release does not mark prerequisite or original picture work done.
