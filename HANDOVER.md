@@ -4,6 +4,17 @@ This is the current control state. Older detailed history is preserved in Git th
 
 ## Newest actual control state — 2026-10-23, 00:48 UTC
 
+### 00:54 UTC checkpoint — newest source/action ownership
+
+Carriage1213 COMMITTED+PUSHED0be5e645e016a212bd04eeda58e893472650d3d0/treed6aff82; fullpreflight1049/381PASS696.251s, actualHEADchecksPASS, normalpostpublish45.298s/mirror1.119sPASS/clean. Recoveryd51764ae. RootacceptedW01V4Btimberincrementafterpersonallyviewingall4PNGs: correctedunitPASS5.46s/zeroerrors/closed, firststalepinFAILpreserved. Recoveryc33ae02d. NOTphotographiccompletion. Carriageagent nowSOLEappwriter in /tmp/chicago-covered-sag authorizedprepare reviewedDEVb6 no-commitintegration + normalfreshW01intake + appendproperlicense/provenance/docs/oneexistingchangelogentry; reportstagedsourcebefore rootnewfullgate release. Wagonagentexternalpayloadowneronly. Do not advanceorigin/dev. Noappapplyelsewhere.
+
+ALL8independentclaims renewed/pushed00:49, currentuntilabout03:49UTC. Repo-modecanonicalpush ISclaimlock; no embeddedclaimbranchesexpected. Prior01:05/02:00renewalwarningssuperseded. Selected1175incoming39880078603 active at checkout00:52; soleGETwatcher62305. GuardedlycanceledblockingBROADautomatedintegration39879008747 once; nogate/smoke canceled. Actualsource3fawaitingsupportedpush. Audits/HELDqualificationpacket7ba98b6b includesactualAmes+543tri/+1matanddatesourcechanges, expectedpostincomingd5d0d297smoke preservingupstreamHogan/root3repairs. Noallcurrent18PASSclaim.
+
+Gaitagent oneV9checkerACTUALFAIL2.184s,38negativefaces/skinseverelyworse; REJECTED/unexported/inactive. Sourcewitnessdiagnosiswasinsufficient. No furthercandidate/tuning authorized. ItsCPUlaneclosed; carriagegate notyetreleasedpendingstagingreport.
+
+Newestcanonicalevidence checkpoint-pushed-carriage-and-accepted-wagon-timber carriespushedsourcegatelogs, actualaccepted/rejectedwoodhistory, fullincomingaudit andindependentrenewals.
+
+
 This section supersedes conflicting older live-status statements below. PR1175 source3f73940923 BOTHcurrent14 desktop/mobile strict140/0PASS, allfournormalchecksPASS; old collectors CLOSED0. Final guard correctly refused DIRTY because DEV advanced from73 to1c8 thenb6eb3e5fee325dc8c65380afa1f1d1b6c7985a59. No merge attempted/nativeautoOFF. Supported selected incoming workflow39880078603 accepted once00:46:09 againstb6, after verified root1175leaseae423 release. Sole GET-only watcher62305/PID2094569, dir PR1175-SCOPED-LAP-39880078603-GET-owner1. Do not duplicate dispatch. Current source remains3f pending actual supported push; reacquire lap only afterward.
 
 Date audit73→1c8 found631paths/605JSON, no geometry/numeric date bound changes; Glessnerlight BIN/render JSON byte-identical exceptrecipe. Building date wording/source catalog408→410 and16aggregates changed: fresh affected date/source qualification required. Subsequent1c8→b6 adds actual Ames1904oriel geometry +543tri/+1material, texturesunchanged, plus fort-analysis tooling. Need current1904 rendered qualification after integration. Carry exact unchanged1835person proofs with pins; do not claim wholecurrent14 from source-only reasoning.
