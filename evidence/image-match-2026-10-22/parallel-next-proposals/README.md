@@ -8,14 +8,13 @@ at the immutable snapshot; later success and merge are not inferred. Historical
 lap; original T-2377 and the sourceS gate are separate and open. See
 [the immutable50b6 evidence bundle](../hogan-pr1229-50b6-checkpoint-20261023T094744Z/README.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The thirty-eight archives
+one M plus S prerequisites. Original image gates stay open. The thirty-nine archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **20261023T095145Z**. All 32 prior archive payloads remain
-unchanged. This save adds the closed jail roof/compound/clearance/source dependency
-packets and actual-reviewed Sauganash roof/Tremont glyph previews. Canonical plans
-remain **UNAPPLIED**. Jail heavy previews, new official integrations/full gates and
-composed app QA remain **UNRUN**. All reviewed image comparisons still **differ**.
+Latest immutable checkpoint: **20261023T095659Z**. All 38 prior archive payloads remain
+unchanged. This save adds only a **historical prepared, actual-preview UNRUN**
+roof-tone packet. Its light proofs passed, but no new Blender/browser output,
+canonical adoption, composed-QA promotion or image acceptance is claimed.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -70,8 +69,9 @@ versioned name; later saves must retain these names and add a new version.
 | [T-2380-roof-source-dependency](T-2380-roof-source-dependency--EXACT_GALE_N79_SOURCE_DEPENDENCY--20261023T095145Z.tar.gz) | 2,363,179 | 2.363 | EXACT_GALE_N79_SOURCE_DEPENDENCY — Exact original roof-verifier JPEG plus title/copyright1902/p51/IA provenance; restore expected original path; source-only selected dependency packet |
 | [T-2383-roof-next](T-2383-roof-next--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz) | 4,743,583 | 4.744 | REVIEWED_DIFFERS_CANONICAL_UNAPPLIED — Actual pinned before/after exports and4comparisons reviewed by agent+parent; lower25.2degree roof/fullattic improvement; guarded adopter before glyph; canonical UNAPPLIED |
 | [T-2385-baked-arch-letters](T-2385-baked-arch-letters--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz) | 3,118,542 | 3.119 | REVIEWED_DIFFERS_CANONICAL_UNAPPLIED — Actual pinned TREMONT reconstructed glyph exports/comparisons reviewed;14tests/24defaultphases/40positionalAPI/namepool proof; guarded adopter and composedQA promotion prepared, browser UNRUN |
+| [T-2385-roof-tone-next](T-2385-roof-tone-next--HISTORICAL_PREPARED_ACTUAL_PREVIEW_UNRUN--20261023T095659Z.tar.gz) | 1,170,332 | 1.170 | HISTORICAL_PREPARED_ACTUAL_PREVIEW_UNRUN — Existing roof_colour enum dark_brown using existing stock;24legacy+viewedglyph defaults/40API/15tests/schema/ledger/rawpool PASS; actualpreview/adoption/QA promotion/browser UNRUN |
 
-All thirty-eight archives are below 95 MB. The original log snapshot retains its immutable
+All thirty-nine archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -84,6 +84,20 @@ frame tests archive has nine passing focused tests and four deliberate-fault pro
 its local generator/data symlinks are preserved as links and are not patch content.
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
+
+## Historical prepared roof-tone experiment — actual preview UNRUN
+
+[Prepared-state recovery](ROOF-TONE-PREPARED-RECOVERY--20261023T095659Z.json) preserves the explicitly reconstructed dark_brown
+extension to the existing roof_colour enum using existing material stock. It adds
+no field, palette, common helper, runtime mechanism or infill reconstruction block.
+The monochrome reference cannot establish brown pigment or weather-blackening.
+All 24 legacy phases plus the viewed glyph default outputs, 40-argument API and
+15 feature tests/schema/full-ledger/raw-name-pool checks pass in the light packet.
+Actual exports/comparisons, guarded adoption, current-QA promotion/browser and
+final official 23-family bake remain **UNRUN**. The adopter requires a future
+approved actual viewed receipt; no prepared state is called adopted. Current root
+QA was neither captured nor modified. Later preview evidence must supersede this
+historical packet separately, with its actual results and fresh guarded review.
 
 ## Closed jail proposals and actual-reviewed frame follow-ups
 
@@ -412,7 +426,7 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T095145Z.json)
+- [Latest combined manifest](MANIFEST--20261023T095659Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
 - [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
@@ -428,7 +442,7 @@ research cameras to accepted reference views merely to pass a gate.
 - [Church 1835 recovery/date/recipe metadata](CHURCH-1835-RECOVERY--20261023T064034Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All thirty-eight SHA256SUMS](SHA256SUMS--20261023T095145Z.txt)
+- [All thirty-nine SHA256SUMS](SHA256SUMS--20261023T095659Z.txt)
 - [Sixth checkpoint manifest](MANIFEST--20261023T070319Z.json)
 - [New note/trial/log-helper inventories](ARCHIVE-FILES--20261023T084840Z.json)
 - [New closed-package recovery](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json)
@@ -439,10 +453,13 @@ research cameras to accepted reference views merely to pass a gate.
 - [New closed-package file inventory](ARCHIVE-FILES--20261023T095145Z.json)
 - [New closed-package recovery](CLOSED-JAIL-FRAME-RECOVERY--20261023T095145Z.json)
 
+- [Prepared roof-tone file inventory](ARCHIVE-FILES--20261023T095659Z.json)
+- [Prepared roof-tone recovery](ROOF-TONE-PREPARED-RECOVERY--20261023T095659Z.json)
+
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T095145Z.txt
+sha256sum -c SHA256SUMS--20261023T095659Z.txt
 ```
 
 | Archive | SHA256 |
@@ -485,3 +502,4 @@ sha256sum -c SHA256SUMS--20261023T095145Z.txt
 | `T-2380-roof-source-dependency--EXACT_GALE_N79_SOURCE_DEPENDENCY--20261023T095145Z.tar.gz` | `9ba39a7846d7baf93f0f8a2cc1a495054c313b15d4d220b07d973bbb458564b6` |
 | `T-2383-roof-next--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz` | `45763590d61be87b298d078026c40b3f1cbbf682bb7ac7f99822d5e7129ecfce` |
 | `T-2385-baked-arch-letters--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz` | `4035d317457a29bd877affc35f4091d3c04a5c0da6bc886f274a5612b1428dad` |
+| `T-2385-roof-tone-next--HISTORICAL_PREPARED_ACTUAL_PREVIEW_UNRUN--20261023T095659Z.tar.gz` | `a432bc50eedd4273efa4f839d2a6bbe6357ca852afd15af662a8e261edad3a0b` |

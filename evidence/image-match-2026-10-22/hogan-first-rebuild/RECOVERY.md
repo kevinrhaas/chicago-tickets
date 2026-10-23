@@ -1,3 +1,5 @@
+Latest bounded CI recovery: [50b6 addendum](../hogan-50b6-ci-recovery-addendum-20261023T095659Z/README.md) preserves the original checkout timeout and successful authorized failed-job rerun. No geometry bake or dedicated-smoke success is inferred. Initial50b6 archive remains unchanged.
+
 Newer independent Hogan integration evidence: code head `50b6b0fe0ce661d513988ef913f296391d1c2bea` has official strict local preflight PASS1049 plus changelog/IDs; all ten exact-head workflows were still in progress at the frozen snapshot. No merge, match closure or sourceS gate result is implied. [Immutable bundle](../hogan-pr1229-50b6-checkpoint-20261023T094744Z/README.md).
 
 # Hogan recovery — 05f6, local and targeted QA pass; CI pending
