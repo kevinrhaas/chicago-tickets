@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:22 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:22.728Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -142,3 +142,5 @@ Actual canonical129 standing poses remain qualified numerically; no hosted new h
 ## Recovery checkpoint — 2026-10-23T13:46:24.204362+00:00
 
 Corrected1904b479 fitterV2 is independentlysource-reviewed, capsule27f584/receipta2780e00. Original reference/neutral/contact/temporal/ground guards retained; new absoluteworldprecision probe is informational, never an inventedproductbar. No numeric/Node/browser actualrun or1904activation. Canonical1835loaded129 proof unchanged. Sevenwhole preflightnonpasses preserved, G8pending.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:22 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
