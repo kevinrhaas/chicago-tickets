@@ -228,7 +228,7 @@ T-2381 — Match the Miller House to its pictures
 T-2382 — Match Philo Carpenter's log shop (the Sauganash's log wing) to its pictures
 T-2383 — Match the Sauganash Hotel to its pictures
 T-2384 — Match St Mary's church to its pictures
-T-3056 — Credit St Marys exact engraving and constrain its belfry date
+T-3056 — Correct early-building image credits and evidence limits
 T-2385 — Match the first Tremont House to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
