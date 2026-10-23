@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23, 05:12 UTC
+
+Combined vehicle refinement committed and pushed in [PR1213](https://github.com/kevinrhaas/chicago/pull/1213) at `cbb94c2d46223e4ca75fc4b02560f43c4de2e710`, tree52744e00. Full1052checks/382selftests, authored/HEAD checks and normal publisher/mirror/site validation PASS. First actual license-register failure retained; exact3row provenance correction only. Actual normalworld/current575DEV/normalCI qualification follows, draft/unmerged. This bounded material/LOD/cloth increment does not close photographic, occupied or parent acceptance. Latest full recovery is in HANDOVER.md and checkpoint-cbb94c2-vehicle-pushed-published.
+
+
 ## Checkpoint — 2026-10-23 04:24 UTC
 
 Combined latestb7 source stagedc9cd75; canonical681.356s and9 focused checksPASS. Exact43-file source archive254ec2f7 saved; old6c omitted-checker gap closed by immutable supplementfb1ee221. Normal publication is running; Full shadow parity/browser/fullgate/currentstreetqualification still pending. Detailednear/proxy/stands/caps remain unchanged. See current HANDOVER and immutable evidence.
