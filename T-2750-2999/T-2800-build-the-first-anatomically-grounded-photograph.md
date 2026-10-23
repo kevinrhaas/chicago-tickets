@@ -1,7 +1,7 @@
 ---
 id: T-2800
 title: Build the first anatomically grounded photographic horse master
-state: claimed
+state: split
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2798
 opened: 2026-10-18
-closed: null
+closed: 2026-10-23
 pr: 1244
 claimed_by: Codex resumed horse photographic refinement after own merged PR1244 10/23/2026, 5:45:48 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-23T23:59:05.954Z
 claimed_run: null
 claimed_at: 2026-10-23T22:45:49.099Z
 decision: null

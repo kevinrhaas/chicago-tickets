@@ -178,7 +178,10 @@ T-2797 — Board, ride and leave a carriage or wagon with accessible controls
 
 # --- 8E. PERIOD HORSES AND GEAR — photographic animals, tack, riders, then mounting/riding (epic T-2798)
 # Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
-T-2800 — Build the first anatomically grounded photographic horse master
+T-3086 — Repair planted horse eye UVs while preserving its mechanics
+T-3087 — Add a safe viewpoint at the Western Hotel yard horse
+T-3088 — Refine the horse anatomy and near silhouette against cleared views
+T-3089 — Qualify horse surface materials and portable distance exports
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
 T-2803 — Rig the horse and author grounded idle, walk and trot clips
