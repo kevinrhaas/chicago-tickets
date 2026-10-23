@@ -214,3 +214,12 @@ PR1213 pushed0be5e645e016a212bd04eeda58e893472650d3d0 with genuine22,238-triangl
 PR1175 is merged and catalogue-based V17 Brougham publicly delivered. V18 rounded coach-lamp source is saved in checkpoint-fixture-repairs-and-next-fullgate; near -128 triangles, MID unchanged, no exported/installed derivative or eight-view PASS yet. Existing actual world/readback failures and photographic acceptance remain open.
 
 **Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:15 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
+
+
+## Preserved scope after split — 2026-10-23
+
+T-3083 owns the bounded rounded-lamp delivery only. T-3084 retains this specimen's
+complete source-matched near appearance/materials and discrepancy register.
+T-3085 retains portable distance delivery, physical interaction interfaces and
+native published phone/desktop qualification. Every original acceptance clause
+above remains binding across those children; this parent is not photographic done.

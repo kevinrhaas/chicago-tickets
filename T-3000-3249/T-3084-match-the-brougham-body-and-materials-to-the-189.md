@@ -5,7 +5,7 @@ state: open
 epic: RENDERING
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-2794
 opened: 2026-10-23
@@ -35,4 +35,25 @@ When T-2794 was split (2026-10-23T23:55:23.513Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+## Scope and acceptance
+
+Finish the single already-selected Brougham's source-matched near appearance,
+retaining every photographic/material requirement of T-2794 not satisfied by
+the bounded T-3083 lamp refinement. This is one specimen, not a fleet or era variants.
+
+- Credit the existing cleared 1893 Studebaker catalogue design selection, exact date
+  interval and rights. Do not invent this carriage's maker, ownership or Chicago presence.
+- Match separate wheels/front steering, body, suspension, fixed pole/shafts,
+  steps/doors and seats to what the actual plate shows. Upholstery, wood, leather,
+  iron and glass must read correctly at conversation/boarding distance. Resolve the
+  remaining body/window/paint discrepancies instead of calling the current model complete.
+- Compare actual native side/front/rear/three-quarter and detail renders at matched
+  reference cameras. Maintain a discrepancy register and inspect the images themselves.
+  Record hidden interiors, dimensions and black-and-white colour choices as liberties.
+- Keep portable metres/axes, existing contacts/anchors/proxy and prior source protections;
+  any necessary revision must carry its own exact export and fresh proof.
+- Complete normal source gates. Hand the accepted exact asset hashes to T-3085 for
+  physical-interface, portable LOD and published phone/desktop qualification.
+
+The parent retains the entire original ask, sources and all historical increments.
+No photographic acceptance exists merely because T-3083 merges.

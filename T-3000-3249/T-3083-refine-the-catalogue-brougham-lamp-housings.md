@@ -35,4 +35,27 @@ When T-2794 was split (2026-10-23T23:55:23.513Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+## Scope and acceptance
+
+Deliver one bounded lamp-form refinement to the existing reconstructed 1904
+1893-catalogue Brougham. This child does not close its parent's photographic master.
+
+- Replace the tall angular coach-lamp heads with rounded upper housings and narrower
+  lower bodies, comparing fixed actual V17/V18 mesh projections with the unchanged
+  cleared 1893 catalogue plate. Root must inspect both full-quarter and detail pairs.
+- Preserve all non-lamp geometry streams, existing materials, nodes, anchors,
+  wheel/pole contacts, original near collision proxy, parked placement and runtime
+  reach/selection/resource policies. Reproduce and independently validate the new
+  near and genuine mid exports; reject stale receipt/acceptance metadata.
+- Bind current source, assets, licences and receipts to V18. Preserve V17 producer
+  and qualification history separately. CPU software-form review must never be
+  labeled native Three PBR, photographic or published world acceptance.
+- Complete the integrated app gate and normal required PR checks before DEV merge.
+  Native materials/photo matching and full world qualification remain T-3084/T-3085.
+
+## Saved work
+
+Actual C3 near/mid/LOD and negative-control receipts, independent 28-file intake,
+and root-reviewed CPU lamp comparisons are backed up in
+https://github.com/kevinrhaas/chicago-evidence/tree/main/evidence/transport-refinement-resume-2026-10-23
+(THIRD-CHECKPOINT). Original browser and OCI nonpasses remain preserved.
