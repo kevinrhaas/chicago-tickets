@@ -215,7 +215,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-2372 — Match Eliza Chappel's infant school to its pictures
-T-3053 — Record owner approval and source credits for the school and first Tremont pictures
 T-2373 — Match the 1832 lighthouse to its pictures
 T-2374 — Match Cobweb Castle to its pictures
 T-2375 — Match the Dearborn Street drawbridge to its pictures
