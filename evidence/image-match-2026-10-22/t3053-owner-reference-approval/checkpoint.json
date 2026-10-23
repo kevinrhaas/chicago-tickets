@@ -2,7 +2,7 @@
   "ticket": "T-3053",
   "branch": "steward/t3053-owner-reference-approval",
   "base_commit": "384e949d68a0505bce441be62eceb4602823c515",
-  "state": "WIP source approval update; schema/citation preservation checks passed; full preflight, smoke and code PR pending",
+  "state": "WIP: schema, unchanged visitor citations, compiled sidecars, rights gate and both published citation smoke slices pass; full reader-required preflight running before code commit",
   "owner_instruction": "ok i think those images are ok to use as public resources and just make sure you include things like that in sources",
   "source_ids": [
     "eliza_chappel_school_shore_view",
@@ -10,5 +10,12 @@
   ],
   "public_domain_asserted": false,
   "original_match_tickets_closed": false,
-  "patch_sha256": "2cc06a325574e68adadfe09429bf40fb2364898309436207a750cf454a5903b2"
+  "patch_sha256": "f548b71b86973eec69283142000cc5f1fb484a5ac687395122f721f649af755b",
+  "mobile_smoke": "part 3: 107 passed, 0 failed; 2m30s",
+  "desktop_smoke": "part 3: 107 passed, 0 failed; 5m16s",
+  "smoke_scope": "recommended citation slice, not the entire renderer suite",
+  "preflight_log": "/tmp/t3053-preflight.log",
+  "preflight_exit_marker": "/tmp/t3053-preflight.exit",
+  "execution_session": 38779,
+  "commit_trailer": "Changelog: none \u2014 records owner approval in internal source metadata and research notes."
 }
