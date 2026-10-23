@@ -1,7 +1,7 @@
 ---
 id: T-2995
 title: 1736 Prairie's roof behind its curb, the rear and the coach house: the 1911 sheet draws the mansard's dashed curb only along the street front and the 18th Street flank back to the brick bay (u about 9.9), none along the north wall or over the rear 9.9 m; read the wall figures ('12 12 8' on the north, '14 12 12' on the south) and rule whether the north side and the rear rise as a straight brick third storey (the service wing), build it where K01's mansard is four-sided today, declare every closed face, and refine house_1736_prairie_coach_house from its draft (the sheet's '2', 'GARAGE', walls '12 8')
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2962
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 6:48:13 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39947725108
+claimed_at: 2026-10-23T11:48:14.161Z
 decision: null
 decision_answer: null
 ---
