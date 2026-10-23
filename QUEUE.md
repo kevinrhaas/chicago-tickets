@@ -226,6 +226,7 @@ T-2383 — Match the Sauganash Hotel to its pictures
 T-2384 — Match St Mary's church to its pictures
 T-3056 — Correct early-building image credits and evidence limits
 T-2385 — Match the first Tremont House to its pictures
+T-3082 — Tremont roof material increment: adopt quarter-linear deep_brown
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
