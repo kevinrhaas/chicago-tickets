@@ -1,7 +1,7 @@
 ---
 id: T-3019
 title: Indiana Avenue's east frontage, 16th to 18th Street, with East 16th Street's lot, drafted from sheet 20 as the background census ranks them (12 of 17 lots seen, 1623 from 13 stands; e16th_209 from 6)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3010
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1237
 claimed_by: run 10/23/2026, 6:21:19 AM CT
 blocked_on: null
 needs_bake: false
