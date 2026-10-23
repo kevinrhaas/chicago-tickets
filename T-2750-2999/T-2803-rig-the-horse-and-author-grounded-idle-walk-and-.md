@@ -132,3 +132,8 @@ Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concr
 ## Delivery checkpoint — 2026-10-23, 01:00 UTC
 
 One anatomically motivated V9 support-mask study was tested once against the unchanged65pose checks: mechanics pass, skin fails badly at hard hoof boundaries (edge.06487–8.28369, area.03165–11.09850,38negative normals). Rejected, no export or activation. The earlier V8 chest influence defect is real, but simple post-solve compact masking contradicts full foot-surface ownership. Future work must integrate that boundary into the solve. Source/raw failure/next-step capsule c03feece is saved alongside the latest checkpoint.
+
+
+## Recovery checkpoint — 2026-10-23T13:00:27.284423+00:00
+
+Actual canonical129 standing poses remain qualified numerically; no hosted new horse acceptance. Sixth whole gate failure and fixture corrections are preserved; all partial and focused passes remain distinct. 1904 fitter V1 is independently BLOCKED on raw-vs-neutral reference and placed-F32 order; V2 source correction in parallel. Walking/teams/riding remain open.

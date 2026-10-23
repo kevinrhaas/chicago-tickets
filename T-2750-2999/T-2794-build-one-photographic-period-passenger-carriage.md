@@ -207,3 +207,8 @@ Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concr
 ## Delivery checkpoint — 2026-10-23, 01:00 UTC
 
 PR1213 pushed0be5e645e016a212bd04eeda58e893472650d3d0 with genuine22,238-triangle mid detail and reliable mobile asset loading. Fullpreflight1049checks/381selftests, actualHEAD checks, postcommit publication and mirror passed. Original near model/legacy assets preserved. Draft remains: currentDEV integration and actual street budget/visual qualification pending. Root is adding the accepted W01 material increment in this same parked-vehicle branch. Current3f desktop street budget has only238tri headroom, so additive carriage is not qualified; genuine further geometry savings are being investigated without changing caps/cameras. Broad photographic acceptance remains open.
+
+
+## Recovery checkpoint — 2026-10-23T13:00:27.284423+00:00
+
+PR1175 is merged and catalogue-based V17 Brougham publicly delivered. V18 rounded coach-lamp source is saved in checkpoint-fixture-repairs-and-next-fullgate; near -128 triangles, MID unchanged, no exported/installed derivative or eight-view PASS yet. Existing actual world/readback failures and photographic acceptance remain open.

@@ -289,3 +289,8 @@ Enabled-idle horse source adapted onto pushed person03ef, staged12cc9286011176d7
 PR1212 normal merge a47401a24950ec2d6cd652e4badad89533a1fc16/treec9e0b41b746de967d73765633702dac748178d63 is committed and PUSHED. Fullpreflight1050checks/381selftests passed685.46s; actualHEADchangelog/IDs/whitespace and postcommitpublish/mirror pass. Both person and standing-horse scene additions retained. PR staysdraft:1175notlanded/latest73excluded. Current own-card/idle mobile phase19088 is active under original350/360caps; desktopheld. Green recovery e5884d02 retained. No walking/photo completion.
 
 Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concrete-model-intake/`. No broad ticket closure.
+
+
+## Recovery checkpoint — 2026-10-23T13:00:27.284423+00:00
+
+Standing source now 42 paths/tree d089109a on e474, with unchanged b479 model. Sixth whole gate FAIL3/1054; focused fixture repairs and meaningful negative controls PASS, but fresh complete gate is still REQUIRED. Source delta, full failed logs, 42-file hashes and reviewed green-only commit/push/draft-PR runner are saved in checkpoint-fixture-repairs-and-next-fullgate. No new app commit/PR or photographic completion yet.
