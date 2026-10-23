@@ -2,7 +2,7 @@
   "ticket": "T-3053",
   "branch": "steward/t3053-owner-reference-approval",
   "base_commit": "384e949d68a0505bce441be62eceb4602823c515",
-  "state": "WIP: schema, unchanged visitor citations, compiled sidecars, rights gate and both published citation smoke slices pass; full reader-required preflight running before code commit",
+  "state": "PR open: local validation green; GitHub gate in progress; no merge yet",
   "owner_instruction": "ok i think those images are ok to use as public resources and just make sure you include things like that in sources",
   "source_ids": [
     "eliza_chappel_school_shore_view",
@@ -17,5 +17,17 @@
   "preflight_log": "/tmp/t3053-preflight.log",
   "preflight_exit_marker": "/tmp/t3053-preflight.exit",
   "execution_session": 38779,
-  "commit_trailer": "Changelog: none \u2014 records owner approval in internal source metadata and research notes."
+  "commit_trailer": "Changelog: none \u2014 records owner approval in internal source metadata and research notes.",
+  "source_commit": "680e10c02b5f93f69852996e98c3fbc88fd04058",
+  "pull_request": 1224,
+  "pull_request_url": "https://github.com/kevinrhaas/chicago/pull/1224",
+  "local_preflight": {
+    "exit": 0,
+    "steps": 1047,
+    "self_tests": 381,
+    "reader_required": true
+  },
+  "committed_diff_checks": "changelog opt-out and ticket-ID checks pass",
+  "ci_run_url": "https://github.com/kevinrhaas/chicago/actions/runs/39889190644",
+  "integration_lock": "lap/pr-1224 held by Codex T-3053 integration"
 }
