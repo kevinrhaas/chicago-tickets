@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23 04:24 UTC
+
+One smoothingQP nativeconverged status1/40iterations with independently feasiblefield, but inequalitycomplementarity1.02157997e-7 exceeds frozen1e-7. OverallFAIL remains; no tolerancechange/rerun/skinexport. Original65-pose diagnostic sourcepreparation only; no acceptedgait. See current HANDOVER and immutable evidence.
+
+
 ## Checkpoint — 2026-10-23, 02:28 UTC
 
 V10phaseA sourcepreflight actualPASS02:20:35:0.65948s/97,542,144B, oneexecution/childreaped. Eightanatomicalcut/domain/boundary/palettepreconditions pass. NO LP/QPweights/65posegait/export/appacceptance. Conservativeconstraints are proposedrestrictions, notphysicalnecessities. V8/V9failures preserved; phaseBsourcepreparation only, executionHELD. See HANDOVER.md and checkpoint-person-ci-green-and-combined-vehicle-intake for exact immutable evidence.
