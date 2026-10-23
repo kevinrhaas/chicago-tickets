@@ -60,3 +60,9 @@ The owner approved the linked image for project use with source attribution:
 > ok i think those images are ok to use as public resources and just make sure you include things like that in sources
 
 T-3053 records the approval in the source catalogue, retaining the hosting credit and original-provenance uncertainty. This supersedes the earlier project-use hold for the approved reference/comparison/source-display scope; it is not a verified public-domain or copyright-holder permission finding. Existing subject/date/measurement limits and this ticket's full image acceptance remain.
+
+## Post-approval rendered baseline — 2026-10-22
+
+The first Tremont committed-mesh comparison rendered successfully and was visually reviewed as `differs`. It shows the two-versus-three-storey mismatch, blank gable, missing shuttered bays, raised entrances and roof details. The provisional six-point fit has 17.23 px point RMS, not a solved historical camera. The current elevation scheme cannot simply be rotated to match the short/long facades; the handoff identifies the required model path.
+
+Attributed source-use update: [PR #1224](https://github.com/kevinrhaas/chicago/pull/1224). Complete camera/render/handoff recovery checkpoint: [post-approval baselines](https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines). The original image-match acceptance remains open; no geometry or accepted-camera change was made.
