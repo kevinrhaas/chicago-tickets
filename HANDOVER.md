@@ -4,6 +4,14 @@ This is the current control state. Older detailed history is preserved in Git th
 
 ## Newest actual control state — 2026-10-23, 00:48 UTC
 
+### 01:18 UTC active verification ownership — newest
+
+PrimaryONEfullpreflight61928/PID2117372 started01:15:47 onstagedtree516b4d7ca0950603451fa4bcb938096ec8c0b76b; directfutureparents[3f,b6],659paths,0unmerged/unstaged. CanonicalauthoredEOFresolution/4derivedconflicts/countrepairtail/publisherPASS. Liberty692; finalSources412 (DEV410+PR2Mountreferences).62protectedexact+expectedHogansmoked5. GateACTIVE, sourceUNCOMMITTED. dev_date_delta_audit ownsfullend-to-endactualPASScommit/push/HEAD/postpub thenoneimmutable4cellsmoke+strictactualnormalCIcollection, ordinaryHEADpinnedDEVmergeONLYallapplicablePASS/freshreviewedb6ortrivialfeed/docs-only. Failure/newbasegeometryUIhold/report. No broadticketdone. Rootleasec8f78d53held. Notifyrootonlocalpostpubterminalreleasinglane.
+
+Carriage0be5stillpushed/cleanbeforecurrentno-commitb6+W01intake.18ownedfiles/proofcapsule500d6121;2generatedU remain, no exactstagedtreeyet. HEAVYhelduntilprimarypostpubterminal. Genuine11kproposal externalgeneratedONCE: unitFAILwronganalytictriangleprediction (11706actual,11178predicted), originalnearbyteexact; extra528latefittingsretainoriginaltubes. No regeneration, candidateunchanged. ExistingpayloadindependentvalidationHELDuntilprimaryterminal. Noappacceptance/placement/cap/camerachange. Rootallows semanticphysicalfeaturepreservation; literal468→302subdivisionmetadatachangeisintentionalandhonest.
+
+Newestcanonicalcheckpoint checkpoint-resolved-person-preflight-active-and-wagon-staged savesactualresolution/ownerproof, full18filewagonintakeandfrozengeometryproposal. Documentation/evidenceonly; primarypublishedmirror/gatesourceunchanged.
+
 ### 01:00 UTC integration control — supersedes prior active workflow
 
 Selected1175incoming39880078603 CLOSEDsuccessbutNOHEADCHANGE: realconflict authoredSTATUS/ROADMAPEOF plus4deriveduses/index/report. Rawjob120176517834logsaved. Rootreacquired1175lapafterterminal; dev_date_delta_audit nowSOLEPRIMARYappwriter, actualno-commitDEVb6merge has6conflicts. Bothauthoredsectionsresolvedbycompletebytehunkunion/outsidebytesexact;4derivedawaitcanonicalrederive --resolve. MergedsmokeEXACTd5d0d297, personpinsawaitfinalcheck. CanonicalignoredGLessnerlightrefreshneedsoldexternalpreservation; master/fullwebalreadycorrect. RootwillreleaseprimaryEXCLUSIVEheavyrederive/fullgate afterthiscanonicalpush. CarriageagentonlylightW01+DEVstaging inothercheckout; noheavyuntilprimaryterminal.
