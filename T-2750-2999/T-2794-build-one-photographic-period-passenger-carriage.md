@@ -1,7 +1,7 @@
 ---
 id: T-2794
 title: Build one photographic period passenger-carriage master
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex resumed catalogue carriage refinement; no open PR on old own branch 10/23/2026, 5:46:18 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T22:46:19.157Z
 decision: null
 decision_answer: null
 ---
