@@ -1,3 +1,8 @@
+Current priority: finish the one already-running PR1175 final writer on exact1d6048; preserve the current8eb+21path recovery archives and all source/claim ownership. All16 focused checks passed; required fullpreflight is active, not yet declared green. Only actualPASS authorizes the existing normal476/a22 mergecommit and immediate ordinarypush/postpublish. Do not take newerDEV, repeat focused work, mutate canonical ticket metadata, or run another browser/numeric/gate job during this writer. ROOT owns canonical tickets and final CI/browser/DEV coordination. PR1213 stays open until actual1175 merged-tree containment. Broad photographic people/horse/vehicle and natural motion/route/ride qualification remain separate unfinished work; earlier failures remain preserved.
+
+
+---
+
 # People and transport work — 2026-10-23, 08:12 UTC
 
 Eight tickets are independently claimed, renewed/pushed about06:06–06:07UTC. Renew before09:05 if active. Root owns ticket updates; agents use assigned checkouts or source-only packets. [HANDOVER.md](HANDOVER.md) contains exact source pins, raw proof paths and recovery instructions.

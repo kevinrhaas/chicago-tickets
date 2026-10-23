@@ -1,3 +1,23 @@
+## PR1175 combined people and period-vehicle checkpoint — 2026-10-23 08:55 UTC
+
+ROOT's sole elevated final writer started at 08:55:09Z, PID2500256; caller-local session98185 belongs to ROOT. Read-only logs: `/tmp/PR1175-CURRENT29785-FINAL-GATE-CHECKPOINT-HELD-20261023/ACTUAL-ONCE`. Current staged tree is `1d6048e957bfca326db1cdd0aecd16e62f1bd96a`, honest HEAD4766644295 / MERGE_HEADa22ca758. Reviewed DEV29785 was imported as a finite patch, not an extra merge parent. Do not start another writer, take newerDEV, or change source/index/ticket bodies/claims during this run.
+
+Actual intake closed PASS at 08:42:49Z: exact 17-path patch, narrow LIBERTIES EOF union and exact 222-unique-ID array. Both canonical owners passed and changed only liberties.json plus source-use coverage. All 16 focused freshness/card/LOD/IDs/changelog/whitespace checks passed. All 62 human pins and 49 vehicle payload/runtime pins are exact. All 696 existing liberty records survive unchanged; one incoming Kimball row was added. The consolidated six-item T1789 note preserves all four vehicle items verbatim and removes only the redundant unshipped T2794 pending note. No fullgate result is yet claimed.
+
+The writer runs one required fullpreflight on raw BASE29785. Only PASS permits its already-authorized normal merge commit with parents476/a22, immediate ordinary push, actualHEAD checks and publish/mirror/site verification. Preserve existing draft state. ROOT coordinates subsequent actual-head CI/browser/DEV qualification. PR1213 remains open until actual1175 merged-tree containment. Broad photographic, natural motion, route, riding and interaction acceptance remains open; historical ca9 desktop14 FAIL is not called fixed.
+
+ROOT remains sole canonical ticket writer. PR1175 lap is `c1a6e2df2418f5add5615e9940a637d5ccd2cc0d` (renewed 08:31:23Z); PR1213 lap is `03112a3c105aa5693baa705cb1379939613bc4cf` (08:31:26Z). Eight ROOT-owned claims T1789/T2793/T2794/T2795/T2796/T2800/T2803/T2980 were independently renewed at 08:32–08:33Z; receipts: `/workspace/shared/ROOT-EIGHT-OWN-CLAIM-RENEWALS-20261023-0833`. Canonical board/check passed before this writer; keep metadata stable during its gate.
+
+Recovery: complete 101-file 8eb source ZIP is already GitHub-pushed by ROOT, SHA `bbb5003bf864e28c198e2f319de19d65d303da003b515df3bbda97b4825125b0`. Current 21-path source/proof delta is included in this checkpoint; original path: `/tmp/PR1175-CURRENT29785-21PATH-INTAKE-AND-PROOF-20261023.zip` (14,217,933bytes), SHA `52a4a435be04400af688abb6881d6c499a674399cd92b49d7fef1bf17ed25d03`. Together they reconstruct current1d6048. Actual containment proof SHA `5a0dc48327aa92cb15c07248f064f0126d0cec53d3afa1ea591d197553cf3674`; intake terminal SHA `b761b8e829555e32e09313c1f20d818a1461e19aac992158d3e0a0f9e59786cc`.
+
+ENOSPC recovery moved only SHA-verified owned duplicate evidence to /tmp, preserving original proposal/input-copy paths as symlinks and explicit receipts. App source/index unchanged; last workspace free space before launch was 529,088,512bytes. Source-only checkpoint text prepared by the child makes no canonical ticket or claim changes.
+
+Horse follow-up: b479442c standing GLB export is actualPASS; loaded129 attempt closedFAIL before any pose on the serialized protected-vector baseline assertion (0 keys/0 midpoints), not a physical-pass/fail reading. Read-only baseline lineage diagnostic is in progress. Gear checker first attempt closedFAIL on NumPy JSON serialization before its result write; ROOT-reviewed serialization-only correction is held until the heavy lane is free. Neither failure is waived. Walking remains unaccepted.
+
+Checkpoint evidence is under `evidence/parked-vehicles-2026-10-23/checkpoint-current-combined-source-and-active-final-gate/`.
+
+---
+
 # Latest update — 2026-10-23, 08:26 UTC
 
 PERSON writer6155/PID2455982 is FINISHED/FAIL at08:21:43Z/710.307s. Exactly1/1053steps failed: externalticketBOARD.md/tickets.json stale afterROOTupdated8ticketprogressbodies midgate. Other1052steps/changelog/IDsPASS. No commit orpush; primaryHEAD476/MERGEa22/stagedtree8eb unchanged. ROOTregenerated canonicalboard and ran SAMEticketcheck --inherited-warn, actualPASS. T3056queue-titlefault onlyinheritedWARN, neverfailurecause. Do not concatenateold1052passes+newtargetPASS into fabricatedfullPASS; finalrequiredpreflight stillneeded. Avoidbody/claim mutationsduringnextgate unlessbeforecheckandboardcoordinated. Sourceproofbbb5003b contains ALL101files/rawfailure/actualderive/writer proof and is backedup in currentcheckpoint. HeavylaneFREE.
