@@ -2,7 +2,7 @@
   "ticket": "T-3053",
   "branch": "steward/t3053-owner-reference-approval",
   "base_commit": "384e949d68a0505bce441be62eceb4602823c515",
-  "state": "PR open: local validation green; GitHub gate in progress; no merge yet",
+  "state": "MERGED to dev; required GitHub gate and report green; original image matching remains open",
   "owner_instruction": "ok i think those images are ok to use as public resources and just make sure you include things like that in sources",
   "source_ids": [
     "eliza_chappel_school_shore_view",
@@ -29,5 +29,10 @@
   },
   "committed_diff_checks": "changelog opt-out and ticket-ID checks pass",
   "ci_run_url": "https://github.com/kevinrhaas/chicago/actions/runs/39889190644",
-  "integration_lock": "lap/pr-1224 held by Codex T-3053 integration"
+  "integration_lock": "released; remote lap/pr-1224 absent",
+  "merged_commit": "7a9123e9d6986fc3ea7b8912bd78f6278b0350f7",
+  "merged_at": "2026-10-23T02:45:21Z",
+  "ci": "success",
+  "source_records_verified_on_merged_tree": true,
+  "post_approval_baselines": "https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines"
 }
