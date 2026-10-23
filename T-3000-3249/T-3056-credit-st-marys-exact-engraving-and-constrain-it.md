@@ -1,7 +1,7 @@
 ---
 id: T-3056
 title: Credit St Marys exact engraving and constrain its belfry date
-state: open
+state: claimed
 epic: TOWN
 requested_by: steward
 seen: false
@@ -11,14 +11,15 @@ parent: T-2384
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex frame generator and church source prerequisites 10/23/2026, 12:55:02 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T05:55:03.972Z
 decision: null
 decision_answer: null
+group: T-3055,T-3056
 ---
 
 Credit St Mary's exact engraving and date its later belfry.
