@@ -1,7 +1,7 @@
 ---
 id: T-3025
 title: Glessner's roof covering: every print reads the roofs, the stable cupola's pyramid included, slate-grey where the model lays red tile house-wide; find what the roof was laid in (contract, specification, description or a colour view) and rule it, rebaking if it changes
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2854
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1245
 claimed_by: run 10/23/2026, 10:18:52 AM CT
 blocked_on: null
 needs_bake: false
