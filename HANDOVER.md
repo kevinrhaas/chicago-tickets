@@ -1,3 +1,13 @@
+# Current people and transport checkpoint — 2026-10-23 10:14 UTC
+
+PR #1175 actually MERGED to DEV at09:59:16Z: fffae74c728b469163d3c1a6997aea29b4b9b7b3, tree1d6048e957bfca326db1cdd0aecd16e62f1bd96a. This delivers reconstructed Otis Bardwell, refined W01 timber, distinct covered canvas and catalogue-guided Brougham. Actual local fullpreflight1053steps/382selftests and all four fresh normal GitHub checks passed on that exact tree. Public preview deployment is separately being verified. PR #1213 was closed as superseded10:11:57Z after strict63-path containment (53exact/9sharedsemantic/1changelogtransfer); all695oldliberties and222structureIDs preserved. No broad photographic ticket was closed.
+
+Standing horse is NOW ACTUALLY APPLIED in /workspace/chicago-waistcoat, branch steward/t2800-planted-standing-v16-dev-20261023, currentDEV basee4745b3c5714185079215d06d8072a4791c6de4a. All original packet pins retained; newer Ames LIBERTIES prefix preserved. Canonical liberties/scene/source-use owners PASS, actual measured standing unitPASS and isolationPASS. Source is uncommitted until required fullpreflight passes; full current source ZIP plus base/hash manifest is saved in this checkpoint. Next: fullpreflight with ticket metadata frozen, normal commit/push, actual published yard desktop/mobile placement/contact/pick/card/pause/reducedmotion/retirement verification and ordinary green DEV merge. Loaded129 actualPASS is engineering proof only; no GPU/photo/gait/gear/team/riding acceptance. Keep prior failures.
+
+ROOT remains sole canonical ticket writer; eight claims08:32–08:33 remain active until11:32. Do not mutate tickets during actual app preflight. New source-only browser qualifier is being adapted in parallel; no other heavy/browser unit active. Current source is checkpointed to GitHub before long validation. Continue visible work; broader people/horse/wagon/carriage/photo/motion/interaction tickets stay open.
+
+---
+
 # Current people and transport checkpoint — 2026-10-23 09:39 UTC
 
 PR1175 is committed, PUSHED and normally published at `7d98638e4a23b8d02db6e4fb99fe35017895079e`, tree `1d6048e957bfca326db1cdd0aecd16e62f1bd96a`, parents `[f167498b959cc7ea6fc2bea75100835cb9a1c95f,29785b404e1bcab6f29ef467a829ecbf6bbaa5d0]`. The normal ancestry merge removed GitHub's native conflict. Actual testmerge `ce1a4e61d18cfe9bdfe8e54af6fb8a2762bf0891` has the SAME tree and parents `[29785,7d98638]`; actual DEV remains29785. This combines the reconstructed Otis Bardwell resident, finer W01 wood, distinct covered canvas and catalogue-guided Brougham. No DEV merge is yet claimed.

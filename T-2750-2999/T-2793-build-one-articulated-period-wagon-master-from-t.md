@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Delivery progress — 2026-10-23 10:14 UTC
+
+PR #1175 merged to DEV (fffae74c7); its resident, timber wagons, distinct canvas and Brougham are delivered. PR #1213 closed as superseded after full63-path containment. Standing horse is applied on currentDEV e4745b3 in a separate branch; actual canonical owners, measured unit and isolation checks pass; fullpreflight and actual published app verification are next. Broad photographic, gait, complete gear, occupied teams and riding acceptance remain open. Full current source and actual merge/owner receipts are GitHub-checkpointed; see HANDOVER.md.
+
+
 ## Current delivery checkpoint — 2026-10-23 09:39 UTC
 
 Finer W01 timber is pushed/published in combined PR1175 at7d98638, preserving all3farm-box wagons and identities. Source-identical normal DEV merge resolved native conflict; fresh CI and DEVmerge pending. Articulation/photographic world acceptance remain open.
