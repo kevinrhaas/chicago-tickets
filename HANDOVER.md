@@ -1,6 +1,22 @@
-# People and transport handover — 2026-10-22, 23:55 UTC
+# People and transport handover — 2026-10-23, 00:13 UTC
 
 This is the current control state. Older detailed history is preserved in Git through6c6205c0 and earlier checkpoints; older source-specific results must retain their labels. User explicitly authorizes parallel agents, periodic commits/pushes and ordinary green DEV merges. No production promotion/admin merge/workflow edits. Photographic completion and riding are NOT achieved.
+
+## Newest actual control state — supersedes corresponding older items below
+
+ALLFOURcurrent3fnormalCI strictPASS, owner13565/PID2024800 CLOSED0; compact4748222e. Current3fmobile14run39873853044/job120154531486 strict140/0PASS, log3cf06832. ONLY currentdesktop14 remainsactivein soleowner90748/PID2025419. Finalmergereview stillHELD; nofinalfreshDEV/PR/leasecontextGETbeforeclosure. NativeautoOFF/root1175leaseheld/sourceclean3f.
+
+Horsecurrentdesktop23472 CLOSEDOVERALLFAIL294.33s/noownedactive.3eligibleupdates/.75hostsec→correct.1715008ownedsec; head1.2µm>1e−8 buttail3.75e−11m<1e−8FAIL, original15s/1.5ownedtimingFAIL. Fourhoofs0/sourcebones0/remainingpause-card-disposal-framing-budgetchecksPASS/zeroerrors/inputsunchanged. Capsule25ab923d, bodytruthfullyupdated/draft1212sourcea474clean. NOhorsebrowseractive. Mobilecca38stillPASS.
+
+Rootviewed4actualW01V1nativeimages (5.36s/0errors/closed). Wholemoretextured;closecoarse/repeatedembossedgrain rejectedforphototarget; V1/V2UNAPPLIED. Actualcostaudit6eb33b1f: V1+3actualbatches/+655128geometrybytes buttotaltexture+geometry saves2.23MBvsbaseline/8.91MBvsV2. NewONECC0PolyHavenfine_grained_wood/RobTuytel actual2kalbedo+preview+officiallicenseviewedbyroot, nohistoricidentity/capture-methodclaims. Sourceinputs11.28MB; firstV3buildstoppedpreoutputstrictno-clippingguard. Agentauthorizedoneprincipledmaximumfeasiblecommoncontrastscale aroundpreservedmean, guardunchanged, no manualstylinghunt; actualcandidatepending. Noappchanges.
+
+Carriagenative24original8unit FAIL11.3s after4desktopPNGs complete;2mobileGLBERR_ABORTEDpreclosefailedstrictguard. Desktopnear/mid silhouetteacceptedNARROWvisualscope, nophoto/world/mobilePASS. Actualfailurecapsuleee02953e includescleanupempty/0textures/0geometries/14buffersdisposed. NewMOBILE-ONLY4samefixtures/models/cameras/errorasserts/165browsercap withCDPrequestID+phasemarkers ROOTRELEASED once; session30044 ACTIVE, exclusivebrowserlane untilterminal+cleanup. Output T2794-V17-NEAR-MID-NATIVE24-MOBILE-OBSERVED-HELD-20261023. No speculativecausefix; noall8PASSclaim.
+
+Existing1904C02onlyrowprairie_parked_carriage E1397.6,N−3228.2,bearing178.99;12288tris/8batches/unidentifiedreconstructedstop. Itsstand16.143mspawnwouldselectnear33502, so replacementvsadditiveoldC02+newmid34526 savesONLY1024sourcetrisatspawn, notbudgetsolved. Agentdoingactualstand/contactread-onlyfeasibility. RoothasNOTauthorizedreplacement/appmutation. Userallowsupgradingexistingmodels; preservingall6foreverisnotahigherprioritythanthatdirection, butchangedacceptancefixtureswouldrequireexplicitproductreview.
+
+BardwellsourceidleSHORTaudit2e7cd9c5 confirmedcurrentacceptedGLB4LODs:2s/112channels/ONEvaryingspine±.600029°,body~6.9mm/headinherited10.54mm,allshoeverts0drift,blinkLOD0/1. Notfrozenbutnoindependenthead/arm/weighttransfer. No freshbrowserclaim.
+
+Newestcanonicalcheckpoint evidence/parked-vehicles-2026-10-23/checkpoint-normal-four-green-and-honest-native-reviews/ stores sixnewcapsules/currentrootvisualreview. Priorpushedcheckpointd2b3a946 retained. Claimsstillfreshuntil01:05/02:00; rootsolecanonicalwriter. Source-specific olderdetailsbelow remainaccurateonlywherenotsupersededhere.
 
 ## Immediate work
 
