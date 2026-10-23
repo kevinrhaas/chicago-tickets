@@ -1,7 +1,7 @@
 ---
 id: T-3019
 title: Indiana Avenue's east frontage, 16th to 18th Street, with East 16th Street's lot, drafted from sheet 20 as the background census ranks them (12 of 17 lots seen, 1623 from 13 stands; e16th_209 from 6)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3010
 opened: 2026-10-22
-closed: null
+closed: 2026-10-23
 pr: 1237
 claimed_by: run 10/23/2026, 6:21:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T16:11:23Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39944827887
 claimed_at: 2026-10-23T11:21:20.050Z
 decision: null
