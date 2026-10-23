@@ -1,7 +1,7 @@
 ---
 id: T-3044
 title: Glessner's course heights and relief read on Taylor 2135 through its camera: the beds above bed 7 against the printed string and sheet 6, high against low courses' lower-lip shadow against the render, the 18th Street face beside the Prairie corner, the stable cupola's coursing in the Cornell print, and every course-relief item in the six match records restated on the reading
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3026
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1221
 claimed_by: run 10/22/2026, 7:53:34 PM CT
 blocked_on: null
 needs_bake: false
