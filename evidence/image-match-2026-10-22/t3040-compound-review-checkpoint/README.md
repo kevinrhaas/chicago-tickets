@@ -2,7 +2,7 @@
 
 ## Latest checkpoint: code pushed, PR open
 
-Code commit `d3685569c5284946ab400deb0d2ccd0aa17a06be` is pushed on
+Code commit `7c1d95a801d18ba66f8ced83cb211bb0522f68d7` is pushed on
 `steward/t3040-fort-reference-groups`; [PR #1218](https://github.com/kevinrhaas/chicago/pull/1218)
 targets `dev`. Local preflight passed all 1,047 checks. Published smoke slices
 passed 31 mobile and 107 desktop checks; the full renderer suite was not run.

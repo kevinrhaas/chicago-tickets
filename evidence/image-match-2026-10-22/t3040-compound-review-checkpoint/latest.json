@@ -1,8 +1,8 @@
 {
-  "code_commit": "d3685569c5284946ab400deb0d2ccd0aa17a06be",
+  "code_commit": "7c1d95a801d18ba66f8ced83cb211bb0522f68d7",
   "code_branch": "steward/t3040-fort-reference-groups",
   "pr": "https://github.com/kevinrhaas/chicago/pull/1218",
-  "state": "PR review; dev merge resolved locally; known stale ignored Glessner light asset preserved and restored from current verified package; all affected checks now pass; fresh full preflight running before merge commit",
+  "state": "updated PR review; dev integration committed and pushed; combined reader-required preflight passed; GitHub CI pending",
   "full_preflight": {
     "exit": 0,
     "checks_passed": 1047,
@@ -15,7 +15,7 @@
   },
   "original_model_matches_complete": false,
   "proposals": "T-2375, T-2377, T-2388 are unapplied; git apply --check passed, but no bake, functional validation or completed image match",
-  "research": "https://github.com/kevinrhaas/chicago/blob/d3685569c5284946ab400deb0d2ccd0aa17a06be/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md",
+  "research": "https://github.com/kevinrhaas/chicago/blob/7c1d95a801d18ba66f8ced83cb211bb0522f68d7/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md",
   "sha256": {
     "unapplied-next-parcels/T-2375.md": "ab6b01809428bee1dba4fc700262abe9cf8118057922ebc7ce073921b467bb4c",
     "unapplied-next-parcels/T-2375.patch": "f73cbc841e57e76289a7746c9e8be5290eca66444ec277d75bcf7349142bb2f0",
@@ -32,21 +32,22 @@
     "validation/t3040-fix-derivatives-selftest.log.gz": "c436bf9cb43f70132127678afee229dfc5b9adb67c2756fef4cac031af0f049b",
     "validation/t3040-fix-household.log.gz": "a688c31f559072ae2129b4da0ddeae5d12c3624a52eeae301b7f528c2c7ca7cc",
     "validation/t3040-fix-published.log.gz": "8a0329ad7268982440bc5ffb0b436096e46e6c6be045306f9678bf941e81b8f0",
-    "validation/t3040-fix-dataset.log.gz": "eadaa31943e98cf6bbd26546e2b4813a7a73ba0fd57f5d988c4f4b59fd591045"
+    "validation/t3040-fix-dataset.log.gz": "eadaa31943e98cf6bbd26546e2b4813a7a73ba0fd57f5d988c4f4b59fd591045",
+    "validation/t3040-preflight-restored.log.gz": "9a8767e8097fa326aad1a1021d37a307eec7a279f51bfb6f8b347c074da3a5de",
+    "validation/check-restored.log.gz": "8eb2ef1f107af4c74c43771d747f9181ba006f1ea9b8e87631f5d8e92689e39d"
   },
-  "pending_dev_merge": {
-    "dev_commit": "ad95c276100e6c8c05b90fe97c0f3323e5206df0",
-    "local_preflight_log": "/tmp/t3040-preflight-restored.log",
-    "local_check_log": "/tmp/preflight-check.log",
-    "exit_marker": "/tmp/t3040-preflight-restored.exit",
-    "execution_session": 20643,
-    "resolution": "Retain both fort T-3040 and new building-date T-3037 status entries. The fort section precedes T-3037 to avoid another end-of-file conflict. Both fort group fingerprints still match the saved comparisons."
-  },
-  "validation_scope": "Saved 1047-check preflight and smoke logs validate the original pushed code tree; new combined-tree validation is pending.",
+  "validation_scope": "Original feature-tree smoke slices passed; full 1047-check preflight also passed after dev integration and verified package restoration. Smoke slices were not repeated for the upstream building-date UI change.",
   "generated_asset_repair": {
     "previous_copy": "/tmp/t3040-pre-dev-package/glessner_house__as_built_1887.light.glb",
     "previous_sha256": "d5c4a4e748dccc7456c9350a60cac888e67c460e06bbf8ab328fd273f02219c8",
     "restored_sha256": "feff2bf03710752c156f7696c6291520a637bda67d9e812d58cb40d0fb16fd3d",
     "proof": "previous output matched the HEAD recovery manifest; current --materialize and --check passed; no bake or tracked asset changes by this task"
-  }
+  },
+  "integrated_dev_commit": "ad95c276100e6c8c05b90fe97c0f3323e5206df0",
+  "merged_tree_preflight": {
+    "exit": 0,
+    "checks_passed": 1047,
+    "self_tests": 381
+  },
+  "integration_lock": "lap/pr-1218 held by Codex T-3040 integration; release after merge or explicit handoff"
 }
