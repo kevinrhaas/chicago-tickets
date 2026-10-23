@@ -1,7 +1,7 @@
 ---
 id: T-3050
 title: 1811 Prairie's roof masses and south stacks from the 1888 plate: the steep hipped mass over the bay with its apex at about v 3.3 and 16 m, the lower gable roof in the same street plane to the tall stack, both south stacks in the coped south gable (the tall one's corbelled band and top stage), and the plate match record's roof and stack items closed
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2920
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1223
 claimed_by: run 10/22/2026, 8:27:52 PM CT
 blocked_on: null
 needs_bake: false
