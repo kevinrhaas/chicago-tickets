@@ -1,7 +1,7 @@
 ---
 id: T-2373
 title: Match the 1832 lighthouse to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex lighthouse picture matching; parallel Chicago 4D 10/23/2026, 7:00:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T12:00:18.971Z
 decision: null
 decision_answer: null
 ---
