@@ -1,7 +1,7 @@
 ---
 id: T-2796
 title: Move horse-drawn traffic through distant streets with measured LOD budgets
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:28 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:29.114Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -101,3 +101,5 @@ Owner prioritizes first repeating team circuit before population expansion/playe
 ## Checkpoint — 2026-10-22, 19:44 UTC
 
 Active source extension is checking continuous provisional rigid-team clearance and dry worked-earth shoulders within correct ROW; no widened wear mask or moved historic geometry. Existing worn7mcore failure remains visible. Full actual animated horse/harness sweep and world/phone proof remain open.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:28 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
