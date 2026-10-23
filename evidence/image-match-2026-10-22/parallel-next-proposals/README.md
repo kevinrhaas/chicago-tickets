@@ -7,15 +7,14 @@ to clean 05f6, rather than a 05f6 mirror tag. Exact-head CI and all ten smoke-ru
 conclusions remain unverified here. A broader prerequisite PR may supersede #1229;
 no auto-merge helper should run. See [updated Hogan recovery](../hogan-first-rebuild/RECOVERY.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The twenty-six archives
+one M plus S prerequisites. Original image gates stay open. The thirty-two archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **2026-10-23 08:48:40 UTC**, version `20261023T084840Z`.
-All prior twenty-three archive payloads remain unchanged. This save adds finalized
-post-helper note corrections, the explicitly UNRUN lighthouse width trial and the
-complete final log81 materializer/root 32-input bundle. It reads no canonical app.
-The separate post-Gale source-S WIP is recorded at 88696b; this archive does not
-snapshot or apply it and does not infer current full-gate success.
+Latest immutable checkpoint: **2026-10-23 09:23:34 UTC**, version `20261023T092334Z`. All 26 prior archive payloads remain
+unchanged. This save adds verified 1902 hotel-source adoption and current grouped QA,
+plus complete first/second-fort building/part audits and two concrete geometry
+proposals. Plans remain **UNAPPLIED**, new official bakes/renders/full gates and
+actual grouped browser QA remain **UNRUN**. No match or ticket status changed.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -58,8 +57,14 @@ versioned name; later saves must retain these names and add a new version.
 | [T-3055-post-apply-note-review](T-3055-post-apply-note-review--UNAPPLIED_NOTES_CHANGELOG--20261023T084840Z.tar.gz) | 7,732 | 0.008 | UNAPPLIED_NOTES_CHANGELOG — Six guarded note-only corrections and six-item changelog candidate; temporary-copy apply/idempotence PASS; canonical application UNAPPLIED, official bake/app/full gate UNRUN |
 | [T-2373-narrow-trial](T-2373-narrow-trial--UNRUN_WIDTH_TRIAL--20261023T084840Z.tar.gz) | 89,884 | 0.090 | UNRUN_WIDTH_TRIAL — Three-file overlay on final fort-selective payload; reconstructed 3.04 m physical tower and unchanged centre; height consequence disclosed; light contracts PASS, preview runner UNRUN |
 | [log81-materializer](log81-materializer--FINAL05F6_SOURCES_UNAPPLIED--20261023T084840Z.tar.gz) | 6,518,042 | 6.518 | FINAL05F6_SOURCES_UNAPPLIED — Required root helper and 32 frozen proposal inputs plus authoritative 05f6-sourceS-final; UNAPPLIED; fresh current rematerialization and official 81-master rebuild required |
+| [T-2383-shutter-audit](T-2383-shutter-audit--UNAPPLIED_VERIFIED1902_HOTEL_SOURCE--20261023T092334Z.tar.gz) | 4,414,274 | 4.414 | UNAPPLIED_VERIFIED1902_HOTEL_SOURCE — Closed16-file source-adoption helper, exactGale1902 plates/title/copyright and temporary composition/reader/idempotence PASS; canonical adoption and official23family bake/fullgate/appQA UNRUN |
+| [group-card-QA-hotel1902-UNRUN](group-card-QA-hotel1902-UNRUN--UNRUN_QA38C7F--20261023T092334Z.tar.gz) | 51,156 | 0.051 | UNRUN_QA38C7F — Final12-case two-viewport prepared QA and generator; preserves source-only script/history; hotelGale1902 assertions; actual browser UNRUN |
+| [T-2388-every-building-audit](T-2388-every-building-audit--READ_ONLY21_AUDIT_NO_MATCH--20261023T092334Z.tar.gz) | 59,334,605 | 59.335 | READ_ONLY21_AUDIT_NO_MATCH — All21 actual records and parts audited;9ticket images+11website views inspected; original1881publication proof/key correction80x250ft; no new geometry or match |
+| [T-2388-big-barn-cupola](T-2388-big-barn-cupola--UNAPPLIED_REAL_CONSUMER243_SCOPE--20261023T092334Z.tar.gz) | 767,238 | 0.767 | UNAPPLIED_REAL_CONSUMER243_SCOPE — Real opt-in reader/helper and conditional helper fingerprint;243 legacy parameter/call sequences equal,1new geometry; official243family refresh/GLB/browser/fullgate UNRUN |
+| [T-2387-coverage-audit](T-2387-coverage-audit--READ_ONLY30_AUDIT_NO_MATCH--20261023T092334Z.tar.gz) | 4,867,980 | 4.868 | READ_ONLY30_AUDIT_NO_MATCH — Original21plus9context records; source/part/rights audit and primaryWhistler folded elevations; no accepted picture camera |
+| [T-2387-face-layout-next](T-2387-face-layout-next--UNAPPLIED_FIVE_RANGE_OVERLAY25_SCOPE--20261023T092334Z.tar.gz) | 196,648 | 0.197 | UNAPPLIED_FIVE_RANGE_OVERLAY25_SCOPE — Final shared-fort overlay for five primary-elevation opening counts, one kw-only field, actual facade/entrance/sign readers and25default call parity PASS; official25family bake/render/QA UNRUN |
 
-All twenty-six archives are below 95 MB. The original log snapshot retains its immutable
+All thirty-two archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -73,6 +78,42 @@ its local generator/data symlinks are preserved as links and are not patch conte
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
 
+## Complete fort audits, new bounded proposals and verified hotel source
+
+[Exact new recovery notes and hashes](FORT-AUDITS-HOTELS-QA-RECOVERY--20261023T092334Z.json) describe six closed packages.
+The source-only adoption locates both exact Trowbridge hotel plates in Gale 1902,
+with actual title/copyright proof and temporary composition/idempotence/reader PASS.
+The 16-file helper remains canonically UNAPPLIED; review it after main frame and
+Tremont notes, before 23-master bake. The updated grouped QA main script is pinned
+at 38c7fdfd8416b97108514c50f46aca6d4a1885b4214f001fa4224c941669aa6a;
+its 12-case two-viewport browser execution is **UNRUN**.
+
+All 30 first-fort records and all 21 second-fort records are individually audited, with
+actual source inspection and hidden/unknown identities explicit. The actual
+Wentworth 1881 original p.93 says parade **80×250 ft**, while Fergus 1850 p.43 says
+about 80 ft wide and say 400 ft long. The web/source-ledger 80×200 ft is a transcription
+error; this evidence save changes no 1835 geometry or coordinates. Getty rights
+remain nuanced: an undated artwork's depicted scene year is not creation or
+publication evidence. The unsupported pre-1850 Getty assertion is not accepted
+as a new geometry licence, and is not an affirmative finding of copyright.
+The new barn feature uses the independently dated Andreas 1884 map; first-fort range
+fronts use Whistler 1808 reproduced 1913, with continued 1812 appearance inferred.
+
+The Big Barn’s existing attested cupola attribute now has a real prepared reader/build
+path, without switching archetypes. New dimensions/profile and every primitive
+are reconstructed. All 243 legacy parameter/call paths remain equal, and only one
+master gains 20 raw triangles in CPU proof. Initial integration still requires a
+real **243 outbuilding-master** refresh; helper-only future changes are conditionally
+fingerprinted. No official bake/GLB comparison/render/browser/fullgate was run.
+
+The five first-fort range overlay is for the **final shared-fort proposal**,
+not current canonical HEAD. Its optional keyword-only face_openings field matches the
+source front rectangle counts while dimensions/door types remain reconstructed.
+Actual facade/entrance/sign readers agree in light checks, with all 25 defaults
+preserved. All **25 fort-family masters** need a fresh supported bake; no preview
+was generated for this overlay and all original image cases remain open.
+WolfL/font ongoing work is excluded. Earlier frozen archives are unchanged.
+
 ## Final note correction, width trial and complete log helper
 
 **T-3055-post-apply-note-review** retains six exact guarded prose corrections and
@@ -83,7 +124,7 @@ dates/grades/sources and all geometry remain unchanged. Validate-only and an
 isolated temporary-copy apply/idempotence passed; **canonical application is
 UNAPPLIED**, official bake/app QA/full gate UNRUN. Do not edit the frozen main helper.
 
-**T-2373-narrow-trial is UNRUN**, despite passing light reader/geometry contracts.
+**The archived T-2373 narrow-trial preparation was UNRUN at capture**, despite passing light reader/geometry contracts. A new live trial is now parent-owned and excluded from this checkpoint; its outcome is not inferred.
 Its three-file overlay is on final fort-selective payload, not canonical HEAD or
 the older broad preview. Diameter is reconstructed 3.04 m, physical local bounding
 square 1.28..4.32, with unchanged origin/world centre. Nominal 12.19 m is retained;
@@ -339,7 +380,7 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T084840Z.json)
+- [Latest combined manifest](MANIFEST--20261023T092334Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
 - [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
@@ -355,15 +396,18 @@ research cameras to accepted reference views merely to pass a gate.
 - [Church 1835 recovery/date/recipe metadata](CHURCH-1835-RECOVERY--20261023T064034Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All twenty-six SHA256SUMS](SHA256SUMS--20261023T084840Z.txt)
+- [All thirty-two SHA256SUMS](SHA256SUMS--20261023T092334Z.txt)
 - [Sixth checkpoint manifest](MANIFEST--20261023T070319Z.json)
 - [New note/trial/log-helper inventories](ARCHIVE-FILES--20261023T084840Z.json)
 - [New closed-package recovery](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json)
 
+- [New fort audits/source/QA file inventory](ARCHIVE-FILES--20261023T092334Z.json)
+- [Latest recovery](FORT-AUDITS-HOTELS-QA-RECOVERY--20261023T092334Z.json)
+
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T084840Z.txt
+sha256sum -c SHA256SUMS--20261023T092334Z.txt
 ```
 
 | Archive | SHA256 |
@@ -394,3 +438,9 @@ sha256sum -c SHA256SUMS--20261023T084840Z.txt
 | `T-3055-post-apply-note-review--UNAPPLIED_NOTES_CHANGELOG--20261023T084840Z.tar.gz` | `101274259160573b193a4a4aafa327357283beb1fd42b7934797635522d1ffd6` |
 | `T-2373-narrow-trial--UNRUN_WIDTH_TRIAL--20261023T084840Z.tar.gz` | `5442efcc6718b9b3c7289997e37b2e50dc32d21192f4495416c511c934ddcbc0` |
 | `log81-materializer--FINAL05F6_SOURCES_UNAPPLIED--20261023T084840Z.tar.gz` | `dc860fcbc6cd3b49fb7fd72703dc108e18be789b5115e51fd9ec30f46d390758` |
+| `T-2383-shutter-audit--UNAPPLIED_VERIFIED1902_HOTEL_SOURCE--20261023T092334Z.tar.gz` | `61c442e4f3b2cc618359a35490792d6c88221624635c076d2eb561e8e7f13d39` |
+| `group-card-QA-hotel1902-UNRUN--UNRUN_QA38C7F--20261023T092334Z.tar.gz` | `b4d27f80aa945741ac281e84ddd933071d99fa17069bff535744b21789bedb78` |
+| `T-2388-every-building-audit--READ_ONLY21_AUDIT_NO_MATCH--20261023T092334Z.tar.gz` | `15cf0353cb57696351c2d20bf82ffe1d17ffc9320fe7b613d717802242d39abe` |
+| `T-2388-big-barn-cupola--UNAPPLIED_REAL_CONSUMER243_SCOPE--20261023T092334Z.tar.gz` | `8871ff266cbd58b728cc5cae5d4cccac05ba1d1f84662f4444df40cfb5e40e32` |
+| `T-2387-coverage-audit--READ_ONLY30_AUDIT_NO_MATCH--20261023T092334Z.tar.gz` | `543ded00df7f3cb70393488a3200760e8ad413b2b7212447cd7e65386c9e2334` |
+| `T-2387-face-layout-next--UNAPPLIED_FIVE_RANGE_OVERLAY25_SCOPE--20261023T092334Z.tar.gz` | `a49a59c3813c9a35622945e9f37786c01a3747ac2f14c3e6933bc2af0b7a80d5` |
