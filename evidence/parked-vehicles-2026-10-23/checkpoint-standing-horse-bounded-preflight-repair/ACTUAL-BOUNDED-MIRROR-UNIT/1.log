@@ -1,3 +1,0 @@
-  step     node tools/test_ticket_mirror.mjs
-
-tools/test_ticket_mirror.mjs: 1 declared command(s) measured — wrote nothing in-tree
