@@ -1,3 +1,13 @@
+# Active standing-horse checkpoint — 2026-10-23 10:47 UTC
+
+Current40-filehorse source is safely GitHub-checkpointed in priorCURRENT-HORSE-AND-MIRROR-REPAIR-SOURCE.zip SHA5b07a53662b10d709960f598740cfda99e028042cb49dee54109925f2814c201. Actualstage nowbe37faec911f51b5d0bad9c11bed4e352b7a4b12 on basee474. No horse sourcecommit yet: requiredfullgate mustpassfirst. PR1175 deliveredandpublic8GETexactassetproofPASS;1213+1208closedduplicates.
+
+Thirdactualfullpreflight endedFAIL3/1054 at10:42:53Z/652.284s: bothroof-idpinchecks+isolationreader selftest requireREALticketsdirectory and rejectedROOTsymlinkshortcut. Other1051passes are notcombinedwithtargetchecksintoafullPASS. Restored ORIGINALreal ticketsclone; alloldlocaledits/untracked167MB retainedinGitstash0ec3ecd9e30a3221a01acbf42173291dc1dd9899. GitsparsecheckoutexcludesONLYevidenceworkingfiles (allblobsremainGit;primarycanonicalclonekeepsfiles), fastforwardedba4271d; no newclone/worktree. Removed accidental stagedticketssymlink beforeanycommit; app/source40pathscomplete. Realclone focusedroofcheck+roofselftest+isolationreaderselftest+ticketconsistencyallPASS, no sourceguardchanges. Workspace2.1GB/tmp1.8GBfree. Freshcompletepreflightnext; postgreenwriterboundbe37/newgatedirectoryhelduntilactualPASS.
+
+Continue immediatelytocommit/push/postpublish/newDEVPR/mobile+desktopqualification onactualgreen. ROOTcanonicalticketwriter; freezeexternalmutationsduringnewgate. Claims08:32activeuntil11:32; renewbeforeexpiry. Keepall3nonpasses, actualartifact/stashreceiptsandunqualifiedphoto/gait/gear/team/ridinglimits. No broadticketclosure.
+
+---
+
 # Active standing-horse validation — 2026-10-23 10:31 UTC
 
 PR1175 is MERGED and publicly deployed: FFF/tree1d contained by publice4745b3c, exact mainPagesrun39936768929SUCCESS. PR1213 and1208 closed as verified superseded duplicates; photographicparenttickets remainopen. Both ownclosed-PRlapmarkers were CASreleased, not another owner's markers.
