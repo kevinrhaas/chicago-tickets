@@ -1,7 +1,7 @@
 ---
 id: T-3027
 title: Glessner's south stack in Taylor 2135: through the refitted camera its north face reads 14.6 px left of the photograph (the middle stack 7-8 px, the north within 4 px), a gradient along the roof the jambs below do not show; read its plan place (W 14.18-21.8, S 57.2-61.2) against the sheets and close the item
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2854
 opened: 2026-10-22
-closed: null
+closed: 2026-10-23
 pr: 1231
 claimed_by: run 10/23/2026, 2:12:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T10:00:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39915734430
 claimed_at: 2026-10-23T07:12:26.367Z
 decision: null
