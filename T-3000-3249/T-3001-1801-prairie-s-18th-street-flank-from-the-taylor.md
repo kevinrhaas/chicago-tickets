@@ -1,7 +1,7 @@
 ---
 id: T-3001
 title: 1801 Prairie's 18th Street flank from the Taylor photograph: the gabled section's gable facing 18th Street with its balcony at about 11.5 m where the build has a hip, and the flank section's width (about 7.8 m in the photograph, built 6.0 m, K08's widest pavilion)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-2540
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: run 10/23/2026, 11:28:26 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39986443594
-claimed_at: 2026-10-23T16:28:26.827Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3074,T-3073,T-3001
 ---
 
 1801 Prairie's 18th Street flank from the Taylor photograph: the gabled section's gable facing 18th Street with its balcony at about 11.5 m where the build has a hip, and the flank section's width (about 7.8 m in the photograph, built 6.0 m, K08's widest pavilion).
@@ -35,3 +34,5 @@ When T-2540 was split (2026-10-22T10:15:45.925Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/39760105850) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-23** (claim of run 10/23/2026, 11:28:26 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/39986443594): Released by the T-3074 group before work: T-3074 re-solves the Taylor camera's flank (horizon on the lake line), and T-3001's 7.8 m section width and gable were read through T-2538's camera, so they must be re-read through the new one first; its build also needs K08 wider than 6.0 m and a balconied wing gable, more than this run's group can carry.

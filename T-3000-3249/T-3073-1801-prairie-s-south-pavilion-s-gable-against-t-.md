@@ -19,7 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/3998644
 claimed_at: 2026-10-23T16:28:26.826Z
 decision: null
 decision_answer: null
-group: T-3074,T-3073,T-3001
+group: T-3074,T-3073
 ---
 
 1801 Prairie's south pavilion's gable against T-3060's re-solved Taylor camera (found by T-3060): its finial's axis renders at x 1280 against the print's 1268 and its top at y 237 against 218, and T-2538's readings carried through the camera put the gable's springing at about 14.1 m and its apex at 17.7 m where the build stands 13.9 and 17.45 m; read the gable's rows and the face's place off the print through the new camera and rebuild or rule.
