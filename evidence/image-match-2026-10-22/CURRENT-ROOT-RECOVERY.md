@@ -1,5 +1,13 @@
 # Newest root recovery pointer
 
+Latest [closed failedMpreflight +actual lantern trial](failed-M-preflight-lantern-actual-20261023T123322Z/RECOVERY.md): actualstrictgate FAIL6of1056, exit1; separateCLresult refers to olde41sourceSslice, not finalM. Historicalinputs are reconstructable from74bcd436staticbytes+a63b479edocappends; no currentapp/fixes/livegate read. Rootfixes are subsequentwork, not captured here.
+
+Lighthouseactual2export/2comparison lantern/detailtrial has material/loadercontractsPASS and baselinebyteexactpriorproposed, but remainsdiffers/proposed/fullimagegateopen. Entireclosedrun+23frozenpreparedinputs saved; no canonicaladoption or in-appBygradeGPUclaim. Livejail/Hogan/currentroot excluded.
+
+## Earlier immutable recovery history
+
+# Newest root recovery pointer
+
 Latest [closed LH/Wolf actual reviews, rootdocappends and smoke preparation](closed-LH-Wolf-actual-docs-smokeplan-20261023T122010Z/RECOVERY.md): both isolatedmodelreviews stilldiffers/proposed; fullclosedrun/input/recoveryproofs saved. Parent-applied3binary-prefix-preservingdocappends plus12QAinputcontinuity are retained. MfinalSHA/PRsmokeplan remainsPENDING/UNDISPATCHED; currentMstrictgate LIVE and excluded. No fullPASS/image-match/canonicalmodeladoption inferred.
 
 ## Earlier immutable recovery history
