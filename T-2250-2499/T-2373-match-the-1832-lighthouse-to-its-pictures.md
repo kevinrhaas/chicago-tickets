@@ -1,7 +1,7 @@
 ---
 id: T-2373
 title: Match the 1832 lighthouse to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex lighthouse picture matching; parallel Chicago 4D 10/23/2026, 7:00:17 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:00:18.971Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -51,3 +51,5 @@ Pictures:
 The public-domain Andreas bridge plate shows a domed lantern, cage mullions, finial and gallery rail. `_tower` currently builds an opaque drum, pyramid cap and gallery disk. Add consumed optional details, document reconstructed dimensions, then bake and compare. Do not infer paint from monochrome.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of Codex lighthouse picture matching; parallel Chicago 4D 10/23/2026, 7:00:17 AM CT): Owner requested session wrap. Exact closed prototypes, actual renders and unapplied source patches are saved at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Delegated workers have stopped. Image matching remains unfinished; resume from the case handoff and preserve its evidence limits.

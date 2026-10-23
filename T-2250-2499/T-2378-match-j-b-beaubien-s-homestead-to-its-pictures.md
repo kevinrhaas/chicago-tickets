@@ -1,7 +1,7 @@
 ---
 id: T-2378
 title: Match J. B. Beaubien's homestead to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: beaubien-lakehouse-agent 10/23/2026, 9:10:20 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T14:10:21.557Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -43,3 +43,5 @@ Pictures:
 Isolate the keyed Beaubien building from the separate Dean house in the panorama. T-0894 withdrew identity with the U.S. Factor's House; do not borrow that house's two-storey description.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of beaubien-lakehouse-agent 10/23/2026, 9:10:20 AM CT): Owner requested session wrap. Exact closed prototypes, actual renders and unapplied source patches are saved at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Delegated workers have stopped. Image matching remains unfinished; resume from the case handoff and preserve its evidence limits.
