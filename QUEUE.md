@@ -170,7 +170,9 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 T-2793 — Build one articulated period wagon master from the existing wagon families
 T-2980 — Upgrade selected covered wagons while preserving their distinct finishes
 # Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).
-T-2794 — Build one photographic period passenger-carriage master
+T-3083 — Refine the catalogue Brougham lamp housings
+T-3084 — Match the Brougham body and materials to the 1893 catalogue
+T-3085 — Qualify Brougham interfaces and portable distance delivery in town
 T-2795 — Animate vehicle running gear and matched draft-horse hitches
 T-2796 — Move horse-drawn traffic through distant streets with measured LOD budgets
 T-2797 — Board, ride and leave a carriage or wagon with accessible controls
