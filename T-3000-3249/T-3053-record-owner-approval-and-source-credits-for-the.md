@@ -1,7 +1,7 @@
 ---
 id: T-3053
 title: Record owner approval and source credits for the school and first Tremont pictures
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1224
 claimed_by: run 10/22/2026, 8:53:26 PM CT
 blocked_on: null
 needs_bake: false
