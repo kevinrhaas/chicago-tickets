@@ -34,5 +34,7 @@
   "merged_at": "2026-10-23T02:45:21Z",
   "ci": "success",
   "source_records_verified_on_merged_tree": true,
-  "post_approval_baselines": "https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines"
+  "post_approval_baselines": "https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines",
+  "ci_steps": 1047,
+  "ci_gate_log_sha256": "c47a25aedf1ab18a47fa8e1a5af07438447b07fcb64b850d97924ae6103b480f"
 }
