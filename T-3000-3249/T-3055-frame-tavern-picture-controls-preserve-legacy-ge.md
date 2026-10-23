@@ -11,12 +11,12 @@ parent: T-2376
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex frame generator and church source prerequisites; continuing own work 10/23/2026, 3:40:41 AM CT
+claimed_by: Codex frame generator and church source prerequisites; continuing own work 10/23/2026, 6:22:43 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T08:40:42.099Z
+claimed_at: 2026-10-23T11:22:44.192Z
 decision: null
 decision_answer: null
 group: T-3055,T-3056
