@@ -8,14 +8,14 @@ at the immutable snapshot; later success and merge are not inferred. Historical
 lap; original T-2377 and the sourceS gate are separate and open. See
 [the immutable50b6 evidence bundle](../hogan-pr1229-50b6-checkpoint-20261023T094744Z/README.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The thirty-two archives
+one M plus S prerequisites. Original image gates stay open. The thirty-eight archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **2026-10-23 09:23:34 UTC**, version `20261023T092334Z`. All 26 prior archive payloads remain
-unchanged. This save adds verified 1902 hotel-source adoption and current grouped QA,
-plus complete first/second-fort building/part audits and two concrete geometry
-proposals. Plans remain **UNAPPLIED**, new official bakes/renders/full gates and
-actual grouped browser QA remain **UNRUN**. No match or ticket status changed.
+Latest immutable checkpoint: **20261023T095145Z**. All 32 prior archive payloads remain
+unchanged. This save adds the closed jail roof/compound/clearance/source dependency
+packets and actual-reviewed Sauganash roof/Tremont glyph previews. Canonical plans
+remain **UNAPPLIED**. Jail heavy previews, new official integrations/full gates and
+composed app QA remain **UNRUN**. All reviewed image comparisons still **differ**.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -64,8 +64,14 @@ versioned name; later saves must retain these names and add a new version.
 | [T-2388-big-barn-cupola](T-2388-big-barn-cupola--UNAPPLIED_REAL_CONSUMER243_SCOPE--20261023T092334Z.tar.gz) | 767,238 | 0.767 | UNAPPLIED_REAL_CONSUMER243_SCOPE — Real opt-in reader/helper and conditional helper fingerprint;243 legacy parameter/call sequences equal,1new geometry; official243family refresh/GLB/browser/fullgate UNRUN |
 | [T-2387-coverage-audit](T-2387-coverage-audit--READ_ONLY30_AUDIT_NO_MATCH--20261023T092334Z.tar.gz) | 4,867,980 | 4.868 | READ_ONLY30_AUDIT_NO_MATCH — Original21plus9context records; source/part/rights audit and primaryWhistler folded elevations; no accepted picture camera |
 | [T-2387-face-layout-next](T-2387-face-layout-next--UNAPPLIED_FIVE_RANGE_OVERLAY25_SCOPE--20261023T092334Z.tar.gz) | 196,648 | 0.197 | UNAPPLIED_FIVE_RANGE_OVERLAY25_SCOPE — Final shared-fort overlay for five primary-elevation opening counts, one kw-only field, actual facade/entrance/sign readers and25default call parity PASS; official25family bake/render/QA UNRUN |
+| [T-2380-next-gale](T-2380-next-gale--UNAPPLIED_ROOF_PILOT_UNRUN--20261023T095145Z.tar.gz) | 6,277,910 | 6.278 | UNAPPLIED_ROOF_PILOT_UNRUN — One-master22degree jail roof trial with unchanged eave/plan/date/placement; exact original/source upright verification and fixed camera; heavy preview UNRUN |
+| [T-2380-compound-next](T-2380-compound-next--UNAPPLIED_FROZEN_REPRO_PREREQUISITE--20261023T095145Z.tar.gz) | 78,969 | 0.079 | UNAPPLIED_FROZEN_REPRO_PREREQUISITE — Frozen compound records/native palisade builder/verification helper required by clearance analysis; combined clearance patch already includes application changes; heavy UNRUN |
+| [T-2380-compound-clearance](T-2380-compound-clearance--UNAPPLIED_CLEARANCE15_PLUS2_UNRUN--20261023T095145Z.tar.gz) | 313,822 | 0.314 | UNAPPLIED_CLEARANCE15_PLUS2_UNRUN — Keeper0.60m east/south move, actual raw/compiled/entrance/plat/walker light consumer proof; closed gate and whole-envelope courtyard collision limitation retained;15existing palisade masters+2new masters; heavy UNRUN |
+| [T-2380-roof-source-dependency](T-2380-roof-source-dependency--EXACT_GALE_N79_SOURCE_DEPENDENCY--20261023T095145Z.tar.gz) | 2,363,179 | 2.363 | EXACT_GALE_N79_SOURCE_DEPENDENCY — Exact original roof-verifier JPEG plus title/copyright1902/p51/IA provenance; restore expected original path; source-only selected dependency packet |
+| [T-2383-roof-next](T-2383-roof-next--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz) | 4,743,583 | 4.744 | REVIEWED_DIFFERS_CANONICAL_UNAPPLIED — Actual pinned before/after exports and4comparisons reviewed by agent+parent; lower25.2degree roof/fullattic improvement; guarded adopter before glyph; canonical UNAPPLIED |
+| [T-2385-baked-arch-letters](T-2385-baked-arch-letters--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz) | 3,118,542 | 3.119 | REVIEWED_DIFFERS_CANONICAL_UNAPPLIED — Actual pinned TREMONT reconstructed glyph exports/comparisons reviewed;14tests/24defaultphases/40positionalAPI/namepool proof; guarded adopter and composedQA promotion prepared, browser UNRUN |
 
-All thirty-two archives are below 95 MB. The original log snapshot retains its immutable
+All thirty-eight archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -78,6 +84,31 @@ frame tests archive has nine passing focused tests and four deliberate-fault pro
 its local generator/data symlinks are preserved as links and are not patch content.
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
+
+## Closed jail proposals and actual-reviewed frame follow-ups
+
+[Exact recovery limits, archive hashes and dependencies](CLOSED-JAIL-FRAME-RECOVERY--20261023T095145Z.json) cover six additions.
+Jail roof and compound-clearance work remains **heavy-preview UNRUN**. The roof
+pilot affects one existing master and retains its eave/placement/date. Its exact
+original Gale scan is included separately for lossless source-orientation checks.
+Clearance’s combined patch includes the frozen compound application changes; do
+not stack both patches. The original compound packet is retained for the analysis
+helpers’ reproducibility. Native light consumers passed bounded plan/door/street
+checks, but whole-envelope palisade collision still prevents courtyard access and
+pushes inside spawns outward. No fake passage or collision exemption is supplied.
+Official scope is **15 existing palisade masters plus two new masters**; neither
+new asset has been built.
+
+Sauganash’s lower roof/attic and Tremont’s reconstructed known-name lettering have
+actual pinned exports and comparisons viewed by agent and parent; all still
+**differ**. Their guarded adopters remain **canonical UNAPPLIED**, and temporary
+apply receipts belong to the isolated exercise only. Preserve source/date/identity
+limits and reconstructed grades. Order after the original frame helper, notes and
+Gale hotel sources: Sauganash roof BEFORE glyph, then actual 23-family regeneration.
+The glyph proof preserves 14 tests, 24-phase defaults and the 40-argument positional API. Its composed QA
+candidate/promotion helper is final, unpromoted and browser **UNRUN**; current grouped
+QA was not changed. Thin canonical symlink fixture and caches were excluded.
+New roof-tone work remains outside this archive.
 
 ## Complete fort audits, new bounded proposals and verified hotel source
 
@@ -381,7 +412,7 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T092334Z.json)
+- [Latest combined manifest](MANIFEST--20261023T095145Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
 - [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
@@ -397,7 +428,7 @@ research cameras to accepted reference views merely to pass a gate.
 - [Church 1835 recovery/date/recipe metadata](CHURCH-1835-RECOVERY--20261023T064034Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All thirty-two SHA256SUMS](SHA256SUMS--20261023T092334Z.txt)
+- [All thirty-eight SHA256SUMS](SHA256SUMS--20261023T095145Z.txt)
 - [Sixth checkpoint manifest](MANIFEST--20261023T070319Z.json)
 - [New note/trial/log-helper inventories](ARCHIVE-FILES--20261023T084840Z.json)
 - [New closed-package recovery](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json)
@@ -405,10 +436,13 @@ research cameras to accepted reference views merely to pass a gate.
 - [New fort audits/source/QA file inventory](ARCHIVE-FILES--20261023T092334Z.json)
 - [Latest recovery](FORT-AUDITS-HOTELS-QA-RECOVERY--20261023T092334Z.json)
 
+- [New closed-package file inventory](ARCHIVE-FILES--20261023T095145Z.json)
+- [New closed-package recovery](CLOSED-JAIL-FRAME-RECOVERY--20261023T095145Z.json)
+
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T092334Z.txt
+sha256sum -c SHA256SUMS--20261023T095145Z.txt
 ```
 
 | Archive | SHA256 |
@@ -445,3 +479,9 @@ sha256sum -c SHA256SUMS--20261023T092334Z.txt
 | `T-2388-big-barn-cupola--UNAPPLIED_REAL_CONSUMER243_SCOPE--20261023T092334Z.tar.gz` | `8871ff266cbd58b728cc5cae5d4cccac05ba1d1f84662f4444df40cfb5e40e32` |
 | `T-2387-coverage-audit--READ_ONLY30_AUDIT_NO_MATCH--20261023T092334Z.tar.gz` | `543ded00df7f3cb70393488a3200760e8ad413b2b7212447cd7e65386c9e2334` |
 | `T-2387-face-layout-next--UNAPPLIED_FIVE_RANGE_OVERLAY25_SCOPE--20261023T092334Z.tar.gz` | `a49a59c3813c9a35622945e9f37786c01a3747ac2f14c3e6933bc2af0b7a80d5` |
+| `T-2380-next-gale--UNAPPLIED_ROOF_PILOT_UNRUN--20261023T095145Z.tar.gz` | `a774afccc542ec168ef5940ef8d7fd680312d59327cfa22cd03f2505d14829ca` |
+| `T-2380-compound-next--UNAPPLIED_FROZEN_REPRO_PREREQUISITE--20261023T095145Z.tar.gz` | `f561678d9dffc56b9d38ab442dc64954b85e3647d861e13c2c1def5ecf3d00d3` |
+| `T-2380-compound-clearance--UNAPPLIED_CLEARANCE15_PLUS2_UNRUN--20261023T095145Z.tar.gz` | `b0083419112db441b159deec0bc35c64e4245245f82a07ae37d3458a601514d8` |
+| `T-2380-roof-source-dependency--EXACT_GALE_N79_SOURCE_DEPENDENCY--20261023T095145Z.tar.gz` | `9ba39a7846d7baf93f0f8a2cc1a495054c313b15d4d220b07d973bbb458564b6` |
+| `T-2383-roof-next--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz` | `45763590d61be87b298d078026c40b3f1cbbf682bb7ac7f99822d5e7129ecfce` |
+| `T-2385-baked-arch-letters--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz` | `4035d317457a29bd877affc35f4091d3c04a5c0da6bc886f274a5612b1428dad` |
