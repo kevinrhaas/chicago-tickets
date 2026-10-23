@@ -1,7 +1,7 @@
 ---
 id: T-3024
 title: Glessner's 18th Street stack's vertical layout from HABS 14, photograph 4 and HABS 01: the gable's coping meeting the stack about 1.5 ft lower than built, the 1886 stone about 0.6 ft lower under the device's stone, and the two crosses level or stepped, each ruled, built or argued, rebaked, and HABS 14's stack-layout item closed
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2854
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 4:05:49 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40022650075
+claimed_at: 2026-10-23T21:05:50.311Z
 decision: null
 decision_answer: null
 ---
