@@ -26,6 +26,7 @@
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3049 — Smoke part 14's 1904 placement list (PLACED_1904 in tools/smoke_renderer.mjs) is missing the 27 Indiana Avenue / First Presbyterian drafts already on dev, so the check 'the 1904 scene draws none of the 1835 town's layers' fails at both viewports on clean dev; add them
+T-3057 — Smoke stage 14 holds the 27 Indiana Avenue drafts T-3009 placed in 1904
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
