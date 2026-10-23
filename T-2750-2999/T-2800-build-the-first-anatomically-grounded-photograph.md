@@ -1,7 +1,7 @@
 ---
 id: T-2800
 title: Build the first anatomically grounded photographic horse master
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:18 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:19.575Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -304,3 +304,5 @@ App source remains exact42-file D089, unchanged b479. Seventh whole attempt STOP
 ## Final-hour checkpoint — 2026-10-23T14:36:55.885648+00:00
 
 Complete43-file source/treeef0cd883 and allfailed/positive/negative receipts saved in checkpoint-final-merger-fixture-and-wrapup. EighthwholegateFAIL1/1054; narrowfake-statefixturefixpassesfocusedrealmerger15.58s and blockednegative remainsred. Freshwholegatepending; no newappcommit/PR orphotoacceptance. OwnerrequestsfinalgoodDEVpush/mergeandhandoverwithinaboutonehour.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:18 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
