@@ -1,7 +1,7 @@
 ---
 id: T-2377
 title: Match Hogan's store, the first post office to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex Hogan picture-match continuation 10/22/2026, 10:18:41 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T03:18:42.354Z
 decision: null
 decision_answer: null
 ---
