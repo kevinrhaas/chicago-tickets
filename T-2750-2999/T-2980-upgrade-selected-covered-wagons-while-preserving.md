@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+The distinct covered-wagon cloth refinements are included in pushed source `a22ca758`, with their original identities, stands, yokes and seeded finishes preserved. Current DEV integration and actual street visual review are still pending. PR #1208 will be superseded only after the exact replacement increment lands; photographic cloth and occupied use remain open.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-23, 05:12 UTC
 
 Combined vehicle refinement committed and pushed in [PR1213](https://github.com/kevinrhaas/chicago/pull/1213) at `cbb94c2d46223e4ca75fc4b02560f43c4de2e710`, tree52744e00. Full1052checks/382selftests, authored/HEAD checks and normal publisher/mirror/site validation PASS. First actual license-register failure retained; exact3row provenance correction only. Actual normalworld/current575DEV/normalCI qualification follows, draft/unmerged. This bounded material/LOD/cloth increment does not close photographic, occupied or parent acceptance. Latest full recovery is in HANDOVER.md and checkpoint-cbb94c2-vehicle-pushed-published.

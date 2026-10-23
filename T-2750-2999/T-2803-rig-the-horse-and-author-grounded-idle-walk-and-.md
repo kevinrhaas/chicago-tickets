@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+V16 passed the smaller planted-standing domain and was exported as a portable animated horse. Walking still fails the unchanged skin-deformation limits. The subsequent joint-centered V17 trial completed all 65 walk poses in 2.06 seconds but failed skin checks; it is retained as a failure and does not replace the accepted standing field. Loader and between-key standing checks are being prepared before activation.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-23, 05:30 UTC
 
 The original 65-pose diagnostic of the saved iteration40 field ran once and FAILED physical deformation. Mechanics, stance, ground, seams and loop passed; body edge ratios0.628924–1.189715 and areas0.638740–1.256349 exceed the unchanged limits. Runtime2.08s/94.2MiB; child reaped, no solver, retry or model export. The earlier QP certificate failure remains. Capsule0ae5dac0 and raw witnesses are in `evidence/parked-vehicles-2026-10-23/checkpoint-cbb-backup-and-575-intake/`.

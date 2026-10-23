@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+The saved 503 m route and controller remain inactive. Work now supplies the prerequisite standing-horse asset and actual trace geometry, while walking skin, complete tack and driver fit remain unqualified. No circuit, boarding or riding activation is claimed.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-22, 17:47 UTC
 
 Frozen route source/capsule backed:503.190m/667.787s Randolph east→Clark north→Lake west→LaSalle south,17m corners within8-degree steering. Worked-earth/ROW/dry/obstacle coarse checks pass; worn7m core mask FAIL−3.600m is preserved. Explicit reconstructed-shoulder/corridor ruling and actual animated swept-bound/world/mobile proof still required.

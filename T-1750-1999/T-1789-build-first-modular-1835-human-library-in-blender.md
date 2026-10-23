@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+The person and carriage source merge is resolved at staged tree `8eb92ce6`. All person assets and incoming UI/vehicle files passed preservation checks; canonical regeneration passed. The full preflight is running before an immediate checkpoint commit and push to [PR #1175](https://github.com/kevinrhaas/chicago/pull/1175). Existing reconstructed Otis Bardwell remains the resident reference. Photographic clothing, skin, animation and occupied interfaces remain unfinished.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-23, 03:42 UTC
 
 Actualca9 desktop14 FAIL139/1:4,600,305tri againstunchanged4.6Mcap; other3browsercells+normal4PASS. Source476pushedsafe; unmerged/noassertion/capchange. Genuinevehiclebudgetreduction prioritizedbeforefreshqualification. See newest HANDOVER and saved actualfailure/source checkpoint.

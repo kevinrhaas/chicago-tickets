@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+The catalogue-guided Brougham and 11,706-triangle distance model are pushed at `a22ca758`; the full 1,052-step preflight and all three applicable normal GitHub checks passed. Actual desktop stage 14 passed 140 checks, including 4,567,052 triangles under the unchanged 4.6M cap. Local screenshots still fail, and a mobile smoke failed an unchanged external Ames image request. DEV advanced to `29785b4`; the owned integration is preserving both research additions and all 222 census IDs. No photographic completion or DEV merge is claimed.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-23, 05:12 UTC
 
 Combined vehicle refinement committed and pushed in [PR1213](https://github.com/kevinrhaas/chicago/pull/1213) at `cbb94c2d46223e4ca75fc4b02560f43c4de2e710`, tree52744e00. Full1052checks/382selftests, authored/HEAD checks and normal publisher/mirror/site validation PASS. First actual license-register failure retained; exact3row provenance correction only. Actual normalworld/current575DEV/normalCI qualification follows, draft/unmerged. This bounded material/LOD/cloth increment does not close photographic, occupied or parent acceptance. Latest full recovery is in HANDOVER.md and checkpoint-cbb94c2-vehicle-pushed-published.

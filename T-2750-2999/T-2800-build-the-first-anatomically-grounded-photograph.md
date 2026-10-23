@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+The corrected V16 horse skin passed all 65 sampled planted-standing poses, including hoof contact, skin deformation, joint lengths, loop and source protections. The portable 26-joint horse now exports with a 12-second standing shift and unchanged geometry/textures: `b479442c`, 3,783,600 bytes. Independent loader, between-key contact, visual and app-placement checks are next. The original standing-horse PR remains separate; walking and photographic acceptance are unfinished.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-23, 03:42 UTC
 
 Read-onlycurrentdesktoptriage confirms3eligibleupdates/.75hostseconds→exact.1715ownedseconds. Mobileunchangedsourcepasses. Noidleclock/clip/rigfixjustified; preserveoverall desktopFAIL anddraft. Needmeasuredrenderingcostfix, notdelay/dt/testchanges. See newest HANDOVER and saved actualfailure/source checkpoint.

@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23, 08:19 UTC
+
+A concrete 1904 Moore-catalogue trace reconstruction was fitted against the complete saved horse surface and exported once: two flat leather traces, 648 triangles, 22,248 bytes, SHA `d37533eb`. Independent serialized topology, winding, caps and whole-surface clearance checking is prepared and held for its bounded run. These are unhitched resting traces; collar, doubletree, driver palms, reins and moving-team fit remain unfinished.
+
+[Full recovery and next steps](../HANDOVER.md). The existing root claim remains active.
+
+
 ## Checkpoint — 2026-10-22, 18:34 UTC
 
 ActualBardwell sit_drive/W01nativefit found outertrouserseatpenetration7.817783mm with54propercrossings although shoesmatchboard. Body-onlyclearance wasinsufficient. Pelvis/two-boneIKsourcefix underCPUstudy, driveractivationFALSE. No existingmodeleddoubletree/harnesscontact canbelaudedfromemptyframes.
