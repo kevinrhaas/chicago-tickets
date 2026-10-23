@@ -37,3 +37,5 @@ was on dev before T-3029 merged.
 (either a marked term on Home outside the tile button, or the check pointed at the first appearance
 that now exists), and the T-2662 smoke line passes at both viewports. The tap inside a tile must
 not both open the tip and the app.
+
+**2026-10-23:** T-3022 (PR 1228, the Navigator thread) fixes this, and mobile part 12 passes with it. Withdraw T-3043 as a duplicate once 1228 is on dev.
