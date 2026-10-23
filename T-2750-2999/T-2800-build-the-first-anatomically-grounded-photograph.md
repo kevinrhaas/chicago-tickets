@@ -332,3 +332,10 @@ PR [chicago#1244](https://github.com/kevinrhaas/chicago/pull/1244) merged normal
 Delivered one reconstructed selectable 1835 Western Hotel yard horse with a planted 12-second standing shift, bounded yard support and host pause/visibility/resource ownership. Automatic DEV preview delivery is being verified. This partial merge does not satisfy photographic anatomy/eyes/hair/coat, near/mid/far qualification, walk/trot, complete tack, teams/drivers or riding acceptance. The broader ticket remains unfinished. Final receipts: `chicago-evidence/evidence/horse-pr1244-approved-delivery-2026-10-23/ACTUAL-GREEN-DEV-MERGE/` and `ACTUAL-STRICT-NORMAL-THREE-TERMINAL/`; see HANDOVER.md.
 
 **Released 2026-10-23** (claim of Codex PR1244 green-merge continuation 10/23/2026, 1:33:15 PM CT): PR1244 merged green to DEV fa115d7 and exact public horse assets verified. Session wrap; photographic master and full walk/trot, gear and riding acceptance remain unfinished. Final receipts pushed to chicago-evidence cc2949e; resume HANDOVER.md.
+
+
+### Public delivery and released claim — 2026-10-23 19:08 UTC
+
+Automatic deployment40008193719 succeeded. Public [DEV1835](https://chicago.polecat.live/4d/dev/1835/) build `fa115d72` contains merged PR1244, and all nine checked horse model/data/runtime assets exactly match the reviewed published source bytes. This proves HTTP delivery, not photographic, full gait or targeted horse browser acceptance. Original environment-limited mobile launch remains NONPASS.
+
+[Final GitHub-backed receipts](https://github.com/kevinrhaas/chicago-evidence/tree/cc2949ee6457b78f0ad49356830b7e8ced143951/evidence/horse-pr1244-approved-delivery-2026-10-23) include exact normal CI, ordinary merge, public delivery and superseded1212 closure. Claim released for session wrap; broader photographic/gait criteria remain open in the existing queue position. Resume the final HANDOVER.md before claiming.

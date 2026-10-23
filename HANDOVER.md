@@ -1,3 +1,33 @@
+# Final horse delivery and handover — 2026-10-23
+
+**PR1244 is merged to DEV and its assets are publicly delivered.** Ordinary squash merge `fa115d72534e234fe5ac7b94fd2f1a3eb38065c8`, tree `43665a4b692d5283defba96f236aed14b3c02623`, single reviewed DEV parent `eb1a0d11a96767a715a136ee43d94097ddf5b9cd`. Final pushed source `f225b8ae541173e2dde6e576bb20c103f4c87106` remains clean at `/workspace/chicago-waistcoat`. No production promotion.
+
+All three fresh normal checks passed on this source: gate40004752292 **1055 steps / 382 self-tests**, moving frames and phone40004752222, report40004742266. PR jobs actually checked out `60f4fb6100c93ae984d73fc3e427aa0e0bfdb84b`, same tree, parents [reviewed DEV, source]; report checked out source. Human workflow has zero matches among43 changed paths and is N/A, never a fourth pass. Complete current checks/statuses, source/base, no final hold and actual postmerge tree/parent were verified. No admin/bypass/manual dispatch/rerun.
+
+Automatic preview deployment40008193719 succeeded. At19:08UTC [public DEV1835](https://chicago.polecat.live/4d/dev/1835/) buildfa115d72 contained the merge; nine selected public model/data/runtime assets exactly matched reviewed published source bytes. Old draft1212 is closed as superseded by the redesigned standing increment, **not** under byte-containment reasoning.
+
+## What landed and what did not
+
+One selectable reconstructed chestnut/flaxen horse in the **1835 Western Hotel yard**, modern CC BY4 source credited separately from historical confidence. Metres,26 joints, one12-second planted weight shift; hoof contact/key-and-midpoint loader proof, bounded drawn-yard support, host pause/visibility/reduced-motion handling, selection card and resource ownership. Full70m/Balanced40m/Light0, one instance. Existing wagons, distinct canvas finishes, Brougham and Bardwell Otis remain from earlier merged1175.
+
+**Photographic completion is not achieved.** Near-view anatomy, cloudy eyes, opaque hair and baked coat glints need reference-matched refinement; near/mid/far qualification remains. No walk/trot, matched gear, occupied teams, drivers, riding or complete1812/1904 horse activation. Other-era activation stays disabled/unqualified. T2800 andT2803 were released to **open**, in their existing queue positions; no broad ticket was falsely closed. Root holds neither claim after wrap.
+
+Original local horse sourceeb1cafe passed1054/382. Combined localG11 disconnected and failed child launches with gitEAGAIN; it remains NONPASS. Owner explicitly approved using fresh GitHub CI for this reviewed integration ("Yes merge to dev when green"). Final source also passed targeted contract, committed-HEAD changelog/IDs/whitespace and publication/mirror/site checks. One original final-H mobile yard attempt failed before any app frame because Chromium could not create threads: zero requests/captures; unchanged inputs; final owned cleanup/kernelECHILD. General normal moving/phone CI passes do not turn that targeted browser attempt into a pass. Use a healthy browser host for the next actual yard inspection; preserve original limits and failed evidence.
+
+## Durable recovery
+
+[Complete final evidence, pushed commitcc2949ee](https://github.com/kevinrhaas/chicago-evidence/tree/cc2949ee6457b78f0ad49356830b7e8ced143951/evidence/horse-pr1244-approved-delivery-2026-10-23): ACTUAL-STRICT-NORMAL-THREE-TERMINAL (actual logs/source/checkout proofs), ACTUAL-GREEN-DEV-MERGE (ordinary merge/current-check/tree/parent receipts), ACTUAL-PUBLIC-PREVIEW-DELIVERY (actual HTTP hashes and ancestry), ACTUAL-SUPERSEDED-1212-CLOSURE, ACTUAL-MOBILE-LAUNCH-NONPASS, reviewed delivery tools and explicit owner authorization. Bulky evidence belongs in chicago-evidence, never tickets. Local run root `/workspace/shared/T2800-PR1244-OWNER-APPROVED-INTEGRATION-20261023/`; all active delivery commands completed with owned cleanup. Do not rerun the one-shot merger against an already merged PR.
+
+Earlier integration/G11 evidence remains in chicago-evidence1caeab0/eba255c. Historical full handover at chicago-tickets37ebafc29ffee4a309ce14612443979312c6bf4d preserves held future1904 fitter, eyeUV, V18lamp/carriage and person-source packets. Prior dated entries below preserve research and failures; this final entry supersedes their pending-delivery state.
+
+## Continue through existing tickets
+
+Read QUEUE.md and claim before editing; do not reorder it. Check actual current DEV before integrating any held source. Existing broad owners: T2793/T2980 wagon and distinct covered finishes; T2794 photographic carriage; T2800 horse appearance; T2803 idle/walk/trot; T2801/2802 harness and riding gear; T2795/2796 matched hitches and moving traffic; T2804 riders/drivers; T2797/T2805 boarding/riding. Portable human library/animation and measured scene acceptance remain under T1789/T1790/T2673–2675/T1792. Keep those acceptance criteria; do not create duplicate completion tickets.
+
+Independent useful lanes after claims: horse anatomy/eye/hair/coat refinement with matched reference views; walk/trot contact/deformation/loop work; wagon/carriage photographic refinement; portable people/period wardrobe. Reuse existing attested/inferred/reconstructed identities such as the placed Bardwell Otis before anonymous fallback. Integrate a first circuit only after grounded gait and horse-to-vehicle/driver attachments qualify. Preserve per-era source eligibility and historical liberties; a modern model does not attest Chicago ownership or breed.
+
+## Prior dated checkpoints
+
 # Horse standing increment merged to DEV — 2026-10-23 19:01 UTC
 
 PR1244 ordinary squash merged `fa115d72534e234fe5ac7b94fd2f1a3eb38065c8`, tree43665a4b692d5283defba96f236aed14b3c02623, single parent reviewed DEV eb1a0d11a96767a715a136ee43d94097ddf5b9cd. Sourcef225b8ae passed fresh normal gate40004752292 (1055/382), moving/phone40004752222 and report40004742266. Actual checkout, current source/base/check inventories, no final hold and actual merge tree/parent all verified. No bypass/admin/manual dispatch. Prior localG11 and originalmobile thread failure remain NONPASS; no photographic acceptance.
