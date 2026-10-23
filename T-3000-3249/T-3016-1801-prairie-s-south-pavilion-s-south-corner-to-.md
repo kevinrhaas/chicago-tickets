@@ -1,7 +1,7 @@
 ---
 id: T-3016
 title: 1801 Prairie's south pavilion's south corner to the Taylor photograph: with the north edge and heights matched it still renders about 55 px south of the print's x 1340 (x 1395) and its gable apex about 50 px south (x 1320 against 1270), because the 1911 sheet draws the pavilion 0-0.1 m proud with a chamfered south-west corner (about 0.45 m) that the build cannot stand: teach K01 to stop the mansard's eave box and gutter at a full-height projection's cheeks and K08's gable to stand on a shallow canted plan, stand the face at the sheet's place with its chamfer (the render's corner then falls within about 5 px of the print's), and re-check the Taylor camera's south-west bearing, which it laid on the chamfer's back (u 20.1, v 11.2), a point this camera cannot see
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2999
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 7:44:49 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39879313772
+claimed_at: 2026-10-23T00:44:50.840Z
 decision: null
 decision_answer: null
 ---
