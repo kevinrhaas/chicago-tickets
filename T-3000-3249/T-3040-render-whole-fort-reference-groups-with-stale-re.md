@@ -1,7 +1,7 @@
 ---
 id: T-3040
 title: Render whole-fort reference groups with stale-review protection
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2387
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1218
 claimed_by: run 10/22/2026, 5:47:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T00:35:18Z
 claimed_run: null
 claimed_at: 2026-10-22T22:47:37.490Z
 decision: null
