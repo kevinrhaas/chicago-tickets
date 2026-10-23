@@ -1,7 +1,7 @@
 ---
 id: T-3025
 title: Glessner's roof covering: every print reads the roofs, the stable cupola's pyramid included, slate-grey where the model lays red tile house-wide; find what the roof was laid in (contract, specification, description or a colour view) and rule it, rebaking if it changes
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2854
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 10:18:52 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39974852857
+claimed_at: 2026-10-23T15:18:53.415Z
 decision: null
 decision_answer: null
 ---
