@@ -8,14 +8,15 @@ at the immutable snapshot; later success and merge are not inferred. Historical
 lap; original T-2377 and the sourceS gate are separate and open. See
 [the immutable50b6 evidence bundle](../hogan-pr1229-50b6-checkpoint-20261023T094744Z/README.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The forty-three archives
+one M plus S prerequisites. Original image gates stay open. The forty-eight archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **20261023T102239Z**. All 42 prior archive payloads remain
-unchanged. The complete frozen Wolf Point actual-preview runner is **UNRUN**;
-292 author-manifest inputs were verified. First actual grouped QA failed and was
-stopped; its corrected 12-case script is prepared **UNRUN**, with failure history
-retained separately. No new app/model/QA PASS or accepted image match is claimed.
+Latest immutable checkpoint: **20261023T103611Z**. All 43 prior archive payloads remain
+unchanged. Final frozen fort/jail light composers and necessary lighthouse
+profile/source/prior actual narrow dependencies are preserved. Composers remain
+**UNAPPLIED**, new actual previews and official bake/gates pending. The fort dry
+run is historical to e41; parent’s current e474 merge transition requires fresh
+rematerialization/review. No live root or running Hogan gate was captured.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -75,8 +76,13 @@ versioned name; later saves must retain these names and add a new version.
 | [T-2386-topology](T-2386-topology--UNAPPLIED_PHYSICAL_L_UNRENDERED--20261023T101439Z.tar.gz) | 2,193,330 | 2.193 | UNAPPLIED_PHYSICAL_L_UNRENDERED — Frozen physical concave L over final log81, provisional source fit and1867NYPL proof; analytic projections not renders; no oldparallel trial replay |
 | [T-2386-entry-site](T-2386-entry-site--UNAPPLIED_SIDE_ENTRY_SITE_UNRENDERED--20261023T101439Z.tar.gz) | 6,569,346 | 6.569 | UNAPPLIED_SIDE_ENTRY_SITE_UNRENDERED — Primaryfront_doors contract retained; separate real+X side entry and reconstructed bbox-centre-preserving origin; native light consumers/known4prop collisions explicit; actualpreview/official81bake/QA pending |
 | [T-2386-L-preview](T-2386-L-preview--FROZEN_SELFCONTAINED_RUNNER_UNRUN--20261023T102239Z.tar.gz) | 4,973,982 | 4.974 | FROZEN_SELFCONTAINED_RUNNER_UNRUN — 292manifest inputs verified; copied fulltemplates/source/code, runtime-only externaldeps;2fresh officialseed exports+2fixedcamera comparisons prepared, actualexecutionUNRUN and no siteclearance claim |
+| [fort-adoption-composer](fort-adoption-composer--HISTORICAL_READY21_DRYRUN_REMATERIALIZE--20261023T103611Z.tar.gz) | 1,485,834 | 1.486 | HISTORICAL_READY21_DRYRUN_REMATERIALIZE — Historicale41-based21-file fort composer with normalized8liberties/proofs/25realrecipes; UNAPPLIED, newprofile actualpreview UNRUN; recompose after currentdev transition |
+| [T-2380-adoption-composer](T-2380-adoption-composer--READY10_UNAPPLIED18_BUILDS_PREVIEW_UNRUN--20261023T103611Z.tar.gz) | 7,863,661 | 7.864 | READY10_UNAPPLIED18_BUILDS_PREVIEW_UNRUN — Self-contained10-file guarded jail composer:22degree core+keeper+closedpalisade, source/pool/ledger/nativeproofs; isolated10fileapplyPASS notcanonical;18realproductionbuilds and actual3memberpreview pending |
+| [T-2373-profile-next](T-2373-profile-next--PROFILE_APERTURES_PREPARED_UNRENDERED--20261023T103611Z.tar.gz) | 233,739 | 0.234 | PROFILE_APERTURES_PREPARED_UNRENDERED — Necessary frozen fort-composer profile/aperture baseline/candidate/sourcepicks;25default/API/feet/bounds lightproof; newprofile actualpreview UNRUN |
+| [T-2373-openings-next](T-2373-openings-next--SOURCE_GRADE_APERTURE_PROOF_UNRENDERED--20261023T103611Z.tar.gz) | 568,263 | 0.568 | SOURCE_GRADE_APERTURE_PROOF_UNRENDERED — Necessary profile source/grade/vertical-control aperture study; actual1842source details and groundaudit; no rendered appearance match |
+| [T-2373-narrow-trial](T-2373-narrow-trial--ACTUAL_NARROW_REVIEW_DEPENDENCY_HISTORICAL--20261023T103611Z.tar.gz) | 4,331,783 | 4.332 | ACTUAL_NARROW_REVIEW_DEPENDENCY_HISTORICAL — Preserves earlierpreparedpacket plus closed0922actualexport/comparison/review; narrowappearance improved but differs, verticalprofile unresolved; no canonicalbake |
 
-All forty-three archives are below 95 MB. The original log snapshot retains its immutable
+All forty-eight archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -89,6 +95,38 @@ frame tests archive has nine passing focused tests and four deliberate-fault pro
 its local generator/data symlinks are preserved as links and are not patch content.
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
+
+## Final light composers: recoverable plans, not adopted models
+
+[Composer recovery](FINAL-COMPOSERS-RECOVERY--20261023T103611Z.json) and [exact predecessor hashes](COMPOSER-DEPENDENCIES--20261023T103611Z.json) preserve the
+historical 21-file fort dry run and guarded 10-file jail candidate. Existing frozen
+fort-selective and five-range archives were verified file-for-file against their
+referenced predecessors. New lighthouse profile/aperture source studies and the
+closed 09:22 actual narrow review are archived separately; earlier prepared narrow
+UNRUN bytes remain unchanged. Fort shadow/driver copies, disposable jail overlays,
+caches and all symlink targets were excluded; concrete scripts, patches, candidates,
+normalized fragments, input/proof manifests and real source evidence remain.
+
+Fort: all 25 recipes require a real all-scene bake. Ten records intentionally change;
+15 defaults retain geometry. New lighthouse profile remains unrendered and must be
+actually reviewed before adoption. The 75-file author manifest and normalized
+eight-liberty/23-claim/default/API/namepool/consumer proofs are retained. Its e41 dry-run
+patch must not be blindly applied after parent’s current e474 transition: rerun
+materialization, inspect current guards and only then decide adoption.
+
+Jail: the 55-file author manifest, exact 10-file owned application exercise, refused
+ledger drift, frozen executable inputs and normal source/pool/coverage/native
+compiler checks are retained. Canonical application and heavy preview are **UNRUN**.
+Production requires 18 real masters: 15 existing palisades, one existing core and two new
+members, all scenes and 18 web derivatives. The three-member preview cannot stand
+in for production freshness. Closed-wicket/whole-envelope walker limits, uncertain
+July 1835 continuity and exact 1902 artwork/UCR copy distinctions remain explicit.
+No fake assets, empty sidecars, interior passage, recipe restamp or false matches.
+
+Parent reports M stashed/reapplied onto pending dev e474, with no M code commit or
+complete check yet. This final composer save takes no live canonical snapshot,
+running-gate evidence or additional app action. Future apply/preview requires the
+appropriate current guarded repository/toolchain, not an offline runtime image.
 
 ## Self-contained Wolf preview and honest first QA failure
 
@@ -492,7 +530,7 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T102239Z.json)
+- [Latest combined manifest](MANIFEST--20261023T103611Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
 - [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
@@ -508,7 +546,7 @@ research cameras to accepted reference views merely to pass a gate.
 - [Church 1835 recovery/date/recipe metadata](CHURCH-1835-RECOVERY--20261023T064034Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All forty-three SHA256SUMS](SHA256SUMS--20261023T102239Z.txt)
+- [All forty-eight SHA256SUMS](SHA256SUMS--20261023T103611Z.txt)
 - [Sixth checkpoint manifest](MANIFEST--20261023T070319Z.json)
 - [New note/trial/log-helper inventories](ARCHIVE-FILES--20261023T084840Z.json)
 - [New closed-package recovery](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json)
@@ -531,10 +569,14 @@ research cameras to accepted reference views merely to pass a gate.
 - [Self-contained Wolf runner file inventory](ARCHIVE-FILES--20261023T102239Z.json)
 - [Wolf runner / first QA recovery](WOLF-RUNNER-QA-FIRST-RECOVERY--20261023T102239Z.json)
 
+- [Final composer file inventory](ARCHIVE-FILES--20261023T103611Z.json)
+- [Final composer dependency hashes](COMPOSER-DEPENDENCIES--20261023T103611Z.json)
+- [Final composer recovery](FINAL-COMPOSERS-RECOVERY--20261023T103611Z.json)
+
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T102239Z.txt
+sha256sum -c SHA256SUMS--20261023T103611Z.txt
 ```
 
 | Archive | SHA256 |
@@ -582,3 +624,8 @@ sha256sum -c SHA256SUMS--20261023T102239Z.txt
 | `T-2386-topology--UNAPPLIED_PHYSICAL_L_UNRENDERED--20261023T101439Z.tar.gz` | `d5a3526ca11c11ce96e357bbf40e1980ba48676a3a962da9acb207fcc6898e34` |
 | `T-2386-entry-site--UNAPPLIED_SIDE_ENTRY_SITE_UNRENDERED--20261023T101439Z.tar.gz` | `c326568d30781230573e2cf5a43b46400a047a202c28b731e03ce72fb0f9cc4a` |
 | `T-2386-L-preview--FROZEN_SELFCONTAINED_RUNNER_UNRUN--20261023T102239Z.tar.gz` | `030890e2071897d17d1aa410ad7474741c50c584fdc2508161c74f47ee5732f7` |
+| `fort-adoption-composer--HISTORICAL_READY21_DRYRUN_REMATERIALIZE--20261023T103611Z.tar.gz` | `273c7c745b64305eceff17d2efdf0fb82962ee17b4abbb6b4ae9c9b221cd8b75` |
+| `T-2380-adoption-composer--READY10_UNAPPLIED18_BUILDS_PREVIEW_UNRUN--20261023T103611Z.tar.gz` | `19cf751050ae4038cb20a32c7d4b32564aa2268b4f78ee8a97259f4610143fac` |
+| `T-2373-profile-next--PROFILE_APERTURES_PREPARED_UNRENDERED--20261023T103611Z.tar.gz` | `6a124abe2a403ea5f2c4b5e957a7525b75204e05439b5373f93f39d1a57a5078` |
+| `T-2373-openings-next--SOURCE_GRADE_APERTURE_PROOF_UNRENDERED--20261023T103611Z.tar.gz` | `07f5d6b099336a85e4da775b4962c95d4f54f2b98c6a8529aeeebb2d5724fc57` |
+| `T-2373-narrow-trial--ACTUAL_NARROW_REVIEW_DEPENDENCY_HISTORICAL--20261023T103611Z.tar.gz` | `ab9536cab0b1f9c4c70e7e1462bad6d460a434db52cbd5f111072b6f52c3f949` |
