@@ -1,0 +1,18 @@
+{
+  "ticket": "T-2377",
+  "state": "WIP: first geometry increment rebuilt; image match differs; local preflight running; no code commit or PR yet",
+  "branch": "steward/t2377-hogan-picture-match",
+  "base": "7a9123e9d6986fc3ea7b8912bd78f6278b0350f7",
+  "patch_sha256": "202fc1bfb4a4d9f71b2c88149fa48c04324013ea1167b94212928993c134c6a3",
+  "build": "verified pinned Blender4.5.3; --only hogan_store; no generator changes",
+  "derivative": "pinned glTF-Transform4.5.0 packages; npm cache /workspace/shared/npm-cache",
+  "original_image_match_complete": false,
+  "preflight_log": "/tmp/t2377-model/preflight.log",
+  "preflight_session": 71843,
+  "photo_comparison": "differs, reviewed",
+  "source_credit": "Edgar S. Cameron / Chicago Historical Society; Commons locator plus inspected local surrogate",
+  "baseline_models": {
+    "before_sha256": "8ca38e2f312997f38f2773b5698ae6c16f72da26112fb0f2559961e962d69809",
+    "after_sha256": "154a70f594a4d7a3da44d7146ae9b0bf4f536caeb0a800781f4c339ff3425610"
+  }
+}

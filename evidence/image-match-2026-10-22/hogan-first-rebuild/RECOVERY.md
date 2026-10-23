@@ -1,0 +1,3 @@
+# Recover Hogan's first picture-based rebuild
+
+Read checkpoint.json for current state. This is an actual first geometry increment, with remaining image differences; do not close T-2377 on this archive. Prefer a later pushed code branch/PR or merged dev result if recorded. Initial recovery: preserve newer work, decompress changes.patch.gz outside the checkout, inspect it, and apply only on its stated base after git apply --check. The patch includes new source/docs/changelog plus rebuilt GLB/web derivative and manifests; no missing untracked source is required. Before/after and reviewed differences are copied alongside it. The source/rights/survival/camera limits remain in the handoff. No accepted camera, full smoke or merge is claimed by the initial WIP.

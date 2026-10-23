@@ -1,0 +1,22 @@
+{
+  "structure_id": "hogan_store",
+  "source_id": "cameron_c1900_first_post_office",
+  "photo": "../../../../reference/images/chicago/chicago_first_post_office_1833.jpg",
+  "image_px": [
+    2062,
+    1507
+  ],
+  "eye": [
+    21.5748,
+    13.1449,
+    1.2453
+  ],
+  "yaw_deg": 233.0249,
+  "focal_px": 652.8057,
+  "principal_px": [
+    434.5028,
+    735.6022
+  ],
+  "sky": "overcast",
+  "solve": "PROVISIONAL retrospective-drawing comparison. Six approximately selected wall corners fitted against the existing documented 45 by 20 ft envelope and reconstructed 2.5 m eave. Initial point RMS about 13.1 px, with vertical residuals up to 35 px. No metric, geographic or historical camera claim. Drawing perspective is inconsistent; camera and form remain under review. Soft overcast review light retains the broadly similar unlit wall tones; historical colour is not established by the halftone."
+}
