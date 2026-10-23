@@ -19,6 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/3991713
 claimed_at: 2026-10-23T08:11:57.601Z
 decision: null
 decision_answer: null
+group: T-3062,T-2997
 ---
 
 1811 Prairie's bay stone gable to the 1888 plate: its apex, lights and pinnacles about 10 px (0.25 m) north to the plate's x 196-197 and the pinnacles carved (the south one under a scaled dome, the north under a moulded block).
