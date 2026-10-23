@@ -13,5 +13,10 @@
     "file": "T2794-GENUINE-MID-GEOMETRY-BUDGET-20261023.tar.gz",
     "bytes": 77999,
     "sha256": "12d7c00800cdef173b3eff72d10e10e40d98771678643f78451e0ee917ace497"
+  },
+  {
+    "file": "T2794-GENUINE-MID-11706-FAIL-AND-CONTINUATION-HELD-20261023.tar.gz",
+    "bytes": 929633,
+    "sha256": "6f09cdda74be9180d25ea9b1ab936ec4cc3fe006e2f1b22fc7265add0a9d5c3e"
   }
 ]
