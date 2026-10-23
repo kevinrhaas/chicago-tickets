@@ -7,16 +7,16 @@
     1507
   ],
   "eye": [
-    21.5748,
-    13.1449,
-    1.2453
+    22.02240541992612,
+    13.700787264424813,
+    1.083003778569425
   ],
-  "yaw_deg": 233.0249,
-  "focal_px": 652.8057,
+  "yaw_deg": 229.67641097660223,
+  "focal_px": 698.9081001910997,
   "principal_px": [
-    434.5028,
-    735.6022
+    398.43638179876683,
+    743.808737316032
   ],
   "sky": "overcast",
-  "solve": "PROVISIONAL retrospective-drawing comparison. Six approximately selected wall corners fitted against the existing documented 45 by 20 ft envelope and reconstructed 2.5 m eave. Initial point RMS about 13.1 px, with vertical residuals up to 35 px. No metric, geographic or historical camera claim. Drawing perspective is inconsistent; camera and form remain under review. Soft overcast review light retains the broadly similar unlit wall tones; historical colour is not established by the halftone."
+  "solve": "PROVISIONAL retrospective-drawing fit, not a historical camera. Six manually selected wall corners on the retained documented45x20ft footprint and reconstructed2.5m eave give point RMS 16.099px, maximum26.809px. Picks/projections are in camera-fit.json; about5px picking uncertainty and inconsistent drawing convergence remain. No geographic or metric claim. Soft overcast review light is a comparison choice; original colour is not known."
 }

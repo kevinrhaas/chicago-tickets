@@ -1,22 +1,23 @@
 {
   "ticket": "T-2377",
-  "state": "WIP: first geometry increment rebuilt; first preflight found two integration omissions; both targeted repairs pass; full preflight rerun in progress; no code commit or PR yet",
+  "state": "WIP: actual Hogan openings/stack refined and independently visually reviewed; second preflight exposed uncompiled liberty/apron producers; those producers now run; ordered compiler tail settling; final preflight and app QA not yet run",
   "branch": "steward/t2377-hogan-picture-match",
   "base": "7a9123e9d6986fc3ea7b8912bd78f6278b0350f7",
-  "patch_sha256": "71f4d741ad1015ab5c752038821eb5fdb9f20e7adde1ffc9a89eb444ba7a73f2",
+  "patch_sha256": "486b523667f696fbeff4b03d46c71bfbfad91191989635f7818fbda9d829c765",
   "build": "verified pinned Blender4.5.3; --only hogan_store; no generator changes",
   "derivative": "pinned glTF-Transform4.5.0 packages; npm cache /workspace/shared/npm-cache",
   "original_image_match_complete": false,
   "preflight_log": "/tmp/t2377-model/preflight-final.log",
-  "preflight_session": 50263,
+  "preflight_session": null,
   "photo_comparison": "differs, reviewed",
   "source_credit": "Edgar S. Cameron / Chicago Historical Society; Commons locator plus inspected local surrogate",
   "baseline_models": {
     "before_sha256": "8ca38e2f312997f38f2773b5698ae6c16f72da26112fb0f2559961e962d69809",
-    "after_sha256": "154a70f594a4d7a3da44d7146ae9b0bf4f536caeb0a800781f4c339ff3425610"
+    "after_sha256": "c196950ac57ec0e76d78698de43b956188eeb0ea2403264700991c9587bd5fe2"
   },
   "initial_preflight": "failed: name-pool note keys and source-use backlinks",
-  "repairs": "seven note keys declared read; ordered compiler tail settled after two laps; name-pool check/self-test and confidence audit pass",
+  "repairs": "eight new prose keys declared read; source-use backlinks regenerated; liberty and apron producers now run before ordered compiler tail; actual opening stations corrected to8.45/11.55 with reconstructed widths1.45/.75 and stacksection.65",
   "fixture_scope": "only Hogan sign and two crates move off new doorway",
-  "workbook_scope": "unrelated workbook serialization differs but all sheet row values are identical; preserve original bytes before code commit"
+  "workbook_scope": "unrelated workbook serialization differs but all sheet row values are identical; preserve original bytes before code commit",
+  "second_preflight": "failed: missing compiled liberty and stale entrance apron; explicit compile_liberties.py and generate_entrances.py now run"
 }
