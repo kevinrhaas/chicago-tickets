@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/22/2026, 7:49:28 PM CT
+claimed_by: root continuing delegated people and transport delivery; independent renewal 10/22/2026, 10:41:10 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T00:49:29.326Z
+claimed_at: 2026-10-23T03:41:11.266Z
 decision: null
 decision_answer: null
 ---
