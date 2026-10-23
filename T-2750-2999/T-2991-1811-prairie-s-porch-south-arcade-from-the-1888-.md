@@ -1,7 +1,7 @@
 ---
 id: T-2991
 title: 1811 Prairie's porch south arcade from the 1888 plate: three round-arched lights on colonnettes (x 476, 490 and 501 px, capitals y 680-690, crowns y 647-660) on a face receding from the front at about v 9.4-9.5 by the camera, where the solve puts the entrance block's south corner at v 10.40 (x 510); read the block's south return and the porch's side wall, then build it (K01's loggia side arch opens only an end wall)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-2984
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 5:46:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39939738552
+claimed_at: 2026-10-23T10:46:26.594Z
 decision: null
 decision_answer: null
 ---
