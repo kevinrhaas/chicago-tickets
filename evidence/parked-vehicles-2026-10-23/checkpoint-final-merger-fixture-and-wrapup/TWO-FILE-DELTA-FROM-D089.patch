@@ -1,0 +1,54 @@
+diff --git a/chicago/4d/docs/STATUS.md b/chicago/4d/docs/STATUS.md
+index 5fcc643cb..301cfc85a 100644
+--- a/chicago/4d/docs/STATUS.md
++++ b/chicago/4d/docs/STATUS.md
+@@ -24613,3 +24613,5 @@ Actual standardGLTFLoader/Mixer129 V2 passed65originalkeys+64midpoints, max cont
+ The standalone source patch was integrated onto DEV e4745b3c5714185079215d06d8072a4791c6de4a, retaining its newer Ames liberty changes. Actual compile_liberties.py, compile_scene.py --all and compile_source_use.py passed; the measured contract/clock/credit/support unit and isolation audit passed. Actual integration fullgate, yard desktop/mobile visuals, published budgets/selection/pause/reduced-motion and photographic completion remain pending. This checkpoint does not close T-2800 or T-2803 and does not claim walking, trot, head/tail composition, tack, teams or riding.
+ 
+ The first actual preflight stopped after publication refused an inherited stale ignored Glessner output. The old outputs and dirty ticket clone were preserved; the existing verified-archive materializer restored the current output, and the current canonical ticket clone supplies the worktree. The next preflight published successfully but exhausted temporary storage when the existing ticket-mirror regression copied unrelated recovery archives into its fixture. Both attempts remain non-passes. That regression now excludes only evidence archives and Git internals, retains every ticket/metadata input and the original mirror assertions, and cleans up a failed initial copy. Its actual measured run and the isolation audit passed; a fresh full preflight is required.
++
++The final merge-ready dry-run fixture emits its fixed GitHub states as shell-quoted Bash cases rather than starting an unnecessary nested Node interpreter. Every original merger assertion remains; dry-run exit status and output are recorded. Production merge/lock/workflow code is unchanged. A complete1054-step attempt finished with one dry-run fixture failure; the old assertion did not record output, so the exact transient cause is not established. Focused real-merger and deliberately blocked dry-run negative controls are recorded externally; a fresh complete gate is required before commit.
+diff --git a/chicago/4d/tools/test_merge_ready.mjs b/chicago/4d/tools/test_merge_ready.mjs
+index cc4c12547..bbfd7b44f 100644
+--- a/chicago/4d/tools/test_merge_ready.mjs
++++ b/chicago/4d/tools/test_merge_ready.mjs
+@@ -50,6 +50,12 @@ function run({ list = '', listExit = 0, states = {}, only = '', dry = '' }) {
+   const bin = path.join(box, 'bin');
+   mkdirSync(bin, { recursive: true });
+   const merges = path.join(box, 'merges.txt');
++  // Resolve the fixed fixture responses here: the fake CLI needs no Node child.
++  // Shell quoting keeps both case keys and response values literal.
++  const quoteShell = (value) => "'" + String(value).replaceAll("'", "'\\''") + "'";
++  const stateCases = Object.entries(states)
++    .map(([number, state]) => `  ${quoteShell(number)}) printf '%s\\n' ${quoteShell(state)} ;;`)
++    .join('\n');
+ 
+   writeFileSync(path.join(bin, 'gh'), `#!/usr/bin/env bash
+ # the merge itself — recorded, never performed
+@@ -70,9 +76,11 @@ for a in "$@"; do
+   esac
+ done
+ case "$*" in
+-  *".mergeable_state"*) echo "$(node -e '
+-      const s=JSON.parse(process.argv[1]); process.stdout.write(s[process.argv[2]]||"unknown");
+-    ' ${JSON.stringify(JSON.stringify(states))} "$N")" ;;
++  *".mergeable_state"*)
++    case "$N" in
++${stateCases}
++      *) printf '%s\\n' 'unknown' ;;
++    esac ;;
+   *".head.sha"*)        echo "deadbeefdeadbeefdeadbeefdeadbeefdeadbeef" ;;
+   *".title"*)           echo "a pull request" ;;
+ esac
+@@ -195,8 +203,10 @@ console.log('merge-ready.sh — merges what GitHub calls clean, and nothing else
+  *    no flag at all. */
+ {
+   const r = run({ list: '1319\n', states: { 1319: 'clean' }, dry: '1' });
++  const diagnostic = `exit ${r.code}; ${r.out.trim() || '(no output)'}`;
++  check('a dry run exits cleanly', r.code === 0, diagnostic);
+   check('a dry run merges nothing', r.merges === '', r.merges.trim());
+-  check('…and says what it would have done', /WOULD MERGE/.test(r.out));
++  check('…and says what it would have done', /WOULD MERGE/.test(r.out), diagnostic);
+ }
+ 
+ /* 9. MERGE_ONLY THAT MATCHES NOTHING IS LOUD. Drafts and `hold` are filtered out
