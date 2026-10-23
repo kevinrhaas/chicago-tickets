@@ -1,7 +1,7 @@
 ---
 id: T-2372
 title: Match Eliza Chappel's infant school to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex resumed school picture matching 10/23/2026, 5:46:07 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T22:46:08.862Z
 decision: null
 decision_answer: null
 ---
