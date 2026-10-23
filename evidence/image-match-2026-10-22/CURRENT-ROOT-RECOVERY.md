@@ -1,5 +1,13 @@
 # Newest root recovery pointer
 
+Latest [closed focused M repairs and Wolf/lighthouse UNRUN proposals](focused-M-repairs-Wolf-LH-next-UNRUN-20261023T125045Z/RECOVERY.md): focused version/localstack/rights/lodging/isolation checks pass, but prior fullMpreflight remainsFAIL6of1056; freshderivation/fullrerun pending. Exact six repairfiles plus binaryprefix-preservingdocsuffix are recoverable over74bcd436+a63b479e. No geometry/sourcecamera change.
+
+Owner-confirmed Wolf262-file next and lighthouse25-file shaft next are UNAPPLIED/UNRENDERED; official81/25familyrefresh and actual reviews stillowed. No livejail/Hogan/root files captured or completePASS/modelmatch claimed.
+
+## Earlier immutable recovery history
+
+# Newest root recovery pointer
+
 Latest [exact a5ca all-ten transcript coverage +historical sealed jail readiness](Hogan-a5ca-tenPASS-jail-sealed-readiness-20261023T123631Z/RECOVERY.md): all15parts at bothviewports passed on a5ca, but dev519b freshness blocked new-base readiness; no merge/new-integrated-headPASS. Jail583-file snapshot/598ARTIFACTS entries remain the pre-executionUNRUNcheckpoint; allactualrun/reviewfiles excluded. CurrentMfixes/Hoganliveintegration neverread.
 
 ## Earlier immutable recovery history
