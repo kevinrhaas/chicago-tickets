@@ -1,3 +1,5 @@
+> Subsequent isolated preview: pinned Blender 4.5.3 exported the copied proposal and photo_match rendered it successfully. The actual comparison was inspected and says `differs`. See `preview-root/README.md`, reports, logs, GLB and review images. This did not apply the patch or update a repository manifest; references below to unrun Blender/render validation describe the initial focused-check stage.
+
 # T-2385 — unapplied first Tremont form/fenestration implementation
 
 Status: implementation proposal only. Parent integrates centrally. No tracked file, ticket state, branch, publisher, gate, Blender installation or browser was changed/run by this proposal. T-2385 remains open; the existing camera comparison says `differs`.
