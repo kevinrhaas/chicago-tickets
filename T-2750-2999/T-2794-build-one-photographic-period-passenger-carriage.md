@@ -1,7 +1,7 @@
 ---
 id: T-2794
 title: Build one photographic period passenger-carriage master
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:15 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:16.295Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -212,3 +212,5 @@ PR1213 pushed0be5e645e016a212bd04eeda58e893472650d3d0 with genuine22,238-triangl
 ## Recovery checkpoint — 2026-10-23T13:00:27.284423+00:00
 
 PR1175 is merged and catalogue-based V17 Brougham publicly delivered. V18 rounded coach-lamp source is saved in checkpoint-fixture-repairs-and-next-fullgate; near -128 triangles, MID unchanged, no exported/installed derivative or eight-view PASS yet. Existing actual world/readback failures and photographic acceptance remain open.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:15 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
