@@ -1,7 +1,7 @@
 ---
 id: T-3069
 title: Gate sweeps read the tickets clone's git pack and run CI runners out of memory
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-23
-closed: null
+closed: 2026-10-23
 pr: 1238
 claimed_by: run 10/23/2026, 7:26:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T13:08:31Z
 claimed_run: null
 claimed_at: 2026-10-23T12:26:27.440Z
 decision: null
