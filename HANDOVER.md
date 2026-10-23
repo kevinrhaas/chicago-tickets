@@ -1,3 +1,13 @@
+# Active standing-horse validation — 2026-10-23 10:31 UTC
+
+PR1175 is MERGED and publicly deployed: FFF/tree1d contained by publice4745b3c, exact mainPagesrun39936768929SUCCESS. PR1213 and1208 closed as verified superseded duplicates; photographicparenttickets remainopen. Both ownclosed-PRlapmarkers were CASreleased, not another owner's markers.
+
+Standing source remains applied/staged/uncommitted in /workspace/chicago-waistcoat branchsteward/t2800-planted-standing-v16-dev-20261023 on e474. Actual canonical owners, measured standingunit, isolationPASS. Firstpreflight failed inheritedignoredGlessner publication; supportedmaterializationPASS afterpreservingoldoutputs+entiredirtyticketsclone. Secondpreflight published212MBsuccessfully but failed/tmpENOSPC: existingtest_ticket_mirror copied~1.7GB unrelatedticketrecoveryarchives beforecleanuptry. ROOTstoppedonlyownedpreflight and preservednonpass/rawlogs. Confirmeddisposabletestfixture removed;30exactimmutablebackupduplicates hardlinked (allpaths/bytespreserved). Minimal existingregressionfix excludesONLYevidence/.git, retainsallticket/metadataandmirrorassertions, cleansupfailedinitialcopy. ActualmeasuredtestPASS4.029s+isolationPASS. Freshfullgate isnext; do not claim previousattemptsgreen. Current40-filesourceZIP+manifest isbackedup here beforelonggate.
+
+Actualhorseapp/mobile/GPU/photo stillpending. Reviewed externalone-mobilequalifier and inputbuilderheld untilfreshcommit/postpublication. Parallelconcrete1904support/consumerpatchsaved disabled/unqualified; don't applyduring1835gate. InstalledOtisalreadynaturallyidles/blinks; sourceonlypolicygapsrecorded. Traceharnessremainsincomplete/reststudy. ROOTsolecanonicalticketwriter; eight08:32claimsremainactiveuntil11:32. Freezeexternal ticketchanges duringfreshfullgate. No production/admin/workflow/cap/camera changes.
+
+---
+
 # Current people and transport checkpoint — 2026-10-23 10:14 UTC
 
 PR #1175 actually MERGED to DEV at09:59:16Z: fffae74c728b469163d3c1a6997aea29b4b9b7b3, tree1d6048e957bfca326db1cdd0aecd16e62f1bd96a. This delivers reconstructed Otis Bardwell, refined W01 timber, distinct covered canvas and catalogue-guided Brougham. Actual local fullpreflight1053steps/382selftests and all four fresh normal GitHub checks passed on that exact tree. Public preview deployment is separately being verified. PR #1213 was closed as superseded10:11:57Z after strict63-path containment (53exact/9sharedsemantic/1changelogtransfer); all695oldliberties and222structureIDs preserved. No broad photographic ticket was closed.
