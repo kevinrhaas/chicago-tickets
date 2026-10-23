@@ -1,7 +1,7 @@
 ---
 id: T-3043
 title: Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-state: review
+state: blocked-tech
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-22
 closed: null
 pr: 1227
 claimed_by: run 10/22/2026, 9:04:47 PM CT
-blocked_on: null
+blocked_on: T-3022
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39886206584

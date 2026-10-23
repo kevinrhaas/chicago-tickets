@@ -25,7 +25,6 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
-T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3049 — Smoke part 14's 1904 placement list (PLACED_1904 in tools/smoke_renderer.mjs) is missing the 27 Indiana Avenue / First Presbyterian drafts already on dev, so the check 'the 1904 scene draws none of the 1835 town's layers' fails at both viewports on clean dev; add them
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
@@ -233,3 +232,5 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3022 — Navigator: fold the building card's research into Inspect behind an Expert research setting
+# BLOCKED-TECH T-3043 (opened 2026-10-22, META) — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
+#     waits: T-3022
