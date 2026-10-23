@@ -1,7 +1,7 @@
 ---
 id: T-3055
 title: Frame-tavern picture controls preserve legacy geometry
-state: open
+state: review
 epic: TOWN
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2376
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1239
 claimed_by: null
 blocked_on: null
 needs_bake: true
@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: null
 decision: null
 decision_answer: null
+group: T-3055,T-3056
 ---
 
 Frame-tavern picture controls preserve legacy geometry.
