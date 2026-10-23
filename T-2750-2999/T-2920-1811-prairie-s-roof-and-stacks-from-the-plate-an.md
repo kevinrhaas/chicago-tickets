@@ -1,7 +1,7 @@
 ---
 id: T-2920
 title: 1811 Prairie's roof and stacks from the plate and the photographs: the hipped mass over the bay with the lower south roof to the tall stack, the stack's corbelled cap and the range's second stack, the other pictures' cameras solved and every 1811 match record brought to matches (after the pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1892
 opened: 2026-10-20
-closed: null
+closed: 2026-10-22
 pr: null
 claimed_by: run 10/22/2026, 7:52:39 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T01:27:42.295Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39879328207
 claimed_at: 2026-10-23T00:52:40.016Z
 decision: null
