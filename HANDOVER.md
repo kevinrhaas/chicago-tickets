@@ -1,6 +1,22 @@
-# People and transport handover — 2026-10-23, 06:21 UTC
+# People and transport handover — 2026-10-23, 06:40 UTC
 
-## Latest checkpoint: exact513 integration staged, full preflight ACTIVE
+## Current execution update — 06:40 UTC
+
+The first exact513 fullpreflight ran in the wrong DEFAULT SANDBOX context and actually FAILED30/1052 plus changelog subprocessEPERM. Node/Python stdinEOF hung; the canonical harness itself retried it serially. Only the verified two owned test pairs were terminated; no unrelated processes touched. Terminal06:29:46/1057.589s/sourceunchanged. One unchanged elevated fallback test then actuallyPASS.317s at06:29:56 (sourcee2e5f778 unchanged). Preserve capsulee401c490 and all30failure details; never relabel oldrunPASS.
+
+ONE corrected properlyELEVATED fullpreflight is now ACTIVE: start06:32:03.473869Z, session6800/supervisor2401625, exactfa427eb201de4bad4b7265313fcc5a422f440ea4/HEAD133/MERGE513/lease950ce. Owner `/workspace/shared/T2794-DEV513-ELEVATED-FULLGATE-COMMIT-ACTUAL-20261023`. Runtime/context is the only correction; no source/assertion/cache/step change. Candidate/commit/immediatepush/actualHEADchecks/postpub onactualPASS already authorized and must also run elevated. No newerDEVintakebeforecheckpointpush. Gate has no terminal yet; soleheavyowner. The former session82253 is FINISHED/FAIL, not active.
+
+In the free window V14 ran ONCE: terminal06:30:57.772174Z,2.466011s/101101568B(~96.4MiB), fieldbuilt/all65posescompleted. Mechanics/contact/ground/seam/loop/protected anchors PASS; skinFAIL edges.409360618–1.360557899/areas.364451046–1.469689190. Field6506originalprotected classes exact/969tailbits exact/only128V12-ledger oldknown releases/455changedclasses/c-dsupport real. SavedNPZ8df6411c4d288f64f1f9abbb5e375259bba088e435a70c616a317c0000b71025/57899B; receipt2f6e3900, walkreport8a42f422, terminalf3b15c2a. Capsule4094c236. No solver/retry/export/activation; allpreviousFAILs retained. Worstupperstrip12vertices are originallyUNPROTECTED, so a two-sided continuous attachment source correction is underway, no newfield/pose execution.
+
+Separate standing65checker sourcee69bfbb3/supervisor03abbbfe/V2posture1404bfb2 was fullyrootreviewed/hash+ASTchecked, archivef228c2bb. Actualsavedfield binding68070f6e/d1748da4 remains released:false. It can independentlyqualify a smallstationarydomain despiteWALKFAIL, using sameoriginalstrictsurface/contact/protection limits and zero rootroute; no newfield/solver. It staysHELDuntilvehicleheavy/postpubCLOSED plus freshrootrelease. No standingPASS inferred. Small12s4mm/2mm/4mm posturalcandidate neutralbranch preservesexactrest; no current15rig clockpatch is justified.
+
+1812 visible-intake V2source09b6ed91/archive2d670f1a removes invisible-enabledscaffolding, proposesexactunchangedW01 alias at1075.5/144/bearing0 with honestperiodprovenance. Actualterrain/wholewheel/everytongue/fullhull sourcechecker87c0b2ff remainsunexecuted/HELD. First sourcecomparisonarchive3a0 retains personallyviewedMuller1768p128/131 scans (rear60in, OCR50wrong); no militaryadoption/makerclaim. T2795 concreteflat-leather4link/restbinding/generator/profile source6b42d752 is syntaxchecked, ungenerated/unfitted;1904Moore1891No1scopeonly, no1835backdate. No harnessanchor/driverpalm qualification.
+
+Next after actualvehiclepush/postpub: rootbindfreshV5freeze to actualnewsource+ownerclosedterminal, releaseONE1904desktop, inspectactualPNG. Briefstanding65run may fit first; no simultaneousheavyunits. Rootreviewed unboundnextnormal3collector andfour-officialcell14/4,13dispatch/collector sources; actualnewhead/currentbase/testmerge/remoteverificationref/runIDs stillNULL, noqueries/dispatch. Rootmustdiscover/bind/release onactualsource. Person513proposal d12bf6d5 staysreadyoutsideapp pending ordinaryvehicleDEVlanding. Canonicalrecoverythisupdate: `evidence/parked-vehicles-2026-10-23/checkpoint-elevated-gate-and-actual-horse-field/`.
+
+---
+
+## Earlier source checkpoint: exact513 integration staged
 
 Vehicle PR1213 is now pushed and normally published at **13375406538e76e8c1deadf18165089f7145ea28**, tree **ea747ccc5dbd095522140a21f1cfcd11e7cbf9b7**, parents[cbb94c2d,575b4968]. Actual full preflight1,052steps/382selftests PASS651.869s, terminal05:35:22. ActualHEAD checks, normal publisher47.419s/mirror1.077s/site25.865s PASS05:37:11, build133754065/05:36:33Z. Heavy lane CLOSED05:37:46, closured362b92a. Complete63-file source/rawproof archive295439a0 is saved in the current checkpoint. The former active49579 gate is FINISHED/PASS; do not rerun it. App checkout is clean/frozen133; no new authored edits yet.
 
