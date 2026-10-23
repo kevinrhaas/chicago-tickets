@@ -52,3 +52,11 @@ The owner supplied [https://chicagology.com/prefire/prefire021/](https://chicago
 The live page returned HTTP 200 and reproduces `firsttremont.jpg` with the caption Tremont House No. 1, matching `gifford_tremont_house_no_1`. No original publication date, holding institution or image-use terms are supplied with this drawing. The following Chicago Tribune item dated December 28, 1850 describes the later five-and-a-half-storey hotel; its date does not establish publication of the first-hotel drawing.
 
 The existing source record remains `check_required`; no new rights ruling, derived geometry, camera solution or image-match completion follows from this confirmation. Retain the full ticket acceptance.
+
+## Owner-approved project reference use — 2026-10-22
+
+The owner approved the linked image for project use with source attribution:
+
+> ok i think those images are ok to use as public resources and just make sure you include things like that in sources
+
+T-3053 records the approval in the source catalogue, retaining the hosting credit and original-provenance uncertainty. This supersedes the earlier project-use hold for the approved reference/comparison/source-display scope; it is not a verified public-domain or copyright-holder permission finding. Existing subject/date/measurement limits and this ticket's full image acceptance remain.
