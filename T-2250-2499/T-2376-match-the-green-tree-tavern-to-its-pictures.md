@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T05:28:12.626Z
 decision: null
 decision_answer: null
+group: T-2376,T-2383,T-2384,T-2385
 ---
 
 Match the Green Tree Tavern to its pictures.
