@@ -1,5 +1,11 @@
 # Newest root recovery pointer
 
+Latest [exact a5ca all-ten transcript coverage +historical sealed jail readiness](Hogan-a5ca-tenPASS-jail-sealed-readiness-20261023T123631Z/RECOVERY.md): all15parts at bothviewports passed on a5ca, but dev519b freshness blocked new-base readiness; no merge/new-integrated-headPASS. Jail583-file snapshot/598ARTIFACTS entries remain the pre-executionUNRUNcheckpoint; allactualrun/reviewfiles excluded. CurrentMfixes/Hoganliveintegration neverread.
+
+## Earlier immutable recovery history
+
+# Newest root recovery pointer
+
 Latest [closed failedMpreflight +actual lantern trial](failed-M-preflight-lantern-actual-20261023T123322Z/RECOVERY.md): actualstrictgate FAIL6of1056, exit1; separateCLresult refers to olde41sourceSslice, not finalM. Historicalinputs are reconstructable from74bcd436staticbytes+a63b479edocappends; no currentapp/fixes/livegate read. Rootfixes are subsequentwork, not captured here.
 
 Lighthouseactual2export/2comparison lantern/detailtrial has material/loadercontractsPASS and baselinebyteexactpriorproposed, but remainsdiffers/proposed/fullimagegateopen. Entireclosedrun+23frozenpreparedinputs saved; no canonicaladoption or in-appBygradeGPUclaim. Livejail/Hogan/currentroot excluded.
