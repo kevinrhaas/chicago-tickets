@@ -19,7 +19,6 @@
 #   1904 (band 7, nearest Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
-T-3070 — The PR and dev gate (Chicago 4D — gate) dies with 'The runner has received a shutdown signal' (exit 143) about 6 minutes into check.sh, right after publish, on every run since about 12:15Z on 2026-10-23: dev's own run 39953163716, T-3046's 39951182314 and T-3019's 39951882275 (both attempts) all stop at the same line, so no PR can merge; find what kills the runner there (memory or disk after the ~640 MB of scene packs, or a step that grew) and bring the gate back to a verdict
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 
