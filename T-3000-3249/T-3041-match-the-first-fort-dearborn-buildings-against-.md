@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: first-fort picture matching agent (frame_final_review) 10/23/2026, 7:19:37 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:19:39.335Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -44,3 +44,5 @@ The run that split it (by hand) may be working one of the pieces now.
 Group support is T-3040. First preserve the documented plan and 75 ft staff while reconciling retrospective tower locations. Both blockhouses carry invented separate chimneys absent from panel 1; removing them is a bounded possible refinement after before/after baking. Whistler's 1808 'not yet built' note establishes absence then, not continued absence in 1812. Later completion may be inferred from the retrospective panel with explicit dated provenance; this is not an owner-approval blocker.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of first-fort picture matching agent (frame_final_review) 10/23/2026, 7:19:37 AM CT): Wrap-up handoff: original 21 named records plus 9 context members and every listed picture remain unfinished. Exact 16-export BUILD, nine actually viewed same-camera compound comparisons (all differ, none accepted), independent 1884/1902 PD source proposals and remaining source blockers are archived at https://github.com/kevinrhaas/chicago-evidence/blob/516ab9e/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md ; small tickets pointer a526b46f. Proposed sources remain unapplied, held Getty check_required retained, and Earle unnumbered-plate citation clarification is archived. Resume from closed manifests without moving the surveyed plan or 22.86 m staff. Parent T-2387 remains split; no image-match completion claimed.
