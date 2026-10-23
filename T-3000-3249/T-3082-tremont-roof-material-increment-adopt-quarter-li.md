@@ -23,4 +23,18 @@ decision_answer: null
 
 Tremont roof material increment: adopt quarter-linear deep_brown.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+## Scope and acceptance
+
+This utility progress ticket serves original image-match ticket T-2385. It owns a visible material increment, not complete picture matching; T-2385 stays open/claimed and no reference view is marked matches by this work.
+
+- Add deep_brown to the existing per-structure roof_colour selector and select it only for the first Tremont House. It is exactly one quarter of darkened-stock linear RGB, with current alpha and roughness retained, following the three actual source/paired native GPU roof trials. Keep it reconstructed; monochrome Gifford does not attest pigment, calibrated reflectance or historical weathering.
+- Preserve existing frame defaults, parameter names/kinds/defaults, geometry, nonroof materials/confidence, native flag pose, global wind, lighting, camera and time. The separate broad-left flag pose is unadopted research.
+- Keep the existing Gifford source attribution and owner-approved project-use rights limits. Add the existing resolving source ID on the roof field; no source/license/schema/name-pool key upgrade.
+- Record the liberty and honest STATUS/ROADMAP/changelog. Officially rebuild the actual 23 current frame-family masters with the pinned producer, derive their real web assets, run the ordered downstream fixed point and preserve unrelated Hogan/Glessner data and assets. Check actual default parity and recipe/derivative freshness.
+- Inspect the actual canonical source/render pair after build. Record that full picture matching still differs. Complete required preflight and published mobile/desktop smoke before the bounded PR merges to dev.
+
+## Evidence already closed
+
+The exact source/GPU roof studies, guarded producer proposal and a219 23-master integration plan are privately checkpointed with full tar/remote-blob readback. Their current immutable recovery index is https://github.com/kevinrhaas/chicago-evidence/blob/11f8089fc07bf5634b08b4b7c1a65fe37f4e0dd8/evidence/image-match-2026-10-23/resumed-20261023T2245/RECOVERY.md . These earlier studies do not replace the new canonical bake and gates.
+
+The parent coordinator requested this separate bounded utility PR so useful roof progress can land while original T-2385 remains open for the remaining picture differences.
