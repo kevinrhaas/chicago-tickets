@@ -1,7 +1,7 @@
 ---
 id: T-3048
 title: 1801 Prairie's south pavilion's chamfered south-west corner from the 1911 sheet (about 0.45 m, its south end behind the front's plane): cut the main block's corner on K01 and stand K08's canted cheek under the coped gable, so the render's corner falls within about 5 px of the print's x 1340, and re-check the Taylor camera's south-west bearing, laid on the chamfer's back (u 20.1, v 11.2), against the chamfer's near end the camera sees (after the piece before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3016
 opened: 2026-10-22
-closed: null
+closed: 2026-10-23
 pr: null
 claimed_by: run 10/23/2026, 2:20:43 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T07:54:51.032Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39915708053
 claimed_at: 2026-10-23T07:20:44.061Z
 decision: null
