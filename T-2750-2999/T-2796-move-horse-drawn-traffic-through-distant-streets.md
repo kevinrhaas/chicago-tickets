@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+503m circuit/controller remains saved and inactive. Combined parked resident/vehicle PR1175pushed7d98638 with freshCI active. Accepted standing horse loaded129PASS now available for app integration; walking teams,fullgear,driver,swept clearance and traffic qualification remain open.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 The saved 503 m route and controller remain inactive. Work now supplies the prerequisite standing-horse asset and actual trace geometry, while walking skin, complete tack and driver fit remain unqualified. No circuit, boarding or riding activation is claimed.

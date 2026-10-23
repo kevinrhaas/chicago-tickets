@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+Independent serialized two-trace rest check ACTUALPASS1.067s:19.286852mm minimum clearance against8mm, all9710928horse/trace trianglepairs covered, topology/normals/caps/negativecontrolsPASS. Prior serializationFAIL retained. Full harness/collar/vehicle/palm/animated fit/photo still open.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 A concrete 1904 Moore-catalogue trace reconstruction was fitted against the complete saved horse surface and exported once: two flat leather traces, 648 triangles, 22,248 bytes, SHA `d37533eb`. Independent serialized topology, winding, caps and whole-surface clearance checking is prepared and held for its bounded run. These are unhitched resting traces; collar, doubletree, driver palms, reins and moving-team fit remain unfinished.

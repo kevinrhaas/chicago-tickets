@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+Stationary V16 CPU65 and actual serialized GLB loaded65keys+64midpoints PASS with unchanged physical guards. Walking V17 FAIL remains; donorWalk inventory exposes20.18degree hind-foot loop seam and missing contact evidence, so no direct adoption. Standing app integration first.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 V16 passed the smaller planted-standing domain and was exported as a portable animated horse. Walking still fails the unchanged skin-deformation limits. The subsequent joint-centered V17 trial completed all 65 walk poses in 2.06 seconds but failed skin checks; it is retained as a failure and does not replace the accepted standing field. Loader and between-key standing checks are being prepared before activation.

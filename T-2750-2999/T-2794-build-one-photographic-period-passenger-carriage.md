@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+Brougham is pushed/published in combined PR1175 at7d98638 with exact qualified near/mid geometry and full1053-step checked tree. Fresh CI/DEVmerge pending. Actual V8 street capture FAIL/noPNG;3frames4566875tri/4668draw/GL0 within budget, not photographic acceptance. Keep PR1213open until merged containment.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 The catalogue-guided Brougham and 11,706-triangle distance model are pushed at `a22ca758`; the full 1,052-step preflight and all three applicable normal GitHub checks passed. Actual desktop stage 14 passed 140 checks, including 4,567,052 triangles under the unchanged 4.6M cap. Local screenshots still fail, and a mobile smoke failed an unchanged external Ames image request. DEV advanced to `29785b4`; the owned integration is preserving both research additions and all 222 census IDs. No photographic completion or DEV merge is claimed.

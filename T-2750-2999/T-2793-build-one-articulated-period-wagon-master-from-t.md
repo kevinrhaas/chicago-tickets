@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+Finer W01 timber is pushed/published in combined PR1175 at7d98638, preserving all3farm-box wagons and identities. Source-identical normal DEV merge resolved native conflict; fresh CI and DEVmerge pending. Articulation/photographic world acceptance remain open.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 The finer W01 timber is committed and pushed at `a22ca758` in [PR #1213](https://github.com/kevinrhaas/chicago/pull/1213), with all three applicable normal GitHub checks passing. The current DEV integration is resolving independent research-note additions. The proposed visible 1812 utility wagon remains a clearly labeled reconstruction; its terrain and obstacle qualification has not run.

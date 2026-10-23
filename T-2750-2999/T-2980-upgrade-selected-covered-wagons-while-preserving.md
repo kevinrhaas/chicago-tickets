@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+Both distinct covered variants are preserved in combined PR1175 at7d98638; full1053-step sourcePASS and actualHEADpublicationPASS. Fresh CI/DEVmerge pending; no photographic closure. Supersede older covered-only PR only after actual merged containment.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 The distinct covered-wagon cloth refinements are included in pushed source `a22ca758`, with their original identities, stands, yokes and seeded finishes preserved. Current DEV integration and actual street visual review are still pending. PR #1208 will be superseded only after the exact replacement increment lands; photographic cloth and occupied use remain open.

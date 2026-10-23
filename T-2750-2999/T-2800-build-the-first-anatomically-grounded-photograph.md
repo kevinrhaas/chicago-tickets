@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery checkpoint — 2026-10-23 09:39 UTC
+
+Actual b479442c standing GLB standard-loader/Mixer readback PASS65keys+64midpoints, whole8.291s, planted contactmax8.652374e-6m and loop0. Protected PhaseA reference correction proved; first instrumentFAIL retained. Complete minimal app integration now being prepared; no GPU/photo/app or walking acceptance yet.
+
 ## Current delivery checkpoint — 2026-10-23, 08:19 UTC
 
 The corrected V16 horse skin passed all 65 sampled planted-standing poses, including hoof contact, skin deformation, joint lengths, loop and source protections. The portable 26-joint horse now exports with a 12-second standing shift and unchanged geometry/textures: `b479442c`, 3,783,600 bytes. Independent loader, between-key contact, visual and app-placement checks are next. The original standing-horse PR remains separate; walking and photographic acceptance are unfinished.
