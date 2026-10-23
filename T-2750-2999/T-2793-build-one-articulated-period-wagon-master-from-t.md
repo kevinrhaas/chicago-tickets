@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23, 02:28 UTC
+
+Root visually accepted finewoodV4B boundedmaterial increment; all4nativeA/BchecksPASS, originalstalepinFAIL retained. ModernCC0texturemaps are opticalanalogy, not historiccapture/species/maker evidence. Freshoriginalpipeline reproductionPASS7.642s. Current6ccombinedvehicle intake in1213 includes acceptedmaterial, awaiting canonicalprep/fullgate/worldqualification; photographic acceptance remains open. See HANDOVER.md and checkpoint-person-ci-green-and-combined-vehicle-intake for exact immutable evidence.
+
+
 ## Depends on
 
 T-2792. Read each dependency before claiming; do not silently skip its proof.

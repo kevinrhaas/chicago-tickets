@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23, 02:28 UTC
+
+Pushed1213 source0be5 already1049/381+HEAD/pubPASS. Genuineunchanged11706distanceLOD native/Khronos and all8fixeddesktop/mobile near/midimages PASS; rootacceptedLODgeometry only, notphotographic/worldbudget. Original33502near/proxy/stand/24mselector/caps unchanged. Currentcombined6cintake addsW01+coveredcloth andremovesONLYobsolete1904C02placement. Canonicalprepactive; ONEfullgate notyetreleased. See HANDOVER.md and checkpoint-person-ci-green-and-combined-vehicle-intake for exact immutable evidence.
+
+
 ## Checkpoint — 2026-10-22, 22:38 UTC
 
 PR1213 pushed3289b16, clean tree01d923, final1049checks/381self-tests and committed-HEAD checks/publication PASS. Historic8249 mobile diagnostic DEADLINE FAIL270s: two completed views PASS, quarter visibly shows V17, road/contact/canopy/budget PASS; third frame recorded but geometry/image incomplete. No photographic completion/currentDEV acceptance. One unchanged desktop diagnostic separately released; no retry. See HANDOVER and latest evidence checkpoint.

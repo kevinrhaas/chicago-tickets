@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23, 02:28 UTC
+
+V10phaseA sourcepreflight actualPASS02:20:35:0.65948s/97,542,144B, oneexecution/childreaped. Eightanatomicalcut/domain/boundary/palettepreconditions pass. NO LP/QPweights/65posegait/export/appacceptance. Conservativeconstraints are proposedrestrictions, notphysicalnecessities. V8/V9failures preserved; phaseBsourcepreparation only, executionHELD. See HANDOVER.md and checkpoint-person-ci-green-and-combined-vehicle-intake for exact immutable evidence.
+
+
 ## Checkpoint — 2026-10-22, 21:49 UTC
 
 Source-only V7B actual65-pose study remains unaccepted: exact original isolated-tail weights, neutral rest, all65 mechanics/hoof/seam checks PASS; body skin deformation FAIL at unchanged limits (edge.778392–1.348984, area.520688–1.485031, zero negative normal dots). Original V7 ordered-ID implementation failure and identity-only corrected run are preserved. Capsule3d8ed614 is durable in the latest checkpoint. No gait GLB export, app animation activation or riding claim; do not substitute legacy native clips.
