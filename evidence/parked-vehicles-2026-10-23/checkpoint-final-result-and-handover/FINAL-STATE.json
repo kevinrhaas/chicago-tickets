@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-23T15:26:18.654741+00:00",
+  "app_HEAD": "e4745b3c5714185079215d06d8072a4791c6de4a",
+  "app_staged_tree": "ef0cd883bfe6bdd5eea7d220634293b298842062",
+  "app_PR": null,
+  "new_DEV_merge": false,
+  "local_check": "FAIL1/1054",
+  "claims_released": [
+    "T-1789",
+    "T-2793",
+    "T-2794",
+    "T-2800",
+    "T-2803",
+    "T-2795",
+    "T-2796",
+    "T-2980"
+  ],
+  "draft_exception_answer": "PENDING_NOT_APPROVED",
+  "complete_source_checkpoint": "73276bb00ce5f33c72740c85a8c55860214377b3"
+}

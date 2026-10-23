@@ -1,0 +1,58 @@
+[
+  {
+    "ticket": "T-1789",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:09 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "ab48b4f23c19526c40f4044ebb25d4ee888046d7"
+  },
+  {
+    "ticket": "T-2793",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:12 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "990371d4696be45559c0552d31d05371945ac71c"
+  },
+  {
+    "ticket": "T-2794",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:15 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "ce9846018141ba53ebc6b0c028967041ad95f8f2"
+  },
+  {
+    "ticket": "T-2800",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:18 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "c73646934cf136e9b14447c1500af2190914bced"
+  },
+  {
+    "ticket": "T-2803",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:22 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "af7cae9adb98b58bd71b479784704d684dffc1f0"
+  },
+  {
+    "ticket": "T-2795",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:25 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "9aeb198a2dca6da180d0ad79a4b268a29aab4948"
+  },
+  {
+    "ticket": "T-2796",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:28 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "ade2e0741b3c528fd991af1628956eb916fd4234"
+  },
+  {
+    "ticket": "T-2980",
+    "previous_owner": "root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:31 AM CT",
+    "status": "OPEN_RELEASED",
+    "returncode": 0,
+    "after_commit": "db1450db96deb7bb0d4d047ca4080c7e364eff08"
+  }
+]
