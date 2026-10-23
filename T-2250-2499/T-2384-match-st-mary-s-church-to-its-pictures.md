@@ -1,7 +1,7 @@
 ---
 id: T-2384
 title: Match St Mary's church to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex St Mary picture matching continuation 10/23/2026, 9:08:19 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T14:08:21.512Z
 decision: null
 decision_answer: null
 ---
