@@ -137,3 +137,8 @@ One anatomically motivated V9 support-mask study was tested once against the unc
 ## Recovery checkpoint — 2026-10-23T13:00:27.284423+00:00
 
 Actual canonical129 standing poses remain qualified numerically; no hosted new horse acceptance. Sixth whole gate failure and fixture corrections are preserved; all partial and focused passes remain distinct. 1904 fitter V1 is independently BLOCKED on raw-vs-neutral reference and placed-F32 order; V2 source correction in parallel. Walking/teams/riding remain open.
+
+
+## Recovery checkpoint — 2026-10-23T13:46:24.204362+00:00
+
+Corrected1904b479 fitterV2 is independentlysource-reviewed, capsule27f584/receipta2780e00. Original reference/neutral/contact/temporal/ground guards retained; new absoluteworldprecision probe is informational, never an inventedproductbar. No numeric/Node/browser actualrun or1904activation. Canonical1835loaded129 proof unchanged. Sevenwhole preflightnonpasses preserved, G8pending.

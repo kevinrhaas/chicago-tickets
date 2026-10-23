@@ -294,3 +294,8 @@ Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concr
 ## Recovery checkpoint — 2026-10-23T13:00:27.284423+00:00
 
 Standing source now 42 paths/tree d089109a on e474, with unchanged b479 model. Sixth whole gate FAIL3/1054; focused fixture repairs and meaningful negative controls PASS, but fresh complete gate is still REQUIRED. Source delta, full failed logs, 42-file hashes and reviewed green-only commit/push/draft-PR runner are saved in checkpoint-fixture-repairs-and-next-fullgate. No new app commit/PR or photographic completion yet.
+
+
+## Recovery checkpoint — 2026-10-23T13:46:24.204362+00:00
+
+App source remains exact42-file D089, unchanged b479. Seventh whole attempt STOPPED after real GitforkEAGAIN ticket-group failures/stall712, nevergreen. Actual standardNode inspector-watcher flag reduces4to3threads and unchanged groupfixturePASS4.786s. Reviewed G8fullrunner with same-parent/no-new-process progress is saved; fullPASS stillrequired before appcommit/push/draftPR. All proposedmodels/1904fit remain separately held.
