@@ -1,7 +1,7 @@
 ---
 id: T-2793
 title: Build one articulated period wagon master from the existing wagon families
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:12 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:13.431Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -169,3 +169,5 @@ Recovery: `evidence/parked-vehicles-2026-10-22/checkpoint-pushed-horse-and-concr
 ## Delivery checkpoint — 2026-10-23, 01:00 UTC
 
 Root reviewed all four V4B native images and accepted a bounded finer timber material improvement over the flat tan baseline. Corrected capture passed5.46s with zero browser/GL errors and closed cleanup; stale source-pin attempt remains failed and saved. Fresh original wagon generation reproduces the candidate. Normal intake is assigned to the existing parked-vehicle PR1213; preserve GPL geometry/charts and CC0 modern PolyHaven pixel attribution. Repeated grain and faceted paint/iron remain; photographic master acceptance stays open. Recovery c33ae02d is in the newest evidence checkpoint.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:12 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
