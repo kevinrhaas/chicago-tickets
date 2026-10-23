@@ -4,6 +4,16 @@ This is the current control state. Older detailed history is preserved in Git th
 
 ## Newest actual control state — 2026-10-23, 00:48 UTC
 
+### 03:42 UTC newest checkpoint — actual budget failure and safe source continuation
+
+Current1175 testmergeca9a desktop full14 **ACTUAL FAIL139/1**:4,600,305triangles exceeds unchanged4,600,000cap by305; drawcalls5007/7800. ExactAmes+543 explains increase fromprior3f4,599,762. Desktop3–4 PASS134/0, mobile3–4 PASS137/0, mobile14 PASS140/0; normal4allPASS. Matrixterminal3PASS/1FAIL/collectorclosed1; immutableactualfailurecapsule47b28efa savedhere. Source476 remainsclean/pushed; NOmerge/retry/cap/camera/assertionchange. Prioractive/pending statements are superseded by actualFAIL. All earlier failures also remain failures.
+
+Prioritize combined parkedvehicle1213: unchanged11706mid plus removalobsolete1904C02mayreduce actualscene cost whiledeliveringvisiblevehicles; this is UNPROVEN until actualsource-boundworldcheck. Vehiclebranchdoesnotrequire1175. Ifvehiclelandsgreen, folditsactualDEVresultinto1175 andqualifyaffectedscopes; noautomaticblindCI/incomingloop. NewcurrentDEVwillreceivefiniteaudit from dev58_delta_audit; noorigin/devadvance. Agentcarriage_gate_commit resumedaftercapacityfailure; inspectactual200step+secondpass+tailterminal without rerun, applyqueued visitorwording anddeleteONLYobsoleteC02sentence, stage/proveprotectedsource, thenrootONEfullgate release. Interim41ownedfiles/source d830c5d5 savedhere NOTGREEN. FullgateNOTyetlaunched/released. Rootmaytakeone<=30s source-onlygaitLPwindow aftercanonicalterminal/cleanlane; executionstillHELDpendingexplicitrelease. Nooverlaplocalheavy.
+
+GaitphaseB finite LP sourceprepared/correctedPython3.12.14 (historicalvenv311directory); frozenrunner68653d01/supervisor8a3503c0/recipeb31001f9, capsule1eb09c5d. ExistingSciPyonly/onecall/30s768MiB; noQP/pose/export/acceptedskin. ActualphaseApreconditionsPASS is NOT gait acceptance. Horse desktopreadonlytriage9eaa6251 identifies3eligibleupdates/.75hostseconds yielding exact.1715008286ownedseconds, tooearlyfortailmotion; mobileunchangedsourcepassed. Noidlepatchjustified/nohiddenassertionwaiver; actualfulldesktopFAILretained. Measuredperformanceworkneededbeforechoosingoptimization.
+
+AllEIGHTverifiedownclaims independentlyrenewed/pushed about03:41UTC; lastcommitb35d8510. Renewbefore06:40UTCifactive; no rival/groupreplacement. Rootsolecanonicalwriter.1175ownedleasec8f exactat03:40:55, stale03:58:01; source-onlyagentpreparingexplicitold-owner-CASrenewalrecipe, noleasechangeyet. Broadphotographic/interactionticketsremainopen; fourboundedfoundationsalreadyDONEthrough1174. Publicqueuebands/orderunchanged. Thischeckpointprose/evidenceonly; noappsourceorworkflowchange.
+
 ### 02:28 UTC checkpoint — current source, ownership and actual results
 
 PR1175 source **4766644295b5668084130fed80c6a18c9f0e6a04** is CLEAN and PUSHED. Tree c9d944caaca53cce404e8706e0f92534fd8e52a3; parents64b126d5+58fd2216. Actual fullpreflight1048 checks/381selftests PASS698.24s; actualHEAD and normal postpublication/site validation PASS01:57:27. No timeout/assertion relaxation.

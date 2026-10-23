@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23, 03:42 UTC
+
+Actualca9 desktop14 FAIL139/1:4,600,305tri againstunchanged4.6Mcap; other3browsercells+normal4PASS. Source476pushedsafe; unmerged/noassertion/capchange. Genuinevehiclebudgetreduction prioritizedbeforefreshqualification. See newest HANDOVER and saved actualfailure/source checkpoint.
+
+
 ## Checkpoint — 2026-10-23, 02:28 UTC
 
 PR1175 source4766644295 is pushed/clean; full1048/381, HEAD/postpublication and all4normalCI PASS. Current actualca9testmerge against reviewedDEV6c has bothmobile3–4/14PASS; two desktop jobs still ACTIVE. No merge/currentwhole18PASS claim yet. Ordinary guardedDEVmerge is authorized only after remainingactualPASS and freshpins. Broadphotographiclibrary acceptance remains open. See HANDOVER.md and checkpoint-person-ci-green-and-combined-vehicle-intake for exact immutable evidence.
