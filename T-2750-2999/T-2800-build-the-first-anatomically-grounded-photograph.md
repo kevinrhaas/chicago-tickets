@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2798
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1244
 claimed_by: Codex horse delivery continuation 10/23/2026, 10:37:10 AM CT
 blocked_on: null
 needs_bake: true
@@ -312,3 +312,10 @@ Complete43-file source/treeef0cd883 and allfailed/positive/negative receipts sav
 ### Standing increment delivery, 2026-10-23
 
 PR [chicago#1244](https://github.com/kevinrhaas/chicago/pull/1244) carries the planted 1835 yard horse. Whole G10 gate PASS1054/382 and pushed app `eb1cafe12`; postcommit publisher/mirror/site PASS. New DEV provenance conflicts are resolved, combined exact-tree gate pending. This does not close photographic master, full gait, tack, teams or occupied acceptance. Durable evidence: [chicago-evidence checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/1caeab0e19f3386980b6387791c7ec96733f8d4e/evidence/horse-pr1244-integration-2026-10-23).
+
+
+### Current delivery status — 2026-10-23 17:24 UTC
+
+PR #1244 is pushed at eb1cafe12; original full gate PASS1054/382. The reviewed DEV integration is staged as tree5e7406c5d29f8a2be26e77cf098127dad5a6049d. Its G11 run disconnected and was stopped after actual `spawnSync git EAGAIN` and child-launch failures; no complete combined PASS or DEV merge. Evidence [eba255c18](https://github.com/kevinrhaas/chicago-evidence/tree/eba255c18cdcbdd42890135837acadbec241fe67/evidence/horse-pr1244-g11-recovered-nonpass-2026-10-23) preserves raw logs and source state. Owner exception requested for one reviewed integration commit to the draft PR; fresh green GitHub CI remains required before DEV merge. Approval was pending at this checkpoint.
+
+Ticket remains unfinished: standing integration is a partial delivery, while matched-view photographic anatomy/coat/hair/eyes, near/mid/far qualification and full gait acceptance remain unpassed. Do not close the broad ticket from a standing-only merge.

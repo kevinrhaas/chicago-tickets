@@ -1,3 +1,9 @@
+# Latest state — 2026-10-23 17:24 UTC
+
+G11 is STOPPED/INCOMPLETE/NONPASS after the execution disconnect and actual spawnSync git EAGAIN. Original supervisor2840556 disappeared; only its verified own preflight group2840565/start24994398 was stopped withSIGTERM. No PID1/unrelated action. No combinedgatePASS or newmergecommit. AppHEAD eb1cafe, MERGE_HEAD ea22, stagedtree5e7406 unchanged; no unstaged/untracked/unmerged paths.
+
+Explicit owner exception requested to AGENTSline51 for one reviewed DEV integration commit pushed to existingdraftPR1244, with fresh green normalCI still required before DEVmerge. No answer received at checkpoint time; DO NOT invoke green-only writer on the nonpass or infer permission. Restorednetwork/GitHubGET/push work. T2800/T2803 now correctly link pr:1244 and remainclaimed/unfinished. New raw failure/state checkpoint in chicago-evidence eba255c18cdcbdd42890135837acadbec241fe67, evidence/horse-pr1244-g11-recovered-nonpass-2026-10-23/.
+
 # Active horse delivery — PR1244, 2026-10-23
 
 Actual full gate G10 PASS1054/382. Horse app commit eb1cafe12b796ff3b63aecc74a9fa4ba946ca609 is PUSHED on steward/t2800-planted-standing-v16-dev-20261023; postcommit publisher/mirror/site PASS. Draft PR https://github.com/kevinrhaas/chicago/pull/1244 exists. This is real progress, but NOT a DEV merge or photographic completion.
