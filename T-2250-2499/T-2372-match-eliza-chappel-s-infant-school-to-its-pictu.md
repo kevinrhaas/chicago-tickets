@@ -1,7 +1,7 @@
 ---
 id: T-2372
 title: Match Eliza Chappel's infant school to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: school_lighthouse_castle_bridge 10/23/2026, 8:40:22 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T13:40:23.963Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -65,3 +65,5 @@ T-3053 records the approval in the source catalogue, retaining the hosting credi
 The school committed-mesh comparison rendered successfully and was visually reviewed as `differs`. Door/base framing is approximate; the model has an eave-front roof where the drawing shows a gable over the doorway, plus width, opening-height, door and roof-covering differences. The camera is research-only while pictured-building identity remains unresolved; no grade or acceptance change follows.
 
 Attributed source-use update: [PR #1224](https://github.com/kevinrhaas/chicago/pull/1224). Complete camera/render/handoff recovery checkpoint: [post-approval baselines](https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines). The original image-match acceptance remains open; no geometry or accepted-camera change was made.
+
+**Released 2026-10-23** (claim of school_lighthouse_castle_bridge 10/23/2026, 8:40:22 AM CT): Run wrapped after verified frozen recovery at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . School recess is prepared UNRUN; Wolf Point latest actual door/log comparison differs. Original full picture-match acceptance remains unfinished and unchanged; no matches or completion claimed. Source-origin identity/date uncertainty and owner-approved attributed school use are preserved.

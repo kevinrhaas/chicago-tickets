@@ -1,7 +1,7 @@
 ---
 id: T-2386
 title: Match the Wolf Point Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: school_lighthouse_castle_bridge 10/23/2026, 7:14:35 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:14:36.903Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -50,3 +50,5 @@ Pictures:
 The inspected NYPL Blanchard/Shober lithograph bears a legible 1867 publication line. Pictures show parallel gable-front volumes with two entrances and roof-piercing stacks; current model puts core/addition inline. Register that specific source and implement opt-in ridge/entrance composition before solving.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of school_lighthouse_castle_bridge 10/23/2026, 7:14:35 AM CT): Run wrapped after verified frozen recovery at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . School recess is prepared UNRUN; Wolf Point latest actual door/log comparison differs. Original full picture-match acceptance remains unfinished and unchanged; no matches or completion claimed. Source-origin identity/date uncertainty and owner-approved attributed school use are preserved.
