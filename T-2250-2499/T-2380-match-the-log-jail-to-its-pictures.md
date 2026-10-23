@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: jail-picture-match-agent 10/23/2026, 7:24:30 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:24:31.719Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -44,3 +44,5 @@ Pictures:
 Pictures show a tall jail behind a palisade plus a low keeper's house; model is a low 6.096×4.572 m outbuilding. Catalogue dates the jail compound to 1836, so resolve identity/date before replacing July 1835 geometry.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of jail-picture-match-agent 10/23/2026, 7:24:30 AM CT): Owner-requested session-wrap handoff; original two-picture scope remains open and DIFFERS. Prior actual compound and corrected UNSELECTED/UNRUN pilot archived at https://github.com/kevinrhaas/chicago-evidence/blob/64fd5de/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . No canonical jail geometry adopted. Camera, chronology, missing details and closed-gate collision limits remain documented; continue original image gate with real rendered comparisons.
