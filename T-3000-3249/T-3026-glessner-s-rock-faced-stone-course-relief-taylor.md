@@ -1,7 +1,7 @@
 ---
 id: T-3026
 title: Glessner's rock-faced stone course relief: Taylor 2135's courses alternate deep and shallow more strongly than the render's, the cupola's coursing is not modelled block by block, and HABS 13, 14, 16 and 17 keep course relief open; read the course heights and projections and build or accept them
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2854
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/22/2026, 7:43:35 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39879320920
+claimed_at: 2026-10-23T00:43:36.866Z
 decision: null
 decision_answer: null
 ---
