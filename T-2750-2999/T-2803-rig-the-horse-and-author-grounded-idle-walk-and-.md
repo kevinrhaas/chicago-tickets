@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: null
+claimed_by: Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T22:45:17.326Z
 decision: null
 decision_answer: null
+group: T-2803,T-2804
 ---
 
 ## Delivery progress — 2026-10-23 10:14 UTC
