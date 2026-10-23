@@ -1,7 +1,7 @@
 ---
 id: T-2795
 title: Animate vehicle running gear and matched draft-horse hitches
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:25 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:25.891Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -90,3 +90,5 @@ Parallel source adapter now covers actual W01 steering/rolling and existing reco
 ## Checkpoint — 2026-10-22, 19:44 UTC
 
 Separately versioned seated sourceV2 passed independent authoring review only. Internal22.096mm rise clears all four CPU LODs with fixed shoes, but near support gap4.49mm, wrists/palms rise22.096mm, tiny coarse export margin. Actual canonical export, support/reins/harness/load/world acceptance remain open; live driver disabled.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:25 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
