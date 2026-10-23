@@ -1,0 +1,347 @@
+{
+  "returncode": 0,
+  "seconds": 5.9824591650103685,
+  "main_child_pid": 2809651,
+  "new_owned_orphans_reaped": [
+    {
+      "pid": 2809685,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809701,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809720,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809736,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809752,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809771,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809784,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809799,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809815,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809823,
+      "wait_status": 32768
+    },
+    {
+      "pid": 2809845,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809874,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809894,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809923,
+      "wait_status": 0
+    },
+    {
+      "pid": 2809977,
+      "wait_status": 32768
+    },
+    {
+      "pid": 2810002,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810031,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810056,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810083,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810095,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810100,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810112,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810118,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810130,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810150,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810166,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810178,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810218,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810241,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810253,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810258,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810270,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810276,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810288,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810303,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810319,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810331,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810371,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810381,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810388,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810430,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810446,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810467,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810479,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810484,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810496,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810502,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810514,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810532,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810572,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810579,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810630,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810651,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810663,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810668,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810680,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810686,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810698,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810716,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810756,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810763,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810784,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810823,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810847,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810860,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810872,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810877,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810889,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810895,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810907,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810927,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810943,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810955,
+      "wait_status": 0
+    },
+    {
+      "pid": 2810991,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811003,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811008,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811020,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811026,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811038,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811058,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811074,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811086,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811115,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811122,
+      "wait_status": 0
+    },
+    {
+      "pid": 2811162,
+      "wait_status": 0
+    }
+  ]
+}

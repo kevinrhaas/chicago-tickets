@@ -1,0 +1,6 @@
+  note: could not pull https://github.com/kevinrhaas/chicago-tickets.git (fatal: unable to access 'https://github.com/kevinrhaas/chicago-tickets.git/': Failed to connect to proxy port 8080 after 0 ms: Could not connect to server) — reading the local copy
+  note: the open pull requests could not be read, so T-2800 was checked against branches and its claim only
+  note: the open pull requests could not be read, so T-2803 was checked against branches and its claim only
+   tickets.json mirrored to site/4d/ (T-0154)
+T-2800, T-2803: claim NOT PUSHED (fatal: unable to access 'https://github.com/kevinrhaas/chicago-tickets.git/': Failed to connect to proxy port 8080 after 0 ms: Could not connect to server) — no other run can see it. Push before working:
+  bash tools/tickets.sh --push

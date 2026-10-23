@@ -1,0 +1,42 @@
+ticket.mjs lap <N> --status — the reading both server sweeps ask for
+  ok    no marker reads FREE, exit 0 — exit 0: free lap/pr-7 — nobody holds it
+  ok    a lock a live run just took reads HELD, exit 3 — exit 3: held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:39:06 AM CT
+  ok    …naming who holds it
+  ok    …and `lap` itself refuses it — the two readings agree — exit 1
+  ok    a lock older than RUN_HOURS reads STALE, exit 0 — a dead run is no hold — exit 0: stale lap/pr-7 — taken 4.0h ago, older than a run (3h): a dead run's, not a hold — lap PR #7 — a run that died
+  ok    …and `lap` steals that same lock — the two readings agree — exit 0
+  ok    a lock 2.5h old is still inside the window and reads HELD — exit 3: held lap/pr-7 — taken 2.5h ago — lap PR #7 — a run that died
+  ok    a remote that cannot answer reads UNKNOWN, exit 4 — never free, never held — exit 4: unknown lap/pr-7 — the remote did not answer: fatal: '/tmp/laplock-a-UUbQTt/no-such-remote.git' does not appear to be a git repository
+  ok    …with git's own reason
+
+merge-ready.sh — a clean PR a live run is lapping is not merged under it
+  ok    a `clean` PR whose lap lock a live run holds is NOT merged — #1132 at 13:37Z — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=1
+  ok    …and the run says which run holds it
+  ok    …and counts it being-lapped, not refused — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=1
+  ok    …and exits clean: a held PR is not a failure — exit 0
+  ok    a dead run's lock (older than RUN_HOURS) does not block the merge — merge-ready: merged=1 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=0
+  ok    no lock at all: merged, as before — merge-ready: merged=1 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=0
+  ok    a lock that cannot be read is NOT merged on — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=1 being-lapped=0
+  ok    …and is reported as unreadable with ticket.mjs's reason, not as held — #7  clean, but its lap lock cannot be read — not merged blind: unknown (exit 4) — unknown lap/pr-7 — the remote did not answer: fatal: '/tmp/laplock-b-L5XVid/go
+  ok    a dry run says it would leave a held PR, not that it would merge it — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=1
+  ok    merge-ready reads the lock in one function, so cutting it out is a fair simulation — 1 definition(s)
+  ok    with the read cut out, the held PR IS merged — the suite sees the fault — merge-ready: merged=1 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=0
+
+pr-lap.sh — a PR a live run is lapping is left to that run
+  ok    a PR whose lap lock a live run holds is NOT pushed — #1132 at 13:19Z — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    …and the lap says which run holds it
+  ok    …and spends nothing on it: no merge, no rebuild
+  ok    …and counts it being-lapped, not left alone — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    …and exits clean — exit 0
+  ok    the stale-lap sandbox really starts with a dead marker — {"code":0,"signal":null,"out":"stale lap/pr-7 — taken 4.0h ago, older than a run (3h): a dead run's, not a hold — lap PR #7 — a run that died"}
+  ok    a dead run's lock does not block the lap: the PR is lapped and pushed — PR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0
+  ok    no lock at all: lapped and pushed, as before — PR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0
+  ok    the rebuild actually took a live sibling marker before judging the push guard — exit 3: held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:39:09 AM CT
+  ok    a lock taken WHILE the lap rebuilt stops the push — read again at the push — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    …and counts it being-lapped — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    a lap that cannot read the lock leaves the PR alone rather than lapping it blind — PR lap: pushed=0 already-current=0 left-alone=1 being-lapped=0
+  ok    …and says why: the tool that reads it was not on dev
+  ok    the lap reads the lock in one function, so cutting it out is a fair simulation — 1 definition(s)
+  ok    with the read cut out, the lap pushes over the live run — the suite sees the fault — PR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0
+
+all passed

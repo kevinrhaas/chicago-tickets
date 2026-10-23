@@ -1,0 +1,23 @@
+{
+  "returncode": 1,
+  "seconds": 0.9962445349956397,
+  "main_child_pid": 2808907,
+  "new_owned_orphans_reaped": [
+    {
+      "pid": 2808915,
+      "wait_status": 32768
+    },
+    {
+      "pid": 2808928,
+      "wait_status": 32768
+    },
+    {
+      "pid": 2808937,
+      "wait_status": 0
+    },
+    {
+      "pid": 2808939,
+      "wait_status": 32768
+    }
+  ]
+}

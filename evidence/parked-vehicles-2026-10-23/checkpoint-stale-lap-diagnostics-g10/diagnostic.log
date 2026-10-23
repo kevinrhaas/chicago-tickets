@@ -1,0 +1,47 @@
+ticket.mjs lap <N> --status — the reading both server sweeps ask for
+  ok    no marker reads FREE, exit 0 — exit 0: free lap/pr-7 — nobody holds it
+  ok    a lock a live run just took reads HELD, exit 3 — exit 3: held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:49 AM CT
+  ok    …naming who holds it
+  ok    …and `lap` itself refuses it — the two readings agree — exit 1
+  ok    a lock older than RUN_HOURS reads STALE, exit 0 — a dead run is no hold — exit 0: stale lap/pr-7 — taken 4.0h ago, older than a run (3h): a dead run's, not a hold — lap PR #7 — a run that died
+  ok    …and `lap` steals that same lock — the two readings agree — exit 0
+  ok    a lock 2.5h old is still inside the window and reads HELD — exit 3: held lap/pr-7 — taken 2.5h ago — lap PR #7 — a run that died
+  ok    a remote that cannot answer reads UNKNOWN, exit 4 — never free, never held — exit 4: unknown lap/pr-7 — the remote did not answer: fatal: '/tmp/laplock-a-lZDpmO/no-such-remote.git' does not appear to be a git repository
+  ok    …with git's own reason
+
+merge-ready.sh — a clean PR a live run is lapping is not merged under it
+  ok    a `clean` PR whose lap lock a live run holds is NOT merged — #1132 at 13:37Z — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=1
+  ok    …and the run says which run holds it
+  ok    …and counts it being-lapped, not refused — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=1
+  ok    …and exits clean: a held PR is not a failure — exit 0
+  ok    a dead run's lock (older than RUN_HOURS) does not block the merge — merge-ready: merged=1 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=0
+  ok    no lock at all: merged, as before — merge-ready: merged=1 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=0
+  ok    a lock that cannot be read is NOT merged on — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=1 being-lapped=0
+  ok    …and is reported as unreadable with ticket.mjs's reason, not as held — #7  clean, but its lap lock cannot be read — not merged blind: unknown (exit 4) — unknown lap/pr-7 — the remote did not answer: fatal: '/tmp/laplock-b-a3bzP1/go
+  ok    a dry run says it would leave a held PR, not that it would merge it — merge-ready: merged=0 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=1
+  ok    merge-ready reads the lock in one function, so cutting it out is a fair simulation — 1 definition(s)
+  ok    with the read cut out, the held PR IS merged — the suite sees the fault — merge-ready: merged=1 waiting-on-checks=0 needs-a-lap=0 refused=0 being-lapped=0
+
+pr-lap.sh — a PR a live run is lapping is left to that run
+LAP DIAGNOSTIC {"box":"/tmp/laplock-c-0ESSaq","lock":"live","midLap":false,"initialMarker":{"code":3,"out":"held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:51 AM CT"},"head":"130d3029de7b6440b8323fb8790410152909044d","after":"130d3029de7b6440b8323fb8790410152909044d","code":0,"signal":null,"out":"  attributes <- dev (0 rules)\n=== PR #7  (claude/resume-1132)\n  BEING LAPPED by a live run — left to it (held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:51 AM CT)\n\nclaim markers:\n\nPR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1\n  (gating is CI's — every push above re-runs the gate and the PR's merge result)\n"}
+  ok    a PR whose lap lock a live run holds is NOT pushed — #1132 at 13:19Z — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    …and the lap says which run holds it
+  ok    …and spends nothing on it: no merge, no rebuild
+  ok    …and counts it being-lapped, not left alone — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    …and exits clean — exit 0
+LAP DIAGNOSTIC {"box":"/tmp/laplock-c-uqdDfB","lock":"stale","midLap":false,"initialMarker":{"code":0,"out":"stale lap/pr-7 — taken 4.0h ago, older than a run (3h): a dead run's, not a hold — lap PR #7 — a run that died"},"head":"191ac9eabb2194448a1734a2b54031f59424cb38","after":"ea594843b0d3a8ef13c0ab6cca2bdfeadcd4267b","code":0,"signal":null,"out":"  attributes <- dev (0 rules)\n=== PR #7  (claude/resume-1132)\n  publishing the mirror, then rebuilding the derived layer against the merged inputs\nOn branch lap/7\nYour branch is ahead of 'origin/claude/resume-1132' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\n  pushed 191ac9e → ea59484\n  — gate will re-run and auto-merge can fire\n\nclaim markers:\n\nPR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0\n  (gating is CI's — every push above re-runs the gate and the PR's merge result)\n"}
+  ok    a dead run's lock does not block the lap: the PR is lapped and pushed — PR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0
+LAP DIAGNOSTIC {"box":"/tmp/laplock-c-jKuoy2","lock":"none","midLap":false,"initialMarker":{"code":0,"out":"free lap/pr-7 — nobody holds it"},"head":"29d6074d65fb0aa45c3cf0ad1abf9d623540e83b","after":"a84ce5cad505b2cda0015bee78fec88d593e1cef","code":0,"signal":null,"out":"  attributes <- dev (0 rules)\n=== PR #7  (claude/resume-1132)\n  publishing the mirror, then rebuilding the derived layer against the merged inputs\nOn branch lap/7\nYour branch is ahead of 'origin/claude/resume-1132' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\n  pushed 29d6074 → a84ce5c\n  — gate will re-run and auto-merge can fire\n\nclaim markers:\n\nPR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0\n  (gating is CI's — every push above re-runs the gate and the PR's merge result)\n"}
+  ok    no lock at all: lapped and pushed, as before — PR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0
+LAP DIAGNOSTIC {"box":"/tmp/laplock-c-Hv8w3a","lock":"none","midLap":true,"initialMarker":{"code":0,"out":"free lap/pr-7 — nobody holds it"},"head":"2d78030eb1823b845f70eb1ef8710b51cdea8da8","after":"2d78030eb1823b845f70eb1ef8710b51cdea8da8","code":0,"signal":null,"out":"  attributes <- dev (0 rules)\n=== PR #7  (claude/resume-1132)\n  publishing the mirror, then rebuilding the derived layer against the merged inputs\nOn branch lap/7\nYour branch is ahead of 'origin/claude/resume-1132' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\n  a run took lap/pr-7 while this lap rebuilt — NOT pushed; its lap wins (held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:53 AM CT)\n\nclaim markers:\n\nPR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1\n  (gating is CI's — every push above re-runs the gate and the PR's merge result)\n"}
+  ok    the rebuild actually took a live sibling marker before judging the push guard — exit 3: held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:53 AM CT
+  ok    a lock taken WHILE the lap rebuilt stops the push — read again at the push — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+  ok    …and counts it being-lapped — PR lap: pushed=0 already-current=0 left-alone=0 being-lapped=1
+LAP DIAGNOSTIC {"box":"/tmp/laplock-c-chvbhH","lock":"live","midLap":false,"initialMarker":{"code":3,"out":"held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:54 AM CT"},"head":"7cb0c845e6748074323f4429db9a32e8c780ec02","after":"7cb0c845e6748074323f4429db9a32e8c780ec02","code":0,"signal":null,"out":"  attributes <- dev (0 rules)\n=== PR #7  (claude/resume-1132)\n  lap lock UNREADABLE — left alone rather than lapped blind over a run that may hold it:\n    unknown — tools/ticket.mjs could not be read from origin/dev, so lap/pr-7 cannot be\n\nclaim markers: tools/ticket.mjs is not in this checkout — not swept\n\nPR lap: pushed=0 already-current=0 left-alone=1 being-lapped=0\n  (gating is CI's — every push above re-runs the gate and the PR's merge result)\n"}
+  ok    a lap that cannot read the lock leaves the PR alone rather than lapping it blind — PR lap: pushed=0 already-current=0 left-alone=1 being-lapped=0
+  ok    …and says why: the tool that reads it was not on dev
+  ok    the lap reads the lock in one function, so cutting it out is a fair simulation — 1 definition(s)
+LAP DIAGNOSTIC {"box":"/tmp/laplock-c-mD4RVJ","lock":"live","midLap":false,"initialMarker":{"code":3,"out":"held lap/pr-7 — taken 1m ago — lap PR #7 — sibling run 10/23/2026, 10:37:54 AM CT"},"head":"07504debef4d59a9e91164b76805723184e48101","after":"6e2f16c5147090820e69c45c7444abb835938a77","code":0,"signal":null,"out":"  attributes <- dev (0 rules)\n=== PR #7  (claude/resume-1132)\n  publishing the mirror, then rebuilding the derived layer against the merged inputs\nOn branch lap/7\nYour branch is ahead of 'origin/claude/resume-1132' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\n  pushed 07504de → 6e2f16c\n  — gate will re-run and auto-merge can fire\n\nclaim markers:\n\nPR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0\n  (gating is CI's — every push above re-runs the gate and the PR's merge result)\n"}
+  ok    with the read cut out, the lap pushes over the live run — the suite sees the fault — PR lap: pushed=1 already-current=0 left-alone=0 being-lapped=0
+
+all passed
