@@ -1,7 +1,7 @@
 ---
 id: T-1789
 title: Build the first modular 1835 human library in Blender on the shared portable rig
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:09 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T12:45:10.273Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -289,3 +289,5 @@ Historical8f selected14/15four are now all strictPASS, includingdesktop14 actual
 ## Delivery checkpoint — 2026-10-23, 01:00 UTC
 
 PR1175 source3f73940923 passed both current desktop/mobile fullpart14 (140assertions/0failures each) plus all four normal source checks. NewDEVb6 introduces building-date UI, source catalog updates and Ames geometry. Selected supported integration39880078603 refused authored STATUS/ROADMAP EOF conflicts without pushing. Owning agent now resolves both complete authored additions, preserves incoming records plus all person pins, and uses canonical derived regeneration before a new fullgate. No merge claimed; renewed root claim remains active.
+
+**Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:09 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
