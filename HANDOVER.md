@@ -1,3 +1,15 @@
+# Active horse validation and renewed claims — 2026-10-23 11:11 UTC
+
+PR1175 remains MERGED/publiclyverified;1208/1213duplicatesclosed. Currentstandinghorse40files/stagedtreebe37faec911f51b5d0bad9c11bed4e352b7a4b12 on e474 are unchanged and GitHub-backed in priorCURRENT-HORSE-AND-MIRROR-REPAIR-SOURCE.zip5b07a536. No sourcecommit yet; fullpreflightmustpass. Four nonpasses remain rawrecords: inheritedGlessnercache, /tmpfixtureevidencecopy, ROOTticketssymlink(repaired), andlatestresource-stalledrun stopped11:06 after706timings. No partialpasses concatenated.
+
+Actualprocesscapacityblocker: ~31,904 exited orphans held by idlePID1tail, nearproviderprocesscapacity; no CPUprogress/repeatedforkEAGAIN. Automaticapproval review rejected read-onlydebuggerattachtoPID1 as invasive/notexplicitlyauthorized; it NEVERexecuted and willNOTberetried or bypassed. Safealternative touchesONLYnewchildrenofoursupervisor: ownPR_SET_CHILD_SUBREAPER+continuouswaitpidofadoptedorphans(excludingauthoritativemainPopenchild), reducedNodepools/UV1 and documentedCHECK_JOBS2. No PID1/systemservice/liveother-run manipulation. Nextfullgate underownsupervisor; actualPASSonlythenpreparednormalcommit/push/publish. Resourcefixisexternalruntimecode, notappworkaround orfakegreen.
+
+All8claims independentlyverifiedown, renewedandPUSHED11:10:06–11:10:27 (expire14:10). Real ticketclone restored/sparse evidence/all priorlocaleditsstash0ec3ecd9 preserved; all3previousfailedchecks+board+ticketcheckPASS. CanonicalROOTticketwriter remainsprimary /workspace/chicago/chicago/4d/tickets; appcloneactualrealnormaldirectory. Freezeexternalmetadata duringnextgate.
+
+Sourceonlyfollowupsdurablehere: boundedV21allfourintrinsicdiagnostic54a51a16 +independentreview139b5fc5, periodicreferenceheld/missingcomposedinputs, 1904disabledextensionpreviouscheckpoint, rest-onlytackpreview. Noneiswalking/gear/photoPASS. First1835publishedyardmobile/desktopqualificationstillpendingfreshgreencommit. Continuework; no broadticketclosure.
+
+---
+
 # Active standing-horse checkpoint — 2026-10-23 10:47 UTC
 
 Current40-filehorse source is safely GitHub-checkpointed in priorCURRENT-HORSE-AND-MIRROR-REPAIR-SOURCE.zip SHA5b07a53662b10d709960f598740cfda99e028042cb49dee54109925f2814c201. Actualstage nowbe37faec911f51b5d0bad9c11bed4e352b7a4b12 on basee474. No horse sourcecommit yet: requiredfullgate mustpassfirst. PR1175 deliveredandpublic8GETexactassetproofPASS;1213+1208closedduplicates.
