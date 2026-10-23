@@ -157,3 +157,8 @@ PR [chicago#1244](https://github.com/kevinrhaas/chicago/pull/1244) carries the p
 PR #1244 is pushed at eb1cafe12; original full gate PASS1054/382. The reviewed DEV integration is staged as tree5e7406c5d29f8a2be26e77cf098127dad5a6049d. Its G11 run disconnected and was stopped after actual `spawnSync git EAGAIN` and child-launch failures; no complete combined PASS or DEV merge. Evidence [eba255c18](https://github.com/kevinrhaas/chicago-evidence/tree/eba255c18cdcbdd42890135837acadbec241fe67/evidence/horse-pr1244-g11-recovered-nonpass-2026-10-23) preserves raw logs and source state. Owner exception requested for one reviewed integration commit to the draft PR; fresh green GitHub CI remains required before DEV merge. Approval was pending at this checkpoint.
 
 Ticket remains unfinished: standing integration is a partial delivery, while matched-view photographic anatomy/coat/hair/eyes, near/mid/far qualification and full gait acceptance remain unpassed. Do not close the broad ticket from a standing-only merge.
+
+
+### Approved integration pushed — 2026-10-23 18:44 UTC
+
+Owner approved using fresh GitHub CI for this reviewed integration after local process exhaustion. Current PR1244 head `f225b8ae`, tree `43665a4b`, is pushed and publication/mirror/site validated; planted contract passes. Normal gate40004752292 and moving40004752222 are collecting; report40004742266 strictly passed. No current DEV merge or photographic closure yet. Actual mobile launch failed before any appframe due Chromium thread exhaustion, with clean owned-process cleanup; no visual pass inferred. Durable evidence [0b4fe035](https://github.com/kevinrhaas/chicago-evidence/tree/0b4fe0355776e71cde97b7b11676b903ebd3fc9e/evidence/horse-pr1244-approved-delivery-2026-10-23).
