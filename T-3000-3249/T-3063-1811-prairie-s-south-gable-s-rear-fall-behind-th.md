@@ -1,7 +1,7 @@
 ---
 id: T-3063
 title: 1811 Prairie's south gable's rear fall: behind the tall stack the 1888 plate's coping runs about 30-48 px under the render's (x 528-571), near level at about 11.0 m by the camera where the build's coped rake falls from the ridge + 0.3 m at 22.4 degrees, so the second stack shows 35 px over it in the plate and barely clears it in the render; read the flank's wall head and the rear slope against the Chicagology print (cgn-1811-coleman-ames-photo, whose camera T-3052 solves) and build it (K01's coped parapet follows the roof's slopes only)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3051
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1248
 claimed_by: run 10/23/2026, 11:29:20 AM CT
 blocked_on: null
 needs_bake: false
