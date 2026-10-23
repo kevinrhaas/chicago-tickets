@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T05:28:12.626Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2376,T-2383,T-2384,T-2385
 ---
 
 Match the Sauganash Hotel to its pictures.
@@ -50,3 +49,5 @@ Pictures:
 Group with Carpenter. `sauganash_plate_baseline.json` supplies measured vanishing points (−1467.2, 6462.5), focal 3664.7 px and horizon 917.5 on 2017×1296. Fit translation against the render. Measured 2.392 m doorcase/1.923 m opening and 45 px transom are not fully consumed by `_frontispiece`. Braunhold/Petford/Trowbridge are related compositions, not independent witnesses.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT): First picture-led frame refinements and source corrections are saved in the GitHub recovery checkpoint aaeac5b0. Full image matches remain open. Shared generator and source prerequisites will be tracked separately; continue the original cases from the recorded previews.

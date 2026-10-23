@@ -1,7 +1,7 @@
 ---
 id: T-2385
 title: Match the first Tremont House to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T05:28:12.627Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2376,T-2383,T-2384,T-2385
 ---
 
 Match the first Tremont House to its pictures.
@@ -67,3 +66,5 @@ T-3053 records the approval in the source catalogue, retaining the hosting credi
 The first Tremont committed-mesh comparison rendered successfully and was visually reviewed as `differs`. It shows the two-versus-three-storey mismatch, blank gable, missing shuttered bays, raised entrances and roof details. The provisional six-point fit has 17.23 px point RMS, not a solved historical camera. The current elevation scheme cannot simply be rotated to match the short/long facades; the handoff identifies the required model path.
 
 Attributed source-use update: [PR #1224](https://github.com/kevinrhaas/chicago/pull/1224). Complete camera/render/handoff recovery checkpoint: [post-approval baselines](https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines). The original image-match acceptance remains open; no geometry or accepted-camera change was made.
+
+**Released 2026-10-23** (claim of Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT): First picture-led frame refinements and source corrections are saved in the GitHub recovery checkpoint aaeac5b0. Full image matches remain open. Shared generator and source prerequisites will be tracked separately; continue the original cases from the recorded previews.

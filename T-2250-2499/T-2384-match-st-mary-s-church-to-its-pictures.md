@@ -1,7 +1,7 @@
 ---
 id: T-2384
 title: Match St Mary's church to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T05:28:12.627Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2376,T-2383,T-2384,T-2385
 ---
 
 Match St Mary's church to its pictures.
@@ -44,3 +43,5 @@ Pictures:
 The later image's open belfry must not be backdated into the July 1835 phase; the original-location phase ends June 1837. Resolve the depicted phase before matching it.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-23** (claim of Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT): First picture-led frame refinements and source corrections are saved in the GitHub recovery checkpoint aaeac5b0. Full image matches remain open. Shared generator and source prerequisites will be tracked separately; continue the original cases from the recorded previews.
