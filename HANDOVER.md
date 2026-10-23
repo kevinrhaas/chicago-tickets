@@ -1,3 +1,11 @@
+# Horse standing increment merged to DEV — 2026-10-23 19:01 UTC
+
+PR1244 ordinary squash merged `fa115d72534e234fe5ac7b94fd2f1a3eb38065c8`, tree43665a4b692d5283defba96f236aed14b3c02623, single parent reviewed DEV eb1a0d11a96767a715a136ee43d94097ddf5b9cd. Sourcef225b8ae passed fresh normal gate40004752292 (1055/382), moving/phone40004752222 and report40004742266. Actual checkout, current source/base/check inventories, no final hold and actual merge tree/parent all verified. No bypass/admin/manual dispatch. Prior localG11 and originalmobile thread failure remain NONPASS; no photographic acceptance.
+
+Automatic DEV preview proof is running from /workspace/shared/T2800-PR1244-OWNER-APPROVED-INTEGRATION-20261023/verify_automatic_preview.py; output AUTOMATIC-PREVIEW-DELIVERY, terminal pending. Preview https://chicago.polecat.live/4d/dev/1835/. App worktree remains clean f225; mergedtree exact. Final CI/merge receipts copied to chicago-evidence/evidence/horse-pr1244-approved-delivery-2026-10-23/{ACTUAL-GREEN-DEV-MERGE,ACTUAL-STRICT-NORMAL-THREE-TERMINAL}. Latest pushed delivery-tools checkpoint4ffc6bb, final receipts push pending.
+
+T2800/T2803 remain claimed during preview verification, both linked1244. After verification, update partial progress and release these broad unfinished claims; do not close full photographic/gait tickets. Olddraft1212 is superseded by redesigned1244; close it after actual merged verification, not under byte-containment reasoning. No production promotion. Next work: matched near-view eyes/hair/coat/anatomy; inspect original yard smoke on a healthy browser host; qualify near/mid/far; then walk/trot contact and deformation before gear/teams/drivers/riding. All three eras are not complete. Historical source/future packets remain in previous entries below and ticketcommit37ebafc.
+
 # Horse delivery — active PR1244, 2026-10-23 18:44 UTC
 
 Owner approved the local pre-commit exception: "Yes merge to dev when green". No further confirmation is needed for the reviewed integration; ordinary fresh green GitHub CI and a head-pinned DEV merge remain required. No bypass/admin/dispatch/rerun.
