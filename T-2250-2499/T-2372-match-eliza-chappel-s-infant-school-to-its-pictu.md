@@ -43,3 +43,11 @@ Pictures:
 `eliza_chappel_school_shore_view` remains `check_required` and prohibits derived assets. The school/annex identity is unresolved and the composed drawing has inconsistent perspective. T-0909 already exhausted the uncredited blog/Young lead; do not rerun that search without a new lead.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+## Owner-confirmed reproduction source — 2026-10-22
+
+The owner supplied [https://drloihjournal.blogspot.com/2018/01/eliza-chappell-the-first-chicago-teacher-paid-by-public-funds-in-1833.html](https://drloihjournal.blogspot.com/2018/01/eliza-chappell-the-first-chicago-teacher-paid-by-public-funds-in-1833.html) in reply to the source-credit question.
+
+The live page returned HTTP 200 and its first school image uses `21617595_10203558686525015_5452300313452439832_n.jpg`, matching the recorded local illustration. Its caption places the school roughly at Lake and Clark. No artist, original publication date, collection credit or image-use terms are supplied with that illustration; the journal explicitly omits inline citations. This confirms the immediate reproduction source, already recorded in `eliza_chappel_school_shore_view`, without resolving the original provenance.
+
+The existing source record remains `check_required`; no new rights ruling, derived geometry, camera solution or image-match completion follows from this confirmation. Retain the full ticket acceptance.

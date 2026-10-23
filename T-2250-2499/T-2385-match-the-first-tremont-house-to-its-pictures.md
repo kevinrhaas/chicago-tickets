@@ -44,3 +44,11 @@ Pictures:
 Gifford shows three storeys, a shuttered three-bay gable and five-bay side, raised entrances and flagstaff; model is two storeys. Source remains `check_required` after Chicagology/CARLI/CHM/Internet Archive investigation. A generic pre-1930 assertion does not settle the original sheet's provenance. Simply rotating the existing 50×30 ft rectangle would also make the wrong broad gable.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+## Owner-confirmed reproduction source — 2026-10-22
+
+The owner supplied [https://chicagology.com/prefire/prefire021/](https://chicagology.com/prefire/prefire021/) in reply to the source-credit question.
+
+The live page returned HTTP 200 and reproduces `firsttremont.jpg` with the caption Tremont House No. 1, matching `gifford_tremont_house_no_1`. No original publication date, holding institution or image-use terms are supplied with this drawing. The following Chicago Tribune item dated December 28, 1850 describes the later five-and-a-half-storey hotel; its date does not establish publication of the first-hotel drawing.
+
+The existing source record remains `check_required`; no new rights ruling, derived geometry, camera solution or image-match completion follows from this confirmation. Retain the full ticket acceptance.

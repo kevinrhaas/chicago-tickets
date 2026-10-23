@@ -54,5 +54,21 @@
   "integration_lock": "released after merge",
   "merged_commit": "e81cb09c3b9273c2989a891982101acbb814ca19",
   "merged_at": "2026-10-23T00:35:18Z",
-  "github_gate": "success"
+  "github_gate": "success",
+  "owner_confirmed_reproduction_sources": [
+    {
+      "ticket": "T-2372",
+      "url": "https://drloihjournal.blogspot.com/2018/01/eliza-chappell-the-first-chicago-teacher-paid-by-public-funds-in-1833.html",
+      "live_check": "HTTP 200; expected image confirmed; original publication/rights unresolved",
+      "client_date": "2026-10-22",
+      "timezone": "America/Chicago"
+    },
+    {
+      "ticket": "T-2385",
+      "url": "https://chicagology.com/prefire/prefire021/",
+      "live_check": "HTTP 200; expected image confirmed; original publication/rights unresolved",
+      "client_date": "2026-10-22",
+      "timezone": "America/Chicago"
+    }
+  ]
 }
