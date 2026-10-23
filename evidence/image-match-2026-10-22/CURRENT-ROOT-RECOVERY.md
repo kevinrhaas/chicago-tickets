@@ -1,5 +1,11 @@
 # Newest root recovery pointer
 
+Latest [closed LH/Wolf actual reviews, rootdocappends and smoke preparation](closed-LH-Wolf-actual-docs-smokeplan-20261023T122010Z/RECOVERY.md): both isolatedmodelreviews stilldiffers/proposed; fullclosedrun/input/recoveryproofs saved. Parent-applied3binary-prefix-preservingdocappends plus12QAinputcontinuity are retained. MfinalSHA/PRsmokeplan remainsPENDING/UNDISPATCHED; currentMstrictgate LIVE and excluded. No fullPASS/image-match/canonicalmodeladoption inferred.
+
+## Earlier immutable recovery history
+
+# Newest root recovery pointer
+
 Latest [closed12-case card/actualflagGPU acceptance +bridge/fort proposals](closed-complete12QA-bridge-fort-20261023T120430Z/RECOVERY.md): actualQA PASS12/12, bothviewports×sixbuildings, noerrors. Exactscript7e6c64fd and closed55fixedpoint/publish/nativePhotos11PASS retained. This supersedes prior PENDING for thiscardQA ONLY. CurrentMfullgate/full15partsmokes/originalimage matches remainpending; originalcases stayopen/differs.
 
 Complete appbyte recovery stilluses [pusheda5ca exactsixfilepacket](current-static-app-pushed-a5ca-base-20261023T112046Z/RECOVERY.md), ONLY a freshisolatedcheckout at pinned a5ca. Frozenfort85filecomposer is UNAPPLIED/profileUNRUNatcheckpoint and requires25realbakes; closedbridgeaudit metadataUNAPPLIED/BakerCoHOLD. Newlive lighthousepreview is excluded.
