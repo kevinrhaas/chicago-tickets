@@ -1,7 +1,7 @@
 ---
 id: T-2384
 title: Match St Mary's church to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex St Mary picture matching continuation 10/23/2026, 9:08:19 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T14:08:21.512Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -45,3 +45,5 @@ The later image's open belfry must not be backdated into the July 1835 phase; th
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT): First picture-led frame refinements and source corrections are saved in the GitHub recovery checkpoint aaeac5b0. Full image matches remain open. Shared generator and source prerequisites will be tracked separately; continue the original cases from the recorded previews.
+
+**Released 2026-10-23** (claim of Codex St Mary picture matching continuation 10/23/2026, 9:08:19 AM CT): Exact continuation archived at https://github.com/kevinrhaas/chicago-evidence/blob/64fd5de/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Positive1835 chapel actual Moss/Gale previews remain differs; narrower belfry next study is UNRUN, not canonically adopted. Preserve25x35plan, dates, placement and uncertain tower installation; Gale1902 original-site attribution is retrospective, Quarter May1844 dates presence only. Official271-family rebuild and all-picture/app validation still owed. Original T-2384 remains open and unaccepted; normal own-claim release for wrap handoff, no done.
