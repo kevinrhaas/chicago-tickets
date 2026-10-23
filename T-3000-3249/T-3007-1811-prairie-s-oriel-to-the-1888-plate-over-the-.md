@@ -1,7 +1,7 @@
 ---
 id: T-3007
 title: 1811 Prairie's oriel to the 1888 plate over the rounded corner: a flat-fronted box about 3 m across (x 338-470 px) about 0.6 m out, its south return (x 470-497 px, about 27 px, which a square 0.6 m return cannot fill from this camera: it follows the corner) lit by two or three narrow lights, and its rock-faced base rounded under it in place of K08's three corbel courses (after the rounded corner)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2989
 opened: 2026-10-22
-closed: null
+closed: 2026-10-22
 pr: 1214
 claimed_by: run 10/22/2026, 2:37:20 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T00:37:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39840879031
 claimed_at: 2026-10-22T19:37:21.050Z
 decision: null
