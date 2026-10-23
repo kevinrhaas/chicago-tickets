@@ -1,54 +1,36 @@
 {
   "ticket": "T-2377",
-  "state": "PR1229 open and lap-owned: final local preflight1049 PASS and both published app/card checks PASS; six full-coverage renderer partitions dispatched, merge waits for allsix andCI; originalT2377 remainsopen",
+  "state": "PR #1229 new head pushed; strict local preflight and both targeted QA views PASS on content-equivalent mirror; current-head CI/full-smoke conclusions pending; broader prerequisite PR may supersede #1229; original match stays open",
   "branch": "steward/t2377-hogan-picture-match",
-  "base": "575b4968569283177e36e92878b2a84c5554068e",
-  "patch_sha256": "115445ed54d5b171090e9164bf6caef8980bc461cd4805467e84c4139f6b5fcd",
-  "build": "verified pinned Blender4.5.3; --only hogan_store; no generator changes",
-  "derivative": "pinned glTF-Transform4.5.0 packages; npm cache /workspace/shared/npm-cache",
-  "original_image_match_complete": false,
-  "preflight_log": "preflight-final-pass.log",
-  "preflight_session": null,
-  "photo_comparison": "differs, reviewed",
-  "source_credit": "Edgar S. Cameron / Chicago Historical Society; Commons locator plus inspected local surrogate",
-  "baseline_models": {
-    "before_sha256": "8ca38e2f312997f38f2773b5698ae6c16f72da26112fb0f2559961e962d69809",
-    "after_sha256": "c196950ac57ec0e76d78698de43b956188eeb0ea2403264700991c9587bd5fe2"
-  },
-  "initial_preflight": "failed: name-pool note keys and source-use backlinks",
-  "repairs": "Eight prose paths declared read; liberty/apron and source-use producers settled; current master/derivative and exact research hashes verified; unrelated XLSX restored; untracked Glessner cache refreshed from upstream archive",
-  "fixture_scope": "only Hogan sign and two crates move off new doorway",
-  "workbook_scope": "unrelated workbook serialization differs but all sheet row values are identical; preserve original bytes before code commit",
-  "second_preflight": "failed: missing compiled liberty and stale entrance apron; explicit compile_liberties.py and generate_entrances.py now run",
-  "pending_desktop_session": null,
-  "pending_desktop_log": null,
-  "mobile_app_check": "PASS: attributes, grade, expected review records, zero unexpected loader/network/page errors, credited link, expanded Cameron/CHS Sources citation and viewport",
-  "desktop_app_check": "PASS: rebuilt attributes/grade; exact declared review records; no unexpected loader/network/page errors; credited picture link and expanded Cameron/CHS citation; screenshots inspected",
-  "code_commit": "6156a0367a2379f0d986b88c7c8236c4ebec0e55",
+  "code_commit": "05f6b886e5a31f17ec21e743f945cc4a89abc745",
   "pr": 1229,
   "pr_url": "https://github.com/kevinrhaas/chicago/pull/1229",
-  "integration_lock": "lap/pr-1229 by Codex Hogan picture-match integration",
+  "latest_dev_included": "5135 (abbreviated parent-supplied dev identity)",
+  "checkpoint_utc": "20261023T061922Z",
+  "previous_head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55",
+  "previous_checkpoint_file": "checkpoint--6156-SUPERSEDED.json",
+  "latest_frozen_directory": "new-head-05f6-both-QA--20261023T061922Z",
+  "latest_archive": "new-head-05f6-both-QA--20261023T061922Z.tar.gz",
+  "archive_sha256": "86a59eef6c03b4baba32cccfa771ef0ba7769572401afb5526ba65da7e6c853d",
+  "archive_bytes": 2539818,
+  "preflight": "PASS: strict local check.sh plus committed-diff changelog/ID checks",
+  "preflight_log": "new-head-05f6-both-QA--20261023T061922Z/preflight-dev-oracle.log",
+  "validation": "PASS: 0 errors, 280 warnings",
+  "ordered_producer": "settled after 2 laps; last lap changed nothing",
+  "oracle_fix": "27 verified T-3009 Indiana IDs added to the 1904 expected-ID literal; all original assertions/isolation checks unchanged",
+  "mobile_app_check": "PASS: 390\u00d7780; rebuilt attributes/grade, credited picture/source citation, viewport and no unexpected page/loader errors",
+  "desktop_app_check": "PASS: 1280\u00d7800; rebuilt attributes/grade, credited picture/source, viewport and no unexpected page/loader errors",
+  "renderer_smoke_plan": "new-head-05f6-both-QA--20261023T061922Z/smoke-runs-05f6.json",
   "renderer_smoke_runs": [
     {
-      "viewport": "mobile",
-      "stage": "1-12",
+      "viewport": "desktop",
+      "stage": "13",
       "parts": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
+        13
       ],
-      "id": 39903318380,
-      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39903318380",
-      "head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55"
+      "id": 39909753942,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909753942",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
     },
     {
       "viewport": "mobile",
@@ -56,9 +38,87 @@
       "parts": [
         13
       ],
-      "id": 39903329759,
-      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39903329759",
-      "head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55"
+      "id": 39909764410,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909764410",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
+    },
+    {
+      "viewport": "mobile",
+      "stage": "1-4",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 39909775077,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909775077",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
+    },
+    {
+      "viewport": "desktop",
+      "stage": "1-4",
+      "parts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 39909784927,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909784927",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
+    },
+    {
+      "viewport": "mobile",
+      "stage": "5-8",
+      "parts": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "id": 39909795631,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909795631",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
+    },
+    {
+      "viewport": "desktop",
+      "stage": "5-8",
+      "parts": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "id": 39909806177,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909806177",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
+    },
+    {
+      "viewport": "mobile",
+      "stage": "9-12",
+      "parts": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "id": 39909815822,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909815822",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
+    },
+    {
+      "viewport": "desktop",
+      "stage": "9-12",
+      "parts": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "id": 39909828849,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909828849",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
     },
     {
       "viewport": "mobile",
@@ -67,40 +127,9 @@
         14,
         15
       ],
-      "id": 39903339626,
-      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39903339626",
-      "head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55"
-    },
-    {
-      "viewport": "desktop",
-      "stage": "1-12",
-      "parts": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "id": 39903350301,
-      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39903350301",
-      "head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55"
-    },
-    {
-      "viewport": "desktop",
-      "stage": "13",
-      "parts": [
-        13
-      ],
-      "id": 39903360096,
-      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39903360096",
-      "head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55"
+      "id": 39909839936,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909839936",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
     },
     {
       "viewport": "desktop",
@@ -109,9 +138,24 @@
         14,
         15
       ],
-      "id": 39903370456,
-      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39903370456",
-      "head": "6156a0367a2379f0d986b88c7c8236c4ebec0e55"
+      "id": 39909852234,
+      "url": "https://github.com/kevinrhaas/chicago/actions/runs/39909852234",
+      "head": "05f6b886e5a31f17ec21e743f945cc4a89abc745"
     }
-  ]
+  ],
+  "coverage": "10 runs: all 15 parts at both viewports; partitions 1-4/5-8/9-12/13/14-15",
+  "new_head_CI": "PENDING_NOT_VERIFIED",
+  "new_head_smoke_conclusions": "PENDING_NOT_VERIFIED",
+  "superseded_runs": "new-head-05f6-both-QA--20261023T061922Z/superseded-6156-runs.json",
+  "original_image_match_complete": false,
+  "photo_comparison": "differs, provisional; no accepted reference view",
+  "original_ticket_done": false,
+  "merged": false,
+  "merge_authorized_by_checkpoint": false,
+  "old_helper_policy": "Old merge-if-ready.py and dispatch-smokes.py entrypoints now refuse execution; original source retained in .OBSOLETE-6156.py.txt files; no new merge helper supplied",
+  "frame_prerequisite_scope": "Original four M frame claims released; T-3055 (M) + T-3056 (S) claimed; one M plus S. Original image gates remain open. Evidence writer changed no claims.",
+  "prior_geometry_receipts": "Before/after geometry, research/source/rights and 6156 app results remain historical evidence; do not reuse them as current-head CI/desktop completion.",
+  "targeted_mirror_build_tag": "6156a0367",
+  "targeted_content_relation": "Parent confirms tested mirror code/content is identical to clean 05f6; build.json retains 6156 because publish preceded merge commit. No claim the targeted build tag was 05f6. New exact-head smokes regenerate their own tag.",
+  "parent_next_plan": "Broader prerequisite branch from 05f6 for T-3055 (M) + T-3056 (S), including reviewed Hogan progress; related source credits may expand the same pipeline. A concrete broader PR may supersede #1229 after preflight. Do not use auto-merge helpers while plan is pending."
 }

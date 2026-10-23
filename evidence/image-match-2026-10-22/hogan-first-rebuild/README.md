@@ -1,5 +1,13 @@
 # T-2377: Hogan's first picture-based geometry increment
 
+**Latest head/update:** `05f6b886e5a31f17ec21e743f945cc4a89abc745` includes dev 5135
+and the unchanged-assertion 27-ID oracle repair. Strict local preflight and both
+targeted views PASS. The tested mirror still carries build tag 6156; parent confirms
+its code/content matches clean 05f6. Exact-head CI/smokes remain unverified. A broader
+prerequisite PR may supersede #1229, so no auto-merge helper should run.
+Read [RECOVERY.md](RECOVERY.md) and [new-head-05f6-both-QA--20261023T061922Z/STATE.json](new-head-05f6-both-QA--20261023T061922Z/STATE.json).
+Old 6156 helpers are disabled. Original T-2377 matching remains open.
+
 This is a rebuilt first increment, not a completed image match. The original T-2377 acceptance remains open. `cameron-1833.match.json` is reviewed `differs`, and its camera stays in this research directory while provisional. Do not move it into accepted reference-view data or mark it matches without resolving the listed differences.
 
 ## Visible change

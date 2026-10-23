@@ -1,5 +1,15 @@
 # Parallel image-match proposal recovery
 
+**Later Hogan state checkpoint:** code head `05f6b886e5a31f17ec21e743f945cc4a89abc745`
+has strict local preflight PASS, a settled two-lap producer and both targeted QA
+views PASS. Their mirror build tag remains 6156; parent confirms content equivalence
+to clean 05f6, rather than a 05f6 mirror tag. Exact-head CI and all ten smoke-run
+conclusions remain unverified here. A broader prerequisite PR may supersede #1229;
+no auto-merge helper should run. See [updated Hogan recovery](../hogan-first-rebuild/RECOVERY.md).
+Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
+one M plus S prerequisites. Original image gates stay open. The sixteen archives
+below remain immutable at their own capture dates.
+
 Latest immutable checkpoint: **2026-10-23 05:49:10 UTC**, version `20261023T054910Z`.
 All prior twelve archives remain unchanged. This save adds the final stashed frame
 integration WIP, Beaubien and jail metadata packages, and the isolated May1844
@@ -71,14 +81,15 @@ all sheet values are equal and serialization changed.
 The ordered producer log explicitly warns its tail from step 146 was still moving
 after three laps. Parent edited record notes during lap 2; **convergence is not
 claimed**. Rerun the ordered producer after restoring/rebasing the final notes,
-then run the required checks. The original four-ticket frame group must be split
-or released into manageable pieces before finishing under project policy. Its
+then run the required checks. At that WIP capture the original four-ticket frame group still needed splitting
+or release; it has since been released into T-3055 (M) plus T-3056 (S) prerequisites. Its
 original image gates remain differs/open. No immediate auto-merge is authorized
 by this checkpoint; parent requires full image acceptance for that action.
 
-The parent has switched to Hogan, merging latest dev 5135 and the smoke-oracle
-repair before full preflight and new exact-head smokes. Their results are not
-claimed here. The earlier exact 6156a0367 failure was a stale 1904 expected-ID
+At the WIP capture the parent was switching to Hogan. The later 05f6 checkpoint
+now records latest dev 5135 plus the smoke-oracle repair, strict local preflight
+PASS and both targeted QA views PASS on a mirror tagged 6156 but confirmed content-
+equivalent to 05f6; current-head CI/smoke conclusions remain pending verification. See the linked Hogan recovery for that newer state. The earlier exact 6156a0367 failure was a stale 1904 expected-ID
 literal: 195 expected versus 222 valid same-head scene records. All 27 omitted
 Indiana Avenue IDs originate in T-3009/PR#1198; no 1835 leak was found. Its archived
 minimal 27-ID fix and regression proof preserve the exact isolation assertions,
