@@ -145,3 +145,8 @@ Actual canonical129 standing poses remain qualified numerically; no hosted new h
 Corrected1904b479 fitterV2 is independentlysource-reviewed, capsule27f584/receipta2780e00. Original reference/neutral/contact/temporal/ground guards retained; new absoluteworldprecision probe is informational, never an inventedproductbar. No numeric/Node/browser actualrun or1904activation. Canonical1835loaded129 proof unchanged. Sevenwhole preflightnonpasses preserved, G8pending.
 
 **Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:22 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
+
+
+### Standing increment delivery, 2026-10-23
+
+PR [chicago#1244](https://github.com/kevinrhaas/chicago/pull/1244) carries the planted 1835 yard horse. Whole G10 gate PASS1054/382 and pushed app `eb1cafe12`; postcommit publisher/mirror/site PASS. New DEV provenance conflicts are resolved, combined exact-tree gate pending. This does not close photographic master, full gait, tack, teams or occupied acceptance. Durable evidence: [chicago-evidence checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/1caeab0e19f3386980b6387791c7ec96733f8d4e/evidence/horse-pr1244-integration-2026-10-23).
