@@ -1,7 +1,7 @@
 ---
 id: T-3046
 title: Glessner's rock-face relief by course and the cupola's coursing: Taylor 2135's high courses throw a lower-lip shadow 1.32 times the low courses', the render's 0.95 (T-3026's reading), so deepen the high courses' crown over the low ones' until the render's ratio reads the photograph's through the same camera, lay the stable cupola's shaft and pigeon-hole tiers in the rock-faced courses the Cornell print shows, rebake, and close the course-relief items in Taylor 2135, HABS 13, 14, 16 and 17 and the Cornell view (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3026
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1236
 claimed_by: run 10/23/2026, 5:36:38 AM CT
 blocked_on: null
 needs_bake: false
