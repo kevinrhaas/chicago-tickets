@@ -1,7 +1,7 @@
 ---
 id: T-3022
 title: Navigator: fold the building card's research into Inspect behind an Expert research setting
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-22
-closed: null
+closed: 2026-10-23
 pr: 1228
 claimed_by: run 10/22/2026, 11:52:55 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T05:34:54Z
 claimed_run: null
 claimed_at: 2026-10-22T16:52:56.532Z
 decision: null

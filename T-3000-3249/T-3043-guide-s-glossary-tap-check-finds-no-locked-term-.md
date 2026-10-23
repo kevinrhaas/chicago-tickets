@@ -1,7 +1,7 @@
 ---
 id: T-3043
 title: Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-state: blocked-tech
+state: open
 epic: META
 requested_by: loop
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-10-22
 closed: null
 pr: 1227
 claimed_by: run 10/22/2026, 9:04:47 PM CT
-blocked_on: T-3022
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39886206584
@@ -39,3 +39,5 @@ that now exists), and the T-2662 smoke line passes at both viewports. The tap in
 not both open the tip and the app.
 
 **2026-10-23:** T-3022 (PR 1228, the Navigator thread) fixes this, and mobile part 12 passes with it. Withdraw T-3043 as a duplicate once 1228 is on dev.
+
+**Unblocked 2026-10-23:** T-3022 merged (PR #1228); this took its place in the queue. The block read: T-3022
