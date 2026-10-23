@@ -1,7 +1,7 @@
 ---
 id: T-3062
 title: 1811 Prairie's bay stone gable to the 1888 plate: its apex, lights and pinnacles about 10 px (0.25 m) north to the plate's x 196-197 and the pinnacles carved (the south one under a scaled dome, the north under a moulded block)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3051
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 3:11:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39917130596
+claimed_at: 2026-10-23T08:11:57.601Z
 decision: null
 decision_answer: null
 ---
