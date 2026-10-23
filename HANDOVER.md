@@ -1,3 +1,15 @@
+# Latest update — 2026-10-23, 08:26 UTC
+
+PERSON writer6155/PID2455982 is FINISHED/FAIL at08:21:43Z/710.307s. Exactly1/1053steps failed: externalticketBOARD.md/tickets.json stale afterROOTupdated8ticketprogressbodies midgate. Other1052steps/changelog/IDsPASS. No commit orpush; primaryHEAD476/MERGEa22/stagedtree8eb unchanged. ROOTregenerated canonicalboard and ran SAMEticketcheck --inherited-warn, actualPASS. T3056queue-titlefault onlyinheritedWARN, neverfailurecause. Do not concatenateold1052passes+newtargetPASS into fabricatedfullPASS; finalrequiredpreflight stillneeded. Avoidbody/claim mutationsduringnextgate unlessbeforecheckandboardcoordinated. Sourceproofbbb5003b contains ALL101files/rawfailure/actualderive/writer proof and is backedup in currentcheckpoint. HeavylaneFREE.
+
+ROOT decision: make already-combined PERSONPR1175 the primaryDEVdelivery. All49vehiclepayload/runtimefiles are exacta22;54/63wholevehiclepaths exact,9shareddocs/licenses/generated/check/smokefiles carry legitimatehumancontent. Do NOT claimwhole63byteidentity. Keep1213OPENuntilactual1175DEVmerge+strictpayload/semanticsharedcontainment verified, then closeassupersededtruthfully. FreshGETDEVstill29785;1175head476/open/NON-DRAFT. PersonagentpreparesSOURCEONLY19-path513→29785binarydelta application intoexistingmidmerge8eb, honestactualparents[476,a22], preciseEOFappendunion/222arrayrange and ONEbroadenedexistingT1789pendingchangeloganchor ≤6items. No appmutationyetfornewdelta; sourcebackup avoidslosingold8eb. Gateonlyfinalcombinedtree afteractualcanonicalconflictsresolve; no automaticolder-treegate retry. This saves duplicatevehicle/personderive+gatecycles without skippingrequiredchecks.
+
+ActualstandingGLBexport b479442cb03ac46eb13c19da15a79cdfaf28dbdf356b116f78de7ce7ecdc60be/3783600B,13tracks/65keys/12s,exportPASS08:08:44.365Z/.254s. Loaded129checker sourceunderprep; noactualrun. ActualV17failurecapsuleba40287a saved; acceptedstandingV16unchanged. Traceindependentchecker3b035802/spec104830e8 ROOTfullsource/inputhash/ASTreviewPASS, heldforone20srun. V8canvascapture source3e4c9a85 ROOTreview/hash/AST/JSsyntaxPASS, UNBOUND/unreleased; needsnextactualcommittedpushedpublishedsource. PriorcapturefailuresstayFAIL.
+
+Claims/laps still06:06–06:08 timestamps, renewbefore09:05/09:08. Sincefirstpersonwriterclosed, ROOTmayrenewownfixedCAS andbindfuturewriter tonewleases. Rootsolecanonicalwriter; agentpersonsoleprimaryappwriter; agentcarriagevehiclemidmerge preserved/held. Sourcecheckpoint: evidence/parked-vehicles-2026-10-23/checkpoint-complete-combined-source-and-gate-failure/.
+
+---
+
 # People and transport handover — 2026-10-23, 08:12 UTC
 
 ## Current state — supersedes older active snapshots
