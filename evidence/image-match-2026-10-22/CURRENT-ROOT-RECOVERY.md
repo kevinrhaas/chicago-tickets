@@ -1,5 +1,13 @@
 # Newest root recovery pointer
 
+Latest [closed carried-capacity V2 adoption and exact native identity proof](capacity-policy-history-20261023T134513Z/RECOVERY.md) preserves the initial diagnosis/adopted freeze, explicitly superseded V1, reviewed V2 patch, actual six native build/check/self-test PASS logs and independent output review. All22 households/157 people/52 seats and quota/fill counters remain exact; current37 physical vacancies/215 ordinary beds occupied/220 occupants/5 above ordinary/net32/remaining authorization32 are distinguished. Sequential occupancy consumes remaining authorization32→27→22; capacity re-cuts do not replenish it. Order-book JSON is byte-exact; Markdown output is inventoried.
+
+Final root refresh/full M strict preflight and exact-final-head acceptance remain PENDING. No live root outputs or running gate logs were captured. Historical V1 light checks did not cover future authorization consumption and must not be treated as adopted. Original image cases remain open/differs. The earlier complete-byte recovery and subsequent ordered source/proposal packages remain below.
+
+## Earlier immutable recovery history
+
+# Newest root recovery pointer
+
 Latest [closed focused M repairs and Wolf/lighthouse UNRUN proposals](focused-M-repairs-Wolf-LH-next-UNRUN-20261023T125045Z/RECOVERY.md): focused version/localstack/rights/lodging/isolation checks pass, but prior fullMpreflight remainsFAIL6of1056; freshderivation/fullrerun pending. Exact six repairfiles plus binaryprefix-preservingdocsuffix are recoverable over74bcd436+a63b479e. No geometry/sourcecamera change.
 
 Owner-confirmed Wolf262-file next and lighthouse25-file shaft next are UNAPPLIED/UNRENDERED; official81/25familyrefresh and actual reviews stillowed. No livejail/Hogan/root files captured or completePASS/modelmatch claimed.
