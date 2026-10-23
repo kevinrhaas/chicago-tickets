@@ -7,13 +7,15 @@ to clean 05f6, rather than a 05f6 mirror tag. Exact-head CI and all ten smoke-ru
 conclusions remain unverified here. A broader prerequisite PR may supersede #1229;
 no auto-merge helper should run. See [updated Hogan recovery](../hogan-first-rebuild/RECOVERY.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The sixteen archives
+one M plus S prerequisites. Original image gates stay open. The nineteen archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **2026-10-23 05:49:10 UTC**, version `20261023T054910Z`.
-All prior twelve archives remain unchanged. This save adds the final stashed frame
-integration WIP, Beaubien and jail metadata packages, and the isolated May1844
-church prototype. The earlier manifests and file inventories remain available.
+Latest immutable checkpoint: **2026-10-23 06:30:23 UTC**, version `20261023T063023Z`.
+All prior sixteen archives remain unchanged. This save adds the final Hogan
+continuation, third Tremont arch/entry preview and separate roof-flag app contract.
+The published Hogan state checkpoint at fe6634 remains untouched. The running
+church 1835 study is excluded until its final handoff. Earlier manifests/inventories
+are retained.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -46,8 +48,11 @@ versioned name; later saves must retain these names and add a new version.
 | [T-2378-metadata](T-2378-metadata--METADATA_ONLY_NO_MESH_DELTA--20261023T054910Z.tar.gz) | 35,691 | 0.036 | METADATA_ONLY_NO_MESH_DELTA — Three-file identity/date/source prose correction; unchanged resolved mesh inputs and inferred grade; geometry match remains unresolved |
 | [T-2380-metadata](T-2380-metadata--METADATA_ONLY_RIGHTS_HOLD--20261023T054910Z.tar.gz) | 2,121,931 | 2.122 | METADATA_ONLY_RIGHTS_HOLD — Withdraws unsupported detailed-image public-domain claim; catalogue text-only source; unchanged mesh recipe/grade; geometric proposal stays held unbaked |
 | [T-2384-prototype](T-2384-prototype--NONCANONICAL_MAY1844_DIFFERS--20261023T054910Z.tar.gz) | 1,870,663 | 1.871 | NONCANONICAL_MAY1844_DIFFERS — Pinned isolated May 1844 chapel study and actual engraving comparison; no July 1835 phase/scene/manifest changes or accepted image gate |
+| [T-2377-continuation](T-2377-continuation--REVIEWED_DIFFERS_LOG81_OVERLAY--20261023T063023Z.tar.gz) | 9,435,662 | 9.436 | REVIEWED_DIFFERS_LOG81_OVERLAY — Reviewed frozen overlay after log-combined and Miller boarding refinement; actual dark-door/hatch/shorter-stack comparison differs; all 81 official recipes need rebuild; original T-2377 remains open |
+| [T-2385-third](T-2385-third--REVIEWED_DIFFERS_FRAME23--20261023T063023Z.tar.gz) | 6,536,435 | 6.536 | REVIEWED_DIFFERS_FRAME23 — Final third Tremont arch/entry and actual runtime-flag diagnostic; applies after combined/gable/durable tests; official 23-family integration still required; comparisons differ |
+| [T-2385-roof-flag-anchor](T-2385-roof-flag-anchor--APP_CONTRACT_REVIEWED_DIFFERS--20261023T063023Z.tar.gz) | 423,591 | 0.424 | APP_CONTRACT_REVIEWED_DIFFERS — Separate app anchor/compiler/validator contract and first opt-in; pair consumer with record/sidecar; actual cloth proof in T-2385-third; full app/mobile/confidence QA remains |
 
-All sixteen archives are below 95 MB. The original log snapshot retains its immutable
+All nineteen archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -60,6 +65,44 @@ frame tests archive has nine passing focused tests and four deliberate-fault pro
 its local generator/data symlinks are preserved as links and are not patch content.
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
+
+## Newly finalized continuation packages
+
+**T-2377-continuation** is a three-file overlay on the exact future log baseline,
+after the combined log proposal and Miller visible-boarding refinement. It does
+not apply directly to the currently unmodified log modules. The actual pinned
+45,616-byte/470-triangle preview and controlled committed-before comparison are
+retained: dark framed door recess, reconstructed boarded hatch proxy and shorter
+stack. Both comparisons remain **differs**. Existing footprint/date/use/stations
+and dimensions stay bounded as documented. Append the liberty centrally; all 81
+family recipes require the official regeneration, although only Hogan was rebuilt
+in this preview. Its baseline is the frozen 6156 Hogan asset, not a claim that an
+unbuilt continuation exists on current 05f6 or in the broader integration branch.
+
+**T-2385-third** applies after the final combined frame proposal, gable cladding
+and durable tests. It preserves an opaque arch and broad entry outlines without
+inventing legible sign text or claiming glazing/radial bars. Actual standard and
+runtime-flag comparisons, source credits, executed-code freeze, material/confidence
+and default/GLB contracts are included. The new master is 440,624 bytes/5,504 triangles;
+GreenTree/Sauganash match their final-gable preview bytes. Official 23-family
+integration, sidecars/licences and app/full gates remain parent-owned.
+
+**T-2385-roof-flag-anchor** is a separate app extension. Apply the flag-layer patch
+and its actual first record opt-in/compiled sidecar together, with the opt-in after
+the third Tremont record. Its three explicit runtime fields are read by actual JS
+and the bounded compiler/validator contract. New app geometry is not disguised as
+an archetype CONSUMED field or a record-only omission. The actual diagnostic uses
+proposed flags.js/createFlags and one reconstructed 24-star cloth at the spar head,
+not baked cloth or a substituted flag algorithm. Its breeze makes the cloth nearly
+edge-on rather than source-left: the verdict stays **differs**. Full app/mobile/
+confidence-view checks remain, and the cloth interval does not shorten the hotel
+phase. The actual proof is inside the third-Tremont package; restore both packages.
+
+These are finalized research/proposal packages, not accepted matches or proof of
+an official family bake. No original ticket is closed. Existing source/date,
+rights and metric reconstruction bounds remain. The running church 1835 package
+is deliberately not captured. The earlier Hogan state checkpoint and all prior
+archive payloads are unchanged.
 
 ## Final frame integration WIP and Hogan repair
 
@@ -153,20 +196,22 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T054910Z.json)
+- [Latest combined manifest](MANIFEST--20261023T063023Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
+- [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
 - [Original nine-package inventory](ARCHIVE-FILES--20261023T053415Z.json)
-- [Three follow-up inventories](ARCHIVE-FILES--20261023T053752Z.json)
-- [Four final WIP/metadata/prototype inventories](ARCHIVE-FILES--20261023T054910Z.json)
+- [First three follow-up inventories](ARCHIVE-FILES--20261023T053752Z.json)
+- [Four WIP/metadata/prototype inventories](ARCHIVE-FILES--20261023T054910Z.json)
+- [Final continuation/roof inventories](ARCHIVE-FILES--20261023T063023Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All sixteen SHA256SUMS](SHA256SUMS--20261023T054910Z.txt)
+- [All nineteen SHA256SUMS](SHA256SUMS--20261023T063023Z.txt)
 
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T054910Z.txt
+sha256sum -c SHA256SUMS--20261023T063023Z.txt
 ```
 
 | Archive | SHA256 |
@@ -187,3 +232,6 @@ sha256sum -c SHA256SUMS--20261023T054910Z.txt
 | `T-2378-metadata--METADATA_ONLY_NO_MESH_DELTA--20261023T054910Z.tar.gz` | `970fc2313ca41a834e269145a70f10e7f1a637e2c304e5b662de309f4fa84032` |
 | `T-2380-metadata--METADATA_ONLY_RIGHTS_HOLD--20261023T054910Z.tar.gz` | `d8c317a5e0150e501a2f329149f760049149980a9e596ccf3e98de6e9bbc675c` |
 | `T-2384-prototype--NONCANONICAL_MAY1844_DIFFERS--20261023T054910Z.tar.gz` | `596bb00c7bd5df77dbba3b83f05141bdca877ff7615bcd93b09e0233e130a10f` |
+| `T-2377-continuation--REVIEWED_DIFFERS_LOG81_OVERLAY--20261023T063023Z.tar.gz` | `5bac73b1a247cc5e0d05ff71c79bee8a0c574c32ea8ccfbaa6a6b104f47cb79f` |
+| `T-2385-third--REVIEWED_DIFFERS_FRAME23--20261023T063023Z.tar.gz` | `bd8d9b9485440d960a2d83cb9f50c71d6c4c92de9cdfcf0795ad99fe8ba05b1c` |
+| `T-2385-roof-flag-anchor--APP_CONTRACT_REVIEWED_DIFFERS--20261023T063023Z.tar.gz` | `9de1acc8b9a41c4418dd137f3c85f4f41853a146d18817af55861bf14bcf1cfc` |

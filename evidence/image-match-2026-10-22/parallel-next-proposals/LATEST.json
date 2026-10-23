@@ -1,13 +1,16 @@
 {
-  "checkpoint_utc": "20261023T054910Z",
-  "manifest": "MANIFEST--20261023T054910Z.json",
-  "file_inventory": "ARCHIVE-FILES--20261023T054910Z.json",
-  "sha256sums": "SHA256SUMS--20261023T054910Z.txt",
-  "previous_checkpoint_manifest": "MANIFEST--20261023T053752Z.json",
+  "checkpoint_utc": "20261023T063023Z",
+  "manifest": "MANIFEST--20261023T063023Z.json",
+  "file_inventory": "ARCHIVE-FILES--20261023T063023Z.json",
+  "sha256sums": "SHA256SUMS--20261023T063023Z.txt",
+  "previous_checkpoint_manifest": "MANIFEST--20261023T054910Z.json",
   "previous_file_inventories": [
     "ARCHIVE-FILES--20261023T053415Z.json",
-    "ARCHIVE-FILES--20261023T053752Z.json"
+    "ARCHIVE-FILES--20261023T053752Z.json",
+    "ARCHIVE-FILES--20261023T054910Z.json"
   ],
-  "archives_total": 16,
-  "frame_integration_state": "FRAME-INTEGRATION-STATE--20261023T054910Z.json"
+  "archives_total": 19,
+  "frame_integration_state": "FRAME-INTEGRATION-STATE--20261023T054910Z.json",
+  "protected_hogan_checkpoint": "fe6634bdde80afb87cfe2d1927861dd157007bad; all files under hogan-first-rebuild remain unchanged",
+  "running_church_1835_excluded": true
 }
