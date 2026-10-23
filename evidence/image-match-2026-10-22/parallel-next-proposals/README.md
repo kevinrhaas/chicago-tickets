@@ -1,11 +1,12 @@
 # Parallel image-match proposal recovery
 
-**Later Hogan state checkpoint:** code head `05f6b886e5a31f17ec21e743f945cc4a89abc745`
-has strict local preflight PASS, a settled two-lap producer and both targeted QA
-views PASS. Their mirror build tag remains 6156; parent confirms content equivalence
-to clean 05f6, rather than a 05f6 mirror tag. Exact-head CI and all ten smoke-run
-conclusions remain unverified here. A broader prerequisite PR may supersede #1229;
-no auto-merge helper should run. See [updated Hogan recovery](../hogan-first-rebuild/RECOVERY.md).
+**Latest independently finished Hogan integration:** code head
+`50b6b0fe0ce661d513988ef913f296391d1c2bea` has official strict local preflight
+PASS1049 plus changelog/IDs. All ten exact-head workflows were still in progress
+at the immutable snapshot; later success and merge are not inferred. Historical
+05f6 ORB failure and first local queue failure remain preserved. Root owns the
+lap; original T-2377 and the sourceS gate are separate and open. See
+[the immutable50b6 evidence bundle](../hogan-pr1229-50b6-checkpoint-20261023T094744Z/README.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
 one M plus S prerequisites. Original image gates stay open. The thirty-two archives
 below remain immutable at their own capture dates.
