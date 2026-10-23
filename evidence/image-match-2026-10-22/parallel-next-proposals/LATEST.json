@@ -1,6 +1,9 @@
 {
-  "checkpoint_utc": "20261023T053415Z",
-  "manifest": "MANIFEST--20261023T053415Z.json",
-  "file_inventory": "ARCHIVE-FILES--20261023T053415Z.json",
-  "sha256sums": "SHA256SUMS--20261023T053415Z.txt"
+  "checkpoint_utc": "20261023T053752Z",
+  "manifest": "MANIFEST--20261023T053752Z.json",
+  "file_inventory": "ARCHIVE-FILES--20261023T053752Z.json",
+  "sha256sums": "SHA256SUMS--20261023T053752Z.txt",
+  "previous_checkpoint_manifest": "MANIFEST--20261023T053415Z.json",
+  "previous_file_inventory": "ARCHIVE-FILES--20261023T053415Z.json",
+  "archives_total": 12
 }

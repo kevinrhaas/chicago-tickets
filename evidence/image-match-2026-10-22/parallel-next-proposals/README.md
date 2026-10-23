@@ -1,6 +1,8 @@
 # Parallel image-match proposal recovery
 
-Latest immutable checkpoint: **2026-10-23 05:34:15 UTC**, version `20261023T053415Z`.
+Latest immutable checkpoint: **2026-10-23 05:37:52 UTC**, version `20261023T053752Z`.
+The original nine archives from `20261023T053415Z` remain unchanged; three final
+follow-up packages are added in this version.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -26,14 +28,38 @@ versioned name; later saves must retain these names and add a new version.
 | [T-2380-andreas-pd](T-2380-andreas-pd--HOLD_UNBAKED--20261023T053415Z.tar.gz) | 7,098,774 | 7.099 | HOLD_UNBAKED — Independent1884public-domain page evidence; does not clear held detailed engraving or identify/date depicted rear core forJuly1835 |
 | [T-2380-next](T-2380-next--HOLD_UNBAKED--20261023T053415Z.tar.gz) | 26,126 | 0.026 | HOLD_UNBAKED — Concrete held unbaked geometry proposal;do not apply,bake,derive or append liberty until rights and identity/date bounds resolved |
 | [offscene-phase-audit](offscene-phase-audit--AUDIT_ONLY_UNEXECUTED_WRAPPER--20261023T053415Z.tar.gz) | 5,221 | 0.005 | AUDIT_ONLY_UNEXECUTED_WRAPPER — Pipeline audit and standalone exact-phase wrapper; no later phase/build/scene or accepted match created |
+| [log-boarding-refinement](log-boarding-refinement--REVIEWED_DIFFERS_REBUILD81_REQUIRED--20261023T053752Z.tar.gz) | 10,562,457 | 10.562 | REVIEWED_DIFFERS_REBUILD81_REQUIRED — Final Miller visible-joint overlay/cumulative patches and exact-camera capture; only Miller is fresh, the other 80 copied recipes are stale; official 81-master family rebuild required |
+| [frame-durable-tests](frame-durable-tests--FOCUSED_TESTS_PASSED--20261023T053752Z.tar.gz) | 192,714 | 0.193 | FOCUSED_TESTS_PASSED — Nine focused durable tests and four mutation proofs passed; proposed test/check.sh patch; parent retains full-gate ownership |
+| [hogan-smoke-investigation](hogan-smoke-investigation--STALE_ORACLE_DIAGNOSED--20261023T053752Z.tar.gz) | 794,518 | 0.795 | STALE_ORACLE_DIAGNOSED — Exact 6156a0367 failure:195 literal IDs versus 222 valid 1904 records; minimal 27-ID repair preserves isolation assertions; new-head full gate and smokes pending |
 
-All nine archives are below 95 MB. The combined log snapshot retains its original
-immutable candidate and run `20261023-050224-069556`; active `boarding-refinement/`
-is deliberately excluded and needs a separate later checkpoint when ready. Its
-review honestly records Miller boarding as too faint. The frame-gable patch is
-incremental over frame_tavern-combined, and the two bridge patches are alternatives
-(cumulative versus delta), not a pair to apply together. Read each package's
-handoff and source/date limits before integrating.
+All twelve archives are below 95 MB. The original log snapshot retains its immutable
+candidate and run `20261023-050224-069556`, including the honestly too-faint first
+Miller joints. Its separately completed `log-boarding-refinement` archive now
+preserves the final readable-joint comparison, overlay and cumulative alternatives.
+Choose exactly one applicable patch route; do not apply both cumulative variants.
+Only Miller was rebuilt in that follow-up; the other 80 copied recipes are stale
+for its changed helper, so all 81 family masters need the official batch rebuild.
+
+The frame-gable patch is incremental over frame_tavern-combined. The new durable
+frame tests archive has nine passing focused tests and four deliberate-fault proofs;
+its local generator/data symlinks are preserved as links and are not patch content.
+The two bridge patches are alternatives (cumulative versus delta), not a pair to
+apply together. Read each package's handoff and source/date limits first.
+
+## Hogan smoke repair checkpoint
+
+At 05:37:52 UTC, Hogan PR #1229 remains blocked by the stale 1904 expected-ID literal:
+195 expected versus 222 valid same-head scene records. All 27 omitted Indiana Avenue
+IDs originate in T-3009/PR#1198; no 1835 leak was found. The archive preserves the
+minimal 27-ID oracle correction and proof executing the unchanged assertion,
+including missing-ID, extra 1835-ID, prohibited-layer and registry-count failures.
+This is no blanket acceptance of additional records and no relaxation of isolation.
+
+The parent will finish/checkpoint the ordered frame producer, switch to Hogan,
+apply or adapt the repair, and run full preflight plus the relevant smokes on the
+new exact head before merging. Those future checks are **not claimed passed** by
+this evidence save. The archived source snapshots, captured exact-head findings
+and regression proof remain recovery evidence if the live branch moves.
 
 **T-2380: HOLD_UNBAKED applies to all three jail recovery packages.** The detailed
 Keystone/Tribune-derived source remains `check_required`; do not apply the held
@@ -57,7 +83,8 @@ Every archived regular-file payload was read back and verified against that sour
 hash. Tar members use relative package paths. Symlinks are stored as links and were
 **not dereferenced**. Node dependencies, Blender installations/configuration,
 Python caches, the abandoned log run, and superseded wrong-seed frame renders are
-excluded. Actual current proof, paired source/model renders, patch/source credit
+excluded. The original log archive excludes its follow-up child, which is now
+retained independently. Actual current proof, paired source/model renders, patch/source credit
 and rights findings are retained. `ARCHIVE-FILES` lists every retained file hash
 and link target; `MANIFEST` records exclusions, file counts and archive hashes.
 Some original receipt inventories mention intentionally omitted cache/superseded
@@ -71,14 +98,16 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest manifest](MANIFEST--20261023T053415Z.json)
-- [Retained file inventory](ARCHIVE-FILES--20261023T053415Z.json)
-- [SHA256SUMS](SHA256SUMS--20261023T053415Z.txt)
+- [Latest combined manifest](MANIFEST--20261023T053752Z.json)
+- [Original checkpoint manifest](MANIFEST--20261023T053415Z.json)
+- [Original nine-package retained file inventory](ARCHIVE-FILES--20261023T053415Z.json)
+- [Three follow-up retained file inventories](ARCHIVE-FILES--20261023T053752Z.json)
+- [All twelve SHA256SUMS](SHA256SUMS--20261023T053752Z.txt)
 
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T053415Z.txt
+sha256sum -c SHA256SUMS--20261023T053752Z.txt
 ```
 
 | Archive | SHA256 |
@@ -92,3 +121,6 @@ sha256sum -c SHA256SUMS--20261023T053415Z.txt
 | `T-2380-andreas-pd--HOLD_UNBAKED--20261023T053415Z.tar.gz` | `c8167ede8fd0f1d28bf385cf3229534f555b0f3b30204b9c631b9eccba5a2446` |
 | `T-2380-next--HOLD_UNBAKED--20261023T053415Z.tar.gz` | `fe27524db40fd3b05c6237e43d432ebf9bc98f0fa90a13be3d6ce359706658a1` |
 | `offscene-phase-audit--AUDIT_ONLY_UNEXECUTED_WRAPPER--20261023T053415Z.tar.gz` | `b8c1a69a2f04943cddd137cac2750f96ff180ea360189d1d2cbd6d75ad68ee9d` |
+| `log-boarding-refinement--REVIEWED_DIFFERS_REBUILD81_REQUIRED--20261023T053752Z.tar.gz` | `2abaa540888e825a2ebbf3d1f38fc8e49e8f6961acdc09a3117a2b1724547d91` |
+| `frame-durable-tests--FOCUSED_TESTS_PASSED--20261023T053752Z.tar.gz` | `f6d58c024fa1929030b4e3db36067ca47af211559e732b5011d614f76b7ef1dc` |
+| `hogan-smoke-investigation--STALE_ORACLE_DIAGNOSED--20261023T053752Z.tar.gz` | `ace7f37d3ea5b62f45165543f4464e174e214db620a93c3b51bd0ea5451b1296` |
