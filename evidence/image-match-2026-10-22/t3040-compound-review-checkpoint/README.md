@@ -1,12 +1,12 @@
 # T-3040 recoverable checkpoint
 
-## Latest checkpoint: code pushed, PR open
+## Latest checkpoint: merged into dev
 
 Code commit `7c1d95a801d18ba66f8ced83cb211bb0522f68d7` is pushed on
 `steward/t3040-fort-reference-groups`; [PR #1218](https://github.com/kevinrhaas/chicago/pull/1218)
 targets `dev`. Local preflight passed all 1,047 checks. Published smoke slices
 passed 31 mobile and 107 desktop checks; the full renderer suite was not run.
-GitHub CI and merge were pending at this checkpoint. Read `latest.json` for the
+GitHub CI passed and PR #1218 merged into `dev` at `e81cb09c3b9273c2989a891982101acbb814ca19` on 2026-10-23T00:35:18Z. The integration lock was released. Start from current `origin/dev` for the remaining model work. Read `latest.json` for the
 exact state and retained validation logs. Prefer the pushed code to the older WIP
 archive below; never apply that archive over newer work.
 
