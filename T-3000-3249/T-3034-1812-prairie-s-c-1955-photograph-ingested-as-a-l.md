@@ -1,7 +1,7 @@
 ---
 id: T-3034
 title: 1812 Prairie's c. 1955 photograph: ingested as a link-only source, its camera solved into data/reference_views/wheeler_house_1812_prairie/ and its match record written, with the south flank, the south stack's place and the tall north stack it shows read and built or ruled later than 1904 (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2545
 opened: 2026-10-22
-closed: null
+closed: 2026-10-23
 pr: 1233
 claimed_by: run 10/23/2026, 2:20:58 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-23T14:20:39Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/39915716074
 claimed_at: 2026-10-23T07:20:59.432Z
 decision: null
