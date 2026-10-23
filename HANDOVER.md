@@ -4,6 +4,16 @@ This is the current control state. Older detailed history is preserved in Git th
 
 ## Newest actual control state — 2026-10-23, 00:48 UTC
 
+### 01:43 UTC newest source/ownership checkpoint
+
+PUSHED1175source64b126d52b49cb3576c9921b82bd2a7cf2cef802/tree516b4d7ca0950603451fa4bcb938096ec8c0b76b/parents3f+b6:full1048/381PASS697s, actualHEADchecks/postpublish/validatesitePASS01:32:14; CLEAN. Capsulefe944f40 nowcanonical. Report+warrantedpushcontextsSUCCESS, dependentbake/smokepublishSKIP; PRnormal3notstartedbecauseDIRTY. NotallnormalfourPASS.
+
+ActualDEV58fd2216a9312295cefbcc08c301852db09ea199 adds17summaryUI/data/compiler/schema/testpaths, no geometry/actor/placement/material/globalSourcesindex change. Solemergeconflictduplicate111470COMMENT; choosingreviewedrootexplanationyieldssmokeENTIREbyteidenticald5. Sourceindex412. Audit18bd10cf nowcanonical.
+
+PRIMARYagentdev_date_delta_audit nowownsONE58fullpreflight52910/PID2165031 START01:40:12UTC, stagedc9d944caaca53cce404e8706e0f92534fd8e52a3/futureparents64+58/16paths/0Uorunstaged/63protectedexact64. No extrarederive. CheckACTIVE/no newcommit. AgentauthorizedactualPASScommitpush/HEAD/postpub thencoherentone4smokebatch(3–4+14desktop/mobile)strictnormalCI andordinaryheadpinnedDEVmergeonlyallapplicablePASS/freshreviewedbase. FourPOSTstill0. NewbaseorfailureHOLD/report, no blindreruns. Rootleasec8f78d53held/origin-dev8249frozen. Localheavyexclusiveuntilpostpubterminal.
+
+Carriageagent's18fileacceptedW01+b6intakeisHELDstagedinexistingcheckoutwith2derivedU;0be5alreadygreen/pushed. Geometrybudgetagentunchanged11706candidatefinallynative/KhronosPASS01:39:53/1.056s after3preservedpreparation/overstrictguardFAILs. Nearbytes/42nodes/7mats/8staticnamedtargets+13runtimeanchors/physicalfeatures/conservativeproxycontainmentPASS; rear-mudguardtightboundshrinks5.755mm, originalnearproxyretained. 8fixednativePNGpacketbeingpreparedSOURCEONLY, browserHELDuntilprimary58postpubterminal/rootrelease. Noappapply/photoworldacceptance. All8claimsrenewed00:49,next03:49.
+
 ### 01:18 UTC active verification ownership — newest
 
 PrimaryONEfullpreflight61928/PID2117372 started01:15:47 onstagedtree516b4d7ca0950603451fa4bcb938096ec8c0b76b; directfutureparents[3f,b6],659paths,0unmerged/unstaged. CanonicalauthoredEOFresolution/4derivedconflicts/countrepairtail/publisherPASS. Liberty692; finalSources412 (DEV410+PR2Mountreferences).62protectedexact+expectedHogansmoked5. GateACTIVE, sourceUNCOMMITTED. dev_date_delta_audit ownsfullend-to-endactualPASScommit/push/HEAD/postpub thenoneimmutable4cellsmoke+strictactualnormalCIcollection, ordinaryHEADpinnedDEVmergeONLYallapplicablePASS/freshreviewedb6ortrivialfeed/docs-only. Failure/newbasegeometryUIhold/report. No broadticketdone. Rootleasec8f78d53held. Notifyrootonlocalpostpubterminalreleasinglane.
