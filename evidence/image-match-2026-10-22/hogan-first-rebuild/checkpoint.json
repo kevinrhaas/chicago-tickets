@@ -1,14 +1,14 @@
 {
   "ticket": "T-2377",
-  "state": "WIP: final geometry/source diff independently reviewed; latest fetched dev incorporated; dataset and focused checks pass; mobile app/card assertions pass; desktop app capture using standard90second budget in progress; final full preflight not yet run; no code commit/PR",
+  "state": "WIP: dataset/focused checks and independent diff review pass; mobile and desktop published app/card checks PASS; final full preflight in progress; no code commit/PR yet",
   "branch": "steward/t2377-hogan-picture-match",
   "base": "575b4968569283177e36e92878b2a84c5554068e",
   "patch_sha256": "115445ed54d5b171090e9164bf6caef8980bc461cd4805467e84c4139f6b5fcd",
   "build": "verified pinned Blender4.5.3; --only hogan_store; no generator changes",
   "derivative": "pinned glTF-Transform4.5.0 packages; npm cache /workspace/shared/npm-cache",
   "original_image_match_complete": false,
-  "preflight_log": "/tmp/t2377-model/preflight-final.log",
-  "preflight_session": null,
+  "preflight_log": "/tmp/t2377-model/preflight-final-pass.log",
+  "preflight_session": 3794,
   "photo_comparison": "differs, reviewed",
   "source_credit": "Edgar S. Cameron / Chicago Historical Society; Commons locator plus inspected local surrogate",
   "baseline_models": {
@@ -20,7 +20,8 @@
   "fixture_scope": "only Hogan sign and two crates move off new doorway",
   "workbook_scope": "unrelated workbook serialization differs but all sheet row values are identical; preserve original bytes before code commit",
   "second_preflight": "failed: missing compiled liberty and stale entrance apron; explicit compile_liberties.py and generate_entrances.py now run",
-  "pending_desktop_session": 74431,
-  "pending_desktop_log": "/tmp/t2377-model/card-check-desktop.log",
-  "mobile_app_check": "PASS: attributes, grade, expected review records, zero unexpected loader/network/page errors, credited link, expanded Cameron/CHS Sources citation and viewport"
+  "pending_desktop_session": null,
+  "pending_desktop_log": null,
+  "mobile_app_check": "PASS: attributes, grade, expected review records, zero unexpected loader/network/page errors, credited link, expanded Cameron/CHS Sources citation and viewport",
+  "desktop_app_check": "PASS: rebuilt attributes/grade; exact declared review records; no unexpected loader/network/page errors; credited picture link and expanded Cameron/CHS citation; screenshots inspected"
 }
