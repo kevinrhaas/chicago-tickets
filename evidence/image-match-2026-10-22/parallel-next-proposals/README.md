@@ -8,15 +8,14 @@ at the immutable snapshot; later success and merge are not inferred. Historical
 lap; original T-2377 and the sourceS gate are separate and open. See
 [the immutable50b6 evidence bundle](../hogan-pr1229-50b6-checkpoint-20261023T094744Z/README.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The forty archives
+one M plus S prerequisites. Original image gates stay open. The forty-two archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **20261023T100351Z**. All 39 prior archive payloads remain
-unchanged. Actual roof-tone exports/comparisons were viewed and remain **differs**;
-this supersedes only the prepared tone status. SourceS e41 is committed/pushed with
-strict1049PASS. Parent’s canonically applied M remains uncommitted, with its real
-23-family bake/tail and final gates/QA pending. No current generated outputs or
-running logs were captured.
+Latest immutable checkpoint: **20261023T101439Z**. All 40 prior archive payloads remain
+unchanged. This save adds frozen UNAPPLIED/UNRENDERED Wolf Point physical-L and
+side-entry/site proposals, with exact log81 dependency hashes already archived.
+Completed canonical23 bake/derivation receipts and semantic UV audit are saved
+separately; grouped QA is running and excluded, final M gates remain pending.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -73,8 +72,10 @@ versioned name; later saves must retain these names and add a new version.
 | [T-2385-baked-arch-letters](T-2385-baked-arch-letters--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz) | 3,118,542 | 3.119 | REVIEWED_DIFFERS_CANONICAL_UNAPPLIED — Actual pinned TREMONT reconstructed glyph exports/comparisons reviewed;14tests/24defaultphases/40positionalAPI/namepool proof; guarded adopter and composedQA promotion prepared, browser UNRUN |
 | [T-2385-roof-tone-next](T-2385-roof-tone-next--HISTORICAL_PREPARED_ACTUAL_PREVIEW_UNRUN--20261023T095659Z.tar.gz) | 1,170,332 | 1.170 | HISTORICAL_PREPARED_ACTUAL_PREVIEW_UNRUN — Existing roof_colour enum dark_brown using existing stock;24legacy+viewedglyph defaults/40API/15tests/schema/ledger/rawpool PASS; actualpreview/adoption/QA promotion/browser UNRUN |
 | [T-2385-roof-tone-next](T-2385-roof-tone-next--ACTUAL_REVIEWED_DIFFERS_SUPERSEDES_PREPARED--20261023T100351Z.tar.gz) | 1,004,742 | 1.005 | ACTUAL_REVIEWED_DIFFERS_SUPERSEDES_PREPARED — Actual2pinnedexports+2comparisons agent/parent viewed; darker existingstock roof improves but remains lighterthan source;445040B/5552triangles both, binarymesh exact; official M integration/gates separate |
+| [T-2386-topology](T-2386-topology--UNAPPLIED_PHYSICAL_L_UNRENDERED--20261023T101439Z.tar.gz) | 2,193,330 | 2.193 | UNAPPLIED_PHYSICAL_L_UNRENDERED — Frozen physical concave L over final log81, provisional source fit and1867NYPL proof; analytic projections not renders; no oldparallel trial replay |
+| [T-2386-entry-site](T-2386-entry-site--UNAPPLIED_SIDE_ENTRY_SITE_UNRENDERED--20261023T101439Z.tar.gz) | 6,569,346 | 6.569 | UNAPPLIED_SIDE_ENTRY_SITE_UNRENDERED — Primaryfront_doors contract retained; separate real+X side entry and reconstructed bbox-centre-preserving origin; native light consumers/known4prop collisions explicit; actualpreview/official81bake/QA pending |
 
-All forty archives are below 95 MB. The original log snapshot retains its immutable
+All forty-two archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -87,6 +88,32 @@ frame tests archive has nine passing focused tests and four deliberate-fault pro
 its local generator/data symlinks are preserved as links and are not patch content.
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
+
+## Frozen Wolf Point entry/site and closed canonical23 receipts
+
+[Wolf recovery/dependencies](WOLF-ENTRY-CANONICAL23-RECOVERY--20261023T101439Z.json) preserves the physical concave-L proposal and
+its later native side-entry/site follow-up, both **UNAPPLIED/UNRENDERED**. The final
+log81 helper was already archived; exact frozen dependency hashes were verified
+inside that archive. Its current-checkout rematerialization must preserve newer
+Hogan/sourceS changes. Do not apply the superseded parallel-gable Wolf trial.
+The main front_doors primary+Y contract remains unchanged; a separate descriptor
+reads the actual +X mesh door, wall line, bearing, apron and clearance zone.
+The origin change preserves the old bbox centre as a reconstructed choice, with
+location uncertainty retained. It establishes no surveyed lot/river setback.
+
+Four known current trade-goods instances intersect the proposed body. Regenerate
+normal yard goods, then check actual dimensions/doors/terrain and walker behavior;
+no whitelist or hand movement is supplied. Light point/segment checks omit object
+extents and heightfields. Walker still collides with the solid concave footprint;
+the external entry reader creates no interior doorway passage. An actual isolated
+preview and supported all-81 family bake/derived/fullgate/appQA remain required.
+
+[Closed canonical23 receipt/UV audit](../frame-canonical23-closed-evidence-20261023T101439Z/README.md) records the completed
+actual 23-master bake and dependent commands with exit 0, while grouped QA and final
+M gates remain pending/excluded. Of 20 other legacy masters, 19 are byte-exact; one
+has only 66 changed bytes in unused trim UVs. All actual geometry/material/confidence
+streams and JSON are exact for that control. This bounded semantic proof makes
+no browser/pixel equivalence or exact Blender-cause claim and restores no old asset.
 
 ## Actual reviewed roof tone and completed sourceS gate
 
@@ -447,7 +474,7 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T100351Z.json)
+- [Latest combined manifest](MANIFEST--20261023T101439Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
 - [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
@@ -463,7 +490,7 @@ research cameras to accepted reference views merely to pass a gate.
 - [Church 1835 recovery/date/recipe metadata](CHURCH-1835-RECOVERY--20261023T064034Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All forty SHA256SUMS](SHA256SUMS--20261023T100351Z.txt)
+- [All forty-two SHA256SUMS](SHA256SUMS--20261023T101439Z.txt)
 - [Sixth checkpoint manifest](MANIFEST--20261023T070319Z.json)
 - [New note/trial/log-helper inventories](ARCHIVE-FILES--20261023T084840Z.json)
 - [New closed-package recovery](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json)
@@ -480,10 +507,13 @@ research cameras to accepted reference views merely to pass a gate.
 - [Actual roof-tone file inventory](ARCHIVE-FILES--20261023T100351Z.json)
 - [Actual roof-tone/sourceS recovery](ACTUAL-TONE-SOURCEPASS-RECOVERY--20261023T100351Z.json)
 
+- [Wolf frozen file inventory](ARCHIVE-FILES--20261023T101439Z.json)
+- [Wolf/canonical23 recovery](WOLF-ENTRY-CANONICAL23-RECOVERY--20261023T101439Z.json)
+
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T100351Z.txt
+sha256sum -c SHA256SUMS--20261023T101439Z.txt
 ```
 
 | Archive | SHA256 |
@@ -528,3 +558,5 @@ sha256sum -c SHA256SUMS--20261023T100351Z.txt
 | `T-2385-baked-arch-letters--REVIEWED_DIFFERS_CANONICAL_UNAPPLIED--20261023T095145Z.tar.gz` | `4035d317457a29bd877affc35f4091d3c04a5c0da6bc886f274a5612b1428dad` |
 | `T-2385-roof-tone-next--HISTORICAL_PREPARED_ACTUAL_PREVIEW_UNRUN--20261023T095659Z.tar.gz` | `a432bc50eedd4273efa4f839d2a6bbe6357ca852afd15af662a8e261edad3a0b` |
 | `T-2385-roof-tone-next--ACTUAL_REVIEWED_DIFFERS_SUPERSEDES_PREPARED--20261023T100351Z.tar.gz` | `9dd6e13118f1232006f57ecd3f4c999bd0a4afe7fd875822aeabbe0307db325e` |
+| `T-2386-topology--UNAPPLIED_PHYSICAL_L_UNRENDERED--20261023T101439Z.tar.gz` | `d5a3526ca11c11ce96e357bbf40e1980ba48676a3a962da9acb207fcc6898e34` |
+| `T-2386-entry-site--UNAPPLIED_SIDE_ENTRY_SITE_UNRENDERED--20261023T101439Z.tar.gz` | `c326568d30781230573e2cf5a43b46400a047a202c28b731e03ce72fb0f9cc4a` |
