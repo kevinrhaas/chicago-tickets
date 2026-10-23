@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Checkpoint — 2026-10-23, 05:30 UTC
+
+The original 65-pose diagnostic of the saved iteration40 field ran once and FAILED physical deformation. Mechanics, stance, ground, seams and loop passed; body edge ratios0.628924–1.189715 and areas0.638740–1.256349 exceed the unchanged limits. Runtime2.08s/94.2MiB; child reaped, no solver, retry or model export. The earlier QP certificate failure remains. Capsule0ae5dac0 and raw witnesses are in `evidence/parked-vehicles-2026-10-23/checkpoint-cbb-backup-and-575-intake/`.
+
+Source diagnosis found the lower leg joints held rigid while current skin palettes omit their influence. The next source-only proposal introduces genuine carpus/hock/pastern articulation and adjacent-joint binding. Original source anchors, annotated hoof patches and exact tail rows remain protected; any V10-added pastern-row reclassification must be enumerated explicitly. Reconstructed anatomy/profile inputs are being bounded from actual licensed reference images and rig landmarks. No new numerical run, pose export or activation is authorized yet; photographic/natural gait acceptance remains open.
+
+
 ## Checkpoint — 2026-10-23 04:24 UTC
 
 One smoothingQP nativeconverged status1/40iterations with independently feasiblefield, but inequalitycomplementarity1.02157997e-7 exceeds frozen1e-7. OverallFAIL remains; no tolerancechange/rerun/skinexport. Original65-pose diagnostic sourcepreparation only; no acceptedgait. See current HANDOVER and immutable evidence.

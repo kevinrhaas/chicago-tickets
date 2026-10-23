@@ -1,18 +1,18 @@
-# People and transport work — 2026-10-23 04:45 UTC
+# People and transport work — 2026-10-23, 05:30 UTC
 
-Eight tickets are independently claimed and were renewed at03:41UTC; renew before06:40 if active. Root owns ticket updates. Agents work in separate assigned checkouts or source-only packets. Exact source pins, actual failures, owners and recovery instructions are in [HANDOVER.md](HANDOVER.md).
+Eight tickets are independently claimed, last renewed about03:41UTC. Renew before06:40 if active. Root owns ticket updates; agents use assigned checkouts or source-only packets. [HANDOVER.md](HANDOVER.md) contains exact source pins, raw proof paths and recovery instructions.
 
 | Ticket | Current result | Next delivery |
 | --- | --- | --- |
-| T-1789 | PR1175 source476 is pushed. Local gate, publication and normalCI pass. Current browser matrix has three passes and a desktop scene failure305triangles over the unchanged4.6M cap. | Land the genuinely lighter vehicle replacement if green, then fold actualDEV and requalify. Photographic people remain unfinished. |
-| T-2793 | Root accepted the finer W01 wood as a visible material improvement. Actual native comparisons and fresh pipeline reproduction pass. | Integrating into vehicle1213 with latestDEV; current street views and loading/performance checks remain. Modern CC0 maps do not attest historic maker/species/finish. |
-| T-2794 | Pushed/publishedcbb94c2 full1052/382PASS; exact575integration treeea747ccc now in ONEfullgate (session49579). | Commit/push onactualPASS, then newsourceworld4/normalCI and ordinaryDEV merge. Source/assets unchanged; no photographic closure. |
-| T-2800 | Draft1212 is pushed and locally green; mobile idle/card passes, desktop timing/tail fails due too few delivered frames. | Measure a genuine rendering improvement; preserve all timing/motion assertions. Depends on1175; no full weight shift or walking yet. |
-| T-2803 | LP field is feasible. Native smoothing converged, but one independent numerical certificate failed; actualFAIL is preserved without tolerance changes. | Prepare original65-pose diagnostic of the exact feasible field. Execution remains held; skin, gait and visual acceptance are unproved. |
-| T-2795 | Wheel/steering/hitch and corrected seated-driver source are saved. | Actual harness/doubletree, accepted gait, seated export/support/reins and combined vehicle checks. |
-| T-2796 |503m circuit/controller and reconstructed-shoulder corridor proof are saved, inactive. | Accepted team/driver and swept-clearance/desktop/mobile checks before enabling traffic. |
-| T-2980 | Exact covered-cloth increment from pushedPR1208 is included in the combined vehicle intake; newer terrain proof and two distinct identities remain. | Current combined gate and street qualification. Supersede1208 only when its exact increment lands. |
+| T-1789 | PR1175 source476 is pushed. Local gate, publication and normal CI pass. Its old browser matrix has three passes and a desktop frame305 triangles over4.6M. | Land vehicles if green, then fold actual DEV and qualify the remaining affected scopes. Photographic people remain unfinished. |
+| T-2793 | Finer W01 timber is committed in PR1213 atcbb94c2; native comparisons and reproduction passed. Modern CC0 maps are an optical analogy. | Finish current DEV integration and street-view qualification. Read-only1812 coverage review is also underway. |
+| T-2794 | PR1213 sourcecbb94c2 is pushed/published; full1,052 checks passed. DEV575 merge treeea747ccc is in one full gate, session49579. | Commit/push on actual PASS, then four normal world units, new CI and ordinary DEV merge. No photographic closure yet. |
+| T-2800 | Draft1212 is pushed. Mobile idle/card checks pass; desktop timing/tail check fails with too few delivered frames. | Improve measured rendering performance and preserve timing/motion assertions. Depends on1175; no accepted weight shift or walk. |
+| T-2803 | Original65-pose test of the exact saved field FAILED skin deformation; mechanics and contacts passed. Prior QP failure is retained. | Prepare genuine distal-joint articulation and anatomical skin binding. New source proposal is held; no new numerical run or activation. |
+| T-2795 | Wheel/steering/hitch and corrected seated-driver source studies are saved, inactive. | Harness/doubletree, accepted gait, seated export/support/reins and combined vehicle qualification. |
+| T-2796 |503m circuit/controller and reconstructed shoulder-corridor proof are saved, inactive. | Accepted team/driver, swept clearance and desktop/mobile checks before enabling traffic. |
+| T-2980 | Distinct covered-cloth improvements are committed in combined vehicle sourcecbb94c2. Newer terrain proof and both identities remain intact. | Finish integration and street qualification. Supersede PR1208 only after this exact increment lands. |
 
-T-2792, T-2799, T-2979 and T-2981 are DONE through mergedPR1174. The broad photographic model, harness, rider/driver, moving traffic and boarding/riding tickets stay open until their acceptance is met. No all-three-era completion is claimed.
+T-2792, T-2799, T-2979 and T-2981 are DONE through merged PR1174. Broad photographic models, harness, drivers/riders, traffic and boarding/riding remain open. No all-three-era completion is claimed.
 
-Keep queue bands and order. One local heavy/browser lane at a time; root releases it explicitly. No production promotion, admin merge, workflow change, camera manipulation or budget increase. Green checkpoints may be committed and pushed even if DEV advances; final merges require fresh reviewed source/base/checks/own lease.
+Keep queue bands and order. One local heavy/browser lane at a time. No production promotion, admin merge, workflow change, moved validation cameras or raised budgets. Green source checkpoints are committed and pushed even if DEV advances; final merges require current reviewed proof, source/base/tree and verified own lease.
