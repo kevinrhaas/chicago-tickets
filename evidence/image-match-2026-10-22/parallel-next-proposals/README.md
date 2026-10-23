@@ -7,14 +7,15 @@ to clean 05f6, rather than a 05f6 mirror tag. Exact-head CI and all ten smoke-ru
 conclusions remain unverified here. A broader prerequisite PR may supersede #1229;
 no auto-merge helper should run. See [updated Hogan recovery](../hogan-first-rebuild/RECOVERY.md).
 Original four M frame claims are released; T-3055 (M) + T-3056 (S) are the genuine
-one M plus S prerequisites. Original image gates stay open. The twenty-three archives
+one M plus S prerequisites. Original image gates stay open. The twenty-six archives
 below remain immutable at their own capture dates.
 
-Latest immutable checkpoint: **2026-10-23 07:03:19 UTC**, version `20261023T070319Z`.
-All prior twenty archive payloads remain unchanged. This save adds the final
-self-contained T-3055 and fort selective-integration helpers, plus prepared-only
-browser QA scripts. It captures no live source-S app or midproducer output.
-Earlier manifests and every inspected historical preview remain intact.
+Latest immutable checkpoint: **2026-10-23 08:48:40 UTC**, version `20261023T084840Z`.
+All prior twenty-three archive payloads remain unchanged. This save adds finalized
+post-helper note corrections, the explicitly UNRUN lighthouse width trial and the
+complete final log81 materializer/root 32-input bundle. It reads no canonical app.
+The separate post-Gale source-S WIP is recorded at 88696b; this archive does not
+snapshot or apply it and does not infer current full-gate success.
 These archives preserve concrete patches, source credits/rights findings, copied
 records, actual exported proof and reviewed images from the parallel work. They
 are recovery evidence, not a completed image match or an instruction to apply every
@@ -54,8 +55,11 @@ versioned name; later saves must retain these names and add a new version.
 | [T-3055-selective-integration](T-3055-selective-integration--FROZEN107_INPUTS_UNAPPLIED_KWONLY_API--20261023T070319Z.tar.gz) | 4,896,125 | 4.896 | FROZEN107_INPUTS_UNAPPLIED_KWONLY_API — Final self-contained selective frame helper; all 107 frozen executable/payload/reference inputs retained; ten new fields keyword-only; no real-app apply/full gate; official 23-family refresh remains |
 | [fort-selective-integration](fort-selective-integration--UNAPPLIED_SIX_KWONLY_API_FIX--20261023T070319Z.tar.gz) | 1,226,959 | 1.227 | UNAPPLIED_SIX_KWONLY_API_FIX — Final selective fort helper; six new fields keyword-only, preserving 16 legacy positional arguments and all 25 resolved opt-ins; current-ledger/leaf guards; official 25-family refresh remains |
 | [prepared-browser-qa](prepared-browser-qa--UNRUN_BROWSER_SCRIPTS--20261023T070319Z.tar.gz) | 19,408 | 0.019 | UNRUN_BROWSER_SCRIPTS — UNRUN grouped 12-case and separate source-only browser scripts with expected data/README/checkpoint/helper; no browser result or live source-S snapshot; final source-S gate pending |
+| [T-3055-post-apply-note-review](T-3055-post-apply-note-review--UNAPPLIED_NOTES_CHANGELOG--20261023T084840Z.tar.gz) | 7,732 | 0.008 | UNAPPLIED_NOTES_CHANGELOG — Six guarded note-only corrections and six-item changelog candidate; temporary-copy apply/idempotence PASS; canonical application UNAPPLIED, official bake/app/full gate UNRUN |
+| [T-2373-narrow-trial](T-2373-narrow-trial--UNRUN_WIDTH_TRIAL--20261023T084840Z.tar.gz) | 89,884 | 0.090 | UNRUN_WIDTH_TRIAL — Three-file overlay on final fort-selective payload; reconstructed 3.04 m physical tower and unchanged centre; height consequence disclosed; light contracts PASS, preview runner UNRUN |
+| [log81-materializer](log81-materializer--FINAL05F6_SOURCES_UNAPPLIED--20261023T084840Z.tar.gz) | 6,518,042 | 6.518 | FINAL05F6_SOURCES_UNAPPLIED — Required root helper and 32 frozen proposal inputs plus authoritative 05f6-sourceS-final; UNAPPLIED; fresh current rematerialization and official 81-master rebuild required |
 
-All twenty-three archives are below 95 MB. The original log snapshot retains its immutable
+All twenty-six archives are below 95 MB. The original log snapshot retains its immutable
 candidate and run `20261023-050224-069556`, including the honestly too-faint first
 Miller joints. Its separately completed `log-boarding-refinement` archive now
 preserves the final readable-joint comparison, overlay and cumulative alternatives.
@@ -68,6 +72,53 @@ frame tests archive has nine passing focused tests and four deliberate-fault pro
 its local generator/data symlinks are preserved as links and are not patch content.
 The two bridge patches are alternatives (cumulative versus delta), not a pair to
 apply together. Read each package's handoff and source/date limits first.
+
+## Final note correction, width trial and complete log helper
+
+**T-3055-post-apply-note-review** retains six exact guarded prose corrections and
+an optional six-item changelog. Validate/apply after the main frame helper and
+before the official 23-family bake. Five form notes and the current Research
+prefix are corrected while the full old snapshot is preserved. Relevant values,
+dates/grades/sources and all geometry remain unchanged. Validate-only and an
+isolated temporary-copy apply/idempotence passed; **canonical application is
+UNAPPLIED**, official bake/app QA/full gate UNRUN. Do not edit the frozen main helper.
+
+**T-2373-narrow-trial is UNRUN**, despite passing light reader/geometry contracts.
+Its three-file overlay is on final fort-selective payload, not canonical HEAD or
+the older broad preview. Diameter is reconstructed 3.04 m, physical local bounding
+square 1.28..4.32, with unchanged origin/world centre. Nominal 12.19 m is retained;
+radius-dependent cap/finial makes total height 13.4052→12.84968 m. Fixed-camera
+width predictions are not actual rendered results, and the vertical finial remains
+misaligned. Walker/ShowMe/feet light contracts pass without hidden collision-box
+exemptions. The prepared runner requires parent slot release and read-only runtime
+inputs from the canonical toolchain/source photo/pinned cache. It is a standalone
+proposal/light-proof packet, not an offline runtime environment or completed
+preview. All 25 official fort recipes still need supported feature integration.
+
+**log81-materializer** contains root materialize.py/verify.py, root metadata and
+all **32 frozen proposal inputs**, plus **05f6-sourceS-final/** only. Each input
+was verified inside the archive. Draft/ready/portable outputs are excluded. The
+final combined 14-file proposal is UNAPPLIED; the two review sections are not
+additional patches to apply. Defaults/future-five output parity cover 81 phases,
+four new fields are keyword-only and 20 negative guards pass. All 81 official family
+masters require a supported rebuild; the current materializer did no new bake,
+app QA or full gate. Rematerialize to a new output after frame M and any later
+dev/source changes, inspect conflicts and preserved sourceS/Hogan fields, and keep
+all original image cases open. Do not replay its captured pre-Gale patch blindly.
+
+Source-S's later post-Gale WIP is independently checkpointed at
+[88696b recovery](https://github.com/kevinrhaas/chicago-tickets/blob/88696b88687d26031970100db14522eb15a1038d/evidence/image-match-2026-10-22/sourceS-post-gale-20261023T082611Z/RECOVERY.md).
+The exact jail artwork's 1902 imprint/copyright is now independently verified;
+earlier artwork-rights holds are superseded for that identified work, while the
+historical archives stay untouched and geometry/date/identity questions stay open.
+Parent reports the app frozen pending dev 29785 plus S. The first source gate's one
+loading-fact failure among 1049 checks is real and its focused correction passed;
+a later running preflight was stopped as **SUPERSEDED** for Gale integration,
+not recorded as PASS or a new validation failure. The first bad fact falsely
+asserted no steeple in 1835 as attested; its correction keeps the addition date
+uncertain/inferred from Andreas. The 52-producer follow-up tail settled in 2 laps,
+last unchanged. This save takes no app snapshot.
+[Exact new archive/input hashes and recovery limits](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json).
 
 ## Final selective helpers and prepared browser scripts
 
@@ -109,9 +160,9 @@ performed by the author. No browser was launched for this archive and there are
 no new acceptance results. Parent runs it after final adoption, official build,
 compilation/publishing and shared slot release, then reviews actual screenshots.
 
-Parent reports source-S's prior gate had one stale St Mary loading-fact failure
-among 1049 checks. The card fact and focused checks now pass, while the current
-ordered citation/loading tail and final full gate remain **pending**. This save
+At that earlier helper freeze the parent reported one stale St Mary loading-fact
+failure among 1049 checks, a focused correction and a pending tail/full gate. Later
+post-Gale state is separately recorded above; no later gate success is inferred. This save
 reads/copies no live source-S app files or producer outputs; root will checkpoint
 that source only after the full gate passes. No ticket, claim or app was changed.
 [Exact frozen-input/API/script hashes and recovery status](SELECTIVE-HELPERS-RECOVERY--20261023T070319Z.json).
@@ -288,7 +339,7 @@ paths before running anything. Do not extract over a live model checkout or copy
 filtered fixture manifests over its complete registry. Never promote provisional
 research cameras to accepted reference views merely to pass a gate.
 
-- [Latest combined manifest](MANIFEST--20261023T070319Z.json)
+- [Latest combined manifest](MANIFEST--20261023T084840Z.json)
 - [First checkpoint manifest](MANIFEST--20261023T053415Z.json)
 - [Second checkpoint manifest](MANIFEST--20261023T053752Z.json)
 - [Third checkpoint manifest](MANIFEST--20261023T054910Z.json)
@@ -304,12 +355,15 @@ research cameras to accepted reference views merely to pass a gate.
 - [Church 1835 recovery/date/recipe metadata](CHURCH-1835-RECOVERY--20261023T064034Z.json)
 - [Frame integration state](FRAME-INTEGRATION-STATE--20261023T054910Z.json)
 - [Frame nested untracked inventory](FRAME-WIP-UNTRACKED-INVENTORY--20261023T054910Z.json)
-- [All twenty-three SHA256SUMS](SHA256SUMS--20261023T070319Z.txt)
+- [All twenty-six SHA256SUMS](SHA256SUMS--20261023T084840Z.txt)
+- [Sixth checkpoint manifest](MANIFEST--20261023T070319Z.json)
+- [New note/trial/log-helper inventories](ARCHIVE-FILES--20261023T084840Z.json)
+- [New closed-package recovery](LIGHT-NEXT-PACKAGES-RECOVERY--20261023T084840Z.json)
 
 Verify from this directory with:
 
 ```sh
-sha256sum -c SHA256SUMS--20261023T070319Z.txt
+sha256sum -c SHA256SUMS--20261023T084840Z.txt
 ```
 
 | Archive | SHA256 |
@@ -337,3 +391,6 @@ sha256sum -c SHA256SUMS--20261023T070319Z.txt
 | `T-3055-selective-integration--FROZEN107_INPUTS_UNAPPLIED_KWONLY_API--20261023T070319Z.tar.gz` | `c682bac97096a3bb9e03b02632e08c6d5b895b43d7f101ed41b69cce4beea66f` |
 | `fort-selective-integration--UNAPPLIED_SIX_KWONLY_API_FIX--20261023T070319Z.tar.gz` | `9b77237308b71f30cc81124383ed5a896c1cc124b4878fb6e84b955e1875946f` |
 | `prepared-browser-qa--UNRUN_BROWSER_SCRIPTS--20261023T070319Z.tar.gz` | `cc7a30140f02f3893fd09d215207e64feea38af1d8a2a60a5f5fd6327480be4a` |
+| `T-3055-post-apply-note-review--UNAPPLIED_NOTES_CHANGELOG--20261023T084840Z.tar.gz` | `101274259160573b193a4a4aafa327357283beb1fd42b7934797635522d1ffd6` |
+| `T-2373-narrow-trial--UNRUN_WIDTH_TRIAL--20261023T084840Z.tar.gz` | `5442efcc6718b9b3c7289997e37b2e50dc32d21192f4495416c511c934ddcbc0` |
+| `log81-materializer--FINAL05F6_SOURCES_UNAPPLIED--20261023T084840Z.tar.gz` | `dc860fcbc6cd3b49fb7fd72703dc108e18be789b5115e51fd9ec30f46d390758` |
