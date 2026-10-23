@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: jail-picture-match-agent 10/23/2026, 7:24:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-23T12:24:31.719Z
 decision: null
 decision_answer: null
 ---
