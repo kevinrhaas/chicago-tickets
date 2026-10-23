@@ -1,7 +1,7 @@
 ---
 id: T-3054
 title: Phone sun shadow speckles pale sunlit walls (1835 north bank shed pixelated)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1225
 claimed_by: run 10/22/2026, 9:38:35 PM CT
 blocked_on: null
 needs_bake: false
