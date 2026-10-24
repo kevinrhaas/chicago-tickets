@@ -1,7 +1,7 @@
 ---
 id: T-3126
 title: Dearborn: adopt pictured board parapets while retaining the flat deck
-state: open
+state: claimed
 epic: TOWN
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex Dearborn board-parapet delivery 10/24/2026, 12:22:30 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T17:22:31.647Z
 decision: null
 decision_answer: null
 ---
