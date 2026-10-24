@@ -1,7 +1,7 @@
 ---
 id: T-3086
 title: Repair planted horse eye UVs while preserving its mechanics
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2800
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1279
 claimed_by: Transport recovery continuing saved group after runtime reconnection 10/24/2026, 5:25:25 AM CT
 blocked_on: null
 needs_bake: false
