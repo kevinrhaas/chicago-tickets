@@ -1,7 +1,7 @@
 ---
 id: T-3112
 title: Every 1811 Prairie match record brought to matches (found by T-3101): the north pier's own cap 0.3-0.5 m under the bay's cornice with its small slate top, the string course the build runs across the pier, the downpipe at the pier's junction with the cheek, the north eave, the basement lights' scrolled grilles, the porch arcade's step-down, and the south flank once T-3099 rules it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3101
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 2:00:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40122964489
+claimed_at: 2026-10-24T19:00:39.485Z
 decision: null
 decision_answer: null
 ---
