@@ -1,7 +1,7 @@
 ---
 id: T-3122
 title: Lighthouse: adopt the reviewed source-shaped tower profile and appearance provenance
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T16:33:20.631Z
 decision: null
 decision_answer: null
+group: T-3122,T-3123,T-3124
 ---
 
 Adopt the reviewed, source-shaped lighthouse prototype through selective opt-in controls on the current fort producer. This is a bounded visible model and provenance increment, not completion of the original picture-match case.
