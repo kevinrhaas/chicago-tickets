@@ -76,6 +76,9 @@ Parallel work:
   not a browser/GPU or visual pass. It does not qualify stopped/clamped transitions
   or fix the upstream producer memory failure. CHECKPOINT-7/8/9 retain all three
   results. No gait is active in the app.
+  The study GLB still uses the b479 baseline. Any later integration must retain
+  the current approved d454 ocular UVs and carry a fresh combined asset binding;
+  do not reintroduce the old eye mapping by promoting this study binary directly.
 - T2804: Bardwell/W01 seated authoring proposal independently approved. Engineering
   derivatives clear bench/footboard at all 8 source/web LODs using retained finer
   trousers at far tiers. Canonical hook reruns ratio0.6; it does not literally copy
@@ -95,4 +98,6 @@ Push and open one PR into DEV titled for T3083/T3086/T3087. Merge ordinarily onl
 on fresh normal green checks, verify public source/asset delivery, and close only
 those child tickets. Keep remaining acceptance open. Release the root's T2803/T2804
 claims with exact checkpoint pointers if this run cannot continue their accepted work.
+Both prototype claims have now been released through the normal CLI with pushed
+checkpoint pointers. Their accepted portrayals remain open for a subsequent run.
 Production promotion is not authorized by this delivery.
