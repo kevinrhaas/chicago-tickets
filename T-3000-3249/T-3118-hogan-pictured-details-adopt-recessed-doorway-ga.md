@@ -1,7 +1,7 @@
 ---
 id: T-3118
 title: Hogan pictured details: adopt recessed doorway, gable hatch and shorter stack
-state: review
+state: done
 epic: TOWN
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-24
-closed: null
+closed: 2026-10-24
 pr: 1283
 claimed_by: Hogan pictured-detail continuation 10/24/2026, 8:21:30 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-24T16:08:53Z
 claimed_run: null
 claimed_at: 2026-10-24T13:21:30.738Z
 decision: null

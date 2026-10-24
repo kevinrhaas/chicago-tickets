@@ -217,7 +217,6 @@ T-2374 — Match Cobweb Castle to its pictures
 T-2375 — Match the Dearborn Street drawbridge to its pictures
 T-2376 — Match the Green Tree Tavern to its pictures
 T-2377 — Match Hogan's store, the first post office to its pictures
-T-3118 — Hogan pictured details: adopt recessed doorway, gable hatch and shorter stack
 T-2378 — Match J. B. Beaubien's homestead to its pictures
 T-2379 — Match the Lake House under construction to its pictures
 T-2380 — Match the log jail to its pictures
