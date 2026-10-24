@@ -1,7 +1,7 @@
 ---
 id: T-3104
 title: First Presbyterian Church's 21st Street flank from the Otis 1913 book's 1912 plate (scan leaf n116, facing p. 76, from the south-east): the plate ingested, its camera solved into data/reference_views/first_presbyterian_church_2029_indiana/, its match record written, and the flank's pinnacled buttresses, corbel table and openings built to it until it matches (after the 1887 piece)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3067
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1285
 claimed_by: run 10/24/2026, 2:01:33 PM CT
 blocked_on: null
 needs_bake: false
