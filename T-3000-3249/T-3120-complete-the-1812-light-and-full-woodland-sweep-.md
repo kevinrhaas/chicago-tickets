@@ -1,7 +1,7 @@
 ---
 id: T-3120
 title: Complete the 1812 Light and Full woodland sweep within existing tree caps
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3106
 opened: 2026-10-24
-closed: null
+closed: 2026-10-24
 pr: 1282
 claimed_by: Codex first-fort implementation; parallel Chicago 4D 10/24/2026, 7:44:12 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T17:26:57Z
 claimed_run: null
 claimed_at: 2026-10-24T12:44:13.709Z
 decision: null
