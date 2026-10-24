@@ -19,7 +19,6 @@ claimed_run: null
 claimed_at: 2026-10-23T22:45:17.326Z
 decision: null
 decision_answer: null
-group: T-2803,T-2804
 ---
 
 ## Delivery progress — 2026-10-23 10:14 UTC

@@ -1,7 +1,7 @@
 ---
 id: T-2804
 title: Fit portable-human riders and drivers to horses and vehicles
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T22:45:17.327Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2803,T-2804
 ---
 
 ## Depends on
@@ -97,3 +96,5 @@ Portable1835 human/driver-study foundation landed with PR1041 into DEV; actual o
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
 
 **Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:22 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+**Released 2026-10-23** (claim of Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT): Bardwell seated source and all-eight engineering fit proofs are checkpointed in chicago-evidence bdbac39 transport-refinement-resume-2026-10-23; canonical Blender regeneration, fresh export contact and released rider/driver portrayal remain next. Shipping group is T3083/T3086/T3087, not this broad ticket.
