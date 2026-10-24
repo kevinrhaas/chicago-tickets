@@ -1,7 +1,7 @@
 ---
 id: T-3103
 title: First Presbyterian Church at 2029 Indiana worked to the Otis 1887 plate until it matches: the west front's gable verge with its corbel table, kneelers and cross, the rose, traceried and lancet windows, the gabled stone porch and pointed doorway, the narrow north bay and its stack, the tower's angle buttresses, pointed door, two-light and belfry openings, string courses, gablets and corner pinnacles, and the spire's band of lucarnes and finial, the 1887 match record brought to matches
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3067
 opened: 2026-10-24
-closed: null
+closed: 2026-10-24
 pr: 1275
 claimed_by: run 10/24/2026, 1:44:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T07:50:40Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40070875992
 claimed_at: 2026-10-24T06:44:34.656Z
 decision: null
