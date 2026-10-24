@@ -339,3 +339,20 @@ Delivered one reconstructed selectable 1835 Western Hotel yard horse with a plan
 Automatic deployment40008193719 succeeded. Public [DEV1835](https://chicago.polecat.live/4d/dev/1835/) build `fa115d72` contains merged PR1244, and all nine checked horse model/data/runtime assets exactly match the reviewed published source bytes. This proves HTTP delivery, not photographic, full gait or targeted horse browser acceptance. Original environment-limited mobile launch remains NONPASS.
 
 [Final GitHub-backed receipts](https://github.com/kevinrhaas/chicago-evidence/tree/cc2949ee6457b78f0ad49356830b7e8ced143951/evidence/horse-pr1244-approved-delivery-2026-10-23) include exact normal CI, ordinary merge, public delivery and superseded1212 closure. Claim released for session wrap; broader photographic/gait criteria remain open in the existing queue position. Resume the final HANDOVER.md before claiming.
+
+
+## Preserved scope after split — 2026-10-23
+
+T-3086 — Repair planted horse eye UVs while preserving its mechanics.
+
+T-3087 — Add a safe viewpoint at the Western Hotel yard horse.
+
+T-3088 — Refine the horse anatomy and near silhouette against cleared views.
+
+T-3089 — Qualify horse surface materials and portable distance exports.
+
+The eye and viewpoint children are bounded increments only. The anatomy and
+surface/portable children retain every unmet original photographic/master/LOD
+requirement above. Existing planted-standing DEV delivery is credited history;
+this parent is not photographic done, and no animation/interaction acceptance
+is manufactured by the split.

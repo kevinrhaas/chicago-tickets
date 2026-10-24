@@ -36,4 +36,31 @@ When T-2800 was split (2026-10-23T23:58:39.740Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+## Scope and acceptance
+
+Deliver the bounded dark-eye UV repair to the existing licensed planted-standing
+horse, preserving its original body and mechanics. This is not the photographic master.
+
+- Reproduce the versioned d4544c28 derivative from the unchanged b479442c canonical
+  baseline using a portable stdlib recipe. Preserve every geometry/normal, rig,
+  weight, clip, material and embedded image byte; only the declared ocular UV
+  accessor/bounds and explicit derivative notice may change. Reject independent
+  non-UV binary/JSON mutations and meaningful destructive controls.
+- Root must inspect fixed-camera actual source/candidate textured comparisons on
+  both eyes, with all non-eye pixels protected. CPU software-render limitations,
+  reconstructed pupil/gaze and the modern model's licence remain explicit.
+- Load the exact new SHA through the real GLTFLoader, production clone and Mixer
+  at all 65 keys and 64 midpoints with unchanged physical/contact/loop controls.
+  Bind the current CPU receipt to its actual fixture; never transfer historical
+  b479 browser/world/appearance acceptance to the derivative.
+- Update the selected versioned runtime asset and provenance without changing
+  placement, natural planted weight shift, budgets or capability/visibility clocks.
+  Preserve original assets/receipts and complete integrated app/normal PR gates.
+
+## Saved work
+
+Root reviewed both actual whole-horse quarter comparison pairs. Exact source,
+portable recipe, five mutation controls and fresh d454 Mixer129 proof are in
+https://github.com/kevinrhaas/chicago-evidence/tree/main/evidence/transport-refinement-resume-2026-10-23
+(THIRD-CHECKPOINT and FOURTH-CHECKPOINT). Native/mobile/photographic acceptance
+remains open in the sibling master/qualification work.

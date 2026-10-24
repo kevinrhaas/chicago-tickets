@@ -5,7 +5,7 @@ state: open
 epic: RENDERING
 requested_by: owner
 seen: true
-effort: S
+effort: M
 legacy_id: null
 parent: T-2800
 opened: 2026-10-23
@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -36,4 +36,23 @@ When T-2800 was split (2026-10-23T23:58:39.740Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+## Scope and acceptance
+
+Qualify the single accepted anatomical master from the sibling anatomy child as
+the full static photographic/portable horse delivery originally required by T-2800.
+
+- Skin/coat, eyes, muzzle, hair and hooves must read at near view. Use browser-suitable
+  mane/tail geometry and materials, declared reconstructed colour/grooming, and
+  preserve the accepted exact anatomical shape unless a new proof accompanies it.
+- Produce compressed near/mid/far GLBs, engine-neutral sidecars, tested metres/axes,
+  licence provenance and bounded material/texture reuse through the supported
+  export pipeline. A single unqualified near GLB is not complete.
+- Compare actual native front/profile/quarter/detail renders with cleared reference
+  plates at the same views, inspect the images, resolve the discrepancy register
+  and record which surfaces/dimensions/colours remain reconstructed.
+- Load the exact published exports in current desktop and phone browsers; measure
+  triangles, materials/draws, textures/memory, bytes and frame cost at unchanged
+  caps, including near/mid/far transitions and actual placement/support clearance.
+- Complete normal source and published desktop/mobile qualification. Do not infer
+  walking/trot, tack, riders, teams, driving or boarding from a static-animal pass;
+  those remain the existing T-2803/T-2804 and gear/traffic tickets.

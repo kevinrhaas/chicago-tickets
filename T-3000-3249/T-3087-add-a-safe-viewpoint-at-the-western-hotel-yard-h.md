@@ -36,4 +36,18 @@ When T-2800 was split (2026-10-23T23:58:39.740Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+## Scope and acceptance
+
+Make the existing 1835 planted yard horse discoverable through a camera-only
+viewpoint; do not move the animal or claim a newly attested individual.
+
+- Add the named Western Hotel yard and horse point to the existing 1835 anchor
+  data consumed by the viewpoint list and direct anchor URL. Aim its unchanged
+  camera convention toward the existing horse coordinate.
+- Prove the arrival is on dry ground and outside every roof using the actual
+  anchor-ground/roof measurement and regenerated reading. Retain the first
+  rejected inside-stable candidate instead of relabeling it accepted.
+- Preserve all previous viewpoints, scene date, actor placement and Full/Balanced,
+  reconstructed-confidence and Light policies. Complete integrated app and normal
+  required PR checks. The parent's native photographic/world qualification remains
+  separate; the point itself is a navigation increment, not that acceptance.
