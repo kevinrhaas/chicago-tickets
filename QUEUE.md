@@ -28,6 +28,7 @@
 T-3119 — A finding filed beside the work
 T-3120 — a finding that should be a paragraph
 T-3121 — A finding filed beside the work
+T-3122 — filed over the budget
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
