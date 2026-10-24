@@ -1,7 +1,7 @@
 ---
 id: T-3100
 title: 1811 Prairie's Chicagology photograph and Glessner blog print: each ingested, its camera solved into data/reference_views/coleman_ames_house_1811_prairie/ and its match record written, and the bay's balcony pierced as the photograph shows it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3052
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1270
 claimed_by: run 10/24/2026, 12:33:51 AM CT
 blocked_on: null
 needs_bake: false
@@ -19,6 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/4006366
 claimed_at: 2026-10-24T05:33:53.185Z
 decision: null
 decision_answer: null
+group: T-3100,T-3079
 ---
 
 1811 Prairie's Chicagology photograph and Glessner blog print: each ingested, its camera solved into data/reference_views/coleman_ames_house_1811_prairie/ and its match record written, and the bay's balcony pierced as the photograph shows it.
