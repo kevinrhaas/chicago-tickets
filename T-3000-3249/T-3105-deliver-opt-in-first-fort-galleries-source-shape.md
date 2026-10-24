@@ -1,7 +1,7 @@
 ---
 id: T-3105
 title: Deliver opt-in first-fort galleries, source-shaped fronts and visible-stack controls
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1282
 claimed_by: Codex first-fort implementation; parallel Chicago 4D 10/24/2026, 6:19:18 AM CT
 blocked_on: null
 needs_bake: true
@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-10-24T11:19:19.854Z
 decision: null
 decision_answer: null
-group: T-3105,T-3106,T-3119,T-3120
+group: T-3105,T-3119,T-3120
 ---
 
 Deliver opt-in first-fort galleries, source-shaped fronts and visible-stack controls.
