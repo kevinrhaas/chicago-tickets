@@ -1,7 +1,7 @@
 ---
 id: T-3101
 title: 1811 Prairie's 1965 HABS photograph (a18-kimball-habs-photo-01): its camera solved and its match record written, the Building Budget sketch kept to its phase guard, and every 1811 match record brought to matches (after the pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3052
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 3:52:49 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40079435631
+claimed_at: 2026-10-24T08:52:50.653Z
 decision: null
 decision_answer: null
 ---
