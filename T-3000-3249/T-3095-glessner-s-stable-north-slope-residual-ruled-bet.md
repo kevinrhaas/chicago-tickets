@@ -1,7 +1,7 @@
 ---
 id: T-3095
 title: Glessner's stable north-slope residual ruled between ridge height, plan line and pitch (the count and T-2758's six measured-control cameras put to each candidate roof): which carries the eight extra courses, with the rebuild's numbers and its acceptance stated before it is built
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3094
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/23/2026, 9:58:59 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40054619913
+claimed_at: 2026-10-24T02:58:59.961Z
 decision: null
 decision_answer: null
 ---
