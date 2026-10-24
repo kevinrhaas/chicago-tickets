@@ -1,7 +1,7 @@
 ---
 id: T-3115
 title: Glessner's 1886 crosses cut into the 18th Street stack's rock (found by T-3065): each stroke draped on the face's own relief instead of floating at the rock's furthest reach, Glessner rebaked, every Glessner view re-rendered and HABS 14's crosses read against the build
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3028
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1280
 claimed_by: run 10/24/2026, 5:11:58 AM CT
 blocked_on: null
 needs_bake: false
