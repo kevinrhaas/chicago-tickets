@@ -1,7 +1,7 @@
 ---
 id: T-3003
 title: 1801 Prairie's south and east sides and its rear from the 1929 and HABS photographs: find each picture, solve its camera into data/reference_views/kimball_house_1801_prairie/, and bring the faces the Taylor camera cannot see to them
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2540
 opened: 2026-10-22
-closed: null
+closed: 2026-10-24
 pr: null
 claimed_by: run 10/24/2026, 3:53:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T09:14:17.639Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40079431083
 claimed_at: 2026-10-24T08:53:06.539Z
 decision: null
