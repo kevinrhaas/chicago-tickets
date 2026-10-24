@@ -1,7 +1,7 @@
 ---
 id: T-3096
 title: Glessner's stable E-W ridge rebuilt to the ruling: the north slope kept at 42.5 degrees with its ridge brought down to about 36.5 ft over north grade and north to about S 12.3 (T-3094's first piece), the alley gable's coping standing proud over the lowered roof to its unmoved apex, the ridge's run into the cupola and the north range's skewed junction rebuilt, rebaked, and the prints' course count (41.7-43.9 and 40.6-42.9) and roll foot re-read through the measured cameras on the new GLB
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3094
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1272
 claimed_by: run 10/23/2026, 11:51:05 PM CT
 blocked_on: null
 needs_bake: true
