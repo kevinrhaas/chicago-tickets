@@ -1,7 +1,7 @@
 ---
 id: T-3067
 title: First Presbyterian Church at 2029 Indiana worked to the Otis 1913 plate until it matches: the 21st Street flank's pinnacled buttresses and corbel table, the tower's angle buttresses, gabled lucarnes and broach spire, the west front's traceried window and gabled porch, the roof's dormers, every open difference in the match record fixed or ruled
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3014
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 1:41:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40070875992
+claimed_at: 2026-10-24T06:41:24.708Z
 decision: null
 decision_answer: null
 ---
