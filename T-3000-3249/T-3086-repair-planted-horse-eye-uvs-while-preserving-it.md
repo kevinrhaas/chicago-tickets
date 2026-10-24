@@ -1,7 +1,7 @@
 ---
 id: T-3086
 title: Repair planted horse eye UVs while preserving its mechanics
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: T-2800
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex parallel transport delivery with preserved photographic remainder 10/23/2026, 7:00:33 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T00:00:34.570Z
 decision: null
 decision_answer: null
+group: T-3083,T-3086,T-3087
 ---
 
 Repair planted horse eye UVs while preserving its mechanics.
