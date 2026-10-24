@@ -1,7 +1,7 @@
 ---
 id: T-0003
 title: Town furniture: fences, signboards, wagons, porches, docks
-state: blocked-tech
+state: withdrawn
 epic: TOWN
 requested_by: owner
 seen: true
@@ -12,9 +12,9 @@ opened: 2026-08-17
 closed: 2026-10-24
 pr: null
 claimed_by: null
-blocked_on: T-0001
+blocked_on: its work landed elsewhere
 needs_bake: false
-closed_at: 2026-10-24T12:19:25.573Z
+closed_at: 2026-10-24T12:23:15.489Z
 claimed_run: null
 claimed_at: null
 decision: null
