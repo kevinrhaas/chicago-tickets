@@ -33,4 +33,4 @@ When T-3035 was split (2026-10-24T00:28:53.819Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40043327794) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** In both match records, every gable item now open (the shoulder panels, the grid window's surround, hood, shelf and lights, the kneelers' scrolls, the slab's base, the finial, the head's width) is `fixed` or ruled with its reason, from a render of the rebuilt GLB through each picture's own camera.

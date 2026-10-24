@@ -33,4 +33,10 @@ When T-3035 was split (2026-10-24T00:28:53.819Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40043327794) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** Every open item in the Levy match record and in the c. 1955 record fixed or argued, the rear read from the 1911 sheet, and both records at `matches`.
+
+## Image gate
+
+The building closes here (AGENTS.md rule 11): every view below must be `matches`.
+
+- wheeler_house_1812_prairie
