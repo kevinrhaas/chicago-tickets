@@ -33,4 +33,6 @@ When T-3106 was split (2026-10-24T12:42:45.409Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** The actual 1812 Light and Full app completes the northern woodland sweep below the unchanged 2,100 and 4,700 tree caps. Use only the existing deterministic uniform woodland factor 0.75 for these two scene/tier combinations: effective Light 0.225 and Full 0.525. Balanced 0.500, all other scenes and tiers, source density and plot facts, the complete 72 stated plantings and all physical clearance guards remain unchanged. Actual Light and Full proofs must show no hard flora/cap errors, northern reach and all ten repaired garden stems; retain the first cap failures and exact native error classification. Pure controls bind unchanged tiers/scenes and native source checks bind the final runtime. No cap waiver, declared-plant thinning, Blender bake or original picture acceptance belongs to this no-bake utility.
+
+This is the woodland half of T-3106. The independent declared-planting half is T-3119. Original T-3041/T-2387 retain every picture and all 21 named plus nine context components, open and different. Existing L-1812-flora-3106 and L-1812-full-flora-3106 retain the parent provenance history.

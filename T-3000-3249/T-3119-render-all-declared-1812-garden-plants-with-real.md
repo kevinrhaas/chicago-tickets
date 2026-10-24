@@ -33,4 +33,6 @@ When T-3106 was split (2026-10-24T12:42:45.409Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** In the actual published 1812 scene, all four declared Kinzie poplars and all six Ouilmette currants render exactly once, with no rejected-planting loader errors. Use the existing green container for the Kinzie planting and preserve all stated counts and source facts. The six currants' bounded +3.1 m northing remains explicitly reconstructed, and their complete rendered envelope clears the real house. Preserve the global 4.5 m natural-tree clearance and all building, wall and travel-track guards; no flora allowlist or assertion weakening. Strict actual mobile Light and desktop Full cases must pass with the native ERR_ABORTED predicate and raw request evidence retained. The completed paired baseline/fix proof and canonical standard app cases remain source-bound; preserve the original failures. No Blender bake or original picture acceptance belongs to this no-bake utility.
+
+This is the declared-planting half of T-3106. The separate deterministic woodland half is T-3120. Original T-3041/T-2387 retain every picture and all 21 named plus nine context components, open and different. Existing L-1812-flora-3106 retains the parent provenance history.
