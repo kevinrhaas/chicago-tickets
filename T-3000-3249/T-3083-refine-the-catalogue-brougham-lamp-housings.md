@@ -11,12 +11,12 @@ parent: T-2794
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Transport recovery continuation of the saved three-ticket group 10/24/2026, 12:35:12 AM CT
+claimed_by: Transport recovery continuing saved group after runtime reconnection 10/24/2026, 5:25:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-24T05:35:13.419Z
+claimed_at: 2026-10-24T10:25:26.697Z
 decision: null
 decision_answer: null
 group: T-3083,T-3086,T-3087
