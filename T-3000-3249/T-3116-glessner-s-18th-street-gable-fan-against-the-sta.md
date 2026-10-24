@@ -35,3 +35,7 @@ When T-3028 was split (2026-10-24T10:11:45.640Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40083108416) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Note from T-3115 (2026-10-24)
+
+The "about 13 px under the 1886 stone's foot" in this title is a raw relative reading from a 3x crop of HABS 14 (`docs/RESEARCH/glessner-crosses-T-3115/habs14-crosses.jpg`, on dev after #1280): the junction against the stone's foot inside the photograph, against the same pair inside the render. T-3024 read the coping within 0.2 ft of sheet 6 through the crest-corrected camera, so reconcile the two before building on either.
