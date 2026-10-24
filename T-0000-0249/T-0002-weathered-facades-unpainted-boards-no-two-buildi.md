@@ -12,7 +12,7 @@ opened: 2026-08-17
 closed: 2026-08-17
 pr: null
 claimed_by: null
-blocked_on: a source
+blocked_on: a committed source for the complement
 needs_bake: false
 closed_at: null
 claimed_run: null
