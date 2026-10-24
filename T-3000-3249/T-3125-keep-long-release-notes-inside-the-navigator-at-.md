@@ -1,7 +1,7 @@
 ---
 id: T-3125
 title: Keep long release notes inside the Navigator at every text size
-state: open
+state: claimed
 epic: RENDERING
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex interactive news wrapping repair; isolated clone; real screenshot and all-row bounds preserved 10/24/2026, 12:11:37 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T17:11:38.087Z
 decision: null
 decision_answer: null
 ---
