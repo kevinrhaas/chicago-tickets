@@ -241,3 +241,5 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 # BLOCKED-OWNER T-0002 (opened 2026-08-17, RENDERING) — Weathered facades: unpainted boards, no two buildings alike
 #     waits: which source does the owner accept?
+# BLOCKED-TECH T-0003 (opened 2026-08-17, TOWN) — Town furniture: fences, signboards, wagons, porches, docks
+#     waits: T-0001
