@@ -1,7 +1,7 @@
 ---
 id: T-3001
 title: 1801 Prairie's 18th Street flank from the Taylor photograph: the gabled section's gable facing 18th Street with its balcony at about 11.5 m where the build has a hip, and the flank section's width (about 7.8 m in the photograph, built 6.0 m, K08's widest pavilion)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2540
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1257
 claimed_by: run 10/23/2026, 7:00:02 PM CT
 blocked_on: null
 needs_bake: false
