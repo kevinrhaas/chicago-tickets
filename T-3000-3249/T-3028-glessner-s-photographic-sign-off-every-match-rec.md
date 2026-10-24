@@ -1,7 +1,7 @@
 ---
 id: T-3028
 title: Glessner's photographic sign-off: every match record reading matches with nothing open, the discrepancy register's final acceptance written with what is attested against inferred, and every courtyard and rear face reviewed, sheet 4's datum (T-2978) included (after the pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2854
 opened: 2026-10-22
-closed: null
+closed: 2026-10-24
 pr: null
 claimed_by: run 10/24/2026, 4:49:00 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T10:11:53.383Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40083108416
 claimed_at: 2026-10-24T09:49:01.978Z
 decision: null
