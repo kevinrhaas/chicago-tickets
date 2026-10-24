@@ -1,7 +1,7 @@
 ---
 id: T-3116
 title: Glessner's 18th Street gable fan against the stack's crest (found by T-3024 and T-3065): sheet 6 prints the crest at 48.62 ft while HABS 14 and HABS 01 both read it 1.2-1.6 ft nearer the fan, and HABS 14 puts the coping's junction with the stack about 13 px (about 0.7 ft) under the 1886 stone's foot where the build meets it at the foot; read the fan's height on sheet 6 and both photographs, rule it, rebuild, and re-read HABS 17's stack proportion above the coping
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3028
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1287
 claimed_by: run 10/24/2026, 2:00:06 PM CT
 blocked_on: null
 needs_bake: false
