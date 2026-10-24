@@ -1,7 +1,7 @@
 ---
 id: T-0001
 title: A visitor can walk across every bridge, end to end
-state: review
+state: split
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,15 +10,10 @@ legacy_id: K10
 parent: null
 opened: 2026-08-17
 closed: 2026-08-17
-pr: 1
+pr: null
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
-claimed_run: null
-claimed_at: null
-decision: null
-decision_answer: null
 ---
 
 **The owner's ask, verbatim (K10):** "How would a wagon cross that?" Every bridge floats
