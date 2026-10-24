@@ -38,3 +38,12 @@ This utility progress ticket serves original image-match ticket T-2385. It owns 
 The exact source/GPU roof studies, guarded producer proposal and a219 23-master integration plan are privately checkpointed with full tar/remote-blob readback. Their current immutable recovery index is https://github.com/kevinrhaas/chicago-evidence/blob/11f8089fc07bf5634b08b4b7c1a65fe37f4e0dd8/evidence/image-match-2026-10-23/resumed-20261023T2245/RECOVERY.md . These earlier studies do not replace the new canonical bake and gates.
 
 The parent coordinator requested this separate bounded utility PR so useful roof progress can land while original T-2385 remains open for the remaining picture differences.
+
+
+## Related visible correction — historical review context
+
+The parent coordinator approved one bounded related card correction in this same progress unit before native/fullgate validation. Actual PR #1260 QA exposed stale visitor text saying consultation holds and scene release blocks still applied, although the standing owner ruling already lifted that prerequisite. The final PR title/body and single changelog entry cover both the darker Tremont roof and accurate retained historical review notes. This adds no source-rights or release-policy change and no new permission flow.
+
+Additional acceptance: apply only the reviewed three-file wording/smoke-literal patch after exact 6bf preimage checks. Retain every flag, source, confidence value, trimmed/escaped reason, existing boolean condition, exact flagged-ID comparison and unexpected-error filter. The heading becomes “Historical review context.” and loader wording states that the retained annotation does not block scene release. Validate actual syntax and extracted reason/control-flow/future exact-notice refusal checks, then cover the new source in separately versioned native/published mobile/desktop QA and ordinary gates. Do not relabel PR #1260's frozen old QA or alter its live tested source.
+
+The whole-current-state recovery and stack compatibility proofs are remote-verified at https://github.com/kevinrhaas/chicago-evidence/blob/86136555a60c4a154a0d35caed8f68b96b323723/evidence/image-match-2026-10-23/resumed-20261023T2245/RECOVERY.md and https://github.com/kevinrhaas/chicago-evidence/blob/71c1c78e31647299ef501a351d48fdf4593c6d8f/evidence/image-match-2026-10-23/resumed-20261023T2245/RECOVERY.md . The branch stacks on committed PR #1260; all 164 incoming log files/82 rows stay exact. Original T-2385 remains open/claimed and unmatched, and separate flag-pose research remains unadopted.
