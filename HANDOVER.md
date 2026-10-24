@@ -1,3 +1,14 @@
+# Active transport continuation - 2026-10-24
+
+Read [the current transport handover](TRANSPORT-HANDOVER-2026-10-24.md) first.
+T-3083/T-3086/T-3087 are claimed for lamps, eyes and a safe horse viewpoint.
+Their combined source is local and pending final complete validation. The
+PR1244 delivery below is historical; its clean-checkout statement is as of
+that prior delivery, not the current modified checkout. Evidence through
+bdbac39 is pushed, including the frozen source. No new app PR/merge or photographic completion is claimed.
+
+---
+
 # Final horse delivery and handover — 2026-10-23
 
 **PR1244 is merged to DEV and its assets are publicly delivered.** Ordinary squash merge `fa115d72534e234fe5ac7b94fd2f1a3eb38065c8`, tree `43665a4b692d5283defba96f236aed14b3c02623`, single reviewed DEV parent `eb1a0d11a96767a715a136ee43d94097ddf5b9cd`. Final pushed source `f225b8ae541173e2dde6e576bb20c103f4c87106` remains clean at `/workspace/chicago-waistcoat`. No production promotion.
