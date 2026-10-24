@@ -1,7 +1,7 @@
 ---
 id: T-3111
 title: 1811 Prairie's 1965 HABS photograph (a18-kimball-habs-photo-01): its camera solved into data/reference_views/coleman_ames_house_1811_prairie/ and its match record written, the Building Budget sketch kept to its phase guard, and the front's north pier the plate, the Chicagology photograph and the HABS photograph all show built in rock-faced stone where the bay's canted cheek covered it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3101
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1277
 claimed_by: run 10/24/2026, 4:24:29 AM CT
 blocked_on: null
 needs_bake: false
