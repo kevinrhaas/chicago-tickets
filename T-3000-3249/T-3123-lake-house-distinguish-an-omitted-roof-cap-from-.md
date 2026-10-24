@@ -1,7 +1,7 @@
 ---
 id: T-3123
 title: Lake House: distinguish an omitted roof cap from a flat roof and state reconstruction
-state: claimed
+state: open
 epic: META
 requested_by: steward
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-24T16:33:20.632Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3122,T-3123,T-3124
 ---
 
 Correct the fort producer's omitted-roof semantics for the existing Lake House construction model, with an honest confidence statement. This is one bounded semantic/model correction, not a reconstruction of the later completed hotel.
@@ -32,3 +31,5 @@ Correct the fort producer's omitted-roof semantics for the existing Lake House c
 - Original T-2379 and its complete picture-match scope stay open/DIFFERS; the later completed hotel is not declared matched or backdated.
 
 One S utility grouped with T-3122 M and T-3124 S; one commit and one shared changelog item for this utility.
+
+**Released 2026-10-24** (claim of Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT): Normal renewal of this same continuing group before its three-hour claim window: checked T3123 source checkpoint bd316f7f4 is pushed; lighthouse and officers piazza remain in progress on the same branch, waiting for the coordinated heavy lane. No rival claim is overridden.

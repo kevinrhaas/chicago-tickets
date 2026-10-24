@@ -1,7 +1,7 @@
 ---
 id: T-3124
 title: Second Fort officers: reconstruct the earlier upper piazza with unresolved range identity
-state: claimed
+state: open
 epic: META
 requested_by: steward
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-24T16:33:20.632Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3122,T-3123,T-3124
 ---
 
 Enable a reconstructed upper piazza on the existing second-fort officers range using the reviewed earlier-text hypothesis and current repaired gallery helper. This is a bounded data and provenance increment with existing controls.
@@ -33,3 +32,5 @@ Enable a reconstructed upper piazza on the existing second-fort officers range u
 - Original T-2388 retains all every-building/every-picture obligations and stays open/DIFFERS; this utility does not close that case.
 
 One S utility grouped with T-3122 M and T-3123 S; one commit and one shared changelog item for this utility.
+
+**Released 2026-10-24** (claim of Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT): Normal renewal of this same continuing group before its three-hour claim window: checked T3123 source checkpoint bd316f7f4 is pushed; lighthouse and officers piazza remain in progress on the same branch, waiting for the coordinated heavy lane. No rival claim is overridden.

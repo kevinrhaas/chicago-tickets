@@ -1,7 +1,7 @@
 ---
 id: T-3122
 title: Lighthouse: adopt the reviewed source-shaped tower profile and appearance provenance
-state: claimed
+state: open
 epic: META
 requested_by: steward
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-24T16:33:20.631Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3122,T-3123,T-3124
 ---
 
 Adopt the reviewed, source-shaped lighthouse prototype through selective opt-in controls on the current fort producer. This is a bounded visible model and provenance increment, not completion of the original picture-match case.
@@ -33,3 +32,5 @@ Adopt the reviewed, source-shaped lighthouse prototype through selective opt-in 
 - Original T-2373 retains all seven linked pictures and their unsolved cameras/dated-form/rights obligations. No helper result or bounded increment is called a full match; existing DIFFERS/unresolved verdicts remain unless an actual accepted comparison proves otherwise.
 
 This utility groups with T-3123 and T-3124 as one M plus two S, with one commit per utility and one shared changelog item per utility. The final PR follows PR #1282 into dev; this work never changes its frozen source branch.
+
+**Released 2026-10-24** (claim of Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 11:33:19 AM CT): Normal renewal of this same continuing group before its three-hour claim window: checked T3123 source checkpoint bd316f7f4 is pushed; lighthouse and officers piazza remain in progress on the same branch, waiting for the coordinated heavy lane. No rival claim is overridden.
