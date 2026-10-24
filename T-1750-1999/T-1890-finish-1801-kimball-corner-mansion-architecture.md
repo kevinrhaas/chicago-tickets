@@ -80,3 +80,18 @@ where the build's runs on to x 1187. Re-read the lower faces' rise and pitch and
 against the print (the queue was at its ceiling, so this is a finding here, not a ticket of its
 own); the cresting, hood and finials `mansard.deck` lays follow the curb when it moves. The match
 record's open difference names it.
+
+**Found by T-3001 (2026-10-24).** Two more pieces of the 18th Street flank, read through T-3074's
+camera (the queue was at its ceiling, so they are findings here, not tickets of their own; the
+match record's open differences name both):
+
+- *The gabled section's openings.* The print's principal storey has three round-arched lights
+  across the section (x 360-440), the second an oriel on corbels with a carved panel over it
+  (about 5.4-8.1 m), and the third an open loggia (head about 11.4 m) behind a balustrade that
+  runs straight across it, under the gable; a pier at about u 0-0.9 (x 422-445) rises to the
+  cornice. T-3001 lays one mullioned and transomed pair a storey on `p_gable` and K08's floor
+  balcony, which bows.
+- *The flank section's top.* Over the corbel table (about 9.5 m) the print's section carries a
+  third storey of paired lights under a cornice, a gabled wall dormer with a finial (x 520-600)
+  and the tall round-topped stack (x 467-530); the build carries `p_flank`'s wall to 13.9 m under
+  K08's low hip.
