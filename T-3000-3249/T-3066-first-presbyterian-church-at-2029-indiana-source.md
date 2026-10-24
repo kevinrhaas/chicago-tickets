@@ -1,7 +1,7 @@
 ---
 id: T-3066
 title: First Presbyterian Church at 2029 Indiana sourced and its massing refined to the Otis 1913 plate: the 1870-1873 church its congregation used until its last service in December 1912, the gable to Indiana Avenue, the tower's stages and its spire to the photograph's heights, the plate's camera solved and a match record written
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3014
 opened: 2026-10-23
-closed: null
+closed: 2026-10-23
 pr: 1263
 claimed_by: run 10/23/2026, 8:34:24 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T03:17:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40050025160
 claimed_at: 2026-10-24T01:34:24.865Z
 decision: null
