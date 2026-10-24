@@ -1,7 +1,7 @@
 ---
 id: T-3052
 title: 1811 Prairie's other pictures: the Chicagology print, the a18 photograph and the 1965 HABS photograph each ingested where missing, its camera solved into data/reference_views/coleman_ames_house_1811_prairie/ and its match record written, the Building Budget sketch kept to its phase guard, and every 1811 match record brought to matches (after the pieces before it)
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2920
 opened: 2026-10-22
-closed: null
+closed: 2026-10-24
 pr: null
 claimed_by: run 10/23/2026, 11:59:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T05:33:46.578Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40063660739
 claimed_at: 2026-10-24T04:59:50.933Z
 decision: null
