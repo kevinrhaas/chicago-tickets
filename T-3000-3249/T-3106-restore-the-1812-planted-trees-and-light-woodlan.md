@@ -1,7 +1,7 @@
 ---
 id: T-3106
 title: Restore the 1812 planted trees and light woodland
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 3:56:44 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T08:56:45.380Z
 decision: null
 decision_answer: null
 ---
