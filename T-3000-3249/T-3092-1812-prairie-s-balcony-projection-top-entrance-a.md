@@ -1,7 +1,7 @@
 ---
 id: T-3092
 title: 1812 Prairie's balcony, projection top, entrance and stair to the Levy photograph: the balcony's solid stone panel and pedestal with iron scrolls and roundel balusters, the projection's top brought down to the print's cornice, the porch arch's jamb down the projection's corner in a narrow moulded ring with a flatter crown, its heavy transom beam and paned fanlight, and the stair's flared north cheek and carved newels
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3035
 opened: 2026-10-23
-closed: null
+closed: 2026-10-24
 pr: null
 claimed_by: run 10/24/2026, 4:41:32 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T09:49:21.329Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40082657438
 claimed_at: 2026-10-24T09:41:32.916Z
 decision: null
