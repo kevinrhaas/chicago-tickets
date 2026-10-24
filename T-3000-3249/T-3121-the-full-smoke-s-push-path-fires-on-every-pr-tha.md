@@ -1,7 +1,7 @@
 ---
 id: T-3121
 title: The full smoke's push path fires on every PR that merges dev after a chicago-4d-smoke.yml edit, cannot finish in 150 min, and so holds those PRs unmergeable (#1277, #1278)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex interactive T3121 CI trigger repair; isolated clone; owner-visible PR 10/24/2026, 11:08:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T16:08:18.823Z
 decision: null
 decision_answer: null
 ---
