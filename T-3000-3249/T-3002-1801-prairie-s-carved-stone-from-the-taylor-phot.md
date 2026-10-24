@@ -1,7 +1,7 @@
 ---
 id: T-3002
 title: 1801 Prairie's carved stone from the Taylor photograph: the heavy moulded main cornice under the mansard's faces (the build's eave is K05's plain fascia; K10's moulded cornice stands only under a flat or gable roof) and the carved panel filling the south pavilion's gable
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2540
 opened: 2026-10-22
-closed: null
+closed: 2026-10-24
 pr: 1266
 claimed_by: run 10/23/2026, 10:23:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-24T05:41:36Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40057741896
 claimed_at: 2026-10-24T03:23:14.426Z
 decision: null
