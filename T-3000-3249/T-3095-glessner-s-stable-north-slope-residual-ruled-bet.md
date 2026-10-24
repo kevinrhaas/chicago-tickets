@@ -1,7 +1,7 @@
 ---
 id: T-3095
 title: Glessner's stable north-slope residual ruled between ridge height, plan line and pitch (the count and T-2758's six measured-control cameras put to each candidate roof): which carries the eight extra courses, with the rebuild's numbers and its acceptance stated before it is built
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3094
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1264
 claimed_by: run 10/23/2026, 9:58:59 PM CT
 blocked_on: null
 needs_bake: false
