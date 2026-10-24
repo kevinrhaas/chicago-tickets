@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: run 10/24/2026, 3:56:44 AM CT
+claimed_by: Codex first-fort implementation; parallel Chicago 4D 10/24/2026, 7:30:19 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-24T08:56:45.380Z
+claimed_at: 2026-10-24T12:30:20.680Z
 decision: null
 decision_answer: null
+group: T-3105,T-3106
 ---
 
 Restore the 1812 planted trees and light woodland.

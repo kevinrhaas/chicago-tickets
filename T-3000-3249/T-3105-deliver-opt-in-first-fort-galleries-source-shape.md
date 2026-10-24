@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-10-24T11:19:19.854Z
 decision: null
 decision_answer: null
+group: T-3105,T-3106
 ---
 
 Deliver opt-in first-fort galleries, source-shaped fronts and visible-stack controls.
