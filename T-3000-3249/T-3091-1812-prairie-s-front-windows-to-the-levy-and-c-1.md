@@ -1,7 +1,7 @@
 ---
 id: T-3091
 title: 1812 Prairie's front windows to the Levy and c. 1955 photographs: the third storey's wider arched middle light and concentric fanlight bar, the small arched window's patterned fill, the long-and-short voussoirs, the north window's small-square transom lights, and the projection's jamb stones rising to carved caps with the paired window's heavy mullion and hood
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3035
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1269
 claimed_by: run 10/23/2026, 11:59:15 PM CT
 blocked_on: null
 needs_bake: false
