@@ -1,7 +1,7 @@
 ---
 id: T-3090
 title: 1812 Prairie's shaped gable to the Levy and c. 1955 photographs: the shoulder stones' sunk panels, the grid window's quoined surround, wavy-topped hood, deep shelf and lighter lights, the kneelers' carved scrolls, the slab's base drawn in from the kneelers to the ledge, the urn finial, and the head's width ruled between the two pictures
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3035
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1259
 claimed_by: run 10/23/2026, 7:29:11 PM CT
 blocked_on: null
 needs_bake: false
