@@ -1,7 +1,7 @@
 ---
 id: T-3107
 title: 1801 Prairie's south face from HABS photograph 1 (Harold Allen, June 1965, from the south-west): the picture ingested, its camera solved into data/reference_views/kimball_house_1801_prairie/, its match record written, and the south wall's two tall stone stacks built to it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3003
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 4:14:23 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40079431083
+claimed_at: 2026-10-24T09:14:24.354Z
 decision: null
 decision_answer: null
 ---
