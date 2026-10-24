@@ -1,7 +1,7 @@
 ---
 id: T-3113
 title: 1812 Prairie's balcony and projection top to the Levy photograph: the balcony's solid stone panel and pedestal with iron scrolls and roundel balusters, and the projection's top brought down to the print's cornice
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3092
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 4:49:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40082657438
+claimed_at: 2026-10-24T09:49:26.251Z
 decision: null
 decision_answer: null
 ---
