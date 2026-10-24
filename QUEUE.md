@@ -221,7 +221,6 @@ T-2373 — Match the 1832 lighthouse to its pictures
 T-2374 — Match Cobweb Castle to its pictures
 T-2375 — Match the Dearborn Street drawbridge to its pictures
 T-2376 — Match the Green Tree Tavern to its pictures
-T-3055 — Frame-tavern picture controls preserve legacy geometry
 T-2377 — Match Hogan's store, the first post office to its pictures
 T-2378 — Match J. B. Beaubien's homestead to its pictures
 T-2379 — Match the Lake House under construction to its pictures
@@ -230,7 +229,6 @@ T-2381 — Match the Miller House to its pictures
 T-2382 — Match Philo Carpenter's log shop (the Sauganash's log wing) to its pictures
 T-2383 — Match the Sauganash Hotel to its pictures
 T-2384 — Match St Mary's church to its pictures
-T-3056 — Correct early-building image credits and evidence limits
 T-2385 — Match the first Tremont House to its pictures
 T-3082 — Tremont roof material increment: adopt quarter-linear deep_brown
 T-2386 — Match the Wolf Point Tavern to its pictures

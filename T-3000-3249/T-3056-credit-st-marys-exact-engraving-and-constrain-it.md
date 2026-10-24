@@ -1,7 +1,7 @@
 ---
 id: T-3056
 title: Correct early-building image credits and evidence limits
-state: review
+state: done
 epic: TOWN
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2384
 opened: 2026-10-23
-closed: null
+closed: 2026-10-23
 pr: 1256
 claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-24T01:14:15Z
 claimed_run: null
 claimed_at: null
 decision: null
