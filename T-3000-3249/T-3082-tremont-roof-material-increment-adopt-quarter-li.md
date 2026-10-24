@@ -1,7 +1,7 @@
 ---
 id: T-3082
 title: Tremont roof material increment: adopt quarter-linear deep_brown
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-23
-closed: null
+closed: 2026-10-24
 pr: 1260
 claimed_by: Codex Tremont roof continuation 10/23/2026 10/24/2026, 12:45:29 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-24T12:48:15Z
 claimed_run: null
 claimed_at: 2026-10-24T05:45:30.526Z
 decision: null
