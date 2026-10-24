@@ -5,7 +5,7 @@ state: open
 epic: META
 requested_by: loop
 seen: false
-effort: S
+effort: M
 legacy_id: null
 parent: T-3094
 opened: 2026-10-23
@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -34,3 +34,7 @@ When T-3094 was split (2026-10-24T02:58:48.778Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40054619913) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+Stated by T-3095 (docs/RESEARCH/glessner-stable-ridge-T-3095/README.md § 4): on the rebaked GLB, `read_slope.py` (T-3080) and `read_ridge.py` (T-3095), run unchanged, give 41-44 courses between the model's eave and roll foot on the plane over the alley end; the roll foot lies within 0.3 m of the model's in every measured-control fit and the eave within 0.4 m; the alley gable's coping stands proud of the tiles to an apex within T-2758's 38.75-40.63 ft; and no other Glessner match record gets worse. Keep the cupola on the crossing or rule where it moves; check the south slope (about 47 to 41 degrees) against the courtyard records.
+
+**Follow T-3065 (PR #1261) rather than race it:** it rebakes the same GLB recovery package and edits the same two match records. Sized M with a bake (one structure, `bake.sh --only glessner_house`).
