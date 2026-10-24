@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-23T22:45:17.326Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -177,3 +177,5 @@ Delivered one reconstructed selectable 1835 Western Hotel yard horse with a plan
 Automatic deployment40008193719 succeeded. Public [DEV1835](https://chicago.polecat.live/4d/dev/1835/) build `fa115d72` contains merged PR1244, and all nine checked horse model/data/runtime assets exactly match the reviewed published source bytes. This proves HTTP delivery, not photographic, full gait or targeted horse browser acceptance. Original environment-limited mobile launch remains NONPASS.
 
 [Final GitHub-backed receipts](https://github.com/kevinrhaas/chicago-evidence/tree/cc2949ee6457b78f0ad49356830b7e8ced143951/evidence/horse-pr1244-approved-delivery-2026-10-23) include exact normal CI, ordinary merge, public delivery and superseded1212 closure. Claim released for session wrap; broader photographic/gait criteria remain open in the existing queue position. Resume the final HANDOVER.md before claiming.
+
+**Released 2026-10-23** (claim of Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT): Exact CP7 encoder-memoryFAIL, CP8 clamp-loopFAIL and CP9 real Three LoopRepeat265PASS are pushed in chicago-evidence bdbac39 transport-refinement-resume-2026-10-23/FIFTH-CHECKPOINT. Ordinary gait footfall/reach, stop transitions, trot, visual and traffic criteria remain unfinished; shipping group is T3083/T3086/T3087.
