@@ -1,7 +1,7 @@
 ---
 id: T-3128
 title: 1811 Prairie's north pier head to its three pictures: the moulded cap, band and slate weathering under the bay's cornice with sky over them, the pier's courses unbroken by the front's string course, the downpipe at its junction with the canted cheek, and the main roof's north eave brought in over it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3112
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/24/2026, 3:26:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40122964489
+claimed_at: 2026-10-24T20:26:48.541Z
 decision: null
 decision_answer: null
 ---
