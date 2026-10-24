@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Hogan pictured-detail continuation 10/24/2026, 5:29:33 AM CT
+claimed_by: Hogan pictured-detail continuation 10/24/2026, 8:21:30 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-24T10:29:34.792Z
+claimed_at: 2026-10-24T13:21:30.738Z
 decision: null
 decision_answer: null
 ---
