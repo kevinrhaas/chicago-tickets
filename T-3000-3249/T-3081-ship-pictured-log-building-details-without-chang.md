@@ -1,7 +1,7 @@
 ---
 id: T-3081
 title: Ship pictured log-building details without changing other houses
-state: claimed
+state: review
 epic: TOWN
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-23
 closed: null
-pr: null
+pr: 1260
 claimed_by: Codex log-building picture integration 10/23/2026, 6:00:05 PM CT
 blocked_on: null
 needs_bake: true
