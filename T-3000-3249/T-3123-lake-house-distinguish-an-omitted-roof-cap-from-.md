@@ -1,7 +1,7 @@
 ---
 id: T-3123
 title: Lake House: distinguish an omitted roof cap from a flat roof and state reconstruction
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 2:14:48 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-24T19:14:50.010Z
 decision: null
 decision_answer: null
+group: T-3122,T-3123,T-3124
 ---
 
 Correct the fort producer's omitted-roof semantics for the existing Lake House construction model, with an honest confidence statement. This is one bounded semantic/model correction, not a reconstruction of the later completed hotel.
