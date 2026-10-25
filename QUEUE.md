@@ -26,7 +26,6 @@
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3122 — Lighthouse: adopt the reviewed source-shaped tower profile and appearance provenance
-T-3123 — Lake House: distinguish an omitted roof cap from a flat roof and state reconstruction
 T-3124 — Second Fort officers: reconstruct the earlier upper piazza with unresolved range identity
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
@@ -39,7 +38,6 @@ T-3124 — Second Fort officers: reconstruct the earlier upper piazza with unres
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
-T-3136 — Glessner's sign-off reading: every match record that reads differs re-read against the current master, each open difference named precisely with its stale parts struck, each record with nothing open given the difference it still shows or ruled matches, and the discrepancy register brought to the current master with what is attested against what is inferred
 T-3137 — Glessner's 18th Street gable light against HABS 14 (handed on by T-3127): the transom the print sets about 0.3-0.5 ft under the build's and the fan's fewer, broader voussoirs than the 11 built, read with a second picture or ruled on the one, rebuilt and rebaked
 T-3138 — Glessner's 18th Street stack above the coping on HABS 17 (handed on by T-3065 and T-3116): the stack's proportion above the coping's junction (1.15 of its seen width in the print, 0.95 in the render) read through a camera fitted at the stack, with the junction's height (photographs 42.5-43.0 ft ng against the built 43.3), ruled and built
 T-3139 — Glessner's stable end on HABS 01 and HABS 15: each camera fitted at the stable (HABS 01's is fitted at the Prairie corner and stands about 28 px off there; HABS 15's roll of about 1.2 degrees and its 13-20 px offset at the loft put the hoist about 15 px west), the hoist and stable end read and built to them

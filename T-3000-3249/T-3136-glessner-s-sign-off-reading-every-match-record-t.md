@@ -1,7 +1,7 @@
 ---
 id: T-3136
 title: Glessner's sign-off reading: every match record that reads differs re-read against the current master, each open difference named precisely with its stale parts struck, each record with nothing open given the difference it still shows or ruled matches, and the discrepancy register brought to the current master with what is attested against what is inferred
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3117
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: 1299
 claimed_by: run 10/25/2026, 3:25:49 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T09:46:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40176039646
 claimed_at: 2026-10-25T08:25:50.359Z
 decision: null
