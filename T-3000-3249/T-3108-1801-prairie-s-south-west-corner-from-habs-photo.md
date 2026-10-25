@@ -1,7 +1,7 @@
 ---
 id: T-3108
 title: 1801 Prairie's south-west corner from HABS photograph 1: the two-storey round corner bay under its pierced balcony south of the gabled pavilion, the pavilion's face narrowed to the print's paired lights and its gable re-centred, then HABS 1's camera re-solved on the rebuilt front (its cornice reads up to 85 px over the build's at the corner) and the Taylor match record re-read
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3003
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 10:43:38 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40207960171
+claimed_at: 2026-10-25T15:43:38.816Z
 decision: null
 decision_answer: null
 ---
