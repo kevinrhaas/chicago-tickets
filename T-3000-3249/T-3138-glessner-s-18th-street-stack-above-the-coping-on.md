@@ -1,7 +1,7 @@
 ---
 id: T-3138
 title: Glessner's 18th Street stack above the coping on HABS 17 (handed on by T-3065 and T-3116): the stack's proportion above the coping's junction (1.15 of its seen width in the print, 0.95 in the render) read through a camera fitted at the stack, with the junction's height (photographs 42.5-43.0 ft ng against the built 43.3), ruled and built
-state: open
+state: withdrawn
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3117
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: Within tolerance under the owner's photo-ticket stopping rule (Kevin, 2026-10-25: 'Full rule, close 5 now'): the gap is under about 1 ft and not a missing, mis-shaped or miscounted element, so it is recorded in the match record as within tolerance instead of worked
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T13:22:12.799Z
 claimed_run: null
 claimed_at: null
 decision: null
