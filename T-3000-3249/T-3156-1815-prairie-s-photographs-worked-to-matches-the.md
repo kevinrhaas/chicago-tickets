@@ -1,7 +1,7 @@
 ---
 id: T-3156
 title: 1815 Prairie's photographs worked to matches: the pavilion's attic storey with its paired lights under its steep roof and its full width beside the door, the door's pedimented hood and the stoop's newels, the rock-faced south flank, the cresting and finials, the oblique's camera (and the Glessner House Museum's photograph of the same view) solved, and which front stood in 1904 against the Heun remodel of 1902 (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1893
 opened: 2026-10-25
 closed: null
-pr: null
+pr: 1326
 claimed_by: run 10/25/2026, 4:42:35 PM CT
 blocked_on: null
 needs_bake: false
