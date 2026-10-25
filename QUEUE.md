@@ -19,6 +19,7 @@
 #   1904 (band 7, nearest Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
+T-3146 — Glessner's own close stands over Full's 4.6 M triangle budget (found by T-3012): on Prairie 38 m east and 30 m south of the house's centre looking at it, 4,751,044 without the view filter and 4,675,021 with it; on 18th 45 m west and 32 m north, 4,720,756 and 4,593,424; read what carries them (the sun's pass carries Glessner whole, about 585,000) and bring them inside, receipts in docs/RESEARCH/calumet-walk-budget-3012/
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 
