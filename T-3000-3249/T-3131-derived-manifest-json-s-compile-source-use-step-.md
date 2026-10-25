@@ -1,7 +1,7 @@
 ---
 id: T-3131
 title: derived_manifest.json's compile_source_use step lists 303 of the 436 per-source sidecars, so rederive --resolve refuses a conflict on the other 134 and a lap that takes one side silently drops a branch's source-use edges
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-24
 closed: null
-pr: null
+pr: 1291
 claimed_by: run 10/25/2026, 12:11:12 AM CT
 blocked_on: null
 needs_bake: false
