@@ -1,7 +1,7 @@
 ---
 id: T-3093
 title: 1812 Prairie's carving, tone and rear, and both match records brought to matches: the frieze's interlace and the shield bosses, the stone lighter than the brick, the south wall's paler brick and downpipe ruled, the rear from the 1911 sheet, every open item in the Levy and c. 1955 records fixed or argued (after the pieces before it, with T-3075)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3035
 opened: 2026-10-23
-closed: null
+closed: 2026-10-25
 pr: 1313
 claimed_by: run 10/25/2026, 11:45:54 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T18:57:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40212744056
 claimed_at: 2026-10-25T16:45:55.343Z
 decision: null

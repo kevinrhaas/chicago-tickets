@@ -43,7 +43,6 @@ T-3108 — 1801 Prairie's south-west corner from HABS photograph 1: the two-stor
 T-3109 — 1801 Prairie's south face and roof from HABS photograph 1: the south bay's canted sides and openings, the hooded dormers between the stacks and behind the corner balcony, the stacks' latticed heads and collars, the pinnacle at the roof's south-east corner, and the recessed stair range behind the south-east corner
 T-3110 — 1801 Prairie's east side and rear from HABS photograph 2 (from the north-west) and the 1911 sheet: the camera solved, the east range's run to the alley and the rear faces the Taylor camera cannot see brought to it
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-3093 — 1812 Prairie's carving, tone and rear, and both match records brought to matches: the frieze's interlace and the shield bosses, the stone lighter than the brick, the south wall's paler brick and downpipe ruled, the rear from the 1911 sheet, every open item in the Levy and c. 1955 records fixed or argued (after the pieces before it, with T-3075)
 T-1885 — Finish 1812 Wheeler shaped-gable house architecture
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
