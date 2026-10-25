@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 6:06:34 PM CT
+claimed_by: run 10/25/2026, 4:54:08 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-24T23:06:36.364Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40237307557
+claimed_at: 2026-10-25T21:54:08.925Z
 decision: null
 decision_answer: null
-group: T-3122,T-3123,T-3124
 ---
 
 Adopt the reviewed, source-shaped lighthouse prototype through selective opt-in controls on the current fort producer. This is a bounded visible model and provenance increment, not completion of the original picture-match case.
