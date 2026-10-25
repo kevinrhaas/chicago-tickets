@@ -1,7 +1,7 @@
 ---
 id: T-3147
 title: Glessner's stable-end cameras: HABS 15 refitted at the stable on measured controls (sheet 2's doorway, sheet 5's soffit, sheet 3's loft and light jambs, the north-west arris), and the hoist stone read through it and through HABS 01's stable-fitted doorway camera against the build
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3139
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: 1304
 claimed_by: run 10/25/2026, 5:03:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T11:36:05Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40182000561
 claimed_at: 2026-10-25T10:03:20.887Z
 decision: null
