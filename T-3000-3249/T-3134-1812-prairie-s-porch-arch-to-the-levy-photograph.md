@@ -1,7 +1,7 @@
 ---
 id: T-3134
 title: 1812 Prairie's porch arch to the Levy photograph: its head a half ellipse flatter at the crown in a narrow moulded ring of light stone, its heavy moulded transom beam and the fanlight's narrow columns of small panes, and the stair's north cheek flared out as it sweeps down with both cheeks ending in a carved newel under a cap
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3114
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 2:22:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40171997721
+claimed_at: 2026-10-25T07:22:35.125Z
 decision: null
 decision_answer: null
 ---
