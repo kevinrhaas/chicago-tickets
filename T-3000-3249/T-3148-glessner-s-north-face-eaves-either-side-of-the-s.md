@@ -1,7 +1,7 @@
 ---
 id: T-3148
 title: Glessner's north-face eaves either side of the stable gable (found by T-3139): through HABS 15's stable-fitted camera the print draws the eave level on both sides at about 24.1-24.4 ft, where the build steps from 23.1 ft east of the gable to about 26.2 ft west of it; read through HABS 01's stable camera, rule and build
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3139
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 9:42:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40203104282
+claimed_at: 2026-10-25T14:42:12.300Z
 decision: null
 decision_answer: null
 ---
