@@ -1,7 +1,7 @@
 ---
 id: T-3136
 title: Glessner's sign-off reading: every match record that reads differs re-read against the current master, each open difference named precisely with its stale parts struck, each record with nothing open given the difference it still shows or ruled matches, and the discrepancy register brought to the current master with what is attested against what is inferred
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3117
 opened: 2026-10-25
 closed: null
-pr: null
+pr: 1299
 claimed_by: run 10/25/2026, 3:25:49 AM CT
 blocked_on: null
 needs_bake: false
