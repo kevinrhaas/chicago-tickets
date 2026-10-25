@@ -1,7 +1,7 @@
 ---
 id: T-3122
 title: Lighthouse: adopt the reviewed source-shaped tower profile and appearance provenance
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-24
-closed: null
+closed: 2026-10-25
 pr: 1323
 claimed_by: run 10/25/2026, 4:54:08 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-25T23:12:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40237307557
 claimed_at: 2026-10-25T21:54:08.925Z
 decision: null
