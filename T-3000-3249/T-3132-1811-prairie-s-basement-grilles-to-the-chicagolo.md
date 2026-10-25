@@ -1,7 +1,7 @@
 ---
 id: T-3132
 title: 1811 Prairie's basement grilles to the Chicagology photograph (scrolled rosette panels, the lights taken down to its foot) and the porch arcade stepped down round its corner as the plate and the photograph step it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3129
 opened: 2026-10-25
 closed: null
-pr: null
+pr: 1295
 claimed_by: run 10/25/2026, 1:53:33 AM CT
 blocked_on: null
 needs_bake: false
