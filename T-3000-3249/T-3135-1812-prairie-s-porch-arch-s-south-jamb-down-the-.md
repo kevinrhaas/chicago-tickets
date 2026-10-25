@@ -1,7 +1,7 @@
 ---
 id: T-3135
 title: 1812 Prairie's porch arch's south jamb down the projection's corner (found by T-3114): Levy's print puts the arch's south moulding at x 740-755 px and its intrados near x 755, on the projection's own face about 0.3 m south of its north face (x 775), so the arch either stands forward of the main front or is cut into the projection's corner; read it through both cameras, rule which, and build it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3114
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 4:01:13 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40178595893
+claimed_at: 2026-10-25T09:01:13.810Z
 decision: null
 decision_answer: null
 ---
