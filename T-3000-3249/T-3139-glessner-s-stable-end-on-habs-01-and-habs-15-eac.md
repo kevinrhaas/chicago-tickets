@@ -1,7 +1,7 @@
 ---
 id: T-3139
 title: Glessner's stable end on HABS 01 and HABS 15: each camera fitted at the stable (HABS 01's is fitted at the Prairie corner and stands about 28 px off there; HABS 15's roll of about 1.2 degrees and its 13-20 px offset at the loft put the hoist about 15 px west), the hoist and stable end read and built to them
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3117
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: null
 claimed_by: run 10/25/2026, 4:51:54 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T10:03:14.915Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40182000561
 claimed_at: 2026-10-25T09:51:55.386Z
 decision: null
