@@ -40,7 +40,6 @@ T-3122 — Lighthouse: adopt the reviewed source-shaped tower profile and appear
 T-3109 — 1801 Prairie's south face and roof from HABS photograph 1: the south bay's canted sides and openings, the hooded dormers between the stacks and behind the corner balcony, the stacks' latticed heads and collars, the pinnacle at the roof's south-east corner, and the recessed stair range behind the south-east corner
 T-3110 — 1801 Prairie's east side and rear from HABS photograph 2 (from the north-west) and the 1911 sheet: the camera solved, the east range's run to the alley and the rear faces the Taylor camera cannot see brought to it
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-1885 — Finish 1812 Wheeler shaped-gable house architecture
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
