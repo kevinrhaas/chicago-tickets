@@ -64,7 +64,6 @@ T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3154 — Indiana Avenue's 1925-1929 and 1935-1937 on the 18th-20th face read for 1904: the 1911 sheet draws a one-storey P.O. sub-station across 1925-1929 and a one-storey corner store with 4B frame flats (216-216a E. 20th) behind it at 1935-1937; T-3151 traced both and ruled them phase_unresolved, so the lots stand empty until the 1902 Lakeside directory, the Blue Books 1904-1911 and the Tribune's columns say what stood there in 1904, and the census rulings and drafts follow
 T-2964 — 1816 Prairie's photograph worked to matches: the raised mansard crown over the front bay, the south bay's own mansard and dormers, the iron cresting, the carved window hoods, the iron front fence, the 1874 Land Owner engraving's camera solved, and every 1816 match record brought to matches (after the piece before it)
 T-3156 — 1815 Prairie's photographs worked to matches: the pavilion's attic storey with its paired lights under its steep roof and its full width beside the door, the door's pedimented hood and the stoop's newels, the rock-faced south flank, the cresting and finials, the oblique's camera (and the Glessner House Museum's photograph of the same view) solved, and which front stood in 1904 against the Heun remodel of 1902 (after the piece before it)
-T-1880 — Refine 1729 Pullman main house envelope
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
 T-1894 — Refine 1823 Dent house
