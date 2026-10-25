@@ -1,7 +1,7 @@
 ---
 id: T-1880
 title: Refine 1729 Pullman main house envelope
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1322
 claimed_by: run 10/25/2026, 3:50:51 PM CT
 blocked_on: null
 needs_bake: true
