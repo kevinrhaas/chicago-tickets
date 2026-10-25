@@ -39,6 +39,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 - Read the coped south wall's height again: the photograph puts it about 0.6 m over the build's 10.95 m (item 12), read against the flank's vanishing point through the camera whose depth along the flank T-3079 found wrong; the plate reads 10.98 m (T-3077). Rule which stands.
 - The 1891 Greeley-Carlson plate draws the rear 6 m about 2 m narrower on the south (T-3099's README) where the sheet draws it full width: rule it within the atlas's tolerance or build it.
 - The plate's and the Glessner print's flank-depth items (inland_architect_plate item 32, glessner_blog_print item 35) closed against T-3099 with what each camera still shows.
+- The basement lights' foot (chicagology_photo, found by T-3132): the photograph's lights stand about 0.15 m taller than the build's, their heads on the build's line and their foot 14 px lower over a plinth about half as deep; the bay's basement storey keeps its clear wall from 0.10 m, so lowering the lights means lowering the bay's plinth.
 - Then each of the four 1811 records reviewed element by element and set to matches with nothing open.
 
 Found by T-3132 (piece 1 of T-3129), which built the basement grilles and the arcade's step-down.
