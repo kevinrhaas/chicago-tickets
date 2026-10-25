@@ -1,7 +1,7 @@
 ---
 id: T-2964
 title: 1816 Prairie's photograph worked to matches: the raised mansard crown over the front bay, the south bay's own mansard and dormers, the iron cresting, the carved window hoods, the iron front fence, the 1874 Land Owner engraving's camera solved, and every 1816 match record brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1886
 opened: 2026-10-20
 closed: null
-pr: null
+pr: 1318
 claimed_by: run 10/25/2026, 2:03:32 PM CT
 blocked_on: null
 needs_bake: false
