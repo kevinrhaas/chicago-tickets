@@ -34,3 +34,12 @@ When T-3129 was split (2026-10-25T06:53:17.930Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40169171045) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+- Build or rule the photograph's flank at its rear: arched ground-floor heads at x 1143, 1163, 1180 and 1195 px with tall first-floor lights over them (chicagology_photo.match.json item 11), where the build has flat-headed sash. T-3099 ruled the house the 1911 sheet's continuous 26 m body for 1904 and the "short lower range" the rear seen end-on through a near camera, so these are the house's own rear openings, not a lost range.
+- Read the coped south wall's height again: the photograph puts it about 0.6 m over the build's 10.95 m (item 12), read against the flank's vanishing point through the camera whose depth along the flank T-3079 found wrong; the plate reads 10.98 m (T-3077). Rule which stands.
+- The 1891 Greeley-Carlson plate draws the rear 6 m about 2 m narrower on the south (T-3099's README) where the sheet draws it full width: rule it within the atlas's tolerance or build it.
+- The plate's and the Glessner print's flank-depth items (inland_architect_plate item 32, glessner_blog_print item 35) closed against T-3099 with what each camera still shows.
+- Then each of the four 1811 records reviewed element by element and set to matches with nothing open.
+
+Found by T-3132 (piece 1 of T-3129), which built the basement grilles and the arcade's step-down.
+
