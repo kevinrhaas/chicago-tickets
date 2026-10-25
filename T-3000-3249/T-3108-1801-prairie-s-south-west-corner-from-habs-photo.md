@@ -1,7 +1,7 @@
 ---
 id: T-3108
 title: 1801 Prairie's south-west corner from HABS photograph 1: the two-storey round corner bay under its pierced balcony south of the gabled pavilion, the pavilion's face narrowed to the print's paired lights and its gable re-centred, then HABS 1's camera re-solved on the rebuilt front (its cornice reads up to 85 px over the build's at the corner) and the Taylor match record re-read
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3003
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: run 10/25/2026, 10:43:38 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40207960171
-claimed_at: 2026-10-25T15:43:38.816Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -52,3 +52,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **HABS 1's camera cannot be re-solved on the build as it stands.** A least-squares fit (eye, heading, focal, principal point; roll held at -0.93°) on the arch crown (20.5, 1.6, 3.9 m) → (395, 945), the face's edges, the pavilion's three sill/head rows (5.6 / 7.8 / 9.6 / 11.45 m) and the south-east cornice goes unphysical (eye below grade, rms 25-35 px). Read on its own, the pavilion's rows give about 61 px a metre at the face and put the photograph's gable finial near **14.6 m**, where the Taylor-matched build has 16.82 m. So the camera's re-solve is a question about the pavilion's storey heights between the two pictures, not about its corner.
 
 **What the ticket needs, and why it is not an S.** (1) A round corner bay that K01/K08 can build: openings on the round, a pierced stone balcony on its cornice, the main eave and the mansard set back over it (today's `round_corner` takes no openings and squares itself under the wall head; a K08 corner tower stands only on a rear wing). (2) The pavilion's width settled between the sheet's ~2.4 m and Taylor's apparent ~3.7 m: the difference may be the round's near part read as face from the north-west, which only a build carrying the round can show through the Taylor camera. (3) Then HABS 1's camera re-solved with the storey-height question above in view. One kit extension plus a two-camera re-read is about M, not S.
+
+**Released 2026-10-25** (claim of run 10/25/2026, 10:43:38 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40207960171): Built the narrowed pavilion and K01 round corner off the 1911 trace and HABS 1, and reverted it: it regresses the Taylor view (the face 70 px against the print's ~100, the squared eave 50 px past the cheek). The round bay needs a kit extension (openings and a balcony on a round corner, the mansard set back over it), and HABS 1's camera re-solve is a storey-height question; measurements are in the ticket's Finding section. About M, not S.
