@@ -1,7 +1,7 @@
 ---
 id: T-3132
 title: 1811 Prairie's basement grilles to the Chicagology photograph (scrolled rosette panels, the lights taken down to its foot) and the porch arcade stepped down round its corner as the plate and the photograph step it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3129
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 1:53:33 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40169171045
+claimed_at: 2026-10-25T06:53:34.085Z
 decision: null
 decision_answer: null
 ---
