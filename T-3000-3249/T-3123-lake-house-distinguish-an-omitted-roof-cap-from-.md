@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 6:06:34 PM CT
+claimed_by: run 10/25/2026, 2:31:53 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-24T23:06:36.364Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40172812402
+claimed_at: 2026-10-25T07:31:53.544Z
 decision: null
 decision_answer: null
-group: T-3122,T-3123,T-3124
 ---
 
 Correct the fort producer's omitted-roof semantics for the existing Lake House construction model, with an honest confidence statement. This is one bounded semantic/model correction, not a reconstruction of the later completed hotel.
