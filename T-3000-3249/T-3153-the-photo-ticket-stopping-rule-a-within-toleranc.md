@@ -1,7 +1,7 @@
 ---
 id: T-3153
 title: The photo-ticket stopping rule: a within-tolerance status in the image gate, no run-filed photo follow-ups for a photo-gated house, a sign-off is never split, and a 25-ticket cap per house
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: 1306
 claimed_by: run 10/25/2026, 8:24:49 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T14:12:54Z
 claimed_run: null
 claimed_at: 2026-10-25T13:24:50.185Z
 decision: null
