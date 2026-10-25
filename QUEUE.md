@@ -202,7 +202,6 @@ T-2372 — Match Eliza Chappel's infant school to its pictures
 T-2373 — Match the 1832 lighthouse to its pictures
 T-2374 — Match Cobweb Castle to its pictures
 T-2375 — Match the Dearborn Street drawbridge to its pictures
-T-3126 — Dearborn: adopt pictured board parapets while retaining the flat deck
 T-2376 — Match the Green Tree Tavern to its pictures
 T-2377 — Match Hogan's store, the first post office to its pictures
 T-2378 — Match J. B. Beaubien's homestead to its pictures
