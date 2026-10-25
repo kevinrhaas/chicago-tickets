@@ -1,7 +1,7 @@
 ---
 id: T-3011
 title: The background ground no 1904 lot covers, drafted as bounded masses or recorded open: the Indiana half of the 18th-20th block (the census's most-seen target, 48 Prairie stands; lots from T-1745 or a bounded mass) and the Illinois Central strip behind Prairie's 16th-18th east lots; then the views west to Indiana, east to Calumet and down every cross street captured at 1280x800 and 390x780 with 1904's load, heap and frame time against the pre-background baseline
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2983
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 4:20:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40179653753
+claimed_at: 2026-10-25T09:20:12.254Z
 decision: null
 decision_answer: null
 ---
