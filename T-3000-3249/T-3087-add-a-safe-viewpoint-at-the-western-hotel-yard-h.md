@@ -1,7 +1,7 @@
 ---
 id: T-3087
 title: Add a safe viewpoint at the Western Hotel yard horse
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-2800
 opened: 2026-10-23
-closed: null
+closed: 2026-10-25
 pr: 1279
 claimed_by: Transport recovery continuing saved group after runtime reconnection 10/24/2026, 5:25:25 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T15:41:24Z
 claimed_run: null
 claimed_at: 2026-10-24T10:25:26.697Z
 decision: null

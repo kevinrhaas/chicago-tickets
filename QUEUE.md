@@ -41,8 +41,6 @@ T-3148 — Glessner's north-face eaves either side of the stable gable (found by
 T-3140 — Glessner's photographic sign-off: every match record reading matches with nothing open, the discrepancy register's final acceptance written with what is attested against inferred, and every courtyard and rear face reviewed, sheet 4's datum (T-2978) included (after the pieces before it)
 T-3143 — Glessner's stable north-gable pigeon holes (found by T-3136): the Cornell print and HABS 01 both show round-headed holes about a course tall (about 0.8 ft) where the build has 0.45-0.65 ft slits in rows 1.35-1.55 ft apart (the Cornell print about 1.75), and HABS 01 sets the ledge higher under the apex (apex-to-ledge about 2.7 times ledge-to-arch-crown against the render's 3.7); read through the stable cameras T-3139 fits, rule and build
 T-3152 — Glessner's 18th Street stand 45 m west and 32 m north at desktop Full stands only 5,843 triangles inside the 4.6 M budget after T-3146 (4,594,157): the sun throws the house's shadow toward that camera, and its view pass is 1,408,436 of 1,421,694 though only the north and west fronts are seen; find a conservative way to leave the court, south and east walls hidden behind its own walls out of the colour pass (T-2227's one-triangle containment rarely finds them), receipts in docs/RESEARCH/glessner-close-budget-3146/
-T-3107 — 1801 Prairie's south face from HABS photograph 1 (Harold Allen, June 1965, from the south-west): the picture ingested, its camera solved into data/reference_views/kimball_house_1801_prairie/, its match record written, and the south wall's two tall stone stacks built to it
-T-3125 — Keep long release notes inside the Navigator at every text size
 T-3108 — 1801 Prairie's south-west corner from HABS photograph 1: the two-storey round corner bay under its pierced balcony south of the gabled pavilion, the pavilion's face narrowed to the print's paired lights and its gable re-centred, then HABS 1's camera re-solved on the rebuilt front (its cornice reads up to 85 px over the build's at the corner) and the Taylor match record re-read
 T-3109 — 1801 Prairie's south face and roof from HABS photograph 1: the south bay's canted sides and openings, the hooded dormers between the stacks and behind the corner balcony, the stacks' latticed heads and collars, the pinnacle at the roof's south-east corner, and the recessed stair range behind the south-east corner
 T-3110 — 1801 Prairie's east side and rear from HABS photograph 2 (from the north-west) and the 1911 sheet: the camera solved, the east range's run to the alley and the rear faces the Taylor camera cannot see brought to it
@@ -161,7 +159,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 T-2793 — Build one articulated period wagon master from the existing wagon families
 T-2980 — Upgrade selected covered wagons while preserving their distinct finishes
 # Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).
-T-3083 — Refine the catalogue Brougham lamp housings
 T-3084 — Match the Brougham body and materials to the 1893 catalogue
 T-3085 — Qualify Brougham interfaces and portable distance delivery in town
 T-2795 — Animate vehicle running gear and matched draft-horse hitches
@@ -170,8 +167,6 @@ T-2797 — Board, ride and leave a carriage or wagon with accessible controls
 
 # --- 8E. PERIOD HORSES AND GEAR — photographic animals, tack, riders, then mounting/riding (epic T-2798)
 # Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
-T-3086 — Repair planted horse eye UVs while preserving its mechanics
-T-3087 — Add a safe viewpoint at the Western Hotel yard horse
 T-3088 — Refine the horse anatomy and near silhouette against cleared views
 T-3089 — Qualify horse surface materials and portable distance exports
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
