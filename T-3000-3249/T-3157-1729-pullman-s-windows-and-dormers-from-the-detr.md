@@ -1,7 +1,7 @@
 ---
 id: T-3157
 title: 1729 Pullman's windows and dormers from the Detroit print: the Prairie front's street windows round-arched on both storeys, the two Prairie dormers arched in place of their hoods, and the two dormers on the 18th Street face
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1881
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 6:00:22 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40241549844
+claimed_at: 2026-10-25T23:00:23.424Z
 decision: null
 decision_answer: null
 ---
