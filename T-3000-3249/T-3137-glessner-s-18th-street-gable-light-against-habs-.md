@@ -1,7 +1,7 @@
 ---
 id: T-3137
 title: Glessner's 18th Street gable light against HABS 14 (handed on by T-3127): the transom the print sets about 0.3-0.5 ft under the build's and the fan's fewer, broader voussoirs than the 11 built, read with a second picture or ruled on the one, rebuilt and rebaked
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3117
 opened: 2026-10-25
 closed: null
-pr: null
+pr: 1305
 claimed_by: run 10/25/2026, 7:09:28 AM CT
 blocked_on: null
 needs_bake: false
