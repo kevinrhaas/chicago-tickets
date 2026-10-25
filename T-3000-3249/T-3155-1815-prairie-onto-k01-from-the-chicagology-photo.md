@@ -1,7 +1,7 @@
 ---
 id: T-3155
 title: 1815 Prairie onto K01 from the Chicagology photographs: the 1911 sheet's front block, stair projection, canted south-flank bay and rear range, the north pavilion under a steep hipped crown, the door and stoop, the corner bay with its pierced stone balcony, the slated mansard with its gabled dormer, and the square-on photograph's camera solved with its match record
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1893
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: 1320
 claimed_by: run 10/25/2026, 3:43:00 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T21:35:39Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40229169915
 claimed_at: 2026-10-25T20:43:01.001Z
 decision: null
