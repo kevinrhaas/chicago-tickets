@@ -1,7 +1,7 @@
 ---
 id: T-3114
 title: 1812 Prairie's entrance and stair to the Levy photograph: the porch arch's jamb down the projection's corner in a narrow moulded ring with a flatter crown (nearer a half ellipse), its heavy transom beam and paned fanlight, and the stair's flared north cheek and carved newels
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3092
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 2:18:09 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40171997721
+claimed_at: 2026-10-25T07:18:10.138Z
 decision: null
 decision_answer: null
 ---
