@@ -34,6 +34,9 @@ When T-3003 was split (2026-10-24T09:14:09.287Z), this was already on it. Read i
 
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40079431083) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** In the normally claimed T-3107/T-3108 group, demonstrate the exact original T-3107 ask through the current HABS1/Taylor source-bound comparison: ingested credited HABS1 photo, valid camera/match record, and both southwall stone stacks with a source-consistent phase/vertical interpretation. Two bodies/material alone do not close the open frontstack extent/phase issue. The existing18m ruling and unfilled earlier template are not proof of completion. Keep each discrepancy open until the actual new model/photo review resolves it; do not mark MATCH while visible differences remain or infer1904height from1965alone. T-3108's front/camera demonstration is reviewed together with this stack question; T-3109/10 and fullT-1890 remain OPEN. Current-source canonical outputs, full normal preflight/ordinary CI, published all15parts at390x780 and1280x800, and credited HABS photo plus actual screenshot visual review are required before delivery. No image-gate/liveness/assertion override.
 
 **Reopened 2026-10-24:** PR #1278 was closed without merging.
+
+
+**Grouped resume 2026-10-25T00:40:43.446792+00:00:** Normal replacement draft [#1290](https://github.com/kevinrhaas/chicago/pull/1290) preserves closed/unmerged1278/H747 and carries T-3107+T-3108 together. Implementation and qualification remain PENDING; no MATCH/closure claim.
