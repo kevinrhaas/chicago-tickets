@@ -1,7 +1,7 @@
 ---
 id: T-3108
 title: 1801 Prairie's south-west corner from HABS photograph 1: the two-storey round corner bay under its pierced balcony south of the gabled pavilion, the pavilion's face narrowed to the print's paired lights and its gable re-centred, then HABS 1's camera re-solved on the rebuilt front (its cornice reads up to 85 px over the build's at the corner) and the Taylor match record re-read
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-3003
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: codex-api-diagnosis-kimball-group-20261025T002647Z 10/24/2026, 7:40:27 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-25T00:40:28.894Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3107,T-3108
 ---
 
 1801 Prairie's south-west corner from HABS photograph 1: the two-storey round corner bay under its pierced balcony south of the gabled pavilion, the pavilion's face narrowed to the print's paired lights and its gable re-centred, then HABS 1's camera re-solved on the rebuilt front (its cornice reads up to 85 px over the build's at the corner) and the Taylor match record re-read.
@@ -38,3 +37,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 
 
 **Grouped resume 2026-10-25T00:40:43.447290+00:00:** Normal replacement draft [#1290](https://github.com/kevinrhaas/chicago/pull/1290) preserves closed/unmerged1278/H747 and carries T-3107+T-3108 together. Implementation and qualification remain PENDING; no MATCH/closure claim.
+
+**Released 2026-10-25** (claim of codex-api-diagnosis-kimball-group-20261025T002647Z 10/24/2026, 7:40:27 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40200128019): Resume PR #1290 ships T-3107 alone on the owner's 2026-10-25 handoff ('finish T-3108, or ship T-3107 alone and leave T-3108 to its ticket'); none of T-3108's round bay, pavilion or HABS1 re-solve was built on the branch.

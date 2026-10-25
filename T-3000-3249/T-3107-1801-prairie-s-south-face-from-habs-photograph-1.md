@@ -19,7 +19,6 @@ claimed_run: null
 claimed_at: 2026-10-25T00:40:28.890Z
 decision: null
 decision_answer: null
-group: T-3107,T-3108
 ---
 
 1801 Prairie's south face from HABS photograph 1 (Harold Allen, June 1965, from the south-west): the picture ingested, its camera solved into data/reference_views/kimball_house_1801_prairie/, its match record written, and the south wall's two tall stone stacks built to it.
