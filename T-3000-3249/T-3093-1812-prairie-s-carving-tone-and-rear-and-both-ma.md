@@ -40,3 +40,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 The building closes here (AGENTS.md rule 11): every view below must be `matches`.
 
 - wheeler_house_1812_prairie
+
+## The 1812 Prairie sign-off (owner, 2026-10-25)
+
+Under the photo-ticket stopping rule Kevin chose on 2026-10-25, this is the last 1812 Prairie photo ticket after T-3144 (claimed) lands. T-3075 (south corner about 20 px off in Levy's print) was withdrawn as within tolerance; record it so in the Levy match record. Fix what a street visitor would notice (over about 1 ft, a missing or mis-shaped element, a wrong count, a wrong material or tone), mark the rest `within tolerance`, and do not split this ticket or file follow-ups.

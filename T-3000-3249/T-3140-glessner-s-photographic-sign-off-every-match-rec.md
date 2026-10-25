@@ -34,3 +34,11 @@ When T-3117 was split (2026-10-25T08:25:38.446Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40176039646) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## The last Glessner photo ticket (owner, 2026-10-25)
+
+Kevin chose "Full rule, close 5 now" on the photo-ticket stopping rule (thread "Stop endless photo-match tickets"). This sign-off has been re-filed five times (T-2228, T-2761, T-2854, T-3028, T-3117), so:
+
+- **Take T-3143 (pigeon holes) and T-3148 (north eave step) as this ticket's group** and finish all three in one PR. They are the two open Glessner gaps a street visitor would notice.
+- **Every other open difference is marked `within tolerance`** in its match record (under about 1 ft, a pixel offset, or two pictures or camera fits disagreeing), with what was read, and the record reads `matches`. T-3141, T-3142 and T-3138 were withdrawn on this ground.
+- **Do not split this ticket and file no follow-up.** Anything left over goes into the discrepancy register, not a new ticket. New Glessner photo work comes only from the owner.
