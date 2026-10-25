@@ -1,7 +1,7 @@
 ---
 id: T-1893
 title: Refine 1815 Sears-Meeker altered house
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-25
 pr: null
 claimed_by: run 10/25/2026, 3:09:55 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-25T20:42:55.970Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40229169915
 claimed_at: 2026-10-25T20:09:56.182Z
 decision: null
