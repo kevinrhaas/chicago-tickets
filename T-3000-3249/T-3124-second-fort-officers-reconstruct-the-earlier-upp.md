@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: Codex fort-family profile and piazza; parallel Chicago 4D 10/24/2026, 6:06:34 PM CT
+claimed_by: run 10/25/2026, 2:42:39 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: 2026-10-24T23:06:36.364Z
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40173515365
+claimed_at: 2026-10-25T07:42:39.589Z
 decision: null
 decision_answer: null
-group: T-3122,T-3123,T-3124
 ---
 
 Enable a reconstructed upper piazza on the existing second-fort officers range using the reviewed earlier-text hypothesis and current repaired gallery helper. This is a bounded data and provenance increment with existing controls.
