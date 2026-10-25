@@ -1,7 +1,7 @@
 ---
 id: T-3150
 title: Indiana Avenue's east frontage, 18th to 20th Street, onto the 1904 grid from Sanborn 1911 sheet 27: the sheet ingested from the Library of Congress with its sha256, georeferenced by tying it to the lines sheets 20 and 28 already fit (Indiana and 18th, the 24-ft alley, 18th and 20th Streets), and the face's lots, its 18th and 20th Street corners and Indiana's east line read off it into data/street_grid/1904.json, so the block tiles and the Indiana carriageway is read rather than interpolated
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3145
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: 1310
 claimed_by: run 10/25/2026, 8:01:47 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-25T14:35:06Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40194994178
 claimed_at: 2026-10-25T13:01:48.384Z
 decision: null
