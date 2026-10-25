@@ -1,7 +1,7 @@
 ---
 id: T-3129
 title: Every 1811 Prairie match record brought to matches after the north pier (found by T-3101): the basement lights' scrolled grilles, the porch arcade's step-down on the 1888 plate, and the south flank and the front block's coped south wall once T-3099 rules them
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3112
 opened: 2026-10-24
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 1:32:23 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40169171045
+claimed_at: 2026-10-25T06:32:24.308Z
 decision: null
 decision_answer: null
 ---
