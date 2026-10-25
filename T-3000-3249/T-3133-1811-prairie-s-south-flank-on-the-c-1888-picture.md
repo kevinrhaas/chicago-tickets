@@ -1,7 +1,7 @@
 ---
 id: T-3133
 title: 1811 Prairie's south flank on the c. 1888 pictures after T-3099: the photograph's arched ground-floor heads and tall first-floor lights at the flank's rear, its coping read about 0.6 m over the build's 10.95 m, and the 1891 plate's rear 6 m drawn about 2 m narrower on the south, each built or ruled; then every 1811 match record brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3129
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 7:16:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40191951290
+claimed_at: 2026-10-25T12:16:07.533Z
 decision: null
 decision_answer: null
 ---
