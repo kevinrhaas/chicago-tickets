@@ -1,7 +1,7 @@
 ---
 id: T-3168
 title: 1824 and 1828 Prairie's pictures worked to matches: the partial view's camera solved, and every 1824 and 1828 match record brought to matches (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1887
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/26/2026, 4:41:30 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40404613453
-claimed_at: 2026-10-26T21:41:30.893Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -34,3 +34,5 @@ When T-1887 was split (2026-10-26T00:46:24.719Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40249652343) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-26** (claim of run 10/26/2026, 4:41:30 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40404613453): PR #1354 solves the partial view's camera and 1824's first camera and raises/crests 1828's mansard; the match records stay 'differs': 1828's porch arches/carving, stone balustrade, stoop parapets and bay-into-mansard need K01/K07 kit work, its mansard reads ~1 m short at K01's 4.5 m one-storey limit, and the print places 1824 5.8 m further back and 3.5 m further south against 1828 than the 1911 sheet (a placement ruling). Details in the three match records.
