@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: codex-transport-photoquality-root-20261026 10/26/2026, 2:28:44 PM CT
+claimed_by: Codex root transport memory recovery continuing original measured target and safe DEV integration 10/26/2026, 5:29:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T19:28:45.762Z
+claimed_at: 2026-10-26T22:29:47.125Z
 decision: null
 decision_answer: null
 ---
