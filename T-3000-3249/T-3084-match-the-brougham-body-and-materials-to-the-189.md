@@ -11,12 +11,12 @@ parent: T-2794
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex carriage photo-quality /root/carriage_finish continued own work 10/26/2026, 11:02:36 AM CT
+claimed_by: Codex root carriage_resume continuing owned Brougham delivery in this session 10/26/2026, 2:11:07 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T16:02:37.443Z
+claimed_at: 2026-10-26T19:11:09.931Z
 decision: null
 decision_answer: null
 ---
