@@ -1,7 +1,7 @@
 ---
 id: T-3160
 title: 1729 Pullman's 18th Street flank from the Detroit print: the two-arch arcade on piers under its balustrade, the flank's arched windows, and the low stone wall on round the corner along 18th Street
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1881
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 8:21:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40327419572
+claimed_at: 2026-10-26T13:21:15.419Z
 decision: null
 decision_answer: null
 ---
