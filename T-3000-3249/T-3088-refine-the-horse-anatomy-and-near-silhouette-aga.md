@@ -11,12 +11,12 @@ parent: T-2800
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex root horse_resume continuing owned canonical anatomy in this session 10/26/2026, 1:58:09 PM CT
+claimed_by: Codex root horse_resume continuing owned canonical anatomy in this session 10/26/2026, 4:58:23 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T18:58:10.380Z
+claimed_at: 2026-10-26T21:58:24.526Z
 decision: null
 decision_answer: null
 ---
