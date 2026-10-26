@@ -1,7 +1,7 @@
 ---
 id: T-3088
 title: Refine the horse anatomy and near silhouette against cleared views
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2800
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex horse photo-quality /root/kimball_resume 10/25/2026, 10:42:58 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-26T03:42:59.496Z
 decision: null
 decision_answer: null
 ---
