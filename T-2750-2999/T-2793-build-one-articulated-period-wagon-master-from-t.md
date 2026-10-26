@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Current photo-quality progress — 26 October 2026
+
+The articulated open-box master is checked and pushed at9355826a1; checked DEV intakee68353a7 is public in [draft PR1340](https://github.com/kevinrhaas/chicago/pull/1340). Actual final34-frame published master study passed with zero browser errors, and root/independent reviewer accepted the bounded reconstruction. Current pinned1e intake is uncommitted: native source-use compilation hit184510 bytes against its184000-byte raw index capacity. Both unique provenance records are retained; a documented raw-capacity update is being validated with the120KB compressed-wire limit unchanged. Final owner resolution, complete composed preflight, applicable current-app smoke, ordinary CI and DEV merge remain open.
+
+Checked-source receipts, actual diagnostics and retained failures: [transport checkpoint05](https://github.com/kevinrhaas/chicago-evidence/tree/4aafe1f3a2b6000bb59e64d80e3d127c68905d27/evidence/transport-photoquality-2026-10-26/CHECKPOINT-05-CHECKED-PEOPLE-AND-ACTUAL-FAILURES). This progress update does not close the ticket.
+
 ## Delivery progress — 2026-10-23 10:14 UTC
 
 PR #1175 merged to DEV (fffae74c7); its resident, timber wagons, distinct canvas and Brougham are delivered. PR #1213 closed as superseded after full63-path containment. Standing horse is applied on currentDEV e4745b3 in a separate branch; actual canonical owners, measured unit and isolation checks pass; fullpreflight and actual published app verification are next. Broad photographic, gait, complete gear, occupied teams and riding acceptance remain open. Full current source and actual merge/owner receipts are GitHub-checkpointed; see HANDOVER.md.

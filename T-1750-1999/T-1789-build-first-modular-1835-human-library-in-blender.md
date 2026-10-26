@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Current photo-quality progress — 26 October 2026
+
+Checked source is pushed at [1cbb18175](https://github.com/kevinrhaas/chicago/commit/1cbb1817508593562f99ed378b6932368b5699b9), in [draft PR1346](https://github.com/kevinrhaas/chicago/pull/1346): modular resident workwear and an optional reusable adult dress study for existing reconstructed residents. Complete native preflight passed1071 checks/384 intentional self-tests in805.578 seconds (over600-second timing target), and real new-HEAD checks passed. Source previews are drafts; canonical Blender exports, finished skin/hair/garments, photographic comparison and published-app/DEV qualification remain open. Official artifact-host access is still denied; the saved environment draft is not applied.
+
+Checked-source receipts, actual diagnostics and retained failures: [transport checkpoint05](https://github.com/kevinrhaas/chicago-evidence/tree/4aafe1f3a2b6000bb59e64d80e3d127c68905d27/evidence/transport-photoquality-2026-10-26/CHECKPOINT-05-CHECKED-PEOPLE-AND-ACTUAL-FAILURES). This progress update does not close the ticket.
+
 ## Delivery progress — 2026-10-23 10:14 UTC
 
 PR #1175 merged to DEV (fffae74c7); its resident, timber wagons, distinct canvas and Brougham are delivered. PR #1213 closed as superseded after full63-path containment. Standing horse is applied on currentDEV e4745b3 in a separate branch; actual canonical owners, measured unit and isolation checks pass; fullpreflight and actual published app verification are next. Broad photographic, gait, complete gear, occupied teams and riding acceptance remain open. Full current source and actual merge/owner receipts are GitHub-checkpointed; see HANDOVER.md.

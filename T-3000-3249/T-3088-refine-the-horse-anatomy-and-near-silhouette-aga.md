@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Current photo-quality progress — 26 October 2026
+
+The925fac95 hoof/body source remains intact and is being prepared for a complete native gate and checked progress commit. R7 eyelid warp is rejected for actual new intersections. The separate canonical strip prototype passed independent topology and strict two-row internal-UV controls, then FAILED actual patch/body and patch/globe crossing checks; it was not adopted. One bounded geometry correction is under diagnosis. Photographic eyelids, final canonical qualification, source commit, published-app checks and DEV merge remain open.
+
+Checked-source receipts, actual diagnostics and retained failures: [transport checkpoint05](https://github.com/kevinrhaas/chicago-evidence/tree/4aafe1f3a2b6000bb59e64d80e3d127c68905d27/evidence/transport-photoquality-2026-10-26/CHECKPOINT-05-CHECKED-PEOPLE-AND-ACTUAL-FAILURES). This progress update does not close the ticket.
+
 Refine the horse anatomy and near silhouette against cleared views.
 
 Piece 3 of 4 of **T-2800 — Build the first anatomically grounded photographic horse master**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.

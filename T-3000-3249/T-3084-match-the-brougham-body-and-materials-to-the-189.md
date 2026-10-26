@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Current photo-quality progress — 26 October 2026
+
+[Draft PR1335](https://github.com/kevinrhaas/chicago/pull/1335) preserves externally pushed mergee97b67d5 and the checked5ea4a985 body/physical masters. User confirmed no other session is active; this session holds the normal lap. Actual glass A/B exposed the extra world render pass and a real unconsumed HEAD-response abort. An external optical-only delivery derivative preserves every geometry byte; runtime integration is pending fresh Full/Light views and measured Full-only budget review. Simplifier candidates remain unqualified, and no cap/app fix or new complete gate is claimed.
+
+Checked-source receipts, actual diagnostics and retained failures: [transport checkpoint05](https://github.com/kevinrhaas/chicago-evidence/tree/4aafe1f3a2b6000bb59e64d80e3d127c68905d27/evidence/transport-photoquality-2026-10-26/CHECKPOINT-05-CHECKED-PEOPLE-AND-ACTUAL-FAILURES). This progress update does not close the ticket.
+
 Match the Brougham body and materials to the 1893 catalogue.
 
 Piece 2 of 3 of **T-2794 — Build one photographic period passenger-carriage master**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
