@@ -1,7 +1,7 @@
 ---
 id: T-3177
 title: Pullman's palm house rebuilt to J. W. Taylor's 18th Street photograph: the columned glass drum, its entablature, balustrade and ribbed dome, moved 3 m east of the 1911 sheet's semicircle onto the range's terrace, its camera solved and its match record at matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3165
 opened: 2026-10-26
 closed: null
-pr: null
+pr: 1349
 claimed_by: run 10/26/2026, 3:11:52 PM CT
 blocked_on: null
 needs_bake: false
