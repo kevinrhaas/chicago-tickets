@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex people photo-quality /root/anchor_audit 10/25/2026, 10:37:48 PM CT
+claimed_by: Codex people photo-quality /root/people_finish resumed own work 10/26/2026, 7:37:02 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T03:37:48.978Z
+claimed_at: 2026-10-26T12:37:03.562Z
 decision: null
 decision_answer: null
 ---
