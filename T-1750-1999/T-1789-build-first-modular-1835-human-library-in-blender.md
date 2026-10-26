@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex people photo-quality /root/people_finish continued own work 10/26/2026, 10:52:07 AM CT
+claimed_by: Codex root people_resume continuing owned portable resident library in this session 10/26/2026, 1:58:09 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T15:52:08.219Z
+claimed_at: 2026-10-26T18:58:10.974Z
 decision: null
 decision_answer: null
 ---
