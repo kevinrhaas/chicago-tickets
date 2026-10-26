@@ -11,12 +11,12 @@ parent: T-2800
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex horse photo-quality /root/horse_finish continued own work 10/26/2026, 10:43:05 AM CT
+claimed_by: Codex root horse_resume continuing owned canonical anatomy in this session 10/26/2026, 1:58:09 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T15:43:06.789Z
+claimed_at: 2026-10-26T18:58:10.380Z
 decision: null
 decision_answer: null
 ---
