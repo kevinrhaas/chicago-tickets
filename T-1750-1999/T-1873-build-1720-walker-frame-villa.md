@@ -1,7 +1,7 @@
 ---
 id: T-1873
 title: Refine 1720 Walker frame villa
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-26
 pr: null
 claimed_by: run 10/26/2026, 4:32:17 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-26T21:34:44.758Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40404188860
 claimed_at: 2026-10-26T21:32:18.514Z
 decision: null

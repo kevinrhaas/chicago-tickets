@@ -69,7 +69,9 @@ T-3168 — 1824 and 1828 Prairie's pictures worked to matches: the partial view'
 T-3175 — 1827 Prairie's front pavilion carried up an attic of three lights past the main cornice, under the Doane photograph's steep pyramidal roof with its finial
 T-3176 — 1827 Prairie's square tower set diagonally on the south-west corner, from the Doane photograph: reconcile the 1911 sheet's corner bump (a face about 2.4 m) with the photograph's (a face about 4-4.7 m, the same scale as the cornice and storeys), re-solve the camera on it (the committed one misses the pavilion's north edge by about 90 px), build the turned square on the K08 kit across the corner, and carry it up past the eave under its tall slated hip, crested top and two finials (after the piece before it)
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
-T-1873 — Refine 1720 Walker frame villa
+T-3180 — 1720 Prairie rebuilt in K16 clapboard from the Tyrrell photograph: its camera solved, the main body and south wing closed on every face over the raised basement, the front's sash where the photograph puts them, the low hip under its bracketed eave and a porch floor at the principal floor with its central steps
+T-3181 — 1720 Prairie's porch worked to the Tyrrell photograph: the paired posts, the three segmental arches, the balustrades, the stair's cheeks and the iron cresting round its deck
+T-3182 — 1720 Prairie's upper storey worked to the Tyrrell photograph: the canted bay under its hipped cap, the round-headed single and paired sash in arched casings, the frieze lights between paired brackets and the central front gable, and every 1720 match record brought to matches (after the pieces before it)
 T-1878 — Refine 1719-1721 Dexter address and altered house envelope
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
 T-1888 — Refine 1834 Jones post-1886 mansard
