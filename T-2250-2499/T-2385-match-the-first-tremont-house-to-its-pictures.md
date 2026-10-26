@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Tremont Gale evidence 2026-10-26 10/25/2026, 10:13:33 PM CT
+claimed_by: Codex Tremont Gale evidence 2026-10-26 10/26/2026, 12:49:26 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T03:13:34.114Z
+claimed_at: 2026-10-26T05:49:27.368Z
 decision: null
 decision_answer: null
 ---
