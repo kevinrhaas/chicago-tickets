@@ -69,7 +69,8 @@ T-3170 — The published tree is at its 384 MiB site budget: dev stands about 3.
 T-3163 — 1823 Prairie's pictures worked to matches: the north flank's one-storey bay under its hood, the pavilion's paired attic lights under its pediment, the mansard's cresting, the stone surrounds and the arched basement door under the landing, the 1883 album plate's camera solved, and every 1823 match record brought to matches (after the piece before it)
 T-3167 — 1824 Prairie onto K01: the 1911 sheet's plan with its stone strip and rear range, the retained 1857 villa's flanks and eaves read off the Pomeroy photograph where the post-1880 front did not change them, the cupola ruled, and the stone front found in the Shipman photographs or given a bounded design
 T-3168 — 1824 and 1828 Prairie's pictures worked to matches: the partial view's camera solved, and every 1824 and 1828 match record brought to matches (after the piece before it)
-T-1895 — Refine 1827 Doane twin-tower mansion envelope
+T-3171 — 1827 Prairie onto K01 from the Doane photograph and the 1911 sheet: the main block in coursed stone over its raised basement, the north range 2.8 m out on the front and the shallow pavilion beside it, the brick rear range, the slated mansard with its dormers, and the photograph's camera solved with its match record
+T-3172 — 1827 Prairie's two towers from the Doane photograph: the square tower set diagonally on the south-west corner over the 1911 sheet's corner bump, carried up past the eave under its tall slated hip and crested top, and the front pavilion's steep pyramidal roof with its finial (after the piece before it)
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1873 — Refine 1720 Walker frame villa
 T-1878 — Refine 1719-1721 Dexter address and altered house envelope
