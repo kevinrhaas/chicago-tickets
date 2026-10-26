@@ -1,7 +1,7 @@
 ---
 id: T-3165
 title: Pullman's conservatory, stable and additions worked to their pictures: the 1894 Inland plates and the conservatory and palm-house photographs solved, the K13 conservatory record, the glasshouses and the coach house refined to them, and every view brought to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 2:37:23 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40387382796
+claimed_at: 2026-10-26T19:37:24.223Z
 decision: null
 decision_answer: null
 ---
