@@ -1,7 +1,7 @@
 ---
 id: T-3158
 title: 1729 Pullman's Prairie front's pavilions from the Detroit print: the rusticated quoined piers, the pavilions' own mansard sections and stepped roof line, the cornice's modillions and the frieze's panels
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1881
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/25/2026, 8:40:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40254956842
+claimed_at: 2026-10-26T01:40:12.261Z
 decision: null
 decision_answer: null
 ---
