@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-25
 pr: null
 claimed_by: run 10/25/2026, 7:45:30 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-26T00:45:41.871Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40249667168
 claimed_at: 2026-10-26T00:45:31.451Z
 decision: null
