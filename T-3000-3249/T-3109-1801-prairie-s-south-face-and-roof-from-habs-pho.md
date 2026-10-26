@@ -1,7 +1,7 @@
 ---
 id: T-3109
 title: 1801 Prairie's south face and roof from HABS photograph 1: the south bay's canted sides and openings, the hooded dormers between the stacks and behind the corner balcony, the stacks' latticed heads and collars, the pinnacle at the roof's south-east corner, and the recessed stair range behind the south-east corner
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3003
 opened: 2026-10-24
-closed: null
+closed: 2026-10-25
 pr: 1324
 claimed_by: run 10/25/2026, 4:24:23 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T02:21:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40234309773
 claimed_at: 2026-10-25T21:24:24.128Z
 decision: null
