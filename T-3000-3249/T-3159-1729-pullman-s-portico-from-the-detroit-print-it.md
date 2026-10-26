@@ -1,7 +1,7 @@
 ---
 id: T-3159
 title: 1729 Pullman's portico from the Detroit print: its four or more columns, the stone balustrade over them, and the stoop at the portico's north end
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1881
 opened: 2026-10-25
-closed: null
+closed: 2026-10-26
 pr: 1343
 claimed_by: run 10/26/2026, 8:21:27 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T17:13:08Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40327419572
 claimed_at: 2026-10-26T13:21:29.034Z
 decision: null

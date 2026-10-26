@@ -1,7 +1,7 @@
 ---
 id: T-3174
 title: Mobile smoke part 10 red on dev: land_sale_camp_shore's anchor falls 9.82 m outside its drawn footprint ('every building is drawn around the anchor its record gives it', 1 of 685); masked since 2026-10-24 while every content-build smoke leg died installing Playwright (T-3169)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-26
-closed: null
+closed: 2026-10-26
 pr: 1345
 claimed_by: run 10/26/2026, 10:28:36 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T16:56:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40346824630
 claimed_at: 2026-10-26T15:28:37.488Z
 decision: null

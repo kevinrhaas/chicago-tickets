@@ -26,7 +26,6 @@
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading
-T-3174 — Mobile smoke part 10 red on dev: land_sale_camp_shore's anchor falls 9.82 m outside its drawn footprint ('every building is drawn around the anchor its record gives it', 1 of 685); masked since 2026-10-24 while every content-build smoke leg died installing Playwright (T-3169)
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
@@ -38,7 +37,6 @@ T-3174 — Mobile smoke part 10 red on dev: land_sale_camp_shore's anchor falls 
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
-T-3110 — 1801 Prairie's east side and rear from HABS photograph 2 (from the north-west) and the 1911 sheet: the camera solved, the east range's run to the alley and the rear faces the Taylor camera cannot see brought to it
 T-1890 — Finish 1801 Kimball corner mansion architecture
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
@@ -61,13 +59,10 @@ T-1890 — Finish 1801 Kimball corner mansion architecture
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
-T-3159 — 1729 Pullman's portico from the Detroit print: its four or more columns, the stone balustrade over them, and the stoop at the portico's north end
-T-3160 — 1729 Pullman's 18th Street flank from the Detroit print: the two-arch arcade on piers under its balustrade, the flank's arched windows, and the low stone wall on round the corner along 18th Street
 T-3161 — 1729 Pullman's other pictures solved (the 1890 Albertype plate, the CHM 1905 oblique and side views, the Taylor album views) and every view of the main house worked to matches
 T-3165 — Pullman's conservatory, stable and additions worked to their pictures: the 1894 Inland plates and the conservatory and palm-house photographs solved, the K13 conservatory record, the glasshouses and the coach house refined to them, and every view brought to matches
 T-3163 — 1823 Prairie's pictures worked to matches: the north flank's one-storey bay under its hood, the pavilion's paired attic lights under its pediment, the mansard's cresting, the stone surrounds and the arched basement door under the landing, the 1883 album plate's camera solved, and every 1823 match record brought to matches (after the piece before it)
 T-3168 — 1824 and 1828 Prairie's pictures worked to matches: the partial view's camera solved, and every 1824 and 1828 match record brought to matches (after the piece before it)
-T-3171 — 1827 Prairie onto K01 from the Doane photograph and the 1911 sheet: the main block in coursed stone over its raised basement, the north range 2.8 m out on the front and the shallow pavilion beside it, the brick rear range, the slated mansard with its dormers, and the photograph's camera solved with its match record
 T-3172 — 1827 Prairie's two towers from the Doane photograph: the square tower set diagonally on the south-west corner over the 1911 sheet's corner bump, carried up past the eave under its tall slated hip and crested top, and the front pavilion's steep pyramidal roof with its finial (after the piece before it)
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1873 — Refine 1720 Walker frame villa

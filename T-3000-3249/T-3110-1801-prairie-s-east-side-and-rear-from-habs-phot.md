@@ -1,7 +1,7 @@
 ---
 id: T-3110
 title: 1801 Prairie's east side and rear from HABS photograph 2 (from the north-west) and the 1911 sheet: the camera solved, the east range's run to the alley and the rear faces the Taylor camera cannot see brought to it
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3003
 opened: 2026-10-24
-closed: null
+closed: 2026-10-26
 pr: 1341
 claimed_by: run 10/26/2026, 8:08:36 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T17:13:09Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40327398592
 claimed_at: 2026-10-26T13:08:37.445Z
 decision: null
