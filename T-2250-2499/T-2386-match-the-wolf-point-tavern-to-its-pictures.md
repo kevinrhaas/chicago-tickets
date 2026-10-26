@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: T2386 Wolf Point native picture signoff 10/25/2026, 11:33:51 PM CT
+claimed_by: T2386 Wolf Point native picture signoff 10/26/2026, 2:23:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T04:33:51.872Z
+claimed_at: 2026-10-26T07:23:11.461Z
 decision: null
 decision_answer: null
 ---
