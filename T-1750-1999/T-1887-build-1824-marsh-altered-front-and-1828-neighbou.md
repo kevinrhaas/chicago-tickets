@@ -1,7 +1,7 @@
 ---
 id: T-1887
 title: Refine 1824 Marsh altered front and 1828 neighbour
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-25
 pr: null
 claimed_by: run 10/25/2026, 7:44:00 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-26T00:46:30.819Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40249652343
 claimed_at: 2026-10-26T00:44:00.897Z
 decision: null
