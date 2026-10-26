@@ -1,7 +1,7 @@
 ---
 id: T-1878
 title: Refine 1719-1721 Dexter address and altered house envelope
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1356
 claimed_by: run 10/26/2026, 4:51:53 PM CT
 blocked_on: null
 needs_bake: true
