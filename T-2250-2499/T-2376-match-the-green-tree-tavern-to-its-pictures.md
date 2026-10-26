@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Green Tree visible image-match continuation 10/25/2026, 5:38:41 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-25T22:38:42.940Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -50,3 +50,5 @@ Both pictures show seven long-elevation bays; `_fenestration_gable_front` derive
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT): First picture-led frame refinements and source corrections are saved in the GitHub recovery checkpoint aaeac5b0. Full image matches remain open. Shared generator and source prerequisites will be tracked separately; continue the original cases from the recorded previews.
+
+**Released 2026-10-25** (claim of Codex Green Tree visible image-match continuation 10/25/2026, 5:38:41 PM CT): The bounded visible front correction is in PR #1328 (https://github.com/kevinrhaas/chicago/pull/1328), under final combined validation: two viewer-left sash, rightmost doorway, and matching native entrance/apron. T-2376 remains unfinished: the committed Andreas1838 discrepancy register still has visitor-visible annex massing and long-wall opening-pattern gaps. Conflicting upper/attic drawings and camera residuals are within tolerance under T-3153. No photo follow-up or false whole-case completion is filed.
