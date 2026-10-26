@@ -1,7 +1,7 @@
 ---
 id: T-3166
 title: 1828 Prairie onto K01 from the Shipman photographs: the 1911 sheet's front block with its projecting bay, the round bay on the south flank and the rear range, the light ashlar front, the arched porch on its columns under its balustraded balcony, the stoop between its stone cheeks, the slated mansard with its dormers, and the automobile photograph's camera solved with its match record
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1887
 opened: 2026-10-25
-closed: null
+closed: 2026-10-25
 pr: 1329
 claimed_by: run 10/25/2026, 7:46:34 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T03:35:13Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40249652343
 claimed_at: 2026-10-26T00:46:34.959Z
 decision: null
