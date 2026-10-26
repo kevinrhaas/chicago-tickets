@@ -1,7 +1,7 @@
 ---
 id: T-3175
 title: 1827 Prairie's front pavilion carried up an attic of three lights past the main cornice, under the Doane photograph's steep pyramidal roof with its finial
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3172
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 2:56:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40387357600
+claimed_at: 2026-10-26T19:56:55.030Z
 decision: null
 decision_answer: null
 ---
