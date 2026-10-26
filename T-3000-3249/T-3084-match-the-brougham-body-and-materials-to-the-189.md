@@ -23,7 +23,7 @@ decision_answer: null
 
 ## Current photo-quality progress — 26 October 2026
 
-[Draft PR1335](https://github.com/kevinrhaas/chicago/pull/1335) preserves externally pushed mergee97b67d5 and the checked5ea4a985 body/physical masters. User confirmed no other session is active; this session holds the normal lap. Actual glass A/B exposed the extra world render pass and a real unconsumed HEAD-response abort. An external optical-only delivery derivative preserves every geometry byte; runtime integration is pending fresh Full/Light views and measured Full-only budget review. Simplifier candidates remain unqualified, and no cap/app fix or new complete gate is claimed.
+[Draft PR1335](https://github.com/kevinrhaas/chicago/pull/1335) preserves remotee97 and the physical body masters. Fresh24-view e97 diagnostic completed608.213 seconds with zero runtime errors and complete cleanup, but remains NONPASS: desktop Full quarter4,654,565>4,600,000, phone Light aerial1,436,685>1,270,000, desktop Light aerial1,923,095>1,270,000; carriage is hidden in every Light row. Root reviewed actual model images and approved uncommitted source implementation of geometry-identical optical delivery, HEAD-response consumption and a documented selected-Full-only4.7M ceiling. Light/memory/ordinary limits remain unchanged. Existing1904 memory failures and the shared aerial floor finding are unresolved; no full application, photo or DEV delivery is claimed.
 
 Checked-source receipts, actual diagnostics and retained failures: [transport checkpoint05](https://github.com/kevinrhaas/chicago-evidence/tree/4aafe1f3a2b6000bb59e64d80e3d127c68905d27/evidence/transport-photoquality-2026-10-26/CHECKPOINT-05-CHECKED-PEOPLE-AND-ACTUAL-FAILURES). This progress update does not close the ticket.
 
