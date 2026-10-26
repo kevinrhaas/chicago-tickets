@@ -19,6 +19,7 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/4032741
 claimed_at: 2026-10-26T13:21:15.419Z
 decision: null
 decision_answer: null
+group: T-3160,T-3159
 ---
 
 1729 Pullman's 18th Street flank from the Detroit print: the two-arch arcade on piers under its balustrade, the flank's arched windows, and the low stone wall on round the corner along 18th Street.
