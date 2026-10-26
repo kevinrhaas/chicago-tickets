@@ -1,7 +1,7 @@
 ---
 id: T-3171
 title: 1827 Prairie onto K01 from the Doane photograph and the 1911 sheet: the main block in coursed stone over its raised basement, the north range 2.8 m out on the front and the shallow pavilion beside it, the brick rear range, the slated mansard with its dormers, and the photograph's camera solved with its match record
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1895
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 8:18:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40327430181
+claimed_at: 2026-10-26T13:18:57.656Z
 decision: null
 decision_answer: null
 ---
