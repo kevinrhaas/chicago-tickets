@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1934
 opened: 2026-10-25
-closed: null
+closed: 2026-10-26
 pr: 1330
 claimed_by: run 10/25/2026, 7:45:54 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-26T06:28:02Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40249667168
 claimed_at: 2026-10-26T00:45:54.909Z
 decision: null
