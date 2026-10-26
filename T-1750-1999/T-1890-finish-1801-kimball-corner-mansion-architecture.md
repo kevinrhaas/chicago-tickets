@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/26/2026, 2:44:10 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40387345044
-claimed_at: 2026-10-26T19:44:11.441Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -95,3 +95,5 @@ match record's open differences name both):
   third storey of paired lights under a cornice, a gabled wall dormer with a finial (x 520-600)
   and the tall round-topped stack (x 467-530); the build carries `p_flank`'s wall to 13.9 m under
   K08's low hip.
+
+**Released 2026-10-26** (claim of run 10/26/2026, 2:44:10 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40387345044): PR #1353 rebuilt the 18th Street tower on a corbelled stage and sized the tower's and turret's finials to the Taylor print (Taylor 'tower's form', 'east turret's shaft and finial' and HABS 2 'round tower' now fixed). The image gate still has 22 open differences across the three match records (gabled section's oriel and openings, flank section's top, mansard curb and deck, dormer hoods and faces, east range side door, dormer and stack, main flank stack position, south-east pinnacle and recessed range, rear range, south bay top, south cornice, the corner-balcony light, the loggia lights' frames, the tower finial's turned shape), more than one run holds; split is refused on a photo-gated house, so the rest goes back to the queue.
