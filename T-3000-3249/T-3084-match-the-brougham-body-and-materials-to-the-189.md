@@ -1,7 +1,7 @@
 ---
 id: T-3084
 title: Match the Brougham body and materials to the 1893 catalogue
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2794
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex carriage photo-quality /root/api_diagnosis 10/25/2026, 10:42:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-26T03:42:56.940Z
 decision: null
 decision_answer: null
 ---
