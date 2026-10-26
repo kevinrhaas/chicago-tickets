@@ -69,7 +69,8 @@ T-3159 — 1729 Pullman's portico from the Detroit print: its four or more colum
 T-3160 — 1729 Pullman's 18th Street flank from the Detroit print: the two-arch arcade on piers under its balustrade, the flank's arched windows, and the low stone wall on round the corner along 18th Street
 T-3161 — 1729 Pullman's other pictures solved (the 1890 Albertype plate, the CHM 1905 oblique and side views, the Taylor album views) and every view of the main house worked to matches
 T-1934 — Refine Pullman stable, additions and conservatory estate
-T-1894 — Refine 1823 Dent house
+T-3162 — 1823 Prairie onto K01 from the Chicagology engraving and the 1883 album plate: the 1911 sheet's front block and two-storey rear range, the stone front on brick flanks, the south pavilion flush with the south wall under its gabled attic, the north part's triple windows, the door with its stoop, the slated mansard with its dormers, the three tall stacks, and the engraving's camera solved with its match record
+T-3163 — 1823 Prairie's pictures worked to matches: the north flank's one-storey bay under its hood, the pavilion's paired attic lights under its pediment, the mansard's cresting, the stone surrounds and the arched basement door under the landing, the 1883 album plate's camera solved, and every 1823 match record brought to matches (after the piece before it)
 T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
 T-1895 — Refine 1827 Doane twin-tower mansion envelope
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
