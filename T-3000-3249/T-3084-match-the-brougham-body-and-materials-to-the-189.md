@@ -11,12 +11,12 @@ parent: T-2794
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex root carriage_resume continuing owned Brougham delivery in this session 10/26/2026, 2:11:07 PM CT
+claimed_by: Codex root carriage_resume continuing owned photographic Brougham refinement in this session 10/26/2026, 5:13:25 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T19:11:09.931Z
+claimed_at: 2026-10-26T22:13:26.352Z
 decision: null
 decision_answer: null
 ---
