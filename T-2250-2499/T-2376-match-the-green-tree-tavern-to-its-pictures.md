@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Green Tree wagon bay and sash continuation 10/26/2026, 3:06:45 PM CT
+claimed_by: Codex Green Tree wagon bay and sash continuation 10/26/2026, 5:44:18 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T20:06:46.085Z
+claimed_at: 2026-10-26T22:44:19.037Z
 decision: null
 decision_answer: null
 ---
