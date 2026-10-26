@@ -1,7 +1,7 @@
 ---
 id: T-3167
 title: 1824 Prairie onto K01: the 1911 sheet's plan with its stone strip and rear range, the retained 1857 villa's flanks and eaves read off the Pomeroy photograph where the post-1880 front did not change them, the cupola ruled, and the stone front found in the Shipman photographs or given a bounded design
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1887
 opened: 2026-10-25
-closed: null
+closed: 2026-10-26
 pr: 1342
 claimed_by: run 10/26/2026, 8:10:12 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T15:27:58Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40327408929
 claimed_at: 2026-10-26T13:10:13.522Z
 decision: null
