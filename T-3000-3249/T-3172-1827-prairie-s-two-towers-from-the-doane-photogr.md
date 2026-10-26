@@ -1,7 +1,7 @@
 ---
 id: T-3172
 title: 1827 Prairie's two towers from the Doane photograph: the square tower set diagonally on the south-west corner over the 1911 sheet's corner bump, carried up past the eave under its tall slated hip and crested top, and the front pavilion's steep pyramidal roof with its finial (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1895
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 2:45:34 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40387357600
+claimed_at: 2026-10-26T19:45:35.777Z
 decision: null
 decision_answer: null
 ---
