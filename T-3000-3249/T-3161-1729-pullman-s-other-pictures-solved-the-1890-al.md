@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -36,3 +36,14 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
 **Released 2026-10-26** (claim of run 10/26/2026, 2:35:28 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40387370296): PR #1350 ships what fit: the 18th Street stack (Taylor 1445), the deck stack moved to where Detroit and the Albertype show it, and the 1890 Albertype plate solved into the image gate. Left open in the match records: the flank's single window column west of the arcade (Albertype + Taylor), the Prairie dormers' eared hoods, Detroit's 18th Street posts; the arcade's place is disputed between Detroit, the Albertype and Taylor (about 1.7 and 5 m) and was not moved. Taylor 1445's camera is in docs/RESEARCH/photo-match/pullman_house_1729_prairie/taylor-1445-camera.md, waiting on the rights question. The CHM 1905 views are only contact-sheet thumbnails on CARLI.
+
+## Decision needed
+
+**Question:** May J. W. Taylor's photograph no. 1445 of the Pullman house (the AIC album print a16-aic-taylor-album-pullman-p69 and print 16399, a16-aic-taylor-pullman-from-nw, one negative of the 1890s) be committed to the repo as reference copies for the image gate? The Prairie library records both as 'rights unknown — link only' (AIC: 'contact the Archives for publication information'), whereas the 1801 Kimball Taylor print committed under T-2538 is recorded as public domain by age. The camera is already solved (docs/RESEARCH/photo-match/pullman_house_1729_prairie/taylor-1445-camera.md) and the 18th Street stack was built from it in PR #1350.
+
+- (a) Yes: treat the 1890s Taylor commercial prints as public domain by age, as with Kimball's, and commit them with attribution so the camera joins the gate
+- (b) No: keep them link-only; Pullman is gated on the Detroit print and the Albertype plate alone, and Taylor is cited as evidence only
+
+**Recommendation:** (a) Yes: treat the 1890s Taylor commercial prints as public domain by age, as with Kimball's, and commit them with attribution so the camera joins the gate — It is the same photographer, the same holder and the same kind of commercial 1890s print as the Kimball copy already in the tree. It is also the sharpest picture of the 18th Street flank (about 18 px a metre against Detroit's 5-6), so it is the one that can settle where the arcade stands.
+
+**Asked:** 2026-10-26 by https://github.com/kevinrhaas/polecat-platform/actions/runs/40387370296. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
