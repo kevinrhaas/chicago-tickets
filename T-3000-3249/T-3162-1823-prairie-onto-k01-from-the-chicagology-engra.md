@@ -1,7 +1,7 @@
 ---
 id: T-3162
 title: 1823 Prairie onto K01 from the Chicagology engraving and the 1883 album plate: the 1911 sheet's front block and two-storey rear range, the stone front on brick flanks, the south pavilion flush with the south wall under its gabled attic, the north part's triple windows, the door with its stoop, the slated mansard with its dormers, the three tall stacks, and the engraving's camera solved with its match record
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1894
 opened: 2026-10-25
-closed: null
+closed: 2026-10-26
 pr: 1331
 claimed_by: run 10/25/2026, 7:21:02 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-26T14:30:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40247477380
 claimed_at: 2026-10-26T00:21:02.915Z
 decision: null
