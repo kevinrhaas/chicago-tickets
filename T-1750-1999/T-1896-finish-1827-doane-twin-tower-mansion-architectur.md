@@ -1,7 +1,7 @@
 ---
 id: T-1896
 title: Finish 1827 Doane twin-tower mansion architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-27
 pr: null
 claimed_by: run 10/27/2026, 12:58:11 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-27T06:03:18.020Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40456986692
 claimed_at: 2026-10-27T05:58:12.873Z
 decision: null
