@@ -1,7 +1,7 @@
 ---
 id: T-3201
 title: 1904 fire hydrants: Pullman's and Tucker's where pictured, the district's at a reconstructed spacing
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 11:38:48 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40539691626
+claimed_at: 2026-10-27T16:38:49.550Z
 decision: null
 decision_answer: null
 ---
