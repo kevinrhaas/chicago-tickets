@@ -1,7 +1,7 @@
 ---
 id: T-3168
 title: 1824 and 1828 Prairie's pictures worked to matches: the partial view's camera solved, and every 1824 and 1828 match record brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1887
 opened: 2026-10-25
 closed: null
-pr: null
+pr: 1366
 claimed_by: run 10/27/2026, 3:19:33 AM CT
 blocked_on: null
 needs_bake: false
