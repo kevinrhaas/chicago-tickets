@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (he asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
+Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (the owner asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
 
 *"there are what appears to be either a thing to tie up horse or a hydrant in front of the pullman house, please research and identify that and place them appropriately in the prairie ave district"*.
 

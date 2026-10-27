@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (he asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
+Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (the owner asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
 
 *"there also appears in some places to be some electrical poles? look at the glessner photo and validate that and where they would go. they seem like not on main prairie ave but do some research on that"*.
 

@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (he asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
+Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (the owner asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
 
 *"see that there are ramps down into the street. they appear to be stone, but i am not 100% sure of that"*.
 
