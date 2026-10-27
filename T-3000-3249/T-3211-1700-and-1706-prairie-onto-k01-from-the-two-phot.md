@@ -1,7 +1,7 @@
 ---
 id: T-3211
 title: 1700 and 1706 Prairie onto K01 from the two photographs of the pair's front: Chicagology's and the Christmas print's cameras carried over from 1708's solve, the mirrored brick fronts under a dormered mansard with its railed deck, the arched principal windows and their balconettes, the stone porches on columns at the outer ends, and both houses' match records on those two views brought to matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1871
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1384
 claimed_by: run 10/27/2026, 1:14:55 PM CT
 blocked_on: null
 needs_bake: false
