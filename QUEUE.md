@@ -41,6 +41,7 @@ T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3198 — 1904 carriage blocks only where a picture shows one, each varied; carriage walks thinned to match
 T-3199 — 1904 gas street lamps at every district corner and along the parkways, to the pictures
 T-3200 — 1904 stone crossing ramps from the corner walks down into the street
+T-3201 — 1904 fire hydrants: Pullman's and Tucker's where pictured, the district's at a reconstructed spacing
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
