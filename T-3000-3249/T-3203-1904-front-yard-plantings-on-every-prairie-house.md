@@ -1,7 +1,7 @@
 ---
 id: T-3203
 title: 1904 front-yard plantings on every Prairie house lot: lawns, foundation shrubs, beds
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1387
 claimed_by: run 10/27/2026, 2:44:52 PM CT
 blocked_on: null
 needs_bake: false
