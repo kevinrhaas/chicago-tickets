@@ -1,7 +1,7 @@
 ---
 id: T-3176
 title: 1827 Prairie's square tower set diagonally on the south-west corner, from the Doane photograph: reconcile the 1911 sheet's corner bump (a face about 2.4 m) with the photograph's (a face about 4-4.7 m, the same scale as the cornice and storeys), re-solve the camera on it (the committed one misses the pavilion's north edge by about 90 px), build the turned square on the K08 kit across the corner, and carry it up past the eave under its tall slated hip, crested top and two finials (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3172
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 10:00:00 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40440737364
+claimed_at: 2026-10-27T03:00:01.992Z
 decision: null
 decision_answer: null
 ---
