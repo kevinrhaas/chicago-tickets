@@ -1,7 +1,7 @@
 ---
 id: T-3195
 title: 1827 Prairie's carving, corbels and porch from the Doane photograph: the carved tympana over the pavilion's and the window bay's lights, the tower's row of corbel blocks under its crown, the crown's slated cheeks, the porch's round arches and its steps along the front, and the barred basement lights
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3190
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 7:23:13 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40502650476
+claimed_at: 2026-10-27T12:23:14.023Z
 decision: null
 decision_answer: null
 ---
