@@ -74,7 +74,6 @@ T-3197 — 1827 Prairie's carving, cheeks and porch from the Doane photograph: t
 T-3191 — 1827 Prairie's other two pictures and its finish: the oblique exterior photograph's and the 1927 fire item's cameras solved, the rear step on the south flank, the side, rear and roof treatment finished, and every 1827 match record brought to matches (after the pieces before it)
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
 T-3186 — 1901 Prairie's pictures worked to matches: the oblique exterior photograph's and the 1893 Pictorial Chicago plate's cameras solved, the south flank's bays, stacks and dormers, the portico's capitals and the stoop's curved cheeks, the 1896 reprint and the elevation drawing weighed, and every 1901 match record brought to matches (after the piece before it)
-T-1877 — Refine 1709 Palmer Kellogg successor
 T-1897 — Refine 1900 Elbridge Keith corner house
 T-1871 — Refine 1700-1706 Glessner family townhouses
 T-1898 — Refine 1906 Edson Keith and attached 1908
