@@ -1,7 +1,7 @@
 ---
 id: T-3182
 title: 1720 Prairie's upper storey worked to the Tyrrell photograph: the canted bay under its hipped cap, the round-headed single and paired sash in arched casings, the frieze lights between paired brackets and the central front gable, and every 1720 match record brought to matches (after the pieces before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1873
 opened: 2026-10-26
 closed: null
-pr: null
+pr: 1368
 claimed_by: run 10/27/2026, 3:46:09 AM CT
 blocked_on: null
 needs_bake: false
