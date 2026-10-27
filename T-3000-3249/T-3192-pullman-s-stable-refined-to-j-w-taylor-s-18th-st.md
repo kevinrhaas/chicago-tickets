@@ -1,7 +1,7 @@
 ---
 id: T-3192
 title: Pullman's stable refined to J. W. Taylor's 18th Street photograph (AIC 16555) through its solved camera: the hipped roof springing from the first-floor cornice to a crested deck with its lantern, the square belvedere, the three-arch arcade, the polygonal bay, the upper storey carried up as a wall dormer, the east section and the stack, read for form from the 1894 Inland plate and Taylor's south-west view
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3178
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 2:32:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40465131025
+claimed_at: 2026-10-27T07:32:25.565Z
 decision: null
 decision_answer: null
 ---
