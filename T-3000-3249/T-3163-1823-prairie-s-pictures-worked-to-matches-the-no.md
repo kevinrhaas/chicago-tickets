@@ -1,7 +1,7 @@
 ---
 id: T-3163
 title: 1823 Prairie's pictures worked to matches: the north flank's one-storey bay under its hood, the pavilion's paired attic lights under its pediment, the mansard's cresting, the stone surrounds and the arched basement door under the landing, the 1883 album plate's camera solved, and every 1823 match record brought to matches (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1894
 opened: 2026-10-25
-closed: null
+closed: 2026-10-26
 pr: 1351
 claimed_by: null
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T01:20:04Z
 claimed_run: null
 claimed_at: null
 decision: null
