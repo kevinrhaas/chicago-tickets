@@ -1,7 +1,7 @@
 ---
 id: T-3202
 title: 1904 utility poles and wires on 18th Street and the alleys, none on Prairie
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 12:12:42 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-27T17:12:44.620Z
 decision: null
 decision_answer: null
 ---
