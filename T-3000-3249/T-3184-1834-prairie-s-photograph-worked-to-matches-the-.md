@@ -1,7 +1,7 @@
 ---
 id: T-3184
 title: 1834 Prairie's photograph worked to matches: the door's hood, the iron balconettes, the stoop's iron railings, the second-floor belt the print lacks, the north flank's stone basement, the wall's end at the bay, the bay's round-headed lights and cornice and the cornice's depth, and both 1834 match records brought to matches (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1888
 opened: 2026-10-26
-closed: null
+closed: 2026-10-27
 pr: 1369
 claimed_by: run 10/27/2026, 4:50:43 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T12:54:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40482153499
 claimed_at: 2026-10-27T09:50:44.391Z
 decision: null
