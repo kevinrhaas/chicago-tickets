@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex St Mary picture frontage 10/25/2026, 11:15:18 PM CT
+claimed_by: Codex Mary final high sash 10/26/2026, 10:05:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T04:15:19.226Z
+claimed_at: 2026-10-27T03:05:21.388Z
 decision: null
 decision_answer: null
 ---
