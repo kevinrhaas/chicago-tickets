@@ -1,7 +1,7 @@
 ---
 id: T-1877
 title: Refine 1709 Palmer Kellogg successor
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1378
 claimed_by: run 10/27/2026, 9:39:31 AM CT
 blocked_on: null
 needs_bake: true
