@@ -1,7 +1,7 @@
 ---
 id: T-3180
 title: 1720 Prairie rebuilt in K16 clapboard from the Tyrrell photograph: its camera solved, the main body and south wing closed on every face over the raised basement, the front's sash where the photograph puts them, the low hip under its bracketed eave and a porch floor at the principal floor with its central steps
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1873
 opened: 2026-10-26
-closed: null
+closed: 2026-10-26
 pr: 1355
 claimed_by: run 10/26/2026, 4:34:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T02:55:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40404188860
 claimed_at: 2026-10-26T21:34:51.626Z
 decision: null
