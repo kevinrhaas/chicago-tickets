@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: Codex root transport memory recovery continuing original measured target and safe DEV integration 10/26/2026, 5:29:46 PM CT
+claimed_by: Codex root continuing original memory target and texture recovery verification in this session 10/26/2026, 9:38:52 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T22:29:47.125Z
+claimed_at: 2026-10-27T02:38:53.515Z
 decision: null
 decision_answer: null
 ---
