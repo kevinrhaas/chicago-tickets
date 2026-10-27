@@ -1,7 +1,7 @@
 ---
 id: T-3199
 title: 1904 gas street lamps at every district corner and along the parkways, to the pictures
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 11:13:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-27T16:13:25.638Z
 decision: null
 decision_answer: null
 ---
