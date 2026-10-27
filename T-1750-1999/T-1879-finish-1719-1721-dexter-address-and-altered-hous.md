@@ -1,7 +1,7 @@
 ---
 id: T-1879
 title: Finish 1719-1721 Dexter address and altered house architecture
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-27
 pr: 1375
 claimed_by: run 10/27/2026, 8:00:06 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-27T22:09:09Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40507607885
 claimed_at: 2026-10-27T13:00:07.558Z
 decision: null
