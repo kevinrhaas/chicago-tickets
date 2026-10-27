@@ -1,7 +1,7 @@
 ---
 id: T-3190
 title: 1827 Prairie's carved and moulded work from the Doane photograph: the carved hoods over the pavilion's lights and the segmental hoods over the window bay's and the tower's, the attic's arched heads, the tower's bracketed cornice, the crown's slated cheeks, the porch's round arches and its steps along the front, the barred basement lights and the alternating stone courses
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1896
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: null
 claimed_by: run 10/27/2026, 3:27:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T08:57:35.010Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40473163010
 claimed_at: 2026-10-27T08:27:07.791Z
 decision: null
