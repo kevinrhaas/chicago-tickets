@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root people_resume continuing owned portable resident library and garment finish in this session 10/26/2026, 7:59:11 PM CT
+claimed_by: Codex root people_resume continuing owned modular resident library and canonical delivery in this session 10/26/2026, 11:00:05 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T00:59:12.980Z
+claimed_at: 2026-10-27T04:00:06.274Z
 decision: null
 decision_answer: null
 ---
