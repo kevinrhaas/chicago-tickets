@@ -72,7 +72,8 @@ T-1878 — Refine 1719-1721 Dexter address and altered house envelope
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
 T-3183 — 1834 Prairie, the Jones house, onto K01 from its photograph turned the right way round (the print is reversed): its camera solved on both prints, the four-bay brick front over its stone basement, the north flank's windows and canted bay, the bracketed cornice and the 1886 mansard reconstructed over it
 T-3184 — 1834 Prairie's photograph worked to matches: the door's hood, the iron balconettes, the stoop's iron railings, the second-floor belt the print lacks, the north flank's stone basement, the wall's end at the bay, the bay's round-headed lights and cornice and the cornice's depth, and both 1834 match records brought to matches (after the piece before it)
-T-1903 — Refine 1901 Ream post-fire house
+T-3185 — 1901 Prairie, the Ream house, onto K01 from the 1898 Chicagology front photograph: its camera solved, the stone Second Empire block with its forward pavilion, the Corinthian portico under its balustraded balcony, the bracketed cornice and the dormered mansard, the south flank's bay and the iron fence on its curb
+T-3186 — 1901 Prairie's pictures worked to matches: the oblique exterior photograph's and the 1893 Pictorial Chicago plate's cameras solved, the south flank's bays, stacks and dormers, the portico's capitals and the stoop's curved cheeks, the 1896 reprint and the elevation drawing weighed, and every 1901 match record brought to matches (after the piece before it)
 T-1872 — Refine 1708 and 1712 townhouse fronts
 T-1877 — Refine 1709 Palmer Kellogg successor
 T-1897 — Refine 1900 Elbridge Keith corner house

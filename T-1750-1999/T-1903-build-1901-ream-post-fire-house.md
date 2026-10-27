@@ -1,7 +1,7 @@
 ---
 id: T-1903
 title: Refine 1901 Ream post-fire house
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-26
 pr: null
 claimed_by: run 10/26/2026, 10:02:12 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-27T03:03:44.238Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40441303259
 claimed_at: 2026-10-27T03:02:13.341Z
 decision: null
