@@ -1,7 +1,7 @@
 ---
 id: T-3198
 title: 1904 carriage blocks only where a picture shows one, each varied; carriage walks thinned to match
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1379
 claimed_by: run 10/27/2026, 11:11:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T20:56:16Z
 claimed_run: null
 claimed_at: 2026-10-27T16:11:27.649Z
 decision: null

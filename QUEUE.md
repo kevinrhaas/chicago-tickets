@@ -38,7 +38,6 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-3198 — 1904 carriage blocks only where a picture shows one, each varied; carriage walks thinned to match
 T-3200 — 1904 stone crossing ramps from the corner walks down into the street
 T-3201 — 1904 fire hydrants: Pullman's and Tucker's where pictured, the district's at a reconstructed spacing
 T-3202 — 1904 utility poles and wires on 18th Street and the alleys, none on Prairie
