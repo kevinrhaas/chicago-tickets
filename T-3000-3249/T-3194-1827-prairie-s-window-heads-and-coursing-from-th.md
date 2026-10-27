@@ -1,7 +1,7 @@
 ---
 id: T-3194
 title: 1827 Prairie's window heads and coursing from the Doane photograph: the moulded hoods over the front's windows, the moulded surrounds and hoods over the pavilion's and the tower's lights, the attic's arched heads, the tower's moulded crown carried up to the print's cornice line, and the front's alternating stone courses
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3190
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 3:57:39 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40473163010
+claimed_at: 2026-10-27T08:57:40.326Z
 decision: null
 decision_answer: null
 ---
