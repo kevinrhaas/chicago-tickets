@@ -45,6 +45,7 @@ T-3201 — 1904 fire hydrants: Pullman's and Tucker's where pictured, the distri
 T-3202 — 1904 utility poles and wires on 18th Street and the alleys, none on Prairie
 T-3203 — 1904 front-yard plantings on every Prairie house lot: lawns, foundation shrubs, beds
 T-3204 — Worked 1600-block Prairie houses: walks, gates, front and side boundaries to their pictures
+T-3205 — Worked 1700-block Prairie houses: walks, gates, front and side boundaries to their pictures
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
