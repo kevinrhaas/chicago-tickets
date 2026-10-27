@@ -1,7 +1,7 @@
 ---
 id: T-3196
 title: 1827 Prairie's barred basement lights and the tower's corbel table from the Doane photograph: an iron grille in every basement light the print shows (the front's, the pavilion's and the tower's narrow face's), the tower's row of corbel blocks under its crown, and the window bay south of the pavilion brought to the print's place
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3195
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1373
 claimed_by: run 10/27/2026, 7:32:20 AM CT
 blocked_on: null
 needs_bake: false
