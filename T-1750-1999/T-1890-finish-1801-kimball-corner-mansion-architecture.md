@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/27/2026, 3:40:12 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40577754367
-claimed_at: 2026-10-27T20:40:13.353Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -103,3 +103,5 @@ match record's open differences name both):
 **Released 2026-10-27** (claim of run 10/27/2026, 8:46:54 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40514290501): PR #1376 (resume, waiting only on the chicago-4d-check gate) rebuilds the gabled section's face: a round oriel on corbels with its balustrade and the three round-arched lights under it (HABS 2 'gabled section's 18th Street face' and Taylor 'gabled section's openings' now fixed; the balustrade's plan within tolerance, the pictures disagree). The image gate still has open differences across the three match records (the gabled section's loggia and pier, the flank section's rounded west corner, mansard curb and deck, dormer hoods and faces, east range side door, dormer and stack, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames, tower finial's turned shape); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-27** (claim of run 10/27/2026, 10:54:15 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40530143416): PR #1380 (resume, waiting only on the chicago-4d-check gate) turns the tower's finial over a crocketed collar in pale zinc and slates the three hooded dormers' faces round a pale frame (Taylor 'tower's finial', Taylor 'hooded dormers' faces' and HABS 1 'south dormer's face' now fixed). The image gate still has open differences across the three match records (the cone's apex about 0.4-0.5 m low, the hoods' widening cheeks and the south hood's width, the gabled section's loggia and pier, the flank section's rounded west corner, mansard curb and deck, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-27** (claim of run 10/27/2026, 3:40:12 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40577754367): PR #1389 (resume, waiting only on the chicago-4d-check gate) pitches the tower's cone 2.7 so its apex stands 0.43 m higher at 17.12 m (Taylor 'tower's cone top' now fixed; HABS 2's collar within about 3 px, the Taylor print's about 0.2 m over it, within tolerance), and tried the east range's stack from HABS 2: on the build's low range hip it stood as about 4 m of bare shaft, so it waits on the range's roof, which that print shows far higher (written into the HABS 2 match record). The image gate still has open differences across the three match records (hoods' widening cheeks and the south hood's width, the gabled section's loggia and pier, the flank section's rounded west corner, mansard curb and deck, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
