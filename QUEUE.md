@@ -39,7 +39,6 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3198 — 1904 carriage blocks only where a picture shows one, each varied; carriage walks thinned to match
-T-3199 — 1904 gas street lamps at every district corner and along the parkways, to the pictures
 T-3200 — 1904 stone crossing ramps from the corner walks down into the street
 T-3201 — 1904 fire hydrants: Pullman's and Tucker's where pictured, the district's at a reconstructed spacing
 T-3202 — 1904 utility poles and wires on 18th Street and the alleys, none on Prairie
