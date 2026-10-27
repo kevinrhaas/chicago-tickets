@@ -1,7 +1,7 @@
 ---
 id: T-3207
 title: 1900 Prairie, the Elbridge Keith house, onto K01 from its oblique street photograph (the two prints a19-gh-keith-1900-historic and a19-cgy-1906-keith-photo): its camera solved, the stone Second Empire block with its canted corner bay, the Corinthian porch under its balcony, the arched and hooded windows, the bracketed cornice, the dormered mansard and the broad stoop
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1897
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1385
 claimed_by: run 10/27/2026, 12:36:06 PM CT
 blocked_on: null
 needs_bake: false
