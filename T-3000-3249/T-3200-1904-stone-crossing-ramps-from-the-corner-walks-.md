@@ -1,7 +1,7 @@
 ---
 id: T-3200
 title: 1904 stone crossing ramps from the corner walks down into the street
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1390
 claimed_by: run 10/27/2026, 3:55:00 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T23:43:20Z
 claimed_run: null
 claimed_at: 2026-10-27T20:55:00.860Z
 decision: null
