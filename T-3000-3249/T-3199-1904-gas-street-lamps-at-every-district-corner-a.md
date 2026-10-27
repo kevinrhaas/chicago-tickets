@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
-1904 gas street lamps at every district corner and along the parkways, to the pictures.
+Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (he asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+*"I do see evidence of streetlamps at the corners of major streets, and also from the photo"*.
+
+**Acceptance:**
+
+1. A cast-iron gas lamp post (brief section 2: fluted column, ladder bar, four-sided tapered lantern, cap and finial; about 3 m) at every intersection corner of the district's streets, on the parkway at the curb corner, and the pictured mid-block lamps (1811, 1700, 1721, ...) plus mid-block lamps at a reconstructed spacing.
+2. Pictured lamps graded attested and placed to their picture; the rest reconstructed with a liberty.
+3. A data file written by a tool (`--check` in check.sh) and a renderer layer; instanced, cheap on the phone; lit at night only if the scene has a night.
+4. New 1904 records named in smoke `PLACED_1904` if they are structures. Stills at the Glessner corner matched against Taylor 2135, desktop and phone.

@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
-1904 fire hydrants: Pullman's and Tucker's where pictured, the district's at a reconstructed spacing.
+Owner, 2026-10-27, thread "Improve 1904 Prairie streetscape" (he asked for several agents and tickets for this, one per item). The pictures and what they show: [the brief](../evidence/streetscape-1904-2026-10-27/BRIEF.md).
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+*"there are what appears to be either a thing to tie up horse or a hydrant in front of the pullman house, please research and identify that and place them appropriately in the prairie ave district"*.
+
+Identified: a post fire hydrant (brief section 4).
+
+**Acceptance:**
+
+1. One period post hydrant model (barrel ~0.85 m, flared foot, band, domed bonnet, operating nut, side nozzle caps; painted iron).
+2. Pullman's hydrant where the Detroit and Glessner-blog views put it, and Tucker's at 22nd & Prairie, attested; the rest of the district at a reconstructed spacing on the parkway near corners and mid-block, never in a walk or crossing; liberty recorded.
+3. Card text names it as a fire hydrant. Stills at Pullman against the owner's crop, desktop and phone.
