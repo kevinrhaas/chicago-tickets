@@ -1,7 +1,7 @@
 ---
 id: T-3183
 title: 1834 Prairie, the Jones house, onto K01 from its photograph turned the right way round (the print is reversed): its camera solved on both prints, the four-bay brick front over its stone basement, the north flank's windows and canted bay, the bracketed cornice and the 1886 mansard reconstructed over it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1888
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 8:57:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40432479245
+claimed_at: 2026-10-27T01:57:28.707Z
 decision: null
 decision_answer: null
 ---
