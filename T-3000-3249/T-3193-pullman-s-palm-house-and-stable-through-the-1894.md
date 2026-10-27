@@ -1,7 +1,7 @@
 ---
 id: T-3193
 title: Pullman's palm house and stable through the 1894 Inland plate and Taylor's south-west view: both cameras solved (the plate's eye stands about 8 m up, its horizon on the range's parapet), the drum's place and the arcade's length weighed through them (the plate reads the stable's corner-to-bay stretch about 7 m where Taylor's frontal reads about 3 m), the c. 1905 CHM negative i70232 fetched if it can be, and both brought to matches (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3178
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1371
 claimed_by: run 10/27/2026, 5:34:02 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T14:35:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40487119236
 claimed_at: 2026-10-27T10:34:03.980Z
 decision: null
