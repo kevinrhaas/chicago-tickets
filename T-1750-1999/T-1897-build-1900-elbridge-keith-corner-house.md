@@ -1,7 +1,7 @@
 ---
 id: T-1897
 title: Refine 1900 Elbridge Keith corner house
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 12:34:56 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40550440539
+claimed_at: 2026-10-27T17:34:58.611Z
 decision: null
 decision_answer: null
 ---
