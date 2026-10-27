@@ -1,7 +1,7 @@
 ---
 id: T-3189
 title: 1827 Prairie brought down to the Doane photograph's heights through its re-solved camera: the water table, string course and main cornice (about 1.3, 5.3 and 9.4 m over grade, where the record has 2.0, 7.5 and 12.6), with the windows, the mansard's curb, the pavilion's attic and crown, the corner tower's stages, deck and finials and the porch's hood carried down with them
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1896
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 1:03:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40456986692
+claimed_at: 2026-10-27T06:03:24.991Z
 decision: null
 decision_answer: null
 ---
