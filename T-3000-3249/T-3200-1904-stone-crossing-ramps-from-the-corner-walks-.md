@@ -1,7 +1,7 @@
 ---
 id: T-3200
 title: 1904 stone crossing ramps from the corner walks down into the street
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/27/2026, 11:27:34 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40536736986
+claimed_at: 2026-10-27T16:27:35.451Z
 decision: null
 decision_answer: null
 ---
