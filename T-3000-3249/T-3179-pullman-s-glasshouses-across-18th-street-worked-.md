@@ -1,7 +1,7 @@
 ---
 id: T-3179
 title: Pullman's glasshouses across 18th Street worked to the 1894 Inland conservatory plate and the Lowe c. 1897 photograph: both cameras solved and the glass ranges brought to matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3165
 opened: 2026-10-26
 closed: null
-pr: null
+pr: 1359
 claimed_by: run 10/26/2026, 9:29:25 PM CT
 blocked_on: null
 needs_bake: false
