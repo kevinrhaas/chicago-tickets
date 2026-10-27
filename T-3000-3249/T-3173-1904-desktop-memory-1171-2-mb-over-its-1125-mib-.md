@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Actual delivery progress — 27 October 2026, 03:41 UTC
+
+Actual local native readings on checked C3 source meet the original goals: desktop1052.070669MiB under1125; mobile385.338580MiB under400. Source/mirror/meter/cap guards and cleanup passed. All18 C3 hosted smoke runs and its9-job frame/memory workflow have successful conclusions. Two strict auxiliary desktop lifecycle comparisons remain NONPASS; the corrected native-spawn comparison differs at only3pixels, with2 over threshold. Independent image review found no visitor-visible material regression; the strict result is preserved. Current integrated-world native readings/ordinary CI and DEV delivery remain pending; no ceiling waiver or merge is claimed.
+
+[Immutable code, asset and actual-check checkpoint15](https://github.com/kevinrhaas/chicago-evidence/tree/2c76735371058f52d1e7c275f23dd25c1ffedfda/evidence/transport-photoquality-2026-10-26/CHECKPOINT-15-HORSE-SOURCE-PEOPLE-DELIVERY-AND-CHECKED-WAGON). Ticket state and acceptance are unchanged.
+
+
 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading.
 
 ## FILED ABOVE BAND 9, BECAUSE IT BLOCKS

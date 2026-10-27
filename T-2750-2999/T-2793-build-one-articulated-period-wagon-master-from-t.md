@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Actual delivery progress — 27 October 2026, 03:41 UTC
+
+Draft PR1340 is normally pushed at09f75fb667fe34421daf9f614648f615cf1f7841 after its e5 DEV integration. Complete native preflight passed1078 checks/388 self-tests in752.016s; the600s target was missed honestly. Four actual new-HEAD checks and normal push passed. A later dfcb DEV change creates a fresh conflict; bounded integration and fresh current-tree rendering/CI remain. The separate C3 source has18 successful hosted smoke runs. These do not qualify the newer world. Broad photographic master and occupied-use acceptance remain open; no DEV merge is claimed.
+
+[Immutable code, asset and actual-check checkpoint15](https://github.com/kevinrhaas/chicago-evidence/tree/2c76735371058f52d1e7c275f23dd25c1ffedfda/evidence/transport-photoquality-2026-10-26/CHECKPOINT-15-HORSE-SOURCE-PEOPLE-DELIVERY-AND-CHECKED-WAGON). Ticket state and acceptance are unchanged.
+
+
 ## Current photo-quality progress — 26 October 2026
 
 The articulated master9355826a and checked first intakee68353a remain public in [draft PR1340](https://github.com/kevinrhaas/chicago/pull/1340). Pinned1e native owner resolution passed53 steps/two laps to a fixed point with exact protected inputs and published383.686MiB within416MiB. The complete preflight then failed only because a broad GIT_NO_LAZY_FETCH setting disabled a native local sparse-fixture fetch; the unchanged fixture passes with normal Git. Corrected unchanged full retry2 is running on frozen142 paths. Its deliberate192000-byte raw source-index capacity retains unabridged provenance; actual51493-byte compressed payload is within the unchanged120000-byte wire allowance. No new1e commit, full-app smoke or DEV merge yet.

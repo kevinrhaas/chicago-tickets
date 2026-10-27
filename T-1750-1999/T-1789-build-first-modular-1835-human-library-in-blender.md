@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Actual delivery progress — 27 October 2026, 03:41 UTC
+
+Rounded-hat and wardrobe source is preserved. Optional canonical-delivery V3 code passed10 security/schema controls, Actionlint and independent source review after fixing cross-family source-equivalence enforcement. It defaults to artifact-only and permits a checked, normal push only to this owned feature branch after complete native preflight. The original source and five generated conflicts remain preserved. Fresh female then male canonical generation, actual3 Blender stills, all4 masters/32LOD ingestion, current published views and photo/kit acceptance remain unrun. No generated model delivery or DEV merge is claimed.
+
+[Immutable code, asset and actual-check checkpoint15](https://github.com/kevinrhaas/chicago-evidence/tree/2c76735371058f52d1e7c275f23dd25c1ffedfda/evidence/transport-photoquality-2026-10-26/CHECKPOINT-15-HORSE-SOURCE-PEOPLE-DELIVERY-AND-CHECKED-WAGON). Ticket state and acceptance are unchanged.
+
+
 ## Current photo-quality progress — 26 October 2026
 
 Checked source remains pushed at [1cbb18175](https://github.com/kevinrhaas/chicago/commit/1cbb1817508593562f99ed378b6932368b5699b9), in [draft PR1346](https://github.com/kevinrhaas/chicago/pull/1346), with native1071/384 source preflight PASS805.578 seconds and real new-HEAD checks. One approved opt-in canonical dress job is staged in the existing registered workflow; all34 original source paths/application subtree remain exact. Static/guard/shell checks and actual Actionlint1.7.12 pass; full adopted-tree check and real service execution remain pending. Four unrelated pre-existing floating runner jobs are retained as a genuine audit failure outside this patch. No canonical female exports, posed garment fit, finished appearance or photographic acceptance yet; required official artifact hosts remain unapplied in runtime.

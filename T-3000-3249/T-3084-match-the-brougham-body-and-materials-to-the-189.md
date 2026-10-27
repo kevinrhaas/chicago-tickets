@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Actual delivery progress — 27 October 2026, 03:41 UTC
+
+Current source controls passed for physical geometry, optical materials/binary reproduction, corruption rejection, Full-budget isolation, HEAD behavior, LOD/picking/disposal and placement. Existing54 owned paths and c3 incoming fixes are preserved. Canonical Lib/SourceUse owners, final publication/full preflight, four actual Full-yard views and required all15 published smoke parts at both widths remain pending. This is a bounded coachwork/glass improvement; broader photographic chassis/material/tack/occupied acceptance is not closed.
+
+[Immutable code, asset and actual-check checkpoint15](https://github.com/kevinrhaas/chicago-evidence/tree/2c76735371058f52d1e7c275f23dd25c1ffedfda/evidence/transport-photoquality-2026-10-26/CHECKPOINT-15-HORSE-SOURCE-PEOPLE-DELIVERY-AND-CHECKED-WAGON). Ticket state and acceptance are unchanged.
+
+
 ## Current photo-quality progress — 26 October 2026
 
 [Draft PR1335](https://github.com/kevinrhaas/chicago/pull/1335) preserves remotee97 and the physical body masters. Fresh24-view e97 diagnostic completed608.213 seconds with zero runtime errors and complete cleanup, but remains NONPASS: desktop Full quarter4,654,565>4,600,000, phone Light aerial1,436,685>1,270,000, desktop Light aerial1,923,095>1,270,000; carriage is hidden in every Light row. Root reviewed actual model images and approved uncommitted source implementation of geometry-identical optical delivery, HEAD-response consumption and a documented selected-Full-only4.7M ceiling. Light/memory/ordinary limits remain unchanged. Existing1904 memory failures and the shared aerial floor finding are unresolved; no full application, photo or DEV delivery is claimed.

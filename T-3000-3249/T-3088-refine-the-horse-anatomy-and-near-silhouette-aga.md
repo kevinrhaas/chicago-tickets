@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Actual delivery progress — 27 October 2026, 03:41 UTC
+
+The e49b6f1c orbital refinement is source-adopted in the isolated worker and GitHub-backed. Exact generator reproduction,17 in-memory source/static corruption controls and legacy/runtime compatibility passed. Fresh129-pose qualification and16 matched desktop/phone source views passed; root accepted only the bounded orbital ledge reduction. Canonical owners, current published yard views, full preflight and checked app push/DEV merge remain pending. Visible facial faceting, upper-eye/ring/forelock concerns and broader photographic/anatomical/gait acceptance remain open.
+
+[Immutable code, asset and actual-check checkpoint15](https://github.com/kevinrhaas/chicago-evidence/tree/2c76735371058f52d1e7c275f23dd25c1ffedfda/evidence/transport-photoquality-2026-10-26/CHECKPOINT-15-HORSE-SOURCE-PEOPLE-DELIVERY-AND-CHECKED-WAGON). Ticket state and acceptance are unchanged.
+
+
 ## Current photo-quality progress — 26 October 2026
 
 Checked safe hoof/body source is pushed at [db71c0c6](https://github.com/kevinrhaas/chicago/commit/db71c0c6d84b17d1bcc3786f872d0b2595a85ce4), in [draft PR1347](https://github.com/kevinrhaas/chicago/pull/1347). Complete native preflight passed1071 checks/384 intentional self-tests in783.358 seconds, with zero-child cleanup; actual committed-HEAD checks and remote hash confirmation pass. The600-second timing target remains exceeded. The geometric upper-eye hood remains open. A separate strip prototype is not adopted: source/topology checks passed, strict crossing qualification failed, and independent diagnosis places all24 body-crossing segments inside the existing embedded eye interface. Its16 matched diagnostic images show less drooping lid bulk but do not establish anatomical/photographic or deformation acceptance. A source-bound interface qualification design is being reviewed; current925 model remains unchanged.
