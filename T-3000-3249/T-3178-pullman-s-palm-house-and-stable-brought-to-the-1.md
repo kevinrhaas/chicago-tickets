@@ -1,7 +1,7 @@
 ---
 id: T-3178
 title: Pullman's palm house and stable brought to the 1894 Inland plate, the c. 1905 CHM negative i70232 and Taylor's south-west view: their cameras solved, the drum's place weighed against the plate, and the stable's hipped roof, belvedere, arcade and polygonal bay refined to them
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3165
 opened: 2026-10-26
-closed: null
+closed: 2026-10-27
 pr: null
 claimed_by: run 10/27/2026, 2:11:06 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T07:32:18.025Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40465131025
 claimed_at: 2026-10-27T07:11:06.830Z
 decision: null
