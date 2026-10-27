@@ -1,7 +1,7 @@
 ---
 id: T-3186
 title: 1901 Prairie's pictures worked to matches: the oblique exterior photograph's and the 1893 Pictorial Chicago plate's cameras solved, the south flank's bays, stacks and dormers, the portico's capitals and the stoop's curved cheeks, the 1896 reprint and the elevation drawing weighed, and every 1901 match record brought to matches (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1903
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: run 10/27/2026, 5:12:34 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40485971847
-claimed_at: 2026-10-27T10:12:35.440Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -34,3 +34,5 @@ When T-1903 was split (2026-10-27T03:03:39.356Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40441303259) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-27** (claim of run 10/27/2026, 5:12:34 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40485971847): PR #1370 ships what fits: the south-west exterior photograph's camera solved (9.2 px RMS; the canted SW corner reads ~1.83 m each way, the flank bay's cheek ~3 m), stone stacks placed through it, the flank dormer, lower pediments, the scroll-band fence on stone piers. Both match records stay 'differs' on things a visitor notices that K01 cannot build by parameter: the canted south-west corner carried through cornice and mansard (new K01 geometry: a main-body corner cut, with its window column and dormer), the stoop's swept cheeks beside the porch's open terraces (K01 allows a swept cheek only beside a pierced parapet), the porch's Corinthian capitals (no carved capital on K01's door-hood column) and the cornice's paired blocks. The 1893 Pictorial Chicago plate's camera is not solved yet. Next: the K01 main-body canted corner, then the plate.
