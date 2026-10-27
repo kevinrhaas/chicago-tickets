@@ -1,7 +1,7 @@
 ---
 id: T-1878
 title: Refine 1719-1721 Dexter address and altered house envelope
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-26
 pr: 1356
 claimed_by: run 10/26/2026, 4:51:53 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-27T04:51:30Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40404866415
 claimed_at: 2026-10-26T21:51:54.006Z
 decision: null

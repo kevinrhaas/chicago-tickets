@@ -68,7 +68,6 @@ T-3176 — 1827 Prairie's square tower set diagonally on the south-west corner, 
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-3181 — 1720 Prairie's porch worked to the Tyrrell photograph: the paired posts, the three segmental arches, the balustrades, the stair's cheeks and the iron cresting round its deck
 T-3182 — 1720 Prairie's upper storey worked to the Tyrrell photograph: the canted bay under its hipped cap, the round-headed single and paired sash in arched casings, the frieze lights between paired brackets and the central front gable, and every 1720 match record brought to matches (after the pieces before it)
-T-1878 — Refine 1719-1721 Dexter address and altered house envelope
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
 T-3184 — 1834 Prairie's photograph worked to matches: the door's hood, the iron balconettes, the stoop's iron railings, the second-floor belt the print lacks, the north flank's stone basement, the wall's end at the bay, the bay's round-headed lights and cornice and the cornice's depth, and both 1834 match records brought to matches (after the piece before it)
 T-3185 — 1901 Prairie, the Ream house, onto K01 from the 1898 Chicagology front photograph: its camera solved, the stone Second Empire block with its forward pavilion, the Corinthian portico under its balustraded balcony, the bracketed cornice and the dormered mansard, the south flank's bay and the iron fence on its curb
