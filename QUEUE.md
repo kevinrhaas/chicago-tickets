@@ -71,7 +71,8 @@ T-3181 — 1720 Prairie's porch worked to the Tyrrell photograph: the paired pos
 T-3182 — 1720 Prairie's upper storey worked to the Tyrrell photograph: the canted bay under its hipped cap, the round-headed single and paired sash in arched casings, the frieze lights between paired brackets and the central front gable, and every 1720 match record brought to matches (after the pieces before it)
 T-1878 — Refine 1719-1721 Dexter address and altered house envelope
 T-1879 — Finish 1719-1721 Dexter address and altered house architecture
-T-1888 — Refine 1834 Jones post-1886 mansard
+T-3183 — 1834 Prairie, the Jones house, onto K01 from its photograph turned the right way round (the print is reversed): its camera solved on both prints, the four-bay brick front over its stone basement, the north flank's windows and canted bay, the bracketed cornice and the 1886 mansard reconstructed over it
+T-3184 — 1834 Prairie's photograph worked to matches: the door's hood, the iron balconettes, the stoop's iron railings, the second-floor belt the print lacks, the north flank's stone basement, the wall's end at the bay, the bay's round-headed lights and cornice and the cornice's depth, and both 1834 match records brought to matches (after the piece before it)
 T-1903 — Refine 1901 Ream post-fire house
 T-1872 — Refine 1708 and 1712 townhouse fronts
 T-1877 — Refine 1709 Palmer Kellogg successor
