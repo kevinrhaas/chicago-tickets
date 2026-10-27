@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 1729 Pullman's other pictures solved (the 1890 Albertype plate, the CHM 1905 oblique and side views, the Taylor album views) and every view of the main house worked to matches.
@@ -47,3 +47,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Recommendation:** (a) Yes: treat the 1890s Taylor commercial prints as public domain by age, as with Kimball's, and commit them with attribution so the camera joins the gate — It is the same photographer, the same holder and the same kind of commercial 1890s print as the Kimball copy already in the tree. It is also the sharpest picture of the 18th Street flank (about 18 px a metre against Detroit's 5-6), so it is the one that can settle where the arcade stands.
 
 **Asked:** 2026-10-26 by https://github.com/kevinrhaas/polecat-platform/actions/runs/40387370296. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-10-27, via Manager):** (a) Yes: treat the 1890s Taylor commercial prints as public domain by age, as with Kimball's, and commit them with attribution so the camera joins the gate
