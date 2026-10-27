@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/27/2026, 8:46:54 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40514290501
-claimed_at: 2026-10-27T13:46:55.299Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -99,3 +99,5 @@ match record's open differences name both):
 **Released 2026-10-26** (claim of run 10/26/2026, 2:44:10 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40387345044): PR #1353 rebuilt the 18th Street tower on a corbelled stage and sized the tower's and turret's finials to the Taylor print (Taylor 'tower's form', 'east turret's shaft and finial' and HABS 2 'round tower' now fixed). The image gate still has 22 open differences across the three match records (gabled section's oriel and openings, flank section's top, mansard curb and deck, dormer hoods and faces, east range side door, dormer and stack, main flank stack position, south-east pinnacle and recessed range, rear range, south bay top, south cornice, the corner-balcony light, the loggia lights' frames, the tower finial's turned shape), more than one run holds; split is refused on a photo-gated house, so the rest goes back to the queue.
 
 **Released 2026-10-27** (claim of run 10/27/2026, 6:27:04 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40495380150): PR #1372 rebuilt the 18th Street flank section on its corbel table under the coped fan gable and moved the flank stack (HABS 2 'flank section's top' and 'main block's flank stack', Taylor 'flank section's top' now fixed). The image gate still has open differences across the three match records (the section's rounded west corner, gabled section's oriel and openings, mansard curb and deck, dormer hoods and faces, east range side door, dormer and stack, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames, tower finial's turned shape), more than one run holds; a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-27** (claim of run 10/27/2026, 8:46:54 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40514290501): PR #1376 (resume, waiting only on the chicago-4d-check gate) rebuilds the gabled section's face: a round oriel on corbels with its balustrade and the three round-arched lights under it (HABS 2 'gabled section's 18th Street face' and Taylor 'gabled section's openings' now fixed; the balustrade's plan within tolerance, the pictures disagree). The image gate still has open differences across the three match records (the gabled section's loggia and pier, the flank section's rounded west corner, mansard curb and deck, dormer hoods and faces, east range side door, dormer and stack, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames, tower finial's turned shape); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
