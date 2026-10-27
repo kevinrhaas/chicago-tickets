@@ -31,5 +31,6 @@ T-2474 laid a carriage block beside a carriage walk at every lot 40 ft or wider 
 
 1. Rule-placed carriage blocks are gone. A block stands only where a picture shows one (brief section 1 table), at that picture's place and in its form (square post, round-topped post, rock-faced block), each varied in size, top, dressing and weathering by seed so no two read as clones.
 2. Carriage walks across the parkway thinned the same way: kept where pictured or where a house's carriage door or drive needs one, the rest grass.
+   *Amended 2026-10-27 (T-3198 PR 1379):* the walks are kept as T-2474 laid them. The pictures show crossings at 1815, 2112 and Glessner's, and none shows a wide lot without one, so thinning them would itself be a guess; the owner's ask was the blocks.
 3. L-prairie-carriage-walks-2474 amended (what was withdrawn and why); the street-tree tool's clearance re-run if it reads the walks.
 4. Before/after stills, 1280x800 and 390x780, on Prairie at 18th looking south and on the 2100 block's east side.
