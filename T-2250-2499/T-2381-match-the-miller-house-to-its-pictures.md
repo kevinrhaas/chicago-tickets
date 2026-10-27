@@ -1,7 +1,7 @@
 ---
 id: T-2381
 title: Match the Miller House to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Miller picture correction 10/26/2026, 9:04:59 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T02:05:00.791Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -50,3 +50,5 @@ Pictures:
 Colbert/Blanchard pictures show log lower storey, vertical-board upper storey and a low side annex. `_frame_addition` clads both floors in horizontal clapboard and puts the old cabin behind. Add opt-in split cladding and side-wing composition; preserve unrelated defaults.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+**Released 2026-10-26** (claim of Codex Miller picture correction 10/26/2026, 9:04:59 PM CT): Renew this same active Miller run for the combined Miller/lighthouse/Mary PR; complete source/native WIP is checkpointed, and original image acceptance remains unfinished.
