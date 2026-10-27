@@ -1,7 +1,7 @@
 ---
 id: T-3185
 title: 1901 Prairie, the Ream house, onto K01 from the 1898 Chicagology front photograph: its camera solved, the stone Second Empire block with its forward pavilion, the Corinthian portico under its balustraded balcony, the bracketed cornice and the dormered mansard, the south flank's bay and the iron fence on its curb
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1903
 opened: 2026-10-26
 closed: null
-pr: null
+pr: 1361
 claimed_by: run 10/26/2026, 10:03:48 PM CT
 blocked_on: null
 needs_bake: false
