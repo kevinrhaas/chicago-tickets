@@ -1,7 +1,7 @@
 ---
 id: T-3188
 title: 1708 Prairie onto K01 from the Glessner townhouse photographs it stands at the left edge of: cameras solved on the Chicagology front and the Christmas print, the three-storey brick front, its heavy cornice, the hooded sash and the projecting bay, and every 1708 match record brought to matches
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1872
 opened: 2026-10-26
 closed: null
-pr: null
+pr: 1377
 claimed_by: run 10/27/2026, 9:10:32 AM CT
 blocked_on: null
 needs_bake: false
