@@ -1,7 +1,7 @@
 ---
 id: T-1872
 title: Refine 1708 and 1712 townhouse fronts
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/26/2026, 10:36:10 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40444283844
+claimed_at: 2026-10-27T03:36:11.088Z
 decision: null
 decision_answer: null
 ---
