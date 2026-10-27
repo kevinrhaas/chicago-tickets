@@ -1,7 +1,7 @@
 ---
 id: T-3209
 title: 1827 Prairie's carved tympana over the pavilion's and the window bay's lights, and the crown's slated cheeks, from the Doane photograph
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3197
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1382
 claimed_by: run 10/27/2026, 12:59:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-27T19:21:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40547918844
 claimed_at: 2026-10-27T17:59:09.027Z
 decision: null
