@@ -38,6 +38,7 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
+T-3198 — 1904 carriage blocks only where a picture shows one, each varied; carriage walks thinned to match
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
