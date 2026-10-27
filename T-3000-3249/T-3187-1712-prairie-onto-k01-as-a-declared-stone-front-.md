@@ -1,7 +1,7 @@
 ---
 id: T-3187
 title: 1712 Prairie onto K01 as a declared stone-front reconstruction from the 1911 sheet: its one library picture (the 1939 Tribune photograph of the model of the Kodak plant that replaced it) ruled not a picture of the house, the brick body under its blue-stone front, its high stoop and entrance, the attic storey, the south flank's small frame porch and the rear wing
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1872
 opened: 2026-10-26
 closed: null
-pr: null
+pr: 1360
 claimed_by: run 10/26/2026, 10:38:05 PM CT
 blocked_on: null
 needs_bake: false
