@@ -40,6 +40,7 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3198 — 1904 carriage blocks only where a picture shows one, each varied; carriage walks thinned to match
 T-3199 — 1904 gas street lamps at every district corner and along the parkways, to the pictures
+T-3200 — 1904 stone crossing ramps from the corner walks down into the street
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
