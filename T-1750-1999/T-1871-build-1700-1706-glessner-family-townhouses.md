@@ -1,7 +1,7 @@
 ---
 id: T-1871
 title: Refine 1700-1706 Glessner family townhouses
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-27
 pr: null
 claimed_by: run 10/27/2026, 12:52:08 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-27T18:14:50.430Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40552750919
 claimed_at: 2026-10-27T17:52:09.259Z
 decision: null
