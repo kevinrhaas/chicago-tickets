@@ -205,3 +205,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3226 — Stop 1904 stone walls speckling and flickering where the mortar floor fights the stone face
 T-3227 — Keep front-yard plants and ivy out from in front of every front door and porch (Pullman 1729 porch)
+T-3228 — 1812 Prairie's door glass looks through the house: the side light and the lights over the porch transom had no dark hall behind them, so the unbuilt interior and the yard behind showed through; K07 now closes the whole mouth, and the entrance gate holds every K01 house's door glass to its backing
