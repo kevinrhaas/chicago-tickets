@@ -1,7 +1,7 @@
 ---
 id: T-3220
 title: Re-budget the published tree: site/4d is full at 416 MiB, so no new textured Prairie house can land (dev ~413.8 MiB; #1384 adds 4.0)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1412
 claimed_by: run 10/28/2026, 2:16:00 AM CT
 blocked_on: null
 needs_bake: false
