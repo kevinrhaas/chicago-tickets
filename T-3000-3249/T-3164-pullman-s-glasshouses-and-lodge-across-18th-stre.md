@@ -51,6 +51,8 @@ This ticket closed without passing its image gate: `ticket.mjs split` closed it 
 
 The owner names the greenhouse ground south of 18th Street. Against Lowe's c. 1897 photograph and the 1894 Inland conservatory plate, the long range renders as a blank wall with square holes, the lodge in red brick, and the pavilion's great arched glass front as an opaque gable over a black opening, where the pictures show a glazed range with arched lights on a rusticated stone base, a stone lodge, and a glass front on a stone podium with its arched doorway. The north and east ranges are judged inside the pavilion's group views (their `rendered_members`); the lodge needs a view of its own.
 
+Owner, 2026-10-28, the same thread: *"the surrounding wall/fence around the property also should be included in the match, as well as the flora"*. So each view also judges the lot's boundary (the coping walls, piers, posts and balustrades on Prairie Avenue, 18th Street and Calumet Avenue, and the garden wall round the glasshouse ground) and its planting (the ivy on the walls, the shrubs and beds, the yard and parkway trees as far as the picture shows them in its season), and a difference in either is `open` by the same bar.
+
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
 
 ## Image gate (owner, 2026-10-28)
