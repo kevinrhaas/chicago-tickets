@@ -1,7 +1,7 @@
 ---
 id: T-3208
 title: 1900 Prairie's other pictures worked to matches: the 2024 front, the mid-century front, the 1972 NRHP oblique and the c. 2014 detail weighed as later evidence, the 1800-1900 elevation drawing read, and every 1900 match record brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1897
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1419
 claimed_by: run 10/28/2026, 8:29:28 AM CT
 blocked_on: null
 needs_bake: false
