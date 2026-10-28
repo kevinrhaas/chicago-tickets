@@ -1,7 +1,7 @@
 ---
 id: T-3224
 title: K01 contract: web-tier metric_uv reads 16-bit position quantization on brick-unit relief once a K14 yard widens the mesh (1612 Goodman 1.054 vs 0.05 tolerance)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1399
 claimed_by: run 10/27/2026, 9:31:57 PM CT
 blocked_on: null
 needs_bake: false
