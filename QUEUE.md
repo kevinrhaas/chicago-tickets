@@ -41,7 +41,6 @@ T-3232 — Ship each KTX2 kit sheet once: 66.3 MiB of the published GLBs' embedd
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3229 — The ten unpictured worked K01 brick houses of the 1600 block (1600, 1604, 1608, 1613, 1615, 1619, 1626, 1628, 1634, 1636 Prairie): a stated reconstruction of each walk and front boundary consistent with the block
 T-3230 — The four unpictured worked K16 timber houses of the 1600 block (1601, 1609, 1611, 1630 Prairie): a stated reconstruction of each walk and front boundary consistent with the block, once the K16 generator lays a K14 walk (T-3222, #1401)
-T-3205 — Worked 1700-block Prairie houses: walks, gates, front and side boundaries to their pictures
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
