@@ -203,3 +203,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3227 — Keep front-yard plants and ivy out from in front of every front door and porch (Pullman 1729 porch)
+T-3231 — 1904 corner lamps and ramps: no raised footing, glazed lantern top, arms curving into the lantern, every ramp slab meets the curb top
