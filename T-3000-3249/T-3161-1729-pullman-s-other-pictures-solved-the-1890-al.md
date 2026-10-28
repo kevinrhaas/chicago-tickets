@@ -1,7 +1,7 @@
 ---
 id: T-3161
 title: 1729 Pullman's other pictures solved (the 1890 Albertype plate, the CHM 1905 oblique and side views, the Taylor album views) and every view of the main house worked to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1881
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/28/2026, 12:27:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40637570657
+claimed_at: 2026-10-28T05:27:48.309Z
 decision: answered
 decision_answer: a
 ---
