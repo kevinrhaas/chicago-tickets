@@ -1,7 +1,7 @@
 ---
 id: T-3225
 title: 1904 utility poles and wires pass through alley coach houses
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-28
 pr: 1405
 claimed_by: run 10/27/2026, 10:51:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T06:14:28Z
 claimed_run: null
 claimed_at: 2026-10-28T03:51:51.685Z
 decision: null

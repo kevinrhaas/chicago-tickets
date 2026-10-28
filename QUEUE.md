@@ -38,7 +38,6 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-3225 — 1904 utility poles and wires pass through alley coach houses
 T-3222 — 1638 Shortall-Gregory Prairie (the K16 timber house): a K14 front walk from its two-pier gateway along the fence's back to its porch stair, which the K16 generator cannot yet lay, matched to the Chicagology photograph
 T-3229 — The ten unpictured worked K01 brick houses of the 1600 block (1600, 1604, 1608, 1613, 1615, 1619, 1626, 1628, 1634, 1636 Prairie): a stated reconstruction of each walk and front boundary consistent with the block
 T-3230 — The four unpictured worked K16 timber houses of the 1600 block (1601, 1609, 1611, 1630 Prairie): a stated reconstruction of each walk and front boundary consistent with the block, once the K16 generator lays a K14 walk (T-3222, #1401)
@@ -204,6 +203,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3226 — Stop 1904 stone walls speckling and flickering where the mortar floor fights the stone face
 T-3227 — Keep front-yard plants and ivy out from in front of every front door and porch (Pullman 1729 porch)
-T-3228 — 1812 Prairie's door glass looks through the house: the side light and the lights over the porch transom had no dark hall behind them, so the unbuilt interior and the yard behind showed through; K07 now closes the whole mouth, and the entrance gate holds every K01 house's door glass to its backing

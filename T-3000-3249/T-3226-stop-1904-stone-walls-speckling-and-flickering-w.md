@@ -1,7 +1,7 @@
 ---
 id: T-3226
 title: Stop 1904 stone walls speckling and flickering where the mortar floor fights the stone face
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-28
 pr: 1404
 claimed_by: run 10/27/2026, 11:45:35 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T06:13:05Z
 claimed_run: null
 claimed_at: 2026-10-28T04:45:36.931Z
 decision: null
