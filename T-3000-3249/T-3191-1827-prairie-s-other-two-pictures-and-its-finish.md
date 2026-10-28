@@ -1,7 +1,7 @@
 ---
 id: T-3191
 title: 1827 Prairie's other two pictures and its finish: the oblique exterior photograph's and the 1927 fire item's cameras solved, the rear step on the south flank, the side, rear and roof treatment finished, and every 1827 match record brought to matches (after the pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1896
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/28/2026, 6:30:47 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40678842535
+claimed_at: 2026-10-28T11:30:49.133Z
 decision: null
 decision_answer: null
 ---
