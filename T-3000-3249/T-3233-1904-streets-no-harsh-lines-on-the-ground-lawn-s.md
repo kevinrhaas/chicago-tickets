@@ -1,7 +1,7 @@
 ---
 id: T-3233
 title: 1904 streets: no harsh lines on the ground (lawn strip over house walks, teal/pale strips by the ramps and gutter, road vs crossing seam, yard turf vs terrain grass)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-28
-closed: null
+closed: 2026-10-28
 pr: 1415
 claimed_by: run 10/28/2026, 5:00:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T14:18:05Z
 claimed_run: null
 claimed_at: 2026-10-28T10:01:00.793Z
 decision: null
