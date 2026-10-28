@@ -207,5 +207,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3218 — Glessner carriage way: a brick strip floats across the court mouth over the sunk floor
 T-3219 — 1904 gas lamps to a photographic match: post, boss, capital, arms, lantern and roof read off the 1811, Taylor 2135 and 2140 photographs (owner, 2026-10-28)

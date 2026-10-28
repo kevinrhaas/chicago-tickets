@@ -1,7 +1,7 @@
 ---
 id: T-3218
 title: Glessner carriage way: a brick strip floats across the court mouth over the sunk floor
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1393
 claimed_by: run 10/27/2026, 7:12:42 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-28T01:41:38Z
 claimed_run: null
 claimed_at: 2026-10-28T00:12:43.691Z
 decision: null
