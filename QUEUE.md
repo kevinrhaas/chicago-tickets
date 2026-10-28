@@ -206,3 +206,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3217 — 1904 corner ramps: one stone slab from the curb's face out onto the roadway, as Taylor 2135 and the Pullman view show (owner, 2026-10-27, on T-3200's first build)
+T-3218 — Glessner carriage way: a brick strip floats across the court mouth over the sunk floor
