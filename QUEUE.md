@@ -39,7 +39,6 @@ T-3213 — 1904 phone memory 409.4 MB over its 400 MiB ceiling on dev: the memor
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-3203 — 1904 front-yard plantings on every Prairie house lot: lawns, foundation shrubs, beds
 T-3214 — 1612 Goodman and 1620 Law Prairie: flagged front walks through their iron fences' entrance gates and cinder side walks through their side gates, matched to their pictures
 T-3221 — 1616, 1621, 1623, 1625 and 1637 Spalding Prairie: walks to their doors and front and side boundaries matched to their pictures
 T-3222 — 1638 Shortall-Gregory Prairie (the K16 timber house): a K14 front walk from its two-pier gateway along the fence's back to its porch stair, which the K16 generator cannot yet lay, matched to the Chicagology photograph

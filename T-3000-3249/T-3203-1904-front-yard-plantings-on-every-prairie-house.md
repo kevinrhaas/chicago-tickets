@@ -1,7 +1,7 @@
 ---
 id: T-3203
 title: 1904 front-yard plantings on every Prairie house lot: lawns, foundation shrubs, beds
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1387
 claimed_by: run 10/27/2026, 2:44:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T01:49:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40569071300
 claimed_at: 2026-10-27T19:44:53.269Z
 decision: null
