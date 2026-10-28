@@ -1,7 +1,7 @@
 ---
 id: T-3229
 title: The ten unpictured worked K01 brick houses of the 1600 block (1600, 1604, 1608, 1613, 1615, 1619, 1626, 1628, 1634, 1636 Prairie): a stated reconstruction of each walk and front boundary consistent with the block
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3216
 opened: 2026-10-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/28/2026, 1:18:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40634336025
+claimed_at: 2026-10-28T06:18:02.555Z
 decision: null
 decision_answer: null
 ---
