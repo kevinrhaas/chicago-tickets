@@ -1,7 +1,7 @@
 ---
 id: T-3230
 title: The four unpictured worked K16 timber houses of the 1600 block (1601, 1609, 1611, 1630 Prairie): a stated reconstruction of each walk and front boundary consistent with the block, once the K16 generator lays a K14 walk (T-3222, #1401)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3216
 opened: 2026-10-28
 closed: null
-pr: null
+pr: 1417
 claimed_by: run 10/28/2026, 6:03:09 AM CT
 blocked_on: null
 needs_bake: false
