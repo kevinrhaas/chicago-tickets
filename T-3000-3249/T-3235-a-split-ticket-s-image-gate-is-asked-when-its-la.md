@@ -1,7 +1,7 @@
 ---
 id: T-3235
 title: A split ticket's image gate is asked when its last piece closes, and Pullman's match records reopened where missing elements were passed as within tolerance
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/28/2026, 10:47:22 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-28T15:47:23.987Z
 decision: null
 decision_answer: null
 ---
