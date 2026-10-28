@@ -1,7 +1,7 @@
 ---
 id: T-3224
 title: K01 contract: web-tier metric_uv reads 16-bit position quantization on brick-unit relief once a K14 yard widens the mesh (1612 Goodman 1.054 vs 0.05 tolerance)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1399
 claimed_by: run 10/27/2026, 9:31:57 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T04:15:59Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40620945873
 claimed_at: 2026-10-28T02:31:57.781Z
 decision: null
