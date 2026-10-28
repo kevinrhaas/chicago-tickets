@@ -1,7 +1,7 @@
 ---
 id: T-3222
 title: 1638 Shortall-Gregory Prairie (the K16 timber house): a K14 front walk from its two-pier gateway along the fence's back to its porch stair, which the K16 generator cannot yet lay, matched to the Chicagology photograph
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3215
 opened: 2026-10-27
-closed: null
+closed: 2026-10-28
 pr: 1401
 claimed_by: run 10/27/2026, 8:58:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T06:48:42Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40617498017
 claimed_at: 2026-10-28T01:58:38.798Z
 decision: null
