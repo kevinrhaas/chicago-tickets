@@ -40,7 +40,8 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3225 — 1904 utility poles and wires pass through alley coach houses
 T-3222 — 1638 Shortall-Gregory Prairie (the K16 timber house): a K14 front walk from its two-pier gateway along the fence's back to its porch stair, which the K16 generator cannot yet lay, matched to the Chicagology photograph
-T-3216 — The unpictured worked 1600-block Prairie houses (1600, 1601, 1604, 1608, 1609, 1611, 1613, 1615, 1619, 1626, 1628, 1630, 1634, 1636, and 1635 Forsyth if worked): a stated reconstruction of each walk and front boundary consistent with the block
+T-3229 — The ten unpictured worked K01 brick houses of the 1600 block (1600, 1604, 1608, 1613, 1615, 1619, 1626, 1628, 1634, 1636 Prairie): a stated reconstruction of each walk and front boundary consistent with the block
+T-3230 — The four unpictured worked K16 timber houses of the 1600 block (1601, 1609, 1611, 1630 Prairie): a stated reconstruction of each walk and front boundary consistent with the block, once the K16 generator lays a K14 walk (T-3222, #1401)
 T-3205 — Worked 1700-block Prairie houses: walks, gates, front and side boundaries to their pictures
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
