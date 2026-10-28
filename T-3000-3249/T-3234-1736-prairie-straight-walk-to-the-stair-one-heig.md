@@ -2,7 +2,7 @@
 id: T-3234
 title: 1736 Prairie: straight walk to the stair, one-height wall turning along 18th Street, no stray column
 state: claimed
-epic: PRAIRIE_1904
+epic: META
 requested_by: owner
 seen: false
 effort: M
