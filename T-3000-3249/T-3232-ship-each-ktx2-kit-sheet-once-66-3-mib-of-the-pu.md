@@ -1,7 +1,7 @@
 ---
 id: T-3232
 title: Ship each KTX2 kit sheet once: 66.3 MiB of the published GLBs' embedded images are copies (one 625 KiB K01 sheet in 28 GLBs), so each textured Prairie house re-spends the site allowance; the GLBs refer to one shared sheet by URI across the kit emitters, the bake and the publish checks (SITE-BUDGET §13-14)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-28
 closed: null
-pr: null
+pr: 1414
 claimed_by: run 10/28/2026, 5:11:38 AM CT
 blocked_on: null
 needs_bake: false
