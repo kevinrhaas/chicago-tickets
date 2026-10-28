@@ -1,7 +1,7 @@
 ---
 id: T-3161
 title: 1729 Pullman's other pictures solved (the 1890 Albertype plate, the CHM 1905 oblique and side views, the Taylor album views) and every view of the main house worked to matches
-state: open
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1881
 opened: 2026-10-25
 closed: null
-pr: null
+pr: 1407
 claimed_by: null
 blocked_on: null
 needs_bake: false
