@@ -1,7 +1,7 @@
 ---
 id: T-3210
 title: 1827 Prairie's porch from the Doane photograph: its round arches on the street and south faces, and its steps (the print's flight, rising behind the street tree, read through the camera: along the front or straight in under the north arch)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3197
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/28/2026, 12:49:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40638899606
+claimed_at: 2026-10-28T05:49:03.178Z
 decision: null
 decision_answer: null
 ---
