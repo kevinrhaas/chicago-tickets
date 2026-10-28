@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/27/2026, 7:46:26 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40610302060
-claimed_at: 2026-10-28T00:46:26.289Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -107,3 +107,5 @@ match record's open differences name both):
 **Released 2026-10-27** (claim of run 10/27/2026, 3:40:12 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40577754367): PR #1389 (resume, waiting only on the chicago-4d-check gate) pitches the tower's cone 2.7 so its apex stands 0.43 m higher at 17.12 m (Taylor 'tower's cone top' now fixed; HABS 2's collar within about 3 px, the Taylor print's about 0.2 m over it, within tolerance), and tried the east range's stack from HABS 2: on the build's low range hip it stood as about 4 m of bare shaft, so it waits on the range's roof, which that print shows far higher (written into the HABS 2 match record). The image gate still has open differences across the three match records (hoods' widening cheeks and the south hood's width, the gabled section's loggia and pier, the flank section's rounded west corner, mansard curb and deck, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-27** (claim of run 10/27/2026, 6:21:25 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40600087800): PR #1391 (merged) flares the three hooded dormers' hoods at their feet, 0.2 m wider than their faces and out in front of them, the south one's top eased to HABS 1 (HABS 1 'south dormer's hood' and Taylor 'hooded dormers' hoods' now fixed; HABS 2's hood within tolerance). The image gate still has open differences across the three match records (mansard curb and deck, now also carrying the 18th Street hood's shallower cheek; the gabled section's loggia and pier, the flank section's rounded west corner, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, loggia lights' frames); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-27** (claim of run 10/27/2026, 7:46:26 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40610302060): PR #1398 (merged) frames the two lights over the loggia in the K09 kit's moulded surround (architrave and cornice hood on consoles) and lowers their transoms to 0.8 m top lights, front and 18th Street flank (Taylor 'lights over the loggia' now fixed; a new K01 street_front_trim.lights key dresses a named side-wall light as its storey's front lights). The image gate still has open differences across the three match records (the carved pilasters either side of the lights over the loggia, mansard curb and deck, gabled section's loggia and pier, flank section's rounded west corner, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
