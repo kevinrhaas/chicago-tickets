@@ -1,7 +1,7 @@
 ---
 id: T-3223
 title: 1904 front-yard plantings rebuilt to photographic quality, clear of every door, stoop and walk
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1402
 claimed_by: run 10/27/2026, 9:26:01 PM CT
 blocked_on: null
 needs_bake: false
