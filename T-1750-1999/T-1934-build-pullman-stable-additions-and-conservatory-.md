@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/28/2026, 10:52:41 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40719330148
-claimed_at: 2026-10-28T15:52:41.869Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -84,3 +84,5 @@ The owner names the conservatory and the stable. The stable and its one-storey r
 Owner, 2026-10-28, the same thread: *"the surrounding wall/fence around the property also should be included in the match, as well as the flora"*. So each view also judges the lot's boundary (the coping walls, piers, posts and balustrades on Prairie Avenue, 18th Street and Calumet Avenue, and the garden wall round the glasshouse ground) and its planting (the ivy on the walls, the shrubs and beds, the yard and parkway trees as far as the picture shows them in its season), and a difference in either is `open` by the same bar.
 
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
+
+**Released 2026-10-28** (claim of run 10/28/2026, 10:52:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40719330148): PR #1425 works the palm house and its range to the Inland plate and Taylor's 16555 (open colonnade, open balustrades, rustication and pilasters, urns, broader ribbed dome); still open in the match records: the stable (belt course, open belvedere, crested deck, roof mass, corner bay's shape), the 18th Street boundary and the terrace's two-flight approach, and the planting. Not split: the split escape (T-3235) is not on dev yet, so the gate stays on this ticket.
