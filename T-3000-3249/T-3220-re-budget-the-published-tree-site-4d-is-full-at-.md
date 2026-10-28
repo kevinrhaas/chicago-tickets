@@ -1,7 +1,7 @@
 ---
 id: T-3220
 title: Re-budget the published tree: site/4d is full at 416 MiB, so no new textured Prairie house can land (dev ~413.8 MiB; #1384 adds 4.0)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/28/2026, 2:16:00 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40646203782
+claimed_at: 2026-10-28T07:16:01.681Z
 decision: null
 decision_answer: null
 ---
