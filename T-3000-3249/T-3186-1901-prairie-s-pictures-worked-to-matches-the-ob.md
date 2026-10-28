@@ -1,7 +1,7 @@
 ---
 id: T-3186
 title: 1901 Prairie's pictures worked to matches: the oblique exterior photograph's and the 1893 Pictorial Chicago plate's cameras solved, the south flank's bays, stacks and dormers, the portico's capitals and the stoop's curved cheeks, the 1896 reprint and the elevation drawing weighed, and every 1901 match record brought to matches (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1903
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: run 10/28/2026, 1:44:07 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40645118391
-claimed_at: 2026-10-28T06:44:07.619Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -40,3 +40,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Released 2026-10-27** (claim of run 10/27/2026, 8:12:42 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40506374550): PR #1374 ships the canted south-west corner: K01's new cant_corner (the face in the front's ashlar with its window column and basement light; the mansard's rings, cornice, gutter and curb cresting turned round it; a pedimented dormer on its face), cut 1.83 m each way through the south-west camera; both match records mark it fixed. Still open on both: the stoop's swept cheeks (K01's swept cheek stands only beside a pierced parapet), the porch's Corinthian capitals, the cornice's paired blocks; and the 1893 Pictorial Chicago plate's camera is not solved. Next: the capitals and the cheeks, then the plate.
 
 **Released 2026-10-27** (claim of run 10/27/2026, 11:44:36 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40538772791): lapped PR #1374 (its canted-corner piece) onto dev and handed it on with resume: CI gate stuck in checkout; the plate camera, stoop cheeks, porch capitals, cornice blocks and the 1896/elevation weighing are still owed
+
+**Released 2026-10-28** (claim of run 10/28/2026, 1:44:07 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40645118391): PR #1411 ships the porch's carved capitals (K01 hood columns.carved: two tiers of leaves under a 0.1 m abacus, read off the 1898 print) and the stoop's scrolled stone cheeks beside the open terraces, falling straight down the rake to the roll (K07 scrolled cheek, new bow 1); both match records mark them fixed, the pairs' closer spacing within tolerance. PR is complete and locally gated, handed on with resume while CI's gate runs. Still open: the cornice's paired blocks, the cheeks' row of small openings (K07's scrolled cheek is solid), the 1893 Pictorial Chicago plate's camera, and weighing the 1896 reprint and the elevation drawing. Next: the cornice blocks, then the cheeks' openings.
