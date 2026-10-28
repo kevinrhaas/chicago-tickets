@@ -207,3 +207,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3217 — 1904 corner ramps: one stone slab from the curb's face out onto the roadway, as Taylor 2135 and the Pullman view show (owner, 2026-10-27, on T-3200's first build)
 T-3218 — Glessner carriage way: a brick strip floats across the court mouth over the sunk floor
+T-3219 — 1904 gas lamps to a photographic match: post, boss, capital, arms, lantern and roof read off the 1811, Taylor 2135 and 2140 photographs (owner, 2026-10-28)
