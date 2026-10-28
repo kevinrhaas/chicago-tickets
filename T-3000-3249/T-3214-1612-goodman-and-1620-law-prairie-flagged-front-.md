@@ -1,7 +1,7 @@
 ---
 id: T-3214
 title: 1612 Goodman and 1620 Law Prairie: flagged front walks through their iron fences' entrance gates and cinder side walks through their side gates, matched to their pictures
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3204
 opened: 2026-10-27
-closed: null
+closed: 2026-10-28
 pr: 1395
 claimed_by: run 10/27/2026, 7:08:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T05:21:07Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40606144805
 claimed_at: 2026-10-28T00:08:51.467Z
 decision: null

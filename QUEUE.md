@@ -39,7 +39,6 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3225 — 1904 utility poles and wires pass through alley coach houses
-T-3214 — 1612 Goodman and 1620 Law Prairie: flagged front walks through their iron fences' entrance gates and cinder side walks through their side gates, matched to their pictures
 T-3222 — 1638 Shortall-Gregory Prairie (the K16 timber house): a K14 front walk from its two-pier gateway along the fence's back to its porch stair, which the K16 generator cannot yet lay, matched to the Chicagology photograph
 T-3216 — The unpictured worked 1600-block Prairie houses (1600, 1601, 1604, 1608, 1609, 1611, 1613, 1615, 1619, 1626, 1628, 1630, 1634, 1636, and 1635 Forsyth if worked): a stated reconstruction of each walk and front boundary consistent with the block
 T-3205 — Worked 1700-block Prairie houses: walks, gates, front and side boundaries to their pictures
