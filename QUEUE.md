@@ -207,3 +207,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3223 — 1904 front-yard plantings rebuilt to photographic quality, clear of every door, stoop and walk
+T-3226 — Stop 1904 stone walls speckling and flickering where the mortar floor fights the stone face
