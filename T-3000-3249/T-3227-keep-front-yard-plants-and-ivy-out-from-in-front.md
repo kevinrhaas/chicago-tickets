@@ -1,7 +1,7 @@
 ---
 id: T-3227
 title: Keep front-yard plants and ivy out from in front of every front door and porch (Pullman 1729 porch)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-28
 closed: null
-pr: null
+pr: 1410
 claimed_by: run 10/28/2026, 12:12:59 AM CT
 blocked_on: null
 needs_bake: false
