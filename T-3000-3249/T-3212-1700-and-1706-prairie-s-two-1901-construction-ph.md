@@ -34,3 +34,7 @@ When T-1871 was split (2026-10-27T18:14:42.511Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40552750919) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Found while lapping #1384 (2026-10-28): the pair has no front walk
+
+T-3206's walk gate (`tools/check_house_walks.py`) found no `k14.yard.front_walk` on 1700 or 1706: the pair went onto K01 (T-3211, #1384) after T-3205 laid the 1700 block's walks, gates and railings, so neither house carries a `boundary` or `yard` attribute. The Chicagology photograph shows each stoop reached by a walk through a gate in the spear-headed railing that runs on from 1708 (1708's `boundary` note says the same). Both houses are held in the gate's PENDING list naming this ticket, and the gap is written `open` in each house's `chicagology_townhouses.match.json` (verdict `differs`). Whoever works the pair's pictures here should lay the walks the way T-3205 laid 1708's and take the two entries out of PENDING.
