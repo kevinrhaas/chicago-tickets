@@ -1,7 +1,7 @@
 ---
 id: T-1872
 title: Refine 1708 and 1712 townhouse fronts
-state: split
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: 2026-10-26
+closed: null
 pr: null
-claimed_by: run 10/26/2026, 10:36:10 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-10-27T03:38:01.122Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40444283844
-claimed_at: 2026-10-27T03:36:11.088Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -70,3 +70,17 @@ Pictures:
   `house_1708_prairie`: a16-cgy-1700-1706-townhouses (photograph, front elevation, undated (after 1902)), a16-ghm-blog-1700-1706-construction-1901 (photograph, oblique front, 1901), a16-ghm-blog-1708-1706-1700-christmas (photograph, oblique front, undated (after 1902; blog context is Christmas 1911)), st-ghm-1700-1706-under-construction-1901 (photograph, oblique front, 1901)
 
 - house_1712_prairie
+
+## Reopened (owner, 2026-10-28)
+
+Owner, 2026-10-28: *"in looking at 1729 prairie, the pullman estate it seems like tickets are closed and the gate is exited, but it is still way off from a photographic match, the stepped front, the south face, the entire greenhouses and the stable are all way off, not to mention the greenhouse area south of 18th, am i wrong? did you consider it done? because its not and you need to reenter the photographic match on that one if not"*.
+
+He chose, the same day, to reopen the other houses that had closed the same way ("Reopen them below Pullman").
+
+This ticket closed without passing its image gate: `ticket.mjs split` closed it without asking the gate, and the pieces it minted carried no `## Image gate` section, so none of their `done`s asked it either (fixed by T-3235: a split parent's gate is now asked by its last piece). On 2026-10-28 its match records read:
+
+- `house_1712_prairie`: no reference view solved
+
+
+
+It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.

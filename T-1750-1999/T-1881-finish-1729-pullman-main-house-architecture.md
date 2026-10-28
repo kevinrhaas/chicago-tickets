@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: split
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: 2026-10-25
+closed: null
 pr: null
-claimed_by: run 10/25/2026, 5:57:33 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-10-25T23:00:18.594Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40241549844
-claimed_at: 2026-10-25T22:57:34.433Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,15 @@ Pictures:
   `pullman_house_1729_prairie`: a16-aic-lowe-pullman-conservatory-c1897 (photograph, oblique front, c.1897 (view date)), a16-aic-taylor-album-pullman-p69 (photograph, oblique front, c.1880s (holder); album c.1890s), a16-aic-taylor-pullman-from-nw (photograph, oblique front, c.1890s (view date)), a16-aic-taylor-pullman-from-sw-palm-house (photograph, oblique front, c.1890–1910 (view date)), a16-albertype-1890-pullman-residence (publication plate, oblique front, 1890 (publication)), a16-cgy-1729-beman-addition (photograph, side elevation, undated (after the 1892 Beman addition)), a16-cgy-1729-dailynews-photo (photograph, oblique front, undated (Chicago Daily News negative series is 1902–1933; a 'KODAK' sign is visible on a building at far left)), a16-chm-clark-i70232-pullman-addition (photograph, side elevation, 1905–1906 (CHM-Date depicted)), a16-chm-clark-ichi-071913-pullman-1905 (photograph, oblique front, 1905 (CHM-Date depicted)), a16-ghm-blog-pullman-completed (photograph, oblique front, undated (after the 1892 Beman additions; probably 1890s)), a16-ghm-blog-pullman-terrace (photograph, side elevation, undated (after 1892)), a16-inland-1891-dexter-residence (publication plate, oblique front, 1891 (plate in The Inland Architect and News Record, vol. 17, no. 5, June 1891); addition built 1889), and 14 more in the library
 
 - pullman_house_1729_prairie
+
+## Reopened (owner, 2026-10-28)
+
+Owner, 2026-10-28: *"in looking at 1729 prairie, the pullman estate it seems like tickets are closed and the gate is exited, but it is still way off from a photographic match, the stepped front, the south face, the entire greenhouses and the stable are all way off, not to mention the greenhouse area south of 18th, am i wrong? did you consider it done? because its not and you need to reenter the photographic match on that one if not"*.
+
+This ticket closed without passing its image gate: `ticket.mjs split` closed it without asking the gate, and the pieces it minted carried no `## Image gate` section, so none of their `done`s asked it either (fixed by T-3235: a split parent's gate is now asked by its last piece). On 2026-10-28 its match records read:
+
+- `pullman_house_1729_prairie`: albertype_1890 differs, detroit_det_4a08065 differs, taylor_1445_album differs
+
+The owner names the stepped front and the south face. The house is built as one K01 block whose Prairie front and 18th Street flank are flat faces under one continuous mansard; the Detroit print (LC-D4-12551), the 1890 Albertype plate and Taylor's no. 1445 show the fronts breaking forward and back in pavilions, each under its own mansard section. 26 pictures are listed above and 3 have cameras. The CHM 1905 views, Detroit det 4a08066, the Daily News negative and the Beman-addition side views are still to be solved, or recorded as unusable with the reason.
+
+It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.

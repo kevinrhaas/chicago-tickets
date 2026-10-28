@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: split
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: 2026-10-25
+closed: null
 pr: null
-claimed_by: run 10/25/2026, 7:17:46 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-10-26T00:20:55.751Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40247477380
-claimed_at: 2026-10-26T00:17:46.752Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,17 @@ Pictures:
   `dent_house_1823_prairie`: a18-cgy-1823-dent-engraving (engraving, oblique front, undated (1880s–1890s engraving)), a19-nby-newchicagoalbum-1883-residences (publication plate, oblique front, 1883)
 
 - dent_house_1823_prairie
+
+## Reopened (owner, 2026-10-28)
+
+Owner, 2026-10-28: *"in looking at 1729 prairie, the pullman estate it seems like tickets are closed and the gate is exited, but it is still way off from a photographic match, the stepped front, the south face, the entire greenhouses and the stable are all way off, not to mention the greenhouse area south of 18th, am i wrong? did you consider it done? because its not and you need to reenter the photographic match on that one if not"*.
+
+He chose, the same day, to reopen the other houses that had closed the same way ("Reopen them below Pullman").
+
+This ticket closed without passing its image gate: `ticket.mjs split` closed it without asking the gate, and the pieces it minted carried no `## Image gate` section, so none of their `done`s asked it either (fixed by T-3235: a split parent's gate is now asked by its last piece). On 2026-10-28 its match records read:
+
+- `dent_house_1823_prairie`: album_1883 differs, chicagology_engraving differs
+
+
+
+It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.

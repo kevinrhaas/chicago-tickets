@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: split
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: 2026-10-25
+closed: null
 pr: null
-claimed_by: run 10/25/2026, 7:45:30 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-10-26T00:45:41.871Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40249667168
-claimed_at: 2026-10-26T00:45:31.451Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,17 @@ Pictures:
   `pullman_house_1729_prairie_conservatory`: a16-aic-lowe-pullman-conservatory-c1897 (photograph, oblique front, c.1897 (view date)), a16-aic-taylor-album-pullman-p69 (photograph, oblique front, c.1880s (holder); album c.1890s), a16-aic-taylor-pullman-from-nw (photograph, oblique front, c.1890s (view date)), a16-aic-taylor-pullman-from-sw-palm-house (photograph, oblique front, c.1890–1910 (view date)), a16-aic-taylor-pullman-west-front-palm-house (photograph, street view, c.1890–1910 (holder view date); content dates it 1892–May 1894), a16-andreas-1884-chicagos-historic-tree (publication plate, street view, 1884 (publication)), a16-cgy-1729-beman-addition (photograph, side elevation, undated (after the 1892 Beman addition)), a16-chm-clark-i70232-pullman-addition (photograph, side elevation, 1905–1906 (CHM-Date depicted)), a16-chm-ichi-19208-monument-pullman-wall (photograph, street view, circa 1900), a16-ghm-blog-massacre-tree-george-glessner-c1888 (photograph, street view, about 1888), a16-ghm-blog-massacre-tree-pullman-coachhouse (engraving, street view, 1880s (per blog)), a16-ghm-blog-pullman-completed (photograph, oblique front, undated (after the 1892 Beman additions; probably 1890s)), and 13 more in the library
 
 - pullman_house_1729_prairie_conservatory
+- pullman_house_1729_prairie_ranges
+
+## Reopened (owner, 2026-10-28)
+
+Owner, 2026-10-28: *"in looking at 1729 prairie, the pullman estate it seems like tickets are closed and the gate is exited, but it is still way off from a photographic match, the stepped front, the south face, the entire greenhouses and the stable are all way off, not to mention the greenhouse area south of 18th, am i wrong? did you consider it done? because its not and you need to reenter the photographic match on that one if not"*.
+
+This ticket closed without passing its image gate: `ticket.mjs split` closed it without asking the gate, and the pieces it minted carried no `## Image gate` section, so none of their `done`s asked it either (fixed by T-3235: a split parent's gate is now asked by its last piece). On 2026-10-28 its match records read:
+
+- `pullman_house_1729_prairie_conservatory`: inland_1894_plate differs, taylor_16554_from_south matches, taylor_16555_west_front differs
+- `pullman_house_1729_prairie_ranges`: no reference view solved
+
+The owner names the conservatory and the stable. The stable and its one-storey ranges (`pullman_house_1729_prairie_ranges`) are still a `prairie_draft` record and have no reference view of their own, so the image gate above now names them as well as the palm house. Against the 1894 Inland plate and Taylor's 16555, the palm house renders as a faceted drum behind solid parapets on a blank wall, where the pictures show a colonnaded glass drum, its entablature, balustrade and ribbed dome, rusticated walls with pilasters, balustraded terraces with urns, and a stable with a moulded belt course, an open belvedere and crested deck.
+
+It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.

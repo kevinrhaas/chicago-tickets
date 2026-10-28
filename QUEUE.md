@@ -40,6 +40,10 @@ T-3235 — A split ticket's image gate is asked when its last piece closes, and 
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3229 — The ten unpictured worked K01 brick houses of the 1600 block (1600, 1604, 1608, 1613, 1615, 1619, 1626, 1628, 1634, 1636 Prairie): a stated reconstruction of each walk and front boundary consistent with the block
+# Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
+T-1881 — Finish 1729 Pullman main house architecture
+T-1934 — Refine Pullman stable, additions and conservatory estate
+T-3164 — Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
@@ -115,6 +119,15 @@ T-1946 — Close side-street and rail-side background gaps
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
+# Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
+T-1868 — Refine 1613, 1615 and 1619 east row
+T-1872 — Refine 1708 and 1712 townhouse fronts
+T-1886 — Refine 1816 Henderson mansard house
+T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
+T-1893 — Refine 1815 Sears-Meeker altered house
+T-1894 — Refine 1823 Dent house
+T-1896 — Finish 1827 Doane twin-tower mansion architecture
+T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).

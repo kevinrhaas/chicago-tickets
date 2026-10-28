@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: done
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1934
 opened: 2026-10-25
-closed: 2026-10-26
-pr: 1330
-claimed_by: run 10/25/2026, 7:45:54 PM CT
+closed: null
+pr: null
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-10-26T06:28:02Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40249667168
-claimed_at: 2026-10-26T00:45:54.909Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -39,3 +39,23 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 3. Provenance per attribute (outline inferred from the 1911 sheet; glazing form and heights reconstructed, bounded by the K13 kit and the census), a `docs/LIBERTIES.md` entry, the draft liberty `L-draft-prairie-16-18-east-2335` updated for what this supersedes, the structures baked, and the result checked in the browser at 1280x800 and 390x780.
 
 Matching the glasshouses to the 1894 plates and the photographs is T-3165's, not this piece's.
+
+## Reopened (owner, 2026-10-28)
+
+Owner, 2026-10-28: *"in looking at 1729 prairie, the pullman estate it seems like tickets are closed and the gate is exited, but it is still way off from a photographic match, the stepped front, the south face, the entire greenhouses and the stable are all way off, not to mention the greenhouse area south of 18th, am i wrong? did you consider it done? because its not and you need to reenter the photographic match on that one if not"*.
+
+This ticket closed without passing its image gate: `ticket.mjs split` closed it without asking the gate, and the pieces it minted carried no `## Image gate` section, so none of their `done`s asked it either (fixed by T-3235: a split parent's gate is now asked by its last piece). On 2026-10-28 its match records read:
+
+- `pullman_glasshouse_1800_calumet_pavilion`: inland_1894_conservatory differs, lowe_c1897_conservatory differs
+- `pullman_lodge_1800_calumet`: no reference view solved
+
+The owner names the greenhouse ground south of 18th Street. Against Lowe's c. 1897 photograph and the 1894 Inland conservatory plate, the long range renders as a blank wall with square holes, the lodge in red brick, and the pavilion's great arched glass front as an opaque gable over a black opening, where the pictures show a glazed range with arched lights on a rusticated stone base, a stone lodge, and a glass front on a stone podium with its arched doorway. The north and east ranges are judged inside the pavilion's group views (their `rendered_members`); the lodge needs a view of its own.
+
+It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
+
+## Image gate (owner, 2026-10-28)
+
+`ticket.mjs done` refuses this ticket until every building below matches every one of its reference views.
+
+- pullman_glasshouse_1800_calumet_pavilion
+- pullman_lodge_1800_calumet
