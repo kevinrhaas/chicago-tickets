@@ -1,7 +1,7 @@
 ---
 id: T-3213
 title: 1904 phone memory 409.4 MB over its 400 MiB ceiling on dev: the memory job never runs on dev pushes, so dev drifted over unseen; bring the 1904 phone scene back under 400 or argue a new ceiling in tools/memory_ceilings.json with its reading
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1394
 claimed_by: run 10/27/2026, 6:57:39 PM CT
 blocked_on: null
 needs_bake: false
