@@ -205,3 +205,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3227 — Keep front-yard plants and ivy out from in front of every front door and porch (Pullman 1729 porch)
 T-3231 — 1904 corner lamps and ramps: no raised footing, glazed lantern top, arms curving into the lantern, every ramp slab meets the curb top
+T-3233 — 1904 streets: no harsh lines on the ground (lawn strip over house walks, teal/pale strips by the ramps and gutter, road vs crossing seam, yard turf vs terrain grass)
