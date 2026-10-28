@@ -44,7 +44,6 @@ T-3214 — 1612 Goodman and 1620 Law Prairie: flagged front walks through their 
 T-3215 — 1616, 1621, 1623, 1625, 1637 Spalding and 1638 Shortall-Gregory Prairie (the other pictured 1600-block houses): walks to their doors and front and side boundaries matched to their pictures
 T-3216 — The unpictured worked 1600-block Prairie houses (1600, 1601, 1604, 1608, 1609, 1611, 1613, 1615, 1619, 1626, 1628, 1630, 1634, 1636, and 1635 Forsyth if worked): a stated reconstruction of each walk and front boundary consistent with the block
 T-3205 — Worked 1700-block Prairie houses: walks, gates, front and side boundaries to their pictures
-T-3206 — Worked 1800-1900-block Prairie houses: walks, gates, front and side boundaries to their pictures
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.

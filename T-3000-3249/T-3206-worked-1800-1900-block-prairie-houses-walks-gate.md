@@ -1,7 +1,7 @@
 ---
 id: T-3206
 title: Worked 1800-1900-block Prairie houses: walks, gates, front and side boundaries to their pictures
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: 1383
 claimed_by: run 10/27/2026, 1:24:11 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T00:09:14Z
 claimed_run: null
 claimed_at: 2026-10-27T18:24:12.721Z
 decision: null
