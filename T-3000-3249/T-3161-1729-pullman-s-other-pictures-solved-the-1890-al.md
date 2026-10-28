@@ -1,7 +1,7 @@
 ---
 id: T-3161
 title: 1729 Pullman's other pictures solved (the 1890 Albertype plate, the CHM 1905 oblique and side views, the Taylor album views) and every view of the main house worked to matches
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1881
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/28/2026, 12:27:47 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40637570657
-claimed_at: 2026-10-28T05:27:48.309Z
+claimed_run: null
+claimed_at: null
 decision: answered
 decision_answer: a
 ---
@@ -49,3 +49,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 **Asked:** 2026-10-26 by https://github.com/kevinrhaas/polecat-platform/actions/runs/40387370296. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Owner answer (2026-10-27, via Manager):** (a) Yes: treat the 1890s Taylor commercial prints as public domain by age, as with Kimball's, and commit them with attribution so the camera joins the gate
+
+**Released 2026-10-28** (claim of run 10/28/2026, 12:27:47 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40637570657): PR #1407 ships what fit: Taylor's photograph no. 1445 in the image gate (owner's rights ruling applied), the 18th Street flank rebuilt to it (one window west of the porte-cochere, the porte-cochere at s 10.25-15.4 and 5.45 m out with its west and front arches, the pair/triple/east pair on the second storey, three dormers, the hip-roofed pavilion taken off), and all three of the house's match records re-read. Still open in the match records: the dormers' eared pedimented hoods (needs a K01 dormer head), the flank's oculus pier and its east section breaking forward, Detroit's 18th Street posts; det 4a08066 and the CHM 1905 views have no camera. Taylor's camera reads the Prairie front 2-4 m off the Detroit-built front (recorded as a camera disagreement).
