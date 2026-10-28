@@ -1,7 +1,7 @@
 ---
 id: T-3205
 title: Worked 1700-block Prairie houses: walks, gates, front and side boundaries to their pictures
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-27
 closed: null
-pr: null
+pr: 1400
 claimed_by: run 10/27/2026, 9:19:47 PM CT
 blocked_on: null
 needs_bake: false
