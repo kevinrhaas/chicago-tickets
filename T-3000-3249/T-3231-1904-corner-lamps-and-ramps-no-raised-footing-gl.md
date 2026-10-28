@@ -1,7 +1,7 @@
 ---
 id: T-3231
 title: 1904 corner lamps and ramps: no raised footing, glazed lantern top, arms curving into the lantern, every ramp slab meets the curb top
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-28
-closed: null
+closed: 2026-10-28
 pr: 1413
 claimed_by: run 10/28/2026, 2:14:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T10:39:33Z
 claimed_run: null
 claimed_at: 2026-10-28T07:14:29.681Z
 decision: null
