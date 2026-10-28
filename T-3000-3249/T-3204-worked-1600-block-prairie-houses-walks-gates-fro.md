@@ -1,7 +1,7 @@
 ---
 id: T-3204
 title: Worked 1600-block Prairie houses: walks, gates, front and side boundaries to their pictures
-state: claimed
+state: split
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-27
-closed: null
+closed: 2026-10-27
 pr: null
 claimed_by: run 10/27/2026, 7:07:14 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-28T00:08:45.212Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40606144805
 claimed_at: 2026-10-28T00:07:15.315Z
 decision: null
