@@ -1,7 +1,7 @@
 ---
 id: T-3240
 title: 1701 Prairie onto K01: the front block under its hipped roof, the bracketed cornice, the round-headed hooded lights and the front's two-storey bay, and the 1874 rear range behind it, against the wide photograph's and the rear photograph's solved cameras
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1875
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1443
 claimed_by: run 10/29/2026, 8:15:58 AM CT
 blocked_on: null
 needs_bake: false
