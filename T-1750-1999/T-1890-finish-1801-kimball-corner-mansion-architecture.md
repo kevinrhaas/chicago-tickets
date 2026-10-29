@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 6:21:29 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40863175279
-claimed_at: 2026-10-29T11:21:29.660Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -119,3 +119,5 @@ match record's open differences name both):
 **Released 2026-10-29** (claim of run 10/29/2026, 2:12:28 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40832830310): PR #1433 (resume, waiting only on the chicago-4d-check gate; locally check.sh 1103/1103 and smoke part 3 green) rounds the 18th Street section's west corner over the corbel table, with its light and railed top (HABS 2 and Taylor 'flank section's west corner' now fixed; the corbel table's straight run under the round within tolerance). The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, the front north of the pavilion); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-29** (claim of run 10/29/2026, 4:36:28 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40850334333): PR #1438 (merged) cuts the east range's side door under the frontispiece's round-arched light, read off HABS photograph 2 and the Taylor print (HABS 2 'side door under the frontispiece's round-arched light' now fixed; the Taylor record adds it fixed); K06 gains a glazed door and K08 a door key that runs through a grade bay's plinth. The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light, the front north of the pavilion); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-29** (claim of run 10/29/2026, 6:21:29 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40863175279): PR #1441 (resume, waiting only on the chicago-4d-check gate; locally check.sh 1102/1103 with its one red, the source-use count, rebuilt and green, and smoke part 3 green at desktop and mobile) carries the main moulded cornice along the south wall and round the south bay and brings a slated mansard down over the bay into the main roof (HABS 1 'the bay's top' now fixed); K10's mansard cornice now stops on a chamfered pavilion's side-wall cut. The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south cornice heights, corner-balcony light, the front north of the pavilion); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
