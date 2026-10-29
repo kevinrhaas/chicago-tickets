@@ -21,6 +21,17 @@ decision: null
 decision_answer: null
 ---
 
+
+## Actual delivery progress — 29 October 2026, 11:27 AM CT
+
+Wagon feature `9e14c138848ef854a535271fbd3feaae52dd4aa2` is normally pushed and remote-verified on the owned feature branch after integrating DEV `c0936cb192873b8c09a747e4ed3d64b3c6f5115c`. The complete required-reader preflight passed 1105 checks and 395 self-tests in 875.862s, cleanup complete. The 600s timing target was missed. Four actual new-HEAD changelog/ID/history checks passed; final checked publication, 5630-file mirror and offline packs passed. Publication is 332.101 MiB under the unchanged incoming 432 MiB limit.
+
+Actual native 1904 memory measurement passed both current incoming limits: desktop 1129.54 MiB / 1300 and phone 392.81 MiB / 400, with no errors and unchanged source/index/mirror. The original stricter desktop 1125 MiB goal is still missed by 4,761,779 bytes and remains tracked by T-3173. Mirror files were hash-verified before reclaiming only the ignored build product. No threshold was raised by this continuation.
+
+PR1340 API state and current CI cannot be read while the effective runtime policy excludes `api.github.com`; no new DEV merge is claimed. Current hosted acceptance, broader photographic master and occupied-use requirements remain open.
+
+[Immutable corrected source and actual-result checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/824d4ca280f2b836abf0e9f2c1408ba296ca2c13/evidence/transport-photoquality-2026-10-29/ROOT-CORRECTED-SOURCES-WAGON-PASS-1624UTC). Ticket state and acceptance are unchanged.
+
 ## Actual delivery progress — 27 October 2026, 03:41 UTC
 
 Draft PR1340 is normally pushed at09f75fb667fe34421daf9f614648f615cf1f7841 after its e5 DEV integration. Complete native preflight passed1078 checks/388 self-tests in752.016s; the600s target was missed honestly. Four actual new-HEAD checks and normal push passed. A later dfcb DEV change creates a fresh conflict; bounded integration and fresh current-tree rendering/CI remain. The separate C3 source has18 successful hosted smoke runs. These do not qualify the newer world. Broad photographic master and occupied-use acceptance remain open; no DEV merge is claimed.

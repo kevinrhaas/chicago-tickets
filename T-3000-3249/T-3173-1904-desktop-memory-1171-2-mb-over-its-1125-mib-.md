@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+
+## Actual delivery progress — 29 October 2026, 11:27 AM CT
+
+A fresh actual native 1904 memory gate ran on checked wagon feature `9e14c138848ef854a535271fbd3feaae52dd4aa2` with source/index and all 5630 mirror hashes guarded before/after. Desktop measured 1,184,409,779 bytes = 1129.54 MiB; mobile measured 411,895,631 bytes = 392.81 MiB. Native current limits (incoming 1300/400 MiB) passed, zero errors, snapshots disabled, cleanup complete, 358.404s outer wall time. This continuation changed no memory ceiling.
+
+The ticket's original stricter desktop 1125 MiB goal remains MISSED by 4,761,779 bytes (4.54 MiB). It is not closed or relabeled as satisfied. Existing historical C3 readings belong to that older tree and do not qualify this larger integrated world. Current ordinary CI/hosted acceptance remains pending; API access is blocked by unapplied environment network rules. A source-only investigation of a further quality-preserving reduction may proceed, but an estimate is not a measured saving.
+
+[Immutable corrected source and actual-result checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/824d4ca280f2b836abf0e9f2c1408ba296ca2c13/evidence/transport-photoquality-2026-10-29/ROOT-CORRECTED-SOURCES-WAGON-PASS-1624UTC). Ticket state and acceptance are unchanged.
+
 ## Actual delivery progress — 27 October 2026, 03:41 UTC
 
 Actual local native readings on checked C3 source meet the original goals: desktop1052.070669MiB under1125; mobile385.338580MiB under400. Source/mirror/meter/cap guards and cleanup passed. All18 C3 hosted smoke runs and its9-job frame/memory workflow have successful conclusions. Two strict auxiliary desktop lifecycle comparisons remain NONPASS; the corrected native-spawn comparison differs at only3pixels, with2 over threshold. Independent image review found no visitor-visible material regression; the strict result is preserved. Current integrated-world native readings/ordinary CI and DEV delivery remain pending; no ceiling waiver or merge is claimed.

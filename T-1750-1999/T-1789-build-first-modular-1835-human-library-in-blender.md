@@ -21,6 +21,17 @@ decision: null
 decision_answer: null
 ---
 
+
+## Actual delivery progress — 29 October 2026, 11:27 AM CT
+
+The reviewed human source is restored on checked wagon HEAD `9e14c138848ef854a535271fbd3feaae52dd4aa2`, preserving current DEV workflow jobs and existing geometry defaults. Rounded felt hats, bounded dress finishing, three actual Blender still producers and default-off canonical asset delivery are staged. Native Liberty compilation passed (856 to 858, all incoming rows preserved), and the explicit SourceUse tail reached a fixed point in 423.883s. Final publication, mirror and offline packs passed.
+
+The first complete required-reader preflight FAILED on the native lexical check-inventory classification of forwarded `--check` literals. The native deliberate baseline now documents this Actions-only helper, preserving the ten existing rows/reasons and all audit assertions. Targeted affected checks and independent source review passed. A fresh complete preflight retry is RUNNING; no retry PASS, people feature commit, generated model ingestion or DEV merge is claimed. Frozen staged TREE `1213351f54e34be8e2f76cc9091cece9fca749ec` and complete 18-path patch are durable in the checkpoint.
+
+Still required: actual canonical generation, four masters and 32 LODs, three real Blender assembly stills, measured asset/provenance acceptance, current published desktop/phone views and normal CI. The saved runtime network draft has not applied its `api.github.com` rule, so API-based dispatch/PR operations remain blocked. Broad photo-quality acceptance remains open.
+
+[Immutable corrected source and actual-result checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/824d4ca280f2b836abf0e9f2c1408ba296ca2c13/evidence/transport-photoquality-2026-10-29/ROOT-CORRECTED-SOURCES-WAGON-PASS-1624UTC). Ticket state and acceptance are unchanged.
+
 ## Actual delivery progress — 27 October 2026, 03:41 UTC
 
 Rounded-hat and wardrobe source is preserved. Optional canonical-delivery V3 code passed10 security/schema controls, Actionlint and independent source review after fixing cross-family source-equivalence enforcement. It defaults to artifact-only and permits a checked, normal push only to this owned feature branch after complete native preflight. The original source and five generated conflicts remain preserved. Fresh female then male canonical generation, actual3 Blender stills, all4 masters/32LOD ingestion, current published views and photo/kit acceptance remain unrun. No generated model delivery or DEV merge is claimed.
