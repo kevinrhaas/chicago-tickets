@@ -1,7 +1,7 @@
 ---
 id: T-2381
 title: Match the Miller House to its pictures
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 1456
 claimed_by: Codex Chicago picture group renewal 10/29/2026, 2:27:32 PM CT
 blocked_on: null
 needs_bake: false
