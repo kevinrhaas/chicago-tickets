@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 3:14:05 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40946226768
-claimed_at: 2026-10-29T20:14:06.248Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -94,3 +94,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-29** (claim of run 10/29/2026, 12:02:11 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40912493836): PR #1450 (resume: gate still running, nothing red) builds the fifth 18th Street pier's urn off the 1894 Inland plate (read at full size as one squat lidded urn, 0.4 by 0.5 m, not a globe lamp with an urn behind it; the kit's turned urn stretched to it) and fixes that item in both plate records. Still open in the match records: the lamp post by the court (only Taylor 16554 shows it, rights unresolved, so nothing can be built from it), the trees' places, the terrace's two-flight approach, the north block's lower roof, and Taylor 16555's camera depth. Not split: the gate stays on this ticket.
 
 **Released 2026-10-29** (claim of run 10/29/2026, 2:11:57 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40935892185): PR #1454 (merged) re-solves Taylor's 16555 camera with the 18th Street wall in its fit (eye about 21 m south of the lot line, focal 976 px; all readings 8.7 px rms, was 44.5) and re-judges both 16555 records through it. Newly open where the print and the 1894 plate disagree: the court's way east of the drum (piers 4.8 m apart around a way about 4 m wide in the print; 0.95 m opening built), the stable's eave 25 px high, the wing about 1 m longer in the print, and a street tree 4.1 m before the eye. Still open: the terrace's two-flight approach, the lamp post, the trees' places, the north block's lower roof. Not split: the gate stays on this ticket.
+
+**Released 2026-10-29** (claim of run 10/29/2026, 3:14:05 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40946226768): PR #1458 (resume: gate still running, nothing red) places 18th Street's parkway trees before the estate off the 1894 Inland plate and Taylor's 16555 (data/street_trees/pictured_1904.json: six trees in place of four, the tree before Taylor's eye and the plate's foreground trunk withdrawn) after re-solving 16555's camera with the street's ground in its fit (eye 11.7 m further south in the garden across 18th Street, focal 1192 px, 6.9 px rms); through it the stable's eave (now about 12 px, 0.4 m, the plate disagreeing) and the wing's length (within 4 px) go within tolerance. Still open in the match records: the clipped shrubs and potted palms, the terrace's two-flight approach, the court's way (re-read: the print's piers at x 500-520, 580-600, 775-800 against the build's one at 535-570), the north block's lower roof, the lamp post. Not split: the gate stays on this ticket.
