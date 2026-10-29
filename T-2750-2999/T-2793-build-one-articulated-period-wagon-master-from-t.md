@@ -21,12 +21,11 @@ decision: null
 decision_answer: null
 ---
 
-## Active motion and delivery update — 2026-10-29 03:38 PM CT
+## Active delivery — 2026-10-29 04:50 PM CT
 
-PR1340 public head remains9e14c138848ef854a535271fbd3feaae52dd4aa2. Five-file followup now passes actual ordinary context recovery desktop390.831s and phone129.642s with zero strict page errors and clean closures. Default desktop far eviction/rebuild additionally passed378.666s, full source/index/mirror exact; both real PNGs personally reviewed as distant structural evidence only. DefaultLight phone far protocol is actually running with unchanged assertions. Strict memory on final integrated source, full required gate, checked commit/push and ordinary CI/merge remain pending. Farm-master fixture remains bounded and its earlier phone HTTPbody failure is unresolved. Riders, occupied vehicles and town traffic remain open.
+PR1340 is the explicit owner delivery priority. Normal integration with DEV ec16b8dd is complete, preserving the exact renderer fix and all incoming records. Canonical native source owners settled in two53-step laps; whole owner phase PASS566.825s with clean cleanup. Fresh1904 memory PASS360.549s under ORIGINAL1125/400MiB: desktop1112.882MiB, phone396.648MiB. Fresh timestamped phone farm-master diagnostic PASS55.490s, all three selectedLOD HTTPbody hashes correct, all error lists empty, fullsource/index/mirror unchanged; root personally reviewed all five real images. The old445.931s BOTH failure remains a historical NONPASS with unknown cause. No speculative source patch was applied. Full application preflight is next; no new appcommit, push, CI-green or DEVmerge claimed. Root holds normal native lap/pr-1340 coordination lease.
 
-[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
-
+[Latest immutable source and prior-result checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/9628092b1f128a4d92eaca75442eb05bd3b451c2/evidence/transport-photoquality-2026-10-29/ROOT-POSTOWNERS-OTIS-WORLD-AND-HORSE-BINDING). Current ec16 measurement/phone receipts are retained locally for the next checked delivery packet. Git HTTPS works; current environment policy still excludes GitHub API and blocks ordinaryCI inspection/merge.
 
 ## Active delivery — 2026-10-29 02:22 PM CT
 

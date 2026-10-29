@@ -21,12 +21,11 @@ decision: null
 decision_answer: null
 ---
 
-## Active motion and delivery update — 2026-10-29 03:38 PM CT
+## Active delivery — 2026-10-29 04:50 PM CT
 
-Actual railway context-loss render-loop race repaired in source and native recovery passes desktop and phone with strict original pageerror assertions. Default desktop far drop/rebuild also passes. Earlier measured desktop1102.57MiB/phone392.80MiB are earlier candidate observations; strict original1125/400 limits must still be measured on final integrated source. No acceptance cap was increased; current native desktop1300 table alone will not establish original target. New full gate and DEV delivery remain pending.
+Fresh source integrated with actual DEV ec16b8dd passed ORIGINAL memory targets: desktop1166941533B=1112.88216877MiB<=1125; phone415915946B=396.64835548MiB<=400. Native both-profile run returned0 in360.549s, no timeout, complete owned cleanup, exact source tree01a9e158/APPef14258b, index and full published mirror. Native accepted1300desktop table was not used as the original target. Earlier actual desktop/phone context recovery and far rebuild proofs retain their exact unchanged renderer-input scope. Full source gate, checked commit/push, published smoke, fresh ordinaryCI and DEVmerge remain pending; broad acceptance stays open.
 
-[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
-
+[Latest immutable source and prior-result checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/9628092b1f128a4d92eaca75442eb05bd3b451c2/evidence/transport-photoquality-2026-10-29/ROOT-POSTOWNERS-OTIS-WORLD-AND-HORSE-BINDING). Current ec16 measurement/phone receipts are retained locally for the next checked delivery packet. Git HTTPS works; current environment policy still excludes GitHub API and blocks ordinaryCI inspection/merge.
 
 ## Active delivery — 2026-10-29 02:22 PM CT
 
