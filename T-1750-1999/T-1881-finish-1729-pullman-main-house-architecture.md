@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 8:39:42 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40883140451
-claimed_at: 2026-10-29T13:39:43.306Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -95,3 +95,5 @@ The owner, after walking it on the phone (dev, 1904): "the front is very janky a
 **Released 2026-10-29** (claim of run 10/28/2026, 11:07:12 PM CT): no reason given
 
 **Released 2026-10-29** (claim of run 10/29/2026, 7:18:56 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40871419322): PR #1437 (belt course, eared dormer hoods, brownstone dormer faces) merged to dev; the image gate stays open on the forward-block and 18th Street pavilion dormers (needs a K08 bay-kit change) and the broken pediment, so the owner's ticket stays open
+
+**Released 2026-10-29** (claim of run 10/29/2026, 8:39:42 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40883140451): PR #1444 (dormers on the forward block's and the 18th Street pavilion's own mansards, via a new K08 mansard_dormers kit path) is up on resume while its gate finishes; the image gate stays open on the broken pediment, the oculus pier and the flank's east section, the 18th Street wall's balustrade and posts, the trees and ivy, and the unsolved CHM 1905 views
