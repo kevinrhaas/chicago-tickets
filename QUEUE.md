@@ -38,7 +38,6 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-3229 — The ten unpictured worked K01 brick houses of the 1600 block (1600, 1604, 1608, 1613, 1615, 1619, 1626, 1628, 1634, 1636 Prairie): a stated reconstruction of each walk and front boundary consistent with the block
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
