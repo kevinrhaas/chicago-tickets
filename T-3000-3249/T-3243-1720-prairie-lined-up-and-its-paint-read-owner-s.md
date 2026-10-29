@@ -1,7 +1,7 @@
 ---
 id: T-3243
 title: 1720 Prairie lined up and its paint read (owner's report 2026-10-29): the door, the porch's middle opening and stair, the hood, the middle upper window, the attic window and the gable on one axis at the front's middle; the upper windows spread clear of the bay; the gate and walk on the stair's line; the body's paint read from the photograph's tone, not white
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/29/2026, 11:15:24 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-29T16:15:26.043Z
 decision: null
 decision_answer: null
 ---
