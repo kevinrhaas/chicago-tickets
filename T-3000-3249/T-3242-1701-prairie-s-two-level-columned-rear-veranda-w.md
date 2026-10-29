@@ -1,7 +1,7 @@
 ---
 id: T-3242
 title: 1701 Prairie's two-level columned rear veranda with its balustrades and garden steps, and the rear range's corbelled oriel, against the rear photograph
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: T-1875
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/29/2026, 12:05:47 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40916819228
+claimed_at: 2026-10-29T17:05:47.731Z
 decision: null
 decision_answer: null
+group: T-3241,T-3242
 ---
 
 1701 Prairie's two-level columned rear veranda with its balustrades and garden steps, and the rear range's corbelled oriel, against the rear photograph.
