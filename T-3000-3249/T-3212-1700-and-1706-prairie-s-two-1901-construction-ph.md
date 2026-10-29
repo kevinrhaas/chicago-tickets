@@ -1,7 +1,7 @@
 ---
 id: T-3212
 title: 1700 and 1706 Prairie's two 1901 construction photographs weighed: their cameras solved, their match records written as evidence of their own date, the 1702 address association written on the record, and the pair compared before and after against the district draft from the same poses (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1871
 opened: 2026-10-27
-closed: null
+closed: 2026-10-29
 pr: 1423
 claimed_by: run 10/28/2026, 10:38:52 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-29T07:51:09Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40717128908
 claimed_at: 2026-10-28T15:38:53.672Z
 decision: null
