@@ -1,7 +1,7 @@
 ---
 id: T-3241
 title: 1701 Prairie's railed roof deck, the lower south range under its balcony, and the corner porch's stone arcade before the front's recessed north end, against the wide photograph and the engraving
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1875
 opened: 2026-10-29
-closed: null
+closed: 2026-10-29
 pr: 1451
 claimed_by: run 10/29/2026, 12:05:44 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-29T22:49:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40916819228
 claimed_at: 2026-10-29T17:05:44.937Z
 decision: null
