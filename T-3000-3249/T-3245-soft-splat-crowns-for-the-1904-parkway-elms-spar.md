@@ -1,7 +1,7 @@
 ---
 id: T-3245
 title: Soft splat crowns for the 1904 parkway elms (Spark renderer, behind Settings > Trees, off by default)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/29/2026, 2:09:18 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-29T19:09:20.016Z
 decision: null
 decision_answer: null
 ---
