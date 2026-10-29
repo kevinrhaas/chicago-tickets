@@ -1,7 +1,7 @@
 ---
 id: T-3247
 title: Budget-filled detail for trees and furniture: per-device instance budget, nearest and view-centre first
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/29/2026, 3:32:33 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-29T20:32:35.730Z
 decision: null
 decision_answer: null
 ---
