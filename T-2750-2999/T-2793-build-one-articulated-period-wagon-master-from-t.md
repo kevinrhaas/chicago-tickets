@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-## Actual checked delivery and measured candidate — 29 October 2026, 1:06 PM CT
+## Actual checked delivery and measured candidate — 29 October 2026, 12:56 PM CT
 
 Public checked wagon baseline remains `9e14c138848ef854a535271fbd3feaae52dd4aa2` (full1105steps/395selftests PASS, normally pushed). Further five-file railway CPU-upload release candidate is staged but UNCOMMITTED: TREE704c50077e647ab7813448f8cff6a564af949eb2/APP6a1ce1edd4cc63199807dae01de558b24f160cc2. Existing104producer controls and independent source review passed, fresh5630-file publication/mirror/packs passed under unchanged432MiB budget.
 
