@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked delivery and measured candidate — 29 October 2026, 1:06 PM CT
+
+Original strict1125MiB desktop/400MiB phone target is NOW MET IN ONE FRESH ACTUAL MEASUREMENT on uncommitted railway candidate TREE704c50077e647ab7813448f8cff6a564af949eb2/APP6a1ce1edd4cc63199807dae01de558b24f160cc2. Unchanged native1904 --gate --only both --no-snapshot: desktop1,156,132,447B=1102.573821MiB; phone411,883,801B=392.803002MiB, errors[],384.767s, cleanup0, source53/fullsemanticindex/full5630mirror beforeafter exact. Desktop total28,277,332B lower than public9e baseline1,184,409,779B; current native1300/400 also pass. No threshold raised.
+
+Ticket remains claimed/open for complete acceptance: candidate native lifecycle/render/picks/drop-rebuild/detail/contextrestore guards, full required-reader preflight, actualnewHEAD checks/normalpush, all mapped published phone/desktop smokes and ordinary CI/hosted acceptance. First external lifecycle attempt failed before railassertions on arrival→welcome readiness; preserved/no app defect inferred, minimal nativecontract readiness correction reviewed. Public9e remains prior strictdesktopMISS; do not label parent9e as meeting newmeasurement. SavedAPI network rule is not applied, so PR/CI/DEVmerge operations remain blocked.
+
+[Immutable checked-source, actual-yard and strict-memory checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/a45fd4e62573a2d8423a99cf45a8a21337e34481/evidence/transport-photoquality-2026-10-29/ROOT-PEOPLE-CHECKED-HORSE-YARD-PASS-EYE-STUDY). Broad acceptance and ticket state are unchanged.
+
 
 ## Actual delivery progress — 29 October 2026, 11:27 AM CT
 

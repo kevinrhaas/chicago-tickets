@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked delivery and measured candidate — 29 October 2026, 1:06 PM CT
+
+Checked source feature `a3971c9a638e03216945fc52ce57d7453596187e` is normally pushed and remote-verified, parent checked wagon9e14. Full required-reader preflight retry2 passed1105steps/395selftests in918.203s, cleanup0;600s target missed. Four actualnewHEAD changelog/ID/history checks and committedHEAD publication/mirror/packs passed. Rounded felt hats, bounded female finishing, three-still producer and default-off guarded canonical delivery are included, preserving newer workflow jobs/geometry defaults. Native owners reached a fixed point; required generated audit/signoff repairs preserve all existing assertions/rulings. Earlier failed attempts remain recorded.
+
+Still UNRUN: actual canonical female then male dispatch, four masters/32LOD ingestion, three actual Blender stills, generated asset measurements/provenance, current native people views and ordinary CI/DEVmerge. The complete pinned execution plan is in the checkpoint. Runtime API policy still blocks dispatch/PR operations; broader photographic acceptance remains open.
+
+[Immutable checked-source, actual-yard and strict-memory checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/a45fd4e62573a2d8423a99cf45a8a21337e34481/evidence/transport-photoquality-2026-10-29/ROOT-PEOPLE-CHECKED-HORSE-YARD-PASS-EYE-STUDY). Broad acceptance and ticket state are unchanged.
+
 
 ## Actual delivery progress — 29 October 2026, 11:27 AM CT
 

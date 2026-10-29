@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked delivery and measured candidate — 29 October 2026, 1:06 PM CT
+
+Public checked wagon baseline remains `9e14c138848ef854a535271fbd3feaae52dd4aa2` (full1105steps/395selftests PASS, normally pushed). Further five-file railway CPU-upload release candidate is staged but UNCOMMITTED: TREE704c50077e647ab7813448f8cff6a564af949eb2/APP6a1ce1edd4cc63199807dae01de558b24f160cc2. Existing104producer controls and independent source review passed, fresh5630-file publication/mirror/packs passed under unchanged432MiB budget.
+
+Actual unchanged native1904 memory measured desktop1,156,132,447B=1102.574MiB and phone411,883,801B=392.803MiB, meeting original1125/400 targets as well as incoming native1300/400. Fullsource/index/mirror guards and cleanup passed. This is measured candidate evidence, not a checked new commit or ticket closure. First lifecycle attempt FAILED before railassertions/PNGs on external observer arrival/welcome readiness race; no app/source defect inferred, allguards exact/cleanup0. Minimal external readiness correction independently reviewed; fresh desktop/phone lifecycle and full required preflight remain pending. All28 mapped published native smokes/current CI/hosted acceptance still required. No DEVmerge or broad photographic/occupied acceptance claimed.
+
+[Immutable checked-source, actual-yard and strict-memory checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/a45fd4e62573a2d8423a99cf45a8a21337e34481/evidence/transport-photoquality-2026-10-29/ROOT-PEOPLE-CHECKED-HORSE-YARD-PASS-EYE-STUDY). Broad acceptance and ticket state are unchanged.
+
 
 ## Actual delivery progress — 29 October 2026, 11:27 AM CT
 

@@ -21,6 +21,16 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked delivery and measured candidate — 29 October 2026, 1:06 PM CT
+
+Bounded horse source feature `ddb77c3191c6fbf28953b8b96f2477bf91f088cb` is normally pushed and remote-verified, parent checked wagon9e14, exact53pathTREE4564435e579f6e3781b56b544da4b336d2295ca1. NativeLib857 and explicit53-step SourceUse fixed point passed. Full required-reader preflight passed1107steps/395selftests in929.475s, cleanup0;600s target missed. Four actualnewHEAD checks and committedHEAD5634-file publication/mirror/packs passed. All18072 semanticindex entries/source53 exact despite rawstatcache bookkeeping change.
+
+Fresh actual native desktop/phone four-yard ATTEMPT3 passed152.941s/cleanup0 with complete source/index/fullmirror guards; root personally viewed allfour unobstructed body/head images. Native review notices and phoneDPR/governor retained. Desktop white iris dot is UIcrosshair, not cornealgloss proof. Earlier attempts1/2 remain failures. Current e49 source preserves rig/animations/all6textures/ground/contacts/placements; historical physical129 raw arrays were lost, no fresh129 rerun claimed.
+
+Eye/brow ring, faceting, mane/forelock, gait/tack/rider/driver and broad photo acceptance remain open. Separate outside-app normal-only prototype and prepared RAWviewer are preserved in the checkpoint, UNADOPTED/UNCERTIFIED; no oldqualification transfer or nativebenefit claim. Normal CI/PR/DEVmerge remain APIblocked.
+
+[Immutable checked-source, actual-yard and strict-memory checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/a45fd4e62573a2d8423a99cf45a8a21337e34481/evidence/transport-photoquality-2026-10-29/ROOT-PEOPLE-CHECKED-HORSE-YARD-PASS-EYE-STUDY). Broad acceptance and ticket state are unchanged.
+
 
 ## Actual delivery progress — 29 October 2026, 11:27 AM CT
 
