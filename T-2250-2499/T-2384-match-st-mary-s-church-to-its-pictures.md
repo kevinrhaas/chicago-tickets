@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex early four picture group 2026-10-29 10/29/2026, 12:00:57 PM CT
+claimed_by: Codex Chicago picture group renewal 10/29/2026, 2:27:32 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T17:00:58.781Z
+claimed_at: 2026-10-29T19:27:33.092Z
 decision: null
 decision_answer: null
 group: T-2381,T-2373,T-2384,T-2377
