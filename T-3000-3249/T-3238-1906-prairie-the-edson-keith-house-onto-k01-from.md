@@ -1,7 +1,7 @@
 ---
 id: T-3238
 title: 1906 Prairie, the Edson Keith house, onto K01 from the Chicagology engraving and the 1898 Tribune strip: the engraving's camera solved, the stone-front Italianate block with its arched windows, the high stoop's curved flights and balustrade, the projecting bay with its balcony over the porch, the deep bracketed cornice, and the attached 1908 front closed from the sheet
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1898
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1440
 claimed_by: run 10/29/2026, 6:05:46 AM CT
 blocked_on: null
 needs_bake: false
