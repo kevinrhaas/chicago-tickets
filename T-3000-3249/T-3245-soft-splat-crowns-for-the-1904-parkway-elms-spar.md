@@ -1,7 +1,7 @@
 ---
 id: T-3245
 title: Soft splat crowns for the 1904 parkway elms (Spark renderer, behind Settings > Trees, off by default)
-state: claimed
+state: withdrawn
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-29
-closed: null
+closed: 2026-10-29
 pr: null
 claimed_by: run 10/29/2026, 2:09:18 PM CT
-blocked_on: null
+blocked_on: prototype looked worse than the leaf cards at 1.56M splats for 38 trees; see Result
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-29T20:15:14.916Z
 claimed_run: null
 claimed_at: 2026-10-29T19:09:20.016Z
 decision: null
@@ -46,3 +46,24 @@ from Marble and nothing is fetched at runtime.
 - A side-by-side down Prairie at 18th (on/off) attached to the PR; tapping a tree still picks it; confidence view
   still tints trees.
 - Owner reads the moving frame time on his iPhone before it is ever made a default.
+
+## Result, 2026-10-29 — withdrawn: not productive
+
+Prototype on the published 1904 app (desktop, full detail), Prairie looking south from 1801 and up into the
+crowns. Each parkway elm within 60 m got a Spark `SplatMesh` built from its own grown skeleton's leaf clumps
+(tree-model.js `buildTreeTemplate(...).skeleton.clumps`, coloured with the clump shading the leaf cards use),
+sharing one `PackedSplats` per variant; the leaf-card batches were hidden in the colour pass only, so the street's
+dappled shade was unchanged.
+
+- Two tunings (8 splats a clump at 0.32 r; 24 at 0.14 r). The second: about 41,000 splats an elm, **1.56 million
+  splats for 38 trees** — already over Spark's own iPhone budget (1.5M) for a 60 m radius, before the other ~370 elms.
+- **It looked worse.** Procedural splats from clump positions read as dense, soft green masses with no leaf, no
+  sky through the crown and no light through the blades; today's leaf cards (real elm sprays from the atlas) read
+  far more like the owner's photographs. Splats look photographic when they are TRAINED from photographs of the
+  thing; generated from a model, they only blur it.
+- Spark itself worked inside the app on three 0.185.1 (zero page errors), but needed an explicit
+  `spark.update({ scene, camera })`: the app's held-loop draw never triggered Spark's own update.
+- Nothing was committed to the code repo; there is nothing to roll back.
+
+Side-by-sides: project folder `marble-spark-assessment/splat-crowns-vs-cards-*.jpg`. Revisit only with captured
+(photo-trained) splats of real elms, whose licence and 1904 fit are their own question.
