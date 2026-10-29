@@ -11,12 +11,12 @@ parent: T-2800
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex root horse_resume continuing owned canonical anatomy and bounded eye refinement in this session 10/26/2026, 11:00:01 PM CT
+claimed_by: Codex root continuing bounded horse refinement on current DEV in this session 10/29/2026, 9:37:57 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T04:00:02.982Z
+claimed_at: 2026-10-29T14:37:57.803Z
 decision: null
 decision_answer: null
 ---
