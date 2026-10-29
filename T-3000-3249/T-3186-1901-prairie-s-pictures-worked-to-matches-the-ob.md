@@ -1,7 +1,7 @@
 ---
 id: T-3186
 title: 1901 Prairie's pictures worked to matches: the oblique exterior photograph's and the 1893 Pictorial Chicago plate's cameras solved, the south flank's bays, stacks and dormers, the portico's capitals and the stoop's curved cheeks, the 1896 reprint and the elevation drawing weighed, and every 1901 match record brought to matches (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1903
 opened: 2026-10-26
-closed: null
+closed: 2026-10-29
 pr: 1436
 claimed_by: run 10/29/2026, 3:52:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-29T12:02:56Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40843907609
 claimed_at: 2026-10-29T08:52:34.639Z
 decision: null
