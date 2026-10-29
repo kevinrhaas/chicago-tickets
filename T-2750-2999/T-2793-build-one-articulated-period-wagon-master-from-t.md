@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: Codex root continuing owned checked wagon and railway memory validation in this session 10/29/2026, 12:39:16 PM CT
+claimed_by: Codex root continuing own 9e14 checked branch and railway recovery after expiry in this session 10/29/2026, 3:39:46 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T17:39:16.879Z
+claimed_at: 2026-10-29T20:39:47.160Z
 decision: null
 decision_answer: null
 ---
