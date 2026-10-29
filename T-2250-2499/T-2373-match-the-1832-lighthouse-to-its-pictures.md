@@ -5,7 +5,7 @@ state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
-effort: M
+effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-11
@@ -54,3 +54,9 @@ The public-domain Andreas bridge plate shows a domed lantern, cage mullions, fin
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of Codex lighthouse picture matching; parallel Chicago 4D 10/23/2026, 7:00:17 AM CT): Owner requested session wrap. Exact closed prototypes, actual renders and unapplied source patches are saved at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Delegated workers have stopped. Image matching remains unfinished; resume from the case handoff and preserve its evidence limits.
+
+## Remaining effort re-estimate — 2026-10-29
+
+The original October 11 estimate was M. This is a transparent estimate of the concrete work remaining after the already-delivered model work, rather than a change to its historical estimate. The accepted dev baseline 7c5f2109 already contains the lighthouse's physical tower (master ae855793), placement and form. The remaining unit uses that exact model: enroll the credited Castelnau camera/card reference, review the seven held files with their source/date/rights limits, and qualify the unchanged physical consumers. This is a bounded camera/card and acceptance unit, sized S.
+
+The group therefore has one M (T-2381, the Miller adjacent-wing/roof/footprint and entrance correction) and three S members, within AGENTS.md’s group budget. Each original retains its full image gate and source qualifications; native app/code checks and an actual merged dev PR still precede completion. Existing claim ownership, group and dates are preserved.
