@@ -1,7 +1,7 @@
 ---
 id: T-3239
 title: 1906 Prairie's pictures worked to matches: the mansard photograph's 1900-or-1906 attribution settled against the register, the 1896 lakeshore item set aside as no view of the house, the c.1914 west-side elevation drawing's 1906 front found and weighed, the 1898 strip's panel solved, and every 1906 match record brought to matches (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1898
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 10:18:33 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40899319514
-claimed_at: 2026-10-29T15:18:34.829Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1898 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-29** (claim of run 10/29/2026, 10:18:33 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40899319514): PR #1447 ships what fits: the mansard photo ruled 1900's, the 1896 item set aside, the c. 1914 drawing weighed, the 1898 vignette's camera solved (matches), the tower lowered and broadened, the porch widened, the terrace and stoop balustrade. The engraving's record stays differs on two items K01 cannot build yet: the south flank's block with its porch and balcony (no flank porch in the kit, no other picture sees it) and the railed roof deck with its tall stack (K01's hip takes no deck). Both are written in the match record and L-k01-1906-keith-3238.
