@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active motion and delivery update — 2026-10-29 03:38 PM CT
+
+Actual railway context-loss render-loop race repaired in source and native recovery passes desktop and phone with strict original pageerror assertions. Default desktop far drop/rebuild also passes. Earlier measured desktop1102.57MiB/phone392.80MiB are earlier candidate observations; strict original1125/400 limits must still be measured on final integrated source. No acceptance cap was increased; current native desktop1300 table alone will not establish original target. New full gate and DEV delivery remain pending.
+
+[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
+
+
 ## Active delivery — 2026-10-29 02:22 PM CT
 
 Normal claim renewed. Five-path candidate measured actual native1904desktop1156132447B=1102.573821MiB and phone411883801B=392.803002MiB, under unchanged original1125/400 limits. That measurement is not whole completion: actual desktop context lifecycle03NONPASS3484.829s, strict pageerror null.byteLength after recovery. All source/index/fullmirror guards exact and cleanup0. No waiver/cap raise; candidate remains uncommitted. Focused real context trace with fullstack/timestamps prepared before applying any fix.

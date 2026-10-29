@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active motion and delivery update — 2026-10-29 03:38 PM CT
+
+New independent head/neck/tail idle failed actual native129 physical check in8.359s: feet/seams/leg lengths passed but jaw/body skin tears caused13 normal flips and edge/area violations. Failed derivative has not been adopted. A versioned continuous anatomical skin-weight repair plus matching original925 comparison reference now passes static exact-byte/domain/foot/EYE protections and12 actual corruption controls; same visible motion amplitudes retained. Fresh old13-clip parity, new17-clip physical129 and paired socket129 qualification remain unrun. No rider/team/gait completion claimed.
+
+[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
+
+
 ## Active delivery — 2026-10-29 02:22 PM CT
 
 Owner reports the1835 horse appears motionless and reiterates mounted riders, vehicle drivers, interaction and town traffic as the goal. Normal claim taken. Actual source confirms current12s idle has only millimetre-scale planted body shift and leg tracks; no head/neck/tail tracks. New additive portable natural-idle source is being prepared outside the frozen eye-refinement checkout, using existing26-joint neck/head/tail and protecting all hoof contacts. Independent ears need different rig work and are excluded from this first increment. New native pose/skin/socket proof and actual visible playback are required. Walk/trot, riders, hitching and broad natural/photo acceptance remain OPEN. No old certificate transfers to new animation.

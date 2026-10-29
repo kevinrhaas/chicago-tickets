@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active motion and delivery update — 2026-10-29 03:38 PM CT
+
+Checked human-library source a397 remains public with its actual full preflight and committed-head checks. Separate T1790 current-existing-rig motion correction now has all eight Otis master/web LODs finite native129 qualified and is integrating latest DEV before actual scene review. Canonical new modular-library bake/ingestion and three Blender stills remain blocked by GitHub API access. Broad photographic acceptance remains open.
+
+[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
+
+
 ## Active delivery — 2026-10-29 02:22 PM CT
 
 Checked sourcea3971c9 remains public with fullpreflightPASS1105/395 and committed-head checks/publication. Genuine pinned canonical human bake/ingest and new3native Blender stills remain blocked by unavailable GitHub API access; no dispatch/merge claimed. Owner observes stiffOtis onDEV; separateT1790 branch on actualDEV623ecc is now implementing genuine natural-idle animation and clock correction. Existing depiction, licence, date and canonical-parent provenance preserved. Riders/drivers/interactablepeople/townpopulation remain explicit goal and unfinished.

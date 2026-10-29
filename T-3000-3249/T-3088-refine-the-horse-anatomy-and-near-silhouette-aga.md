@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active motion and delivery update — 2026-10-29 03:38 PM CT
+
+Earlier bounded eye-normal derivative remains the selected source and its actual canonical physical/socket129 proof is preserved. New visible horse motion exposed a separate lower-jaw BODY-anchor defect; engineering motion failed strict physical bounds before activation. New binding repair static export is within the original4MiB cap and preserves all outside weights and streams; dynamic qualification remains pending. Wider body/mane silhouette, gait, tack and photo-quality acceptance stay open.
+
+[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
+
+
 ## Active delivery — 2026-10-29 02:22 PM CT
 
 New eye-normal-only childbd443 has actual fresh canonical static/native129/physical+socket qualificationPASS314.328s with cleanup and independent source-pin/raw review; old certificates not transferred. Selected39-file source is recoverable in new public checkpoint. NativeLib144PASS, prerequisitepublish/check/mirror/packsPASS; nativeSourceUse owner fixedpoint currentlyrunning. Actual organic/yard browser views and fullpreflight remain pending; no new appcommit/DEVmerge or broad photo completion. Owner now prioritizes visibly natural horse motion underT2803 in addition to these eye improvements.

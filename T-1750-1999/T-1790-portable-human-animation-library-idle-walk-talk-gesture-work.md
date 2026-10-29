@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active motion and delivery update — 2026-10-29 03:38 PM CT
+
+All eight Otis master/web derivatives passed actual finite native129 qualification under one final protocol: planted footwear0, closed-master-reference garment envelope checks, identical rig poses, actual failure injections and clean owned-process closures. Original summary6887f4a45a769d6a70e73f12170c358c9c61a740cc49df11668009d89a9e5488 is preserved. A separately proven metadata-only bridge repairs native clip-extras parity; all BIN bytes and every other decoded JSON value are exact,24 corruption controls reject changes, independent reverse reconstruction recovers all original tested SHA identities. Native human contract16assets/1instance now passes. New idle is selected in source; frame-clock correction preserves elapsed motion time. Actual browser costs, unheld desktop/phone WORLD motion review, full preflight and GitHub/DEV delivery remain pending. Current branch is integrating latest DEV9400; no merge claimed.
+
+[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
+
+
 ## Active delivery — 2026-10-29 02:22 PM CT
 
 Owner reports Otis stands stiffly on DEV and reiterates riders, drivers, interaction and people/vehicles around town as the goal. Normal claim taken. Actual current DEV623ecc master idle contains only a +/-0.6degree spine sway; head/arms have no natural movement. Human host also caps elapsed time to0.05s perframe. Separate currentDEV branch now authoring genuine shared portable natural-idle derivatives and a real-time clock correction. Geometry, skin, original clips and canonical-parent provenance are protected. New clips, source controls, native playback/foot contacts and desktop/mobile appearance remain pending; no natural-motion delivery or whole animation-library completion claimed. T1789 canonical bake dependency is not silently cleared.

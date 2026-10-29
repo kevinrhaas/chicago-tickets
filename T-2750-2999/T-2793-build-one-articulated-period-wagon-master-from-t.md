@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active motion and delivery update — 2026-10-29 03:38 PM CT
+
+PR1340 public head remains9e14c138848ef854a535271fbd3feaae52dd4aa2. Five-file followup now passes actual ordinary context recovery desktop390.831s and phone129.642s with zero strict page errors and clean closures. Default desktop far eviction/rebuild additionally passed378.666s, full source/index/mirror exact; both real PNGs personally reviewed as distant structural evidence only. DefaultLight phone far protocol is actually running with unchanged assertions. Strict memory on final integrated source, full required gate, checked commit/push and ordinary CI/merge remain pending. Farm-master fixture remains bounded and its earlier phone HTTPbody failure is unresolved. Riders, occupied vehicles and town traffic remain open.
+
+[Last immutable public checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/711cd131c91b08477347c1b1f1bd3ba601dbc088/evidence/transport-photoquality-2026-10-29). Newer actual receipts are retained locally and being prepared for the next immutable supplement. Git HTTPS works; active network policy still excludes GitHub API, so CI inspection/dispatch/merge are blocked. No new app commit or DEV merge in this continuation.
+
+
 ## Active delivery — 2026-10-29 02:22 PM CT
 
 PR1340 actual remote head remains9e14c13; no new application commit or DEV merge. Five-file railway memory followup measures1102.57MiB desktop/392.80MiB phone below original1125/400 limits, but actual desktop lifecycle03 returnedNONPASS after3484.829s: context-recovery pageerror null.byteLength. Strict assertion retained; source/index/fullmirror exact/cleanupcomplete. Focused stack/timing trace and an UNAPPLIED loop-on-context-loss fix are prepared. Separate visitor-linked farm-box master fixture produced10real personally inspected desktop/phone PNGs but overallNONPASS445.931s due phoneNear/Mid HTTPbody/CDPNoData/netERR_ABORTED. Timestamped phone-only diagnosis prepared/unrun. Bounded fixture does not require town replacement; broad photographic/traffic/boarding acceptance remains open.
