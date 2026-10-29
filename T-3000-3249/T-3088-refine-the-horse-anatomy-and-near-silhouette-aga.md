@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 02:22 PM CT
+
+New eye-normal-only childbd443 has actual fresh canonical static/native129/physical+socket qualificationPASS314.328s with cleanup and independent source-pin/raw review; old certificates not transferred. Selected39-file source is recoverable in new public checkpoint. NativeLib144PASS, prerequisitepublish/check/mirror/packsPASS; nativeSourceUse owner fixedpoint currentlyrunning. Actual organic/yard browser views and fullpreflight remain pending; no new appcommit/DEVmerge or broad photo completion. Owner now prioritizes visibly natural horse motion underT2803 in addition to these eye improvements.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
+
 ## Actual checked delivery and measured candidate — 29 October 2026, 12:56 PM CT
 
 Bounded horse source feature `ddb77c3191c6fbf28953b8b96f2477bf91f088cb` is normally pushed and remote-verified, parent checked wagon9e14, exact53pathTREE4564435e579f6e3781b56b544da4b336d2295ca1. NativeLib857 and explicit53-step SourceUse fixed point passed. Full required-reader preflight passed1107steps/395selftests in929.475s, cleanup0;600s target missed. Four actualnewHEAD checks and committedHEAD5634-file publication/mirror/packs passed. All18072 semanticindex entries/source53 exact despite rawstatcache bookkeeping change.

@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 02:22 PM CT
+
+Normal claim renewed. Five-path candidate measured actual native1904desktop1156132447B=1102.573821MiB and phone411883801B=392.803002MiB, under unchanged original1125/400 limits. That measurement is not whole completion: actual desktop context lifecycle03NONPASS3484.829s, strict pageerror null.byteLength after recovery. All source/index/fullmirror guards exact and cleanup0. No waiver/cap raise; candidate remains uncommitted. Focused real context trace with fullstack/timestamps prepared before applying any fix.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
+
 ## Actual checked delivery and measured candidate — 29 October 2026, 12:56 PM CT
 
 Original strict1125MiB desktop/400MiB phone target is NOW MET IN ONE FRESH ACTUAL MEASUREMENT on uncommitted railway candidate TREE704c50077e647ab7813448f8cff6a564af949eb2/APP6a1ce1edd4cc63199807dae01de558b24f160cc2. Unchanged native1904 --gate --only both --no-snapshot: desktop1,156,132,447B=1102.573821MiB; phone411,883,801B=392.803002MiB, errors[],384.767s, cleanup0, source53/fullsemanticindex/full5630mirror beforeafter exact. Desktop total28,277,332B lower than public9e baseline1,184,409,779B; current native1300/400 also pass. No threshold raised.

@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 02:22 PM CT
+
+Owner reports the1835 horse appears motionless and reiterates mounted riders, vehicle drivers, interaction and town traffic as the goal. Normal claim taken. Actual source confirms current12s idle has only millimetre-scale planted body shift and leg tracks; no head/neck/tail tracks. New additive portable natural-idle source is being prepared outside the frozen eye-refinement checkout, using existing26-joint neck/head/tail and protecting all hoof contacts. Independent ears need different rig work and are excluded from this first increment. New native pose/skin/socket proof and actual visible playback are required. Walk/trot, riders, hitching and broad natural/photo acceptance remain OPEN. No old certificate transfers to new animation.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
+
 ## Delivery progress — 2026-10-23 10:14 UTC
 
 PR #1175 merged to DEV (fffae74c7); its resident, timber wagons, distinct canvas and Brougham are delivered. PR #1213 closed as superseded after full63-path containment. Standing horse is applied on currentDEV e4745b3 in a separate branch; actual canonical owners, measured unit and isolation checks pass; fullpreflight and actual published app verification are next. Broad photographic, gait, complete gear, occupied teams and riding acceptance remain open. Full current source and actual merge/owner receipts are GitHub-checkpointed; see HANDOVER.md.

@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 02:22 PM CT
+
+Checked sourcea3971c9 remains public with fullpreflightPASS1105/395 and committed-head checks/publication. Genuine pinned canonical human bake/ingest and new3native Blender stills remain blocked by unavailable GitHub API access; no dispatch/merge claimed. Owner observes stiffOtis onDEV; separateT1790 branch on actualDEV623ecc is now implementing genuine natural-idle animation and clock correction. Existing depiction, licence, date and canonical-parent provenance preserved. Riders/drivers/interactablepeople/townpopulation remain explicit goal and unfinished.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
+
 ## Actual checked delivery and measured candidate — 29 October 2026, 12:56 PM CT
 
 Checked source feature `a3971c9a638e03216945fc52ce57d7453596187e` is normally pushed and remote-verified, parent checked wagon9e14. Full required-reader preflight retry2 passed1105steps/395selftests in918.203s, cleanup0;600s target missed. Four actualnewHEAD changelog/ID/history checks and committedHEAD publication/mirror/packs passed. Rounded felt hats, bounded female finishing, three-still producer and default-off guarded canonical delivery are included, preserving newer workflow jobs/geometry defaults. Native owners reached a fixed point; required generated audit/signoff repairs preserve all existing assertions/rulings. Earlier failed attempts remain recorded.
