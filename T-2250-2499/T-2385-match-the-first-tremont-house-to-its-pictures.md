@@ -19,7 +19,6 @@ claimed_run: null
 claimed_at: 2026-10-29T14:35:32.265Z
 decision: null
 decision_answer: null
-group: T-2385,T-2376
 ---
 
 Match the first Tremont House to its pictures.

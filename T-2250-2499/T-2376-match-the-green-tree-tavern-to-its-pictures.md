@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Tremont pictured-form and Green Tree continuation 2026-10-29 10/29/2026, 9:35:31 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T14:35:32.265Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2385,T-2376
 ---
 
 Match the Green Tree Tavern to its pictures.
@@ -53,3 +52,5 @@ No matching verdict or completion is claimed. See the [shared compound-render ch
 **Released 2026-10-23** (claim of Codex frame picture-match integration 10/23/2026, 12:28:11 AM CT): First picture-led frame refinements and source corrections are saved in the GitHub recovery checkpoint aaeac5b0. Full image matches remain open. Shared generator and source prerequisites will be tracked separately; continue the original cases from the recorded previews.
 
 **Released 2026-10-25** (claim of Codex Green Tree visible image-match continuation 10/25/2026, 5:38:41 PM CT): The bounded visible front correction is in PR #1328 (https://github.com/kevinrhaas/chicago/pull/1328), under final combined validation: two viewer-left sash, rightmost doorway, and matching native entrance/apron. T-2376 remains unfinished: the committed Andreas1838 discrepancy register still has visitor-visible annex massing and long-wall opening-pattern gaps. Conflicting upper/attic drawings and camera residuals are within tolerance under T-3153. No photo follow-up or false whole-case completion is filed.
+
+**Released 2026-10-29** (claim of Codex Tremont pictured-form and Green Tree continuation 2026-10-29 10/29/2026, 9:35:31 AM CT): Finite seventh-sash and front wagon-bay corrections are qualified in PR #1448. The substantial enclosed-annex discrepancy remains OPEN on original T-2376; continue this original image case without a new photo ticket.
