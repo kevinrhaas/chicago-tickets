@@ -1,7 +1,7 @@
 ---
 id: T-3244
 title: 1700-block Prairie colours read from the block's pictures (owner's report 2026-10-29): each house's walls, trim, sash and porches weighed against every photograph's tone with the hypotheses written out, and the ones the pictures contradict repainted
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-29
-closed: null
+closed: 2026-10-29
 pr: 1453
 claimed_by: run 10/29/2026, 11:58:57 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-29T20:14:31Z
 claimed_run: null
 claimed_at: 2026-10-29T16:58:58.192Z
 decision: null

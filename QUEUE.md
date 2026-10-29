@@ -204,6 +204,5 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3244 — 1700-block Prairie colours read from the block's pictures (owner's report 2026-10-29): each house's walls, trim, sash and porches weighed against every photograph's tone with the hypotheses written out, and the ones the pictures contradict repainted
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3247 — Budget-filled detail for trees and furniture: per-device instance budget, nearest and view-centre first
