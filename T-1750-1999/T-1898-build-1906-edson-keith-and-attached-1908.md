@@ -1,7 +1,7 @@
 ---
 id: T-1898
 title: Refine 1906 Edson Keith and attached 1908
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-29
 pr: null
 claimed_by: run 10/29/2026, 6:03:55 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-29T11:05:42.360Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40860380011
 claimed_at: 2026-10-29T11:03:56.617Z
 decision: null
