@@ -1,7 +1,7 @@
 ---
 id: T-2385
 title: Match the first Tremont House to its pictures
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 1448
 claimed_by: Codex Tremont pictured-form and Green Tree continuation 2026-10-29 10/29/2026, 9:35:31 AM CT
 blocked_on: null
 needs_bake: false
