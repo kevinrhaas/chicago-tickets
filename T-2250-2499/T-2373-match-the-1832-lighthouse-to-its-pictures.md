@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-10-29T14:28:35.755Z
 decision: null
 decision_answer: null
-group: T-2381,T-2373
+group: T-2381,T-2373,T-2384
 ---
 
 Match the 1832 lighthouse to its pictures.

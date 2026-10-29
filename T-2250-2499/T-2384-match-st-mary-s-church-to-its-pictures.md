@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Mary final high sash 10/26/2026, 10:05:20 PM CT
+claimed_by: Codex early three picture group 2026-10-29 10/29/2026, 9:29:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T03:05:21.388Z
+claimed_at: 2026-10-29T14:29:28.866Z
 decision: null
 decision_answer: null
+group: T-2381,T-2373,T-2384
 ---
 
 Match St Mary's church to its pictures.
