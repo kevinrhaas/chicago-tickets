@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 7:18:56 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40871419322
-claimed_at: 2026-10-29T12:18:56.588Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -84,3 +84,5 @@ Owner, 2026-10-28, the same thread: *"the surrounding wall/fence around the prop
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
 
 **Released 2026-10-29** (claim of run 10/28/2026, 11:07:12 PM CT): no reason given
+
+**Released 2026-10-29** (claim of run 10/29/2026, 7:18:56 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40871419322): PR #1437 (belt course, eared dormer hoods, brownstone dormer faces) merged to dev; the image gate stays open on the forward-block and 18th Street pavilion dormers (needs a K08 bay-kit change) and the broken pediment, so the owner's ticket stays open
