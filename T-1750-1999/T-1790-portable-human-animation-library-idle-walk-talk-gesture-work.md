@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,22 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex root prioritizing owner reported stiff Otis; portable natural idle motion 10/29/2026, 2:20:26 PM CT
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-29T19:20:26.987Z
 decision: null
 decision_answer: null
 ---
+
+## Active delivery — 2026-10-29 02:22 PM CT
+
+Owner reports Otis stands stiffly on DEV and reiterates riders, drivers, interaction and people/vehicles around town as the goal. Normal claim taken. Actual current DEV623ecc master idle contains only a +/-0.6degree spine sway; head/arms have no natural movement. Human host also caps elapsed time to0.05s perframe. Separate currentDEV branch now authoring genuine shared portable natural-idle derivatives and a real-time clock correction. Geometry, skin, original clips and canonical-parent provenance are protected. New clips, source controls, native playback/foot contacts and desktop/mobile appearance remain pending; no natural-motion delivery or whole animation-library completion claimed. T1789 canonical bake dependency is not silently cleared.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
 
 Give the shared Blender rig a small reusable animation vocabulary before multiplying
 historical people. Implementation target: `kevinrhaas/chicago` **dev**.

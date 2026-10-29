@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,22 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: null
+claimed_by: Codex root prioritizing owner reported motionless1835horse; natural idle then walk/trot 10/29/2026, 2:19:28 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-29T19:19:29.183Z
 decision: null
 decision_answer: null
 ---
+
+## Active delivery — 2026-10-29 02:22 PM CT
+
+Owner reports the1835 horse appears motionless and reiterates mounted riders, vehicle drivers, interaction and town traffic as the goal. Normal claim taken. Actual source confirms current12s idle has only millimetre-scale planted body shift and leg tracks; no head/neck/tail tracks. New additive portable natural-idle source is being prepared outside the frozen eye-refinement checkout, using existing26-joint neck/head/tail and protecting all hoof contacts. Independent ears need different rig work and are excluded from this first increment. New native pose/skin/socket proof and actual visible playback are required. Walk/trot, riders, hitching and broad natural/photo acceptance remain OPEN. No old certificate transfers to new animation.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
 
 ## Delivery progress — 2026-10-23 10:14 UTC
 

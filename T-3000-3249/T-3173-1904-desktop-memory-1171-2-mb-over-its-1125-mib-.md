@@ -11,15 +11,22 @@ parent: null
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: Codex root tracking current checked wagon memory and remaining original desktop goal 10/29/2026, 11:08:43 AM CT
+claimed_by: Codex root continuing measured railway memory reduction and context-recovery diagnosis 10/29/2026, 2:09:35 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T16:08:45.327Z
+claimed_at: 2026-10-29T19:09:35.922Z
 decision: null
 decision_answer: null
 ---
+
+## Active delivery — 2026-10-29 02:22 PM CT
+
+Normal claim renewed. Five-path candidate measured actual native1904desktop1156132447B=1102.573821MiB and phone411883801B=392.803002MiB, under unchanged original1125/400 limits. That measurement is not whole completion: actual desktop context lifecycle03NONPASS3484.829s, strict pageerror null.byteLength after recovery. All source/index/fullmirror guards exact and cleanup0. No waiver/cap raise; candidate remains uncommitted. Focused real context trace with fullstack/timestamps prepared before applying any fix.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
 
 ## Actual checked delivery and measured candidate — 29 October 2026, 12:56 PM CT
 

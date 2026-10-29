@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 02:22 PM CT
+
+PR1340 actual remote head remains9e14c13; no new application commit or DEV merge. Five-file railway memory followup measures1102.57MiB desktop/392.80MiB phone below original1125/400 limits, but actual desktop lifecycle03 returnedNONPASS after3484.829s: context-recovery pageerror null.byteLength. Strict assertion retained; source/index/fullmirror exact/cleanupcomplete. Focused stack/timing trace and an UNAPPLIED loop-on-context-loss fix are prepared. Separate visitor-linked farm-box master fixture produced10real personally inspected desktop/phone PNGs but overallNONPASS445.931s due phoneNear/Mid HTTPbody/CDPNoData/netERR_ABORTED. Timestamped phone-only diagnosis prepared/unrun. Bounded fixture does not require town replacement; broad photographic/traffic/boarding acceptance remains open.
+
+[Actual source and test evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a914b7a73229133391c587266442a1e8709e1dfe/evidence/transport-photoquality-2026-10-29/ROOT-SELECTED-HORSE-AND-ACTUAL-WAGON-NONPASSES). Git HTTPS push works; active environment network still blocks GitHub API/CI inspection/merge.
+
+
 ## Actual checked delivery and measured candidate — 29 October 2026, 12:56 PM CT
 
 Public checked wagon baseline remains `9e14c138848ef854a535271fbd3feaae52dd4aa2` (full1105steps/395selftests PASS, normally pushed). Further five-file railway CPU-upload release candidate is staged but UNCOMMITTED: TREE704c50077e647ab7813448f8cff6a564af949eb2/APP6a1ce1edd4cc63199807dae01de558b24f160cc2. Existing104producer controls and independent source review passed, fresh5630-file publication/mirror/packs passed under unchanged432MiB budget.
