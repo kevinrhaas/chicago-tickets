@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 4:47:22 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40957064250
-claimed_at: 2026-10-29T21:47:23.339Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -77,3 +77,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-29** (claim of run 10/29/2026, 12:58:06 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40924940614): piece shipped as PR #1452 (resume: CI gate still running when the run's two merge laps ended): the lodge's front in two parts, the west part under its own lower hipped roof and the loggia block set 2 m behind it. The image gate stays open on the lodge's east face, a pointed form over the new roof, the podium's rustication, and the gate piers and planting, so the ticket cannot close yet
 
 **Released 2026-10-29** (claim of run 10/29/2026, 2:37:10 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40940979678): piece shipped as PR #1457 (resume: CI gate still running when the run's two merge laps ended): the estate's 18th Street gate, two stone piers with scroll wings, placed through the plate's camera. The image gate stays open on the gate's carving, the walks and planting, the lodge's east face, the pointed form over its west roof and the podium's rustication, so the ticket cannot close yet
+
+**Released 2026-10-29** (claim of run 10/29/2026, 4:47:22 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40957064250): PR #1457 merged 2026-10-29 (squash 191c10da; finished by slice 5/5: CI gate green on 486bb41, mobile smoke parts 1 and 3 PASS 95/95 and 107/107 with zero page errors): the estate's 18th Street gate, two stone piers with scroll wings, is on dev. The image gate stays open on the gate's carving, the walks and planting, the lodge's east face, the pointed form over its west roof and the podium's rustication, so the ticket cannot close yet
