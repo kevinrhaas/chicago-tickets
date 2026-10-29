@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked PR1340 follow-up and horse source progress — 29 October 2026, 6:33 PM CT
+
+The exact two-file yard ownership/oracle follow-up passed all1105 full checks and five real HEAD checks and is normally pushed as `dce67562eb7c4a05e94a9cff99ecaba76b906549` on PR1340. Its paired CPU proof preserves all84 emitted meshes, all original pick spans/materials and all87 manifest wagons; only192 serialized ownership-metadata bytes are added to three spans. Original strict1904 memory PASS remains tied to its originally measured pre-repair source (desktop1112.88216877MiB≤1125; phone396.64835548MiB≤400), not silently retargeted to this later source. Current ordinary CI/DEV merge and published acceptance still pending; no ticket closure or new memory measurement asserted.
+
 ## Active delivery — 2026-10-29 05:54 PM CT
 
 PR1340 remains actually pushed at a82953d5b43fd0a9af1d4d77dce4277fabca5471 after complete1105-check preflight and four committed-head checks. Fresh published stage1 PASS95/0 on both phone164.602s and desktop512.721s, no timeouts/cleanup0/source-index-fullmirror unchanged; root personally reviewed both actual PNGs (bounded UI/scene proof).

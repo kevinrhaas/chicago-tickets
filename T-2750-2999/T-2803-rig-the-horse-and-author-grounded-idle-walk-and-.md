@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked PR1340 follow-up and horse source progress — 29 October 2026, 6:33 PM CT
+
+V3 actual native129 qualification closed NONPASS11.881264s: retained13-track parity/physical checks passed, but new17-track HAIR had33 original-limit violations; no paired925 RAW or posed/adoption qualification ran. Outside-app V4 and C1 V5 source-only producers/controls passed, but each version's one matrix preview still failed tail deformation limits. All failures, four exact GLB candidate/pair files, producers/controls are publicly recoverable in chicago-evidence commit `a7d79bd5c6901907a14a6bfc5ccd4ec0a123f90a` / ROOT-WAGON-EXACT-OWNER-CANDIDATE-AND-HORSE-FIELD-RECOVERY.
+
+A bounded quiet head/neck V6 direction is now authored outside the app: exact V4 HEAD attachment, original V2 tail, same retained curve amplitudes, exact named15 channels omitting only the two added tail rotations. The source-only producer and18 mutation controls passed1.318201s; actual independent GLTFLoader/Mixer129 diagnostic is being prepared and has not run. Canonical native/static/posed and runtime adoption remain unrun. Runtime horse is still the old selected eye-only child. Tail gesture, walk/trot, riding and broader natural activity remain open; this is no motion-delivery or whole-ticket completion claim.
+
 ## Active delivery — 2026-10-29 05:54 PM CT
 
 Actual canonical horse V3 static PASS10.801328s is preserved with proof07aafc3. New canonical native129 run CLOSED NONPASS11.881264s, no timeout/cleanup0, frozen81 files/semanticindex/47pins/original36metrics exact. Retained13-track clip actual all129 parity+physical PASS, maxposition1.423e-7m/bones0. New17-track clip BODY/EYE physical checks pass but HAIR fails30edge and3area checks (max1.1278998>1.1 /1.2189243>1.2). SocketRAWframes0, posed qualification and runtime adoption UNRUN. Selected runtime remains the older normal-only derivative.

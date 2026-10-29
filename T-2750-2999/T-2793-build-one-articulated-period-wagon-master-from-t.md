@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Actual checked PR1340 follow-up and horse source progress — 29 October 2026, 6:33 PM CT
+
+PR #1340 now has normally pushed commit `dce67562eb7c4a05e94a9cff99ecaba76b906549`, parent `a82953d5b43fd0a9af1d4d77dce4277fabca5471`. Root independently verified both feature and pull refs on GitHub. Exact tested TREE `cd76d000206ea9130e9d4369eceb5ecb54d13b80`, APP `336a35d4ea2d4a87914c60896d02026023af84e6`; full required native preflight PASS all1105 checks in903.839887s, no timeout, complete cleanup. All five real new-HEAD checks passed and worktree is clean.
+
+The two-file follow-up fixes inherited bench/shed ownership classification after accepted T2376 placement, preserving every geometry/material byte and all original physical bounds. It also corrects the exact walkway census after accepted T2385. Paired CPU03 passed every emitted mesh attribute, transform, material, original pick span and all87 manifest wagons; targeted published phone2-3 passed208/0 in375.180923s. The original203/3 failure is preserved. Source and native-result backup is public at `a7d79bd5c6901907a14a6bfc5ccd4ec0a123f90a` in chicago-evidence / ROOT-WAGON-EXACT-OWNER-CANDIDATE-AND-HORSE-FIELD-RECOVERY.
+
+New committed-HEAD publication and fresh exact-source phone1/desktop1 plus remaining native mapped groups are pending/running; historical a829 stage1 passes remain historical. GitHub API is still absent from the effective runtime policy at23:28UTC, so ordinary current CI/ready/DEV merge remain pending. Broad photo/occupied-use/riders/traffic acceptance stays open.
+
 ## Active delivery — 2026-10-29 05:54 PM CT
 
 PR1340 remains actually pushed at a82953d5b43fd0a9af1d4d77dce4277fabca5471 after complete1105-check preflight and four committed-head checks. Fresh published stage1 PASS95/0 on both phone164.602s and desktop512.721s, no timeouts/cleanup0/source-index-fullmirror unchanged; root personally reviewed both actual PNGs (bounded UI/scene proof).
