@@ -1,7 +1,7 @@
 ---
 id: T-1875
 title: Refine 1701 Hibbard house and rear veranda envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-29
 pr: null
 claimed_by: run 10/29/2026, 8:09:13 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-29T13:15:54.452Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40877296522
 claimed_at: 2026-10-29T13:09:14.334Z
 decision: null
