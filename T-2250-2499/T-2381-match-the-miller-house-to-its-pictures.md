@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Miller picture correction 10/26/2026, 10:55:29 PM CT
+claimed_by: Codex early three picture group 2026-10-29 10/29/2026, 9:28:33 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T03:55:30.436Z
+claimed_at: 2026-10-29T14:28:35.755Z
 decision: null
 decision_answer: null
+group: T-2381,T-2373
 ---
 
 Match the Miller House to its pictures.
