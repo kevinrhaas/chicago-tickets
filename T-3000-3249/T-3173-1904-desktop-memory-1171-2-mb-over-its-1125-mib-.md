@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 05:10 PM CT
+
+PR1340 remains the explicit owner priority. First exact ec16 full preflight closed NONPASS870.511s: 1104/1105 checks passed, one farm-box protection baseline was stale. Incoming T-2376/f2635549 deliberately moved Green Tree's wagon and shed together; all81 wagon identities, all80 other records, dimensions, eligibility and remaining fields are exact. The explicit repair updates only the non-runtime protection JSON, leaving checker assertions and actual runtime/browser bytes unchanged. Focused native contract PASS2.575s; fresh complete preflight02 is RUNNING and has passed that formerly failing step, but has no final verdict yet.
+
+Original native owner/memory/phone PASS receipts retain original TREE01a9e158/APPef14258b; a separate exact bridge records guard-only TREE3fa381b4/APP4f32abdb. Original1125/400MiB memory targets remain met at1112.882/396.648MiB on the tested runtime. No new appcommit, checked feature push, currentCI or DEVmerge is claimed. Published full smoke and API CI/merge remain pending; runtime policy still excludes api.github.com.
+
+[Public actual results, original failure and documented repair](https://github.com/kevinrhaas/chicago-evidence/tree/059fd05cfadf0a410b647887e9aa5a4783bcca30/evidence/transport-photoquality-2026-10-29/ROOT-EC16-WAGON-ACTUAL-MEMORY-PHONE-AND-GUARD-REPAIR) — normal evidence push059fd05c, remote-verified/clean. This backup does not merge PR1340 or close broad photographic/occupied acceptance.
+
 ## Active delivery — 2026-10-29 04:50 PM CT
 
 Fresh source integrated with actual DEV ec16b8dd passed ORIGINAL memory targets: desktop1166941533B=1112.88216877MiB<=1125; phone415915946B=396.64835548MiB<=400. Native both-profile run returned0 in360.549s, no timeout, complete owned cleanup, exact source tree01a9e158/APPef14258b, index and full published mirror. Native accepted1300desktop table was not used as the original target. Earlier actual desktop/phone context recovery and far rebuild proofs retain their exact unchanged renderer-input scope. Full source gate, checked commit/push, published smoke, fresh ordinaryCI and DEVmerge remain pending; broad acceptance stays open.
