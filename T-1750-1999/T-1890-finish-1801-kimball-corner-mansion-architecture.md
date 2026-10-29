@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/28/2026, 11:14:29 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40815355348
-claimed_at: 2026-10-29T04:14:30.324Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -113,3 +113,5 @@ match record's open differences name both):
 **Released 2026-10-28** (claim of run 10/27/2026, 11:21:16 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40631318971): PR #1403 (resume, waiting only on the chicago-4d-check gate) stands each light over the loggia between two carved pilasters, a capital carrying each end of the hood in place of the kit's console and one lozenge centred on each shaft, read off the Taylor print and HABS 1965 photograph 2 (Taylor 'carved pilasters either side of the lights over the loggia' now fixed). The image gate still has open differences across the three match records (mansard curb and deck, gabled section's loggia and pier, flank section's rounded west corner, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-28** (claim of run 10/28/2026, 6:10:03 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40677124260): PR #1416 (resume, waiting only on the chicago-4d-check gate) opens the gabled section's top storey as the Taylor print's loggia: K06's new open opening (two dark openings on a 0.2 m post, no frame, sash or glass) in place of T-3001's glazed pair (Taylor 'gabled section's loggia' now fixed; HABS 2 records the 1965 glazing as later fabric). The image gate still has open differences across the three match records (the gabled section's pier, mansard curb and deck, flank section's rounded west corner, east range side door, dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south bay top, south cornice, corner-balcony light)
+
+**Released 2026-10-29** (claim of run 10/28/2026, 11:14:29 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40815355348): PR #1426 (the 18th Street flank pier and downpipe) lapped onto dev and handed on with resume: CI gate still running after two merge laps. The image gate still has open differences on all three Kimball match records. That is more than one run holds, and a sign-off is never split.
