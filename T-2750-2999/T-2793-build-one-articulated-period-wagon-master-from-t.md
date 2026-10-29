@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 05:54 PM CT
+
+PR1340 remains actually pushed at a82953d5b43fd0a9af1d4d77dce4277fabca5471 after complete1105-check preflight and four committed-head checks. Fresh published stage1 PASS95/0 on both phone164.602s and desktop512.721s, no timeouts/cleanup0/source-index-fullmirror unchanged; root personally reviewed both actual PNGs (bounded UI/scene proof).
+
+Next native phone2-3 CLOSED NONPASS350.473s,203passed/3failed, cleanup0/source-index-fullmirror exact. Remaining controller stopped automatically. Two failures are old approximate bench/shed/wagon ownership masks after accepted T-2376 moved the wagon near the unchanged bench; a third expects111510walkwaytriangles although accepted T-2385/d217 restores the current111470. Scoped repair is exact object identity on existing pick spans plus corrected exact census, retaining all geometry thresholds. No blind bound widening, old geometry restoration or unchanged rerun. New two-file repair needs fresh source binding, targeted actual rerun and full required gate before any next appcommit. Full mapped15parts/both, fresh CI and DEVmerge remain pending; current cloud policy still excludes api.github.com. Broad photographic/occupied acceptance is unchanged.
+
+[Immutable actual passes, original failures and exact recovery mappings](https://github.com/kevinrhaas/chicago-evidence/tree/29da3270215cb325a36c57b60c6885e2753fba1f/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-BOTH-STAGE1-PASS-AND-HORSE-V3-NONPASS), normal evidence push29da3270, remote-verified/clean. This is evidence backup, not DEV delivery.
+
 ## Active delivery — 2026-10-29 05:28 PM CT
 
 PR1340 is ACTUALLY UPDATED on GitHub: normal feature push a82953d5b43fd0a9af1d4d77dce4277fabca5471, both feature branch and PRhead independently remote-verified. Complete required-reader preflight02 PASS1105checks in868.070s, no timeout/clean owned cleanup; final tested TREE3fa381b4/APP4f32abdb exact. Four actual committed-HEAD changelog/ID/history/entry checks passed before normal push; explicit ec16 changelog-history check additionally preserves2419 shipped entries. The guard-only accepted T-2376 transition is documented in the normal merge commit, whose parents are9e14c13/ec16b8dd. No assertion or original memory ceiling was weakened.

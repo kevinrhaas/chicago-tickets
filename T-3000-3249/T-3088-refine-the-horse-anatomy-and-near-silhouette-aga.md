@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 05:54 PM CT
+
+Actual canonical horse V3 static PASS10.801328s is preserved with proof07aafc3. New canonical native129 run CLOSED NONPASS11.881264s, no timeout/cleanup0, frozen81 files/semanticindex/47pins/original36metrics exact. Retained13-track clip actual all129 parity+physical PASS, maxposition1.423e-7m/bones0. New17-track clip BODY/EYE physical checks pass but HAIR fails30edge and3area checks (max1.1278998>1.1 /1.2189243>1.2). SocketRAWframes0, posed qualification and runtime adoption UNRUN. Selected runtime remains the older normal-only derivative.
+
+Lightweight source/matrix analysis reproduces native extrema to1.55e-13 and locates V3's inappropriate lower-neck reassignment plus unchanged tail attachment failures masked by V2's larger mane maximum. Versioned V4 proposal starts from V2, reauthors only417head-transition and653tail-transition rows with source-rest-surface harmonic attachment, preserves BODY/EYE/geometry/core/images/rig/both clipbytes and all motion amplitudes/original bounds. Producer/controls are being prepared outside the app; no canonical V4 qualification or passing claim. Old V2/V3 source and failures stay unchanged; this T-2803/T-3088 skin repair does not broaden the earlier UV-only claim. Native old13/new17,129paired925Float64,posed14/7mm/crossing and actual desktop/phone motion remain required.
+
+[Immutable actual passes, original failures and exact recovery mappings](https://github.com/kevinrhaas/chicago-evidence/tree/29da3270215cb325a36c57b60c6885e2753fba1f/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-BOTH-STAGE1-PASS-AND-HORSE-V3-NONPASS), normal evidence push29da3270, remote-verified/clean. This is evidence backup, not DEV delivery.
+
 ## Active motion and delivery update — 2026-10-29 03:38 PM CT
 
 Earlier bounded eye-normal derivative remains the selected source and its actual canonical physical/socket129 proof is preserved. New visible horse motion exposed a separate lower-jaw BODY-anchor defect; engineering motion failed strict physical bounds before activation. New binding repair static export is within the original4MiB cap and preserves all outside weights and streams; dynamic qualification remains pending. Wider body/mane silhouette, gait, tack and photo-quality acceptance stay open.
