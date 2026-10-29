@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 12:56:31 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T05:56:32.174Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -61,3 +61,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 
 - pullman_glasshouse_1800_calumet_pavilion
 - pullman_lodge_1800_calumet
+
+**Released 2026-10-29** (claim of run 10/29/2026, 12:56:31 AM CT): no reason given
