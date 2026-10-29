@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Active delivery — 2026-10-29 05:28 PM CT
+
+PR1340 is ACTUALLY UPDATED on GitHub: normal feature push a82953d5b43fd0a9af1d4d77dce4277fabca5471, both feature branch and PRhead independently remote-verified. Complete required-reader preflight02 PASS1105checks in868.070s, no timeout/clean owned cleanup; final tested TREE3fa381b4/APP4f32abdb exact. Four actual committed-HEAD changelog/ID/history/entry checks passed before normal push; explicit ec16 changelog-history check additionally preserves2419 shipped entries. The guard-only accepted T-2376 transition is documented in the normal merge commit, whose parents are9e14c13/ec16b8dd. No assertion or original memory ceiling was weakened.
+
+Canonical publication after commit PASS49.193s, actual build stamp a82953d5b. Fresh mapped published coverage still requires all15parts/both profiles; the first native phone stage1 is RUNNING, not a whole-gate PASS. Original1112.882/396.648MiB memory and native fixture/context/far results retain their exact tested-runtime scope through the explicit non-runtime guard bridge. No DEVmerge or broad photographic/occupied acceptance is claimed. Fresh CI/ready/merge actions remain blocked by current environment policy excluding api.github.com.
+
+[Immutable full-gate and checked app-push receipts](https://github.com/kevinrhaas/chicago-evidence/tree/891934d3514487d850936bbb4541afe8679466f6/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-A82953D5-CHECKED-FEATURE-DELIVERY) — normal evidence push891934d3, remote-verified/clean; prior059fd05c retains original failed gate, old/new guard proof, actual native owner/memory/phone results and all five personally reviewed phone images. Full gate timing missed the historical600s cost target honestly; functional check result is PASS.
+
 ## Active delivery — 2026-10-29 05:10 PM CT
 
 PR1340 remains the explicit owner priority. First exact ec16 full preflight closed NONPASS870.511s: 1104/1105 checks passed, one farm-box protection baseline was stale. Incoming T-2376/f2635549 deliberately moved Green Tree's wagon and shed together; all81 wagon identities, all80 other records, dimensions, eligibility and remaining fields are exact. The explicit repair updates only the non-runtime protection JSON, leaving checker assertions and actual runtime/browser bytes unchanged. Focused native contract PASS2.575s; fresh complete preflight02 is RUNNING and has passed that formerly failing step, but has no final verdict yet.
