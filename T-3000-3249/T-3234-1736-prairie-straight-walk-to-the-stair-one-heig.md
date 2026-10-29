@@ -1,7 +1,7 @@
 ---
 id: T-3234
 title: 1736 Prairie: straight walk to the stair, one-height wall turning along 18th Street, no stray column
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-28
-closed: null
+closed: 2026-10-29
 pr: 1422
 claimed_by: run 10/28/2026, 10:36:53 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-29T05:03:36Z
 claimed_run: null
 claimed_at: 2026-10-28T15:36:55.601Z
 decision: null

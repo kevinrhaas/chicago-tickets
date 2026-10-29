@@ -206,5 +206,3 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 # BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
 #     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3234 — 1736 Prairie: straight walk to the stair, one-height wall turning along 18th Street, no stray column
-T-3237 — The changelog fold stops dying in checkout: a shallow, sparse clone of chicago/4d without the images and GLBs (three of the last eight folds on 2026-10-28 burned their 10-minute limit cloning the 3.5 GB tree)
