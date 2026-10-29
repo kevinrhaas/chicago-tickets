@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 2:02:39 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40934409717
-claimed_at: 2026-10-29T19:02:40.170Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -123,3 +123,5 @@ match record's open differences name both):
 **Released 2026-10-29** (claim of run 10/29/2026, 6:21:29 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40863175279): PR #1441 (resume, waiting only on the chicago-4d-check gate; locally check.sh 1102/1103 with its one red, the source-use count, rebuilt and green, and smoke part 3 green at desktop and mobile) carries the main moulded cornice along the south wall and round the south bay and brings a slated mansard down over the bay into the main roof (HABS 1 'the bay's top' now fixed); K10's mansard cornice now stops on a chamfered pavilion's side-wall cut. The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range dormer and stack, frontispiece's place, south-east pinnacle and recessed range, rear range, south cornice heights, corner-balcony light, the front north of the pavilion); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-29** (claim of run 10/29/2026, 9:40:04 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40892828655): PR #1445 (resume, waiting only on the chicago-4d-check gate; locally the three check.sh reds this branch caused are fixed and re-run green, and smoke part 3 is green at desktop and mobile) stands HABS photograph 1's wall gable at the south wall's rear corner, which the match record had read as a pinnacle: a steep coped stone gable behind the rear stack with a mullioned pair of lights at its foot (HABS 1 'roof's south-east corner' now fixed). K01's shallow pavilion past a mansard's eave now works on a side wall. The image gate still has open differences across the three match records (the main cornice under the new gable's lights, mansard curb and deck, the flank section's depth and width, east range dormer and stack, frontispiece's place, recessed range, rear range, south cornice heights, corner-balcony light, the front north of the pavilion). More than one run holds them, and a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-29** (claim of run 10/29/2026, 2:02:39 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40934409717): PR #1455 carries the main cornice and the eave box on in front of the south-east wall gable's face, under its lights, to the corner, read off HABS photograph 1 (HABS 1 'the main cornice under the wall gable's lights' now fixed; K10's course runs on across a shallow pavilion carrying cornice_across, the shallow-bay cutters start on the box's top). The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range dormer and stack, frontispiece's place, recessed range, rear range, south cornice heights, corner-balcony light, the front north of the pavilion); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
