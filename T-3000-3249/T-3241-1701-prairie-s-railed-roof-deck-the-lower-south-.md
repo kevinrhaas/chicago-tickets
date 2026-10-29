@@ -19,7 +19,6 @@ claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/4091681
 claimed_at: 2026-10-29T17:05:44.937Z
 decision: null
 decision_answer: null
-group: T-3241,T-3242
 ---
 
 1701 Prairie's railed roof deck, the lower south range under its balcony, and the corner porch's stone arcade before the front's recessed north end, against the wide photograph and the engraving.

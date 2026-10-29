@@ -1,7 +1,7 @@
 ---
 id: T-3242
 title: 1701 Prairie's two-level columned rear veranda with its balustrades and garden steps, and the rear range's corbelled oriel, against the rear photograph
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,15 +11,14 @@ parent: T-1875
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 12:05:47 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40916819228
-claimed_at: 2026-10-29T17:05:47.731Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-3241,T-3242
 ---
 
 1701 Prairie's two-level columned rear veranda with its balustrades and garden steps, and the rear range's corbelled oriel, against the rear photograph.
@@ -35,3 +34,5 @@ When T-1875 was split (2026-10-29T13:15:47.238Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/40877296522) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-29** (claim of run 10/29/2026, 12:05:47 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40916819228): released by its group's run before any work on it: T-3241's three pieces (railed hip deck, lower south range, corner arcade porch) fill the run; the two-level veranda needs a new K01 kit piece of its own and is free for another slice
