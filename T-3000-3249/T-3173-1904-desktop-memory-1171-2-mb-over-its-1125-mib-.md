@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-26
 closed: null
 pr: null
-claimed_by: Codex root continuing measured railway memory reduction and context-recovery diagnosis 10/29/2026, 2:09:35 PM CT
+claimed_by: Codex root continuing own expired railway memory claim and PR1340 ec16 checked-source delivery 10/29/2026, 5:10:09 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T19:09:35.922Z
+claimed_at: 2026-10-29T22:10:09.768Z
 decision: null
 decision_answer: null
 ---
