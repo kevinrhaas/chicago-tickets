@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 12:02:11 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40912493836
-claimed_at: 2026-10-29T17:02:11.451Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -90,3 +90,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-29** (claim of run 10/29/2026, 12:24:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40822599544): PR #1432 works the stable (pullman_house_1729_prairie_ranges) to its pictures through its own three reference views (T-3193's cameras re-anchored): open belvedere balustrade, open iron cresting with corner spires, moulded stone belt course with the upper sash on it, low cap on the corner bay, stone-toned mouldings. Still open in the match records: the 18th Street boundary (piers, coping, posts, lamps) and the planting in every view, the terrace's two-flight approach (conservatory), and the north block's lower roof that the plate alone places 1.5 m north. Not split: the gate stays on this ticket.
 
 **Released 2026-10-29** (claim of run 10/29/2026, 2:54:31 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40837979830): PR #1435 (resume: gate still running, nothing red) builds the 18th Street wall before the palm house and stable (five piers, the 0.9 m coping wall, the two flights' openings, the curved low wall between them, the carriage-way opening, on to the stable's east wall) off the 1894 Inland plate's camera, and draws the planting in every estate view (camera flora). Still open in the match records: the lamps and urn on the piers and the lamp post by the court, the trees' places, the terrace's two-flight approach, the north block's lower roof, and Taylor 16555's camera depth (its eye 9.9 m from the lot line where the print puts the wall about 20 m off; its near gate piers stand on 18th Street's south side), which wants re-solving with the wall's piers in its fit. Not split: the gate stays on this ticket.
+
+**Released 2026-10-29** (claim of run 10/29/2026, 12:02:11 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40912493836): PR #1450 (resume: gate still running, nothing red) builds the fifth 18th Street pier's urn off the 1894 Inland plate (read at full size as one squat lidded urn, 0.4 by 0.5 m, not a globe lamp with an urn behind it; the kit's turned urn stretched to it) and fixes that item in both plate records. Still open in the match records: the lamp post by the court (only Taylor 16554 shows it, rights unresolved, so nothing can be built from it), the trees' places, the terrace's two-flight approach, the north block's lower roof, and Taylor 16555's camera depth. Not split: the gate stays on this ticket.
