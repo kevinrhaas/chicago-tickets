@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Green Tree wagon bay and sash continuation 10/26/2026, 10:53:50 PM CT
+claimed_by: Codex Tremont pictured-form and Green Tree continuation 2026-10-29 10/29/2026, 9:35:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T03:53:51.057Z
+claimed_at: 2026-10-29T14:35:32.265Z
 decision: null
 decision_answer: null
+group: T-2385,T-2376
 ---
 
 Match the Green Tree Tavern to its pictures.
