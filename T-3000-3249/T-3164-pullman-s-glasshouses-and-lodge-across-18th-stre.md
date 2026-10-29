@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 5:26:10 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40856813803
-claimed_at: 2026-10-29T10:26:11.191Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -65,3 +65,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-29** (claim of run 10/29/2026, 12:56:31 AM CT): no reason given
 
 **Released 2026-10-29** (claim of run 10/29/2026, 3:08:23 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40838159535): piece shipped as PR #1434 (resume: gate still running when the run's merge laps ended): the conservatory's arch smoothed and the transept cresting/finials built; the image gate stays open on the range's coping cresting, the transept lights' tracery, the podium, the dome offset, the lodge and the grounds, so the ticket cannot close yet
+
+**Released 2026-10-29** (claim of run 10/29/2026, 5:26:10 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40856813803): piece shipped as PR #1439 (resume: CI gate still running when the run's two merge laps ended): the transept arms' lights drawn round-headed over a transom as both pictures show them, and the 'range coping cresting' difference re-read off the pictures as plain coping (the lattice was the lodge deck's balustrade). The image gate stays open on the podium's rustication and panels, the dome's 0.6 m offset, the lodge (east face over the range, bowed corner, balcony, columns, second roof) and the gate piers and planting, so the ticket cannot close yet
