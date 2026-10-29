@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root continuing checked a397 human source and canonical delivery in this session 10/29/2026, 12:33:37 PM CT
+claimed_by: Codex root continuing own a397 checked branch after expiry; owner authorizes this session 10/29/2026, 3:36:18 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T17:33:37.841Z
+claimed_at: 2026-10-29T20:36:18.582Z
 decision: null
 decision_answer: null
 ---
