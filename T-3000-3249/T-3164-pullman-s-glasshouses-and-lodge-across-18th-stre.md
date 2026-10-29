@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/29/2026, 10:18:56 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40899306091
-claimed_at: 2026-10-29T15:18:56.892Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -71,3 +71,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **PR #1439 merged 2026-10-29** (squash 0ea85bcc, lapped by slice 1/5: dev merged in, manifest resolved by merge_asset_registry.py, source-use report rebuilt, gate green). The transept lights are on dev; the image gate above is still open on the podium, the dome offset, the lodge, and the gate piers and planting.
 
 **Released 2026-10-29** (claim of run 10/29/2026, 8:03:33 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40876689246): piece shipped as PR #1442 (resume: CI gate still running when the run's two merge laps on the merged head ended): the dome and drum stood at u 4.5, 1.8 m north of the transept's middle, where both pictures put them, at the re-read heights, with the turned finial both pictures show. The image gate stays open on the podium's rustication and panels, the lodge (east face over the range, bowed corner, balcony, columns, second roof) and the gate piers and planting, so the ticket cannot close yet
+
+**Released 2026-10-29** (claim of run 10/29/2026, 10:18:56 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40899306091): this piece (the lodge's bowed corner, balcony, round columns and deck spires) is complete in PR #1446, awaiting its CI gate under resume; the image gate keeps T-3164 open for the lodge's lower west roof, its east face and the gate piers and planting
