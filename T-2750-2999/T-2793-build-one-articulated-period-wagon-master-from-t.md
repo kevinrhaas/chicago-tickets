@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Latest wagon correction and actual horse prototype — 29 October 2026, 6:46 PM CT
+
+Independent review found a concrete gap in dce675's smoke ownership branch: an owned wagon point outside its shed bay could bypass the original4.6m bound. Current geometry is byte-exact, but the assertion gap is real and the earlier statement that every tongue bound was preserved is superseded by this correction. The new smoke-only patch measures every owned point against its OWN wagon anchor, retains the original4.6m bar, and rejects a copied actual outside-bay point displaced10m through the same measurement/acceptance functions. Both independent reviewers cleared it; no analogous bench/shed/metadata bypass was found.
+
+Fresh exact-source targeted published phone2-3 CLOSED PASS209/0 in346.979268s, original600s/no timeout/cleanup0. Sealed uncommitted TREE `bac0441d0b3cb0db4815b7b6e4a0fd049a365192`, APP `ee7822334b9e11c2321d243b26ecf65ca095656a`, public HEAD still `dce67562eb7c4a05e94a9cff99ecaba76b906549`. Full1105 preflight is RUNNING under original1200s; no new fullPASS or later appcommit is asserted. Published all15parts/both, current ordinaryCI and DEV merge remain pending; effective API access is blocked. Broad photographic/occupied-use/traffic acceptance remains open.
+
+[Immutable current source and actual-result backup](https://github.com/kevinrhaas/chicago-evidence/tree/2fcf04e8dd115a65b05962eac6045d06895cfaab/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-DCE675-BOUND-FIX-AND-HORSE-V6-RECOVERY). Ticket state and acceptance remain unchanged.
+
 ## Actual checked PR1340 follow-up and horse source progress — 29 October 2026, 6:33 PM CT
 
 PR #1340 now has normally pushed commit `dce67562eb7c4a05e94a9cff99ecaba76b906549`, parent `a82953d5b43fd0a9af1d4d77dce4277fabca5471`. Root independently verified both feature and pull refs on GitHub. Exact tested TREE `cd76d000206ea9130e9d4369eceb5ecb54d13b80`, APP `336a35d4ea2d4a87914c60896d02026023af84e6`; full required native preflight PASS all1105 checks in903.839887s, no timeout, complete cleanup. All five real new-HEAD checks passed and worktree is clean.

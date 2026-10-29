@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Latest wagon correction and actual horse prototype — 29 October 2026, 6:46 PM CT
+
+Quiet head/neck V6 actual outside-proposal GLTFLoader/AnimationMixer129 diagnostic CLOSED PASS9.673028s, original30s/no timeout/cleanup0/WebGL0/full frozen81-source/index/inputpins unchanged. All original physical edge/area/ground/contact/loop limits passed on65keys+64midpoints. Old13 full12838vertex/shadernormal parity passed129; all969tail vertices and relative bones exactlymatch old13, actual head/neck matches full-amplitude source17, independent literal quiet reference agrees2.22e-16; actual nonzero head/neck movement measured. No thresholds/amplitudes or original9176B metric loop changed.
+
+This is a source prototype, not runtime adoption. First-class canonical tools/models are now being authored in a new namespace; active bd443 selection remains unchanged. Fresh canonicalstatic, master/runtime129 parity, actual independent paired925Mixer RAW129, original14mm/7mm posed admission, real published desktop/phone motion, fullgate and ordinaryCI/DEV delivery remain pending. Tail gesture/gaits/riding/driving and broader photographic acceptance stay open.
+
+[Immutable current source and actual-result backup](https://github.com/kevinrhaas/chicago-evidence/tree/2fcf04e8dd115a65b05962eac6045d06895cfaab/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-DCE675-BOUND-FIX-AND-HORSE-V6-RECOVERY). Ticket state and acceptance remain unchanged.
+
 ## Actual checked PR1340 follow-up and horse source progress — 29 October 2026, 6:33 PM CT
 
 V3 actual native129 qualification closed NONPASS11.881264s: retained13-track parity/physical checks passed, but new17-track HAIR had33 original-limit violations; no paired925 RAW or posed/adoption qualification ran. Outside-app V4 and C1 V5 source-only producers/controls passed, but each version's one matrix preview still failed tail deformation limits. All failures, four exact GLB candidate/pair files, producers/controls are publicly recoverable in chicago-evidence commit `a7d79bd5c6901907a14a6bfc5ccd4ec0a123f90a` / ROOT-WAGON-EXACT-OWNER-CANDIDATE-AND-HORSE-FIELD-RECOVERY.

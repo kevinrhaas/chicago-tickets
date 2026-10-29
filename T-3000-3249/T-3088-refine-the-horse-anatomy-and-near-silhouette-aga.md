@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Latest wagon correction and actual horse prototype — 29 October 2026, 6:46 PM CT
+
+The bounded quiet head/neck V6 prototype passed its actual outside-app129-phase diagnostic without changing physical limits or original metric code. HEAD field exactlyV4, original969TAIL exactlyV2; source producer18controls passed and the actual standard-loader/Mixer quiet15 passes original physical bounds. Retained13 parity across12838vertices×129 also passes; actual nonzero head/neck motion measured, with tail delta0. The current app still selects bd443 eye-only child; this is no DEV animation claim.
+
+A first-class namespace is now being authored, preserving original36/47 qualifying code and old81 source snapshot/history. Only explicit prefix-preserving licence appends and new qualification tools/models are authorized at this stage. Active selection/placement/runtime helpers/check.sh/status stay unchanged until fresh canonicalstatic/native paired925/posed qualification. One-clip runtime derivative excludes the failed17 from playable inventory; its wholeBIN is exact master and reversal is exact. Canonical qualification/published visual review/fullgate/push/merge remain pending.
+
+[Immutable current source and actual-result backup](https://github.com/kevinrhaas/chicago-evidence/tree/2fcf04e8dd115a65b05962eac6045d06895cfaab/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-DCE675-BOUND-FIX-AND-HORSE-V6-RECOVERY). Ticket state and acceptance remain unchanged.
+
 ## Active delivery — 2026-10-29 05:54 PM CT
 
 Actual canonical horse V3 static PASS10.801328s is preserved with proof07aafc3. New canonical native129 run CLOSED NONPASS11.881264s, no timeout/cleanup0, frozen81 files/semanticindex/47pins/original36metrics exact. Retained13-track clip actual all129 parity+physical PASS, maxposition1.423e-7m/bones0. New17-track clip BODY/EYE physical checks pass but HAIR fails30edge and3area checks (max1.1278998>1.1 /1.2189243>1.2). SocketRAWframes0, posed qualification and runtime adoption UNRUN. Selected runtime remains the older normal-only derivative.
