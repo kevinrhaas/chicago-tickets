@@ -83,6 +83,15 @@ Owner, 2026-10-28, the same thread: *"the surrounding wall/fence around the prop
 
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
 
+
+## Owner's report, 2026-10-29: fix these first
+
+The owner, after walking it on the phone (dev, 1904): "the front is very janky and the entry is not straight and still the front facade and entry need a lot of work and the south face is still incredibly messed, there is a big box in there that is still off ... the whole area needs more work to get to photographic reproduction." He chose (2026-10-29) that steward runs keep this ticket. Take these before any further detail (hoods, cresting, courses):
+
+1. **The grey box on the 18th Street face.** Seen from the lawn inside the 18th Street wall looking east, a low flat-topped block with one sash window stands in front of the porte-cochère's arches. It is the 18th Street pavilion's (`bays` p_18th) ground storey east of the porte-cochère: geometry at u 10.4-19.5, v 20.2-20.8, y 0-2.6 in material `bay_stone`, reading grey against the red-toned walls, with a sash at u 10.5-12.3. Taylor's no. 1445 shows the flank there as one stone wall, full height, under the pavilion's own cornice: no low block and no second stone. Make the pavilion one full-height mass in the walls' own stone, or take it off where the photograph shows none.
+2. **The entry is not straight.** Through the Prairie front: the stair is not on the door's axis (the door stands right of the stair's centre), its cheeks run into the portico's columns, and a plain solid stone block stands beside it. The front walk bends between the gate piers and the stair. In the Detroit print the stair rises straight between the portico's two northern columns to a door centred between them, from a straight walk. Put the door, the stoop, the walk and the gate on one axis.
+3. **The walls read as red brick.** Up close the brownstone renders with brick-like courses and a red tone. Every picture shows dressed ashlar, light in the prints. Check the K02 stone's course size and tone against the pictures.
+4. **The front facade overall** (the forward block, the portico and balcony, the pavilion piers) reads as stacked pieces, not one front. Judge it against the Detroit print and Taylor's no. 1445 as a whole, not item by item.
 **Released 2026-10-29** (claim of run 10/28/2026, 11:07:12 PM CT): no reason given
 
 **Released 2026-10-29** (claim of run 10/29/2026, 7:18:56 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40871419322): PR #1437 (belt course, eared dormer hoods, brownstone dormer faces) merged to dev; the image gate stays open on the forward-block and 18th Street pavilion dormers (needs a K08 bay-kit change) and the broken pediment, so the owner's ticket stays open
