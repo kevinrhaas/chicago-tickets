@@ -206,3 +206,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3244 — 1700-block Prairie colours read from the block's pictures (owner's report 2026-10-29): each house's walls, trim, sash and porches weighed against every photograph's tone with the hypotheses written out, and the ones the pictures contradict repainted
 T-3245 — Soft splat crowns for the 1904 parkway elms (Spark renderer, behind Settings > Trees, off by default)
+T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
