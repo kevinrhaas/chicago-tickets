@@ -1,7 +1,7 @@
 ---
 id: T-3239
 title: 1906 Prairie's pictures worked to matches: the mansard photograph's 1900-or-1906 attribution settled against the register, the 1896 lakeshore item set aside as no view of the house, the c.1914 west-side elevation drawing's 1906 front found and weighed, the 1898 strip's panel solved, and every 1906 match record brought to matches (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1898
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1464
 claimed_by: run 10/29/2026, 7:15:09 PM CT
 blocked_on: null
 needs_bake: false
