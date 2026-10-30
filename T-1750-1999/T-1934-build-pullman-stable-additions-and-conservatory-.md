@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 1:54:27 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41108638888
-claimed_at: 2026-10-30T18:54:27.483Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -108,3 +108,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-30** (claim of run 10/30/2026, 6:58:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41051029203): PR #1488 (resume: gate still running, nothing red) lowers the stable's north block deck to 8.2 m and runs it from v 0.3 to the block's north end, read off the 1894 Inland plate's cresting through its camera; the plate item 'the north block's lower roof' is fixed in both plate records. Still open in the match records: the house's raised porch and its stair (house record), the court's piers either side of its mouth, the planting, the lamp post. Not split: the gate stays on this ticket.
 
 **Released 2026-10-30** (claim of run 10/30/2026, 11:49:56 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41091627102): PR #1495 stands Pullman's 18th Street gas lamp where Taylor's 16554 shows it (at the walk's turn into Calumet Avenue, u 10 m; lamp.pictured.pullman_court, place only) and withdraws the rule's mid-block lamp on the north walk, which 16554 and the c. 1900 Detroit view show empty; photo_match's camera flora now draws street furniture on request (street_furniture_m) and the six estate cameras ask for it. Still open in the match records: the lamp's taller globe-headed form, the house's raised porch and its stair (house record), the court's piers either side of its mouth, the planting (the plates' item now notes the c. 1900 Detroit border), and 16554's corner bay. Not split: the gate stays on this ticket.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 1:54:27 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41108638888): PR #1500 draws Pullman's 18th Street lamp in the form Taylor 16554 shows (the globe post: a pale post about 4.9 m to its cap, a small bar, a wide shallow globe under a small dark cap; renders 103 px tall against the print's 102), a lamp class with its own model in the street furniture layer; the lamp-form item is fixed in both 16554 records. Still open in the match records: 16554's corner bay, the house's raised porch and its stair (house record), the court's piers either side of its mouth, the planting; 16554's camera puts the walk's ground about 45 px higher than the print does (parkway trees and the lamp's foot alike), worth a re-solve with the walk's edge in its fit. Not split: the gate stays on this ticket.
