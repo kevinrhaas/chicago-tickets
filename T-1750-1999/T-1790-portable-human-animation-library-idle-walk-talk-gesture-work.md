@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root continuing own expired Otis natural-idle claim with retained qualified source and native world review pending 10/29/2026, 5:20:59 PM CT
+claimed_by: Codex root continuing own expired Otis motion delivery with resumed native world owner in this session 10/29/2026, 8:21:56 PM CT
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T22:20:59.493Z
+claimed_at: 2026-10-30T01:21:56.965Z
 decision: null
 decision_answer: null
 ---
