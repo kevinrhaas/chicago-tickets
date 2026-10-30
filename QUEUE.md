@@ -208,5 +208,4 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3251 — 1835 jaunt: notable women of Chicago
 T-3252 — 1835 research: named Black residents and businesses before July 1835, jaunt only if placeable
-T-3253 — 1904 Prairie Avenue households: every resident family and live-in staff on the house cards
 T-3258 — 1904 Prairie households: live-in staff and children from the 1900 census (T623 roll 245, EDs 36 and 40)
