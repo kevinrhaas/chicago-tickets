@@ -114,3 +114,8 @@ The corrected checked PR1340 HEAD78b11b7 keeps the original memory ceilings and 
 ## Active delivery — 2026-10-30 06:13 UTC
 
 Checked wagon source78b11b7 remains frozen; no ceiling change or retargeting of original memory numbers. Current native published coverage15/30, six unqualified, nine queued; prior actual timeouts remain failed. Real original strict readings remain tied to their tested source. Root has not mergedPR1340; ordinary CI and DEV delivery remain pending while local transport/people gates continue.
+
+
+## Checked delivery update — 2026-10-30 07:49 UTC
+
+PR1340 frozen source remains78b11b7a8e49126a8a5724a4035ea961461a4f49; full1105PASS, committed-HEAD checks and normal feature push remain qualified. Current published group coverage18/30 accepted after desktop9 actual27/0PASS427.799s/original600. Desktop10 attempt01 completed native31/0PASS425.958s/original600 but is RESOURCE NONPASS: workspace526356480<536870912 at closure. Preserve original; a later healthy snapshot does not qualify it. Verified duplicate-only disk recovery and bounded Git pack relocation preserved all objects/source/results/captures, original floors unchanged. Fresh D10attempt02 and untouched D11/D12/D15 are next under independently reviewed identical native600 guards. Eight earlier phone13/14 anddesktop2/4/7/8/13/14 slots remain UNQUALIFIED. Historical strict memory readings stay tied to their original source. Public closed evidence e4c8288456383bfb45a97f2f2affa0affcee38d5. Current enforced environment policy still excludesapi.github.com; CI/PR merge access awaits applying the saved configuration. No direct DEV push, whole-gate PASS or broad occupied/rider/driver/photo acceptance claimed.

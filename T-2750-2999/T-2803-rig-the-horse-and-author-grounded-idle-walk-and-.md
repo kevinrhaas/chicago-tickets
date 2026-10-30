@@ -238,3 +238,8 @@ Automatic deployment40008193719 succeeded. Public [DEV1835](https://chicago.pole
 ## Active delivery — 2026-10-30 06:13 UTC
 
 Quiet-horse finite-qualified motion is awaiting its final fullH03 gate, now running after a genuine settled53-owner rebuild and56 passing output checks. Physical runtime/model and all63 qualification pins/certificate remain unchanged. Earlier finite129/partial11.3cm native head motion are real, but full12 world cycle, gait/walk/trot/starts/stops/turns/riding/gear and photo acceptance remain OPEN. No horse feature commit or DEV merge is claimed.
+
+
+## Checked delivery update — 2026-10-30 07:49 UTC
+
+Horse quiet head/neck feature2177b51b1f6d0c4aedfbc5374f4f1e2ce1fa7d1b is ACTUALLY committed and normally pushed after full1109PASS791.992s/original1200 and five committed-HEAD checks. Current committed-HEAD canonical local publish47.672s/original300 plus check_published1.619s/original30 passed; source117/index/full5640mirror exact, resources healthy and cleanup0. Finite129 qualification and all63 physical code/certificate pins remain unchanged; previous failed full gates are preserved, not relabeled. Actual outside world view moved head11.3cm but achieved5.636/12native seconds; full world cycle, photo master, gaits, riders, drivers and town traffic remain OPEN. Public evidence ba8a4ea2a69b38703a875815a945c26dcd569cb5. No current green CI or DEV merge is claimed.

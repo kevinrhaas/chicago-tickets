@@ -143,3 +143,8 @@ Quiet-horse local integration is staged TREE4278fa10062c3593ea2cf65f7bf41a4bee7d
 ## Active delivery — 2026-10-30 06:13 UTC
 
 Horse source117 is now staged TREEbfa54eae2cdfbaed609720ffae9f4bdac472a735/APPa47f2535c1f4e0cf9935d53e4bfc20a8a1c1c868. Proper native provenance/isolation repairs retain all63 qualification code pins, finite certificate, model/runtime bytes and old failures. Mandatory53-owner downstream rebuild actually settled in2laps; all56 affected checks passed; only expected source-use coverage report changed. Fresh original fullH03 app check is RUNNING; no horse feature commit/push yet. Prior Hfull01 failed2/1109 andHfull02 failed1/1109 are preserved. Actual outside H6 head movement11.3cm/hoofdrift5micrometers remains partial5.636/12native seconds, not fullworld/photo/gait acceptance. BroadT3088 remains OPEN.
+
+
+## Checked delivery update — 2026-10-30 07:49 UTC
+
+Horse quiet head/neck feature2177b51b1f6d0c4aedfbc5374f4f1e2ce1fa7d1b is ACTUALLY committed and normally pushed after full1109PASS791.992s/original1200 and five committed-HEAD checks. Current committed-HEAD canonical local publish47.672s/original300 plus check_published1.619s/original30 passed; source117/index/full5640mirror exact, resources healthy and cleanup0. Finite129 qualification and all63 physical code/certificate pins remain unchanged; previous failed full gates are preserved, not relabeled. Actual outside world view moved head11.3cm but achieved5.636/12native seconds; full world cycle, photo master, gaits, riders, drivers and town traffic remain OPEN. Public evidence ba8a4ea2a69b38703a875815a945c26dcd569cb5. No current green CI or DEV merge is claimed.
