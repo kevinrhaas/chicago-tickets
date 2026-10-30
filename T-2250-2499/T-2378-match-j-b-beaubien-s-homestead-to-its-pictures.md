@@ -5,7 +5,7 @@ state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
-effort: M
+effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-11
@@ -45,3 +45,7 @@ Isolate the keyed Beaubien building from the separate Dean house in the panorama
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of beaubien-lakehouse-agent 10/23/2026, 9:10:20 AM CT): Owner requested session wrap. Exact closed prototypes, actual renders and unapplied source patches are saved at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Delegated workers have stopped. Image matching remains unfinished; resume from the case handoff and preserve its evidence limits.
+
+## Post-PR1456 remaining work estimate — 2026-10-30
+
+The original M estimate included source and identity review, camera comparison and visible model refinement. Those are completed in the checkpoint737 native packet: MASTER 222fce, WEB 64fb, camera 6a44 and source-scoped reviewed matches e032. PR1456 has landed both required producers, and current native recomputation still gives the accepted fdac754a recipe. Remaining work is one bounded fourteen-path entrywise adoption, generated owners and shared current app/source/PR qualification; sized S for this remaining unit. The original image gate, source/date/rights qualifications and done-on-merge acceptance remain unchanged. This is the remaining effort estimate, not a completion claim.

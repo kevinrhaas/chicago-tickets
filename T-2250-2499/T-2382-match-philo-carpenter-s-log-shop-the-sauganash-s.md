@@ -5,7 +5,7 @@ state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
-effort: M
+effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-11
@@ -47,3 +47,7 @@ Pictures:
 The annex is a separate structure, not a second hotel wing to re-enable. Refine tall multipane sash and brick stack from the rights-cleared Braunhold plate. Preserve the July 1835 function: former shop/school, current use unattested.
 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
+
+## Post-PR1456 remaining work estimate — 2026-10-30
+
+The original M estimate included refining the roof, chimney and gable and solving the three source views. The accepted native MASTER f3e26f and WEB 281280, all three reviewed canonical MATCHES, hosted credited images and native recipe 498ba51e are now retained; current native recomputation reproduces that recipe exactly. Remaining work is one bounded nineteen-path entrywise adoption, generated owners and shared current app/source/PR qualification; sized S for this remaining unit. The original image gate, source/date/rights qualifications and done-on-merge acceptance remain unchanged. This is the remaining effort estimate, not a completion claim.

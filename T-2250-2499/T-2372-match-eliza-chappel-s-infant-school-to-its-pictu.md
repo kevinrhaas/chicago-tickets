@@ -5,7 +5,7 @@ state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
-effort: M
+effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-11
@@ -67,3 +67,7 @@ The school committed-mesh comparison rendered successfully and was visually revi
 Attributed source-use update: [PR #1224](https://github.com/kevinrhaas/chicago/pull/1224). Complete camera/render/handoff recovery checkpoint: [post-approval baselines](https://github.com/kevinrhaas/chicago-tickets/tree/main/evidence/image-match-2026-10-22/post-approval-school-tremont-baselines). The original image-match acceptance remains open; no geometry or accepted-camera change was made.
 
 **Released 2026-10-23** (claim of school_lighthouse_castle_bridge 10/23/2026, 8:40:22 AM CT): Run wrapped after verified frozen recovery at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . School recess is prepared UNRUN; Wolf Point latest actual door/log comparison differs. Original full picture-match acceptance remains unfinished and unchanged; no matches or completion claimed. Source-origin identity/date uncertainty and owner-approved attributed school use are preserved.
+
+## Post-PR1456 remaining work estimate — 2026-10-30
+
+The original M estimate included source and identity review, camera solving and visible geometry. Those are completed in the retained native packet: MASTER fb141fef, accepted recipe 2fe83632, camera ca092679 and root-reviewed comparison 905bfca7 with all seven dispositions closed. Both required log producers are now canonical through merged PR1456, and current native recomputation still reproduces that recipe. Remaining work is one bounded twelve-path entrywise adoption, generated owners including alley lanes, and shared current app/source/PR qualification; sized S for this remaining unit. The original image gate, source/date/rights qualifications and done-on-merge acceptance remain unchanged. This is the remaining effort estimate, not a completion claim.
