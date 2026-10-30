@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 2:25:43 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41114463479
-claimed_at: 2026-10-30T19:25:44.108Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -109,3 +109,5 @@ The owner, after walking it on the phone (dev, 1904): "the front is very janky a
 **Released 2026-10-30** (claim of run 10/30/2026, 7:43:57 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41056855697): PR #1489 (the 18th Street pavilion's oculus in a banded pier between the pair and the triple, via a new K08 storey pier; the flank's banded east corner pier with the cornice and belt broken over it, via K01 piers on the side.north wall; Taylor's items 9 and 13 fixed) is up on resume while its CI gate finishes; the Prairie dormer's place through the plate's and Taylor's cameras, the 18th Street posts, the trees and ivy, the Albertype's round-arched front windows, and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-10-30** (claim of run 10/30/2026, 11:03:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41085472811): PR #1493 (18th Street's north parkway beside the house, 0-46.9 m: five trees at Taylor's no. 1445 trunks, checked against the Detroit print; Taylor's 18th Street places fixed, Detroit's within tolerance) is up on resume while its CI gate finishes; item 4 (the front judged as a whole — the two cameras disagree along the Prairie front by several metres), the Prairie dormer's place through the plate's and Taylor's cameras, the 18th Street posts, the trees' size and crowns, the Prairie parkway and lawn trees, the ivy, the Albertype's round-arched front windows and the unsolved CHM 1905 views remain, so the owner's ticket stays open
+
+**Released 2026-10-30** (claim of run 10/30/2026, 2:25:43 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41114463479): PR #1501 (the house's own Prairie Avenue parkway: four trees at the Detroit print's trunks, 232.0-256.0 m; within 3 px of the print, checked against the 1890 Albertype) is up on resume while its CI gate finishes; item 4 (the front judged as a whole), the Prairie dormer's place through the plate's and Taylor's cameras, the 18th Street posts (the Detroit print and Taylor's disagree there), the trees' size and crowns, the corner's second trunk, the lawn trees, the ivy, the Albertype's front window heads and the unsolved CHM 1905 views remain, so the owner's ticket stays open
