@@ -204,7 +204,6 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
-T-3250 — 1904 jaunt: notable women of Prairie Avenue
 T-3251 — 1835 jaunt: notable women of Chicago
 T-3252 — 1835 research: named Black residents and businesses before July 1835, jaunt only if placeable
 T-3253 — 1904 Prairie Avenue households: every resident family and live-in staff on the house cards

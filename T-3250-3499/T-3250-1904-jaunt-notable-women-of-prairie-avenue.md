@@ -1,7 +1,7 @@
 ---
 id: T-3250
 title: 1904 jaunt: notable women of Prairie Avenue
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-29
-closed: null
+closed: 2026-10-29
 pr: 1466
 claimed_by: run 10/29/2026, 9:10:43 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T03:11:24Z
 claimed_run: null
 claimed_at: 2026-10-30T02:10:44.393Z
 decision: null
