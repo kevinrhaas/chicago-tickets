@@ -1,7 +1,7 @@
 ---
 id: T-3254
 title: 1701 Prairie's light stone basement under the front, the bay and the south flank, and the street fence of interlaced loops on its stone curb, against the wide photograph
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1876
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/29/2026, 10:56:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40999407079
+claimed_at: 2026-10-30T03:56:22.548Z
 decision: null
 decision_answer: null
 ---
