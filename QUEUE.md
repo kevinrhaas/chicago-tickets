@@ -26,6 +26,7 @@
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading
+T-3259 — The moving-frames PR leg is cancelled by its own 30-minute timeout on a busy fleet: on 2026-10-30 PR #1463 ran it out on three successive heads (walk 10-20 min + phone 7-12 min) with zero FAILs, and #1470 the same — a cancel reads as red to the merge gate, so a green PR cannot merge without a blind merge; raise timeout-minutes or split the phone step into its own job
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
