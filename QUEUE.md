@@ -63,7 +63,10 @@ T-3164 — Pullman's glasshouses and lodge across 18th Street: the north-south a
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
-T-1876 — Finish 1701 Hibbard house and rear veranda architecture
+T-3254 — 1701 Prairie's light stone basement under the front, the bay and the south flank, and the street fence of interlaced loops on its stone curb, against the wide photograph
+T-3255 — 1701 Prairie's light stone hoods, eared and crested, over the round-headed lights of the front and the south flank, and the quoin pilasters with carved capitals at the corners and the bay, against the wide photograph
+T-3256 — 1701 Prairie's entrance in its tall round arch between the corner porch and the bay, against the wide photograph and the engraving
+T-3257 — 1701 Prairie's rear range: its bracketed cornice and low roof, its south face's lights, and the veranda's south end, against the rear photograph
 T-1904 — Refine 1905 Marshall Field Sr. mansion envelope
 T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
 T-1932 — Refine north-west alley coach houses and service courts
