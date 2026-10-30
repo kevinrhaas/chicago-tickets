@@ -205,6 +205,5 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
-T-3263 — Jaunt stops stand clear of trees and lamp posts: the stand-off rule steps along the walk to an unblocked view of the house
 T-3264 — Meet the Glessner House becomes a ten-stop walking tour around the property: a story from Glessner's own account, sourced details and key architecture, every stop on foot with an unblocked view
 T-3265 — Open a person's card from a building's People tab, with Back to the household
