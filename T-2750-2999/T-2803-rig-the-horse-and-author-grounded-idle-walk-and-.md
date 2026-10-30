@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: Codex root continuing own expired quiet-horse local integration and native world acceptance in this session 10/29/2026, 8:21:53 PM CT
+claimed_by: Codex root continuing same finite-qualified horse motion feature and remaining gait acceptance in this session 10/29/2026, 11:22:05 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T01:21:54.096Z
+claimed_at: 2026-10-30T04:22:06.375Z
 decision: null
 decision_answer: null
 ---
