@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex resumed school picture matching 10/30/2026, 8:14:00 AM CT
+claimed_by: Codex resumed school picture matching 10/30/2026, 10:33:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T13:14:01.436Z
+claimed_at: 2026-10-30T15:33:07.597Z
 decision: null
 decision_answer: null
 ---
