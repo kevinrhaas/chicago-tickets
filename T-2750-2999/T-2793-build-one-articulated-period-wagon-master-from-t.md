@@ -1,7 +1,7 @@
 ---
 id: T-2793
 title: Build one articulated period wagon master from the existing wagon families
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: Codex root continuing same checked78b11 PR1340 published acceptance and ordinary delivery in this session 10/30/2026, 12:41:26 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T05:41:27.029Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -289,3 +289,5 @@ PR1340 checked source remains78b11b7, clean281source. Published coverage15/30 ac
 ## Checked delivery update — 2026-10-30 07:49 UTC
 
 PR1340 frozen source remains78b11b7a8e49126a8a5724a4035ea961461a4f49; full1105PASS, committed-HEAD checks and normal feature push remain qualified. Current published group coverage18/30 accepted after desktop9 actual27/0PASS427.799s/original600. Desktop10 attempt01 completed native31/0PASS425.958s/original600 but is RESOURCE NONPASS: workspace526356480<536870912 at closure. Preserve original; a later healthy snapshot does not qualify it. Verified duplicate-only disk recovery and bounded Git pack relocation preserved all objects/source/results/captures, original floors unchanged. Fresh D10attempt02 and untouched D11/D12/D15 are next under independently reviewed identical native600 guards. Eight earlier phone13/14 anddesktop2/4/7/8/13/14 slots remain UNQUALIFIED. Historical strict memory readings stay tied to their original source. Public closed evidence e4c8288456383bfb45a97f2f2affa0affcee38d5. Current enforced environment policy still excludesapi.github.com; CI/PR merge access awaits applying the saved configuration. No direct DEV push, whole-gate PASS or broad occupied/rider/driver/photo acceptance claimed.
+
+**Released 2026-10-30** (claim of Codex root continuing same checked78b11 PR1340 published acceptance and ordinary delivery in this session 10/30/2026, 12:41:26 AM CT): Local continuation exhausted original-limit native runs: wagon20/30 accepted, tenUNQUALIFIED (phone13/14;desktop2/4/7/8/12/13/14/15). Do not count partial assertions or timeouts as PASS. Checked source remains normally pushed: Otis11140ef (full1108PASS/currentlocalpublish), horse2177b51 (full1109PASS/currentlocalpublish), wagon78b11b7 (full1105PASS/PR1340). Current GitHub API access is blocked by active policy; ordinary CI/required published checks and safe DEV merges remain pending. Branches, all primary source/results/captures and public evidence remain available; continue existing work after normal claim/readback, avoid duplicate PRs. Broader photographic/world/gait/riding/driving/people-interaction/town acceptance is unfinished; no broad ticket is marked done or review.

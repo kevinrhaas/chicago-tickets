@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root continuing checked11140 natural-idle source delivery while broader people acceptance stays open 10/30/2026, 2:23:06 AM CT
+claimed_by: null
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T07:23:11.256Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -79,3 +79,5 @@ Checked limited standing-idle feature is now ACTUALLY committed and normally pus
 ## Checked delivery update — 2026-10-30 07:49 UTC
 
 Otis natural-standing feature11140ef913ffb43e9f5c46a0d0f8a8166290dcb5 is normally pushed after actual full1108PASS781.896s/original1200 and five committed-HEAD checks. Current committed-HEAD canonical local publish49.653s/original300 plus check_published1.519s/original30 passed; source55/index/full5635mirror exact, cleanup0 and resources healthy. Original extra observer selected the root observatory page incorrectly; that failed observer is preserved separately from the corrected actual walk+1835 stamp closure. Eight GLB outputs are four Otis LODs in master/web forms, not eight people. Actual near idle completed8native seconds; full profile600timeout remains unqualified. Photo-quality master, walking/talking/working/facial/riding/driving/town population and canonical derivative ownership remain OPEN. Public evidence e2f1eb071521bcd8021365e5c536e839398e6dc8 and a5f2fa66292f11f2694113bd6553a97ca29b587d. No PR number, current green CI or DEV merge is claimed.
+
+**Released 2026-10-30** (claim of Codex root continuing checked11140 natural-idle source delivery while broader people acceptance stays open 10/30/2026, 2:23:06 AM CT): Local continuation exhausted original-limit native runs: wagon20/30 accepted, tenUNQUALIFIED (phone13/14;desktop2/4/7/8/12/13/14/15). Do not count partial assertions or timeouts as PASS. Checked source remains normally pushed: Otis11140ef (full1108PASS/currentlocalpublish), horse2177b51 (full1109PASS/currentlocalpublish), wagon78b11b7 (full1105PASS/PR1340). Current GitHub API access is blocked by active policy; ordinary CI/required published checks and safe DEV merges remain pending. Branches, all primary source/results/captures and public evidence remain available; continue existing work after normal claim/readback, avoid duplicate PRs. Broader photographic/world/gait/riding/driving/people-interaction/town acceptance is unfinished; no broad ticket is marked done or review.

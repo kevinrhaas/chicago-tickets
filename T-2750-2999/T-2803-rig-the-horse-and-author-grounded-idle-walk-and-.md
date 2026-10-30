@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: Codex root continuing checked2177 quiet-horse source delivery while broader gait acceptance stays open 10/30/2026, 2:23:03 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T07:23:03.908Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -243,3 +243,5 @@ Quiet-horse finite-qualified motion is awaiting its final fullH03 gate, now runn
 ## Checked delivery update — 2026-10-30 07:49 UTC
 
 Horse quiet head/neck feature2177b51b1f6d0c4aedfbc5374f4f1e2ce1fa7d1b is ACTUALLY committed and normally pushed after full1109PASS791.992s/original1200 and five committed-HEAD checks. Current committed-HEAD canonical local publish47.672s/original300 plus check_published1.619s/original30 passed; source117/index/full5640mirror exact, resources healthy and cleanup0. Finite129 qualification and all63 physical code/certificate pins remain unchanged; previous failed full gates are preserved, not relabeled. Actual outside world view moved head11.3cm but achieved5.636/12native seconds; full world cycle, photo master, gaits, riders, drivers and town traffic remain OPEN. Public evidence ba8a4ea2a69b38703a875815a945c26dcd569cb5. No current green CI or DEV merge is claimed.
+
+**Released 2026-10-30** (claim of Codex root continuing checked2177 quiet-horse source delivery while broader gait acceptance stays open 10/30/2026, 2:23:03 AM CT): Local continuation exhausted original-limit native runs: wagon20/30 accepted, tenUNQUALIFIED (phone13/14;desktop2/4/7/8/12/13/14/15). Do not count partial assertions or timeouts as PASS. Checked source remains normally pushed: Otis11140ef (full1108PASS/currentlocalpublish), horse2177b51 (full1109PASS/currentlocalpublish), wagon78b11b7 (full1105PASS/PR1340). Current GitHub API access is blocked by active policy; ordinary CI/required published checks and safe DEV merges remain pending. Branches, all primary source/results/captures and public evidence remain available; continue existing work after normal claim/readback, avoid duplicate PRs. Broader photographic/world/gait/riding/driving/people-interaction/town acceptance is unfinished; no broad ticket is marked done or review.
