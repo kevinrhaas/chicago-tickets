@@ -1,7 +1,7 @@
 ---
 id: T-3252
 title: 1835 research: named Black residents and businesses before July 1835, jaunt only if placeable
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-29
-closed: null
+closed: 2026-10-30
 pr: 1476
 claimed_by: run 10/29/2026, 10:42:16 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T06:41:40Z
 claimed_run: null
 claimed_at: 2026-10-30T03:42:17.842Z
 decision: null
