@@ -1,7 +1,7 @@
 ---
 id: T-3254
 title: 1701 Prairie's light stone basement under the front, the bay and the south flank, and the street fence of interlaced loops on its stone curb, against the wide photograph
-state: review
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,13 +10,13 @@ legacy_id: null
 parent: T-1876
 opened: 2026-10-29
 closed: null
-pr: 1473
-claimed_by: run 10/29/2026, 10:56:21 PM CT
+pr: null
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40999407079
-claimed_at: 2026-10-30T03:56:22.548Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1876 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Reopened 2026-10-30:** PR #1473 was closed without merging.
