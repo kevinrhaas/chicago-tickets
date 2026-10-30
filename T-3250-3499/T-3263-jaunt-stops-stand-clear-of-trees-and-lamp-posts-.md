@@ -1,7 +1,7 @@
 ---
 id: T-3263
 title: Jaunt stops stand clear of trees and lamp posts: the stand-off rule steps along the walk to an unblocked view of the house
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-30
 closed: null
-pr: null
+pr: 1491
 claimed_by: run 10/30/2026, 10:14:33 AM CT
 blocked_on: null
 needs_bake: false
