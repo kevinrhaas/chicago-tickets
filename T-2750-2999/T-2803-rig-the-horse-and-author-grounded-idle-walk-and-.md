@@ -233,3 +233,8 @@ Automatic deployment40008193719 succeeded. Public [DEV1835](https://chicago.pole
 [Final GitHub-backed receipts](https://github.com/kevinrhaas/chicago-evidence/tree/cc2949ee6457b78f0ad49356830b7e8ced143951/evidence/horse-pr1244-approved-delivery-2026-10-23) include exact normal CI, ordinary merge, public delivery and superseded1212 closure. Claim released for session wrap; broader photographic/gait criteria remain open in the existing queue position. Resume the final HANDOVER.md before claiming.
 
 **Released 2026-10-23** (claim of Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT): Exact CP7 encoder-memoryFAIL, CP8 clamp-loopFAIL and CP9 real Three LoopRepeat265PASS are pushed in chicago-evidence bdbac39 transport-refinement-resume-2026-10-23/FIFTH-CHECKPOINT. Ordinary gait footfall/reach, stop transitions, trot, visual and traffic criteria remain unfinished; shipping group is T3083/T3086/T3087.
+
+
+## Active delivery — 2026-10-30 06:13 UTC
+
+Quiet-horse finite-qualified motion is awaiting its final fullH03 gate, now running after a genuine settled53-owner rebuild and56 passing output checks. Physical runtime/model and all63 qualification pins/certificate remain unchanged. Earlier finite129/partial11.3cm native head motion are real, but full12 world cycle, gait/walk/trot/starts/stops/turns/riding/gear and photo acceptance remain OPEN. No horse feature commit or DEV merge is claimed.

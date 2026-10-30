@@ -279,3 +279,8 @@ Root reviewed all four V4B native images and accepted a bounded finer timber mat
 ## Active delivery — 2026-10-30 04:17 UTC
 
 Checked PR #1340 feature HEAD remains 78b11b7a8e49126a8a5724a4035ea961461a4f49. Full required preflight passed 1105 checks in845.806s (original1200 limit), with committed-HEAD checks and normal feature push. Actual published coverage accepted15/30: phone1–12 and15, desktop1 and3. Desktop3 native107checks/317.686s is supported by explicit reviewed resource-policy reconciliation; original failed guard retained. Desktop4–12 and15 are next. Phone13/14 and desktop2 timed out at the unchanged600s limit; desktop13/14 remain unrun. These five slots remain UNQUALIFIED, so the whole gate is PENDING. No DEV merge or broad photo-quality/occupied/rider/driver acceptance is claimed.
+
+
+## Active delivery — 2026-10-30 06:13 UTC
+
+PR1340 checked source remains78b11b7, clean281source. Published coverage15/30 accepted; six unqualified phone13/14 anddesktop2/4/13/14; nine untouched desktop5–12,15 queued behind exclusive horse/people gates. Desktop4 actual600.179timeout/cleanup0/source+fullmirror exact/resource healthy is preserved, not a pass. Root Git DEV05:32=944fc1d does not contain78b11 in history; no root DEV merge. Current GitHub API policy still excludesapi.github.com, so CI/ready/merge and long remote stages cannot be inspected/launched here. Ordinary safe merge remains intended only after real required checks.

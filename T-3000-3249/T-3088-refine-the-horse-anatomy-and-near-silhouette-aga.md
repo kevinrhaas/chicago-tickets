@@ -138,3 +138,8 @@ unmet anatomy/topology and source-comparison requirements. No fleet/breed varian
 ## Active delivery — 2026-10-30 04:17 UTC
 
 Quiet-horse local integration is staged TREE4278fa10062c3593ea2cf65f7bf41a4bee7d39b0 / APPbfc9fcdd77e694e9deb3f5d514d0f45b8fb559cf. Independent finite129-pose qualification passed and exact source/RAW are backed in chicago-evidence. Actual H6 local world check NONPASS431.955s: full framing passed, head surface moved0.113386m, hoof drift0.000005002m, but only5.636native animation seconds were observed against the unchanged12s full-cycle requirement. Partial media and original failures are preserved; this is not a world/full-cycle/photographic pass. A newly permitted owned17GB scratch filesystem removes the disk-space blocker for the still-required original full app check. No new feature commit or DEV delivery yet.
+
+
+## Active delivery — 2026-10-30 06:13 UTC
+
+Horse source117 is now staged TREEbfa54eae2cdfbaed609720ffae9f4bdac472a735/APPa47f2535c1f4e0cf9935d53e4bfc20a8a1c1c868. Proper native provenance/isolation repairs retain all63 qualification code pins, finite certificate, model/runtime bytes and old failures. Mandatory53-owner downstream rebuild actually settled in2laps; all56 affected checks passed; only expected source-use coverage report changed. Fresh original fullH03 app check is RUNNING; no horse feature commit/push yet. Prior Hfull01 failed2/1109 andHfull02 failed1/1109 are preserved. Actual outside H6 head movement11.3cm/hoofdrift5micrometers remains partial5.636/12native seconds, not fullworld/photo/gait acceptance. BroadT3088 remains OPEN.

@@ -109,3 +109,8 @@ A concrete external proposal applies Light mip selection to embedded GLB KTX2 im
 ## Active delivery — 2026-10-30 04:17 UTC
 
 The corrected checked PR1340 HEAD78b11b7 keeps the original memory ceilings and owned-anchor geometry assertion. Current published coverage is15/30 accepted; five groups remain unqualified after real native timeouts or explicit deferral. Historical memory numbers stay attached to their original tested source and are not silently retargeted. Resource policy now distinguishes memory.events.max cache reclaim from OOM: all other event counters must remain zero, max must not decrease, and the same RAM/disk reserve floors remain. DEV fetched03:49UTC does not contain78b11. No ticket acceptance is closed.
+
+
+## Active delivery — 2026-10-30 06:13 UTC
+
+Checked wagon source78b11b7 remains frozen; no ceiling change or retargeting of original memory numbers. Current native published coverage15/30, six unqualified, nine queued; prior actual timeouts remain failed. Real original strict readings remain tied to their tested source. Root has not mergedPR1340; ordinary CI and DEV delivery remain pending while local transport/people gates continue.
