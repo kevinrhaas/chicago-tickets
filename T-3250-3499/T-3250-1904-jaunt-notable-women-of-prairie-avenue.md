@@ -21,6 +21,8 @@ decision: null
 decision_answer: null
 ---
 
-1904 jaunt: notable women of Prairie Avenue.
+Owner, 2026-10-30 (project thread "Add women of Chicago jaunts"): *"add jaunts to both 1904 and 1835 for interesting historical women of the period and tour their properties and read fascinating compelling facts about their importance to chicago and the world today"*.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+A walking jaunt in the 1904 scene, north to south down Prairie Avenue, stopping only at houses the scene holds where a source puts a notable woman in 1904: 1608 (Henrietta Greenebaum Frank), 1700 (Frances Glessner Lee), 1720 (Mrs. James M. Walker / Ella Walker), 1800 (Frances M. Glessner), 1834 (Jane G. Jones), 2036 (the Buckingham house; Kate S. Buckingham), 2115 (Mrs. Philip D. Armour). Occupancy from the 1904 Blue Book as the Prairie library's civic dossier reads it; facts from the Glessner House family page, the Encyclopedia of Chicago, the National Library of Medicine, the Chicago Park District and the Jewish Women's Archive, each a source record.
+
+**Acceptance:** data/jaunts/prairie-notable-women.json compiles and shows in the 1904 Jaunts menu; every stop's facts are claims with a source and locator (or inferred with reasoning); no claim past what a source read says; new web sources carry tier 4 and an accessed date; gate green; phone and desktop show the jaunt.
