@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: bounded_dev_publisher 10/30/2026, 11:16:46 AM CT
+claimed_by: Codex continued four original picture matches 10/30/2026, 5:10:44 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T16:16:47.924Z
+claimed_at: 2026-10-30T22:10:45.272Z
 decision: null
 decision_answer: null
+group: T-2372,T-2375,T-2378
 ---
 
 Match the Dearborn Street drawbridge to its pictures.
