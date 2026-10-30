@@ -1,7 +1,7 @@
 ---
 id: T-2377
 title: Match Hogan's store, the first post office to its pictures
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-10-30
 pr: 1456
 claimed_by: Codex Chicago picture group renewal 10/29/2026, 2:27:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T21:42:36Z
 claimed_run: null
 claimed_at: 2026-10-29T19:27:38.302Z
 decision: null
