@@ -1,7 +1,7 @@
 ---
 id: T-3256
 title: 1701 Prairie's entrance in its tall round arch between the corner porch and the bay, against the wide photograph and the engraving
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1876
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1496
 claimed_by: run 10/30/2026, 11:49:28 AM CT
 blocked_on: null
 needs_bake: false
