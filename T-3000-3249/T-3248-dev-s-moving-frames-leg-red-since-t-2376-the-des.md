@@ -1,7 +1,7 @@
 ---
 id: T-3248
 title: Dev's moving-frames leg red since T-2376: the desktop GPU pick disagrees with the raycast on one of the 12 fixed 1835 yard-goods taps
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-29
-closed: null
+closed: 2026-10-29
 pr: 1461
 claimed_by: run 10/29/2026, 5:52:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T01:31:29Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/40968523979
 claimed_at: 2026-10-29T22:52:33.242Z
 decision: null
