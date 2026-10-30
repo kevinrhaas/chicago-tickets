@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 4:29:27 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41033109244
-claimed_at: 2026-10-30T09:29:28.036Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -103,3 +103,5 @@ The owner, after walking it on the phone (dev, 1904): "the front is very janky a
 **Released 2026-10-29** (claim of run 10/29/2026, 8:11:28 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40983527311): PR #1465 (owner's 2026-10-29 item 3: the walls' red-brick look — 1729 laid in a new K02 sandstone_fawn under 3 mm flush joints, its shade read off the Detroit and Taylor prints' wall/slate values) is up on resume while its CI gate finishes; item 4 (the front judged as a whole) and the image gate's open differences remain, so the owner's ticket stays open
 
 **Released 2026-10-30** (claim of run 10/29/2026, 11:22:37 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41001992775): PR #1475 (the large Prairie dormer's broken pediment, via a new K01 eared_hood.pediment; albertype_1890 and taylor_1445_album 'broken pediment' now fixed) is up on resume while its CI gate finishes; item 4 (the front judged as a whole), the dormer's place through the plate's and Taylor's cameras (new open differences), the oculus pier, the flank's east section, the 18th Street wall's balustrade and posts, and the trees and ivy remain, so the owner's ticket stays open
+
+**Released 2026-10-30** (claim of run 10/30/2026, 4:29:27 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41033109244): PR #1483 (the 18th Street wall's balustrade east of the third pier, via a new K11 coping-return balustrade, off Taylor's no. 1445) merged to dev; item 4 (the front judged as a whole), the oculus pier and the flank's east section, the Prairie dormer's place through the plate's and Taylor's cameras, the Detroit print's posts and panels along 18th Street, the trees and ivy, and the unsolved CHM 1905 views remain, so the owner's ticket stays open
