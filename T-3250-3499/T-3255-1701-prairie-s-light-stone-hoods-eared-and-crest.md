@@ -1,7 +1,7 @@
 ---
 id: T-3255
 title: 1701 Prairie's light stone hoods, eared and crested, over the round-headed lights of the front and the south flank, and the quoin pilasters with carved capitals at the corners and the bay, against the wide photograph
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1876
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1485
 claimed_by: run 10/30/2026, 5:24:26 AM CT
 blocked_on: null
 needs_bake: false
