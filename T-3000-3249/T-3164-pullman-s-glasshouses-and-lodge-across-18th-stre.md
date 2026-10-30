@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 2:44:49 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41115846184
-claimed_at: 2026-10-30T19:44:49.982Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -89,3 +89,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-30** (claim of run 10/30/2026, 3:25:09 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41025813349): piece shipped as PR #1481 (resume: CI gate still running when the run's two merge laps ended): the conservatory garden's planting read through the plate's and Lowe's cameras — two boxed standards with their masses, and the tall shrubs along the drive — drawn into all four views. The image gate stays open on the lodge's east face, the drive and walks, and the parkway trees (the plate's and Lowe's tree left of the gate, missing at e 1479.6, n -3212.0; Taylor's #p00 about 1 m east of their reading), so the ticket cannot close yet
 
 **Released 2026-10-30** (claim of run 10/30/2026, 10:11:23 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41077302883): piece shipped as PR #1492 (resume: CI gate still running when the run's two merge laps ended): the gate's two parkway trees placed and sized off the 1894 conservatory plate and Lowe's print (the tree left of the gate planted on Calumet's parkway; the corner tree moved 1.7 m west, off the west pier; both at scale 0.6, read off their trunks). The image gate stays open on the lodge's east face, the drive and walks, and the parkway trees' crown form (the street-tree layer grows only the vase elm), so the ticket cannot close yet
+
+**Released 2026-10-30** (claim of run 10/30/2026, 2:44:49 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41115846184): piece shipped as PR #1503 (resume: CI gate still running when the run's two merge laps ended): the glasshouse ground's gravel drive between the gate's wings, the walk east of the east pier to a forecourt along the conservatory's north front, and the stone coping on the lot line west of the gate, all read through the plate's and Lowe's cameras; 'the drive, the walks and the lawn's edges' is fixed on all four views. The image gate stays open on the lodge's east face, the parkway trees' crown form, and the pale line along the lawn's far side (read, not built), so the ticket cannot close yet
