@@ -1,7 +1,7 @@
 ---
 id: T-1789
 title: Build the first modular 1835 human library in Blender on the shared portable rig
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 10/30/2026, 10:04:12 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-30T15:04:16.084Z
 decision: null
 decision_answer: null
 ---
