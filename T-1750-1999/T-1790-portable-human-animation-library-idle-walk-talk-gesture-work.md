@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root continuing same natural Otis idle feature and remaining published acceptance in this session 10/29/2026, 11:22:08 PM CT
+claimed_by: Codex root continuing checked11140 natural-idle source delivery while broader people acceptance stays open 10/30/2026, 2:23:06 AM CT
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T04:22:09.016Z
+claimed_at: 2026-10-30T07:23:11.256Z
 decision: null
 decision_answer: null
 ---
