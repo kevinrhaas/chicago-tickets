@@ -200,5 +200,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
-T-3266 — Former residents on 1904 Prairie People cards, and why-empty notes for unlisted houses
 T-3268 — Miller House's flat sign lettering hidden 0.17 m behind its own wall since the T-2381 low log wing (dev's desktop smoke part 1 red)

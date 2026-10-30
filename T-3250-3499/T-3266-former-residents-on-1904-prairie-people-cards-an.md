@@ -1,7 +1,7 @@
 ---
 id: T-3266
 title: Former residents on 1904 Prairie People cards, and why-empty notes for unlisted houses
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-30
-closed: null
+closed: 2026-10-30
 pr: 1499
 claimed_by: run 10/30/2026, 12:14:00 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T23:47:21Z
 claimed_run: null
 claimed_at: 2026-10-30T17:14:01.358Z
 decision: null
