@@ -133,3 +133,8 @@ unmet anatomy/topology and source-comparison requirements. No fleet/breed varian
   rights-pending references or invent Chicago ownership.
 - Use the supported canonical build path, without installing Blender on the
   improve runner. Hand exact accepted master hashes to the surface/LOD sibling.
+
+
+## Active delivery — 2026-10-30 04:17 UTC
+
+Quiet-horse local integration is staged TREE4278fa10062c3593ea2cf65f7bf41a4bee7d39b0 / APPbfc9fcdd77e694e9deb3f5d514d0f45b8fb559cf. Independent finite129-pose qualification passed and exact source/RAW are backed in chicago-evidence. Actual H6 local world check NONPASS431.955s: full framing passed, head surface moved0.113386m, hoof drift0.000005002m, but only5.636native animation seconds were observed against the unchanged12s full-cycle requirement. Partial media and original failures are preserved; this is not a world/full-cycle/photographic pass. A newly permitted owned17GB scratch filesystem removes the disk-space blocker for the still-required original full app check. No new feature commit or DEV delivery yet.

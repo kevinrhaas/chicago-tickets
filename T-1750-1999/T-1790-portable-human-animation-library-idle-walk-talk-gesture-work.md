@@ -64,3 +64,8 @@ instead of embedding bespoke actions in every character file.
 Named-person source motion/CI authoring parcel is being archived; actual BPy/export, loaded contact and scene acceptance remain pending T1789. No anonymous replacement. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
 
 **Released 2026-10-21** (claim of parallel people motion 10/18/2026, 10:06:49 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+
+## Active delivery — 2026-10-30 04:17 UTC
+
+Actual P6 local world close-up completed the unchanged full8.0native-second idle in115.729real seconds/33frames, LOD0, renderer advance32, no GLerror, footwear endpoint drift exactly0. Head/neck/spine rotation changes0.155776/0.051857/0.024132rad establish actual natural idle motion. The complete profile nevertheless timed out at600.131s; mid/card/full-profile acceptance is NOT passed. Actual PNGs and failure records are preserved. Root viewed the character and keeps photo-quality acceptance open. Source remains staged TREEeee92b422b653b68593fbfeab11c3c4b37122247; mandatory whole-app check is pending, with scratch-space blocker now resolved. No DEV delivery or walking/riding/driving acceptance claimed.

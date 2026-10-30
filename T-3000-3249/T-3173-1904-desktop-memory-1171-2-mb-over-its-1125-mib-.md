@@ -104,3 +104,8 @@ The current transport delivery also hits this existing memory blocker. Reduce ac
 Exact wagon source35f64 CI run40373250666 failed1904 desktop1174.7 MiB and mobile454.0 MiB; other1812/1835 readings and still-frame jobs passed. The guarded historical local carriage E97 mobile baseline measured446.8 MiB; its source, mirror, metric breakdown and cleanup are retained. Existing source arrays are already released in several paths, so estimates alone do not establish a new saving.
 
 A concrete external proposal applies Light mip selection to embedded GLB KTX2 images and releases uploaded desktop compressed levels while retaining encoded recovery data. It remains unadopted and unqualified by the actual browser meter. No ceiling increase, unchanged CI rerun or waiver is proposed. Checked transport source/evidence checkpoint: kevinrhaas/chicago-evidence, commit73375c5ba46b892f0e56b56278e9b5d1665e6292, evidence/transport-photoquality-2026-10-26/CHECKPOINT-07-CHECKED-SOURCES-AND-CANONICAL-OUTPUTS.
+
+
+## Active delivery — 2026-10-30 04:17 UTC
+
+The corrected checked PR1340 HEAD78b11b7 keeps the original memory ceilings and owned-anchor geometry assertion. Current published coverage is15/30 accepted; five groups remain unqualified after real native timeouts or explicit deferral. Historical memory numbers stay attached to their original tested source and are not silently retargeted. Resource policy now distinguishes memory.events.max cache reclaim from OOM: all other event counters must remain zero, max must not decrease, and the same RAM/disk reserve floors remain. DEV fetched03:49UTC does not contain78b11. No ticket acceptance is closed.
