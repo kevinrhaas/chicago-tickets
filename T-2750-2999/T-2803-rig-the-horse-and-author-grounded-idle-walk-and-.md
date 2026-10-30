@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: Codex root continuing own expired horse-motion claim and frozen qualified binding repair on existing ddb77c3 branch 10/29/2026, 5:20:01 PM CT
+claimed_by: Codex root continuing own expired quiet-horse local integration and native world acceptance in this session 10/29/2026, 8:21:53 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-29T22:20:02.333Z
+claimed_at: 2026-10-30T01:21:54.096Z
 decision: null
 decision_answer: null
 ---
