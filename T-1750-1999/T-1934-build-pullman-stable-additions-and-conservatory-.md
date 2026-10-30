@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive session (Kevin's thread: stable surfaces and colour, horse path, estate grounds) 10/29/2026, 8:25:21 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T01:25:22.468Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -98,3 +98,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-29** (claim of run 10/29/2026, 3:14:05 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40946226768): PR #1458 (resume: gate still running, nothing red) places 18th Street's parkway trees before the estate off the 1894 Inland plate and Taylor's 16555 (data/street_trees/pictured_1904.json: six trees in place of four, the tree before Taylor's eye and the plate's foreground trunk withdrawn) after re-solving 16555's camera with the street's ground in its fit (eye 11.7 m further south in the garden across 18th Street, focal 1192 px, 6.9 px rms); through it the stable's eave (now about 12 px, 0.4 m, the plate disagreeing) and the wing's length (within 4 px) go within tolerance. Still open in the match records: the clipped shrubs and potted palms, the terrace's two-flight approach, the court's way (re-read: the print's piers at x 500-520, 580-600, 775-800 against the build's one at 535-570), the north block's lower roof, the lamp post. Not split: the gate stays on this ticket.
 
 **Released 2026-10-29** (claim of run 10/29/2026, 6:33:01 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40972364114): PR #1463 (resume: gate still running, nothing red) stands the 1894 Inland plate's summer tub plants on the 1729 lot: a sheared ball on its tub on the palm house's terrace (on the baked terrace floor), a ball on a clear stem in a tub before the stable's west arcade, and a slim clipped column inside the 18th Street wall by its east pier (Taylor's 16555 too); tubs hidden in winter; all inferred for 1904 (L-pullman-terrace-tubs-1934). Still open in the match records: the plate's cone in its tub and tall evergreens by its second flight (with the terrace's two-flight approach), Taylor's potted palms, the court's way, the north block's lower roof, the lamp post. Not split: the gate stays on this ticket.
+
+**Released 2026-10-30** (claim of interactive session (Kevin's thread: stable surfaces and colour, horse path, estate grounds) 10/29/2026, 8:25:21 PM CT): PR 1470 merged to dev 2026-10-30 (owner's ask: stable colour, horse path to the stable and side entrance, no plants blocking, estate grounds): two carriage drives, stable + palm range stone re-read against the house's fawn wall, gateway keep-clear rule. Its nine photo-match records still say differs (terrace flights, piers, planting, corner bay), so the image gate keeps it open; released for the next run.
