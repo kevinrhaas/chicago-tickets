@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Canonical quiet-head/neck finite proof saved — 29 October 2026, 7:48 PM CT
+
+The final original 129-phase posed socket check has passed in 153.530 seconds, preserving all 110 frozen Phase A source records and qualifying-code pins. BODY maximum 13.770834107242mm, contact maximum 6.247168224021mm, zero new crossings; original 14mm/7mm limits unchanged. Actual native runtime/master vertex, shader-normal and bone parity remains exactly zero at all sampled phases; tail remains the old quiet motion while head/neck retains the measured full-amplitude motion. The finite record passed in 1.068 seconds with SHA256 `badca71fb2ab7596be9447adaf01b3d035d5a59c7b844bc27b500d0a004d78a6`.
+
+[All canonical static/native/posed receipts and 516 actual Float64 captures are public](https://github.com/kevinrhaas/chicago-evidence/tree/1fdc31e69facf49ca851dc32fa9a13bdd74d6a6c/evidence/transport-photoquality-2026-10-29/ROOT-HORSE-V6-ACTUAL-CANONICAL-RAW129-AND-WAGON-DESKTOP1). This finite sampled qualification does not establish continuous/world motion, photographic anatomy, gait or whole-ticket acceptance. Active bd443 and placements remain unchanged. Outside helper/adoption and world-observer source review continues; no runtime installation or DEV merge is asserted.
+
 ## Checked PR1340 delivery and horse canonical progress — 29 October 2026, 7:19 PM CT
 
 First-class Phase A source, static and native quiet-head/neck qualification have now actually passed. The runtime derivative contains only the exact named quiet15 clip; authored history retains the old13 and unqualified17 separately. All original physical limits passed at 129 phases; runtime/master complete vertex/shader-normal/bone parity is exact, tail remains unchanged, and full-amplitude head/neck movement is measured. Actual independent paired925 capture contains all 516 Float64 arrays / 59,214,096 bytes. Source/index/current qualifying pins stayed frozen and native resources closed cleanly.

@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Actual finite quiet head/neck qualification complete — 29 October 2026, 7:48 PM CT
+
+All canonical Phase A phases have now closed successfully on frozen TREE `bc697721852b6a3fb2e2dc5850dcebf693ad0089`, APP `4367c7e1d1a19226d28ea34e3da218e823336db5`, all 110 source records and current qualifying-code pins unchanged. Source controls passed in 7.788 seconds, static qualification in 11.102 seconds, real native loader/Mixer capture in 47.128 seconds, and the original 129-phase posed socket traversal in 153.530 seconds. The posed maximum BODY distance was 13.770834107242mm and contact distance 6.247168224021mm, under the unchanged 14mm/7mm limits, with zero new crossings. All five actual capture-corruption controls were detected. Each command retained its original limit and complete owned-process cleanup.
+
+The actual finite record passed in 1.068 seconds; certificate SHA256 `badca71fb2ab7596be9447adaf01b3d035d5a59c7b844bc27b500d0a004d78a6`. It covers the finite 129 sampled phases only. [All actual canonical receipts, frame inventory and 516 raw Float64 captures are GitHub-backed](https://github.com/kevinrhaas/chicago-evidence/tree/1fdc31e69facf49ca851dc32fa9a13bdd74d6a6c/evidence/transport-photoquality-2026-10-29/ROOT-HORSE-V6-ACTUAL-CANONICAL-RAW129-AND-WAGON-DESKTOP1). Complete Phase A source recovery remains in public commit `29b82a26`.
+
+Active selection is still the earlier bd443 eye-only child. The new helper, integration plan and passive world observer are under independent source review outside the application. No runtime adoption, published desktop/phone motion acceptance, new horse app commit or DEV merge has happened. Tail gesture, walk/trot, riding, driving, town traffic and broader photographic acceptance remain open.
+
 ## Checked PR1340 delivery and horse canonical progress — 29 October 2026, 7:19 PM CT
 
 The first-class quiet head/neck implementation is staged as Phase A: TREE `bc697721852b6a3fb2e2dc5850dcebf693ad0089`, APP `4367c7e1d1a19226d28ea34e3da218e823336db5`, 110 frozen source records. Independent review verified 19 additions and only two approved prefix-preserving licence appends; original qualifying code and active bd443 selection remain preserved.

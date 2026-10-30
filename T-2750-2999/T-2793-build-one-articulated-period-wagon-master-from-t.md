@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Published acceptance continues — 29 October 2026, 7:48 PM CT
+
+PR #1340 remains at checked `78b11b7a8e49126a8a5724a4035ea961461a4f49`; application source/index/publication are unchanged. Fresh published phone part 4 passed 44/0 in 211.180 seconds, part 5 passed 30/0 in 335.166 seconds, and part 6 passed 24/0 in 256.215 seconds. Each used its original 600-second limit, closed all owned children and retained exact before/after source, index and all 5,637 mirror members. Along with phone parts 1–3 and desktop part 1, seven of 30 required part/view slots have passed. These partial results do not establish the whole gate or photographic acceptance.
+
+The serial external controller stopped after part 6 with a broken output pipe; the native test had already passed and closed. The replacement validates all three actual results, cleanups, transcript counts and complete source/mirror bindings before skipping exactly those completed groups. Its output now goes to a durable file. Phone part 7 is running; 22 native commands remain including that active command. Original assertions and per-command limits are unchanged.
+
+Supported cloud status still reports enforced restricted networking without `api.github.com`. The saved network draft is not applied; GitHub CI dispatch, readiness and ordinary DEV merge remain pending. The native PR lap was renewed only after this session's own prior lease expired. This ticket's broader acceptance remains open.
+
 ## Checked PR1340 delivery and horse canonical progress — 29 October 2026, 7:19 PM CT
 
 The final wagon observer correction is now normally pushed on PR #1340 as `78b11b7a8e49126a8a5724a4035ea961461a4f49`. Root independently verified both the feature ref and pull-request head. Exact tested TREE `bac0441d0b3cb0db4815b7b6e4a0fd049a365192`, APP `ee7822334b9e11c2321d243b26ecf65ca095656a`; full required preflight passed all 1,105 checks in 845.806 seconds, with the original 1,200-second limit and complete cleanup. All five real new-HEAD checks passed; canonical committed publication passed in 48.970 seconds. The historical 600-second preflight cost target was missed; no limit was raised by this run.
