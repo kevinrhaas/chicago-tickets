@@ -1,7 +1,7 @@
 ---
 id: T-3254
 title: 1701 Prairie's light stone basement under the front, the bay and the south flank, and the street fence of interlaced loops on its stone curb, against the wide photograph
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1876
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1473
 claimed_by: run 10/30/2026, 12:28:26 AM CT
 blocked_on: null
 needs_bake: false
