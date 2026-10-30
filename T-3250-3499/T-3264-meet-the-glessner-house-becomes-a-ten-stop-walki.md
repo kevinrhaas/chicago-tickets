@@ -1,7 +1,7 @@
 ---
 id: T-3264
 title: Meet the Glessner House becomes a ten-stop walking tour around the property: a story from Glessner's own account, sourced details and key architecture, every stop on foot with an unblocked view
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-30
 closed: null
-pr: null
+pr: 1497
 claimed_by: run 10/30/2026, 10:31:56 AM CT
 blocked_on: null
 needs_bake: false
