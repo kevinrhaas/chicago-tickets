@@ -205,3 +205,4 @@ T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
+T-3250 — 1904 jaunt: notable women of Prairie Avenue
