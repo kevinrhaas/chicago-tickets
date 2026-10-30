@@ -207,3 +207,4 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3250 — 1904 jaunt: notable women of Prairie Avenue
 T-3251 — 1835 jaunt: notable women of Chicago
+T-3252 — 1835 research: named Black residents and businesses before July 1835, jaunt only if placeable
