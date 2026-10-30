@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 2:30:53 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41019658689
-claimed_at: 2026-10-30T07:30:54.016Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -100,3 +100,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-29** (claim of run 10/29/2026, 6:33:01 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/40972364114): PR #1463 (resume: gate still running, nothing red) stands the 1894 Inland plate's summer tub plants on the 1729 lot: a sheared ball on its tub on the palm house's terrace (on the baked terrace floor), a ball on a clear stem in a tub before the stable's west arcade, and a slim clipped column inside the 18th Street wall by its east pier (Taylor's 16555 too); tubs hidden in winter; all inferred for 1904 (L-pullman-terrace-tubs-1934). Still open in the match records: the plate's cone in its tub and tall evergreens by its second flight (with the terrace's two-flight approach), Taylor's potted palms, the court's way, the north block's lower roof, the lamp post. Not split: the gate stays on this ticket.
 
 **Released 2026-10-30** (claim of interactive session (Kevin's thread: stable surfaces and colour, horse path, estate grounds) 10/29/2026, 8:25:21 PM CT): PR 1470 merged to dev 2026-10-30 (owner's ask: stable colour, horse path to the stable and side entrance, no plants blocking, estate grounds): two carriage drives, stable + palm range stone re-read against the house's fawn wall, gateway keep-clear rule. Its nine photo-match records still say differs (terrace flights, piers, planting, corner bay), so the image gate keeps it open; released for the next run.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 2:30:53 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41019658689): PR #1479 (resume: gate still running, nothing red) stands three tub plants on the palm-house terrace where the 1894 plate's and Taylor 16555's pixel columns cross: the slim column against the drum's west side, the cone before the wing's arched door, and 16555's palm before the drum (new phoenix_tub habit); and restores Pullman's west-front ivy, which T-1881's porch had moved out of the planter's band (dev's file has none since #1470). Still open in the match records: the plate's evergreen mass and potted conifer by its second flight (with the terrace's two-flight approach), the shrubs before the terrace where 16555 shows the flights open, the court's way, the north block's lower roof, the lamp post. Not split: the gate stays on this ticket.
