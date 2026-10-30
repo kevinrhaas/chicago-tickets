@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Carpenter picture match 2026-10-29 10/30/2026, 1:00:59 PM CT
+claimed_by: Codex current four-picture batch reclaim verified cold branches no open PR 10/30/2026, 5:13:22 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T18:01:00.609Z
+claimed_at: 2026-10-30T22:13:22.858Z
 decision: null
 decision_answer: null
+group: T-2372,T-2375,T-2378,T-2382
 ---
 
 Match Philo Carpenter's log shop (the Sauganash's log wing) to its pictures.

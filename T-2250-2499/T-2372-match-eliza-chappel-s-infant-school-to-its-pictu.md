@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-10-30T22:06:51.181Z
 decision: null
 decision_answer: null
-group: T-2372,T-2375,T-2378
+group: T-2372,T-2375,T-2378,T-2382
 ---
 
 Match Eliza Chappel's infant school to its pictures.
