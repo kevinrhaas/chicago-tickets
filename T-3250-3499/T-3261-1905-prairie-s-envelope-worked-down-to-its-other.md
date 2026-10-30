@@ -1,7 +1,7 @@
 ---
 id: T-3261
 title: 1905 Prairie's envelope worked down to its other pictures (the c. 1905 Daily News view DN-0003324, the undated '923' print, the 1893 engraving): their cameras, the south-west corner's pavilion, the conservatory's glazing and its balcony, the rear and north faces, and the rear, roof and cost views the envelope's acceptance asks for
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1904
 opened: 2026-10-30
 closed: null
-pr: null
+pr: 1509
 claimed_by: run 10/30/2026, 5:14:23 PM CT
 blocked_on: null
 needs_bake: false
