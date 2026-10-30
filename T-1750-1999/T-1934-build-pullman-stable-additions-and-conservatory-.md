@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 6:58:41 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41051029203
-claimed_at: 2026-10-30T11:58:41.905Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -104,3 +104,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-10-30** (claim of run 10/30/2026, 2:30:53 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41019658689): PR #1479 (resume: gate still running, nothing red) stands three tub plants on the palm-house terrace where the 1894 plate's and Taylor 16555's pixel columns cross: the slim column against the drum's west side, the cone before the wing's arched door, and 16555's palm before the drum (new phoenix_tub habit); and restores Pullman's west-front ivy, which T-1881's porch had moved out of the planter's band (dev's file has none since #1470). Still open in the match records: the plate's evergreen mass and potted conifer by its second flight (with the terrace's two-flight approach), the shrubs before the terrace where 16555 shows the flights open, the court's way, the north block's lower roof, the lamp post. Not split: the gate stays on this ticket.
 
 **Released 2026-10-30** (claim of run 10/30/2026, 5:21:21 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41038481414): PR #1484 (resume: gate still running, nothing red) triangulates the 1894 Inland plate against Taylor's 16555 through their solved cameras: the plate's raised balustrade and 16555's porch balustrade meet within 0.04 m at u -9.8 to -6.2, v about -22, rail foot 2.3 m — the house's raised porch toward 18th Street (the house record's, not built), not a landing on the palm terrace; 16555's 'west flight' is that porch's stair, and the terrace's own flight reads as built in both pictures. Match records rewritten. Still open: the house porch and its stair (house record), the court's piers either side of its mouth, the north block's lower roof, the planting, the lamp post. A camera for the c. 1900 Detroit view (det-4a08066) was tried and withdrawn (13-30 px residuals: a corner misread in the print). Not split: the gate stays on this ticket.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 6:58:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41051029203): PR #1488 (resume: gate still running, nothing red) lowers the stable's north block deck to 8.2 m and runs it from v 0.3 to the block's north end, read off the 1894 Inland plate's cresting through its camera; the plate item 'the north block's lower roof' is fixed in both plate records. Still open in the match records: the house's raised porch and its stair (house record), the court's piers either side of its mouth, the planting, the lamp post. Not split: the gate stays on this ticket.
