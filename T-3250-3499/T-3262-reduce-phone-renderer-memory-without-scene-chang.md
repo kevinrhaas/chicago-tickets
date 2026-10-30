@@ -1,7 +1,7 @@
 ---
 id: T-3262
 title: Reduce phone renderer memory without scene changes
-state: review
+state: done
 epic: RENDERING
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-30
-closed: null
+closed: 2026-10-30
 pr: 1486
 claimed_by: Codex phone renderer memory support 2026-10-30 10/30/2026, 7:07:11 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T21:47:36Z
 claimed_run: null
 claimed_at: 2026-10-30T12:07:12.875Z
 decision: null
