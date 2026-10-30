@@ -1,7 +1,7 @@
 ---
 id: T-3260
 title: 1905 Prairie, the Marshall Field house, onto K01 from the 1893 Pictorial Chicago plate (a19-pictorial-1893-field): its camera solved, the red brick Second Empire block on its light stone basement, the crested mansard with its dormers, the front's door bay and window columns, the south flank's angular bay and curved conservatory, the north range at the rear, and the scroll-pattern fence
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1904
 opened: 2026-10-30
 closed: null
-pr: null
+pr: 1482
 claimed_by: run 10/30/2026, 3:55:53 AM CT
 blocked_on: null
 needs_bake: false
