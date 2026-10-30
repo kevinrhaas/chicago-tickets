@@ -1,7 +1,7 @@
 ---
 id: T-3258
 title: 1904 Prairie households: live-in staff and children from the 1900 census (T623 roll 245, EDs 36 and 40)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1474
 claimed_by: run 10/29/2026, 10:57:42 PM CT
 blocked_on: null
 needs_bake: false
