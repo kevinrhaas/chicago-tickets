@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 5:00:28 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41133533880
-claimed_at: 2026-10-30T22:00:28.622Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -122,3 +122,5 @@ This ticket's part (the house), plus two more from the same thread:
 - *"for pullman on the frontage to prairie, i am not convinced you have it right, you see it is stepped back three steps from the north side of the building, the entry way is integrated into the middle step and then there is a third step that is a corner"* (the Detroit print, cgn-1729-pullman-1901-detroit-copy / LoC det 4a08065).
 
 Fix first, before further detail: (1) the Prairie front as three steps back from the north side, the entry in the middle step, the third a corner; (2) the house's rear (east) face and the east wing as 16554 shows them, stepped, with the balcony; (3) the porte-cochère symmetrical, with its corners and arches detailed. The interactive thread takes this ticket when the current run releases it.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 5:00:28 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41133533880): PR #1506 (1729's ivy as one level-topped mantle over the ground storey south of the portico and the 18th Street flank, off the Detroit print, windows kept clear; new creeper_walls + mantle habit) is up on resume: CI moving-frames read the light tier's flight 24.9 ms over 21 ms and a re-run is queued; item 4 (the front judged as a whole), the ivy over the window heads and on the porte-cochere and porch piers, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
