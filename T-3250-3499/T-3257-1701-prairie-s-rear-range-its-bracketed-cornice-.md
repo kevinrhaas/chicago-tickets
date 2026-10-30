@@ -1,7 +1,7 @@
 ---
 id: T-3257
 title: 1701 Prairie's rear range: its bracketed cornice and low roof, its south face's lights, and the veranda's south end, against the rear photograph
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1876
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 2:50:30 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41116646826
-claimed_at: 2026-10-30T19:50:31.700Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1876 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-10-30** (claim of run 10/30/2026, 2:50:30 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41116646826): Rear view done on PR #1502 (ghm_rear now 'matches': range cornice, lights by storey; the veranda's end and the cornice's height are within tolerance because the two fits disagree). As the last piece of T-1876 it is held by the house's image gate: chicagology_front keeps 2 open items, written in its match record — the round-headed basement lights under the bay's pair and the lower south range's light (a K08 storey can't stack a second light in one column or cut one below its plinth; needs a basement storey in those faces), and T-3256's stoop flight standing over the fence in front of the porch podium. PR #1502 is 'resume' only because its gate was still running.
