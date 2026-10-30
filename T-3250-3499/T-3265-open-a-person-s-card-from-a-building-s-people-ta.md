@@ -1,7 +1,7 @@
 ---
 id: T-3265
 title: Open a person's card from a building's People tab, with Back to the household
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-30
-closed: null
+closed: 2026-10-30
 pr: 1498
 claimed_by: run 10/30/2026, 11:26:54 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-30T19:03:40Z
 claimed_run: null
 claimed_at: 2026-10-30T16:26:55.637Z
 decision: null
