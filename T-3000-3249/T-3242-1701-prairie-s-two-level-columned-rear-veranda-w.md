@@ -1,7 +1,7 @@
 ---
 id: T-3242
 title: 1701 Prairie's two-level columned rear veranda with its balustrades and garden steps, and the rear range's corbelled oriel, against the rear photograph
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1875
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1467
 claimed_by: run 10/29/2026, 8:38:13 PM CT
 blocked_on: null
 needs_bake: false
