@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/30/2026, 5:32:29 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T22:32:30.393Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -122,3 +122,5 @@ This ticket's part, taken first by that thread (interactive):
 3. **The stable's surface detail**: framed sash, sills, lintels/hoods, quoins and the belt course as 16554 and the plate show; flat walls with dark rectangles read unfinished.
 4. **The palm house ("glass atrium")**: its stone (columns, entablature, balustrade, terrace, steps) renders white; every picture shows it in the house's own stone. More detail on the drum: glazing bars, the big columns, the ribbed dome.
 5. **The hydrant** 16554 shows by the stable's wall.
+
+**Released 2026-10-30** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/30/2026, 5:32:29 PM CT): PR 1507 landed on dev (cupola, ashlar, framed windows, r5 off, palm house stone + glazing bars, hydrant); match records still differ — gaps written in them
