@@ -1,7 +1,7 @@
 ---
 id: T-3253
 title: 1904 Prairie Avenue households: every resident family and live-in staff on the house cards
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1469
 claimed_by: run 10/29/2026, 9:27:44 PM CT
 blocked_on: null
 needs_bake: false
