@@ -21,6 +21,16 @@ decision: null
 decision_answer: null
 ---
 
+## Checked PR1340 delivery and horse canonical progress — 29 October 2026, 7:19 PM CT
+
+The final wagon observer correction is now normally pushed on PR #1340 as `78b11b7a8e49126a8a5724a4035ea961461a4f49`. Root independently verified both the feature ref and pull-request head. Exact tested TREE `bac0441d0b3cb0db4815b7b6e4a0fd049a365192`, APP `ee7822334b9e11c2321d243b26ecf65ca095656a`; full required preflight passed all 1,105 checks in 845.806 seconds, with the original 1,200-second limit and complete cleanup. All five real new-HEAD checks passed; canonical committed publication passed in 48.970 seconds. The historical 600-second preflight cost target was missed; no limit was raised by this run.
+
+The targeted published phone parts 2–3 passed all 209 checks, including the restored original 4.6-metre bound against every owned wagon vertex's own anchor and the displaced actual-point control. Root and independent review approved the exact source and exhaustive generated-publication bridge: 281 source rows/index unchanged, all 5,637 mirror members accounted for, 17 stamp/pack/board changes explained separately, original run identity preserved. Fresh committed phone part 1 passed 95/0 in 157.171 seconds; desktop part 1 passed 95/0 in 483.298 seconds. Root viewed both actual screenshots as bounded arrival UI/scene evidence, not wagon photographic acceptance.
+
+There are 25 native published commands remaining, covering the other 26 of 30 part/view slots. The planner's historical estimate is about 2h50m locally, not a guaranteed finish time. One browser owner, unchanged native limits, exact source/mirror guards and stop-on-failure remain. Current GitHub CI, ready state and ordinary DEV merge cannot be verified while the enforced API network rule remains unapplied. This ticket's broad photo/occupied-use/rider/traffic acceptance remains open.
+
+[Complete checked wagon and frozen horse Phase A source recovery](https://github.com/kevinrhaas/chicago-evidence/tree/29b82a26a70c159f57d9ee1e07692b8b825a4c38/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-78B11B7-CHECKED-AND-HORSE-PHASEA-COMPLETE). This immutable packet predates the later canonical static/native runs described above; those actual receipts remain local pending the next checkpoint. Ticket state and acceptance remain unchanged.
+
 ## Latest wagon correction and actual horse prototype — 29 October 2026, 6:46 PM CT
 
 Independent review found a concrete gap in dce675's smoke ownership branch: an owned wagon point outside its shed bay could bypass the original4.6m bound. Current geometry is byte-exact, but the assertion gap is real and the earlier statement that every tongue bound was preserved is superseded by this correction. The new smoke-only patch measures every owned point against its OWN wagon anchor, retains the original4.6m bar, and rejects a copied actual outside-bay point displaced10m through the same measurement/acceptance functions. Both independent reviewers cleared it; no analogous bench/shed/metadata bypass was found.

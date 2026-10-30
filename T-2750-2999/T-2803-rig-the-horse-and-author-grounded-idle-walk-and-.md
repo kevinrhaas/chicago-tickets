@@ -21,6 +21,16 @@ decision: null
 decision_answer: null
 ---
 
+## Checked PR1340 delivery and horse canonical progress — 29 October 2026, 7:19 PM CT
+
+The first-class quiet head/neck implementation is staged as Phase A: TREE `bc697721852b6a3fb2e2dc5850dcebf693ad0089`, APP `4367c7e1d1a19226d28ea34e3da218e823336db5`, 110 frozen source records. Independent review verified 19 additions and only two approved prefix-preserving licence appends; original qualifying code and active bd443 selection remain preserved.
+
+Three canonical phases have now actually closed: all 23 source controls passed in 7.788 seconds; static socket qualification passed in 11.102 seconds under original 14mm BODY / 7mm contact limits with zero new crossings; actual native loader/Mixer qualification passed in 47.128 seconds under its original 600-second limit. Original13, authored quiet15 and separately imported one-clip runtime all passed original physical checks at 129 phases. Runtime/master vertex, shader-normal and bone parity were exactly zero; tail969 matches old13, head/neck retains full source motion and actual nonzero movement. A separate real paired925 Mixer captured all 516 Float64 files (59,214,096 bytes), bound to the actual frame inventory and closed static receipts. All errors and WebGL counts were zero; source/index/pins remained exact.
+
+The original 129-phase posed socket traversal is RUNNING under its original 600-second limit. No posed PASS, certificate, published world motion, runtime adoption, app commit or DEV delivery is claimed. Tail gesture, gaits, riders/drivers and broader photographic acceptance remain open.
+
+[Complete checked wagon and frozen horse Phase A source recovery](https://github.com/kevinrhaas/chicago-evidence/tree/29b82a26a70c159f57d9ee1e07692b8b825a4c38/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-78B11B7-CHECKED-AND-HORSE-PHASEA-COMPLETE). This immutable packet predates the later canonical static/native runs described above; those actual receipts remain local pending the next checkpoint. Ticket state and acceptance remain unchanged.
+
 ## Latest wagon correction and actual horse prototype — 29 October 2026, 6:46 PM CT
 
 Quiet head/neck V6 actual outside-proposal GLTFLoader/AnimationMixer129 diagnostic CLOSED PASS9.673028s, original30s/no timeout/cleanup0/WebGL0/full frozen81-source/index/inputpins unchanged. All original physical edge/area/ground/contact/loop limits passed on65keys+64midpoints. Old13 full12838vertex/shadernormal parity passed129; all969tail vertices and relative bones exactlymatch old13, actual head/neck matches full-amplitude source17, independent literal quiet reference agrees2.22e-16; actual nonzero head/neck movement measured. No thresholds/amplitudes or original9176B metric loop changed.

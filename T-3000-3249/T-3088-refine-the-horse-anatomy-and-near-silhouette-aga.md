@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Checked PR1340 delivery and horse canonical progress — 29 October 2026, 7:19 PM CT
+
+First-class Phase A source, static and native quiet-head/neck qualification have now actually passed. The runtime derivative contains only the exact named quiet15 clip; authored history retains the old13 and unqualified17 separately. All original physical limits passed at 129 phases; runtime/master complete vertex/shader-normal/bone parity is exact, tail remains unchanged, and full-amplitude head/neck movement is measured. Actual independent paired925 capture contains all 516 Float64 arrays / 59,214,096 bytes. Source/index/current qualifying pins stayed frozen and native resources closed cleanly.
+
+The final original 14mm/7mm posed socket check is currently RUNNING. Active bd443, placements and runtime helper remain unchanged. No new finite certificate or runtime adoption is asserted until that actual gate closes, followed by real published desktop/phone visual and interaction checks and full application delivery. Broader anatomy/photographic/gait work remains open.
+
+[Complete checked wagon and frozen horse Phase A source recovery](https://github.com/kevinrhaas/chicago-evidence/tree/29b82a26a70c159f57d9ee1e07692b8b825a4c38/evidence/transport-photoquality-2026-10-29/ROOT-WAGON-78B11B7-CHECKED-AND-HORSE-PHASEA-COMPLETE). This immutable packet predates the later canonical static/native runs described above; those actual receipts remain local pending the next checkpoint. Ticket state and acceptance remain unchanged.
+
 ## Latest wagon correction and actual horse prototype — 29 October 2026, 6:46 PM CT
 
 The bounded quiet head/neck V6 prototype passed its actual outside-app129-phase diagnostic without changing physical limits or original metric code. HEAD field exactlyV4, original969TAIL exactlyV2; source producer18controls passed and the actual standard-loader/Mixer quiet15 passes original physical bounds. Retained13 parity across12838vertices×129 also passes; actual nonzero head/neck motion measured, with tail delta0. The current app still selects bd443 eye-only child; this is no DEV animation claim.
