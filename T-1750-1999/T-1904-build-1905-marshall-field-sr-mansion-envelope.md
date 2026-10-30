@@ -1,7 +1,7 @@
 ---
 id: T-1904
 title: Refine 1905 Marshall Field Sr. mansion envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-10-30
 pr: null
 claimed_by: run 10/30/2026, 3:52:12 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-10-30T08:55:50.046Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41028688307
 claimed_at: 2026-10-30T08:52:13.469Z
 decision: null

@@ -67,7 +67,8 @@ T-3254 — 1701 Prairie's light stone basement under the front, the bay and the 
 T-3255 — 1701 Prairie's light stone hoods, eared and crested, over the round-headed lights of the front and the south flank, and the quoin pilasters with carved capitals at the corners and the bay, against the wide photograph
 T-3256 — 1701 Prairie's entrance in its tall round arch between the corner porch and the bay, against the wide photograph and the engraving
 T-3257 — 1701 Prairie's rear range: its bracketed cornice and low roof, its south face's lights, and the veranda's south end, against the rear photograph
-T-1904 — Refine 1905 Marshall Field Sr. mansion envelope
+T-3260 — 1905 Prairie, the Marshall Field house, onto K01 from the 1893 Pictorial Chicago plate (a19-pictorial-1893-field): its camera solved, the red brick Second Empire block on its light stone basement, the crested mansard with its dormers, the front's door bay and window columns, the south flank's angular bay and curved conservatory, the north range at the rear, and the scroll-pattern fence
+T-3261 — 1905 Prairie's envelope worked down to its other pictures (the c. 1905 Daily News view DN-0003324, the undated '923' print, the 1893 engraving): their cameras, the south-west corner's pavilion, the conservatory's glazing and its balcony, the rear and north faces, and the rear, roof and cost views the envelope's acceptance asks for
 T-1905 — Finish 1905 Marshall Field Sr. mansion architecture
 T-1932 — Refine north-west alley coach houses and service courts
 T-1899 — Refine 1912 Moulton-Lowden Chateauesque house envelope
