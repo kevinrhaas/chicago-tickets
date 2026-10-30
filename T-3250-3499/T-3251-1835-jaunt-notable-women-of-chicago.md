@@ -1,7 +1,7 @@
 ---
 id: T-3251
 title: 1835 jaunt: notable women of Chicago
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/29/2026, 10:12:42 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-30T03:12:43.950Z
 decision: null
 decision_answer: null
 ---
