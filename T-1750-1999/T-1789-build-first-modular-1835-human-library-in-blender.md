@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root continuing own expired people-library claim and preserved Otis world delivery in this session 10/29/2026, 9:37:39 PM CT
+claimed_by: Codex root continuing same people-library natural-idle delivery and genuine writer registration in this session 10/30/2026, 12:38:15 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-30T02:37:40.312Z
+claimed_at: 2026-10-30T05:38:15.620Z
 decision: null
 decision_answer: null
 ---
