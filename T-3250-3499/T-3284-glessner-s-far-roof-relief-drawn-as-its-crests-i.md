@@ -1,7 +1,7 @@
 ---
 id: T-3284
 title: Glessner's far roof relief drawn as its crests in the colour pass past the relief's last visible pixel: -247,165 triangles at every far Glessner stand, 0 pixels changed (docs/RESEARCH/alley-budget-3272/)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3272
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/31/2026, 2:57:04 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41226919676
+claimed_at: 2026-10-31T19:57:05.769Z
 decision: null
 decision_answer: null
 ---
