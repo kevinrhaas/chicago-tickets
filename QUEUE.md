@@ -40,7 +40,6 @@ T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured s
 T-1890 — Finish 1801 Kimball corner mansion architecture
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture
-T-3276 — dev's gate is red: tools/lay_prairie_1904_walk_joins.py --check (T-3274's step) dies with KeyError 'rows_m' in _ends_of_grounds, because T-3273 (#1531) re-laid the Pullman conservatory's grounds gravel without the rows_m the walk-join tool reads; teach the tool the new gravel form (or restore rows_m) so every PR off dev can go green
 T-1934 — Refine Pullman stable, additions and conservatory estate
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
