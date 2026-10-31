@@ -68,7 +68,8 @@ T-3272 — Desktop full-detail stand looking south down the 16th-18th west alley
 T-3277 — 1912 Prairie, the Moulton house, onto K01 from its photograph: the stone front with its south gable, round bay and cone, the north corner block under the steep hip, the high stoop, the 1911 sheet's rear ranges; the photograph's camera solved and its match record written
 T-3278 — 1912 Prairie's envelope worked down to its other pictures (the 1883 New Chicago Album plate, the 1800-1900 elevations drawing): their cameras, the north flank's corner turret and chimney, the rear and roof faces, and the rear, roof and cost views the envelope's acceptance asks for
 T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
-T-1906 — Refine 1919 Field Jr. post-1902 enlargement envelope
+T-3279 — 1919 Prairie, the Field Jr. house, onto K01 from the Gatlin Institute plates (1912, 1913): the broad brick front with its gables, corner tower, tall stacks and dormers over the sheet's plan; the 1913 plate's camera solved and its match record written
+T-3280 — 1919 Prairie's envelope worked down to its other pictures (the c.1905 Daily News, the 1919 programme, the 1981 and 2004 photographs, the 1800-1900 elevations drawing): their cameras, the acquired strip and rear wing, the roof faces, and the rear, roof and cost views the envelope's acceptance asks for
 T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
 T-1908 — Refine 1923 Kellogg and 1945 Armour-Corwith corner
 T-1936 — Refine east 1800-1900 service buildings
