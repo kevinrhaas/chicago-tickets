@@ -41,7 +41,6 @@ T-1890 — Finish 1801 Kimball corner mansion architecture
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
-T-3164 — Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
