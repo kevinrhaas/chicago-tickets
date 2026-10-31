@@ -1,7 +1,7 @@
 ---
 id: T-3281
 title: 1945 Prairie, the Armour-Corwith house, onto K01 from the 1928 Tribune 'Famous Homes' photograph: the ivied Second Empire block under its mansard and dormers, the rounded north corner, the arched entrance over its stoop, the taller mansard pavilion at the 20th Street corner with its side bay, the rusticated basement, and the sheet's rear wing and range closed; the photograph's camera solved and its match record written
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1908
 opened: 2026-10-31
 closed: null
-pr: null
+pr: 1541
 claimed_by: run 10/31/2026, 2:38:31 PM CT
 blocked_on: null
 needs_bake: false
