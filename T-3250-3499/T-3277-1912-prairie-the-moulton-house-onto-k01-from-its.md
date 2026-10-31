@@ -1,7 +1,7 @@
 ---
 id: T-3277
 title: 1912 Prairie, the Moulton house, onto K01 from its photograph: the stone front with its south gable, round bay and cone, the north corner block under the steep hip, the high stoop, the 1911 sheet's rear ranges; the photograph's camera solved and its match record written
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1899
 opened: 2026-10-31
 closed: null
-pr: null
+pr: 1539
 claimed_by: run 10/31/2026, 1:21:27 PM CT
 blocked_on: null
 needs_bake: false
