@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 1:45:27 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41177572482
-claimed_at: 2026-10-31T06:45:28.062Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -128,3 +128,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-10-30** (claim of run 10/30/2026, 8:51:32 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41156307100): PR #1513 (owner's 2026-10-30 item 3: the porte-cochere's arches centred on their faces via a new porte_cochere.back_m, and its banded piers, impost and voussoir rings with keystones via a new porte_cochere.dressing, off Taylor's no. 1445) is up on resume while its CI gate finishes; items 1 (the Prairie front as three steps back from the north side) and 2 (the rear east face and east wing stepped, with the balcony, off Taylor 16554), the ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-10-31** (claim of run 10/31/2026, 12:16:42 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41171643763): PR #1517 (owner's 2026-10-30 item 1: the Prairie front stepped back in three — a new K01 front_step p_step, 1.95 m wide and 1.65 m out at v 8.45-10.4, on the 1911 sheet's unbuilt u 29.4 line, where the Detroit print and the 1890 Albertype draw a narrow banded face between the portico block and the big-dormer bay) is up on resume: CI's content-build bake hit its 30-minute limit and was re-run, and the check gate was still running; item 2 (the rear east face and east wing stepped, with the balcony, off Taylor 16554), whether the owner wants the door on the middle step itself rather than beside it, the ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
+
+**Released 2026-10-31** (claim of run 10/31/2026, 1:45:27 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41177572482): piece shipped in PR #1517 (three-step Prairie front, merged-dev + rebake, resume while CI gate runs); the image gate still reads differs on all three views, so the ticket stays open for its other items
