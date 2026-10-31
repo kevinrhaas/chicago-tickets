@@ -1,7 +1,7 @@
 ---
 id: T-3267
 title: Correct Pullman's 18th Street lamp to the district gas post Taylor 16554 shows
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-30
-closed: null
+closed: 2026-10-30
 pr: 1505
 claimed_by: owner-thread 10/30/2026, 5:21:00 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-31T00:05:36Z
 claimed_run: null
 claimed_at: 2026-10-30T22:21:01.770Z
 decision: null
