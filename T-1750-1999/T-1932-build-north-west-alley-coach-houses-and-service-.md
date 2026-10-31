@@ -1,7 +1,7 @@
 ---
 id: T-1932
 title: Refine north-west alley coach houses and service courts
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 11:49:13 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41221033334
-claimed_at: 2026-10-31T16:49:14.324Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -66,3 +66,5 @@ Pictures:
 - law_house_1620_prairie_coach_house
 
 **Released 2026-10-31** (claim of run 10/31/2026, 7:01:57 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41198746573): PR #1525 (resume: gate still running, nothing red) refines 1620's alley building (law_house_1620_prairie_coach_house) in place onto the K12 coach-house kit from the 1911 sheet (7.36 x 16.30 m, 2 storeys, brick, two window marks, party wall against 1616's) and Robinson 1886's brick stable X; draft rules skip s20-1620-r1. Its image-gate camera on the 1874 Land Owner engraving is solved: the engraving draws a board-and-batten building under hipped roofs where both maps draw brick, read as the frame predecessor; 5 items left open in the match record with that reasoning (closing past them needs done --anyway --why, or a picture of the brick stable). Still to do: every other rear building of the north-west alley 1600-1736, still the draft's. Not split: the gate stays on this ticket.
+
+**Released 2026-10-31** (claim of run 10/31/2026, 11:49:13 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41221033334): PR #1535 (resume: gate still running, nothing red) refines 1616's alley building (house_1616_prairie_coach_house) in place onto the K12 coach-house kit from the 1911 sheet (9.88 x 11.02 m, 2 storeys, brick, stable X, alley window mark, fire walls both ends; party wall north, open gable against 1620's party wall); Robinson 1886 draws the lot's rear empty, so it postdates 1886. Still to do: every other rear building of the north-west alley (1612, 1626, 1628, 1630, 1700, 1712, 1720, 1726, 1730), still the draft's; 1620's image-gate items stay open as #1525 left them. Not split: the gate stays on this ticket.
