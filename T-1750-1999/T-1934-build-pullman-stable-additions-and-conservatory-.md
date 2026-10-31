@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 10:05:03 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41161883121
-claimed_at: 2026-10-31T03:05:03.697Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -126,3 +126,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-10-30** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/30/2026, 5:32:29 PM CT): PR 1507 landed on dev (cupola, ashlar, framed windows, r5 off, palm house stone + glazing bars, hydrant); match records still differ — gaps written in them
 
 **Released 2026-10-30** (claim of run 10/30/2026, 7:15:53 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41148611401): PR #1510 (resume: gate still running, nothing red) re-plans the stable's corner bay on the 1894 Inland plate and Taylor's 16555, which agree: its 1.0 m west return no longer covers the arcade's third arch (it leaves the west wall at v 12.95, 0.55 m proud) and it runs on to u -25.0 along 18th Street (L-pullman-stable-bay-1934); 16554's dissenting reading of its place marked within tolerance (that camera's ground is 45 px off). Still open in the match records: the house's raised porch and its stair (house record), the court's piers either side of its mouth, the planting. Not split: the gate stays on this ticket.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 10:05:03 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41161883121): PR #1515 (resume: gate still running, nothing red) withdraws the 18th Street wall's fourth, fifth and sixth piers, the fifth's urn and the curved low walls for 1904, on the c. 1900 Detroit view (LC-D4-12552) that shows one level coping with a dense border east of the porch stair's pier; the stable's 1894-plate and 16555 views now match. Still open in the match records: the house's raised porch and its stair (house record), the wing's tone in 16555, and 16554's parkway trees. Not split: the gate stays on this ticket.
