@@ -66,7 +66,8 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 T-3271 — 1905 Prairie's other pictures: the Daily News (DN-0003324), '923' and engraving cameras solved, the front's length re-read, the rear and north faces, and the views' sign-off
 T-1932 — Refine north-west alley coach houses and service courts
 T-3272 — Desktop full-detail stand looking south down the 16th-18th west alley from 1616's rear is over the detail budget: 8,049 draws / 6.06 M triangles against 7,800 / 4.7 M (T-1932's reading, docs/RESEARCH/k12-1620-law-stable-1932/browser-validation-after-desktop.json); price the alley's far field or argue the ceiling
-T-1899 — Refine 1912 Moulton-Lowden Chateauesque house envelope
+T-3277 — 1912 Prairie, the Moulton house, onto K01 from its photograph: the stone front with its south gable, round bay and cone, the north corner block under the steep hip, the high stoop, the 1911 sheet's rear ranges; the photograph's camera solved and its match record written
+T-3278 — 1912 Prairie's envelope worked down to its other pictures (the 1883 New Chicago Album plate, the 1800-1900 elevations drawing): their cameras, the north flank's corner turret and chimney, the rear and roof faces, and the rear, roof and cost views the envelope's acceptance asks for
 T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
 T-1906 — Refine 1919 Field Jr. post-1902 enlargement envelope
 T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
