@@ -1,7 +1,7 @@
 ---
 id: T-3270
 title: 1905 Prairie's carved work and ironwork to the 1893 plate: window-head crests, frieze roundels, carved blocks, dormer cheeks, the balconies' lengths and scrolled consoles, the conservatory's transom, dark bars and its roof balcony
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1905
 opened: 2026-10-31
 closed: null
-pr: null
+pr: 1522
 claimed_by: run 10/31/2026, 4:29:22 AM CT
 blocked_on: null
 needs_bake: false
