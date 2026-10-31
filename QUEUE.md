@@ -180,14 +180,10 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-2372 — Match Eliza Chappel's infant school to its pictures
 T-2374 — Match Cobweb Castle to its pictures
-T-2375 — Match the Dearborn Street drawbridge to its pictures
 T-2376 — Match the Green Tree Tavern to its pictures
-T-2378 — Match J. B. Beaubien's homestead to its pictures
 T-2379 — Match the Lake House under construction to its pictures
 T-2380 — Match the log jail to its pictures
-T-2382 — Match Philo Carpenter's log shop (the Sauganash's log wing) to its pictures
 T-2383 — Match the Sauganash Hotel to its pictures
 T-2386 — Match the Wolf Point Tavern to its pictures
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
