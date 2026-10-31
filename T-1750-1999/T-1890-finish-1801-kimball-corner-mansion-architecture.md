@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 9:28:08 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41159149723
-claimed_at: 2026-10-31T02:28:08.286Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -141,3 +141,5 @@ match record's open differences name both):
 **Released 2026-10-30** (claim of run 10/30/2026, 5:46:47 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41139797164): PR #1508 (resume, waiting only on the chicago-4d-check gate; locally the diff-covering check.sh steps green on the dev-merged tree, smoke part 3 green at desktop and mobile) stands the east range's second gabled frontispiece off HABS photograph 2, which the record had read as a hooded dormer on the range's hip, and pulls r2's and r3b's eaves in so both frontispieces rise clear (HABS 2 'hooded slate dormer' and 'the range's cornice at the frontispieces' now fixed). The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range stack, frontispiece's place, recessed range, rear range, south cornice heights, the front north of the pavilion); more than one run holds them, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-30** (claim of run 10/30/2026, 8:37:22 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41155891187): no PR. Tried Taylor's 'mansard curb and deck' as the record's own hypothesis (lower faces running back further): lower_rise 6.4->5.8 m at 66 deg (65-80 is K05's band; 65/5.7 fails test_k01_pavilion_past_eave, the slate no longer covering the south cant's 11.65 m top). Through T-3074's camera it brought the Taylor front's curb onto the print (about 45 px over -> about 5) and the NW corner from about 48 px over to 25, but HABS photograph 2 then put the curb about 46 px UNDER its print, where the committed 6.4/69.1 curb sits within about 5 px of it (corner y 281 against 276; along the 18th Street face 325 against 319). So the two pictures disagree about the curb, and HABS 2 agrees with the build as it stands. The Taylor gap is that camera's: its print's curb lines recede far flatter than any level curb can through it (front-to-corner about 20 px against at least 36 projected, 18th Street-to-corner about 50 against about 110), so the curb's height is a camera question, not a roof one; reverted. The deck's 'south end at x 1092' is not the deck: it is where the south pavilion's own gabled roof, its ridge running back from the coped gable's apex (about x 1265, y 240) at about curb height, meets the main curb under the south finial; the build's pavilion is 0.1 m proud with a parapet gable and the mansard runs on to x about 1195 behind it. Building that cross roof needs a gable-ended crown behind a parapet, which K01 has not got (a hipped crown wants the pavilion's 13.6 m walls as a 4.7 m attic, past its 4.5 m; a mansard dormer's head must stay under the curb). That kit piece is the next visible step on the Taylor record, and the curb's line in that record should be re-read as a disagreement between the pictures. Also read: HABS 1's 'rear range beyond the court' does not stand on any wing through that camera (its foot reads about 150 px under every point of the lot, as if about 31 m from the eye, against 47-60 m for the court), so it may be another building nearer the camera; re-solve or read the 1911 sheet before building it.
+
+**Released 2026-10-31** (claim of run 10/30/2026, 9:28:08 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41188476664): PR #1516 (slated cross roof behind the south gable; resume, lapped onto dev at 87561caec and verified locally — waiting only on the chicago-4d-check gate, which was still running after two 540 s merge laps). The opening run's claim had gone dead without release; the rest of C06B remains open for the next slice.
