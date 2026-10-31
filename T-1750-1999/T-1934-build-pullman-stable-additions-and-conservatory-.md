@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 1:37:19 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41176990464
-claimed_at: 2026-10-31T06:37:20.082Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -130,3 +130,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-10-30** (claim of run 10/30/2026, 10:05:03 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41161883121): PR #1515 (resume: gate still running, nothing red) withdraws the 18th Street wall's fourth, fifth and sixth piers, the fifth's urn and the curved low walls for 1904, on the c. 1900 Detroit view (LC-D4-12552) that shows one level coping with a dense border east of the porch stair's pier; the stable's 1894-plate and 16555 views now match. Still open in the match records: the house's raised porch and its stair (house record), the wing's tone in 16555, and 16554's parkway trees. Not split: the gate stays on this ticket.
 
 **Released 2026-10-31** (claim of run 10/31/2026, 12:01:26 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41170531608): slice 1/5 lapped resume PR #1515 (gate fixes + liberties); #1515 is handed on with resume, gate still running; the ticket's image gate stays open after it lands
+
+**Released 2026-10-31** (claim of run 10/31/2026, 1:37:19 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41176990464): PR #1520 (resume: gate still running, nothing red) re-solves Taylor 16554's camera on its own ground (Taylor stood on the lawn of the 1800 Calumet corner lot, inside its coping; ground 4.8 px rms, buildings 10.3 px; the x 537 trunk lands 0.45 m from the plate-placed gate tree) and through it plants three slender young elms on Calumet Avenue's west parkway at its curve (244.5, 248.8, 259.9 m; the rule's three elms withdrawn), moves lamp.pictured.pullman_court to that parkway (its foot reads 22 px below the stable wall's) and the stable hydrant 5.0 m east. Still open in the 16554 records: the far trees beyond 18th Street and the render's thick elms there, the lamp's height (about 2.2 m through this camera against the district's 3.1 m post, the owner's T-3267 form), the house's colour (T-1881); the house's and 1800 Calumet's views were not re-rendered (sibling PRs #1517, #1518). Not split: the gate stays on this ticket.
