@@ -1,7 +1,7 @@
 ---
 id: T-3270
 title: 1905 Prairie's carved work and ironwork to the 1893 plate: window-head crests, frieze roundels, carved blocks, dormer cheeks, the balconies' lengths and scrolled consoles, the conservatory's transom, dark bars and its roof balcony
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1905
 opened: 2026-10-31
-closed: null
+closed: 2026-10-31
 pr: 1522
 claimed_by: run 10/31/2026, 4:29:22 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-31T12:05:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41188482023
 claimed_at: 2026-10-31T09:29:23.647Z
 decision: null
