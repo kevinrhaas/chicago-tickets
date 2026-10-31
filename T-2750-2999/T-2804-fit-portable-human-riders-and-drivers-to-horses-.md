@@ -1,7 +1,7 @@
 ---
 id: T-2804
 title: Fit portable-human riders and drivers to horses and vehicles
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 10/30/2026, 7:12:29 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-31T00:12:30.681Z
 decision: null
 decision_answer: null
 ---
