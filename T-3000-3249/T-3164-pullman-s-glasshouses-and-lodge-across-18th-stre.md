@@ -101,3 +101,15 @@ This ticket's part: 16554's foreground is this ground (the camera stands inside 
 **Released 2026-10-30** (claim of run 10/30/2026, 9:56:19 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41158397500): PR #1503 (drive, walks, forecourt, coping) is merged to dev. The ticket cannot close yet: all four reference views (inland_1894_lodge, lowe_c1897_lodge, inland_1894_conservatory, lowe_c1897_conservatory) still hold 3 OPEN differences — the lodge's missing east face/slope over the east range's coping (the 11.6 m-deep 1911 outline), the parkway trees' broad low heads left of the gate, and the pale walk/drive-turn line west of the drive. T-1934's merge (#1510) has also moved the Pullman plantings, so each match's flora_sha256 is stale: re-run photo_match on all four when those are worked.
 
 **Released 2026-10-30** (claim of run 10/30/2026, 10:10:08 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41162233627): piece shipped as PR #1514: the parkway tree left of the 1800 Calumet gate grows a young elm's broad, low head on one leader (street-trees.js FORMS.broad_head), so 'the parkway trees' heads' is fixed on all four views and their flora digests refreshed. The image gate stays open on the lodge's east face (the 1911 sheet's 11.6 m depth against both pictures) and the pale line along the lawn's far side west of the drive, so the ticket cannot close yet
+
+## Progress — PR #1514 merged to dev 2026-10-31 (19c46c88)
+
+The gate tree before 1800 Calumet now grows as a young broad-headed elm on its leader
+(`form: broad_head`, tree-model.js `ulmus_americana_young`, reconstructed under
+L-pullman-18th-street-trees-1934), and the glasshouse pavilion and lodge match records were
+re-read against the 1894 Inland plate and Lowe's c. 1897 print. Still open (the image gate
+refused `done`): both lodge views `differs` on the lodge's east face/slope over the east
+range's coping, and the unbuilt pale walk/drive line west of the drive. The resume lap's
+moving-frames red (light travel 36.4 ms) was a single far-pass spike: the unrelated wagon
+branch #1340 failed the same scenario at 33.2 ms, two local light-travel readings on this
+branch read 5.8 / 5.9 ms, and the re-run passed.
