@@ -19,6 +19,7 @@
 #   1904 (band 7, nearest Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
 
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
+T-3286 — Full's far views of the Prairie district read up to 7.30 M against Glessner's 4.7 M inspection ceiling: the sun's pass draws every house whole at any distance (3.33 M of 7.30 M at Prairie 60 m E / 120 m S of Glessner, 2.0 M of it the neighbours'), so the far-view allowance T-3285 declared (7,325,000 triangles / 8,500 draws) needs a far shadow level of detail for structures to retire it
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 
