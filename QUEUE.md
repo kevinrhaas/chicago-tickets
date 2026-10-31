@@ -71,7 +71,9 @@ T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
 T-3279 — 1919 Prairie, the Field Jr. house, onto K01 from the Gatlin Institute plates (1912, 1913): the broad brick front with its gables, corner tower, tall stacks and dormers over the sheet's plan; the 1913 plate's camera solved and its match record written
 T-3280 — 1919 Prairie's envelope worked down to its other pictures (the c.1905 Daily News, the 1919 programme, the 1981 and 2004 photographs, the 1800-1900 elevations drawing): their cameras, the acquired strip and rear wing, the roof faces, and the rear, roof and cost views the envelope's acceptance asks for
 T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
-T-1908 — Refine 1923 Kellogg and 1945 Armour-Corwith corner
+T-3281 — 1945 Prairie, the Armour-Corwith house, onto K01 from the 1928 Tribune 'Famous Homes' photograph: the ivied Second Empire block under its mansard and dormers, the rounded north corner, the arched entrance over its stoop, the taller mansard pavilion at the 20th Street corner with its side bay, the rusticated basement, and the sheet's rear wing and range closed; the photograph's camera solved and its match record written
+T-3282 — 1923 Prairie, the Kellogg house, onto K01 from the 1898 Tribune strip and the c.1914 1800-1900 elevations drawing: both pictures' cameras solved, the three-storey brick front, its cornice, roof, openings and stoop rebuilt to them, the sheet's rear building closed, and its match records written
+T-3283 — 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
 T-1936 — Refine east 1800-1900 service buildings
 T-1933 — Refine north-east rear service buildings
 T-1943 — Finish north-block boundaries, gardens and frontage fittings
