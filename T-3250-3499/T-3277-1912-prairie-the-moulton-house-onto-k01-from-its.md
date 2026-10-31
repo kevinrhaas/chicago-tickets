@@ -1,7 +1,7 @@
 ---
 id: T-3277
 title: 1912 Prairie, the Moulton house, onto K01 from its photograph: the stone front with its south gable, round bay and cone, the north corner block under the steep hip, the high stoop, the 1911 sheet's rear ranges; the photograph's camera solved and its match record written
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1899
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/31/2026, 1:21:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41228340854
+claimed_at: 2026-10-31T18:21:27.800Z
 decision: null
 decision_answer: null
 ---
