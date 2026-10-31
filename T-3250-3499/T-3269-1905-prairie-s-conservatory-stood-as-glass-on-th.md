@@ -1,7 +1,7 @@
 ---
 id: T-3269
 title: 1905 Prairie's conservatory stood as glass on the house's stone bow, off the 1893 plate (K13 segmental bay, curved roof)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1905
 opened: 2026-10-31
-closed: null
+closed: 2026-10-31
 pr: 1519
 claimed_by: run 10/31/2026, 12:55:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-31T08:21:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41172962667
 claimed_at: 2026-10-31T05:55:18.324Z
 decision: null
