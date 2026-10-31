@@ -1,7 +1,7 @@
 ---
 id: T-3273
 title: Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
-state: claimed
+state: open
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 10:21:25 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-31T15:21:26.169Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -47,3 +47,5 @@ and re-reviewed with the topiaries and walks checked.
 `ticket.mjs done` refuses this ticket until every building below matches every one of its reference views.
 
 - pullman_glasshouse_1800_calumet_pavilion
+
+**Released 2026-10-31** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 10:21:25 AM CT): PR 1531 merged to dev 2026-10-31: panes, palms, darker glass and gravel, the walk's turn re-laid. The pavilion's two records stay differs (the north front's heavy mullions and denser planting open; third standard not shown); left for the owner's next look.
