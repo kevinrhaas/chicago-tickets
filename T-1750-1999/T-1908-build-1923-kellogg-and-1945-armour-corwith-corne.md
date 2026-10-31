@@ -1,7 +1,7 @@
 ---
 id: T-1908
 title: Refine 1923 Kellogg and 1945 Armour-Corwith corner
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/31/2026, 2:36:42 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41234049267
+claimed_at: 2026-10-31T19:36:43.294Z
 decision: null
 decision_answer: null
 ---
