@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 7:15:53 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41148611401
-claimed_at: 2026-10-31T00:15:53.473Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -124,3 +124,5 @@ This ticket's part, taken first by that thread (interactive):
 5. **The hydrant** 16554 shows by the stable's wall.
 
 **Released 2026-10-30** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/30/2026, 5:32:29 PM CT): PR 1507 landed on dev (cupola, ashlar, framed windows, r5 off, palm house stone + glazing bars, hydrant); match records still differ — gaps written in them
+
+**Released 2026-10-30** (claim of run 10/30/2026, 7:15:53 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41148611401): PR #1510 (resume: gate still running, nothing red) re-plans the stable's corner bay on the 1894 Inland plate and Taylor's 16555, which agree: its 1.0 m west return no longer covers the arcade's third arch (it leaves the west wall at v 12.95, 0.55 m proud) and it runs on to u -25.0 along 18th Street (L-pullman-stable-bay-1934); 16554's dissenting reading of its place marked within tolerance (that camera's ground is 45 px off). Still open in the match records: the house's raised porch and its stair (house record), the court's piers either side of its mouth, the planting. Not split: the gate stays on this ticket.
