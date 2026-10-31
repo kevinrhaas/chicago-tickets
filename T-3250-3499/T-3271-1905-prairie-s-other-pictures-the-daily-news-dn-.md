@@ -1,7 +1,7 @@
 ---
 id: T-3271
 title: 1905 Prairie's other pictures: the Daily News (DN-0003324), '923' and engraving cameras solved, the front's length re-read, the rear and north faces, and the views' sign-off
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1905
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 10/31/2026, 8:13:42 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41203603805
+claimed_at: 2026-10-31T13:13:43.171Z
 decision: null
 decision_answer: null
 ---
