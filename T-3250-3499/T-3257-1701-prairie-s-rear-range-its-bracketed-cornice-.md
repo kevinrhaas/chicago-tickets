@@ -1,7 +1,7 @@
 ---
 id: T-3257
 title: 1701 Prairie's rear range: its bracketed cornice and low roof, its south face's lights, and the veranda's south end, against the rear photograph
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1876
 opened: 2026-10-29
-closed: null
+closed: 2026-10-30
 pr: 1511
 claimed_by: run 10/30/2026, 7:52:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-10-31T03:57:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41152013311
 claimed_at: 2026-10-31T00:52:29.892Z
 decision: null
