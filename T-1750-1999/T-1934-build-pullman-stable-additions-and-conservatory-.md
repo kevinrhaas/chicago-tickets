@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 10:28:24 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41213918192
-claimed_at: 2026-10-31T15:28:24.840Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -138,3 +138,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-10-31** (claim of run 10/31/2026, 6:34:40 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41196428242): PR #1524 (resume: gate still running, nothing red) draws the palm house terrace's four clipped columns as the clipped-column plant (a 'spire' envelope) and gives every sheared habit a solid body under its sprays (tree-model.js solidCore), so 16554's four render as dense dark spires 8-11 px against the print's 10-14; the 16554 columns' foliage item fixed in both records. Still open in the match records: the house's raised porch and its stair and the house's colour (house record), 16554's far trees and lawn trees on the 1800 Calumet ground, the lamp's height, 16555's wing tone and the terrace's approach. The four 1800 Calumet views were not re-rendered (already stale before this PR). Not split: the gate stays on this ticket.
 
 **Released 2026-10-31** (claim of run 10/31/2026, 8:10:17 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41203899487): PR #1527 (resume: part 14 desktop logged one FAIL on a loaded runner and mobile part 14 was not run before the clock; check.sh and part 3 green) draws the six pictured parkway trees before the estate as slender young elms (broad_head, 0.65/0.6) off Taylor 1445, 16554 and the Detroit print, and re-reads 16554's two 'lawn' trunks as the parkway's (the 1894 plate and Lowe's print see that lawn open). Still open in the match records: the shrubs along the wall's back, the young head's start on the leader, the lamp's height (T-3267) and the house items (T-1881)
+
+**Released 2026-10-31** (claim of run 10/31/2026, 10:28:24 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41213918192): Took resume PR #1527 (slender young elms): merged dev in, re-derived (204 steps), re-rendered 1729 Prairie's three stale photo matches on the merged flora (verdicts unchanged, differs) and the six conservatory/ranges side-by-sides; check.sh green across a three-way split of all 1112 steps (only red: the tickets repo's stale BOARD/tickets.json, not this diff); smoke part 3 green at mobile and desktop (107/0 each). Part 14 not run: priced over the 600 s cap at mobile, and dev's own record is red there on the steward runner. Meanwhile the PR lap re-gated #1527 and merge-ready merged it to dev at 16:14Z, so nothing further to push. The ticket's image gate stays open (records name the open differences).
