@@ -1,7 +1,7 @@
 ---
 id: T-2375
 title: Match the Dearborn Street drawbridge to its pictures
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 1512
 claimed_by: Codex continuing same four-picture batch; verified existing ownership 10/30/2026, 8:07:21 PM CT
 blocked_on: null
 needs_bake: false
