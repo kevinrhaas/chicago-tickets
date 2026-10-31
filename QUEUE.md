@@ -41,7 +41,6 @@ T-1890 — Finish 1801 Kimball corner mansion architecture
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
-T-3275 — Smoke part 14's PLACED_1904 list (tools/smoke_renderer.mjs) is missing marshall_field_house_1905_prairie_conservatory, which T-3269 (#1519) placed in the 1904 scene, so 'the 1904 scene draws none of the 1835 town's layers' fails at both viewports on every branch off dev; add it
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
