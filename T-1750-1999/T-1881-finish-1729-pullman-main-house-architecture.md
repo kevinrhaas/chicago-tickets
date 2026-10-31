@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 4:32:26 PM CT
+claimed_by: interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 6:16:55 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-31T21:32:27.107Z
+claimed_at: 2026-10-31T23:16:56.394Z
 decision: null
 decision_answer: null
 ---
