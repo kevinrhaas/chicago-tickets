@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 12:30:58 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41223995286
-claimed_at: 2026-10-31T17:30:58.569Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -140,3 +140,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-10-31** (claim of run 10/31/2026, 8:10:17 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41203899487): PR #1527 (resume: part 14 desktop logged one FAIL on a loaded runner and mobile part 14 was not run before the clock; check.sh and part 3 green) draws the six pictured parkway trees before the estate as slender young elms (broad_head, 0.65/0.6) off Taylor 1445, 16554 and the Detroit print, and re-reads 16554's two 'lawn' trunks as the parkway's (the 1894 plate and Lowe's print see that lawn open). Still open in the match records: the shrubs along the wall's back, the young head's start on the leader, the lamp's height (T-3267) and the house items (T-1881)
 
 **Released 2026-10-31** (claim of run 10/31/2026, 10:28:24 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41213918192): Took resume PR #1527 (slender young elms): merged dev in, re-derived (204 steps), re-rendered 1729 Prairie's three stale photo matches on the merged flora (verdicts unchanged, differs) and the six conservatory/ranges side-by-sides; check.sh green across a three-way split of all 1112 steps (only red: the tickets repo's stale BOARD/tickets.json, not this diff); smoke part 3 green at mobile and desktop (107/0 each). Part 14 not run: priced over the 600 s cap at mobile, and dev's own record is red there on the steward runner. Meanwhile the PR lap re-gated #1527 and merge-ready merged it to dev at 16:14Z, so nothing further to push. The ticket's image gate stays open (records name the open differences).
+
+**Released 2026-10-31** (claim of run 10/31/2026, 12:30:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41223995286): PR #1536 (resume: gate still running; dev's walk-joins red is T-3276) plants the 14 clipped evergreens Taylor's 16554 shows behind the 18th Street coping before the stable (cones, sheared balls, a clipped column, the east mass), each on its pixel column, at the depth 16555 crosses them; the 16554 planting item's shrubs fixed. Still open in the match records: the young elm's head starting 2-3 m low on its leader, the coping's height (16554 reads it about 0.55 m against the built 0.9 m), the lamp's height (T-3267) and the house items (T-1881). Not split: the gate stays on this ticket.
