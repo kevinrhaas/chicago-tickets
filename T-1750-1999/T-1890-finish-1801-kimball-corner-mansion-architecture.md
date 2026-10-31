@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 5:46:47 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41139797164
-claimed_at: 2026-10-30T22:46:48.063Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -137,3 +137,5 @@ match record's open differences name both):
 **Released 2026-10-30** (claim of run 10/30/2026, 1:43:52 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41108618376): PR #1494 (east turret's turned finial, one image-gate difference) finished, dev-merged and handed on with resume while CI's gate runs. The image gate keeps T-1890 open: 9 differences remain on the three Kimball match records
 
 **Released 2026-10-30** (claim of run 10/30/2026, 2:33:48 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41115319990): PR #1504 (resume, waiting only on the chicago-4d-check gate; locally check.sh 1109/1109 and smoke part 3 green at both viewports) slates the tower's and turret's cones in the mansard's own coursed slate (Taylor 'tower's cone' and HABS 2 'turret's and tower's cones' now fixed). The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range dormer and stack, south-east recessed range, rear range, south cornice, the front north of the pavilion); more than one run holds, and a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 5:46:47 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41139797164): PR #1508 (resume, waiting only on the chicago-4d-check gate; locally the diff-covering check.sh steps green on the dev-merged tree, smoke part 3 green at desktop and mobile) stands the east range's second gabled frontispiece off HABS photograph 2, which the record had read as a hooded dormer on the range's hip, and pulls r2's and r3b's eaves in so both frontispieces rise clear (HABS 2 'hooded slate dormer' and 'the range's cornice at the frontispieces' now fixed). The image gate still has open differences across the three match records (mansard curb and deck, the flank section's depth and width, east range stack, frontispiece's place, recessed range, rear range, south cornice heights, the front north of the pavilion); more than one run holds them, and a sign-off is never split, so the rest goes back to the queue.
