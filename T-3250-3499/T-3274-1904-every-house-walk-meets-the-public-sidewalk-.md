@@ -1,7 +1,7 @@
 ---
 id: T-3274
 title: 1904: every house walk meets the public sidewalk (no grass gap at the lot line)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive 10/31/2026, 10:30:18 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-31T15:30:20.023Z
 decision: null
 decision_answer: null
 ---
