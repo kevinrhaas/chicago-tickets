@@ -1,7 +1,7 @@
 ---
 id: T-3273
 title: Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: null
+claimed_by: interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 10:21:25 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-10-31T15:21:26.169Z
 decision: null
 decision_answer: null
 ---
