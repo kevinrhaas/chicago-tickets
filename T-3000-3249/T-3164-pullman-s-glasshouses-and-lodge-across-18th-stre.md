@@ -1,7 +1,7 @@
 ---
 id: T-3164
 title: Pullman's glasshouses and lodge across 18th Street: the north-south and east-west GREEN HO. ranges traced off Sanborn sheet 28 and stood from the K13 kit's span form, the east range's rounded end, and the two-storey brick lodge at their angle
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1934
 opened: 2026-10-25
 closed: null
 pr: null
-claimed_by: run 10/30/2026, 9:56:19 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41158397500
-claimed_at: 2026-10-31T02:56:19.912Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -97,3 +97,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 Owner, 2026-10-30 (project thread "Match Pullman estate rear to Taylor photo"), on Taylor's 16554 (AIC, artic contentdm mqc/id/29313): *"you are still missing a number of things from the picture, the walkways to the greehouse, the border wall along the road, the whole back of the pullman house needs to be worked, stepped and there is a balcony and the center white area currently is probably more like the color of the rest of the house and you still have a fair amount of detail work to do on the glass atrium and the stable is still not have much surface detail"*; *"the cupola on the stable also"*; *"you have a side on the stable that is facing the lake that i think is not in that pic"*; *"there is a hydrant in that photo"*.
 
 This ticket's part: 16554's foreground is this ground (the camera stands inside it, about 26 m south of 18th Street's south curb, east of the gate): the lawn, its curved stone border along 18th Street and round the Calumet curve, and the walks across it toward the glasshouses. Judge PR #1503's drive, walk and coping through 16554 as well as the plate and Lowe's print.
+
+**Released 2026-10-30** (claim of run 10/30/2026, 9:56:19 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41158397500): PR #1503 (drive, walks, forecourt, coping) is merged to dev. The ticket cannot close yet: all four reference views (inland_1894_lodge, lowe_c1897_lodge, inland_1894_conservatory, lowe_c1897_conservatory) still hold 3 OPEN differences — the lodge's missing east face/slope over the east range's coping (the 11.6 m-deep 1911 outline), the parkway trees' broad low heads left of the gate, and the pale walk/drive-turn line west of the drive. T-1934's merge (#1510) has also moved the Pullman plantings, so each match's flora_sha256 is stale: re-run photo_match on all four when those are worked.
