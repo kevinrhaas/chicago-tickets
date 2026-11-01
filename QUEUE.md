@@ -26,7 +26,6 @@
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading
-T-3304 — dev's gate red: house_1726_prairie_coach_house__as_standing_1904.glb stale after #1580 (T-1932) merged onto a dev whose K01 inputs had moved; rebake the one structure and land its GLB
 T-3300 — 1835 boot payload 41.363 MB over its 36.2 MB budget (docs/SITE-BUDGET.md §4): unmeasured since 2026-10-17 because every content-build bake was cancelled before its desktop 1-2 smoke leg; reproduced byte-identical on dev's committed tree without a bake (prebuilt ground 10.9 MB, frontage 6.7, streets 3.9, yards 3.1); bring it under or re-argue the budget with the reading
 T-3299 — check.sh no longer fits one 600 s foreground call on a 4-core steward runner: 1118 steps ran past 600 s on 2026-11-01 (one red step, so the verdict came only after the cap), and a re-run on the same tree was cut off by timeout at 585 s just after its publish step; find the new heavy tail with CHECK_TIMINGS and cut it, or re-argue the budget in check.sh's header
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.

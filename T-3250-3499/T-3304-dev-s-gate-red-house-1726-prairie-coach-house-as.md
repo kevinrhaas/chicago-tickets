@@ -1,7 +1,7 @@
 ---
 id: T-3304
 title: dev's gate red: house_1726_prairie_coach_house__as_standing_1904.glb stale after #1580 (T-1932) merged onto a dev whose K01 inputs had moved; rebake the one structure and land its GLB
-state: claimed
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-01
-closed: null
+closed: 2026-11-01
 pr: null
 claimed_by: run 11/1/2026, 2:45:49 PM CT
-blocked_on: null
+blocked_on: superseded: #1581 (T-1881) merged at 20:52Z carrying the same re-stamp (inputs_sha256 ddf15ed8…, GLB byte-identical, which this run reproduced with bake.sh --only); dev's gate went green on 7fed3a413. This run's full gate (check.sh --part 1..4/4, 1,128 steps, none red) and smoke (mobile part 3 107/0; desktop part 1 red only on T-3268's miller_house sign, as dev was at 18:03Z) confirmed the fix but have nothing left to land
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T21:28:23.983Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41347446149
 claimed_at: 2026-11-01T20:45:49.517Z
 decision: null
