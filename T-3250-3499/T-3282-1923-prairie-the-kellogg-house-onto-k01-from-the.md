@@ -1,7 +1,7 @@
 ---
 id: T-3282
 title: 1923 Prairie, the Kellogg house, onto K01 from the 1898 Tribune strip and the c.1914 1800-1900 elevations drawing: both pictures' cameras solved, the three-storey brick front, its cornice, roof, openings and stoop rebuilt to them, the sheet's rear building closed, and its match records written
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1908
 opened: 2026-10-31
-closed: null
+closed: 2026-11-01
 pr: 1542
 claimed_by: run 10/31/2026, 3:01:31 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T07:00:28Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41236551124
 claimed_at: 2026-10-31T20:01:31.775Z
 decision: null
