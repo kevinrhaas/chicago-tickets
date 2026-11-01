@@ -1,7 +1,7 @@
 ---
 id: T-3278
 title: 1912 Prairie's envelope worked down to its other pictures (the 1883 New Chicago Album plate, the 1800-1900 elevations drawing): their cameras, the north flank's corner turret and chimney, the rear and roof faces, and the rear, roof and cost views the envelope's acceptance asks for
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1899
 opened: 2026-10-31
-closed: null
+closed: 2026-11-01
 pr: null
 claimed_by: run 11/1/2026, 1:27:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T06:34:02.491Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41278538048
 claimed_at: 2026-11-01T06:27:11.151Z
 decision: null
