@@ -1,7 +1,7 @@
 ---
 id: T-3295
 title: 1904 brick walls read as one repeating tile: shuffle K03 panel bricks per wall and vary each brick's colour
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 10:45:23 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-01T16:45:24.586Z
 decision: null
 decision_answer: null
 ---
