@@ -1,7 +1,7 @@
 ---
 id: T-3287
 title: 1912 Prairie's other two pictures, the 1883 New Chicago Album plate and the 1800-1900 row elevations: both cameras solved and their match records written
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3278
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 1:34:11 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41278538048
+claimed_at: 2026-11-01T06:34:12.533Z
 decision: null
 decision_answer: null
 ---
