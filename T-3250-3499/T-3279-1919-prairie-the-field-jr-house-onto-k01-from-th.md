@@ -1,7 +1,7 @@
 ---
 id: T-3279
 title: 1919 Prairie, the Field Jr. house, onto K01 from the Gatlin Institute plates (1912, 1913): the broad brick front with its gables, corner tower, tall stacks and dormers over the sheet's plan; the 1913 plate's camera solved and its match record written
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1906
 opened: 2026-10-31
-closed: null
+closed: 2026-11-01
 pr: 1568
 claimed_by: run 11/1/2026, 5:09:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T13:06:50Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41300122221
 claimed_at: 2026-11-01T11:09:28.726Z
 decision: null
