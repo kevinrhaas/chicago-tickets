@@ -1,7 +1,7 @@
 ---
 id: T-1932
 title: Refine north-west alley coach houses and service courts
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 4:04:17 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41295387638
+claimed_at: 2026-11-01T10:04:18.372Z
 decision: null
 decision_answer: null
 ---
