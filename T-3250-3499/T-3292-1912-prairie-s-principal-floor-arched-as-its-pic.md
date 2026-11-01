@@ -39,3 +39,7 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1900 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+1. `moulton_lowden_house_1912_prairie` rebaked with the south gable's principal-floor pair as two round-headed lights (K06 `sash_paired_round`) and the door in a deep round-arched recess (K07 `double_door_deep_arch`) under a moulded voussoir ring, sized off the photograph through its solved camera.
+2. All three reference views re-rendered with `tools/photo_match.mjs`; each match record's arched-pair and entrance differences re-ruled against the new side-by-side (fixed, or still open with what remains), no other verdict changed without reason.
+3. The reconstructed parts (leaves, reveal depth, moulding) recorded as a liberty; `check.sh` green; smoke legs `--for-diff` names, desktop and mobile.
