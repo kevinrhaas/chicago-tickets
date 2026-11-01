@@ -34,3 +34,14 @@ When T-3288 was split (2026-11-01T09:28:14.286Z), this was already on it. Read i
 The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/runs/41287638672) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Left by T-3290 (2026-11-01)
+
+A capture tool for these views was drafted and dropped from T-3290's PR: on this runner's software GL the
+published `/1904/` door boots in a few minutes and each desktop Full stand took over a minute, so five
+stands at two viewports does not fit one 600 s foreground command; split it per viewport (or per stand).
+Three things learned: `page.screenshot` hangs once `setAnimationHold(true)` is on (shoot the `#view`
+canvas element, as `tools/critic_shots.mjs` does, and drive frames with `capture(4)`); stands derived
+30 m before the front land in the opposite yard behind its fence and street trees, so set them on the
+avenue's roadway (about 12-15 m out) or above the tree crowns; and use `walker.teleport` with `setFly(true)`
+for any stand with an altitude.
