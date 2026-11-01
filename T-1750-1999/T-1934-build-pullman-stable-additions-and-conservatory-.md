@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 1:33:11 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41280846773
-claimed_at: 2026-11-01T06:33:11.449Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -148,3 +148,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-10-31** (claim of run 10/31/2026, 9:03:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41263127137): PR #1549 (resume: gate still running, nothing red) found the 16554 'low V at x 335' was the south parkway's Calumet corner tree (e18th__prairie_calumet_18_20#p00, 39 m, still the grown elm forking at ~3.1 m) in front of the 18th Street file's tree, and grows it as a young elm on its leader clear to ~5 m (form limbed_head) off Taylor 16555 and 16554; the low-fork item fixed in both 16554 records. Newly open in both 16554 records: the winter elms at 15-70 m draw a few long limbs with no twig fringe where the print draws dense twigs (the app's winter draw at that distance). Still open: the house's raised porch and its stair (house record, T-1881) in the plate and 16555. Not split: the gate stays on this ticket.
 
 **Released 2026-11-01** (claim of run 10/31/2026, 11:25:14 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41272083027): PR #1554 (merged) draws the bare winter crowns' limbs, branches and twigs at the mid and far levels (within the summer leaf's triangle budget), so Taylor 16554's parkway elms at 15-70 m are no longer poles and sticks; both 16554 records re-judged and the item reworded. Still open in the match records: the grown elm's own winter habit at every level (long straight branch strokes at the summer droop angles, a few hundred twigs, where the print shows repeated ascending forks and a dense fringe: growElm's skeleton), and the house's raised porch and its stair (house record, T-1881). The house's two winter views (albertype_1890, detroit_det_4a08065) are left for T-1881 to re-render on the new winter trees. Not split: the gate stays on this ticket.
+
+**Released 2026-11-01** (claim of run 11/1/2026, 1:33:11 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41280846773): PR #1559 (resume: gate still running, nothing red) draws every bare elm on a winter skeleton (tree-model.js winterElm): branches only as far as they rise, no summer hanging twigs, and ascending sprouts forking up to three deep off every limb tip and along every branch, within the summer leaf's triangle budget; the grown parkway elm and the young elms on their leaders (16554's nearest trees). Both 16554 records re-judged: the flat crossing strokes are gone. Still open: the fringe's density at the mid ring (10-44 m, where the print's trees stand: a few dozen strokes a tree against the print's hundreds of twigs), and the house's raised porch and its stair (house record, T-1881). Not split: the gate stays on this ticket.
