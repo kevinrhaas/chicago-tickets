@@ -1,7 +1,7 @@
 ---
 id: T-3291
 title: 1912 Prairie's rear and roof faces, and the front, oblique, rear and roof browser views with their scene costs the envelope's acceptance asks for
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3288
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 5:08:29 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41300116604
+claimed_at: 2026-11-01T11:08:30.010Z
 decision: null
 decision_answer: null
 ---
