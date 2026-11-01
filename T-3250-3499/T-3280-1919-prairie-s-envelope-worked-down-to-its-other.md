@@ -1,7 +1,7 @@
 ---
 id: T-3280
 title: 1919 Prairie's envelope worked down to its other pictures (the c.1905 Daily News, the 1919 programme, the 1981 and 2004 photographs, the 1800-1900 elevations drawing): their cameras, the acquired strip and rear wing, the roof faces, and the rear, roof and cost views the envelope's acceptance asks for
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1906
 opened: 2026-10-31
-closed: null
+closed: 2026-11-01
 pr: 1576
 claimed_by: run 11/1/2026, 9:14:23 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T19:26:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41319814085
 claimed_at: 2026-11-01T15:14:24.557Z
 decision: null
