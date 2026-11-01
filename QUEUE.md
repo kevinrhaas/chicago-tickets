@@ -62,7 +62,6 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
 T-1932 — Refine north-west alley coach houses and service courts
-T-3290 — 1912 Prairie's corbelled corner turret built on the north flank from the photograph, and the storey heights and south stack the two drawings read ruled against it
 T-3291 — 1912 Prairie's rear and roof faces, and the front, oblique, rear and roof browser views with their scene costs the envelope's acceptance asks for
 T-3289 — K08: a segmental bow's cone is wound inward and culled from above — fix the quad path in _cone and rebake the bow-capped houses
 T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture

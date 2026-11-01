@@ -1,7 +1,7 @@
 ---
 id: T-3290
 title: 1912 Prairie's corbelled corner turret built on the north flank from the photograph, and the storey heights and south stack the two drawings read ruled against it
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3288
 opened: 2026-11-01
-closed: null
+closed: 2026-11-01
 pr: 1562
 claimed_by: run 11/1/2026, 3:28:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T10:13:17Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41287638672
 claimed_at: 2026-11-01T09:28:29.034Z
 decision: null
