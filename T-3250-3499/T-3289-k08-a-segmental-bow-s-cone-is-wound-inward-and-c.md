@@ -1,7 +1,7 @@
 ---
 id: T-3289
 title: K08: a segmental bow's cone is wound inward and culled from above — fix the quad path in _cone and rebake the bow-capped houses
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 3:07:31 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41290799363
+claimed_at: 2026-11-01T09:07:31.667Z
 decision: null
 decision_answer: null
 ---
