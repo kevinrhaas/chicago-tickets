@@ -1,7 +1,7 @@
 ---
 id: T-3293
 title: 1912 Prairie's roof ornament from its pictures: stone wall dormers with crocketed gables, pinnacles and finials in place of the plain slate dormers, the south gable's crockets and finial, and the tower's turned finial
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1900
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 9:18:42 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41320136699
+claimed_at: 2026-11-01T15:18:43.437Z
 decision: null
 decision_answer: null
 ---
