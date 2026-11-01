@@ -1,7 +1,7 @@
 ---
 id: T-3304
 title: dev's gate red: house_1726_prairie_coach_house__as_standing_1904.glb stale after #1580 (T-1932) merged onto a dev whose K01 inputs had moved; rebake the one structure and land its GLB
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 2:45:49 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41347446149
+claimed_at: 2026-11-01T20:45:49.517Z
 decision: null
 decision_answer: null
 ---
