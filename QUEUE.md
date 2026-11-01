@@ -195,3 +195,4 @@ T-3268 — Miller House's flat sign lettering hidden 0.17 m behind its own wall 
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3295 — 1904 brick walls read as one repeating tile: shuffle K03 panel bricks per wall and vary each brick's colour
 T-3297 — 1700-1706 Prairie's dormers opened and upper windows' heads dressed (owner's report 2026-11-01): each dormer's paired sash shows only its first light, the second stood behind the solid face, so the dormers read half shut; and the upper storey's eight windows lack the stone keys over their gauged flat arches that Chicagology's photograph shows
+T-3298 — 1637 Prairie's door, the window over it and its dormer centred on the front between the swell bay and the wing (owner's report 2026-11-01), the stoop, the fence's first post and the house walk moved with them
