@@ -1,7 +1,7 @@
 ---
 id: T-3289
 title: K08: a segmental bow's cone is wound inward and culled from above — fix the quad path in _cone and rebake the bow-capped houses
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1563
 claimed_by: run 11/1/2026, 3:07:31 AM CT
 blocked_on: null
 needs_bake: false
