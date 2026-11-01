@@ -192,3 +192,4 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3268 — Miller House's flat sign lettering hidden 0.17 m behind its own wall since the T-2381 low log wing (dev's desktop smoke part 1 red)
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
+T-3295 — 1904 brick walls read as one repeating tile: shuffle K03 panel bricks per wall and vary each brick's colour
