@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive session (Kevin's thread: Pullman front steps in, PR 1552) 10/31/2026, 11:10:27 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-01T04:10:28.268Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -138,3 +138,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-10-31** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 6:16:55 PM CT): no reason given
 
 **Released 2026-10-31** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 9:47:12 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41263122150): PR #1550 (the forward block's light over the portico framed in a moulded architrave via a new K08 bay-light architrave key, off the 1890 Albertype plate; the plate's item fixed, the light's foot within tolerance against the Detroit print) is up on resume while its CI gate finishes; the big light's sill on its two blocks (the plate and the Detroit print disagree on the spacing between the step and the light), the Prairie dormer's place, the 18th Street posts, the trees, the ivy and the unsolved CHM 1905 views remain, so the owner's ticket stays open
+
+**Released 2026-10-31** (claim of interactive session (Kevin's thread: Pullman front steps in, PR 1552) 10/31/2026, 11:10:27 PM CT): PR 1552 merged to dev (recessed centre between two pavilions, per Kevin 2026-11-01). Image gate still differs: pavilion depth (K08 max 1.2 m), balcony run, Taylor 1445 camera re-solve, pavilion light architraves (PR 1550's K08 key).
