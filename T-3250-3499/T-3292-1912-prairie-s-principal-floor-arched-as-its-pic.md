@@ -1,7 +1,7 @@
 ---
 id: T-3292
 title: 1912 Prairie's principal floor arched as its pictures draw it: the south gable's pair round-headed, and the door set in a deep round-arched recess with a moulded voussoir ring
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1900
 opened: 2026-11-01
-closed: null
+closed: 2026-11-01
 pr: 1572
 claimed_by: run 11/1/2026, 8:12:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T15:10:18Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41314236215
 claimed_at: 2026-11-01T14:12:34.482Z
 decision: null
