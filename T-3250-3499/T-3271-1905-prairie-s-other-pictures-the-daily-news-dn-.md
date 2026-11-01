@@ -1,7 +1,7 @@
 ---
 id: T-3271
 title: 1905 Prairie's other pictures: the Daily News (DN-0003324), '923' and engraving cameras solved, the front's length re-read, the rear and north faces, and the views' sign-off
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1905
 opened: 2026-10-31
 closed: null
-pr: null
+pr: 1557
 claimed_by: run 10/31/2026, 11:33:56 PM CT
 blocked_on: null
 needs_bake: false
