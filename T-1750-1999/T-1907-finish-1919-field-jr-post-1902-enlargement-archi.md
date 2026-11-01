@@ -1,7 +1,7 @@
 ---
 id: T-1907
 title: Finish 1919 Field Jr. post-1902 enlargement architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-01
 pr: null
 claimed_by: run 11/1/2026, 1:56:21 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-01T19:58:11.154Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41343504301
 claimed_at: 2026-11-01T19:56:22.218Z
 decision: null

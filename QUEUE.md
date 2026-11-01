@@ -66,7 +66,9 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 T-1932 — Refine north-west alley coach houses and service courts
 T-3293 — 1912 Prairie's roof ornament from its pictures: stone wall dormers with crocketed gables, pinnacles and finials in place of the plain slate dormers, the south gable's crockets and finial, and the tower's turned finial
 T-3294 — 1912 Prairie's sign-off: the tower's and corner turret's heights against the photograph, the enclosing arch over the south pair, the entrance's carved capitals, the ivy, and every view's last difference fixed or marked within tolerance
-T-1907 — Finish 1919 Field Jr. post-1902 enlargement architecture
+T-3301 — 1919 Prairie's street roof from its pictures: the second, one-light street dormer near the front's south end and the stack behind it, and the broad dormer's stone-coped gable with kneelers and finial
+T-3302 — 1919 Prairie's front and flank stone from its pictures: the pale stone belts, quoins and window dressings across the brick, the bow carried up to the eave, the rounded north corner and the arched entrance
+T-3303 — 1919 Prairie's north flank and rear ranges from its pictures: the flat-topped two-storey bays with stone mullioned windows, the stepped finialled gables and the pinnacled dormers between them, and its remaining pictures solved and worked to matches
 T-3283 — 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
 T-1936 — Refine east 1800-1900 service buildings
 T-1933 — Refine north-east rear service buildings
