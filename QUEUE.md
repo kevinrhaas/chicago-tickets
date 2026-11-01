@@ -26,7 +26,6 @@
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading
-T-3300 — 1835 boot payload 41.363 MB over its 36.2 MB budget (docs/SITE-BUDGET.md §4): unmeasured since 2026-10-17 because every content-build bake was cancelled before its desktop 1-2 smoke leg; reproduced byte-identical on dev's committed tree without a bake (prebuilt ground 10.9 MB, frontage 6.7, streets 3.9, yards 3.1); bring it under or re-argue the budget with the reading
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
@@ -63,7 +62,6 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
 T-1932 — Refine north-west alley coach houses and service courts
-T-3293 — 1912 Prairie's roof ornament from its pictures: stone wall dormers with crocketed gables, pinnacles and finials in place of the plain slate dormers, the south gable's crockets and finial, and the tower's turned finial
 T-3294 — 1912 Prairie's sign-off: the tower's and corner turret's heights against the photograph, the enclosing arch over the south pair, the entrance's carved capitals, the ivy, and every view's last difference fixed or marked within tolerance
 T-3301 — 1919 Prairie's street roof from its pictures: the second, one-light street dormer near the front's south end and the stack behind it, and the broad dormer's stone-coped gable with kneelers and finial
 T-3302 — 1919 Prairie's front and flank stone from its pictures: the pale stone belts, quoins and window dressings across the brick, the bow carried up to the eave, the rounded north corner and the arched entrance
