@@ -1,7 +1,7 @@
 ---
 id: T-3291
 title: 1912 Prairie's rear and roof faces, and the front, oblique, rear and roof browser views with their scene costs the envelope's acceptance asks for
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3288
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1567
 claimed_by: run 11/1/2026, 5:08:29 AM CT
 blocked_on: null
 needs_bake: false
