@@ -1,7 +1,7 @@
 ---
 id: T-3296
 title: Content build's bake job dies at its 30-minute cap on every full bake since 2026-10-17 (nightly last green 10-16; dev 99 of 100 cancelled): 262 drifted masters re-derive each time (14 min, Glessner's KTX2 alone ~9) so no bake ever lands to clear the drift, and generator PRs (#1575, #1577) cannot merge
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1582
 claimed_by: run 11/1/2026, 12:26:40 PM CT
 blocked_on: null
 needs_bake: false
