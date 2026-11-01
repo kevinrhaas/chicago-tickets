@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 7:55:03 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41312532908
-claimed_at: 2026-11-01T13:55:03.948Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -156,3 +156,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-01** (claim of run 11/1/2026, 5:04:59 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41299872975): PR #1566 (resume: gate still running, nothing red) gives a bare elm its own summer leaf's budget at the mid and far rings (tree-model.js): past 44 m it now draws a fringe twig off each limb tip (11-12 a grown elm, was none; ELM_FRINGE.far spike 0.08, reserve 0.5) and its skipped wood as spikes, in the same triangles; at 10-44 m about 640 twigs where it drew 450 (the second fork with what is left), still under the summer leaf (2,530 vs 2,580). All 13 estate records re-stamped, verdicts kept; four winter side-by-sides re-rendered; both 16554 crown items noted. Still open in the match records: the print's crowns denser yet, most of all at the far ring (a dozen twigs a tree), and the house's raised porch and its stair (house record, T-1881). Not split: the gate stays on this ticket.
 
 **Released 2026-11-01** (claim of run 11/1/2026, 6:20:13 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41305321032): PR #1569 (resume: gate still running, nothing red) draws the two level transoms both pictures show across the 1800 Calumet conservatory's north arch (1.5 and 3.0 m over the springing, the frame's paint; k13 arch_transoms) and three low palms behind its lower lights; both pavilion records' bars item fixed. Still open in the match records: the arch's lower register reads lighter than the pictures (sky through the far glass; no shade put back after the owner's 'black box'), the house's raised porch and its stair (house record, T-1881), and the winter crowns' density. Not split: the gate stays on this ticket.
+
+**Released 2026-11-01** (claim of run 11/1/2026, 7:55:03 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41312532908): PR #1574 (resume: gate still running, nothing red) plants the conservatory at 1800 Calumet across its north arch's lower register: twenty more palms in four rows across the nave (2.3, 2.9, 5.6, 10 m in; crowns 3.9-6.4 m, rising with depth) and against both side walls, every frond 0.14 m+ clear of the glass (L-pullman-pavilion-arch-planting-1934); both pavilion records now matches (Lowe's 1 m west-edge strip within tolerance: diagnostic camera). Still open in the match records: the house's raised porch and its stair (house record, T-1881), the stack behind the house's rear face in 16554, and the winter crowns' density. Not split: the gate stays on this ticket.
