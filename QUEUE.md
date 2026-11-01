@@ -64,6 +64,7 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 T-3271 — 1905 Prairie's other pictures: the Daily News (DN-0003324), '923' and engraving cameras solved, the front's length re-read, the rear and north faces, and the views' sign-off
 T-1932 — Refine north-west alley coach houses and service courts
 T-3288 — 1912 Prairie's envelope worked down to its pictures: the north flank's corbelled corner turret and stack, the storey heights both drawings read, the rear and roof faces, and the rear, roof and cost views the envelope's acceptance asks for
+T-3289 — K08: a segmental bow's cone is wound inward and culled from above — fix the quad path in _cone and rebake the bow-capped houses
 T-1900 — Finish 1912 Moulton-Lowden Chateauesque house architecture
 T-3279 — 1919 Prairie, the Field Jr. house, onto K01 from the Gatlin Institute plates (1912, 1913): the broad brick front with its gables, corner tower, tall stacks and dormers over the sheet's plan; the 1913 plate's camera solved and its match record written
 T-3280 — 1919 Prairie's envelope worked down to its other pictures (the c.1905 Daily News, the 1919 programme, the 1981 and 2004 photographs, the 1800-1900 elevations drawing): their cameras, the acquired strip and rear wing, the roof faces, and the rear, roof and cost views the envelope's acceptance asks for
