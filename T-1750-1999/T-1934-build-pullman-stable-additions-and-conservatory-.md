@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 6:20:13 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41305321032
-claimed_at: 2026-11-01T12:20:14.150Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -154,3 +154,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-01** (claim of run 11/1/2026, 3:35:23 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41293475556): PR #1564 (resume: gate still running, nothing red) draws the winter elm's fringe twigs at the mid ring (10-44 m) as three-sided spikes (tree-model.js spike, ELM_FRINGE.mid.spike: 3 triangles where the stroke spent 6, foot 0.02 m), so the same summer-leaf budget draws twice the twigs (grown parkway elm ~440 at that ring, was ~220; young elms 60-90, were 30-45); both 16554 records re-judged, the crown item noted. Still open in the match records: the print's crowns denser yet (hundreds of twigs at each rim), no fringe past 44 m (far ring), and the house's raised porch and its stair (house record, T-1881). Not split: the gate stays on this ticket.
 
 **Released 2026-11-01** (claim of run 11/1/2026, 5:04:59 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41299872975): PR #1566 (resume: gate still running, nothing red) gives a bare elm its own summer leaf's budget at the mid and far rings (tree-model.js): past 44 m it now draws a fringe twig off each limb tip (11-12 a grown elm, was none; ELM_FRINGE.far spike 0.08, reserve 0.5) and its skipped wood as spikes, in the same triangles; at 10-44 m about 640 twigs where it drew 450 (the second fork with what is left), still under the summer leaf (2,530 vs 2,580). All 13 estate records re-stamped, verdicts kept; four winter side-by-sides re-rendered; both 16554 crown items noted. Still open in the match records: the print's crowns denser yet, most of all at the far ring (a dozen twigs a tree), and the house's raised porch and its stair (house record, T-1881). Not split: the gate stays on this ticket.
+
+**Released 2026-11-01** (claim of run 11/1/2026, 6:20:13 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41305321032): PR #1569 (resume: gate still running, nothing red) draws the two level transoms both pictures show across the 1800 Calumet conservatory's north arch (1.5 and 3.0 m over the springing, the frame's paint; k13 arch_transoms) and three low palms behind its lower lights; both pavilion records' bars item fixed. Still open in the match records: the arch's lower register reads lighter than the pictures (sky through the far glass; no shade put back after the owner's 'black box'), the house's raised porch and its stair (house record, T-1881), and the winter crowns' density. Not split: the gate stays on this ticket.
