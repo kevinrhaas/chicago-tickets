@@ -1,7 +1,7 @@
 ---
 id: T-3283
 title: 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1908
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 6:31:33 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41306427446
-claimed_at: 2026-11-01T12:31:34.280Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1908 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-01** (claim of run 11/1/2026, 6:31:33 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41306427446): PR #1571 (resume: gate still running) ships 1923's arched, widened porch, swept stoop cheeks, blind panel and taller chamber lights, and both houses' front/oblique/rear/roof views and costs. Still open on the match records, all needing K01/K11 kit work rather than record values: 1923's paired porch columns, scroll-panel fence and corner-bay width (drawing vs sheet); 1945's taller corner mansard, the north bay's dormered crown (K01 dormers only a square projection's crown), its round-arched door (K01 arches a door only in a stone front) and the flank camera fit.
