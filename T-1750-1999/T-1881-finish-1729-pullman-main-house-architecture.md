@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 9:47:12 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-01T02:47:12.715Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -136,3 +136,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-10-31** (claim of run 10/31/2026, 8:36:43 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41205924449): PR #1529 (the 1890 Albertype plate's 'round-arched windows on both storeys under moulded heads': the four K01 Prairie-front lights framed in moulded architraves with imposts and keystones, via a new K01 street_front_windows architrave key) is up on resume while its CI gate finishes; the forward block's K08 light over the portico and the big light's sill on its blocks (now open in the plate's record), the rear east face stepped, the ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-10-31** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 6:16:55 PM CT): no reason given
+
+**Released 2026-10-31** (claim of interactive session (Kevin's thread: Pullman estate vs Taylor 16554) 10/31/2026, 9:47:12 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41263122150): PR #1550 (the forward block's light over the portico framed in a moulded architrave via a new K08 bay-light architrave key, off the 1890 Albertype plate; the plate's item fixed, the light's foot within tolerance against the Detroit print) is up on resume while its CI gate finishes; the big light's sill on its two blocks (the plate and the Detroit print disagree on the spacing between the step and the light), the Prairie dormer's place, the 18th Street posts, the trees, the ivy and the unsolved CHM 1905 views remain, so the owner's ticket stays open
