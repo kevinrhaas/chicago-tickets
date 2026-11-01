@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 5:14:05 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41246502208
-claimed_at: 2026-10-31T22:14:05.867Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -147,3 +147,5 @@ match record's open differences name both):
 **Released 2026-10-31** (claim of run 10/31/2026, 8:06:53 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41203807587): PR #1528 (resume, waiting only on the chicago-4d-check gate; locally check.sh green on the dev-merged tree in two halves, smoke part 3 green at desktop and mobile) stands HABS photograph 1's slated hood on the cross roof's ridge end, the finial on its apex 0.5 m over the ridge (HABS 1 'hood under the cross roof's finial' fixed, Taylor 'cross roof finial's top' fixed; HABS 1's apex height and HABS 2's 1965 spikeless finial within tolerance as picture disagreements). The image gate still has 4 open differences on the three Kimball match records (HABS 1 south cornice heights; HABS 2 frontispiece place and east range stack; Taylor flank section depth).
 
 **Released 2026-10-31** (claim of run 10/31/2026, 11:14:29 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41217563865): PR #1533 (resume, waiting only on the chicago-4d-check gate; locally check.sh 1113/1113 on the dev-merged tree and smoke part 3 green at desktop and mobile) pitches the east range's 18th Street end at 60 degrees and stands HABS photograph 2's pale stone stack on its apex — K01 wings gain end_pitch_deg and stacks (HABS 2 'tall stack behind the frontispiece's gable' now fixed; Taylor and HABS 1 cannot see it). The image gate still has 3 open differences on the three Kimball match records (HABS 1 south cornice heights; HABS 2 frontispiece's place; Taylor flank section depth); more than one run holds them, and a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-10-31** (claim of run 10/31/2026, 5:14:05 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41246502208): PR #1545 (resume, waiting only on the chicago-4d-check gate; locally check.sh green in parts on the dev-merged tree, smoke part 3 green at desktop and mobile) stands the 18th Street section at the 1911 sheet's 0.1 m as a shallow projection, 6.97 m to the tower, its corner, lights, gable and corner round carried back along the Taylor camera's rays (Taylor 'flank section depth' now fixed; the Taylor record now matches). The image gate still has 2 open differences on the Kimball match records (HABS 1 south cornice heights; HABS 2 frontispiece's place); a sign-off is never split, so the rest goes back to the queue.
