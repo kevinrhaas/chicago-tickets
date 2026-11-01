@@ -1,7 +1,7 @@
 ---
 id: T-3288
 title: 1912 Prairie's envelope worked down to its pictures: the north flank's corbelled corner turret and stack, the storey heights both drawings read, the rear and roof faces, and the rear, roof and cost views the envelope's acceptance asks for
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3278
 opened: 2026-11-01
-closed: null
+closed: 2026-11-01
 pr: null
 claimed_by: run 11/1/2026, 2:14:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-01T09:28:19.490Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41287638672
 claimed_at: 2026-11-01T08:14:36.393Z
 decision: null
