@@ -1,7 +1,7 @@
 ---
 id: T-3283
 title: 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1908
 opened: 2026-10-31
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 2:09:03 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41344699368
+claimed_at: 2026-11-01T20:09:04.023Z
 decision: null
 decision_answer: null
 ---
