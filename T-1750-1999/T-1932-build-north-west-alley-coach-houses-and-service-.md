@@ -1,7 +1,7 @@
 ---
 id: T-1932
 title: Refine north-west alley coach houses and service courts
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 11:01:54 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41328931919
-claimed_at: 2026-11-01T17:01:54.677Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -78,3 +78,5 @@ Pictures:
 **Released 2026-11-01** (claim of run 11/1/2026, 6:17:47 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41305327583): PR #1570 refines 1700-1706's alley building (glessner_lee_house_1700_prairie_coach_house) in place onto the K12 coach-house kit from the 1911 sheet (10.42 x 19.37 m, 2 storeys, brick, stable X, one window mark at the middle of the alley wall, north wall on the lot line, a dashed partition inside, not built) and Robinson 1886's crossed brick stable behind lot 2 (1702, 105 ft); party wall north, open gable south, 30-degree roof; draft rules skip s20-1700-r1; alley pole #04 steps 0.45 m west. Found, open on this ticket: the renderer beds a K12 stable at the lowest ground under its feet and counts the workyard paving's y=0 edges as feet, so on ground falling east 1700's stable sits 8.5 cm low and its apron lies under the lawn beside the yard wall (1712's clears by millimetres); a renderer/GLB-contract fix (building-feet.js), see docs/RESEARCH/k12-1700-stable-1932/README.md. Still to do: 1630, 1720, 1726, 1730, still the draft's; 1620's image-gate items stay open as #1525 left them. Not split: the gate stays on this ticket.
 
 **Released 2026-11-01** (claim of run 11/1/2026, 8:00:02 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41313650912): PR #1573 (resume: gate still running, its only earlier red fixed) refines 1720's alley building (walker_house_1720_prairie_coach_house) in place onto the K12 coach-house kit from the 1911 sheet (stable 10.11 x 16.61 m, 2 storeys, brick, stable X, window mark 8.90 m from its north wall; a 1-storey brick range 4.22 m deep running on 6.93 m south along the alley to the 1720/1726 lot line, window mark at the line) and Robinson 1886's crossed brick stable and uncrossed range behind lot 4 (which divide the run about 11.2 + 13.4 m against the sheet's 16.6 + 6.9; the sheet's division built). The kit gains a 'range' fitting (two new self-tests); the other nine K12 coach houses rebake byte-identical; draft rules skip s20-1720-r1 and r2. By 1911 the range ran on past the lot line to 1726's garage; built ending on the line as the plate ends it, so 1726's draft still stands its 2-storey piece 0.56 m south. Still to do: 1630, 1726, 1730, still the draft's; 1620's image-gate items stay open as #1525 left them. Not split: the gate stays on this ticket.
+
+**Released 2026-11-01** (claim of run 11/1/2026, 11:01:54 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41328931919): PR #1580 (resume: gate still running, nothing red) refines 1726's alley building (house_1726_prairie_coach_house) in place onto the K12 coach-house kit in mirror image from the 1911 sheet (14.08 x 11.66 m, 2 storeys, brick, lettered GARAGE, fire-wall signs both ends, one window mark on the alley wall; party wall south on the 1726/1730 lot line), built as a stable as 1736's GARAGE is; Robinson 1886 has a frame building there, so it postdates 1886. The 1911 range piece joining 1720's range across the lot line is not built for 1904. Draft rules skip s20-1726-r1. Still to do: 1630 and 1730, still the draft's; 1620's image-gate items stay open as #1525 left them. Not split: the gate stays on this ticket.
