@@ -1,0 +1,26 @@
+---
+id: T-3297
+title: 1700-1706 Prairie's dormers opened and upper windows' heads dressed (owner's report 2026-11-01): each dormer's paired sash shows only its first light, the second stood behind the solid face, so the dormers read half shut; and the upper storey's eight windows lack the stone keys over their gauged flat arches that Chicagology's photograph shows
+state: open
+epic: SOUTH_TIME
+requested_by: owner
+seen: true
+effort: S
+legacy_id: null
+parent: null
+opened: 2026-11-01
+closed: null
+pr: null
+claimed_by: null
+blocked_on: null
+needs_bake: false
+closed_at: null
+claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
+---
+
+1700-1706 Prairie's dormers opened and upper windows' heads dressed (owner's report 2026-11-01): each dormer's paired sash shows only its first light, the second stood behind the solid face, so the dormers read half shut; and the upper storey's eight windows lack the stone keys over their gauged flat arches that Chicagology's photograph shows.
+
+**Acceptance:** (state it before working — the definition of done, never weakened to pass)
