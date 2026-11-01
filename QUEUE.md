@@ -27,6 +27,7 @@
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 T-3173 — 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading
 T-3296 — Content build's bake job dies at its 30-minute cap on every full bake since 2026-10-17 (nightly last green 10-16; dev 99 of 100 cancelled): 262 drifted masters re-derive each time (14 min, Glessner's KTX2 alone ~9) so no bake ever lands to clear the drift, and generator PRs (#1575, #1577) cannot merge
+T-3299 — check.sh no longer fits one 600 s foreground call on a 4-core steward runner: 1118 steps ran past 600 s on 2026-11-01 (one red step, so the verdict came only after the cap), and a re-run on the same tree was cut off by timeout at 585 s just after its publish step; find the new heavy tail with CHECK_TIMINGS and cut it, or re-argue the budget in check.sh's header
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
