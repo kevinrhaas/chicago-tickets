@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive: Pullman facade rework round 3 11/1/2026, 10:50:23 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-01T16:50:23.911Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -144,3 +144,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-01** (claim of run 11/1/2026, 12:14:20 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41275789632): PR #1556 (two round-headed dormers on the rear mansard, each over a rear window bay, off Taylor's 16554; places reconstructed, L-pullman-1729-rear-dormers-1881; Taylor 1445's 'SW corner 110 px' reading corrected: the corner fit holds) is up on resume while CI's gate finishes; the rear face 'stepped' (16554 draws the rear face only ~6-7 m deep at the cornice, which needs a 16554 camera fitted to the house), the rear stack, the pavilions' depth, the balcony run, the pavilion light architraves (#1550, held), the trees, the ivy and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-11-01** (claim of run 11/1/2026, 2:06:57 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41286876418): PR #1561 (owner's 2026-10-30 item 2, the rear face 'stepped': a camera for Taylor 16554 in the house's frame and its match record; the rear wall's north section built as a K08 step 0.9 m out under its own mansard with two lights a storey and two dormers, the south section one and one, off the print; depth reconstructed, L-pullman-1729-rear-step-1881) is up on resume while its CI gate finishes; the porte-cochere's depth through 16554, the mansard cresting, the pavilions' depth, the 18th Street posts, the trees, the ivy and the unsolved CHM 1905 views remain, so the owner's ticket stays open
+
+**Released 2026-11-01** (claim of interactive: Pullman facade rework round 3 11/1/2026, 10:50:23 AM CT): Round 3 (owner's sketches) merged to dev in PR 1581; match records stay differs, so the ticket returns to the queue for the next lap
