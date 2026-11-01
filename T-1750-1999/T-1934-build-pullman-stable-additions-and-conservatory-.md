@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 10/31/2026, 9:03:58 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41263127137
-claimed_at: 2026-11-01T02:03:59.362Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -144,3 +144,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-10-31** (claim of run 10/31/2026, 12:30:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41223995286): PR #1536 (resume: gate still running; dev's walk-joins red is T-3276) plants the 14 clipped evergreens Taylor's 16554 shows behind the 18th Street coping before the stable (cones, sheared balls, a clipped column, the east mass), each on its pixel column, at the depth 16555 crosses them; the 16554 planting item's shrubs fixed. Still open in the match records: the young elm's head starting 2-3 m low on its leader, the coping's height (16554 reads it about 0.55 m against the built 0.9 m), the lamp's height (T-3267) and the house items (T-1881). Not split: the gate stays on this ticket.
 
 **Released 2026-10-31** (claim of run 10/31/2026, 6:03:34 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41249866706): PR #1548 (resume: gate still running, nothing red; part 3 green at both viewports, the diff's check.sh steps green, the full check.sh did not finish in 20 min on this runner) withdraws the rule's grown elm that drew before the stable's stack in Taylor 16554 (calumet__prairie_ic_16_18, 19.4 m) and plants the print's trunk at 16.1 m; the 16554 coping height marked within tolerance (Detroit c.1900 + 1894 plate 0.9 m against 16554's 0.55 m), the lamp's height under T-3267's owner ruling, 16555's wing tone within tolerance, 16554's house-colour item fixed by T-1881. Still open in the match records: the house's raised porch and its stair (house record, T-1881) in the plate and 16555, and 18th Street's young elm at x 335 forking in a low V at about 3.7 m where 16554's crowns start about 5 m up (a crownBase 0.42 habit was tried and did not move it: the fork is not crownBase at that distance). Not split: the gate stays on this ticket.
+
+**Released 2026-10-31** (claim of run 10/31/2026, 9:03:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41263127137): PR #1549 (resume: gate still running, nothing red) found the 16554 'low V at x 335' was the south parkway's Calumet corner tree (e18th__prairie_calumet_18_20#p00, 39 m, still the grown elm forking at ~3.1 m) in front of the 18th Street file's tree, and grows it as a young elm on its leader clear to ~5 m (form limbed_head) off Taylor 16555 and 16554; the low-fork item fixed in both 16554 records. Newly open in both 16554 records: the winter elms at 15-70 m draw a few long limbs with no twig fringe where the print draws dense twigs (the app's winter draw at that distance). Still open: the house's raised porch and its stair (house record, T-1881) in the plate and 16555. Not split: the gate stays on this ticket.
