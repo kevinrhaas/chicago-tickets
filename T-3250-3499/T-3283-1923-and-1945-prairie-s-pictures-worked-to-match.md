@@ -1,7 +1,7 @@
 ---
 id: T-3283
 title: 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1908
 opened: 2026-10-31
 closed: null
-pr: null
+pr: 1610
 claimed_by: run 11/2/2026, 7:30:13 AM CT
 blocked_on: null
 needs_bake: false
