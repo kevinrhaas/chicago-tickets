@@ -1,7 +1,7 @@
 ---
 id: T-3301
 title: 1919 Prairie's street roof from its pictures: the second, one-light street dormer near the front's south end and the stack behind it, and the broad dormer's stone-coped gable with kneelers and finial
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1907
 opened: 2026-11-01
-closed: null
+closed: 2026-11-01
 pr: 1589
 claimed_by: run 11/1/2026, 1:58:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T00:35:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41343504301
 claimed_at: 2026-11-01T19:58:15.719Z
 decision: null
