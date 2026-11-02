@@ -70,6 +70,7 @@ T-3283 — 1923 and 1945 Prairie's pictures worked to matches: every open differ
 T-1936 — Refine east 1800-1900 service buildings
 T-1933 — Refine north-east rear service buildings
 T-1943 — Finish north-block boundaries, gardens and frontage fittings
+#   ? T-1943 DECISION: T-1943's north-block grounds look already built by later, finer tickets. Close it (and leave T-1944/T-1945 for the same check), or keep it for what is left? — (a) Close T-1943 as delivered: every 16th-18th house now has its own boundary and walk (T-3204 pieces T-3214/3221/3222/3229/3230; the 1700 block per house), front yards (T-3203/3223), lamps (T-3199), hydrants and poles (T-3201/3202), curb and carriage walks (T-2474), corner ramps (T-3200), parkway elms (T-2473). Carriage blocks and hitching posts stay picture-only per your 2026-10-27 ruling.  (b) Keep T-1943 for the remainder only: a north-block walk at phone and desktop sizes with its costs recorded, plus coal-hole covers, basement areaways and side carriage drives wherever a picture or the Sanborn sheet shows one (nothing placed by rule). — recommended: (a)
 T-1901 — Refine 1916-1930 identity and 1936 Allerton estate envelope
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary

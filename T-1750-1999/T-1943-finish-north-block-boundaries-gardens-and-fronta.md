@@ -17,7 +17,7 @@ needs_bake: true
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41379397907
 claimed_at: 2026-11-02T02:58:38.232Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -59,3 +59,14 @@ Owner, 2026-10-11: "if you have an image you should work towards it until it's a
 Before building, open every picture listed here (the image store holds them all since 2026-10-11: `https://kevinrhaas.github.io/chicago-images/prairie-1904/files/<id>.jpg`; the Prairie viewer shows each with its credit). Read the building off the pictures themselves, not off their one-line summaries. Solve each picture's camera into `data/reference_views/<structure_id>/<view>.json` and build. Then render with `node tools/photo_match.mjs` and work the side-by-side down until nothing the picture shows differs: massing, bays, every opening's shape and height, ornament, cornice, porch and stoop, roof and chimneys, fence, materials and tone. A later picture is evidence of its own date, so an alteration it shows is argued in the match record, not copied (AGENTS.md rule 11; `data/reference_views/README.md`).
 
 No picture of this building was found by address in the Prairie library on 2026-10-11. Before building, search the library (every record, street views and neighbours' plates included) and `data/sources/`. If one turns up, add an `## Image gate` section here naming the structure id as a bullet.
+
+## Decision needed
+
+**Question:** T-1943's north-block grounds look already built by later, finer tickets. Close it (and leave T-1944/T-1945 for the same check), or keep it for what is left?
+
+- (a) Close T-1943 as delivered: every 16th-18th house now has its own boundary and walk (T-3204 pieces T-3214/3221/3222/3229/3230; the 1700 block per house), front yards (T-3203/3223), lamps (T-3199), hydrants and poles (T-3201/3202), curb and carriage walks (T-2474), corner ramps (T-3200), parkway elms (T-2473). Carriage blocks and hitching posts stay picture-only per your 2026-10-27 ruling.
+- (b) Keep T-1943 for the remainder only: a north-block walk at phone and desktop sizes with its costs recorded, plus coal-hole covers, basement areaways and side carriage drives wherever a picture or the Sanborn sheet shows one (nothing placed by rule).
+
+**Recommendation:** (a) Close T-1943 as delivered: every 16th-18th house now has its own boundary and walk (T-3204 pieces T-3214/3221/3222/3229/3230; the 1700 block per house), front yards (T-3203/3223), lamps (T-3199), hydrants and poles (T-3201/3202), curb and carriage walks (T-2474), corner ramps (T-3200), parkway elms (T-2473). Carriage blocks and hitching posts stay picture-only per your 2026-10-27 ruling. — Run on 2026-11-02 (slice 5/5) claimed T-1943 and found nothing left to build that is not already standing or that your 2026-10-27 carriage-block ruling did not take out. Walking the 1600 block at 1280x800, the only fronts without a fence are the east side's, which are open on purpose (1621/1623 drawings and the 1625 photograph, T-3221). The ticket also still depends on T-2163, which is blocked-tech on T-2983, although every piece of T-2983 (T-3008/3009/3011/3018/3019) is done, so that block is stale. Recommending (a) so the queue stops sending runs to a package the per-house tickets already built.
+
+**Asked:** 2026-11-01 by https://github.com/kevinrhaas/polecat-platform/actions/runs/41379397907. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
