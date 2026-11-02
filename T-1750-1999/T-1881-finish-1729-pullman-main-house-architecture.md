@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 4:41:06 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41428259954
-claimed_at: 2026-11-02T10:41:07.258Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -154,3 +154,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-01** (claim of run 11/1/2026, 11:55:38 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41389885723): PR #1601 (the ivy mantle closes over the principal storey's round-arched light, off the Detroit print, via a new mantle_head creeper form) is up on resume while its CI gate finishes; the porte-cochere's and porch's piers' ivy, the winter render's leafless ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-11-02** (claim of run 11/2/2026, 12:54:31 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41401543525): PR #1603 (the porte-cochere's corner pier clothed in ivy to its entablature, both faces, off the Detroit print, placed off the sidecar's own porte_cochere via a new creeper_piers planter key; Detroit's item fixed, Taylor 1445's earlier bare pier within tolerance) is up on resume while its CI gate finishes; the porch piers' and the south arch ring's ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
+
+**Released 2026-11-02** (claim of run 11/2/2026, 4:41:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41428259954): PR #1607 (the Detroit print's ivy reviewed in leaf among its bare trees: photo_match's new flora.creeper_in_leaf draws the lots' ivy in summer leaf and everything else in the picture's season; Detroit's 'ivy over the walls' fixed, 13 other records re-hashed with pixel-identical renders) is up on resume while its CI gate finishes; the 18th Street posts (Detroit and Taylor 1445 disagree), the Prairie dormer's place, the front parts' depth and the portico's reach, the corner trunk, the trees' size and crowns and the unsolved CHM 1905 views remain, so the owner's ticket stays open
