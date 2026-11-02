@@ -1,7 +1,7 @@
 ---
 id: T-3313
 title: 1919 Prairie's bow carried up to the eave under the main cornice, from its pictures
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3306
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1615
 claimed_by: run 11/2/2026, 8:43:39 AM CT
 blocked_on: null
 needs_bake: false
