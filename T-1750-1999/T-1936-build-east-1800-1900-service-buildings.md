@@ -1,7 +1,7 @@
 ---
 id: T-1936
 title: Refine east 1800-1900 service buildings
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/2/2026, 2:13:55 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41410023930
+claimed_at: 2026-11-02T08:13:55.768Z
 decision: null
 decision_answer: null
 ---
