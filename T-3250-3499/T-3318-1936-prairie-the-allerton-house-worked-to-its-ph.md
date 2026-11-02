@@ -1,7 +1,7 @@
 ---
 id: T-3318
 title: 1936 Prairie, the Allerton house, worked to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle the front's composition between the photograph and the 1911 sheet, and build the square belvedere tower, the verandah's columns and place, the entrance in the tower with its stoop running north, the stacks and the deck's height
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1901
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/2/2026, 4:46:41 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41539225355
+claimed_at: 2026-11-02T22:46:41.912Z
 decision: null
 decision_answer: null
 ---
