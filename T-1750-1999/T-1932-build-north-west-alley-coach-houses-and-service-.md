@@ -1,7 +1,7 @@
 ---
 id: T-1932
 title: Refine north-west alley coach houses and service courts
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1608
 claimed_by: run 11/2/2026, 5:14:37 AM CT
 blocked_on: null
 needs_bake: true
