@@ -1,7 +1,7 @@
 ---
 id: T-3305
 title: 1919 Prairie's stone basement, the pale stone courses across its front and north-flank brick, and the round-arched entrance at the stoop's head, from its pictures
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3302
 opened: 2026-11-01
-closed: null
+closed: 2026-11-02
 pr: 1595
 claimed_by: run 11/1/2026, 7:11:25 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T14:30:55Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41368952838
 claimed_at: 2026-11-02T01:11:26.439Z
 decision: null
