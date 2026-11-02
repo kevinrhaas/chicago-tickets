@@ -1,7 +1,7 @@
 ---
 id: T-3316
 title: 1701 Hibbard's rear stable and its 1½-storey south stable to the Chicagology photograph that shows them (a hipped roof under a square lantern, a gabled dormer, oculi, a gabled south wing; the image gate), on the parallelogram plan the 1911 sheet draws
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3310
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 9:59:58 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41474346700
-claimed_at: 2026-11-02T15:59:59.517Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -46,3 +46,5 @@ T-3310 carries an `## Image gate` section. The last of these pieces to close is 
 - **The sheet** (1911, sheet 20, raster crop around px 4450-5200 × 3450-4050): r1 a '2'-storey brick parallelogram from row ≈ 3553 to ≈ 3816, west wall slanting ≈ 0.30 px east per px south, east wall on the right-of-way; r2 a '1½' brick stable crossed X joined to its south end, rows ≈ 3818-3936, its west wall ≈ 2.5 m west of r1's line, its south wall on the 1701/1709 lot line with the key's fire-wall sign at its west end. Robinson 1886 plate 10 crosses a brick stable over the whole outline.
 - **The K12 kit cannot build it** (gable only; `ventilator` refused). The prairie_draft archetype has `hip` roofs, `lantern`, `dormers`, `stacks` (as Field's coach house, T-1936) but builds rectangles, not the sheet's parallelogram — choose between teaching one or the other the missing piece.
 - 1721's piece (T-3315) shipped the K12 stable and its Detroit-photograph view (not shown: hidden behind the Pullman house).
+
+**Released 2026-11-02** (claim of run 11/2/2026, 9:59:58 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41474346700): PR #1617 (resume: gate still running, nothing red) stands 1701's stable on the 1911 sheet's parallelogram (the draft builder's new skew_per_m, 0.29) with the Chicagology photograph's hipped roof, bracketed cornice, square lantern (three arched lights a face), curved wall gable over a framed window, oculi, stacks and the wing's gable with its lunette, through the house's camera re-anchored into the stable's frame. Still open in the match record: the stable renders about 165 px (about 4 m along the wall) right of where the print shows it, since no camera fits the house's corners and the wing both and the house's own fit already disagrees with the sheet by up to 2.5 m on its bay; and the print's wing gable is narrower (about 2.4-3.3 m) than the sheet's 6.1 m end. Resolving it needs a better house camera solve or a second picture.
