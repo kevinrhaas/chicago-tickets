@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 10:49:36 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-02T04:49:37.526Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -148,3 +148,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-01** (claim of interactive: Pullman facade rework round 3 11/1/2026, 10:50:23 AM CT): Round 3 (owner's sketches) merged to dev in PR 1581; match records stay differs, so the ticket returns to the queue for the next lap
 
 **Released 2026-11-01** (claim of run 11/1/2026, 5:01:57 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41372373722): PR #1592 (mansard cresting raised, a turned finial on every hip) merged to dev after a resume lap; the house's match records still carry open differences, so the ticket returns to the queue
+
+**Released 2026-11-01** (claim of run 11/1/2026, 10:49:36 PM CT): no reason given
