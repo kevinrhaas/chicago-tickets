@@ -1,7 +1,7 @@
 ---
 id: T-3309
 title: 1637's two-storey brick building by the IC tracks onto K12: the 1911 sheet draws it as a parallelogram on the slanting right-of-way line (west wall skewed about 4.8 m over 17 m), so the kit first needs a skewed plan
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1933
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 11:12:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41391548750
+claimed_at: 2026-11-02T05:12:57.079Z
 decision: null
 decision_answer: null
 ---
