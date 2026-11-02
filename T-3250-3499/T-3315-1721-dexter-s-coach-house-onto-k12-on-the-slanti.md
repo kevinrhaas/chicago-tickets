@@ -1,7 +1,7 @@
 ---
 id: T-3315
 title: 1721 Dexter's coach house onto K12 on the slanting plan the 1911 sheet draws, its pictures' views solved (the image gate), and every sheet-20 east rear polygon linked to its property or recorded unresolved (acceptance 1)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3310
 opened: 2026-11-02
-closed: null
+closed: 2026-11-02
 pr: 1616
 claimed_by: run 11/2/2026, 9:28:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T17:25:27Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41469290120
 claimed_at: 2026-11-02T15:28:18.412Z
 decision: null
