@@ -1,7 +1,7 @@
 ---
 id: T-1936
 title: Refine east 1800-1900 service buildings
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 2:13:55 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41410023930
-claimed_at: 2026-11-02T08:13:55.768Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,5 @@ Pictures:
 - marshall_field_house_1905_prairie_coach_house
 
 **Released 2026-11-01** (claim of run 11/1/2026, 6:50:20 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41368015368): PR #1596 (resume: gate still running, nothing red) refines doane_house_1827_prairie_coach_house's yard front from the Glessner House print through its solved camera, carried into the coach house's frame as reference view glessner_blog_print: cream walls, thin cornice, belt course, a hooded loft sash over a 2.3 m segmental carriage opening (prairie_draft stable_dress learns hood and carriage_doors); off the draft pass (skip s28-1827-rear), liberty L-t1936-doane-coach-house. Still open: its match record's one open item is the house's (the house build's south flank stands in front of the coach house through this camera, the house record's flank/camera disagreement), and marshall_field_house_1905_prairie_coach_house's seven pictures are untouched. Not split: the gate stays on this ticket.
+
+**Released 2026-11-02** (claim of run 11/2/2026, 2:13:55 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41410023930): PR #1604 (resume: CI gate still running, nothing red) refines marshall_field_house_1905_prairie_coach_house from the 1870s photograph (a19-cgy-1905-field-923) through the house's solved camera, with the 1893 plate, the engraving and the c. 1905 Daily News negative as further views: the sheet's BARN as one brick storey under a bracketed cornice and stone frieze, a mansard with small dormers, a louvred ventilator, three stacks and two spirelets, and the sheet's separate two-storey building south of it (post-1893, not shown in the pictures) on the trace's own lines; all four match records say matches; liberty L-t1936-field-coach-house. Still open: the gate's one remaining item is doane_house_1827_prairie_coach_house's glessner_blog_print, whose open difference is the house's (the Doane house build's south flank stands in front of the coach house through that camera). Not split: the gate stays on this ticket.
