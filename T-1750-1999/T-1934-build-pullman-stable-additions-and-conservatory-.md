@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: interactive: Pullman rear court steps and conservatory (owner, 2026-11-02) 11/1/2026, 9:06:40 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-02T03:06:41.113Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -160,3 +160,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-01** (claim of run 11/1/2026, 7:55:03 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41312532908): PR #1574 (resume: gate still running, nothing red) plants the conservatory at 1800 Calumet across its north arch's lower register: twenty more palms in four rows across the nave (2.3, 2.9, 5.6, 10 m in; crowns 3.9-6.4 m, rising with depth) and against both side walls, every frond 0.14 m+ clear of the glass (L-pullman-pavilion-arch-planting-1934); both pavilion records now matches (Lowe's 1 m west-edge strip within tolerance: diagnostic camera). Still open in the match records: the house's raised porch and its stair (house record, T-1881), the stack behind the house's rear face in 16554, and the winter crowns' density. Not split: the gate stays on this ticket.
 
 **Released 2026-11-01** (claim of run 11/1/2026, 10:10:45 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41324367668): PR #1578 (resume: gate still running, nothing red) gives bare elms at the mid and far rings painted twig cards (the leaf atlas's new sixth row, tree-model.js twigCards, same triangle count), so the crowns grey in with forking, rising twig as Taylor 16554's do; the winter-crown item is fixed in both 16554 records and the stable (pullman_house_1729_prairie_ranges) now matches all three views. Still open in the match records, all on the house record (T-1881): the raised porch toward 18th Street and its stair (plate, 16555), and the stack behind the rear face (16554). Not split: the gate stays on this ticket.
+
+**Released 2026-11-01** (claim of interactive: Pullman rear court steps and conservatory (owner, 2026-11-02) 11/1/2026, 9:06:40 PM CT): no reason given
