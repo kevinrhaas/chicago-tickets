@@ -98,3 +98,10 @@ Photographic/interaction acceptance remains open; this evidence note changes no 
 **Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:22 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
 
 **Released 2026-10-23** (claim of Codex resumed parallel people and transport completion 2026-10-23 22:45 UTC 10/23/2026, 5:45:15 PM CT): Bardwell seated source and all-eight engineering fit proofs are checkpointed in chicago-evidence bdbac39 transport-refinement-resume-2026-10-23; canonical Blender regeneration, fresh export contact and released rider/driver portrayal remain next. Shipping group is T3083/T3086/T3087, not this broad ticket.
+
+
+## Owner steering — 2 November 2026: visible driven loops and interaction
+
+Owner: “Keep going and please make some visible progress … you can make incremental progress”. Owner also asks to use the fort gate interaction pattern for people, horses, wagons and carriages, and: “a person driving a wagon or carriage on a circle loop on 1904 and 1835, and also be able to walk up to one and interact with it”.
+
+Extend this existing driver ticket rather than file more tickets. Work toward one bounded, visible driven loop in each year with a real period-clothed seated driver and a keyboard/touch approach action (stop/continue), preserving scene-date eligibility and the generic interaction engine. Routes, activity and appearances are reconstructed where unsupported. Incremental DEV delivery is explicitly authorized; photographic perfection is not a prerequisite for each partial delivery. Full riding, complete gear, photographic and whole-town traffic acceptance remain open. No runtime implementation or DEV merge is claimed by this note.
