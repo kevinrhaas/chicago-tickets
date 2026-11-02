@@ -1,7 +1,7 @@
 ---
 id: T-3317
 title: 1936 Prairie, the Thompson/Allerton house, onto K01 from the 1869 Tribune and its photograph: the brownstone basement under pressed brick, the bracketed cornice and railed hip, the sheet's tower to a belvedere, the reception and library bays, the dining range, the verandah, the columned entrance porch, the rear range; the photograph's camera solved (provisionally) and its match record written
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1901
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1620
 claimed_by: run 11/2/2026, 10:45:33 AM CT
 blocked_on: null
 needs_bake: false
