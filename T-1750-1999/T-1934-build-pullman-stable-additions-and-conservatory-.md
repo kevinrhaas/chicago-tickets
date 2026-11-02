@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 7:30:22 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41452706209
-claimed_at: 2026-11-02T13:30:22.893Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -162,3 +162,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-01** (claim of run 11/1/2026, 10:10:45 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41324367668): PR #1578 (resume: gate still running, nothing red) gives bare elms at the mid and far rings painted twig cards (the leaf atlas's new sixth row, tree-model.js twigCards, same triangle count), so the crowns grey in with forking, rising twig as Taylor 16554's do; the winter-crown item is fixed in both 16554 records and the stable (pullman_house_1729_prairie_ranges) now matches all three views. Still open in the match records, all on the house record (T-1881): the raised porch toward 18th Street and its stair (plate, 16555), and the stack behind the rear face (16554). Not split: the gate stays on this ticket.
 
 **Released 2026-11-01** (claim of interactive: Pullman rear court steps and conservatory (owner, 2026-11-02) 11/1/2026, 9:06:40 PM CT): no reason given
+
+**Released 2026-11-02** (claim of run 11/2/2026, 7:30:22 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41452706209): PR #1611 moves the house's east porch (house terrace's south front) and the west gate's flights, landing and bench 3.35 m north onto the place the 1894 plate and Taylor's 16555 triangulate (urn, pedestal edge, arched light's jamb at v -19.2 to -19.6); the conservatory's plate record now matches and 16555's porch-and-stair item is fixed. Still open in the match records, both on the house record (T-1881): 16554's stack between the rear dormers, and 16555's quoined east corner about 35 px right of the print's.
