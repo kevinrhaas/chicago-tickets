@@ -1,7 +1,7 @@
 ---
 id: T-3294
 title: 1912 Prairie's sign-off: the tower's and corner turret's heights against the photograph, the enclosing arch over the south pair, the entrance's carved capitals, the ivy, and every view's last difference fixed or marked within tolerance
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1900
 opened: 2026-11-01
-closed: null
+closed: 2026-11-01
 pr: 1597
 claimed_by: run 11/1/2026, 7:33:45 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T04:37:12Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41371841876
 claimed_at: 2026-11-02T01:33:45.766Z
 decision: null
