@@ -1,7 +1,7 @@
 ---
 id: T-1901
 title: Refine 1916-1930 identity and 1936 Allerton estate envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-02
 pr: null
 claimed_by: run 11/2/2026, 10:10:46 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-02T16:45:27.634Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41477740966
 claimed_at: 2026-11-02T16:10:46.980Z
 decision: null
