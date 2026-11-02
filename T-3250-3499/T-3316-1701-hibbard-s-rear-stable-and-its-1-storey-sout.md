@@ -1,7 +1,7 @@
 ---
 id: T-3316
 title: 1701 Hibbard's rear stable and its 1½-storey south stable to the Chicagology photograph that shows them (a hipped roof under a square lantern, a gabled dormer, oculi, a gabled south wing; the image gate), on the parallelogram plan the 1911 sheet draws
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3310
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 12:34:46 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41501004225
-claimed_at: 2026-11-02T18:34:47.087Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -48,3 +48,5 @@ T-3310 carries an `## Image gate` section. The last of these pieces to close is 
 - 1721's piece (T-3315) shipped the K12 stable and its Detroit-photograph view (not shown: hidden behind the Pullman house).
 
 **Released 2026-11-02** (claim of run 11/2/2026, 9:59:58 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41474346700): PR #1617 (resume: gate still running, nothing red) stands 1701's stable on the 1911 sheet's parallelogram (the draft builder's new skew_per_m, 0.29) with the Chicagology photograph's hipped roof, bracketed cornice, square lantern (three arched lights a face), curved wall gable over a framed window, oculi, stacks and the wing's gable with its lunette, through the house's camera re-anchored into the stable's frame. Still open in the match record: the stable renders about 165 px (about 4 m along the wall) right of where the print shows it, since no camera fits the house's corners and the wing both and the house's own fit already disagrees with the sheet by up to 2.5 m on its bay; and the print's wing gable is narrower (about 2.4-3.3 m) than the sheet's 6.1 m end. Resolving it needs a better house camera solve or a second picture.
+
+**Released 2026-11-02** (claim of run 11/2/2026, 12:34:46 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41501004225): Camera re-solve tried, not resolvable from this one photograph; nothing built. (1) Focal freed: a joint fit of the house's 4 solve points + the stable's 6 features (wing corner, lantern, wall gable, 3 oculi) fits all within 9 px at eye (61.04, 31.89) stable frame, yaw 220.74, f 1616 (was 2182; the house's 4-point fit cannot fix f). It also nearly hides the 17.7 m rear range, which the current camera draws at x 1592-1754 up to y 557 where the print shows sky and the lantern. But it reads the house's SW cornice bed at 8.3 m against the rear camera's 10.8 m, and the bay junctions do not improve (v 9.6 vs the sheet's 8.3). (2) The house's own lines disagree with both cameras: the fence foot gives a street-front vanishing point near x -1500 and the flank cornice one near x +4100 (f about 2800), and the front cornice's north end reads y 412 in the print against 529 through the current camera. A longer lens pushes the sheet's stable further right (+390 px). (3) Moving the stable north to suit the photograph would cross the 1701/1637 lot line (sheet: lot line row 3535, stable north wall 3553), so the sheet's place stands. (4) Re-reading the wing: the flat eave at y 945 from x about 1793 to 1880 under r1's cornice may be r2's yard eave (a low hip), with a 2.9 m gabled hay dormer (apex x 1918, y 905, about 32 degrees) rather than a 6.1 m end gable. Measured from that corner the lantern sits near v 8 (r1's middle), not 4.2. Needs a second picture or a better-fitting house camera before building.
