@@ -1,7 +1,7 @@
 ---
 id: T-3306
 title: 1919 Prairie's bow carried up to the eave under the main cornice and the front's rounded north corner, from its pictures
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3302
 opened: 2026-11-01
-closed: null
+closed: 2026-11-02
 pr: null
 claimed_by: run 11/2/2026, 8:39:22 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T14:43:34.968Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41462787951
 claimed_at: 2026-11-02T14:39:22.849Z
 decision: null
