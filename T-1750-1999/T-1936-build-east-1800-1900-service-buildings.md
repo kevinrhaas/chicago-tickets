@@ -1,7 +1,7 @@
 ---
 id: T-1936
 title: Refine east 1800-1900 service buildings
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1609
 claimed_by: run 11/2/2026, 6:03:14 AM CT
 blocked_on: null
 needs_bake: true
