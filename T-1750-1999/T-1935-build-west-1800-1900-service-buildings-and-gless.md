@@ -1,7 +1,7 @@
 ---
 id: T-1935
 title: Refine west 1800-1900 service buildings and Glessner boundary
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 1:35:44 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41509211345
-claimed_at: 2026-11-02T19:35:45.736Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -78,3 +78,5 @@ Pictures:
 - shed_1834_1900_prairie
 
 **Released 2026-11-02** (claim of run 11/2/2026, 11:10:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41487192460): PR #1623 refines 1816's alley building (henderson_house_1816_prairie_coach_house) in place onto the K12 coach-house kit from the 1911 sheet 28: a 2½-storey brick stable 10.68 x 22.40 m (the draft's 9.25 m fit with two alley strips was wrong; the sheet draws one rectangle), party walls at both ends on the sheet's fire-wall signs, both alley window marks (6.27 and 15.72 m from the north wall, two dots each) built as sash pairs, two carriage bays, workyard to the house's rear range 11.64 m east. Draft rules skip s28-1816-rear; L-k12-1816-stable-1935. Still to do: 1824, 1834 and the 1834/1900 shed, 1900, 1906 and 1912, still the draft's. Image gate: both named pictures (Clark c.1905 north from 1936, Taylor 9974 south from 18th) show the house fronts and not the alley; no camera solved. Not split: the gate stays on this ticket.
+
+**Released 2026-11-02** (claim of run 11/2/2026, 1:35:44 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41509211345): PR #1628 (resume: gate still running, nothing red) refines 1824's alley building (marsh_house_1824_prairie_coach_house) in place onto the K12 kit from the 1911 sheet 28: a 2-storey brick stable 10.62 x 17.60 m on the alley line, party walls at both ends on the sheet's fire-wall signs (the north one back to back with 1816's), its one alley window mark (8.34 m from the north wall) built as a sash pair, two carriage bays, workyard to the house 9.08 m east; draft rules skip s28-1824-rear; L-k12-1824-stable-1935; alley pole #02 re-laid 0.45 m clear of the eave. Still to do: 1834 and the 1834/1900 shed, 1900, 1906 and 1912. Image gate: Clark c.1905 shows the fronts, not the alley; no camera solved.
