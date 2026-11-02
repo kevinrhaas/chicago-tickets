@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/2/2026, 5:29:33 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-02T23:29:34.842Z
 decision: null
 decision_answer: null
 ---
