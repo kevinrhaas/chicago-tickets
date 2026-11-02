@@ -1,7 +1,7 @@
 ---
 id: T-3305
 title: 1919 Prairie's stone basement, the pale stone courses across its front and north-flank brick, and the round-arched entrance at the stoop's head, from its pictures
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3302
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1595
 claimed_by: run 11/1/2026, 7:11:25 PM CT
 blocked_on: null
 needs_bake: false
