@@ -1,7 +1,7 @@
 ---
 id: T-3307
 title: 1700-1706 Prairie's dormer pediments dressed as Chicagology's photograph shows them (owner's ask 2026-11-02, 'make it look perfect'): a moulded raking and level cornice on each pediment, a returned entablature over the paired sash, and a pilaster either side of it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1598
 claimed_by: run 11/1/2026, 9:01:48 PM CT
 blocked_on: null
 needs_bake: false
