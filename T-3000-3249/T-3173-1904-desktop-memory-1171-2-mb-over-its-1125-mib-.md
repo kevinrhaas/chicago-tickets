@@ -1,7 +1,7 @@
 ---
 id: T-3173
 title: 1904 desktop memory 1171.2 MB over its 1125 MiB ceiling: unmeasured since 2026-10-24 while the frame-time nightly died installing Playwright on ubuntu-26.04 (T-3169 un-blinded it on PR #1339); bring the 1904 scene down or argue a new ceiling in tools/memory_ceilings.json with its reading
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-26
-closed: null
+closed: 2026-11-02
 pr: 1605
 claimed_by: run 11/2/2026, 2:35:36 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T13:25:28Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41411039216
 claimed_at: 2026-11-02T08:35:37.318Z
 decision: null
