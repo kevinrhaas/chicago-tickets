@@ -67,7 +67,6 @@ T-3306 — 1919 Prairie's bow carried up to the eave under the main cornice and 
 T-3303 — 1919 Prairie's north flank and rear ranges from its pictures: the flat-topped two-storey bays with stone mullioned windows, the stepped finialled gables and the pinnacled dormers between them, and its remaining pictures solved and worked to matches
 T-3283 — 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
 T-1936 — Refine east 1800-1900 service buildings
-T-3308 — 1709 Kellogg's storey-and-a-half brick building by the IC tracks onto the K12 coach-house kit, its carriage front to the house's yard and its fire wall on the 1701/1709 lot line, from the 1911 sheet
 T-3309 — 1637's two-storey brick building by the IC tracks onto K12: the 1911 sheet draws it as a parallelogram on the slanting right-of-way line (west wall skewed about 4.8 m over 17 m), so the kit first needs a skewed plan
 T-3310 — 1701 Hibbard's and 1721 Dexter's coach houses onto K12 to their pictures (the image gate), and every sheet-20 east rear polygon linked to its property or recorded unresolved (acceptance 1)
 T-1943 — Finish north-block boundaries, gardens and frontage fittings
