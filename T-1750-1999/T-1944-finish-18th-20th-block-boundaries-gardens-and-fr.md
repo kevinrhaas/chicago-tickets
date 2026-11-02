@@ -1,7 +1,7 @@
 ---
 id: T-1944
 title: Finish 18th-20th block boundaries, gardens and frontage fittings
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-02
 pr: null
 claimed_by: run 11/2/2026, 4:18:23 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-02T22:38:01.529Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41534596382
 claimed_at: 2026-11-02T22:18:24.628Z
 decision: null

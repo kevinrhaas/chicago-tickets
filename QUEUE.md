@@ -69,7 +69,8 @@ T-3317 — 1936 Prairie, the Thompson/Allerton house, onto K01 from the 1869 Tri
 T-3318 — 1936 Prairie, the Allerton house, worked to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle the front's composition between the photograph and the 1911 sheet, and build the square belvedere tower, the verandah's columns and place, the entrance in the tower with its stoop running north, the stacks and the deck's height
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-1944 — Finish 18th-20th block boundaries, gardens and frontage fittings
+T-3321 — 1808 Prairie's alley wall: the Glessner court wall's return along the alley off HABS IL-1015 sheet 2, on 1808's record
+T-3322 — The rest of the 18th-20th block's boundaries, gardens and frontage fittings
 T-1912 — Refine 2001, 2003 and 2005 attached row
 T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
 T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
