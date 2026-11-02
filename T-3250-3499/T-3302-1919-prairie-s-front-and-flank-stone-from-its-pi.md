@@ -1,7 +1,7 @@
 ---
 id: T-3302
 title: 1919 Prairie's front and flank stone from its pictures: the pale stone belts, quoins and window dressings across the brick, the bow carried up to the eave, the rounded north corner and the arched entrance
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1907
 opened: 2026-11-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 6:52:48 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41368952838
+claimed_at: 2026-11-02T00:52:48.989Z
 decision: null
 decision_answer: null
 ---
