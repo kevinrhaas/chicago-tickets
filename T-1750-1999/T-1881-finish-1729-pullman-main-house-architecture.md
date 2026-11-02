@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 9:59:58 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-02T15:59:59.068Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -156,3 +156,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-02** (claim of run 11/2/2026, 12:54:31 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41401543525): PR #1603 (the porte-cochere's corner pier clothed in ivy to its entablature, both faces, off the Detroit print, placed off the sidecar's own porte_cochere via a new creeper_piers planter key; Detroit's item fixed, Taylor 1445's earlier bare pier within tolerance) is up on resume while its CI gate finishes; the porch piers' and the south arch ring's ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-11-02** (claim of run 11/2/2026, 4:41:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41428259954): PR #1607 (the Detroit print's ivy reviewed in leaf among its bare trees: photo_match's new flora.creeper_in_leaf draws the lots' ivy in summer leaf and everything else in the picture's season; Detroit's 'ivy over the walls' fixed, 13 other records re-hashed with pixel-identical renders) is up on resume while its CI gate finishes; the 18th Street posts (Detroit and Taylor 1445 disagree), the Prairie dormer's place, the front parts' depth and the portico's reach, the corner trunk, the trees' size and crowns and the unsolved CHM 1905 views remain, so the owner's ticket stays open
+
+**Released 2026-11-02** (claim of run 11/2/2026, 9:59:58 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41457258616): PR #1613 (Clark's 1905 photograph, CHM i71913, given a solved camera and match record; From this spot on the card; it and the Detroit print's camera both put the big pedimented dormer and its light column at v 11.0-11.45, 3.2 m north of the build's v 14.45, inside the entry part as laid) is up on resume while its CI gate finishes; the front's three parts re-divided to that reading, the narrow south bay, the trees and the other unsolved pictures remain, so the owner's ticket stays open
