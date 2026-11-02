@@ -1,7 +1,7 @@
 ---
 id: T-3311
 title: /1812/ and /1880/ boots stall on dev: parked-transport.js returns before 'rows' is declared for scenes without parked vehicles, so the deferred update() hits a TDZ ReferenceError (T-3300 regression; memory (1812, desktop) red on #1605)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1605
 claimed_by: run 11/2/2026, 6:04:52 AM CT
 blocked_on: null
 needs_bake: false
