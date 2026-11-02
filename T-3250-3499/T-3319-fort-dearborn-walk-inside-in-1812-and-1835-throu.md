@@ -1,7 +1,7 @@
 ---
 id: T-3319
 title: Fort Dearborn: walk inside in 1812 and 1835 through gates an Interact key opens and shuts
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-02
 pr: 1624
 claimed_by: run 11/2/2026, 11:54:12 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-02T23:19:47Z
 claimed_run: null
 claimed_at: 2026-11-02T17:54:13.206Z
 decision: null
