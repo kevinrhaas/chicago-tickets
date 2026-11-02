@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 11:55:38 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41389885723
-claimed_at: 2026-11-02T05:55:38.787Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -150,3 +150,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-01** (claim of run 11/1/2026, 5:01:57 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41372373722): PR #1592 (mansard cresting raised, a turned finial on every hip) merged to dev after a resume lap; the house's match records still carry open differences, so the ticket returns to the queue
 
 **Released 2026-11-01** (claim of run 11/1/2026, 10:49:36 PM CT): no reason given
+
+**Released 2026-11-01** (claim of run 11/1/2026, 11:55:38 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41389885723): PR #1601 (the ivy mantle closes over the principal storey's round-arched light, off the Detroit print, via a new mantle_head creeper form) is up on resume while its CI gate finishes; the porte-cochere's and porch's piers' ivy, the winter render's leafless ivy, the Prairie dormer's place, the 18th Street posts, the trees and the unsolved CHM 1905 views remain, so the owner's ticket stays open
