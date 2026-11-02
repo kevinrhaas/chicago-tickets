@@ -1,7 +1,7 @@
 ---
 id: T-3268
 title: Miller House's flat sign lettering hidden 0.17 m behind its own wall since the T-2381 low log wing (dev's desktop smoke part 1 red)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-30
 closed: null
-pr: null
+pr: 1625
 claimed_by: run 11/2/2026, 1:03:07 PM CT
 blocked_on: null
 needs_bake: false
