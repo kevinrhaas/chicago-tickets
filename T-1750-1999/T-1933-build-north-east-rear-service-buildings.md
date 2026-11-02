@@ -1,7 +1,7 @@
 ---
 id: T-1933
 title: Refine north-east rear service buildings
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/1/2026, 9:14:46 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41379397907
+claimed_at: 2026-11-02T03:14:47.049Z
 decision: null
 decision_answer: null
 ---
