@@ -1,7 +1,7 @@
 ---
 id: T-3308
 title: 1709 Kellogg's storey-and-a-half brick building by the IC tracks onto the K12 coach-house kit, its carriage front to the house's yard and its fire wall on the 1701/1709 lot line, from the 1911 sheet
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1933
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1599
 claimed_by: run 11/1/2026, 9:18:11 PM CT
 blocked_on: null
 needs_bake: false
