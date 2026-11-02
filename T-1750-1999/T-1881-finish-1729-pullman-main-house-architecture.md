@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 5:01:57 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41358945312
-claimed_at: 2026-11-01T23:01:58.198Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -146,3 +146,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-01** (claim of run 11/1/2026, 2:06:57 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41286876418): PR #1561 (owner's 2026-10-30 item 2, the rear face 'stepped': a camera for Taylor 16554 in the house's frame and its match record; the rear wall's north section built as a K08 step 0.9 m out under its own mansard with two lights a storey and two dormers, the south section one and one, off the print; depth reconstructed, L-pullman-1729-rear-step-1881) is up on resume while its CI gate finishes; the porte-cochere's depth through 16554, the mansard cresting, the pavilions' depth, the 18th Street posts, the trees, the ivy and the unsolved CHM 1905 views remain, so the owner's ticket stays open
 
 **Released 2026-11-01** (claim of interactive: Pullman facade rework round 3 11/1/2026, 10:50:23 AM CT): Round 3 (owner's sketches) merged to dev in PR 1581; match records stay differs, so the ticket returns to the queue for the next lap
+
+**Released 2026-11-01** (claim of run 11/1/2026, 5:01:57 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41372373722): PR #1592 (mansard cresting raised, a turned finial on every hip) merged to dev after a resume lap; the house's match records still carry open differences, so the ticket returns to the queue
