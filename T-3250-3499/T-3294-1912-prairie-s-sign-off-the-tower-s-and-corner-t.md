@@ -1,7 +1,7 @@
 ---
 id: T-3294
 title: 1912 Prairie's sign-off: the tower's and corner turret's heights against the photograph, the enclosing arch over the south pair, the entrance's carved capitals, the ivy, and every view's last difference fixed or marked within tolerance
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1900
 opened: 2026-11-01
 closed: null
-pr: null
+pr: 1597
 claimed_by: run 11/1/2026, 7:33:45 PM CT
 blocked_on: null
 needs_bake: false
