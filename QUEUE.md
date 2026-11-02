@@ -64,7 +64,6 @@ T-3305 — 1919 Prairie's stone basement, the pale stone courses across its fron
 T-3306 — 1919 Prairie's bow carried up to the eave under the main cornice and the front's rounded north corner, from its pictures
 T-3303 — 1919 Prairie's north flank and rear ranges from its pictures: the flat-topped two-storey bays with stone mullioned windows, the stepped finialled gables and the pinnacled dormers between them, and its remaining pictures solved and worked to matches
 T-3283 — 1923 and 1945 Prairie's pictures worked to matches: every open difference in both houses' match records fixed or marked within tolerance, the rear, roof and cost views T-1908's acceptance asks for, and the draft liberty's last part retired (after the pieces before it)
-T-1936 — Refine east 1800-1900 service buildings
 T-3312 — 1904 mobile (light) from 60 m over the 18th Street / Prairie-Calumet alley corner draws 1,598,204 triangles against the 1,270,000 light budget (T-1936's roof stand, tools/qa_t1936_coach_houses.mjs): find which layers carry it (the 1800 Calumet palm house, the Pullman glasshouse ranges and planting, the parkway trees) and bring the stand under budget
 T-3310 — 1701 Hibbard's and 1721 Dexter's coach houses onto K12 to their pictures (the image gate), and every sheet-20 east rear polygon linked to its property or recorded unresolved (acceptance 1)
 T-1943 — Finish north-block boundaries, gardens and frontage fittings
