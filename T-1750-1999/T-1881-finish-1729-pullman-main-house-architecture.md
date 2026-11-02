@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/1/2026, 10:47:13 PM CT
+claimed_by: run 11/1/2026, 10:49:36 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41389885723
-claimed_at: 2026-11-02T04:47:14.075Z
+claimed_run: null
+claimed_at: 2026-11-02T04:49:37.526Z
 decision: null
 decision_answer: null
 ---
