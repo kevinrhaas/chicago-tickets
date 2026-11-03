@@ -1,7 +1,7 @@
 ---
 id: T-3316
 title: 1701 Hibbard's rear stable and its 1½-storey south stable to the Chicagology photograph that shows them (a hipped roof under a square lantern, a gabled dormer, oculi, a gabled south wing; the image gate), on the parallelogram plan the 1911 sheet draws
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3310
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1642
 claimed_by: run 11/2/2026, 9:03:08 PM CT
 blocked_on: null
 needs_bake: false
