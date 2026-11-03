@@ -1,7 +1,7 @@
 ---
 id: T-3326
 title: 1812 jaunt: the killing of Jean Lalime, the Kinzie property and the feud that led to it
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-02
 pr: 1645
 claimed_by: run 11/2/2026, 8:08:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T05:42:09Z
 claimed_run: null
 claimed_at: 2026-11-03T02:08:09.941Z
 decision: null
