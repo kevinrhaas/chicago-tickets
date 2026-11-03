@@ -1,7 +1,7 @@
 ---
 id: T-3332
 title: 1812 by night: the fort's lamps, candles and fires, and the houses' firelight, as documented
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-11-02
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3331 — builds on its lighting
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -28,3 +28,5 @@ The owner, 2026-11-03 (project thread "Add time-of-day setting"): *"Cans we add 
 **What ships:** at dusk and night in 1812, the light sources the record supports: the first Fort Dearborn's lamps and candles (garrison quarters, officers' quarters, the factory), the sentries' lantern at the gate, cooking fires; firelight and candle in the Kinzie, Ouilmette, Lee and Burns houses. Each source cited or recorded as a liberty. Cheap on the phone: glowing panes and flame sprites, a small capped set of real lights near the eye, no new shadow maps.
 
 Waits on T-3331.
+
+**Unblocked 2026-11-02:** T-3331 merged (PR #1636); this took its place in the queue. The block read: T-3331 — builds on its lighting
