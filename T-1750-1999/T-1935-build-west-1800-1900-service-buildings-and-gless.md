@@ -1,7 +1,7 @@
 ---
 id: T-1935
 title: Refine west 1800-1900 service buildings and Glessner boundary
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 11:21:18 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41678540306
-claimed_at: 2026-11-03T17:21:18.633Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -84,3 +84,5 @@ Pictures:
 **Released 2026-11-02** (claim of run 11/2/2026, 8:35:28 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41566558611): PR #1640 (resume: gate still running, nothing red) refines 1834's alley building (jones_house_1834_prairie_coach_house) in place onto the K12 kit from the 1911 sheet 28 — the dead run 41529791662's branch, rebased onto dev, rebaked (GLB byte-identical) and gated: a 2-storey brick barn 7.52 x 16.33 m on the alley line, its 1-storey piece on the north 7.89 m of the yard wall, the one alley window mark built as a sash pair, party wall north against 1828's building; L-k12-1834-stable-1935; alley pole #03 re-laid clear. Still to do: the 1834/1900 shed, 1900, 1906 and 1912, still the draft's. Image gate: Clark c.1905 shows the fronts, not the alley; no camera solved.
 
 **Released 2026-11-03** (claim of run 11/3/2026, 12:08:47 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41587229211): this run only lapped resume PR #1640 (the Jones 1834 barn slice); the ticket's other service buildings remain open
+
+**Released 2026-11-03** (claim of run 11/3/2026, 11:21:18 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41678540306): PR #1667 (resume: gate still running, nothing red) refines 1900's alley building (elbridge_keith_house_1900_prairie_coach_house) in place onto the K12 kit from the 1911 sheet 28: a 2-storey brick stable (GARAGE in 1911, built as a stable) 9.15 x 15.42 m on the alley line, party walls both ends (fire-wall sign north against the 1834/1900 shed; the line shared with 1906's building south), the one alley window mark built as a sash pair, workyard walk 14.04 m to the house's rear porch; the census's '1-storey' corrected to the sheet's '2'; L-k12-1900-stable-1935. Still to do: the 1834/1900 shed, 1906 and 1912, still the draft's. Image gate: Clark c.1905 shows the fronts, not the alley; no camera solved.
