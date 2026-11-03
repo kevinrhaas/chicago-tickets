@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/2/2026, 8:40:52 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41567146939
-claimed_at: 2026-11-03T02:40:52.919Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -162,3 +162,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-02** (claim of run 11/2/2026, 12:29:26 PM CT): no reason given
 
 **Released 2026-11-02** (claim of run 11/2/2026, 3:51:14 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41529804447): PR #1632 re-divides the Prairie front to the photographs (north block v 0-5.0, entry v 4.95-8.8 on the door at v 6.875 = the gate's axis, big column and pedimented dormer at v 11.225 where Clark 1905 and Detroit both read them, the narrow south column at v 15.45 under a small dormer at v 14.85 restored); Clark's two front items fixed. The portico's reach north over the block (sheet and print v 1.6-10.6), the trees, the 18th Street posts and Taylor 1445's camera disagreement remain, so the owner's ticket stays open
+
+**Released 2026-11-02** (claim of run 11/2/2026, 8:40:52 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41567146939): PR #1632 (front re-divided to its photographs) merged to dev; the ticket stays open for the portico's reach north over the forward block, written into the Detroit record and the liberty
