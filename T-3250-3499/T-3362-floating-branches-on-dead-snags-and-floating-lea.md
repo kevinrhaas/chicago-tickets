@@ -1,7 +1,7 @@
 ---
 id: T-3362
 title: Floating branches on dead snags and floating leaf clusters on grown trees (1812, 1835)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 3:42:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-03T21:42:36.748Z
 decision: null
 decision_answer: null
 ---
