@@ -65,7 +65,6 @@ T-3354 — 1919 Prairie's rear ranges' roofs and place read again against all th
 T-3349 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and build the verandah's columns and place, the entrance in the tower with its stoop running north, the stacks' places and the deck's height against the photograph
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-3346 — Refine 2003 and 2005 Prairie, the brick pair on a party wall with curved front bays, from the district draft onto K01
 T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
 T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
 T-1909 — Refine 2000 and 2010 detached frame houses
