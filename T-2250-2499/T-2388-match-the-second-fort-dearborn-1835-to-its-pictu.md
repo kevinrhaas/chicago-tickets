@@ -1,7 +1,7 @@
 ---
 id: T-2388
 title: Match the second Fort Dearborn (1835) to its pictures, every building in it
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 5:40:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41740271907
+claimed_at: 2026-11-03T23:40:27.494Z
 decision: null
 decision_answer: null
 ---
