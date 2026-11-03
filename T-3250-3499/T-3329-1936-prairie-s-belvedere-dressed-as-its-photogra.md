@@ -1,7 +1,7 @@
 ---
 id: T-3329
 title: 1936 Prairie's belvedere dressed as its photograph draws it: a console at each of the tower's free corners and a row of brackets under the belvedere's cornice, and the corbelled stone balcony at the belvedere's foot with the belvedere standing back over it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3324
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1637
 claimed_by: run 11/2/2026, 8:32:56 PM CT
 blocked_on: null
 needs_bake: false
