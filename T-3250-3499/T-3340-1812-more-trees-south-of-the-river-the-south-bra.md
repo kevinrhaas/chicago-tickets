@@ -1,7 +1,7 @@
 ---
 id: T-3340
 title: 1812: more trees south of the river: the South Branch timber belt, dune cottonwoods, and willow and cottonwood groves at the wet hollows
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1646
 claimed_by: run 11/2/2026, 10:31:48 PM CT
 blocked_on: null
 needs_bake: false
