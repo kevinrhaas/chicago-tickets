@@ -1,7 +1,7 @@
 ---
 id: T-3348
 title: 1936 Prairie's belvedere's deep cornice worked on to its photograph: the corona about a metre deep over the bracketed frieze, its soffit, the skirt to the deck and the top balustrade on it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3345
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 1:24:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41592398702
+claimed_at: 2026-11-03T07:24:59.544Z
 decision: null
 decision_answer: null
 ---
