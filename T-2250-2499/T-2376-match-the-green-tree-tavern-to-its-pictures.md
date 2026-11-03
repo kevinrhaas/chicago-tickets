@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Green Tree dormer native handoff 2026-11-03 11/3/2026, 5:54:30 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T23:54:31.336Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -94,3 +94,5 @@ Append bounded research/liberty/STATUS/ROADMAP explanations without replacing fo
 
 
 Known native branch guard, checked before this metadata handoff: steward/t2376-closed-shoulder-coupled-yard-20261103 is still EXACT74992e8, the finished/mergedPR1677 head, not another active run. Three other listed verification/picture branches are127–213hours old and have no open PR. Recheck fresh ticket claim, every matching openPR and branch tip before the worker acts. If the guard names only these finished/stale branches while T2376 is OPEN/free and no live PR/owner exists, native ticket.mjs claim T-2376 --force is authorized ONLY to pass that branch guard. It is NOT Git force, branch deletion, a live claim takeover or permission to override a new matching PR. Preserve any refusal and actual audit; stop if new live ownership appears.
+
+**Released 2026-11-03** (claim of Codex Green Tree dormer native handoff 2026-11-03 11/3/2026, 5:54:30 PM CT): Reviewed bounded data-only dormer trial native handoff saved; OPEN for authorized exact T2376 worker. No geometry, dispatch or full-original completion claimed by metadata handoff.
