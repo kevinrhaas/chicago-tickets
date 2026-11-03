@@ -68,7 +68,6 @@ T-3323 — 1936 Prairie's tower square as its photograph and the 1911 sheet draw
 T-3324 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle the front's composition between the photograph and the 1911 sheet, and build the tower's consoles, its two balconies and set-back belvedere, the verandah's columns and place, the entrance in the tower with its stoop running north, the stacks and the deck's height
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-3321 — 1808 Prairie's alley wall: the Glessner court wall's return along the alley off HABS IL-1015 sheet 2, on 1808's record
 T-3322 — The rest of the 18th-20th block's boundaries, gardens and frontage fittings
 T-1912 — Refine 2001, 2003 and 2005 attached row
 T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
