@@ -24,4 +24,9 @@ group: T-3325,T-3326,T-3327
 
 1812 jaunt: a tour of the first Fort Dearborn, every building on Whistler's draught.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+The owner, 2026-11-03 (project thread "Add 1812 Fort Dearborn story jaunts"): *"and also a tour of fort Dearborn all of the buildings, etc."*; *"This is for 1812"*.
+
+**Acceptance:**
+- A 1812 jaunt in `data/jaunts/` that walks the first fort as built in the scene: the gates, blockhouses, barracks, officers' quarters, magazine, flagstaff and parade, the covered way to the river, and outside the pickets the agency house, factory, shops, bake house, stables, gardens and wharf, with Whistler's own words from the draught and the 1812 lives lived in them.
+- Walkable now that the gates open (T-3319); stops clear of trees with a view of their building.
+- Compiles and passes the refusals; phone and desktop checked.
