@@ -186,3 +186,4 @@ T-3358 — Night windows go out and back on along a walk (Glessner, 1904): key t
 T-3359 — 1835 shop signs: fix the hanging bracket and awning boards flat on the facade, beside or over the door
 T-3360 — 1835 buildings stand on plank walks and in alleys: move them back onto their lots, give St. Mary's an entrance off the walk
 T-3361 — Lay the Dearborn drawbridge's lowered draw level
+T-3362 — Floating branches on dead snags and floating leaf clusters on grown trees (1812, 1835)
