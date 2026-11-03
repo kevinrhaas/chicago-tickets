@@ -54,3 +54,11 @@ No matching verdict or completion is claimed. See the [shared compound-render ch
 **Released 2026-10-25** (claim of Codex Green Tree visible image-match continuation 10/25/2026, 5:38:41 PM CT): The bounded visible front correction is in PR #1328 (https://github.com/kevinrhaas/chicago/pull/1328), under final combined validation: two viewer-left sash, rightmost doorway, and matching native entrance/apron. T-2376 remains unfinished: the committed Andreas1838 discrepancy register still has visitor-visible annex massing and long-wall opening-pattern gaps. Conflicting upper/attic drawings and camera residuals are within tolerance under T-3153. No photo follow-up or false whole-case completion is filed.
 
 **Released 2026-10-29** (claim of Codex Tremont pictured-form and Green Tree continuation 2026-10-29 10/29/2026, 9:35:31 AM CT): Finite seventh-sash and front wagon-bay corrections are qualified in PR #1448. The substantial enclosed-annex discrepancy remains OPEN on original T-2376; continue this original image case without a new photo ticket.
+
+## Prepared next geometry increment — 2026-11-03
+
+The Green Tree open wagon bay, connector and farther-range orientation have a genuine regenerated MASTER (`f447aa45…`) plus native occupied-solid handling for collision, routes, framing, ground and entrances. The prepared controls retain the other 24 default MASTER files, including the Sauganash correction. The already-landed front door/sash layout is not claimed as new work.
+
+[Durable source package, exact manifest and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/dda6ee9414ddcfd5f67cfd3bc3815f436c8f792b/evidence/green-tree-2026-11-03/eae-compatible-consumers/RECOVERY.md). Focused geometry, Fort-gate and resource-lifecycle fixtures pass. A private successor also preserves the newer Fort ground renderer changes; it awaits rebinding to the final combined Sauganash/Wolf head.
+
+This is a source checkpoint, not a merged app change or picture signoff. Remaining adoption work: native WEB/scene/yard/entrance refresh, source gates, actual published desktop/phone review and refreshed picture bindings where changed. T-2376 remains unfinished; no follow-up ticket is created. Apply only guarded source deltas and the separate liberty appendix, never replace the current full liberty book with a package snapshot.
