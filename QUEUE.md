@@ -65,7 +65,6 @@ T-3338 — 1919 Prairie's north flank worked on to its pictures: the rear ranges
 T-3316 — 1701 Hibbard's rear stable and its 1½-storey south stable to the Chicagology photograph that shows them (a hipped roof under a square lantern, a gabled dormer, oculi, a gabled south wing; the image gate), on the parallelogram plan the 1911 sheet draws
 T-1943 — Finish north-block boundaries, gardens and frontage fittings
 #   ? T-1943 DECISION: T-1943's north-block grounds look already built by later, finer tickets. Close it (and leave T-1944/T-1945 for the same check), or keep it for what is left? — (a) Close T-1943 as delivered: every 16th-18th house now has its own boundary and walk (T-3204 pieces T-3214/3221/3222/3229/3230; the 1700 block per house), front yards (T-3203/3223), lamps (T-3199), hydrants and poles (T-3201/3202), curb and carriage walks (T-2474), corner ramps (T-3200), parkway elms (T-2473). Carriage blocks and hitching posts stay picture-only per your 2026-10-27 ruling.  (b) Keep T-1943 for the remainder only: a north-block walk at phone and desktop sizes with its costs recorded, plus coal-hole covers, basement areaways and side carriage drives wherever a picture or the Sanborn sheet shows one (nothing placed by rule). — recommended: (a)
-T-3329 — 1936 Prairie's belvedere dressed as its photograph draws it: a console at each of the tower's free corners and a row of brackets under the belvedere's cornice, and the corbelled stone balcony at the belvedere's foot with the belvedere standing back over it
 T-3330 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle the front's composition between the photograph and the 1911 sheet, and build the tower's bracketed cornice and balcony at the main cornice's level and its height, the verandah's columns and place, the entrance in the tower with its stoop running north, the stacks and the deck's height
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
@@ -199,8 +198,6 @@ T-3331 — Settings › Time of day: any hour in 10-minute steps, named times, n
 #     waits: T-3333 — builds on its lighting
 # BLOCKED-TECH T-3328 (opened 2026-11-02, META) — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
 #     waits: T-3331 (time-of-day setting and api.timeOfDay setter) on dev
-T-3335 — Show the Currey 1912 bird's-eye view of the first Fort Dearborn on every fort card it pictures, held, and compare the 1812 fort against it
-T-3336 — Inspect inside Fort Dearborn names the stockade, not the building looked at (phone box pick)
 T-3339 — 1812: worn paths from the fort gate, the lake-shore trail and the Vincennes trace, and worn yards round the buildings
 T-3340 — 1812: more trees south of the river: the South Branch timber belt, dune cottonwoods, and willow and cottonwood groves at the wet hollows
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
