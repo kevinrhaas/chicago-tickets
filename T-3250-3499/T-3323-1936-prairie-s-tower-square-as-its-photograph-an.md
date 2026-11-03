@@ -1,7 +1,7 @@
 ---
 id: T-3323
 title: 1936 Prairie's tower square as its photograph and the 1911 sheet draw it: K08's polygonal tower with four sides (3.79 m, its front the sheet's 1.3 m out), round-headed belvedere lights one to a face, a stone balustrade round its flat top
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3318
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1634
 claimed_by: run 11/2/2026, 5:59:48 PM CT
 blocked_on: null
 needs_bake: false
