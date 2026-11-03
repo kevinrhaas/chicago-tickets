@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: Codex first-fort NE native handoff 2026-11-03 11/3/2026, 5:21:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T23:21:17.149Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -75,3 +75,5 @@ Root reviewed [platform draft PR219](https://github.com/kevinrhaas/polecat-platf
 All four source-check parts must pass BEFORE the first geometry-source commit. Keep every native command bounded below600seconds, record actual phase/variant rows and parity, preserve assertions/light-tier budgets, and retain checkpoints. After actual builds/owners: normal dev PR, actual published1812 desktop1280x800 AND phone390x780 roof/body/Images/Record/ground/entry checks with zero page errors, appropriate existing smoke, truthful current model/photo/camera bindings, current hosted green gate and ordinary exact-head protected merge. The150minute authoring budget is a budget, not a claimed bake/pass or completion promise.
 
 Ship a checked partial roof improvement and release T-3041 OPEN with remaining differences and recovery links. Parent T-2387 remains split/unfinished. Never direct-push dev/main, weaken assertions, invent dimensions/source/rights, run local-host Blender or call done--anyway.
+
+**Released 2026-11-03** (claim of Codex first-fort NE native handoff 2026-11-03 11/3/2026, 5:21:15 PM CT): Reviewed bounded NE-pyramid native handoff published; OPEN for authorized exact T3041 worker. No geometry applied, worker dispatch or full original completion claimed by this metadata handoff.
