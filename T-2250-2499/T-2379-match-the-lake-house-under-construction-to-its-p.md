@@ -1,7 +1,7 @@
 ---
 id: T-2379
 title: Match the Lake House under construction to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Lake House later-state picture increment 11/3/2026, 1:46:31 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T19:46:38.011Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -45,3 +45,5 @@ Pictures:
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of beaubien-lakehouse-agent 10/23/2026, 9:10:30 AM CT): Owner requested session wrap. Exact closed prototypes, actual renders and unapplied source patches are saved at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . Delegated workers have stopped. Image matching remains unfinished; resume from the case handoff and preserve its evidence limits.
+
+**Released 2026-11-03** (claim of Codex Lake House later-state picture increment 11/3/2026, 1:46:31 PM CT): PR #1670 merged normally into dev at 2026-11-03 20:53:02 UTC as dacc6364b6e6dce484d197627abbea5244218a0c after exact-head full GitHub gate41711919386 passed. Partial progress only: the Lake House Images card gains one credited public-domain1856 Kellogg/Blanchard/NYPL print, explicitly depicting the later completed1836–1849 hotel rather than July1835 construction evidence. Grade remains inferred, shell_1835 and both model bytes unchanged. OriginalT2379 stays OPEN for construction-state picture matching; no matches verdict, full completion or follow-up ticket. Actual authored four-part gate, published desktop/phone and native107 each passed on qualified snapshots; final5603 relevant identity/current validate --all/publish contract passed. Durable final proof: https://github.com/kevinrhaas/chicago-evidence/blob/73579633060c2f49b49764515c2b6b5b82482a6a/evidence/lake-house-2026-11-03/final5603-currentdev-repair-integrated/RECOVERY.md . Public preview remains behind the merge because the existing main deploy failed checkout; delivery is not yet claimed.
