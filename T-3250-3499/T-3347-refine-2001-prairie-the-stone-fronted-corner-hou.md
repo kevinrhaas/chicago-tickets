@@ -1,7 +1,7 @@
 ---
 id: T-3347
 title: Refine 2001 Prairie, the stone-fronted corner house on 20th Street, from the district draft onto K01
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1912
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 5:02:48 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41623149065
+claimed_at: 2026-11-03T11:02:49.358Z
 decision: null
 decision_answer: null
 ---
