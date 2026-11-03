@@ -199,3 +199,4 @@ T-3331 — Settings › Time of day: any hour in 10-minute steps, named times, n
 # BLOCKED-TECH T-3328 (opened 2026-11-02, META) — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
 #     waits: T-3331 (time-of-day setting and api.timeOfDay setter) on dev
 T-3335 — Show the Currey 1912 bird's-eye view of the first Fort Dearborn on every fort card it pictures, held, and compare the 1812 fort against it
+T-3336 — Inspect inside Fort Dearborn names the stockade, not the building looked at (phone box pick)
