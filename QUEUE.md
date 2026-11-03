@@ -25,7 +25,6 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
-T-3350 — A finding filed beside the work
 T-3351 — A finding filed beside the work
 T-3352 — A finding filed beside the work
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
