@@ -1,7 +1,7 @@
 ---
 id: T-3321
 title: 1808 Prairie's alley wall: the Glessner court wall's return along the alley off HABS IL-1015 sheet 2, on 1808's record
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1944
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1635
 claimed_by: run 11/2/2026, 4:38:05 PM CT
 blocked_on: null
 needs_bake: false
