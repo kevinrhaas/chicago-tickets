@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: wolf-poster-fit-20261103 11/3/2026, 5:09:25 AM CT
+claimed_by: Codex Wolf Point private poster fit resumed after outage 11/3/2026, 8:08:01 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T11:09:26.344Z
+claimed_at: 2026-11-03T14:08:02.863Z
 decision: null
 decision_answer: null
 ---
