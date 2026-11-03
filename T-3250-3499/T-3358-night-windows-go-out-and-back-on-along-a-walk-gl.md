@@ -1,7 +1,7 @@
 ---
 id: T-3358
 title: Night windows go out and back on along a walk (Glessner, 1904): key the lit choice on the building's place
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-03
 closed: null
-pr: null
+pr: 1674
 claimed_by: run 11/3/2026, 1:24:23 PM CT
 blocked_on: null
 needs_bake: false
