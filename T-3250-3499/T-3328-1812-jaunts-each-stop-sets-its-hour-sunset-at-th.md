@@ -1,7 +1,7 @@
 ---
 id: T-3328
 title: 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-02
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3331 (time-of-day setting and api.timeOfDay setter) on dev
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
