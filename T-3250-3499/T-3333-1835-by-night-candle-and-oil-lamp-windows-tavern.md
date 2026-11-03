@@ -1,7 +1,7 @@
 ---
 id: T-3333
 title: 1835 by night: candle and oil-lamp windows, tavern and store lanterns, the fort's lamps
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-03
 pr: 1659
 claimed_by: run 11/3/2026, 2:52:53 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T10:12:34Z
 claimed_run: null
 claimed_at: 2026-11-03T08:52:55.410Z
 decision: null

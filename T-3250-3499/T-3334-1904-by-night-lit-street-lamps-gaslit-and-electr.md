@@ -1,7 +1,7 @@
 ---
 id: T-3334
 title: 1904 by night: lit street lamps, gaslit and electric house and business windows
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-11-02
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3333 — builds on its lighting
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -28,3 +28,5 @@ The owner, 2026-11-03 (project thread "Add time-of-day setting"): *"Cans we add 
 **What ships:** at dusk and night in 1904, Prairie Avenue's lit street lamps (gas or electric as the city's 1904 record has them for these streets), gaslit and electric light in the houses' windows and in the businesses, and the context city's lights faded with it. Reuses the T-3332 kit; phone memory and frame time checked.
 
 Waits on T-3333.
+
+**Unblocked 2026-11-03:** T-3333 merged (PR #1659); this took its place in the queue. The block read: T-3333 — builds on its lighting
