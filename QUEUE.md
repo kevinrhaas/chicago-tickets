@@ -188,7 +188,6 @@ T-3332 — 1812 by night: the fort's lamps, candles and fires, and the houses' f
 #     waits: T-3332 — builds on its lighting
 # BLOCKED-TECH T-3334 (opened 2026-11-02, META) — 1904 by night: lit street lamps, gaslit and electric house and business windows
 #     waits: T-3333 — builds on its lighting
-T-3340 — 1812: more trees south of the river: the South Branch timber belt, dune cottonwoods, and willow and cottonwood groves at the wet hollows
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-3342 — 1812: rebuild the Potawatomi camp as a working summer camp — varied mat and bark lodges, cooking arbors, hearths, drying racks, storage scaffolds, canoes, a horse ground and trodden earth
 T-3343 — Carve the Glessner north-face colonnettes to the front's standard: tapered granite shafts, splayed bases and carved cushion capitals between the two 18th Street window pairs
