@@ -1,7 +1,7 @@
 ---
 id: T-3356
 title: 1936 Prairie's verandah stands on fluted Corinthian columns between its arches, off the photograph
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3349
 opened: 2026-11-03
-closed: null
+closed: 2026-11-03
 pr: 1672
 claimed_by: run 11/3/2026, 12:57:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T19:37:35Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41687871602
 claimed_at: 2026-11-03T18:58:00.009Z
 decision: null
