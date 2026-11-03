@@ -1,7 +1,7 @@
 ---
 id: T-3346
 title: Refine 2003 and 2005 Prairie, the brick pair on a party wall with curved front bays, from the district draft onto K01
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1912
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1654
 claimed_by: run 11/2/2026, 11:38:56 PM CT
 blocked_on: null
 needs_bake: false
