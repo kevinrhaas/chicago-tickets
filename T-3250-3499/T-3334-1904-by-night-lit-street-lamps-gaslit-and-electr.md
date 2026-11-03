@@ -1,7 +1,7 @@
 ---
 id: T-3334
 title: 1904 by night: lit street lamps, gaslit and electric house and business windows
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 5:01:10 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-03T11:01:11.989Z
 decision: null
 decision_answer: null
 ---
