@@ -1,7 +1,7 @@
 ---
 id: T-3332
 title: 1812 by night: the fort's lamps, candles and fires, and the houses' firelight, as documented
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-03
 pr: 1648
 claimed_by: run 11/2/2026, 10:42:22 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T08:33:48Z
 claimed_run: null
 claimed_at: 2026-11-03T04:42:23.977Z
 decision: null

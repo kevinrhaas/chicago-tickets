@@ -1,7 +1,7 @@
 ---
 id: T-3333
 title: 1835 by night: candle and oil-lamp windows, tavern and store lanterns, the fort's lamps
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-11-02
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3332 — builds on its lighting
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -28,3 +28,5 @@ The owner, 2026-11-03 (project thread "Add time-of-day setting"): *"Cans we add 
 **What ships:** at dusk and night in 1835, candle and oil-lamp light in the town's windows (houses, taverns, stores), lanterns at the taverns and stores where the record has them, the second Fort Dearborn's lamps. Reuses T-3332's light kit; phone memory and frame time checked.
 
 Waits on T-3332.
+
+**Unblocked 2026-11-03:** T-3332 merged (PR #1648); this took its place in the queue. The block read: T-3332 — builds on its lighting
