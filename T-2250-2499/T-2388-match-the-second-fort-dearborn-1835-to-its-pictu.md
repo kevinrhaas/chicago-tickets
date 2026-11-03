@@ -1,7 +1,7 @@
 ---
 id: T-2388
 title: Match the second Fort Dearborn (1835) to its pictures, every building in it
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex second-fort cupola native handoff 2026-11-03 11/3/2026, 5:34:11 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T23:34:13.034Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -92,3 +92,5 @@ Root reviewed platform draftPR219 exact feature aa9d7d2322d3abbc78d72526146c018a
 After all genuine affected geometry, all four source-check parts must PASS BEFORE first source commit, every native foreground command bounded600seconds with truthful reaping/verdicts. Ask actual committed-head PR changelog and ID questions; push a native feature branch and draft dev PR promptly. Publish the exact committed head and verify the byte contract, then actual default1835 desktop1280x800 AND phone390x780 roof/body in Normal/ByGrade, Imagescredit/Record/date/reconstructed metrics, grounded native arrival/entry/roof joins and appropriate existing smoke with zero page/console/network/server errors. Price current light-tier headroom before the deal and retain its floor/assertions. Keep conservative smoke-budget request distinct from actual subset; do not claim unrun whole15. Root must inspect actual pixels before required hosted-green ordinary exact-head dev merge.
 
 Append LIBERTIES/STATUS/ROADMAP without replacing concurrent suffixes; one small visitor-facing changelog entry. Checkpoint qualified geometry/source4/PR/merge/delivery in chicago-evidence. Ship a checked partial cupola increment and release T-2388 OPEN with the remaining discrepancy/recovery pointer. No direct dev/main push, admin/force merge, local-host Blender, fabricated source/license/metric, new photo followup or done--anyway.
+
+**Released 2026-11-03** (claim of Codex second-fort cupola native handoff 2026-11-03 11/3/2026, 5:34:11 PM CT): Reviewed bounded pictured-cupola native handoff saved; OPEN for authorized exact T2388 worker. No geometry, worker dispatch or full-original completion claimed by metadata handoff.
