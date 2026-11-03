@@ -1,7 +1,7 @@
 ---
 id: T-3347
 title: Refine 2001 Prairie, the stone-fronted corner house on 20th Street, from the district draft onto K01
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1912
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1661
 claimed_by: run 11/3/2026, 5:02:48 AM CT
 blocked_on: null
 needs_bake: false
