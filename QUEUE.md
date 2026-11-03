@@ -182,6 +182,5 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
-T-3334 — 1904 by night: lit street lamps, gaslit and electric house and business windows
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-3342 — 1812: rebuild the Potawatomi camp as a working summer camp — varied mat and bark lodges, cooking arbors, hearths, drying racks, storage scaffolds, canoes, a horse ground and trodden earth
