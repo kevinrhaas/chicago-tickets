@@ -188,3 +188,4 @@ T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3320 — Fort Dearborn parade ground: trodden-earth texture that feathers into the grass, 1812 and 1835
 T-3325 — 1812 jaunt: the Battle of Fort Dearborn, April to August 1812, in 12 stops
+T-3326 — 1812 jaunt: the killing of Jean Lalime, the Kinzie property and the feud that led to it
