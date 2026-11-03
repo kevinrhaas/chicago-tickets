@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex combined Green Tree range and Wolf Point credit integration 11/3/2026, 4:48:56 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T10:48:57.010Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -64,3 +64,5 @@ The Green Tree open wagon bay, connector and farther-range orientation have a ge
 This is a source checkpoint, not a merged app change or picture signoff. Remaining adoption work: native WEB/scene/yard/entrance refresh, source gates, actual published desktop/phone review and refreshed picture bindings where changed. T-2376 remains unfinished; no follow-up ticket is created. Apply only guarded source deltas and the separate liberty appendix, never replace the current full liberty book with a package snapshot.
 
 **Combined `0e838b35` checkpoint:** [23 guarded source changes and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/e1c2de29d477bb2441b7b699f82886c82046426a/evidence/green-tree-2026-11-03/combined-0e838b35-consumers/RECOVERY.md). All per-file preimages now bind to the pushed Sauganash/Wolf/Fort integration. The 23 postimages and complete 2,119-file private execution input set are byte-identical to the recorded passing Fort-compatible fixtures; no tests were rerun or relabelled as a new run. The separate liberty appendix avoids replacing the current book. App adoption and full image signoff remain unrun.
+
+**Released 2026-11-03** (claim of Codex combined Green Tree range and Wolf Point credit integration 11/3/2026, 4:48:56 AM CT): Partial Green Tree increment merged normally in PR #1652 (squash738f0f81566693980a09f20175a90c5602ec042f; reviewedhead ebf7befa1afba05947578a5ee08e0cbc8655d98a). The low connector and turned farther gabled range now use authenticated native geometry and occupied-solid consumers, with the existing procedural open wagon bay retained. Combined source/native gates, desktop/phone published checks and official107x2 passed. The historical Andreas comparison remains differs with one compound OPEN for the remaining closed shoulder/openings/source alternatives; the original image gate is unfinished. Keep this original ticket open/partial and PR field null; no done or automatic close. https://github.com/kevinrhaas/chicago/pull/1652
