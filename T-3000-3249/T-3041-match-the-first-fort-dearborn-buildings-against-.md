@@ -46,3 +46,14 @@ Group support is T-3040. First preserve the documented plan and 75 ft staff whil
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of first-fort picture matching agent (frame_final_review) 10/23/2026, 7:19:37 AM CT): Wrap-up handoff: original 21 named records plus 9 context members and every listed picture remain unfinished. Exact 16-export BUILD, nine actually viewed same-camera compound comparisons (all differ, none accepted), independent 1884/1902 PD source proposals and remaining source blockers are archived at https://github.com/kevinrhaas/chicago-evidence/blob/516ab9e/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md ; small tickets pointer a526b46f. Proposed sources remain unapplied, held Getty check_required retained, and Earle unnumbered-plate citation clarification is archived. Resume from closed manifests without moving the surveyed plan or 22.86 m staff. Parent T-2387 remains split; no image-match completion claimed.
+
+## Owner ruling on the Currey 1912 bird's-eye — 2026-11-03 (T-3335)
+
+The bird's-eye (held as library `early-currey-1912-first-fort-birdseye`; camera and match record at `data/reference_views/first_fort_dearborn_pickets_outer/currey_1912_birdseye.*`, PR 1638) was compared building by building. Kevin chose to adopt from it:
+
+- blockhouse cupolas (a small square lookout under its own pyramid cap) on both blockhouses — Whistler 1808 also drew them, "not yet built" then;
+- a barrel-vaulted roof on the magazine (Whistler's arched front);
+- a pyramid roof on the north-east small house;
+- the western gateway / wicket gate beside the north-west blockhouse (the drawing's no. 3; Quaife: 'near the northwestern blockhouse'; Whistler index no. 8).
+
+Keep Whistler's measured plan for everything else (owner ruling): blockhouse proportions, the main gate as a gap between the barracks halves (no gate building), range functions and lengths, chimneys. Those rows are `owner ruling` on the match record; do not rebuild toward the drawing there.
