@@ -185,3 +185,4 @@ T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 
 T-3355 — 1812 jaunts: fuller narrative, scene-setting openings, hooks between stops, a time on every stop, long legs Instantly
 T-3358 — Night windows go out and back on along a walk (Glessner, 1904): key the lit choice on the building's place
 T-3359 — 1835 shop signs: fix the hanging bracket and awning boards flat on the facade, beside or over the door
+T-3360 — 1835 buildings stand on plank walks and in alleys: move them back onto their lots, give St. Mary's an entrance off the walk
