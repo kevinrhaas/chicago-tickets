@@ -21,6 +21,20 @@ decision: null
 decision_answer: null
 ---
 
-1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach.
+1812 jaunts: each stop sets its hour (sunset at the fort gate, nine in the morning on the beach).
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+The owner, 2026-11-03 (project thread "Add 1812 Fort Dearborn story jaunts"): *"There is another session working on time of day settings so ideally you can integrate that into the jaunts, if not now in a ticket immediately following"*. The time-of-day setting itself is the thread "Add time-of-day setting" (its tickets were not filed yet when this one was written); this ticket waits for the first of them that lets code set the scene's hour.
+
+**Proposed contract (agree it with the time-of-day work before building):**
+- A jaunt stop may carry `hour`: a local solar time `"HH:MM"`, or one of the setting's named segments (`daybreak`, `morning`, ...), plus `hour_evidence` naming the claim it rests on. The compiler checks the claim is cited at that stop; an hour no source gives is `inferred` with reasoning, never presented as attested.
+- On arrival the runtime eases the scene to that hour; on Explore, ending or leaving the jaunt it restores the visitor's own setting. No stop hour, no change.
+
+**The hours the sources give (T-3325..T-3327 jaunts):**
+- Killing of Jean Lalime (`killing-of-jean-lalime`): `the-quarrel` about 18:00, 17 June ("around 6 p.m.", Van Voorhis via the Chicago Reader); `the-gate` sunset ("It was sunset, when they used to shut the gates of the fort", Porthier); `the-flight` night ("In the night he packed up some things", Porthier; Irwin's "about four hours"). Other stops daylight.
+- Battle of Fort Dearborn (`battle-of-fort-dearborn`): `lees-place` just before sunset, 6 April ("a little before sunset", Heald); `burns` evening; `covered-way` evening of 13 August ("The same evening the ammunition and liquor were carried", Wau-Bun); `the-gate`, `river-mouth`, `the-bank`, `cottonwoods` the morning of 15 August, from 09:00 (Heald's report); the rest daylight.
+- Fort tour (`first-fort-dearborn-tour`): daylight throughout; `the-gate` may show sunset, when the gates shut.
+- 1812 night lighting (fort lamps, fires) comes from the time-of-day tickets, not this one.
+
+**Acceptance:**
+- The three 1812 jaunts set these hours; leaving a jaunt restores the visitor's hour.
+- Compiles and passes the refusals; phone and desktop checked at the dark stops (the sunset gate and the night flight are still readable).
