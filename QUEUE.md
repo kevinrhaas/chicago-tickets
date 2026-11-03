@@ -190,4 +190,5 @@ T-3320 — Fort Dearborn parade ground: trodden-earth texture that feathers into
 T-3325 — 1812 jaunt: the Battle of Fort Dearborn, April to August 1812, in 12 stops
 T-3326 — 1812 jaunt: the killing of Jean Lalime, the Kinzie property and the feud that led to it
 T-3327 — 1812 jaunt: a tour of the first Fort Dearborn, every building on Whistler's draught
+T-3331 — Settings › Time of day: any hour in 10-minute steps, named times, night grade, and a setter jaunts can call
 T-3328 — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
