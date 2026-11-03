@@ -1,7 +1,7 @@
 ---
 id: T-3328
 title: 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-03
 pr: 1653
 claimed_by: run 11/2/2026, 10:29:39 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T09:51:16Z
 claimed_run: null
 claimed_at: 2026-11-03T04:29:41.029Z
 decision: null

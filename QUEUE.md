@@ -188,4 +188,3 @@ T-3333 — 1835 by night: candle and oil-lamp windows, tavern and store lanterns
 #     waits: T-3333 — builds on its lighting
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-3342 — 1812: rebuild the Potawatomi camp as a working summer camp — varied mat and bark lodges, cooking arbors, hearths, drying racks, storage scaffolds, canoes, a horse ground and trodden earth
-T-3328 — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
