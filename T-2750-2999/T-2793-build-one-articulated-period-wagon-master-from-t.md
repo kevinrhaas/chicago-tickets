@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+
+## Incremental delivery merged and deployed — 3 November 2026
+
+PR [#1340](https://github.com/kevinrhaas/chicago/pull/1340) merged normally into DEV as `39bcffa1f6db569d1867c68bac3250623509f919` after all 19 current-source CI contexts completed (14 success, five expected skips), including the complete 1,132-step gate, moving frames, 32 upload checks and all scene/viewport memory gates. The 1904 mobile reading was 399.4 MiB against the unchanged 400.0 MiB ceiling. The mobile still-frame ceiling held; the desktop still job succeeded with its reading explicitly unheld on an unconfigured runner. Source HEAD was `3dd1e27965106d1d9ee9bde85d76319ce716137d`, TREE `c16c9fa302d8b9239cb92fb9507bfa20feb7c6c0`.
+
+The deployed DEV build `eaeff876` was read back on 3 November at 02:12 UTC; context.js, upload-release.js and shared-images.js match the checked source byte for byte. Earlier memory failures and the first guarded merge stop after another DEV landing remain recorded. Published source and recovery evidence is saved in chicago-evidence, most recently `3d9f035b37d2e35ab914a02c000333532fd8a518` (fixed cutoff precedes M13/merge).
+
+This is an incremental delivery of the licensed wagon collection asset, vegetation travel reliability, detail-switch repair and phone-memory repair. It does not close the broader wagon photographic, occupied driving, gait or riding acceptance. T-2793 remains claimed for that continuing work; no whole-ticket completion is asserted.
+
 ## Published acceptance continues — 29 October 2026, 7:48 PM CT
 
 PR #1340 remains at checked `78b11b7a8e49126a8a5724a4035ea961461a4f49`; application source/index/publication are unchanged. Fresh published phone part 4 passed 44/0 in 211.180 seconds, part 5 passed 30/0 in 335.166 seconds, and part 6 passed 24/0 in 256.215 seconds. Each used its original 600-second limit, closed all owned children and retained exact before/after source, index and all 5,637 mirror members. Along with phone parts 1–3 and desktop part 1, seven of 30 required part/view slots have passed. These partial results do not establish the whole gate or photographic acceptance.
