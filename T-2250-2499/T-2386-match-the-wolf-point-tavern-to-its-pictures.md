@@ -52,3 +52,15 @@ The inspected NYPL Blanchard/Shober lithograph bears a legible 1867 publication 
 No matching verdict or completion is claimed. See the [shared compound-render checkpoint](https://github.com/kevinrhaas/chicago/blob/steward/t3040-fort-reference-groups/chicago/4d/docs/RESEARCH/fort-reference-groups-T-3040/README.md) for source/date findings and the next implementation step.
 
 **Released 2026-10-23** (claim of school_lighthouse_castle_bridge 10/23/2026, 7:14:35 AM CT): Run wrapped after verified frozen recovery at https://github.com/kevinrhaas/chicago-evidence/blob/3575ef6/evidence/image-match-2026-10-22/final-parallel-recovery-20261023T1430/RECOVERY.md . School recess is prepared UNRUN; Wolf Point latest actual door/log comparison differs. Original full picture-match acceptance remains unfinished and unchanged; no matches or completion claimed. Source-origin identity/date uncertainty and owner-approved attributed school use are preserved.
+
+## Incremental picture-review progress — 2026-11-03
+
+[PR #1631](https://github.com/kevinrhaas/chicago/pull/1631) adds seven reviewed native Wolf Point comparisons, with actual camera/photo/model bindings and source-specific T-3153 dispositions. The accepted target is the low Wolf cabins and sign; the opposite-bank Miller House is not mistaken for the tavern. No Wolf geometry change is claimed. The Images card gains one held picture and five credited links, with publication dates distinguished from depicted dates.
+
+The original eight files contain nine compositions. Seven usable compositions have reviewed comparison records. Herriott's tiny unkeyed view has no securely identified measurable Wolf target. The poster remains inspection-only: [Newberry's primary record](https://collections.newberry.org/asset-management/2KXJ8ZS8068IZ) dates it 1935 and says Copyright Not Evaluated; the older 1892 attribution is unverified. Settle that provenance/rights or establish a justified scope disposition before full original-ticket signoff. Do not invent a camera or matching verdict for either excluded composition.
+
+This is partial progress; T-2386 is not done.
+
+Pushed application revision: `e51af51e7723b1f39586e204f29b64f15263b920`. Fresh published desktop and 390×780 phone checks pass with default geometry release enabled, no page/console/network/server errors, all six captures directly reviewed and source/publication/metadata guards unchanged. [Durable actual runtime proof and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/fd7b25a3f6d3470da24d5071dbfbe4ab6818864d/evidence/wolf-sauganash-2026-11-03/e51af51e7723-default-visitor/RECOVERY.md). Native stage 3 was not rerun on e51; the earlier qualified feature head has both native stage-3 passes. Newer Fort/Pullman changes on dev are being integrated before merge. No final integration, merge or full-ticket completion is claimed by this checkpoint.
+
+The normal street arrival currently frames Miller House in the foreground. The diagnostic Wolf comparisons and credited Images card do not establish accepted Wolf street-arrival framing.
