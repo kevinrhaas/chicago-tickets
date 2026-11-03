@@ -1,7 +1,7 @@
 ---
 id: T-3342
 title: 1812: rebuild the Potawatomi camp as a working summer camp — varied mat and bark lodges, cooking arbors, hearths, drying racks, storage scaffolds, canoes, a horse ground and trodden earth
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1664
 claimed_by: run 11/2/2026, 9:42:53 PM CT
 blocked_on: null
 needs_bake: true
