@@ -191,10 +191,11 @@ T-3325 — 1812 jaunt: the Battle of Fort Dearborn, April to August 1812, in 12 
 T-3326 — 1812 jaunt: the killing of Jean Lalime, the Kinzie property and the feud that led to it
 T-3327 — 1812 jaunt: a tour of the first Fort Dearborn, every building on Whistler's draught
 T-3331 — Settings › Time of day: any hour in 10-minute steps, named times, night grade, and a setter jaunts can call
-T-3328 — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
 # BLOCKED-TECH T-3332 (opened 2026-11-02, META) — 1812 by night: the fort's lamps, candles and fires, and the houses' firelight, as documented
 #     waits: T-3331 — builds on its lighting
 # BLOCKED-TECH T-3333 (opened 2026-11-02, META) — 1835 by night: candle and oil-lamp windows, tavern and store lanterns, the fort's lamps
 #     waits: T-3332 — builds on its lighting
 # BLOCKED-TECH T-3334 (opened 2026-11-02, META) — 1904 by night: lit street lamps, gaslit and electric house and business windows
 #     waits: T-3333 — builds on its lighting
+# BLOCKED-TECH T-3328 (opened 2026-11-02, META) — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
+#     waits: T-3331 (time-of-day setting and api.timeOfDay setter) on dev
