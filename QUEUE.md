@@ -204,3 +204,4 @@ T-3336 — Inspect inside Fort Dearborn names the stockade, not the building loo
 T-3339 — 1812: worn paths from the fort gate, the lake-shore trail and the Vincennes trace, and worn yards round the buildings
 T-3340 — 1812: more trees south of the river: the South Branch timber belt, dune cottonwoods, and willow and cottonwood groves at the wet hollows
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
+T-3342 — 1812: rebuild the Potawatomi camp as a working summer camp — varied mat and bark lodges, cooking arbors, hearths, drying racks, storage scaffolds, canoes, a horse ground and trodden earth
