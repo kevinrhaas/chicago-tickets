@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex original T2376 closed shoulder and coupled yard increment 2026-11-03 11/3/2026, 2:10:37 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T20:10:49.771Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -66,3 +66,5 @@ This is a source checkpoint, not a merged app change or picture signoff. Remaini
 **Combined `0e838b35` checkpoint:** [23 guarded source changes and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/e1c2de29d477bb2441b7b699f82886c82046426a/evidence/green-tree-2026-11-03/combined-0e838b35-consumers/RECOVERY.md). All per-file preimages now bind to the pushed Sauganash/Wolf/Fort integration. The 23 postimages and complete 2,119-file private execution input set are byte-identical to the recorded passing Fort-compatible fixtures; no tests were rerun or relabelled as a new run. The separate liberty appendix avoids replacing the current book. App adoption and full image signoff remain unrun.
 
 **Released 2026-11-03** (claim of Codex combined Green Tree range and Wolf Point credit integration 11/3/2026, 4:48:56 AM CT): Partial Green Tree increment merged normally in PR #1652 (squash738f0f81566693980a09f20175a90c5602ec042f; reviewedhead ebf7befa1afba05947578a5ee08e0cbc8655d98a). The low connector and turned farther gabled range now use authenticated native geometry and occupied-solid consumers, with the existing procedural open wagon bay retained. Combined source/native gates, desktop/phone published checks and official107x2 passed. The historical Andreas comparison remains differs with one compound OPEN for the remaining closed shoulder/openings/source alternatives; the original image gate is unfinished. Keep this original ticket open/partial and PR field null; no done or automatic close. https://github.com/kevinrhaas/chicago/pull/1652
+
+**Released 2026-11-03** (claim of Codex original T2376 closed shoulder and coupled yard increment 2026-11-03 11/3/2026, 2:10:37 PM CT): Partial progress merged in https://github.com/kevinrhaas/chicago/pull/1677 at dev7b2e956d38c7a35d2b8964cff4f6f7163f3e8665: choose the documented closed Andreas shoulder with sash/dormer; remove its competing shed/posts/covered wagon and occupied cordwood rick, retaining two separate farm wagons. Exact source four parts, accepted desktop/phone plus native107 both, current owners and full hosted gate passed. ORIGINAL REMAINS PARTIAL/DIFFERS: visible roof/proportion gaps remain in data/reference_views/green_tree_tavern/andreas_1838.match.json; Trowbridge open-bay counterevidence and unknown conversion date remain explicit. No original-ticket signoff, done override, new photo follow-up or exact July1835 claim. Complete proof https://github.com/kevinrhaas/chicago-evidence/blob/8825e2556e9af799052efad6a5414116ca41b1c5/evidence/green-tree-2026-11-03/final749-accepted-both-native107/RECOVERY.md . Resume the remaining visible discrepancies from the merged source.
