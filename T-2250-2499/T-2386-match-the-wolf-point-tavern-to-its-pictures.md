@@ -1,7 +1,7 @@
 ---
 id: T-2386
 title: Match the Wolf Point Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: T2386 Wolf Point native picture signoff 10/26/2026, 2:23:10 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-26T07:23:11.461Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -64,3 +64,13 @@ This is partial progress; T-2386 is not done.
 Pushed application revision: `e51af51e7723b1f39586e204f29b64f15263b920`. Fresh published desktop and 390×780 phone checks pass with default geometry release enabled, no page/console/network/server errors, all six captures directly reviewed and source/publication/metadata guards unchanged. [Durable actual runtime proof and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/fd7b25a3f6d3470da24d5071dbfbe4ab6818864d/evidence/wolf-sauganash-2026-11-03/e51af51e7723-default-visitor/RECOVERY.md). Native stage 3 was not rerun on e51; the earlier qualified feature head has both native stage-3 passes. Newer Fort/Pullman changes on dev are being integrated before merge. No final integration, merge or full-ticket completion is claimed by this checkpoint.
 
 The normal street arrival currently frames Miller House in the foreground. The diagnostic Wolf comparisons and credited Images card do not establish accepted Wolf street-arrival framing.
+
+## Merged incremental progress — 2026-11-03
+
+[PR #1631](https://github.com/kevinrhaas/chicago/pull/1631) merged into dev at 2026-11-03 04:03:42 UTC as `18c037e9f756a5190787ef1bd77bacce78331ad1`. The checked source head is `0e838b35b5ba32b61ccd01499310520e160ab4a2`; GitHub gate passed before merge. [Final screenshots, source transcripts and native regression proof](https://github.com/kevinrhaas/chicago-evidence/blob/121eaee6e28f74696131cfd71850e26c8cc259b1/evidence/wolf-sauganash-2026-11-03/0e838b35b5ba-final-default-visitor/RECOVERY.md). Actual published desktop and phone checks pass with default geometry release, all six captures directly reviewed and no page/console/network/server errors. Native stage 3 passes 107 checks at each viewport with zero failures/page errors; all source/publication/Git guards stay unchanged.
+
+Seven usable native picture comparisons and five new credited source links are landed beside the held NYPL illustration. Wolf geometry is unchanged. The 1935 poster remains inspection-only; the tiny unkeyed Herriott target still lacks a secure measurable identification. Original scope/rights dispositions and full signoff remain unfinished. Normal street arrival foregrounds Miller House, so accepted Wolf street framing is not claimed.
+
+This original ticket remains open for its remaining work. No follow-up ticket or whole-ticket completion is filed. The published dev deployment was still pending at the first post-merge read; the merge itself is verified.
+
+**Released 2026-11-02** (claim of T2386 Wolf Point native picture signoff 10/26/2026, 2:23:10 AM CT): Merged scoped facade and credited-picture progress in PR #1631 (18c037e9); original picture coverage and signoff remain. Final 107+107 viewport proof is linked in each ticket.
