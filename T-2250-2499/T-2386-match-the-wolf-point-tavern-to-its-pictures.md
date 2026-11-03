@@ -1,7 +1,7 @@
 ---
 id: T-2386
 title: Match the Wolf Point Tavern to its pictures
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 1666
 claimed_by: Codex Wolf Point private poster fit resumed after outage 11/3/2026, 10:26:48 AM CT
 blocked_on: null
 needs_bake: false
