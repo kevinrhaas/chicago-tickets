@@ -1,7 +1,7 @@
 ---
 id: T-3361
 title: Lay the Dearborn drawbridge's lowered draw level
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: claude project thread 11/3/2026, 2:57:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-03T20:57:32.224Z
 decision: null
 decision_answer: null
 ---
