@@ -17,8 +17,8 @@ needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Package **E20**, one part of the owner-requested [T-1837](../T-1750-1999/T-1837-assess-the-complete-prairie-avenue-1904-architec.md) architectural programme. See the [design study](../evidence/T-1837-prairie-1904-architectural-study/README.md), [named-building register](../evidence/T-1837-prairie-1904-architectural-study/BUILDING-REGISTER.md), [every mapped frontage](../evidence/T-1837-prairie-1904-architectural-study/FRONTAGE-REGISTER.md) and [component / Glessner acceptance contract](../evidence/T-1837-prairie-1904-architectural-study/ASSET-CATALOG.md).
@@ -72,3 +72,5 @@ No picture of this building was found by address in the Prairie library on 2026-
 **Asked:** 2026-11-01 by https://github.com/kevinrhaas/polecat-platform/actions/runs/41379397907. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Released 2026-11-01** (claim of run 11/1/2026, 8:58:37 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41379397907): nothing left to build that later tickets have not built; the owner is asked whether to close it (decision pending)
+
+**Owner answer (2026-11-02, via Manager):** (a) Close T-1943 as delivered: every 16th-18th house now has its own boundary and walk (T-3204 pieces T-3214/3221/3222/3229/3230; the 1700 block per house), front yards (T-3203/3223), lamps (T-3199), hydrants and poles (T-3201/3202), curb and carriage walks (T-2474), corner ramps (T-3200), parkway elms (T-2473). Carriage blocks and hitching posts stay picture-only per your 2026-10-27 ruling.
