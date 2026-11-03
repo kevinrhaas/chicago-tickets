@@ -1,7 +1,7 @@
 ---
 id: T-3349
 title: 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and build the verandah's columns and place, the entrance in the tower with its stoop running north, the stacks' places and the deck's height against the photograph
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3345
 opened: 2026-11-03
-closed: null
+closed: 2026-11-03
 pr: null
 claimed_by: run 11/3/2026, 12:15:16 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T18:57:21.518Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41687871602
 claimed_at: 2026-11-03T18:15:16.566Z
 decision: null
