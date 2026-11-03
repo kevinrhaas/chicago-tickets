@@ -1,7 +1,7 @@
 ---
 id: T-3325
 title: 1812 jaunt: the Battle of Fort Dearborn, April to August 1812, in 12 stops
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1645
 claimed_by: run 11/2/2026, 8:08:08 PM CT
 blocked_on: null
 needs_bake: false
