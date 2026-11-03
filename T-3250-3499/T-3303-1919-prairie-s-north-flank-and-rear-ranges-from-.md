@@ -1,7 +1,7 @@
 ---
 id: T-3303
 title: 1919 Prairie's north flank and rear ranges from its pictures: the flat-topped two-storey bays with stone mullioned windows, the stepped finialled gables and the pinnacled dormers between them, and its remaining pictures solved and worked to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1907
 opened: 2026-11-01
-closed: null
+closed: 2026-11-02
 pr: null
 claimed_by: run 11/2/2026, 9:18:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T03:33:51.304Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41570087825
 claimed_at: 2026-11-03T03:18:18.879Z
 decision: null
