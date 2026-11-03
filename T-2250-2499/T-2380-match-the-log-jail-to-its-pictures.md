@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex original jail native-worker recovery handoff 2026-11-03 11/3/2026, 4:52:33 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T22:52:33.973Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -62,3 +62,5 @@ The retained keeper's full normalized native input is `cbc1246652fa64234391b08cd
 Use bounded native producer/derivative batches under600seconds, then all four source-gate parts **before the first source commit**. The stock selected272-id content bake is not a safe50-minute assumption: actual checkout15m58 + successful whole gate21m21 + historical native-family estimate17minutes already totals54m19 before setup/publication/push (earlier gate29m05 makes62m03). `bake.sh` contains the whole embedded gate; a timeout is not a pass and it has no skip-check shortcut.
 
 Ship only a checked, evidence-bounded partial PR into dev: actual current-model comparisons, published desktop and390x780 phone checks, appropriate native smoke, current hosted gate and an ordinary protected merge. Retain the T3153 stopping bar, explicit liberties and source/date/rights conflicts. Keep originalT2380 OPEN/released with remaining differences unless its complete image gate is genuinely met; no `done --anyway`, new photo follow-up or direct dev/main push.
+
+**Released 2026-11-03** (claim of Codex original jail native-worker recovery handoff 2026-11-03 11/3/2026, 4:52:33 PM CT): Checked recovery links and native-family requirements published; released OPEN for reviewed exact-ticket native worker. No worker dispatched, geometry applied or full image match claimed.
