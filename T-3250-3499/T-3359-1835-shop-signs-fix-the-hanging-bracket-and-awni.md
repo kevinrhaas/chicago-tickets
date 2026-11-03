@@ -1,7 +1,7 @@
 ---
 id: T-3359
 title: 1835 shop signs: fix the hanging bracket and awning boards flat on the facade, beside or over the door
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-03
-closed: null
+closed: 2026-11-03
 pr: 1676
 claimed_by: run 11/3/2026, 1:44:44 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T23:03:15Z
 claimed_run: null
 claimed_at: 2026-11-03T19:44:54.374Z
 decision: null
