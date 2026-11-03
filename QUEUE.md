@@ -201,3 +201,4 @@ T-3331 — Settings › Time of day: any hour in 10-minute steps, named times, n
 #     waits: T-3331 (time-of-day setting and api.timeOfDay setter) on dev
 T-3335 — Show the Currey 1912 bird's-eye view of the first Fort Dearborn on every fort card it pictures, held, and compare the 1812 fort against it
 T-3336 — Inspect inside Fort Dearborn names the stockade, not the building looked at (phone box pick)
+T-3339 — 1812: worn paths from the fort gate, the lake-shore trail and the Vincennes trace, and worn yards round the buildings
