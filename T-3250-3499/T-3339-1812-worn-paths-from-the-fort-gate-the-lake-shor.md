@@ -1,7 +1,7 @@
 ---
 id: T-3339
 title: 1812: worn paths from the fort gate, the lake-shore trail and the Vincennes trace, and worn yards round the buildings
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-02
 pr: 1643
 claimed_by: run 11/2/2026, 9:39:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T05:03:54Z
 claimed_run: null
 claimed_at: 2026-11-03T03:39:08.131Z
 decision: null
