@@ -1,7 +1,7 @@
 ---
 id: T-3337
 title: 1919 Prairie's rear range's canted north bay, flat-topped under a stone balustrade with stone-mullioned windows, and both rear ranges' gables stone-coped with kneelers and finials, from its pictures
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3303
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1644
 claimed_by: run 11/2/2026, 9:33:56 PM CT
 blocked_on: null
 needs_bake: false
