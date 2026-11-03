@@ -1,7 +1,7 @@
 ---
 id: T-3322
 title: The rest of the 18th-20th block's boundaries, gardens and frontage fittings
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1944
 opened: 2026-11-02
-closed: null
+closed: 2026-11-03
 pr: 1651
 claimed_by: run 11/2/2026, 10:33:22 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T06:49:33Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41577673372
 claimed_at: 2026-11-03T04:33:22.958Z
 decision: null

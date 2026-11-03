@@ -66,7 +66,6 @@ T-3344 — 1936 Prairie's main cornice raised to the Tribune's 44 ft and its tow
 T-3345 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and build the verandah's columns and place, the entrance in the tower with its stoop running north, the belvedere's deep cornice, the stacks' places and the deck's height against the photograph
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-3322 — The rest of the 18th-20th block's boundaries, gardens and frontage fittings
 T-3346 — Refine 2003 and 2005 Prairie, the brick pair on a party wall with curved front bays, from the district draft onto K01
 T-3347 — Refine 2001 Prairie, the stone-fronted corner house on 20th Street, from the district draft onto K01
 T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
