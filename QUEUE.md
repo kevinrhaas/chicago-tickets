@@ -186,7 +186,6 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
-T-3320 — Fort Dearborn parade ground: trodden-earth texture that feathers into the grass, 1812 and 1835
 T-3325 — 1812 jaunt: the Battle of Fort Dearborn, April to August 1812, in 12 stops
 T-3326 — 1812 jaunt: the killing of Jean Lalime, the Kinzie property and the feud that led to it
 T-3327 — 1812 jaunt: a tour of the first Fort Dearborn, every building on Whistler's draught

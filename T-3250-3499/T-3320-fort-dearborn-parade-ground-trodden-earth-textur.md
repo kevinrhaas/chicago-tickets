@@ -1,7 +1,7 @@
 ---
 id: T-3320
 title: Fort Dearborn parade ground: trodden-earth texture that feathers into the grass, 1812 and 1835
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-02
-closed: null
+closed: 2026-11-02
 pr: 1633
 claimed_by: run 11/2/2026, 4:32:46 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T02:49:09Z
 claimed_run: null
 claimed_at: 2026-11-02T22:32:48.001Z
 decision: null
