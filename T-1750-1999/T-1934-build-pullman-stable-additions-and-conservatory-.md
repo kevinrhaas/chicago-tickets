@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 11:25:12 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41678526668
-claimed_at: 2026-11-03T17:25:15.257Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -166,3 +166,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-02** (claim of run 11/2/2026, 7:30:22 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41452706209): PR #1611 moves the house's east porch (house terrace's south front) and the west gate's flights, landing and bench 3.35 m north onto the place the 1894 plate and Taylor's 16555 triangulate (urn, pedestal edge, arched light's jamb at v -19.2 to -19.6); the conservatory's plate record now matches and 16555's porch-and-stair item is fixed. Still open in the match records, both on the house record (T-1881): 16554's stack between the rear dormers, and 16555's quoined east corner about 35 px right of the print's.
 
 **Released 2026-11-02** (claim of run 11/2/2026, 4:16:50 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41534596382): nothing of its own left to build: all six estate match records' structures (palm house, stable) match; the two items still open are the house's (16554's stack between the rear dormers, 16555's quoined east corner), T-1881's, which a live run holds now; the six records are stale on flora and want re-rendering after T-1881 lands, since its house GLB change would stale them again
+
+**Released 2026-11-03** (claim of run 11/3/2026, 11:25:12 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41678526668): PR #1668 (resume: gate still running, nothing red) builds the stack Taylor's 16554 shows behind the house's rear face between its two rear dormers (chimneys.stacks[3], place reconstructed against the dormers, L-pullman-1729-rear-stack-1934); the conservatory's 16554 record now matches. Still open: 16555's house corner, diagnosed in its record as the house's placement — the camera fits the wing's west end (the house's east wall) at u -12.12 where the scene stands the house's east wall at -11.21, 0.91 m east, and the 1894 plate reads the same 1 m — which belongs to the house's own record (T-1881). Also restamps 2009 Prairie's stale input hash left on dev by #1658. Not split: the gate stays on this ticket.
