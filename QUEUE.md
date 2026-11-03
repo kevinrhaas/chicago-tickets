@@ -193,4 +193,5 @@ T-3327 — 1812 jaunt: a tour of the first Fort Dearborn, every building on Whis
 T-3331 — Settings › Time of day: any hour in 10-minute steps, named times, night grade, and a setter jaunts can call
 T-3332 — 1812 by night: the fort's lamps, candles and fires, and the houses' firelight, as documented
 T-3333 — 1835 by night: candle and oil-lamp windows, tavern and store lanterns, the fort's lamps
+T-3334 — 1904 by night: lit street lamps, gaslit and electric house and business windows
 T-3328 — 1812 jaunts: each stop sets its hour, sunset at the fort gate, nine in the morning on the beach
