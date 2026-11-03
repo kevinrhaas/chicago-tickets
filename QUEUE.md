@@ -187,3 +187,4 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3320 — Fort Dearborn parade ground: trodden-earth texture that feathers into the grass, 1812 and 1835
+T-3325 — 1812 jaunt: the Battle of Fort Dearborn, April to August 1812, in 12 stops
