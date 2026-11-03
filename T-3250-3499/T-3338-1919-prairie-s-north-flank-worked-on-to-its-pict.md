@@ -1,7 +1,7 @@
 ---
 id: T-3338
 title: 1919 Prairie's north flank worked on to its pictures: the rear ranges' place and height against both Gatlin plates, the quoined block at the middle range's corner, the pinnacled dormers between the gables, the stone quoins and dressings of the flank's bays, and its remaining pictures solved and worked to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3303
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 7:25:59 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41642354763
+claimed_at: 2026-11-03T13:26:00.416Z
 decision: null
 decision_answer: null
 ---
