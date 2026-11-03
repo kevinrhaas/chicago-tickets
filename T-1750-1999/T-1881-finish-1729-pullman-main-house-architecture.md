@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 12:55:30 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41592389803
-claimed_at: 2026-11-03T06:55:31.243Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -168,3 +168,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-02** (claim of run 11/2/2026, 9:05:06 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41569515048): PR #1641 (the house's own seven parkway trees grown on a new high_head form, tall leaders under narrow heads off the Detroit print and Taylor's no. 1445; the trees item fixed in Detroit, Taylor 1445 and Clark 1905) is up on resume while its CI gate finishes; the portico's reach north over the forward block, the 18th Street posts, the corner trunk, the lawn trees and Taylor 1445's camera disagreement remain, so the owner's ticket stays open
 
 **Released 2026-11-03** (claim of run 11/2/2026, 11:28:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41584374313): PR #1641 (Pullman's own parkway trees on a tall leader under a narrow head, off the Detroit print and Taylor's no. 1445) lapped onto dev, re-gated (check.sh 4/4, smoke mobile 3,10 + 11) and merged to dev; the image gate on pullman_house_1729_prairie stays open, so the owner's ticket stays open
+
+**Released 2026-11-03** (claim of run 11/3/2026, 12:55:30 AM CT): PR #1655 (Pullman stone joints on every face; glasshouse ground's gravel, coping run and walk joins) merged to dev; the ticket stays open, its photo records still differ
