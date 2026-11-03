@@ -1,7 +1,7 @@
 ---
 id: T-1912
 title: Refine 2001, 2003 and 2005 attached row
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-02
 pr: null
 claimed_by: run 11/2/2026, 11:36:57 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-03T05:38:51.023Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41584164040
 claimed_at: 2026-11-03T05:36:58.262Z
 decision: null
