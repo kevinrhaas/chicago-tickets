@@ -65,7 +65,6 @@ T-3349 — 1936 Prairie worked on to its photograph: re-solve the Chicagology ca
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
 T-3346 — Refine 2003 and 2005 Prairie, the brick pair on a party wall with curved front bays, from the district draft onto K01
-T-3347 — Refine 2001 Prairie, the stone-fronted corner house on 20th Street, from the district draft onto K01
 T-1913 — Refine 2009 Mayer-Meyer French Gothic house envelope
 T-1914 — Finish 2009 Mayer-Meyer French Gothic house architecture
 T-1909 — Refine 2000 and 2010 detached frame houses
