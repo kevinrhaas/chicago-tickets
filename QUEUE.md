@@ -180,7 +180,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
-T-3355 — 1812 jaunts: fuller narrative, scene-setting openings, hooks between stops, a time on every stop, long legs Instantly
 T-3359 — 1835 shop signs: fix the hanging bracket and awning boards flat on the facade, beside or over the door
 T-3360 — 1835 buildings stand on plank walks and in alleys: move them back onto their lots, give St. Mary's an entrance off the walk
 T-3361 — Lay the Dearborn drawbridge's lowered draw level
