@@ -185,3 +185,4 @@ T-3359 — 1835 shop signs: fix the hanging bracket and awning boards flat on th
 T-3360 — 1835 buildings stand on plank walks and in alleys: move them back onto their lots, give St. Mary's an entrance off the walk
 T-3361 — Lay the Dearborn drawbridge's lowered draw level
 T-3362 — Floating branches on dead snags and floating leaf clusters on grown trees (1812, 1835)
+T-3363 — 1904 jumpy on the owner's desktop: grown trees send one draw per tree, Light's building cells one per cell
