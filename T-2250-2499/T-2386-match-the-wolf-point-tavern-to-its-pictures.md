@@ -1,7 +1,7 @@
 ---
 id: T-2386
 title: Match the Wolf Point Tavern to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: wolf-poster-credit-20261103 11/3/2026, 1:43:13 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-03T07:43:13.929Z
 decision: null
 decision_answer: null
 ---
