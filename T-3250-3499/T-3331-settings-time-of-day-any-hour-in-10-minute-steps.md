@@ -1,7 +1,7 @@
 ---
 id: T-3331
 title: Settings › Time of day: any hour in 10-minute steps, named times, night grade, and a setter jaunts can call
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1636
 claimed_by: run 11/2/2026, 8:36:48 PM CT
 blocked_on: null
 needs_bake: false
