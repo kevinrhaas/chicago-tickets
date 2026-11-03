@@ -1,7 +1,7 @@
 ---
 id: T-1943
 title: Finish north-block boundaries, gardens and frontage fittings
-state: open
+state: withdrawn
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-02
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: Closed as delivered on the owner's answer (a), 2026-11-02 via Manager: every 16th-18th house has its own boundary and walk (T-3204 pieces T-3214/3221/3222/3229/3230), front yards (T-3203/3223), lamps (T-3199), hydrants and poles (T-3201/3202), curb and carriage walks (T-2474), corner ramps (T-3200), parkway elms (T-2473); carriage blocks and hitching posts stay picture-only (2026-10-27 ruling).
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-03T04:32:01.424Z
 claimed_run: null
 claimed_at: null
 decision: answered
