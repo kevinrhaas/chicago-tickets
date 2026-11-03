@@ -1,7 +1,7 @@
 ---
 id: T-3336
 title: Inspect inside Fort Dearborn names the stockade, not the building looked at (phone box pick)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-02
 closed: null
-pr: null
+pr: 1639
 claimed_by: run 11/2/2026, 9:32:03 PM CT
 blocked_on: null
 needs_bake: false
