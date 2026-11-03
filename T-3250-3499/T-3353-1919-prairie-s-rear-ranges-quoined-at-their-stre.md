@@ -1,7 +1,7 @@
 ---
 id: T-3353
 title: 1919 Prairie's rear ranges quoined at their street-facing corners and banded in stone across the north flank, off the 1919 programme plate
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3338
 opened: 2026-11-03
 closed: null
-pr: null
+pr: 1663
 claimed_by: run 11/3/2026, 7:37:14 AM CT
 blocked_on: null
 needs_bake: false
