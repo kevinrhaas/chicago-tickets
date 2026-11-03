@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Green Tree connector and turned-range increment 11/2/2026, 10:17:02 PM CT
+claimed_by: Codex combined Green Tree range and Wolf Point credit integration 11/3/2026, 4:48:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T04:17:03.235Z
+claimed_at: 2026-11-03T10:48:57.010Z
 decision: null
 decision_answer: null
 ---
