@@ -1,7 +1,7 @@
 ---
 id: T-2386
 title: Match the Wolf Point Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: wolf-poster-credit-20261103 11/3/2026, 4:47:36 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T10:47:36.882Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -74,3 +74,5 @@ Seven usable native picture comparisons and five new credited source links are l
 This original ticket remains open for its remaining work. No follow-up ticket or whole-ticket completion is filed. The published dev deployment was still pending at the first post-merge read; the merge itself is verified.
 
 **Released 2026-11-02** (claim of T2386 Wolf Point native picture signoff 10/26/2026, 2:23:10 AM CT): Merged scoped facade and credited-picture progress in PR #1631 (18c037e9); original picture coverage and signoff remain. Final 107+107 viewport proof is linked in each ticket.
+
+**Released 2026-11-03** (claim of wolf-poster-credit-20261103 11/3/2026, 4:47:36 AM CT): PR #1652 merged normally into dev as 738f0f81566693980a09f20175a90c5602ec042f. Partial T-2386 progress: the distinct Blanchard/Davis ca.1893 poster now has a credited current-Newberry Images link, with archived primary publication evidence and the current1935/CopyrightNotEvaluated conflict retained. Existing seven diagnostic comparisons and Wolf geometry/cameras are unchanged. Fresh combined desktop/phone cards and GreenTree exterior pass at ebf7befa1afba05947578a5ee08e0cbc8655d98a, all six images directly reviewed; official native stage3 passes107/0 at both viewports and all source/publication/Git guards close unchanged. Proof: https://github.com/kevinrhaas/chicago-evidence/blob/4d1d14b0929b147d586603a59ca04af340851e96/evidence/green-tree-2026-11-03/combined-ebf7-actual-qa/RECOVERY.md . Full original picture matching is unfinished: the separate initial poster camera remains unfitted/unenrolled, the tiny unkeyed Herriott composition still needs its honest scope disposition, and accepted Wolf street framing is not claimed. Release is PARTIAL/OPEN/prnull, not done.
