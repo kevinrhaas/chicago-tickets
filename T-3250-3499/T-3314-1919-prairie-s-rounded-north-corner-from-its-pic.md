@@ -1,7 +1,7 @@
 ---
 id: T-3314
 title: 1919 Prairie's rounded north corner from its pictures: the brick front, its stone basement and belts and the main eave swept round the corner the 1911 sheet cuts back about 0.85 by 1.2 m (K01's round_corner is stone-only and squares its eave out again)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3306
 opened: 2026-11-02
-closed: null
+closed: 2026-11-02
 pr: 1627
 claimed_by: run 11/2/2026, 12:48:59 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-03T00:22:01Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41501004225
 claimed_at: 2026-11-02T18:49:00.183Z
 decision: null
