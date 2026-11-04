@@ -1,7 +1,7 @@
 ---
 id: T-3363
 title: 1904 jumpy on the owner's desktop: grown trees send one draw per tree, Light's building cells one per cell
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-03
 closed: null
-pr: null
+pr: 1689
 claimed_by: run 11/3/2026, 4:01:19 PM CT
 blocked_on: null
 needs_bake: false
