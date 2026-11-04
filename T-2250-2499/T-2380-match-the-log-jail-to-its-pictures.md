@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 7:24:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41753176525
-claimed_at: 2026-11-04T01:24:15.585Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -84,3 +84,5 @@ Fresh ownership audit at01:08UTC: old worker completed failure, PR1683 head unch
 During resume, publish **UNQUALIFIED working-source plus raw log/hash checkpoints to chicago-evidence every15–20minutes**, using ordinary fast-forward evidence updates before full gates; do not make an unqualified app source commit. Preserve SDK first-history truth, original WIP commits, actual build ledger/source-four/UI logs for direct review. Finish with an evidence-bounded partial PR, ordinary protected green dev merge, and original-ticket OPEN/release unless every image gate is actually met.
 
 **Released 2026-11-03** (claim of run 11/3/2026, 5:06:32 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41734994705): Native run41734994705 completed FAILURE/error_max_turns; preserve existing PR1683 headbc0b8c5 and exact dated recovery. Original image gate remains OPEN/DIFFERS; root-reviewed existing-PR native resume, combined current-Pruyne bake, final source-four/UI/full gate and protected merge remain owed.
+
+**Released 2026-11-03** (claim of run 11/3/2026, 7:24:15 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41753176525): Exact resume of PR #1683 (run 41753176525): current dev merged, all four source-gate parts green and both viewports actually run on head 9af909782, frame families re-qualified by an actual pinned-Blender rebuild (272 frame_dwelling byte-identical; the 53 frame_storefront byte shifts are not this ticket's and were reverted to dev's bytes). The PR carries resume: the dev gate had never been requested on it and the workflow_dispatch fired for it was still queued. Original T-2380 remains OPEN and differs: the core still reads concealed behind the palisade where both pictures show its walls and roof clear, the compound's relative proportions are wrong against the plate, the palisade is one flat mass where both pictures draw separate boards, and neither camera is solved (diagnostic_only). No match claimed, no photo follow-up filed (T-3153).
