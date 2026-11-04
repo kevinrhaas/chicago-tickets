@@ -1,7 +1,7 @@
 ---
 id: T-2374
 title: Match Cobweb Castle to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 9:17:25 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41765287782
-claimed_at: 2026-11-04T03:17:26.769Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -101,3 +101,5 @@ SAVE BEFORE LONG GATES: publish UNQUALIFIED working-source plus raw log/hash che
 FINISH: commands bounded600s, foreground and proper process cleanup, immutable source/output guards. Reuse old native/check proof only when exact inputs/code/outputs and current contract apply; do not repeat proven work just to start over. Fix known bounded reds while budget remains. Publish the committed current integrated head; perform actual current both-viewports/native subset and root-controlled-pixel review. The final exact head needs actual named full source `gate` aggregating ALL CURRENT EIGHT required hosted parts; report/warranted/skipped or one shard green is insufficient. Request the supported full-gate path if absent, wait for its verdict, then ordinary protected existingPR devmerge and original partialrelease. No direct dev/main push, Gitforce, adminmerge, donepartial or new photo ticket. If150minutes/400calls cannot finish, save this SAME PR and public raw code/logs with precise remaining work.
 
 [Immutable root-reviewed exact-resume packet](https://github.com/kevinrhaas/chicago-evidence/blob/6e753a40d4d1e2b7b7b6cc710a5bc034e9dbbc7e/evidence/cobweb-2026-11-04/pr1690-completed-native-depth-repair-handoff/RECOVERY.md).
+
+**Released 2026-11-03** (claim of run 11/3/2026, 9:17:25 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41765287782): PARTIAL, OPEN, STILL DIFFERS. Exact resume of PR https://github.com/kevinrhaas/chicago/pull/1690 (branch steward/t2374-cobweb-front-apertures), merged to dev as 05f37859255aba5d396aa738b39c484809a5e64e. The two grounded apertures the 1831 Wau-Bun panorama draws were being cut BEHIND the log courses and read as striped ladders: _compound_aperture passed the bare APERTURE_BACK_M (0.004 m) to openings.face, which measures from the wall PLANE, while openings.surround reads its back from the wall SKIN and ran the reveal to 0.026 m against a 0.022 m log relief. Repaired locally by passing w.skin + APERTURE_BACK_M, the convention the same file's blind doorway already follows; test_log_compound_apertures.py now pins the invariant off the builder's source and fails if the expression is reverted. No shared helper, schema, camera, grade or verdict touched. Native: pinned sha-verified Blender 4.5.3 on Ubuntu 26.04.1, all 82 log_dwelling masters rebuilt in four bounded batches, 81 byte-identical; Cobweb MASTER 4f42207b -> 1ddf548d, WEB 1699d7aa -> 99997b5f. Gate: check.sh parts 1/4-4/4 all green before the first source commit (1150+ steps, none red), smoke mobile 3-4 PASS and desktop 3 PASS, and the full hosted eight-part gate green on the merged head. The mobile 1-2 leg's five Green Tree wagon-shed reds were measured on a pristine origin/dev worktree as well, identical, so they are dev's and belong with T-2376/PR1684. Controlled before/after re-run at the retained private camera 07f94fa8 on source 624d8f1f: rendering the two earlier meshes reproduced the review's own images byte-for-byte, and both lower faces now read as uninterrupted dark recesses. NOT A MATCH: the panorama's camera is UNSOLVED and unenrolled, and the compound width, wings, sub-roof silhouettes, roof junctions, partial clapboarding and finish/tone all still differ. Image gate stays open; no photo follow-up filed. Receipts: https://github.com/kevinrhaas/chicago-evidence/tree/main/evidence/cobweb-2026-11-04/pr1690-exact-resume-depth-repair-qualified-41766
