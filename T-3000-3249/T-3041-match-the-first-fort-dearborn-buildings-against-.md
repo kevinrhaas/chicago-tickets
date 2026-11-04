@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: run 11/4/2026, 12:08:04 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41782312201
-claimed_at: 2026-11-04T06:08:04.715Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -146,3 +146,5 @@ NEW T-3041 / lane `first-fort-magazine-native-20261104` / default model / max400
 The earlier instruction to finish all four source-check parts before the FIRST source commit is superseded. After all genuinely affected native models have been built on the pinned runner, and actual MASTER/WEB bindings and affected owners are verified, promptly push an explicitly UNQUALIFIED source-branch/raw-log/hash checkpoint BEFORE long gates. The owner explicitly requested periodic GitHub checkpoints and visible incremental progress. Do not wait for every check to save valid work.
 
 All four actual source-check parts and normal preflight remain required before opening the release PR under repository policy. Both published runtime viewports, actual controlled picture comparisons, and the current-head eight-part gate plus named aggregate remain required before ordinary dev merge. This changes checkpoint order only: no gate/assertion is waived, no model freshness is fabricated, and no partial fort match becomes complete. Preserve the current cupola and all243 outbuilding assets. Original T3041 remains partial. Actual native execution authorization remains the granted exact ROOTGO068f/run417823 described above.
+
+**Released 2026-11-04** (claim of run 11/4/2026, 12:08:04 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41782312201): Partial increment MERGED to dev as a92e7c3d0 (PR https://github.com/kevinrhaas/chicago/pull/1698): the first fort's powder magazine now carries the barrel vault the owner adopted from Whistler's 1808 arched front and Currey's 1912 bird's-eye on 2026-11-03 (T-3335), built by an opt-in barrel_vault branch of the fort_structure archetype. All 25 affected fort_structure masters were genuinely rebuilt before the first source commit on pinned sha256-verified Blender 4.5.3 under Ubuntu 26.04; exactly one moved a byte, 24 came back byte-identical (the second fort's magazine and the cupola blockhouse among them), and all 243 outbuilding masters, their derivatives, registries and the T-3041 NE pyramid are untouched. THE SHAPE ALONE IS ADOPTED: the rise 1.0286254881847008 m is envelope conservation holding the old gable crown at 3.628625488184701 m, making a shallow segment where Whistler draws near a semicircle, and that gap is stated, not closed. That is the second of thirteen differences on data/reference_views/first_fort_dearborn_pickets_outer/currey_1912_birdseye.match.json marked fixed; verdict stays differs. STILL OPEN there: the blockhouse cupolas and the western gateway, plus the whole original acceptance (21 named records, 9 context records, every listed picture). Parent T-2387 stays split and unfinished; no image-match completion, photo follow-up or split is claimed. Verification: check.sh parts 1-3 green, part 4 one pre-existing environmental red (NumPy 2 removed 2-D np.cross in tools/transport/horse_socket_interface_v1/socket_controls.py, nothing that step reads is in the diff), smoke stage 3 PASS at both 390x780 and 1280x800 with zero page errors, and the hosted 8-part dev gate green on the exact merged head. Recovery: PR 1698, docs/STATUS.md T-3041 (2026-11-04), docs/LIBERTIES.md L-first-fort-magazine-barrel-vault-3041.
