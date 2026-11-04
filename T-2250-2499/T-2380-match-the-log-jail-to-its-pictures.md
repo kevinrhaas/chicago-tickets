@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/4/2026, 1:23:05 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41790140057
+claimed_at: 2026-11-04T07:23:05.700Z
 decision: null
 decision_answer: null
 ---
