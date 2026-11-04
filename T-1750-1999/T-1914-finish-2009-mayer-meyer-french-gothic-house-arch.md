@@ -1,7 +1,7 @@
 ---
 id: T-1914
 title: Finish 2009 Mayer-Meyer French Gothic house architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-03
 pr: null
 claimed_by: run 11/3/2026, 5:22:55 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-04T00:04:59.136Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41737884762
 claimed_at: 2026-11-03T23:22:57.058Z
 decision: null
