@@ -1,7 +1,7 @@
 ---
 id: T-3364
 title: 2009 Prairie's elliptical-arched entrance with its moulded ring, pilasters and fanlight, the carved course over the door and the oriel's carved frieze, to the Chicagology photograph
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1914
 opened: 2026-11-03
 closed: null
-pr: null
+pr: 1688
 claimed_by: run 11/3/2026, 6:05:04 PM CT
 blocked_on: null
 needs_bake: false
