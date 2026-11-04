@@ -1,7 +1,7 @@
 ---
 id: T-2374
 title: Match Cobweb Castle to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Cobweb aperture native handoff 2026-11-04 11/3/2026, 6:21:49 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T00:21:50.627Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -72,3 +72,5 @@ Root reviewed owner-visible platformdraftPR219 exactaa9d7d2322d3abbc78d72526146c
 All four complete source-check parts must PASS BEFOREfirstsourcecommit, actual foregroundcommands bounded600s/properreaping/verdicts. Preserve assertions/light-tierfloor, pricecurrentheadroombeforedeal, ask actualcommittedheadPRchangelog/IDquestions and push draftdevPR promptly for a usefulcheckedincrement. Exactheadpublish+bytecontract, actualdefault1835 desktop1280x800 AND phone390x780 body/apertures/credit/record/groundednativeentry andappropriateexistingnativesmoke/zero page-console-network-servererrors are release requirements. Split customQA into boundedlegs as needed; coarseALL15budget versusactual scopedtests stays explicit. Rootmustdirectly reviewactualpixels; requiredhostedgreen/ordinaryexactheadprotecteddevmerge only.
 
 Append liberty/reconstruction/sourcewarnings/STATUS/ROADMAP without replacing concurrent suffixes; one small visitor-facing changelogentry. Save qualifiedgeometry/source4/PR/merge/delivery checkpoints to chicago-evidence. After usefulmergedpartial, releaseoriginalOPEN/PARTIAL/DIFFERS withremainingdiscrepancy/recoverypointer. No directdev/mainpush, admin/forcemerge, fabricatedsource/rights/dimensions or forcedcompletion.
+
+**Released 2026-11-03** (claim of Codex Cobweb aperture native handoff 2026-11-04 11/3/2026, 6:21:49 PM CT): Reviewed bounded reconstructed-face aperture native handoff saved; OPEN for authorized exact T2374 worker. No geometry, dispatch or full-original completion claimed by metadata handoff.
