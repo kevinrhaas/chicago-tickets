@@ -1,7 +1,7 @@
 ---
 id: T-2379
 title: Match the Lake House under construction to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Lake House bounded primary-source research 11/3/2026, 6:29:29 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T00:29:30.361Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -55,3 +55,5 @@ Searched 28 full, corpus-hash-verified primary transcriptions: 15 Chicago Democr
 A bounded archive check directly verified ONE later printed quote: Fergus, Directory of Chicago 1839 (published 1876), Hotels section, prints “Lake House, cor. Rush and North Water sts”. This verifies that line in the 1876 recollection, NOT a contemporary 1835 address or construction stage. Its North Water address conflicts with the current Andreas/Michigan-Hubbard reasoning and needs source/map/conveyance adjudication before any relocation. The held 1843-canvass/1896-edition entry about the west half of a block fronting Rush, Michigan and Kinzie remains a 2007-transcription-mediated later lead; no facsimile or metric measurement is claimed for it. Existing federal tract entries are not hotel-lot deeds.
 
 No app/source/model/phase/grade changed; no new geometry job is recommended from this evidence. Preserve the July 1835 inferred/reconstructed shell, the credited 1856 print's later completed-state date limit, and the unresolved construction-stage picture acceptance. No backdated completed version, fabricated match, new photo ticket or done override. [Exact findings, complete coverage hashes, direct page image, failed access attempts and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/7dc233d052373ee03feecd7bf8b01f11e1287408/evidence/lake-house-2026-11-04/primary-search28-issues-and-fergus-direct-line/RECOVERY.md).
+
+**Released 2026-11-03** (claim of Codex Lake House bounded primary-source research 11/3/2026, 6:29:29 PM CT): PR #1694 merged the directly checked later Lake House address and credited source as a documentary increment. The July 1835 construction-state image match remains OPEN/PARTIAL: later hotel imagery and the 1839 listing recalled in 1876 do not establish that construction stage or position. Native both-viewport and exact source/merge evidence: https://github.com/kevinrhaas/chicago-evidence/tree/main/evidence/lake-house-2026-11-04/PR1694-native-both-integrated73d4 . No completion or new follow-up ticket is claimed.
