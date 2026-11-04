@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 11/4/2026, 1:12:25 AM CT
+claimed_by: Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 11/4/2026, 3:52:35 AM CT
 blocked_on: T-1789
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T07:12:26.193Z
+claimed_at: 2026-11-04T09:52:36.599Z
 decision: null
 decision_answer: null
 ---
