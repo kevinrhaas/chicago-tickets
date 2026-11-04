@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/4/2026, 12:42:41 AM CT
+claimed_by: Chicago Sauganash saved00163 local recovery 11/4/2026, 2:32:44 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41786706945
-claimed_at: 2026-11-04T06:42:42.539Z
+claimed_run: null
+claimed_at: 2026-11-04T08:32:45.277Z
 decision: null
 decision_answer: null
 ---
