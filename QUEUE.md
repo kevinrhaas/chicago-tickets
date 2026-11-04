@@ -25,6 +25,7 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
+T-3368 — The T-3088 socket control gate step dies on NumPy 2.5's removed 2-D np.cross, so check.sh part 2 is red on every steward runner
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
