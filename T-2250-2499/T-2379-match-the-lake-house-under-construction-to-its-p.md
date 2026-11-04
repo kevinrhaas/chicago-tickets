@@ -1,7 +1,7 @@
 ---
 id: T-2379
 title: Match the Lake House under construction to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Lake House editorial proposal correction 11/4/2026, 3:21:43 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T09:21:44.632Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -57,3 +57,5 @@ A bounded archive check directly verified ONE later printed quote: Fergus, Direc
 No app/source/model/phase/grade changed; no new geometry job is recommended from this evidence. Preserve the July 1835 inferred/reconstructed shell, the credited 1856 print's later completed-state date limit, and the unresolved construction-stage picture acceptance. No backdated completed version, fabricated match, new photo ticket or done override. [Exact findings, complete coverage hashes, direct page image, failed access attempts and recovery](https://github.com/kevinrhaas/chicago-evidence/blob/7dc233d052373ee03feecd7bf8b01f11e1287408/evidence/lake-house-2026-11-04/primary-search28-issues-and-fergus-direct-line/RECOVERY.md).
 
 **Released 2026-11-03** (claim of Codex Lake House bounded primary-source research 11/3/2026, 6:29:29 PM CT): PR #1694 merged the directly checked later Lake House address and credited source as a documentary increment. The July 1835 construction-state image match remains OPEN/PARTIAL: later hotel imagery and the 1839 listing recalled in 1876 do not establish that construction stage or position. Native both-viewport and exact source/merge evidence: https://github.com/kevinrhaas/chicago-evidence/tree/main/evidence/lake-house-2026-11-04/PR1694-native-both-integrated73d4 . No completion or new follow-up ticket is claimed.
+
+**Released 2026-11-04** (claim of Codex Lake House editorial proposal correction 11/4/2026, 3:21:43 AM CT): Merged notes-only partial PR1703 (790535c3314f631152604b904ac6b5daf7f5f3f0); actual current7fe eight-part gate41810382776 plus aggregate PASS. Record/c001 now distinguish editorial desired relative hotel size from measured scale, hotel ranking, July construction stage or vacant-site proof. Exact quotation/normalized/locator/reading, prior1694 Fergus address, geometry/recipes/native outputs preserved; no native or browser execution claimed. Source evidence checkpoint https://github.com/kevinrhaas/chicago-evidence/blob/998a2f995a49e0b1e014083509c296224754078c/evidence/lake-house-2026-11-04/pr1703-current-e897-sauganash-preserved/RECOVERY.md . Original image match remains OPEN/PARTIAL; later completed-hotel picture does not establish July1835 progress.
