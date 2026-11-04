@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/4/2026, 1:23:05 AM CT
+claimed_by: Chicago Jail saved34a local recovery 11/4/2026, 2:54:41 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41790140057
-claimed_at: 2026-11-04T07:23:05.700Z
+claimed_run: https://github.com/kevinrhaas/chicago-evidence/blob/49239fcd6898b180969e38651a677414274e7941/evidence/log-jail-2026-11-04/keeper-east-gable-native272-saved34a-quota-and-final-gaps/RECOVERY.md
+claimed_at: 2026-11-04T08:54:41.269Z
 decision: null
 decision_answer: null
 ---
