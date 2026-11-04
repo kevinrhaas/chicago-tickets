@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 6:01:18 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41742893188
-claimed_at: 2026-11-04T00:01:18.671Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -96,3 +96,5 @@ Append bounded research/liberty/STATUS/ROADMAP explanations without replacing fo
 Known native branch guard, checked before this metadata handoff: steward/t2376-closed-shoulder-coupled-yard-20261103 is still EXACT74992e8, the finished/mergedPR1677 head, not another active run. Three other listed verification/picture branches are127–213hours old and have no open PR. Recheck fresh ticket claim, every matching openPR and branch tip before the worker acts. If the guard names only these finished/stale branches while T2376 is OPEN/free and no live PR/owner exists, native ticket.mjs claim T-2376 --force is authorized ONLY to pass that branch guard. It is NOT Git force, branch deletion, a live claim takeover or permission to override a new matching PR. Preserve any refusal and actual audit; stop if new live ownership appears.
 
 **Released 2026-11-03** (claim of Codex Green Tree dormer native handoff 2026-11-03 11/3/2026, 5:54:30 PM CT): Reviewed bounded data-only dormer trial native handoff saved; OPEN for authorized exact T2376 worker. No geometry, dispatch or full-original completion claimed by metadata handoff.
+
+**Released 2026-11-03** (claim of run 11/3/2026, 6:01:18 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41742893188): Partial progress in PR https://github.com/kevinrhaas/chicago/pull/1684 (open, handed on with resume; dev gate still in_progress after two 540 s laps, nothing red). One bounded data-only increment: phases.frame_1833.form.enclosed_left_annex.value.shoulder.front_gable_peak_m 4.50 -> 4.85 m, so the small front-gable light over the enclosed shoulder reads as the sharply pointed cap Andreas draws instead of the blunt one (about 25.6 -> about 46.1 degrees against the builder's unchanged 4.20 m head and 0.625 m half-span). 4.85 m is a RECONSTRUCTED control for the drawn shape, not a measurement, and dates nothing. Built on pinned Blender 4.5.3: inputs 80d47de6a302 -> bb16568756e3, MASTER 0b53a6fe -> f213818f, WEB 0154cfad -> 65863b3c, one master stale and one rebuilt, every foreign registry row untouched. Exported-mesh comparison confines the change to that dormer roof and its gable-course infill (3318 -> 3330 tris, two ridge vertices up 0.35 m, 24 cladding vertices in the 4.307-4.581 m band, every other primitive byte-identical, full bbox exactly equal). Controlled before/after at the unchanged camera 9439f5f7 and picture bfaa184f; previous side-by-side preserved in docs/RESEARCH/green-tree-annex-T-2376. ORIGINAL REMAINS OPEN/PARTIAL/DIFFERS: data/reference_views/green_tree_tavern/andreas_1838.match.json keeps an OPEN row for the shoulder's own roof slope and the left group's relative proportions; Trowbridge/Gale 1902's open wagon bay stays explicit counterevidence with no known conversion date; upper/attic count and camera residuals stay within tolerance under T-3153; CHM c1859 stays unverified/link-only with no geometry. Andreas 1884, Trowbridge/Gale 1902, CHM c1859, Kurz & Allison 1893 and both named reproductions are still not fully covered. No signoff, no done --pr, no photo follow-up. Recovery: https://github.com/kevinrhaas/chicago/pull/1684
