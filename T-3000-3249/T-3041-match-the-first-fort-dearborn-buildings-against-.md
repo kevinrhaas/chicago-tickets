@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: codex fort-parade-presence continuation 11/3/2026, 9:30:52 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T03:30:53.607Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -79,3 +79,5 @@ Ship a checked partial roof improvement and release T-3041 OPEN with remaining d
 **Released 2026-11-03** (claim of Codex first-fort NE native handoff 2026-11-03 11/3/2026, 5:21:15 PM CT): Reviewed bounded NE-pyramid native handoff published; OPEN for authorized exact T3041 worker. No geometry applied, worker dispatch or full original completion claimed by this metadata handoff.
 
 **Released 2026-11-03** (claim of run 11/3/2026, 5:38:59 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41739288717): Partial increment shipped as PR #1685 (open, labelled resume, green checks on its head, conflicted with a dev that moved under it): the north-east small house's pyramid roof, adopted from the Currey 1912 bird's-eye on the owner's 2026-11-03 ruling, with an opt-in pyramid branch in the outbuilding archetype and all 243 affected outbuilding masters regenerated on pinned Blender 4.5.3. That is ONE of the thirteen differences on data/reference_views/first_fort_dearborn_pickets_outer/currey_1912_birdseye.match.json, now marked fixed. STILL OPEN there: the blockhouse cupolas, the magazine's barrel vault and the western gateway, plus the whole original acceptance (21 named records, 9 context records, every listed picture). Verdict stays differs; parent T-2387 stays split and unfinished. Recovery: PR https://github.com/kevinrhaas/chicago/pull/1685, docs/STATUS.md T-3041, docs/LIBERTIES.md L-first-fort-ne-house-pyramid-3041.
+
+**Released 2026-11-03** (claim of codex fort-parade-presence continuation 11/3/2026, 9:30:52 PM CT): PR1696 merged normally to dev as818be0cb: bounded parade-presence accounting repair, actual1812positiveground/cards both and1835nativeStage3both107/0; original first-fort all-buildings/picture acceptance remains PARTIAL and OPEN, roof body deferred. No new photo ticket or image completion. Source/current8gate/merge proof and runtime recovery: https://github.com/kevinrhaas/chicago/pull/1696 ; https://github.com/kevinrhaas/chicago-evidence/blob/d2d1a4203849bc597338d6a08a1cbd7da0727a6d/evidence/first-fort-2026-11-04/pr1696-runtime-closed-pass/RECOVERY.md . Later Cobweb scene carry is explicit in PR, not a new1835browser execution.
