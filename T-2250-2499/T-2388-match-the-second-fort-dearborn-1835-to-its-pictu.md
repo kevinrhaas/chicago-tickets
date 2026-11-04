@@ -1,7 +1,7 @@
 ---
 id: T-2388
 title: Match the second Fort Dearborn (1835) to its pictures, every building in it
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 5:40:26 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41740271907
-claimed_at: 2026-11-03T23:40:27.494Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -94,3 +94,5 @@ After all genuine affected geometry, all four source-check parts must PASS BEFOR
 Append LIBERTIES/STATUS/ROADMAP without replacing concurrent suffixes; one small visitor-facing changelog entry. Checkpoint qualified geometry/source4/PR/merge/delivery in chicago-evidence. Ship a checked partial cupola increment and release T-2388 OPEN with the remaining discrepancy/recovery pointer. No direct dev/main push, admin/force merge, local-host Blender, fabricated source/license/metric, new photo followup or done--anyway.
 
 **Released 2026-11-03** (claim of Codex second-fort cupola native handoff 2026-11-03 11/3/2026, 5:34:11 PM CT): Reviewed bounded pictured-cupola native handoff saved; OPEN for authorized exact T2388 worker. No geometry, worker dispatch or full-original completion claimed by metadata handoff.
+
+**Released 2026-11-03** (claim of run 11/3/2026, 5:40:26 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41740271907): Shipped the bounded pictured-cupola increment on PR #1687 (branch steward/t2388-blockhouse-cupola-native-20261103, commit cdac604e): the small square cupola panel 5 of kurz_allison_1893 draws at the centre of fort_dearborn_blockhouse's four-sided cap is built, seated into all four roof planes, and the invented unattested centre chimney that stood in its place is recorded at a count of 0 as an explicit depiction choice (not a claim of no heating, no flue or no later projection). Occurrence inferred; every dimension reconstructed and admitted in docs/LIBERTIES.md L-second-fort-blockhouse-cupola-2388. All 25 fort_structure MASTERs genuinely rebuilt on pinned Ubuntu 26.04 / Blender 4.5.3; one master's bytes moved. Picture enrolled on the card by an explicit pictured ruling, grade derives attested. check.sh parts 1-4 PASS; desktop 1280x800 and phone 390x780 smoke PASS with zero page errors. THE ORIGINAL ACCEPTANCE IS NOT MET AND THIS TICKET STAYS OPEN: the compound view's verdict is differs (docs/RESEARCH/second-fort-cupola-T-2388/second-fort-panel-5-compound.match.json), the camera is an unfitted 100 m diagnostic, and the galleried range's identity, the facade openings, the other roof forms and chimney counts, the compound's composition and every other dated picture listed here remain unread. Recovery: https://github.com/kevinrhaas/chicago-evidence/blob/fff86d87b8bb17be2b6aaf782fa0416b8d56d739/evidence/second-fort-2026-11-03/native-blockhouse-cupola-shipped-t2388/RECOVERY.md
