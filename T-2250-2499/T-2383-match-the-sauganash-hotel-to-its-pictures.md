@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Sauganash cornice handoff 2026-11-04 11/3/2026, 7:30:25 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T01:30:27.834Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -97,3 +97,5 @@ SAVE EARLY: publish a public UNQUALIFIED raw-working-source checkpoint every15-2
 FINISH ONE INCREMENT: commands bounded600s foreground, proper exact-source/output guards and closed native receipts. Resolve known bounded local reds and rerun affected checks while budget remains. All four sourceparts1/4..4/4 must genuinely pass before each application source commit, plus actual PR-only preflight questions. Publish from the committed final currentdev-integrated head; run actual desktop1280x800 and phone390x780 UI/card Images/Reader/body/entry checks with no pageerrors, and the required measured native published smoke subset at BOTH viewports. Keep actual subset evidence distinct from conservative ALL15 requests. Measure light-tier headroom; do not weaken assertions. The final exact head needs the ACTUAL whole hosted source `gate`, not only `report`/`warranted` or skipped CI. Request the supported full-gate path if necessary and wait for green. Only after actual current-source, both UI, native checks, root pixel review and required hosted green: ordinary feature PR into dev and ordinary protected merge. No direct dev/main pushes or auto-merge before those proofs. Concise visitor-visible changelog, honest STATUS/dossier and partial release of T-2383 after merged progress; do not mark it done. If150minutes/400calls cannot finish safely, preserve a resumable PR/public raw-source checkpoint and exact remaining work instead of inventing completion.
 
 [Immutable root-approved handoff and source/ownership review packet](https://github.com/kevinrhaas/chicago-evidence/blob/b2fdf42d877436189ae4e9df818b2799c7faa1ee/evidence/sauganash-2026-11-04/cornice-native-dispatch-review-dev96d061/RECOVERY.md).
+
+**Released 2026-11-03** (claim of Codex Sauganash cornice handoff 2026-11-04 11/3/2026, 7:30:25 PM CT): Prepared root-reviewed boxed-gable-cornice exact native handoff and source audit; original image work remains open/partial. No application edit or geometry completion. Next authorized worker must claim normally; preserve genuine all23+variants builds, combined Green Tree and four canonical/root pixel gates.
