@@ -1,7 +1,7 @@
 ---
 id: T-3366
 title: 1936 Prairie's verandah takes the iron rail across its three openings, off the photograph
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3357
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/3/2026, 6:06:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41737906091
+claimed_at: 2026-11-04T00:06:22.081Z
 decision: null
 decision_answer: null
 ---
