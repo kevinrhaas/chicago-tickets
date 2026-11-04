@@ -21,6 +21,16 @@ decision: null
 decision_answer: null
 ---
 
+## Incremental DEV delivery — PR #1649 merged, 2026-11-04 UTC
+
+PR [#1649](https://github.com/kevinrhaas/chicago/pull/1649) merged normally into DEV at2026-11-04T01:29:50Z as `9881d782370d612c3ca521df383d67b1bb48487f`. Its merged TREE equals the checked a620 TREE. All30 current CI checks completed:23success/7expectedskips, zero failures; the complete native gate covers1155distinct steps and401self-tests across8parts, plus all9frame/memory jobs, native release32 and moving-frame gates. [Immutable merge/CI/failure evidence](https://github.com/kevinrhaas/chicago-evidence/blob/a0881166e495048956c642924f30cbc04a44dded/evidence/transport-pr1649-merged-dev-9881-final-ci-and-original-world-negatives-2026-11-04/MANIFEST.json).
+
+The parcel lands the preserved standing-person idle work and the occupied-driver integration. Independent seated head/neck looking is prepared as the next separate increment, not adopted or qualified on DEV yet. The full portable idle/walk/talk/gesture/work library and natural seated animation acceptance remain open.
+
+Supplemental world checks remain incomplete: current1904phone correct person card passes25.882s/30, but first Find touchStart acknowledgement takes32.886s/30; late cleanup Find movement is postdeadline only. The1835desktop route/independent circuit pass, while keyboard approach times out before Interact. Neither case proves full interaction acceptance. The direct1904desktop Stop/Continue case is still active at this update. Original failures and limits are preserved.
+
+This ticket stays `claimed` with `pr:null`, so this partial merge does not settle it as fully done.
+
 ## Active motion and delivery update — 2026-10-29 03:38 PM CT
 
 All eight Otis master/web derivatives passed actual finite native129 qualification under one final protocol: planted footwear0, closed-master-reference garment envelope checks, identical rig poses, actual failure injections and clean owned-process closures. Original summary6887f4a45a769d6a70e73f12170c358c9c61a740cc49df11668009d89a9e5488 is preserved. A separately proven metadata-only bridge repairs native clip-extras parity; all BIN bytes and every other decoded JSON value are exact,24 corruption controls reject changes, independent reverse reconstruction recovers all original tested SHA identities. Native human contract16assets/1instance now passes. New idle is selected in source; frame-clock correction preserves elapsed motion time. Actual browser costs, unheld desktop/phone WORLD motion review, full preflight and GitHub/DEV delivery remain pending. Current branch is integrating latest DEV9400; no merge claimed.

@@ -21,6 +21,16 @@ decision: null
 decision_answer: null
 ---
 
+## Incremental DEV delivery — PR #1649 merged, 2026-11-04 UTC
+
+PR [#1649](https://github.com/kevinrhaas/chicago/pull/1649) merged normally into DEV at2026-11-04T01:29:50Z as `9881d782370d612c3ca521df383d67b1bb48487f`. Its merged TREE equals the checked a620 TREE. All30 current CI checks completed:23success/7expectedskips, zero failures; the complete native gate covers1155distinct steps and401self-tests across8parts, plus all9frame/memory jobs, native release32 and moving-frame gates. [Immutable merge/CI/failure evidence](https://github.com/kevinrhaas/chicago-evidence/blob/a0881166e495048956c642924f30cbc04a44dded/evidence/transport-pr1649-merged-dev-9881-final-ci-and-original-world-negatives-2026-11-04/MANIFEST.json).
+
+The parcel delivers the current26 horse appearance/eye/head-neck work and its preserved native asset/posed checks. This does not close photographic anatomy, silhouette, natural gait or riding acceptance. The mane proposal remains an unadopted negative, and no old gait prototype or texture is promoted.
+
+Supplemental world checks remain incomplete: current1904phone correct person card passes25.882s/30, but first Find touchStart acknowledgement takes32.886s/30; late cleanup Find movement is postdeadline only. The1835desktop route/independent circuit pass, while keyboard approach times out before Interact. Neither case proves full interaction acceptance. The direct1904desktop Stop/Continue case is still active at this update. Original failures and limits are preserved.
+
+This ticket stays `claimed` with `pr:null`, so this partial merge does not settle it as fully done.
+
 ## Canonical quiet-head/neck finite proof saved — 29 October 2026, 7:48 PM CT
 
 The final original 129-phase posed socket check has passed in 153.530 seconds, preserving all 110 frozen Phase A source records and qualifying-code pins. BODY maximum 13.770834107242mm, contact maximum 6.247168224021mm, zero new crossings; original 14mm/7mm limits unchanged. Actual native runtime/master vertex, shader-normal and bone parity remains exactly zero at all sampled phases; tail remains the old quiet motion while head/neck retains the measured full-amplitude motion. The finite record passed in 1.068 seconds with SHA256 `badca71fb2ab7596be9447adaf01b3d035d5a59c7b844bc27b500d0a004d78a6`.

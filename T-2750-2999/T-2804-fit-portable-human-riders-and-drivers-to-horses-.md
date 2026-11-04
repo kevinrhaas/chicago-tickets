@@ -21,6 +21,16 @@ decision: null
 decision_answer: null
 ---
 
+## Incremental DEV delivery — PR #1649 merged, 2026-11-04 UTC
+
+PR [#1649](https://github.com/kevinrhaas/chicago/pull/1649) merged normally into DEV at2026-11-04T01:29:50Z as `9881d782370d612c3ca521df383d67b1bb48487f`. Its merged TREE equals the checked a620 TREE. All30 current CI checks completed:23success/7expectedskips, zero failures; the complete native gate covers1155distinct steps and401self-tests across8parts, plus all9frame/memory jobs, native release32 and moving-frame gates. [Immutable merge/CI/failure evidence](https://github.com/kevinrhaas/chicago-evidence/blob/a0881166e495048956c642924f30cbc04a44dded/evidence/transport-pr1649-merged-dev-9881-final-ci-and-original-world-negatives-2026-11-04/MANIFEST.json).
+
+Otis drives the reconstructed 1835 wagon circle and Hans drives the 1904 Brougham circuit in Full/Balanced. The feature adds shared Interact Stop/Continue/Step back and current-driver person lookup. Moving horses use the genuine current26 careful-walk clip (.135m per1.6s; routes .084375m/s), separate from standing quiet motion. Natural pace/stride, rider/boarding/contact and photographic acceptance remain open; no faster gait is claimed.
+
+Supplemental world checks remain incomplete: current1904phone correct person card passes25.882s/30, but first Find touchStart acknowledgement takes32.886s/30; late cleanup Find movement is postdeadline only. The1835desktop route/independent circuit pass, while keyboard approach times out before Interact. Neither case proves full interaction acceptance. The direct1904desktop Stop/Continue case is still active at this update. Original failures and limits are preserved.
+
+This ticket stays `claimed` with `pr:null`, so this partial merge does not settle it as fully done.
+
 ## Depends on
 
 T-2672, T-1789, T-1790, T-1792, T-2801, T-2802, T-2803. Read each dependency before claiming; do not silently skip its proof.
