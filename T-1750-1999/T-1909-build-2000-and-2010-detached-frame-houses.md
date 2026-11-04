@@ -1,7 +1,7 @@
 ---
 id: T-1909
 title: Refine 2000 and 2010 detached frame houses
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1686
 claimed_by: run 11/3/2026, 5:27:05 PM CT
 blocked_on: null
 needs_bake: true
