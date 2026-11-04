@@ -1,7 +1,7 @@
 ---
 id: T-2374
 title: Match Cobweb Castle to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 6:31:05 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41746386858
-claimed_at: 2026-11-04T00:31:05.635Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -74,3 +74,5 @@ All four complete source-check parts must PASS BEFOREfirstsourcecommit, actual f
 Append liberty/reconstruction/sourcewarnings/STATUS/ROADMAP without replacing concurrent suffixes; one small visitor-facing changelogentry. Save qualifiedgeometry/source4/PR/merge/delivery checkpoints to chicago-evidence. After usefulmergedpartial, releaseoriginalOPEN/PARTIAL/DIFFERS withremainingdiscrepancy/recoverypointer. No directdev/mainpush, admin/forcemerge, fabricatedsource/rights/dimensions or forcedcompletion.
 
 **Released 2026-11-03** (claim of Codex Cobweb aperture native handoff 2026-11-04 11/3/2026, 6:21:49 PM CT): Reviewed bounded reconstructed-face aperture native handoff saved; OPEN for authorized exact T2374 worker. No geometry, dispatch or full-original completion claimed by metadata handoff.
+
+**Released 2026-11-03** (claim of run 11/3/2026, 6:31:05 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41746386858): PARTIAL, OPEN, STILL DIFFERS. PR https://github.com/kevinrhaas/chicago/pull/1690 (branch steward/t2374-cobweb-front-apertures) carries one bounded visible increment: the centre gable's TWO grounded upright apertures and ONE small upper light, the count the 1831 Wau-Bun panorama draws, through a new opt-in compound_apertures set that overrides the room's old single centre door. Count and arrangement read from the picture; every coordinate, the recess section and the entry role are reconstructed (L-cobweb-apertures-2374). Native: pinned sha256-verified Blender 4.5.3 on Ubuntu 26.04, all 82 log_dwelling masters rebuilt, 81 byte-identical; MASTER af1f33c0->4f42207b, WEB 49cfcb86->1699d7aa. Gate green in the foreground: check.sh parts 1/4-4/4 (1150 steps, none red), smoke mobile 3-4 and desktop 3 both PASS, both-viewport app review with zero page/console/network/server errors. PR is labelled resume only because the hosted gate part 7/8 was still QUEUED after two full 540s pr-automerge laps; nothing is red. NOT A MATCH: the panorama's camera is UNSOLVED and unenrolled, and the compound width, wings, sub-roof silhouettes, roof junctions, text-attested partial clapboarding and finish/tone all still differ. Image gate stays open. No photo follow-up filed.
