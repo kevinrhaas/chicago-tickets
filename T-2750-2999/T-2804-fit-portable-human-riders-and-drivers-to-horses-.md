@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Verified incremental progress — 2026-11-04 09:58 UTC
+
+PR [#1649](https://github.com/kevinrhaas/chicago/pull/1649) merged as `9881d782370d612c3ca521df383d67b1bb48487f`. PR [#1693](https://github.com/kevinrhaas/chicago/pull/1693) merged as `7e1445624ac1c642c8337269023c90dac9bf3e56`; its Full/Balanced seated head/neck glance was subsequently verified in 20 exact public DEV responses. Production was not promoted. This dated update supersedes the older pending/partial delivery notes below.
+
+PR [#1700](https://github.com/kevinrhaas/chicago/pull/1700), head `79e302ee4b8648b2b89e81ef504049010de4cb7e`, is pushed and open with the four lower-detail driver clothing assets. All four local native gate parts passed with the recorded final metadata bridge; CI native8, humans and moving/release passed. Frame measurements passed 8/9: 1904 mobile memory was 403.635 MiB against the unchanged 400 MiB ceiling. An exact unchanged DEV-parent control also exceeded 400 MiB (403.195 MiB), with byte-identical GPU geometry/texture totals; a lossless repeated-scalar buffer optimization is being validated separately. The two full smoke runs were still active at the checkpoint; no all-green claim or merge is made. Current-horse native rest geometry is measured on the actual 26-joint horse. Saddle/rider fitting is a prepared proposal, not accepted geometry; Joseph still needs a proper named portable export.
+
+[Immutable evidence checkpoint](https://github.com/kevinrhaas/chicago-evidence/blob/2f6393a27913ad33c68fc87d87728036c83975df/evidence/transport-pr1697-pr1700-validation-repairs-and-current-horse-2026-11-04/MANIFEST.json). Broad animation, clothing/photographic, natural gait and boarding/riding acceptance remain open. This progress note preserves the ticket's existing claimed state, claim owner/time, `pr:null`, acceptance and queue position.
+
 ## Incremental DEV delivery — PR #1693 merged, 2026-11-04 UTC
 
 PR [#1693](https://github.com/kevinrhaas/chicago/pull/1693) merged normally at 06:25:52 UTC as `7e1445624ac1c642c8337269023c90dac9bf3e56`, TREE `49418a270db689dfaf25a2d9426f31f165461aa2`. Its 30 selected checks closed with 23 successes and 7 expected skips on qualified synthetic `db938eee7b58fb17dbecabd55dacc1815d9b1b87`, TREE `f80f1f497c337205a3b39304b14682e019b589b3`; these measurements are not relabelled as a fresh run of the later merged tree. This increment adds independent seated head/neck looking in Full/Balanced only. Public DEV verification remains pending.

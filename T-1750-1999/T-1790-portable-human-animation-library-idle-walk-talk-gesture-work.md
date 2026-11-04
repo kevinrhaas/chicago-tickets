@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Verified incremental progress — 2026-11-04 09:58 UTC
+
+PR [#1649](https://github.com/kevinrhaas/chicago/pull/1649) merged as `9881d782370d612c3ca521df383d67b1bb48487f`. PR [#1693](https://github.com/kevinrhaas/chicago/pull/1693) merged as `7e1445624ac1c642c8337269023c90dac9bf3e56`; its Full/Balanced seated head/neck glance was subsequently verified in 20 exact public DEV responses. Production was not promoted. This dated update supersedes the older pending/partial delivery notes below.
+
+PR [#1697](https://github.com/kevinrhaas/chicago/pull/1697), head `b83f60edd8486afb3813b6d1ba5a8276425ac22b`, is pushed and open. Its configured-pace and cold named-Find increment passed its 12 triggered CI contexts. Full mobile smoke finished 727 PASS / 12 FAIL; full desktop hit the original 150-minute timeout without a complete verdict. Neither full smoke passed. A separate five-file Navigator/Light repair now passes actual-module phone and desktop browser controls, and a source-aware wagon-yard repair passes published mobile stage 2 (116/0) and batch/material stage 8 (22/0); these repair projections are not yet committed to the public PR. Light cost and shadow checks remain under repair.
+
+[Immutable evidence checkpoint](https://github.com/kevinrhaas/chicago-evidence/blob/2f6393a27913ad33c68fc87d87728036c83975df/evidence/transport-pr1697-pr1700-validation-repairs-and-current-horse-2026-11-04/MANIFEST.json). Broad animation, clothing/photographic, natural gait and boarding/riding acceptance remain open. This progress note preserves the ticket's existing claimed state, claim owner/time, `pr:null`, acceptance and queue position.
+
 ## Incremental DEV delivery — PR #1693 merged, 2026-11-04 UTC
 
 PR [#1693](https://github.com/kevinrhaas/chicago/pull/1693) merged normally at 06:25:52 UTC as `7e1445624ac1c642c8337269023c90dac9bf3e56`, TREE `49418a270db689dfaf25a2d9426f31f165461aa2`. Its 30 selected checks closed with 23 successes and 7 expected skips on qualified synthetic `db938eee7b58fb17dbecabd55dacc1815d9b1b87`, TREE `f80f1f497c337205a3b39304b14682e019b589b3`; these measurements are not relabelled as a fresh run of the later merged tree. This increment adds independent seated head/neck looking in Full/Balanced only. Public DEV verification remains pending.
