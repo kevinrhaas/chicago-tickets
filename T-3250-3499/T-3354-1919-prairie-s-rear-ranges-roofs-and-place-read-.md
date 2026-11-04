@@ -1,7 +1,7 @@
 ---
 id: T-3354
 title: 1919 Prairie's rear ranges' roofs and place read again against all three Gatlin plates: the pinnacled dormers between the gables on the slope the plates show facing the street, the third smaller gable at the flank's far end, the quoined block at the middle range's corner, the canted bay's own corners, and the 1912 Blue Book plate's camera solved
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3338
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 6:43:08 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41748032371
-claimed_at: 2026-11-04T00:43:09.235Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -39,3 +39,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-3338 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-03** (claim of run 11/3/2026, 6:43:08 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41748032371): PR #1691 (resume: gate still running) ships the third gable (the garage's coped north gable, which lands on all three Gatlin plates), the 1912 Blue Book plate's camera, and a three-plate reading of the ranges; the canted bay's own corners are ruled not shown. Still open in all three match records, over the bar: the pinnacled dormers (K01 has no dormers on a rear wing's gable roof), the quoined block at the middle range's NW corner, and the two ranges' gables, which all three cameras put 1-2 m nearer the street and (the middle one) 2-3 m higher than the 1911 trace allows. The image gate refuses done; split is refused by the photo-stop rule.
