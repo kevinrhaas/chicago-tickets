@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 8:01:31 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41754767476
-claimed_at: 2026-11-04T02:01:31.986Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -99,3 +99,5 @@ FINISH ONE INCREMENT: commands bounded600s foreground, proper exact-source/outpu
 [Immutable root-approved handoff and source/ownership review packet](https://github.com/kevinrhaas/chicago-evidence/blob/b2fdf42d877436189ae4e9df818b2799c7faa1ee/evidence/sauganash-2026-11-04/cornice-native-dispatch-review-dev96d061/RECOVERY.md).
 
 **Released 2026-11-03** (claim of Codex Sauganash cornice handoff 2026-11-04 11/3/2026, 7:30:25 PM CT): Prepared root-reviewed boxed-gable-cornice exact native handoff and source audit; original image work remains open/partial. No application edit or geometry completion. Next authorized worker must claim normally; preserve genuine all23+variants builds, combined Green Tree and four canonical/root pixel gates.
+
+**Released 2026-11-03** (claim of run 11/3/2026, 8:01:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41754767476): Owner-targeted boxed main-gable cornice increment shipped on PR #1692 (open, labelled resume, hosted gate still queueing parts after three laps). Andreas's pictured boxed rake cornice and both short horizontal returns are now built on the hotel's +x gable through a new default-off frame_tavern main_gable_cornice control; all 23 frame_tavern masters and the two Tremont version meshes were genuinely rebuilt on pinned Blender 4.5.3 and only the hotel's own master moved a byte. All four canonical views were re-rendered from their controlled cameras and directly reviewed: the hotel's own Andreas comparison stays DIFFERS with the cornice recorded fixed, and the three Carpenter Shop comparisons retain MATCHES with the shop anchor byte-identical. Sections are RECONSTRUCTED under L-sauganash-main-gable-cornice-2383. The original full hotel/compound picture coverage and signoff remain OPEN; T-2383 is not done and no photo follow-up was filed.
