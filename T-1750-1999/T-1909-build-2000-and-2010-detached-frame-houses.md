@@ -1,7 +1,7 @@
 ---
 id: T-1909
 title: Refine 2000 and 2010 detached frame houses
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-04
 pr: 1695
 claimed_by: run 11/3/2026, 5:27:05 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-04T06:44:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41737895648
 claimed_at: 2026-11-03T23:27:06.314Z
 decision: null
