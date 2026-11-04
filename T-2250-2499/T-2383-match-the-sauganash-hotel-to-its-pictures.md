@@ -101,3 +101,36 @@ FINISH ONE INCREMENT: commands bounded600s foreground, proper exact-source/outpu
 **Released 2026-11-03** (claim of Codex Sauganash cornice handoff 2026-11-04 11/3/2026, 7:30:25 PM CT): Prepared root-reviewed boxed-gable-cornice exact native handoff and source audit; original image work remains open/partial. No application edit or geometry completion. Next authorized worker must claim normally; preserve genuine all23+variants builds, combined Green Tree and four canonical/root pixel gates.
 
 **Released 2026-11-03** (claim of run 11/3/2026, 8:01:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41754767476): Owner-targeted boxed main-gable cornice increment shipped on PR #1692 (open, labelled resume, hosted gate still queueing parts after three laps). Andreas's pictured boxed rake cornice and both short horizontal returns are now built on the hotel's +x gable through a new default-off frame_tavern main_gable_cornice control; all 23 frame_tavern masters and the two Tremont version meshes were genuinely rebuilt on pinned Blender 4.5.3 and only the hotel's own master moved a byte. All four canonical views were re-rendered from their controlled cameras and directly reviewed: the hotel's own Andreas comparison stays DIFFERS with the cornice recorded fixed, and the three Carpenter Shop comparisons retain MATCHES with the shop anchor byte-identical. Sections are RECONSTRUCTED under L-sauganash-main-gable-cornice-2383. The original full hotel/compound picture coverage and signoff remain OPEN; T-2383 is not done and no photo follow-up was filed.
+
+## Merged — 2026-11-04
+
+[PR #1692](https://github.com/kevinrhaas/chicago/pull/1692) merged into `dev` as
+`f84970dc831b23c7e1a0eb2776563928222c0af4`. The hosted whole-source `gate` check passed
+on the exact merged head `16f28e39` (all eight parts) before the merge, and both viewport
+smoke legs were taken on that same head in the foreground: mobile 390x780 stage 3-4,
+139 passed / 0 failed / zero page errors, and desktop 1280x800 stage 3, 107 passed /
+0 failed / zero page errors.
+
+Shipped: Andreas's pictured boxed rake cornice and both short horizontal returns on the
+hotel's visible main +x gable, through a new **default-off** `main_gable_cornice` control
+on `frame_tavern`. All 23 `frame_tavern` masters and the two Tremont version meshes were
+genuinely rebuilt on the pinned Blender 4.5.3 before the first source commit; only
+`sauganash_hotel__frame_1831.glb` moved a byte, which is what default-off means. Every
+numeric section is RECONSTRUCTED under `docs/LIBERTIES.md`
+L-sauganash-main-gable-cornice-2383: the plate gives the element, not its size, and the
+built 0.55 m return / 0.18 m section / 0.18 m projection sit at the conservative end of
+what it supports.
+
+All four canonical Hotel-dependent views were re-rendered from their controlled cameras
+and the new pairs directly reviewed beside the images they replace: the hotel's own
+Andreas comparison stays **DIFFERS** with the cornice recorded `fixed`, and the three
+Carpenter Shop comparisons (Andreas 1884, Trowbridge 1902, Kurz/Allison 1893 panel 14)
+retain **MATCHES** with the shop anchor byte-identical, each carrying a fresh
+`context_refresh_review`. Green Tree #1684 was still open and unmerged, so no combined
+Green Tree bake was owed.
+
+The earlier release note on this ticket was written before the merge landed and describes
+the PR as open; this note supersedes that status. **The original full hotel/compound
+picture coverage and sign-off remain OPEN** — the compound roof silhouette and the
+remaining left-gable questions in particular. T-2383 is not done, and no photo follow-up
+ticket was filed.
