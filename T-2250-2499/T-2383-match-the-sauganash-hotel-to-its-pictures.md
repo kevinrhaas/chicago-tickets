@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Codex Sauganash current Andreas comparison 2026-11-03 11/3/2026, 3:13:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T21:13:21.231Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -71,3 +71,5 @@ The four lower front sash and entrance case/leaf correction are landed. The thre
 This original ticket remains open for its remaining work. No follow-up ticket or whole-ticket completion is filed. The published dev deployment was still pending at the first post-merge read; the merge itself is verified.
 
 **Released 2026-11-02** (claim of run 11/2/2026, 5:29:33 PM CT): Merged scoped facade and credited-picture progress in PR #1631 (18c037e9); original picture coverage and signoff remain. Final 107+107 viewport proof is linked in each ticket.
+
+**Released 2026-11-03** (claim of Codex Sauganash current Andreas comparison 2026-11-03 11/3/2026, 3:13:15 PM CT): PR1680 merged to dev at 6953d4131bf741a1d56a141a83b0bc852b8cb56b: Andreas's credited 1884 retrospective engraving is now held on the hotel's Images card (3 rows, 1 held and 2 links), and the actual current two-building comparison records DIFFERS. All four source parts, current integration owners, whole hosted1139 gate, actual desktop/phone custom review and official Stage3both107 passed; root directly reviewed12 screenshots. This is a partial visible increment with no geometry/phase/placement/paint change. The main/rear-wing roof silhouette and left-gable differences remain OPEN under the original image gate; camera uncertainty is within tolerance. Do not mark the original done or create photo followups. Exact source/recovery: https://github.com/kevinrhaas/chicago-evidence/blob/a817d15ed334e4f20d3fe3ab6d2249996a6ea730/evidence/sauganash-2026-11-03/pr1680-integrated27-source4-published-qa-active/RECOVERY.md ; final both-viewport/merge receipts are linked from https://github.com/kevinrhaas/chicago/pull/1680 .
