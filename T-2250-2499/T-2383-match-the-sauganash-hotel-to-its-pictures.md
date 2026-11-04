@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago Sauganash saved00163 local recovery 11/4/2026, 2:32:44 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T08:32:45.277Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -189,3 +189,5 @@ Then finish actual all4 `tools/check.sh --part k/4`, actual changelog/ID preflig
 ### Owner-safe execution request
 
 Feature7b427d130a2cca6ed82c183c74605b965aee1d4e/refsteward/chicago-native-exact-ticket-20261103; NEW targetT-2383, unique lane`sauganash-stacks-native-20261104`, slice1/1, max400, default model, NOresume_pr. Controller defaults read-only prepare, requires normal originalOPEN/free/no matching open PR/live job and unchanged current source/owner-safe feature CI. Root exactGO binds request/patch/handoff/controller/prepared SHA. Public actualGO is verified BEFORE reserved singlePOST; uncertain POST is never retried. After actualrun/Ubuntu26/claim readback, one observer owns monitoring. Do not duplicate the independent magazine coordinator.
+
+**Released 2026-11-04** (claim of Chicago Sauganash saved00163 local recovery 11/4/2026, 2:32:44 AM CT): Delivered bounded ridge-end stacks increment via PR #1701, normally merged to dev as ce094fbe74b44f6be134c355d88c41ea3aae7a54 after final95 whole8+namedgate SUCCESS, exact-tree merge verification and actual published Hotel/body/source-credit BOTH root-accepted. Genuine one-Hotel MASTER/WEB and actual00163 Stage3 BOTH107/0 preserved with explicit consumed-input carry; historical Python3.14/NumPy2.5 source4 RED remains recorded and exact current95 CI step PASS resolves that environment qualification. Evidence: https://github.com/kevinrhaas/chicago-evidence/tree/0f10a7be3b3b0d7579841b63eadc0ead49587d24/evidence/sauganash-2026-11-04/stacks-pr1701-target-both-qualified/ . Original remains OPEN/PARTIAL: whole Hotel DIFFERS; shaft proportions/heads, compound roof and left-gable questions remain open. No new photo ticket, camera/grade/date promotion or original completion.
