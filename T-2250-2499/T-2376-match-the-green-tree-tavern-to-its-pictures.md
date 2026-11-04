@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: run 11/3/2026, 8:24:22 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41759074130
-claimed_at: 2026-11-04T02:24:22.754Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -123,3 +123,5 @@ SAVE BEFORE LONG GATES: every15-20minutes and immediately after any actual combi
 FINISH ON THE ACTUAL FINAL HEAD: old manualfourparts passed (source3 first red then liberties recompile/retry), old officialmobileparts3-4 passed139/0 and desktoppart3 passed107/0; old finalcustommobile109s and desktop303s had real page/console/network/server error assertions all0. Those are not new currentdev/transport checks, not full15 smoke, and the old ad hoc found:false probe queried the wrong API; do not use it as presence proof. After normal currentdev integration and bounded repairs, genuinely pass all four localsourceparts before each sourcecommit plus actual PR-only preflight questions. Publish from committed exacthead and perform actualcurrent desktop1280x800/phone390x780 UI/card Images/Reader/body/dryentry checks and measured appropriate native published smoke BOTH viewports, zero pageerrors; distinguish actualsubset from conservative15partrequest. Inspect actual destination/body/cap, not the welcome/wrong place or a copied receipt. Preserve light-tier budget/assertions. The exact finalhead needs the actual named full source `gate` aggregating ALL CURRENT EIGHT required hosted sourceparts; `report`, `warranted`, skipped/empty gate or one shard green is insufficient. Request supported fullgate if it did not run and wait for its genuine aggregate green. Only then ordinary protected existingPRdevmerge and partialrelease of originalT2376, never donepartial. If150minutes/400calls cannot safely finish, leave this SAME PR resumable with exact public raw code/proofs/remaining work, no replacement.
 
 [Immutable root-reviewed exact-resume packet](https://github.com/kevinrhaas/chicago-evidence/blob/77ae63460dd21e2e7dc3fb2ad0a9155e033cc7f6/evidence/green-tree-2026-11-04/pr1684-exact-resume-review-a3a87/RECOVERY.md).
+
+**Released 2026-11-03** (claim of run 11/3/2026, 8:24:22 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41759074130): Exact resume of PR #1684 (https://github.com/kevinrhaas/chicago/pull/1684), handed back with resume, NOT finished and NOT signed off. Done on the branch and not to be redone: two ordinary integrations of current dev (a3a87ca, then 22d624f3), with docs/LIBERTIES.md keeping BOTH sides' appended entries and the generated data/liberties.json recompiled from the merged book (991 -> 992 -> 993 liberties, none dropped); the hosted gate's single red on head a5df5f8 — Source-use backlinks match authored claims (T-1248), 1 of 1140 steps — repaired by re-running tools/compile_source_use.py through its owner; and the overbroad 'every other primitive byte-identical' claim re-audited accessor by accessor and narrowed in the owning match record, the research dossier and STATUS as a dated correction (ten primitives: wall and roof_shingle changed, the other eight byte-identical in geometry, normals, vertex colours, _CONFIDENCE, indices and material, but TEXCOORD_0 repacked across all ten and unused — both masters declare zero textures, zero images, no material texture reference). Verified on head 740bc72c: check.sh parts 1/4, 3/4 and 4/4 PASS (291/291/290 steps, none red); part 2/4 291 of 292, its one red being this runner's numpy 2.5.4 on tools/test_standing_horse_upper_lid.py, byte-identical to dev, whose own hosted gate is green — said out loud, not counted as a pass; validate.py --stale 1034 assets match their inputs, 0 stale; smoke mobile 3-4 PASS 139/0 and desktop 3 PASS 107/0, filed on tree sha256:da70d3c089d1ecc4; both viewports in the published app at the Green Tree's own stand (e -49.91, n -121.52, bearing 033, near Lake Street / 409 W Lake St) with the pointed cap visible, the card's Images and Record present, Confidence Normal -> by grade -> Normal, and zero page, console, >=400-request, failed-request and server-404 errors. WHY IT STOPPED: at 03:56Z T-2383 merged as #1692 and changed generators/archetypes/frame_tavern.py and frame_tavern_params.py — the producer this building is built by — so dev rebaked all 24 family rows. dev's GT row is inputs 01097ca0 / master 0b53a6fe / 269880 B (the new producer re-emits the old master byte for byte, the cornice being default-off here) against this branch's inputs bb165687 / master f213818f / 270816 B. That is a true both-sides model change: it needs an ACTUAL combined bake (dev's current producer plus this branch's front_gable_peak_m 4.85) and a genuinely encoded WEB derivative, never old bytes bound to a newly computed combined input hash, and if the combined master differs, a refreshed controlled same-camera before/after at camera 9439f5f7 and picture bfaa184f with the owner's inspection before merge. That does not fit this run's remaining budget. T-2376 STAYS OPEN / PARTIAL / DIFFERS: the shoulder's own roof slope and the left group's proportions stay OPEN, Trowbridge/Gale 1902's open wagon bay stays explicit counterevidence with no known conversion date, CHM c1859 stays unverified and link-only, and the upper/attic count and camera residuals stay within tolerance under T-3153. No done --pr, no split, no photo follow-up, no replacement PR.
