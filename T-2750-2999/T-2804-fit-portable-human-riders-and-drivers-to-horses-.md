@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Incremental DEV delivery — PR #1693 merged, 2026-11-04 UTC
+
+PR [#1693](https://github.com/kevinrhaas/chicago/pull/1693) merged normally at 06:25:52 UTC as `7e1445624ac1c642c8337269023c90dac9bf3e56`, TREE `49418a270db689dfaf25a2d9426f31f165461aa2`. Its 30 selected checks closed with 23 successes and 7 expected skips on qualified synthetic `db938eee7b58fb17dbecabd55dacc1815d9b1b87`, TREE `f80f1f497c337205a3b39304b14682e019b589b3`; these measurements are not relabelled as a fresh run of the later merged tree. This increment adds independent seated head/neck looking in Full/Balanced only. Public DEV verification remains pending.
+
+NEXT pace/cold-Find is staged in six files; the immutable checkpoint records the first two of four native gate parts passing, not a complete gate or delivery. [Immutable merge and partial-NEXT checkpoint](https://github.com/kevinrhaas/chicago-evidence/blob/6a3b186f7f7c1a65c370fc27db8b510a97aea61f/evidence/transport-pr1693-dev-merge-and-next-increment-checkpoint-2026-11-04/MANIFEST.json). Broad animation, horse gait, boarding/riding, photographic and clothing acceptance remain open. This ticket stays `claimed` with `pr:null`; no claim renewal or settlement is made.
+
 ## Incremental DEV delivery — PR #1649 merged, 2026-11-04 UTC
 
 PR [#1649](https://github.com/kevinrhaas/chicago/pull/1649) merged normally into DEV at2026-11-04T01:29:50Z as `9881d782370d612c3ca521df383d67b1bb48487f`. Its merged TREE equals the checked a620 TREE. All30 current CI checks completed:23success/7expectedskips, zero failures; the complete native gate covers1155distinct steps and401self-tests across8parts, plus all9frame/memory jobs, native release32 and moving-frame gates. [Immutable merge/CI/failure evidence](https://github.com/kevinrhaas/chicago-evidence/blob/a0881166e495048956c642924f30cbc04a44dded/evidence/transport-pr1649-merged-dev-9881-final-ci-and-original-world-negatives-2026-11-04/MANIFEST.json).
