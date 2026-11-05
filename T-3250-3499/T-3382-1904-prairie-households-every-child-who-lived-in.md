@@ -1,7 +1,7 @@
 ---
 id: T-3382
 title: 1904 Prairie households: every child who lived in each house, with the years for those not there in 1904
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1719
 claimed_by: run 11/5/2026, 12:12:39 PM CT
 blocked_on: null
 needs_bake: false
