@@ -1,7 +1,7 @@
 ---
 id: T-3392
 title: Glessner carriage way: stray stone slab across the Prairie mouth at street grade
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1734
 claimed_by: run 11/5/2026, 2:05:39 PM CT
 blocked_on: null
 needs_bake: true
