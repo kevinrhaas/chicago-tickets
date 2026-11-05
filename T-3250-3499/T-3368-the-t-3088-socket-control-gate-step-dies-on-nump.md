@@ -1,7 +1,7 @@
 ---
 id: T-3368
 title: The T-3088 socket control gate step dies on NumPy 2.5's removed 2-D np.cross, so check.sh part 2 is red on every steward runner
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/4/2026, 10:58:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41969777905
+claimed_at: 2026-11-05T04:58:28.067Z
 decision: null
 decision_answer: null
 ---
