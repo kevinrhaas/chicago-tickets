@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/4/2026, 10:58:54 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41969785849
-claimed_at: 2026-11-05T04:58:54.823Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -172,3 +172,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-03** (claim of run 11/3/2026, 12:55:30 AM CT): PR #1655 (Pullman stone joints on every face; glasshouse ground's gravel, coping run and walk joins) merged to dev; the ticket stays open, its photo records still differ
 
 **Released 2026-11-03** (claim of run 11/3/2026, 12:09:40 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41683451528): PR #1671 (the 18th Street balustrade's middle post, off Taylor's no. 1445 and the Detroit print, built as a 0.9 m pier to the rail's top; the Detroit print's posts west of the third pier ruled within tolerance in both records as the pictures disagree) is up on resume while CI's gate finishes; the image gate on pullman_house_1729_prairie stays open, so the owner's ticket stays open
+
+**Released 2026-11-04** (claim of run 11/4/2026, 10:58:54 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41969785849): PR #1707 merged to dev: the Albertype 1890 and Taylor 1445 records re-read under T-3153 (Albertype's dormer offset within tolerance as a camera fit, its light over the portico fixed since #1581; Taylor's pier offset, corner tree and ivy within tolerance). New open item on the Albertype plate, now its only one: a hanging lantern between two banded piers just south of the portico (v ~9.5-10), which needs a K01 front-lantern kit key. Still open elsewhere: the portico's reach north over the north block (Detroit; three pictures agree), the Detroit corner trunk, Taylor 1445's dormer and north block, and Taylor 16554's porte-cochere and trees, so the owner's ticket stays open
