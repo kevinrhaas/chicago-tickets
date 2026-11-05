@@ -1,7 +1,7 @@
 ---
 id: T-3373
 title: Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the great chimney
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/5/2026, 3:16:16 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-05T09:16:18.158Z
 decision: null
 decision_answer: null
 ---
