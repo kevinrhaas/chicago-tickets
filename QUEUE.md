@@ -37,9 +37,7 @@
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # Owner, 2026-11-05, thread "Correct Glessner roofs and window stone": "Please create multiple tickets as needed for this and work through these as a priority #1". Worked interactively, chained one at a time (same bake): T-3371 -> T-3372 -> T-3373 -> T-3374.
-T-3373 — Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the great chimney
-# BLOCKED-TECH T-3374 (opened 2026-11-04, META) — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
-#     waits: T-3373 — same Glessner bake; the upper lintel band sits under T-3373's copper eave
+T-3374 — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
 
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture

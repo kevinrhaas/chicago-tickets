@@ -1,7 +1,7 @@
 ---
 id: T-3374
 title: Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-04
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3373 — same Glessner bake; the upper lintel band sits under T-3373's copper eave
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -37,3 +37,5 @@ HABS photograph 5 (c. 1923) and the 2024 courtyard photograph: each pier between
 - Dining bay corner piers built as one stone block wrapping each corner.
 - Continuous stone lintel bands over the first- and second-floor windows between the dining bay and the bow, matching the photographs.
 - Rebake, gate green, before/after renders from the owner's in-app view.
+
+**Unblocked 2026-11-05:** T-3373 merged (PR #1715); this took its place in the queue. The block read: T-3373 — same Glessner bake; the upper lintel band sits under T-3373's copper eave
