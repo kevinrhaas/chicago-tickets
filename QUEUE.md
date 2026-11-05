@@ -179,7 +179,6 @@ T-3088 — Refine the horse anatomy and near silhouette against cleared views
 T-3089 — Qualify horse surface materials and portable distance exports
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
-T-2803 — Rig the horse and author grounded idle, walk and trot clips
 T-2804 — Fit portable-human riders and drivers to horses and vehicles
 T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 
@@ -207,7 +206,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-3381 — Glessner 18th Street door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
 T-3389 — Flickering blocky paving edges where 1904 roadways meet (Prairie at 18th and 20th)
 T-3392 — Glessner carriage way: stray stone slab across the Prairie mouth at street grade
 T-3393 — 1700-1706 Prairie's street front to the photographs (owner, 2026-11-05: the front is missing its street fence): the low stone curb on the street line across the open middle between the two walks, in line with the railings' own, as Chicagology's and the GHM Christmas photographs show
