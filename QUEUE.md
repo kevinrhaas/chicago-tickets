@@ -216,3 +216,4 @@ T-3383 — Wall ivy sways into the wall: Pullman's (and 1912's) Boston ivy vanis
 T-3388 — Placeholder 1904 buildings read as believable stand-ins: no free-standing towers from a joined trace's parts
 T-3389 — Flickering blocky paving edges where 1904 roadways meet (Prairie at 18th and 20th)
 T-3390 — Navigator Jump: ask before departing the current year (DEPART / CANCEL prompt)
+T-3392 — Glessner carriage way: stray stone slab across the Prairie mouth at street grade
