@@ -1,7 +1,7 @@
 ---
 id: T-3374
 title: Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-04
 closed: null
-pr: null
+pr: 1716
 claimed_by: run 11/5/2026, 5:50:04 AM CT
 blocked_on: null
 needs_bake: true
