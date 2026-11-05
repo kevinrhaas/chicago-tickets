@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-11-05
 pr: 1723
 claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 to take over Hans's idle life, clothing and carriage pace) 11/5/2026, 1:01:03 PM CT
 blocked_on: T-1789
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-05T21:31:57Z
 claimed_run: null
 claimed_at: 2026-11-05T19:01:04.394Z
 decision: null
