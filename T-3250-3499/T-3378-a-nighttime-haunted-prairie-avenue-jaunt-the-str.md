@@ -1,7 +1,7 @@
 ---
 id: T-3378
 title: A nighttime haunted Prairie Avenue jaunt: the street's ghost legends (Kimball, Field Jr., Keith, Pullman's grave, Richardson at Glessner, the 1812 battle ground) told at night in the fall
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1718
 claimed_by: run 11/5/2026, 11:41:22 AM CT
 blocked_on: null
 needs_bake: false
