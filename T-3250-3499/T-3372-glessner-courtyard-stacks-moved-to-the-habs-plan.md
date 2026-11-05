@@ -1,7 +1,7 @@
 ---
 id: T-3372
 title: Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the court door
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/5/2026, 2:43:23 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-05T08:43:24.952Z
 decision: null
 decision_answer: null
 ---
