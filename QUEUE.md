@@ -37,9 +37,7 @@
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
 # Owner, 2026-11-05, thread "Correct Glessner roofs and window stone": "Please create multiple tickets as needed for this and work through these as a priority #1". Worked interactively, chained one at a time (same bake): T-3371 -> T-3372 -> T-3373 -> T-3374.
-T-3371 — Glessner roofs: one level ridge from the north range into the stable cupola, alley gable sat on its roof
-# BLOCKED-TECH T-3372 (opened 2026-11-04, META) — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the co…
-#     waits: T-3371 — same Glessner bake; the stacks stand on the roof T-3371 raises
+T-3372 — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the court door
 # BLOCKED-TECH T-3373 (opened 2026-11-04, META) — Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the …
 #     waits: T-3372 — same Glessner bake, one at a time
 # BLOCKED-TECH T-3374 (opened 2026-11-04, META) — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow

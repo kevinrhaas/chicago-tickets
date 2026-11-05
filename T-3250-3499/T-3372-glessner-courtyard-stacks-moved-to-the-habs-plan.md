@@ -1,7 +1,7 @@
 ---
 id: T-3372
 title: Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the court door
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-04
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3371 — same Glessner bake; the stacks stand on the roof T-3371 raises
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -37,3 +37,5 @@ HABS sheets 2 and 3 (first and second floor plans) draw two flue masses in the n
 - `chimney_service_east` moves over the door-side flue (W 102.5-105.5) and `chimney_service_west` into the stable corner (W about 121.5-125); sizes and caps kept; bases buried in the roof raised by T-3371.
 - The great chimney (W 37.8-42.2, S 16.5-20.5, top 46.6 ft ng; sheet 4) is checked against the owner's Google Earth view and HABS photograph 5.
 - Rebake, gate green, before/after renders from the owner's views.
+
+**Unblocked 2026-11-05:** T-3371 merged (PR #1711); this took its place in the queue. The block read: T-3371 — same Glessner bake; the stacks stand on the roof T-3371 raises
