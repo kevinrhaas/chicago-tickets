@@ -1,6 +1,6 @@
 ---
 id: T-3381
-title: Glessner 18th Street door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
+title: Glessner Prairie Avenue door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
 state: claimed
 epic: META
 requested_by: owner
