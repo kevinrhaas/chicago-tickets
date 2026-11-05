@@ -1,7 +1,7 @@
 ---
 id: T-3379
 title: 1904 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts about the houses passed on the way
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-11-05
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/5/2026, 11:41:22 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-05T17:41:24.432Z
 decision: null
 decision_answer: null
+group: T-3377,T-3378,T-3379
 ---
 
 1904 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts about the houses passed on the way.
