@@ -21,6 +21,6 @@ decision: null
 decision_answer: null
 ---
 
-Glessner 18th Street door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05).
+Glessner Prairie Avenue door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05).
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
