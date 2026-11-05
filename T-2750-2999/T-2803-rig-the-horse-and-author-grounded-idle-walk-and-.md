@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2798
 opened: 2026-10-18
 closed: null
-pr: 1244
+pr: 1729
 claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 for a realistic slow carriage pace) 11/5/2026, 2:11:45 PM CT
 blocked_on: null
 needs_bake: true
