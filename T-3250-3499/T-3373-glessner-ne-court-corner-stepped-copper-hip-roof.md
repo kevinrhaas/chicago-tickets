@@ -1,7 +1,7 @@
 ---
 id: T-3373
 title: Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the great chimney
-state: blocked-tech
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-04
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-3372 — same Glessner bake, one at a time
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
@@ -39,3 +39,5 @@ Owner, 2026-11-05 (thread "Correct Glessner roofs and window stone"), with marke
 - The flat `continuous_copper_corner` return is replaced by a hipped copper roof stepped under the tiled slope, over the wall between the dining bay and the bow, with a downpipe at its west corner.
 - One dormer is added east of the great chimney, in the court dormers' style, sized and placed from the photographs (reconstructed, a liberty).
 - Rebake, gate green, before/after renders from the owner's views.
+
+**Unblocked 2026-11-05:** T-3372 merged (PR #1714); this took its place in the queue. The block read: T-3372 — same Glessner bake, one at a time
