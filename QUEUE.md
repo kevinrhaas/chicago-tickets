@@ -181,6 +181,7 @@ T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-3371 — Glessner roofs: one level ridge from the north range into the stable cupola, alley gable sat on its roof
-T-3372 — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the court door
 T-3373 — Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the great chimney
 T-3374 — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
+# BLOCKED-TECH T-3372 (opened 2026-11-04, META) — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the co…
+#     waits: T-3371 — same Glessner bake; the stacks stand on the roof T-3371 raises
