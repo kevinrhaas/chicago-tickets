@@ -1,7 +1,7 @@
 ---
 id: T-3380
 title: 1835 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts along the way
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1718
 claimed_by: run 11/5/2026, 11:59:30 AM CT
 blocked_on: null
 needs_bake: false
