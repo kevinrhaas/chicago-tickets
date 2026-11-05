@@ -1,7 +1,7 @@
 ---
 id: T-3383
 title: Wall ivy sways into the wall: Pullman's (and 1912's) Boston ivy vanishes into the brick in the wind
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-05
 pr: 1720
 claimed_by: run 11/5/2026, 12:38:32 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-05T20:51:41Z
 claimed_run: null
 claimed_at: 2026-11-05T18:38:33.454Z
 decision: null

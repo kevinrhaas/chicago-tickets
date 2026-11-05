@@ -211,7 +211,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-3381 — Glessner 18th Street door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
-T-3383 — Wall ivy sways into the wall: Pullman's (and 1912's) Boston ivy vanishes into the brick in the wind
 T-3388 — Placeholder 1904 buildings read as believable stand-ins: no free-standing towers from a joined trace's parts
 T-3389 — Flickering blocky paving edges where 1904 roadways meet (Prairie at 18th and 20th)
 T-3390 — Navigator Jump: ask before departing the current year (DEPART / CANCEL prompt)
