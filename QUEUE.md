@@ -126,6 +126,7 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3377 — Jaunts open in their own time of day and season: a jaunt-level default hour and season, set on start and given back at the end, chosen for every 1904 and 1835 jaunt
+T-3378 — A nighttime haunted Prairie Avenue jaunt: the street's ghost legends (Kimball, Field Jr., Keith, Pullman's grave, Richardson at Glessner, the 1812 battle ground) told at night in the fall
 
 # --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
 # ---    they can be worked by separate agents later").
