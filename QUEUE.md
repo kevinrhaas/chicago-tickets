@@ -210,3 +210,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-3381 — Glessner 18th Street door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
 T-3389 — Flickering blocky paving edges where 1904 roadways meet (Prairie at 18th and 20th)
 T-3392 — Glessner carriage way: stray stone slab across the Prairie mouth at street grade
+T-3393 — 1700-1706 Prairie's street front to the photographs (owner, 2026-11-05: the front is missing its street fence): the low stone curb on the street line across the open middle between the two walks, in line with the railings' own, as Chicagology's and the GHM Christmas photographs show
