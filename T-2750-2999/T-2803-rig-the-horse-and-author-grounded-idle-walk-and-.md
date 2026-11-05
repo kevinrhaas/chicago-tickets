@@ -11,12 +11,12 @@ parent: T-2798
 opened: 2026-10-18
 closed: null
 pr: 1244
-claimed_by: Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 11/3/2026, 8:37:39 AM CT
+claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 for a realistic slow carriage pace) 11/5/2026, 2:11:45 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T14:37:41.085Z
+claimed_at: 2026-11-05T20:11:46.198Z
 decision: null
 decision_answer: null
 ---
