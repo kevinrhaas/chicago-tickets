@@ -37,6 +37,15 @@ T-3368 — The T-3088 socket control gate step dies on NumPy 2.5's removed 2-D n
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
 
+# Owner, 2026-11-05, thread "Correct Glessner roofs and window stone": "Please create multiple tickets as needed for this and work through these as a priority #1". Worked interactively, chained one at a time (same bake): T-3371 -> T-3372 -> T-3373 -> T-3374.
+T-3371 — Glessner roofs: one level ridge from the north range into the stable cupola, alley gable sat on its roof
+# BLOCKED-TECH T-3372 (opened 2026-11-04, META) — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the co…
+#     waits: T-3371 — same Glessner bake; the stacks stand on the roof T-3371 raises
+# BLOCKED-TECH T-3373 (opened 2026-11-04, META) — Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the …
+#     waits: T-3372 — same Glessner bake, one at a time
+# BLOCKED-TECH T-3374 (opened 2026-11-04, META) — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
+#     waits: T-3373 — same Glessner bake; the upper lintel band sits under T-3373's copper eave
+
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
@@ -180,10 +189,3 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
-T-3371 — Glessner roofs: one level ridge from the north range into the stable cupola, alley gable sat on its roof
-# BLOCKED-TECH T-3372 (opened 2026-11-04, META) — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the co…
-#     waits: T-3371 — same Glessner bake; the stacks stand on the roof T-3371 raises
-# BLOCKED-TECH T-3373 (opened 2026-11-04, META) — Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the …
-#     waits: T-3372 — same Glessner bake, one at a time
-# BLOCKED-TECH T-3374 (opened 2026-11-04, META) — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
-#     waits: T-3373 — same Glessner bake; the upper lintel band sits under T-3373's copper eave

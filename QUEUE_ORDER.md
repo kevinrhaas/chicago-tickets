@@ -83,3 +83,5 @@
 - 2026-10-21 — T-2973 (dev gate red on stale 1726/1730 GLBs) to the head of band 1: it blocks every open PR. No other ticket moved.
 
 2026-10-22 — Steward filing correction: move newly filed T-2981 from fallback queue bottom to the foot of band1, following the standing owner2026-10-20 rule in QUEUE.md that performance/GPU follow-ups go there. `new --kind perf --blocks` bypassed the kind placer; no other relative order changes. T-2981 unblocks the active parked/covered vehicle parcel.
+
+2026-11-05 — Owner (thread "Correct Glessner roofs and window stone": "Please create multiple tickets as needed for this and work through these as a priority #1"): T-3371..T-3374 filed and moved from the queue's foot to the head of band 2, above the Pullman pair. No other ticket moved.
