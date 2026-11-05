@@ -206,7 +206,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-3389 — Flickering blocky paving edges where 1904 roadways meet (Prairie at 18th and 20th)
 T-3392 — Glessner carriage way: stray stone slab across the Prairie mouth at street grade
 T-3393 — 1700-1706 Prairie's street front to the photographs (owner, 2026-11-05: the front is missing its street fence): the low stone curb on the street line across the open middle between the two walks, in line with the railings' own, as Chicagology's and the GHM Christmas photographs show
 T-3394 — 1600 Prairie east side: street borders — 1637's fence out to the street line with a gate at its walk, stone coping across the open fronts 1601-1625
