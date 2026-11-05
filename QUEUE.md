@@ -126,7 +126,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3391 — Navigator Map close-up drawn crisp: footprints, streets and ground drawn at the window's own scale instead of a blown-up whole-field picture
 T-3377 — Jaunts open in their own time of day and season: a jaunt-level default hour and season, set on start and given back at the end, chosen for every 1904 and 1835 jaunt
 T-3378 — A nighttime haunted Prairie Avenue jaunt: the street's ghost legends (Kimball, Field Jr., Keith, Pullman's grave, Richardson at Glessner, the 1812 battle ground) told at night in the fall
 T-3379 — 1904 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts about the houses passed on the way

@@ -1,7 +1,7 @@
 ---
 id: T-3391
 title: Navigator Map close-up drawn crisp: footprints, streets and ground drawn at the window's own scale instead of a blown-up whole-field picture
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-05
 pr: 1728
 claimed_by: interactive 11/5/2026, 1:51:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-05T22:11:05Z
 claimed_run: null
 claimed_at: 2026-11-05T19:51:30.525Z
 decision: null
