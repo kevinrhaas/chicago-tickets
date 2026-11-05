@@ -1,7 +1,7 @@
 ---
 id: T-3365
 title: 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1914
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/5/2026, 12:39:15 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41981079880
+claimed_at: 2026-11-05T06:39:16.376Z
 decision: null
 decision_answer: null
 ---
