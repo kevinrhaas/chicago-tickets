@@ -24,3 +24,12 @@ decision_answer: null
 Glessner carriage way: stray stone slab across the Prairie mouth at street grade.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Finding (2026-11-05)
+
+Kevin, on the walking tour's carriage-passage stop: "see that grey line across?" A grey stone slab
+floats across the Prairie Avenue mouth between the open oak leaves, about a foot over the sunk
+floor. Reproduced in the app (desktop and phone); a pick there names `glessner_house`. It is the
+porte-cochere opening's own bottom reveal (`masonry_house_v4_detail.opening`), a 0.3 m deep stone
+face at the opening's foot (z 0, street grade), which T-2976 left behind when it sank the
+passage floor to -0.35 m. Fix: skip that reveal when the frontage sinks the floor below it.
