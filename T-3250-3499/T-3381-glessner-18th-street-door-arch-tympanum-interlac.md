@@ -1,7 +1,7 @@
 ---
 id: T-3381
 title: Glessner Prairie Avenue door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1727
 claimed_by: run 11/5/2026, 12:20:39 PM CT
 blocked_on: null
 needs_bake: true
