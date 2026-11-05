@@ -214,3 +214,4 @@ T-3381 — Glessner 18th Street door arch: tympanum interlace, rims and dentils 
 T-3382 — 1904 Prairie households: every child who lived in each house, with the years for those not there in 1904
 T-3383 — Wall ivy sways into the wall: Pullman's (and 1912's) Boston ivy vanishes into the brick in the wind
 T-3388 — Placeholder 1904 buildings read as believable stand-ins: no free-standing towers from a joined trace's parts
+T-3389 — Flickering blocky paving edges where 1904 roadways meet (Prairie at 18th and 20th)
