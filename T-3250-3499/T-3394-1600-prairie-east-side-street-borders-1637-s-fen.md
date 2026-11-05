@@ -1,7 +1,7 @@
 ---
 id: T-3394
 title: 1600 Prairie east side: street borders — 1637's fence out to the street line with a gate at its walk, stone coping across the open fronts 1601-1625
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1732
 claimed_by: run 11/5/2026, 4:51:22 PM CT
 blocked_on: null
 needs_bake: false
