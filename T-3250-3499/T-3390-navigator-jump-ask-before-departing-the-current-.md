@@ -1,7 +1,7 @@
 ---
 id: T-3390
 title: Navigator Jump: ask before departing the current year (DEPART / CANCEL prompt)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1726
 claimed_by: run 11/5/2026, 1:48:48 PM CT
 blocked_on: null
 needs_bake: false
