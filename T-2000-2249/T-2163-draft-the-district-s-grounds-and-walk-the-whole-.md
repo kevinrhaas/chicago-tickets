@@ -1,7 +1,7 @@
 ---
 id: T-2163
 title: Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
-state: blocked-tech
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-10-08
 closed: null
 pr: null
 claimed_by: null
-blocked_on: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
+blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null

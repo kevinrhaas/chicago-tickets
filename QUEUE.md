@@ -174,11 +174,10 @@ T-2380 — Match the log jail to its pictures
 T-2383 — Match the Sauganash Hotel to its pictures
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-# BLOCKED-TECH T-2163 (opened 2026-10-08, SOUTH_TIME) — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all thre…
-#     waits: T-2983 — the grounds and the whole-district walk need every draft standing; T-2162 split into T-2982 (named context buildings, #1180, merged) and T-2983 (the background census), so this waits on T-2983
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-3376 — Glessner stable: the tiled roof runs over the north and alley gable ends, no stone coping (owner photo markup 2026-11-05)
+T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
