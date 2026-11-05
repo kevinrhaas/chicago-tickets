@@ -142,6 +142,7 @@ T-2379 — Match the Lake House under construction to its pictures
 T-2380 — Match the log jail to its pictures
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
+T-3380 — 1835 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts along the way
 
 # --- 5. 1812 — the 1812 scene's open work, one band for its own agent (owner, 2026-11-05).
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
