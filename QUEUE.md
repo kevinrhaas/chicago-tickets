@@ -183,3 +183,4 @@ T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 
 T-3371 — Glessner roofs: one level ridge from the north range into the stable cupola, alley gable sat on its roof
 T-3372 — Glessner courtyard stacks moved to the HABS plan flues: the corner stack at the stable and the middle stack over the court door
 T-3373 — Glessner NE court corner: stepped copper hip roof over the dining-bay-to-bow wall, its downpipe, and the dormer by the great chimney
+T-3374 — Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
