@@ -57,6 +57,7 @@ T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology ca
 T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
 T-3384 — 1700-1706 Prairie's roof as one continuous mansard across the pair (owner, 2026-11-05): the party wall centred on the property and carried up through the roof, no crossing hips at the party line, one central gutter and downpipe, the chimneys and the deck's fret railing to the photographs
 T-3385 — Prairie Avenue 1904 face brick told house by house: a period brick palette laid as tints over the shipped K03 panels (no new maps), each house's front and side brick read off its own photographs by tone, Chicago common kept to sides and rear
+T-3386 — First Presbyterian Church (2029 Indiana Avenue, 1904) walls in their real material, read off its photographs: the flat untextured red wall given the right brick or stone fabric
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
