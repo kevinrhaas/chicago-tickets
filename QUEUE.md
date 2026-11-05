@@ -14,20 +14,26 @@
 #   on informed, evidence-bounded judgement (owner, 2026-10-16; T-2672 updates the standing constraint).
 #   Keep review flags and reasons; they do not veto release. The August gathering is excluded from 1 July 1835.
 #   Black residents, families and businesses stay identified. Respect needs_bake and every ticket-level blocker.
-# - Order (owner, 2026-10-16; band 9 moved up 2026-10-20): the performance and GPU group (band 1), loop operations (band 9),
-#   1904 structures already in progress (band 2), the Navigator interface (band 3), then the balance of Prairie Avenue
-#   1904 (band 7, nearest Glessner first), then the portable humans (8C). The Unreal holds are commented out, by hand only.
+# - Order (owner, 2026-11-05: "finish prairie Ave first and keep the rest of the tickets in sections where they can be
+#   worked by separate agents later"; "Pullman should def be finished next"): performance and GPU (band 1), loop operations
+#   (band 9), Prairie Avenue 1904 in progress: Pullman, 1801, Glessner and the owner's photo reworks (band 2), the balance of
+#   Prairie Avenue 1904, nearest Glessner first (band 7), the Navigator (band 3), then one band per area, each workable by its
+#   own agent: 1835 (band 4), 1812 (band 5), portable humans (8C), carriages (8D), horses (8E). The Unreal holds and the
+#   playtests are commented out, by hand only. A bare `ticket.mjs new` or `unblock` lands at the foot of this file, under 8b,
+#   where no lane reaches it: pass --after, or move the line into its area's band at once.
 
 # --- 1. PERFORMANCE AND GPU — the whole optimization group, cleared first (owner, 2026-10-16: "move all of those gpu and performance
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
-
+# Owner, 2026-11-05 re-rank: dev's red content-build smoke and the phone's shadow-caster cut, moved up from 8b's foot and band 7.
+T-3375 — dev's content-build smoke is red on three 1835 legs: light tier not materially cheaper than full at West prairie (desktop 4981 vs 5445, mobile 4100 vs 4498), a THREE.Object3D.add page error at stage 5, and the boot payload at 39.696 MB over its 39.6 MB budget
+T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
-# --- 2. 1904 STRUCTURES IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
+# --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
 # ---    existing in progress buildings in 1904"): Keith (1808), Glessner's sign-off, 1621-1625, 1637, then 1801, 1812 and 1811,
 # ---    whose K01 massing pieces have merged.
 # Owner, 2026-10-13: "Sure" (move T-1882 to the top) — 1808 Prairie rebuilt to its photographs, thread "Keith house vs photos"; T-1883 waits on it and takes this line when it merges.
@@ -35,21 +41,21 @@
 # Owner, 2026-10-13, with the 1887-91 Prairie Avenue sidewalk postcard: "we want to emulate this" (curbs and carriage walks, parkway trees with a Trees setting, soft surface edges). T-2473..T-2475, worked interactively in thread "Prairie Avenue streetscape", one PR each.
 # Owner, 2026-10-13, thread "1812 structures": "For 1812 did I ask you to build the other buildings from that era ... all known structures from history"; card answer "After Prairie group"; "You can include native lodges as documented" (T-2490); card answer "Move to 14 August" (T-2490 moves the 1812 scene date first). T-2485 and T-2486 wait on T-2484 (same site) and take its line in turn.
 # Owner, 2026-10-12, with photographs of the Prairie Avenue door: "the front door arch on the east also has the same stone treatment and should stand out more ... refer to the photos in the reference to make it photographic perfect" (T-2416 + T-2215, one PR, worked interactively; T-2212 waits on them).
-
 # Owner, 2026-11-05, thread "Correct Glessner roofs and window stone": "Please create multiple tickets as needed for this and work through these as a priority #1". Worked interactively, chained one at a time (same bake): T-3371 -> T-3372 -> T-3373 -> T-3374.
-
+# Owner, 2026-11-05, thread "Reorder queue to finish Prairie Avenue first": Pullman first ("Pullman should def be finished next"), then 1801
+# reopened, Glessner, then the owner's photo reworks already in hand. T-3273 (the Pullman conservatory, filed 2026-10-31) came up from 8b's foot.
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
-
-# --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
-# ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
-# Order: the two card bugs from the review and the gold/silver/bronze grade colors, then E1 arrival, E2 the Navigator shell, the string table, E3 HUD, E4 Jaunts, E5 the
-# building dossier (summary record, Glessner pilot, Inspect), E6 Confidence view, E7 Move, E9 Map/Jump/Settings with Researcher
-# mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
-# it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
-# evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest, T-2670) is held in band 8F.
-# Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
+T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
+# Owner, 2026-11-05: "1801 prairie should also reenter photo matching the facade on prairie is still way off". Reopened in place (its ## Reopened section).
+T-1890 — Finish 1801 Kimball corner mansion architecture
+# Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
+T-3376 — Glessner stable: the tiled roof runs over the north and alley gable ends, no stone coping (owner photo markup 2026-11-05)
+# The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
+T-3354 — 1919 Prairie's rear ranges' roofs and place read again against all three Gatlin plates: the pinnacled dormers between the gables on the slope the plates show facing the street, the third smaller gable at the flank's far end, the quoined block at the middle range's corner, the canted bay's own corners, and the 1912 Blue Book plate's camera solved
+T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
+T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
@@ -62,12 +68,19 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 # Owner, 2026-10-11: "Move all the Glessner house refine tickets below 2352 and un comment them for the loop to pick them up put them above 2341". The Glessner group (T-2201, T-2207..T-2228, audit order) runs here one at a time: each later
 # ticket waits in 8b on the one before it and takes this line when that PR merges (same house, owner 2026-10-10 "one at a time").
 # Owner, 2026-10-14: "can you move the tickets up that are the building around Glessner, like build out from Glessner north and south, where we refine each building". Below the Glessner line, the two bake faults and the structures already in progress (owner, 2026-10-14: "Keep anything near the top of that prairie queue that is already a structure in progress, finish those and move on to the stuff nearest Glessner": 1638, 1619-1625, 1637), the refine work runs nearest-first by distance from 1800 Prairie, both sides of the street and both directions; a house's Refine before its Finish, back-lot service tickets after their side of the block, boundaries after those, edges and block checks last.
-T-3354 — 1919 Prairie's rear ranges' roofs and place read again against all three Gatlin plates: the pinnacled dormers between the gables on the slope the plates show facing the street, the third smaller gable at the flank's far end, the quoined block at the middle range's corner, the canted bay's own corners, and the 1912 Blue Book plate's camera solved
-T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-T-3375 — dev's content-build smoke is red on three 1835 legs: light tier not materially cheaper than full at West prairie (desktop 4981 vs 5445, mobile 4100 vs 4498), a THREE.Object3D.add page error at stage 5, and the boot payload at 39.696 MB over its 39.6 MB budget
+# Owner, 2026-11-05 re-rank: nearest Glessner first by street-front distance from 1800 Prairie. The houses reopened 2026-10-28 lead,
+# ordered by distance (1816, 1824-1828, 1815, 1708-1712, 1823, 1827), then 1916-1936, then 1613-1619 and the 20th-22nd block in its
+# existing order; T-2163 (the district grounds and walk, unblocked 2026-11-05: T-2983's pieces have all merged) goes before the verifies.
+# Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
+T-1886 — Refine 1816 Henderson mansard house
+T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
+T-1893 — Refine 1815 Sears-Meeker altered house
+T-1872 — Refine 1708 and 1712 townhouse fronts
+T-1894 — Refine 1823 Dent house
+T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
+T-1868 — Refine 1613, 1615 and 1619 east row
 T-1910 — Refine 2018 and 2026 masonry houses
 T-1915 — Refine 2011 Romanesque house beside Mayer
 T-1916 — Refine 2013 Reid classical house
@@ -95,17 +108,41 @@ T-1940 — Refine 2008 Calumet Hanford exterior
 T-1941 — Refine 2018 Calumet Wheeler-Kohn exterior
 T-1942 — Refine Second Presbyterian post-1900 exterior skyline
 T-1946 — Close side-street and rail-side background gaps
+T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone
 T-1948 — Verify the completed 18th-20th Prairie streetscape
 T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
-# Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
-T-1868 — Refine 1613, 1615 and 1619 east row
-T-1872 — Refine 1708 and 1712 townhouse fronts
-T-1886 — Refine 1816 Henderson mansard house
-T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
-T-1893 — Refine 1815 Sears-Meeker altered house
-T-1894 — Refine 1823 Dent house
-T-1896 — Finish 1827 Doane twin-tower mansion architecture
+# Glessner look research (owner, 2026-10-29), evidence only, up from 8b's foot.
+T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
+
+# --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
+# ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
+# Order: the two card bugs from the review and the gold/silver/bronze grade colors, then E1 arrival, E2 the Navigator shell, the string table, E3 HUD, E4 Jaunts, E5 the
+# building dossier (summary record, Glessner pilot, Inspect), E6 Confidence view, E7 Move, E9 Map/Jump/Settings with Researcher
+# mode, sound and the field log (owner rulings 2026-10-16), E8 Guide and Tour, then the E10 content gates. Each ticket names what
+# it waits on under "Depends on"; take the next workable one while a dependency is open. Spec: chicago-tickets
+# evidence/navigator-mk2-2026-10-16/DESIGN.md. NAV-1006 (student playtest, T-2670) is held in band 8F.
+# Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
+# Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
+T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
+
+# --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
+# ---    they can be worked by separate agents later").
+# The picture-match redos parked at 8b's foot since 2026-10-22 come up here, with the seating remainder and the brick ticket, so
+# nothing workable is left under the blocked band (owner, 2026-11-05: "make sure we are not leaving things at the bottom").
+# T-3341 covers 1812's brick too; it is here because the 1835 brick library is its source.
+T-2383 — Match the Sauganash Hotel to its pictures
+T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
+T-2374 — Match Cobweb Castle to its pictures
+T-2376 — Match the Green Tree Tavern to its pictures
+T-2379 — Match the Lake House under construction to its pictures
+T-2380 — Match the log jail to its pictures
+T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
+T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
+
+# --- 5. 1812 — the 1812 scene's open work, one band for its own agent (owner, 2026-11-05).
+# Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
+T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
@@ -164,20 +201,5 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # refuses a blocked ticket that is missing from this band (T-1518, T-1541).
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
-T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-2374 — Match Cobweb Castle to its pictures
-T-2376 — Match the Green Tree Tavern to its pictures
-T-2379 — Match the Lake House under construction to its pictures
-T-2380 — Match the log jail to its pictures
-T-2383 — Match the Sauganash Hotel to its pictures
-T-3041 — Match the first Fort Dearborn buildings against every reference picture
-T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
-T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
-T-3273 — Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
-T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
-T-3376 — Glessner stable: the tiled roof runs over the north and alley gable ends, no stone coping (owner photo markup 2026-11-05)
-T-2163 — Draft the district's grounds and walk the whole draft: walls, fences, gates, lawns, drives and street trees on all three blocks, measured on a phone

@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: done
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: 2026-10-31
-pr: 1551
-claimed_by: run 10/31/2026, 9:02:11 PM CT
+closed: null
+pr: null
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-11-01T04:23:55Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41263111359
-claimed_at: 2026-11-01T02:02:11.668Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,6 +68,20 @@ Pictures:
   `kimball_house_1801_prairie`: a18-cgy-1801-kimball-early (photograph, oblique front, undated (1890s)), a18-chicago-and-its-makers-1929-kimball (publication plate, oblique front, 1929 (photograph 1890s)), a18-rba-taylor-1801-kimball-c1895 (photograph, oblique front, c. 1895), dw-rb-inland-kimball-1801-entrance-plate (publication plate, detail, Inland Architect vol. XX no. 6 (Jan. 1893), photogravure edition), dw-rb-architects-club-house-kimball-1801 (publication plate, oblique front, n.d. (c. 1925–26; page [11] of an Architects Club/Sketch Club publication mentioning the Dec. 8, 1925 Dickey competition)), a18-cgy-1801-kimball-1945 (photograph, oblique front, 1945), a18-cgy-1801-kimball-doorway-1961 (newspaper item, detail, June 29, 1961), a18-gh-kimball-exterior-2013 (photograph, oblique front, 2013), a18-gh-kimball-porch-north-2013 (photograph, detail, 2013), a18-gho-simmerling-kimball-1994 (lithograph, oblique front, 1994), a18-kimball-habs-photo-01 (photograph, oblique front, June 1965), a18-kimball-habs-photo-02 (photograph, oblique front, June 1965), and 1 more in the library
 
 - kimball_house_1801_prairie
+
+## Reopened (owner, 2026-11-05)
+
+Owner, 2026-11-05, thread "Reorder queue to finish Prairie Avenue first": *"also 1801 prairie should also reenter photo matching the facade on prairie is still way off"*.
+
+It closed on 2026-10-31 (PR #1551) with all three match records reading `matches`, but the owner judges the Prairie Avenue front still way off. On 2026-11-05 dev's records read:
+
+- `taylor_c1895_northwest` (the one picture of the Prairie front with a camera): matches — 48 fixed, 6 `within tolerance`, 6 `not shown`. The `within tolerance` entries include the mansard's curb and deck (the print's curb 35-50 px lower at the north-west corner, its corner hip 25-30 px west), the south pavilion's face, the tower's cone (the print's bell-casts out over the cornice, about 190 px across, where the build's runs straight) and the gabled section's balustrade.
+- `habs_1965_01_southwest`: matches — 17 fixed, 10 `within tolerance`, 7 `not shown`.
+- `habs_1965_02_northwest`: matches — 16 fixed, 12 `within tolerance`, 5 `not shown`.
+
+Of the six pictures listed above only the Taylor print shows the Prairie front with a solved camera. a18-cgy-1801-kimball-early, a18-chicago-and-its-makers-1929-kimball, dw-rb-architects-club-house-kimball-1801, a18-cgy-1801-kimball-1945 (all oblique fronts) and the Inland Architect entrance plate have none.
+
+Reopened in place, not refiled. Start from the front on Prairie Avenue: lay the Taylor print and the build side by side at full size and list what a street visitor sees differ (massing and pavilions, the loggia and bow, the openings' sizes and heights, the cornice, the mansard and its dormers, the tower and its cone, the stoop and the stone's tone). Re-read every `within tolerance` entry on the front under the owner's call that it is way off: each one a visitor would notice goes back to `open`. Solve a camera for each other oblique front, or record it as unusable with the reason, and work every view to `matches`. Findings go into this ticket and the match records, not into new tickets (T-3153).
 
 ## Found by T-3000 (2026-10-22): the mansard's curb and deck against the Taylor photograph
 
