@@ -1,7 +1,7 @@
 ---
 id: T-3374
 title: Glessner court window stone: dining bay corner piers and the lintel bands between the bay and the bow
-state: open
+state: blocked-tech
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-04
 closed: null
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: T-3373 — same Glessner bake; the upper lintel band sits under T-3373's copper eave
 needs_bake: true
 closed_at: null
 claimed_run: null
