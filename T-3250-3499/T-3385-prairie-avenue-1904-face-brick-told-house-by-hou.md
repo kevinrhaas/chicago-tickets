@@ -1,7 +1,7 @@
 ---
 id: T-3385
 title: Prairie Avenue 1904 face brick told house by house: a period brick palette laid as tints over the shipped K03 panels (no new maps), each house's front and side brick read off its own photographs by tone, Chicago common kept to sides and rear
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-05
 pr: 1725
 claimed_by: thread:Vary Prairie Avenue face brick 11/5/2026, 1:17:21 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-05T21:52:37Z
 claimed_run: null
 claimed_at: 2026-11-05T19:17:22.494Z
 decision: null
