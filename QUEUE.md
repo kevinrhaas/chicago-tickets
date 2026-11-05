@@ -208,3 +208,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 T-3381 — Glessner 18th Street door arch: tympanum interlace, rims and dentils photo-matched (owner photos 2026-11-05)
 T-3382 — 1904 Prairie households: every child who lived in each house, with the years for those not there in 1904
+T-3383 — Wall ivy sways into the wall: Pullman's (and 1912's) Boston ivy vanishes into the brick in the wind
