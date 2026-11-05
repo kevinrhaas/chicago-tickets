@@ -24,4 +24,9 @@ group: T-3385,T-3386,T-3387
 
 First Presbyterian Church (2029 Indiana Avenue, 1904) walls in their real material, read off its photographs: the flat untextured red wall given the right brick or stone fabric.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Owner, 2026-11-05** (thread "Vary Prairie Avenue face brick", screenshot of 1600-block houses in 1904): "you have a lot of nice brick pattern here ... it might be more like a chicago common ... maybe it would be on sides, but this is prairie avenue and they would have nice face brick and it would be different for houses ... do a brick dive and research and adjust the brick so it is not identical across the buildings. the current brick you have looks excellent with nice variations ... use that base model and probably add more versions with tuned color and material based on the correct time period ... everywhere there is brick in 1904 consider it and also lay any foundations to apply the appropriate brick to the few 1835 buildings with brick or 1812 maybe some of the chimneys"; then: "look at the photos of the building and do your best to infer what the color and type of brick would have been"; and on First Presbyterian: "i think that should be a brick surface? whatever is correct but right now it is not a texture".
+
+**Acceptance:**
+- The church's pictures read for its wall material and colour (tone method where monochrome).
+- Its walls wear a real textured fabric (K03 brick panel or K02 stone) at the right colour, no flat untextured faces left on the walls.
+- Gate green, phone memory not up, before/after stills.
