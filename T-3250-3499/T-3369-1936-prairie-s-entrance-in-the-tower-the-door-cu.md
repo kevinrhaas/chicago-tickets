@@ -1,7 +1,7 @@
 ---
 id: T-3369
 title: 1936 Prairie's entrance in the tower: the door cut in the tower's face under the columned porch, the two windows over it, and the stoop's flight running north along the front
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3367
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/4/2026, 11:04:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/41969811019
+claimed_at: 2026-11-05T05:04:57.244Z
 decision: null
 decision_answer: null
 ---
