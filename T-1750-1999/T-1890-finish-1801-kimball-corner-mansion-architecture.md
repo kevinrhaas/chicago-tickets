@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 2:27:28 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42287725114
-claimed_at: 2026-11-06T20:27:28.537Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -167,3 +167,5 @@ match record's open differences name both):
 **Released 2026-11-06** (claim of run 11/6/2026, 7:28:39 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42222800796): PR #1766 (merged) slates the three hooded dormers' shelves, read as each hood's own dark eave (Taylor print, HABS 1 and 2), and raises the street hood to 1.8 m (Taylor). Re-reading the Prairie front on the owner's 2026-11-05 call found a stone third storey with one light behind the bow's balcony, its eave triangulated from the Taylor print and HABS 2 at about 11.1-11.75 m (v 3.9-5.85), where the build carries mansard slate down to the cornice; it is open in all three match records, and the Taylor curb-and-deck item is reopened (35-50 px, about 0.7-0.9 m; HABS 2's camera sits about 55 px off at that corner, and HABS 1 shows sky where the build's front mansard rises). No kit piece builds a wall dormer that wide yet, so the third storey is the next run's; a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-11-06** (claim of run 11/6/2026, 9:22:11 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42241520202): PR #1773 (resume: CI gate green on all 8 parts, then dev moved a third time — manifest/liberties conflicts with #1767, mechanical) stands the Prairie front's third storey behind the bow's balcony as a flat-capped stone wall dormer (K01 flat head on the main mansard, face_width_m/face_shift_m), v 3.9-6.85, one light south of its middle, eave 11.25 m; the Taylor and HABS 2 third-storey items fixed. Still open in the match records: the light's moulded architrave (HABS 2; the kit's flat face has none yet), the Taylor curb-and-deck line, and HABS 1's front roof over the curb. A sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-11-06** (claim of run 11/6/2026, 2:27:28 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42287725114): PR #1791 (resume, waiting only on the chicago-4d-check gate, which was still running after two 540 s merge laps; locally check.sh parts 1-4 green after derived rebuilds, smoke part 3 desktop+mobile and part 15 mobile green) frames the third storey's one light in a lugged architrave with a projecting sill (K01 flat-capped wall dormer 'architrave'), read off HABS photograph 2 and the Taylor print (HABS 2 'the third storey's light's frame' now fixed; that record now matches). Still open: the Taylor curb-and-deck line and HABS 1's front roof over the curb, one item seen from two cameras. A sign-off is never split, so the rest goes back to the queue.
