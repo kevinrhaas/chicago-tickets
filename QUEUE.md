@@ -154,6 +154,7 @@ T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second pers
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
 T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
 T-3423 — A woman's body on the shared human rig: the hm08 base with MakeHuman's female targets, same skeleton, clips and LODs as the men, inside the phone people pool
+T-3434 — Mattie Williamson reads as a woman, not stern: female skin atlas, softer face and expression, fuller shirtwaist, apron straps, hair volume
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
