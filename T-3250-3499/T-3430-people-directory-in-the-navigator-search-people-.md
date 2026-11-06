@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
-People directory in the Navigator: search people and households, open their cards, Go to house.
+Kevin, 2026-11-06, on the Navigator's People tab (1904 screenshot): "this feels incomplete ... this should have some search to it to be able to find a person or household and then click and get details on that person and household the way we have it with their full story and overview and be able to go to that person and or their house once we get all that together, probably the house to start for most but eventually you could jump to anyone and meet them".
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:**
+- The People screen (scenes whose directory is the Navigator's own screen: 1904, 1812) opens on a search box and a Households / People switch with counts.
+- Typing narrows both to matches on name, household, address and work.
+- A household opens its own card in place: address, whether it is on the scene date and why, its family, live-in staff and children of other years, who is not on the card, and former residents; with Go to house and Inspect house.
+- A person opens their full card (story, How we know) in place, with Back to where it came from, Go to house, their household, and Follow / Find where they are placed in town.
+- Phone (390x780) and desktop checked; gate green.
