@@ -2,7 +2,7 @@
 id: T-3335
 title: Show the Currey 1912 bird's-eye view of the first Fort Dearborn on every fort card it pictures, held, and compare the 1812 fort against it
 state: done
-epic: 1812
+epic: TOWN
 requested_by: owner
 seen: false
 effort: M

@@ -2,7 +2,7 @@
 id: T-3341
 title: Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 state: open
-epic: 1812
+epic: TOWN
 requested_by: owner
 seen: false
 effort: M

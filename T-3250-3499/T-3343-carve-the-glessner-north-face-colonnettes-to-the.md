@@ -2,7 +2,7 @@
 id: T-3343
 title: Carve the Glessner north-face colonnettes to the front's standard: tapered granite shafts, splayed bases and carved cushion capitals between the two 18th Street window pairs
 state: done
-epic: PRAIRIE
+epic: SOUTH_TIME
 requested_by: owner
 seen: false
 effort: M
