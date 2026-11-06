@@ -1,7 +1,7 @@
 ---
 id: T-3428
 title: Brightness setting reaches 4x and lifts shaded facades without blowing out the sky
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-06
-closed: null
+closed: 2026-11-06
 pr: 1778
 claimed_by: run 11/6/2026, 10:27:07 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T18:03:58Z
 claimed_run: null
 claimed_at: 2026-11-06T16:27:08.401Z
 decision: null
