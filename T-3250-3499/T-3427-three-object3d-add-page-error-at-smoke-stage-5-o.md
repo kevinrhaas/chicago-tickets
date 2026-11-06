@@ -1,7 +1,7 @@
 ---
 id: T-3427
 title: THREE.Object3D.add page error at smoke stage 5 on the content build's baked mirror (does not reproduce unbaked)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3375
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/6/2026, 9:15:41 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42240197664
+claimed_at: 2026-11-06T15:15:42.364Z
 decision: null
 decision_answer: null
 ---
