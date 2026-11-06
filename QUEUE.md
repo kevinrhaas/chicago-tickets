@@ -26,7 +26,6 @@
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 # Owner, 2026-11-05 re-rank: dev's red content-build smoke and the phone's shadow-caster cut, moved up from 8b's foot and band 7.
-T-3425 — 1835 boot payload over its 39.6 MB budget (39.978 MB on dev 2ab4f2c3d): attribute the growth since T-3300 and cut or re-argue
 T-3426 — light tier not materially cheaper than full at West prairie (mobile 4100 vs 4498, desktop 4981 vs 5445): price the stand by layer and win the draws back at light
 T-3427 — THREE.Object3D.add page error at smoke stage 5 on the content build's baked mirror (does not reproduce unbaked)
 T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time

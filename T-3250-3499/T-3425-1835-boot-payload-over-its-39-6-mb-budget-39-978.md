@@ -1,7 +1,7 @@
 ---
 id: T-3425
 title: 1835 boot payload over its 39.6 MB budget (39.978 MB on dev 2ab4f2c3d): attribute the growth since T-3300 and cut or re-argue
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3375
 opened: 2026-11-06
-closed: null
+closed: 2026-11-06
 pr: 1764
 claimed_by: run 11/6/2026, 7:55:38 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T14:56:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42222136357
 claimed_at: 2026-11-06T13:55:39.481Z
 decision: null
