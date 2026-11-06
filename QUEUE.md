@@ -161,6 +161,7 @@ T-3404 — Make every person in town interactive: a name tag when you look at th
 T-3409 — A wardrobe kit for every person: garments cut from patterns, stood off by their cloth's loft, loose parts draped onto the figure, spring-bone tails, a source or liberty per garment
 T-3410 — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs
 T-3412 — Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
+T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
