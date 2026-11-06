@@ -201,3 +201,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 T-3396 — Glessner's stable cross ridge back in line with the north wing's ridge (owner, 2026-11-06)
 T-3397 — 1936 Prairie's belvedere tower reads as its photograph's, not a flared cap on a plain shaft
+T-3398 — Dress Hans as a 1904 coachman: a loose box coat that drapes, a top hat, and skin with detail
