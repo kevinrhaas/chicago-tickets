@@ -158,6 +158,7 @@ T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at deskto
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 T-3402 — Bring standing and walking people to life: breathing, weight shifts, gaze toward the visitor and street, natural blinks
 T-3404 — Make every person in town interactive: a name tag when you look at them, Find for anyone standing, Follow, and a turned look as you come near
+T-3409 — A wardrobe kit for every person: garments cut from patterns, stood off by their cloth's loft, loose parts draped onto the figure, spring-bone tails, a source or liberty per garment
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
