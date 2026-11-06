@@ -164,6 +164,7 @@ T-3412 — Seeded body and face variation for every person from MakeHuman morphs
 T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 T-3414 — Period hairstyles and beards as strand cards with sheen, and wet eyes with a corneal highlight
 T-3415 — Everyday actions for people (talking in pairs, tipping a hat, sweeping, carrying, leaning) and a walk with arm swing and coat-tail sway
+T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
