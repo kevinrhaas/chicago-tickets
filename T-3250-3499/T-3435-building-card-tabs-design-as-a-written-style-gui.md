@@ -1,7 +1,7 @@
 ---
 id: T-3435
 title: Building card tabs: Design as a written style guide for every building, Story renamed Timeline, Sources grouped by source, a Details tab for grades, one-row icon tab bar
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1796
 claimed_by: run 11/6/2026, 3:25:20 PM CT
 blocked_on: null
 needs_bake: false
