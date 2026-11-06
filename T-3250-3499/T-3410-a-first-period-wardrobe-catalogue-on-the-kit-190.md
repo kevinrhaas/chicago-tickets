@@ -1,7 +1,7 @@
 ---
 id: T-3410
 title: A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs
-state: claimed
+state: blocked-tech
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -12,7 +12,7 @@ opened: 2026-11-06
 closed: null
 pr: null
 claimed_by: run 11/6/2026, 1:16:39 AM CT
-blocked_on: null
+blocked_on: T-3412 (seeded bodies, including the women the maid and lady need; claimed in another thread) and T-3417 (the reference photographs per role and year this catalogue must be read from). The kit (T-3409, PR 1746) is ready; only the two seated male drivers exist as bodies today.
 needs_bake: false
 closed_at: null
 claimed_run: null

@@ -156,7 +156,6 @@ T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubie
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 T-3404 — Make every person in town interactive: a name tag when you look at them, Find for anyone standing, Follow, and a turned look as you come near
-T-3410 — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs
 T-3412 — Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
 T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 T-3414 — Period hairstyles and beards as strand cards with sheen, and wet eyes with a corneal highlight
@@ -215,3 +214,5 @@ T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, col
 T-3408 — Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
 T-3411 — 1835 brick buildings batch as one relief group: phone smoke part 8-9 red after T-3387
 T-3418 — Print export: uniform roof courses on every roof (Glessner 3MF)
+# BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
+#     waits: T-3412 (seeded bodies, including the women the maid and lady need; claimed in another thread) and T-3417 (the reference photographs per role and year this catalogue must be read from). The kit (T-3409, PR 1746) is ready; only the two seated male drivers exist as bodies today.
