@@ -1,7 +1,7 @@
 ---
 id: T-3423
 title: A woman's body on the shared human rig: the hm08 base with MakeHuman's female targets, same skeleton, clips and LODs as the men, inside the phone people pool
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: claude-o9chtl 11/6/2026, 9:21:37 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-06T15:21:38.711Z
 decision: null
 decision_answer: null
 ---
