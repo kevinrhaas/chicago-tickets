@@ -1,7 +1,7 @@
 ---
 id: T-3411
 title: 1835 brick buildings batch as one relief group: phone smoke part 8-9 red after T-3387
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1749
 claimed_by: run 11/6/2026, 12:05:45 AM CT
 blocked_on: null
 needs_bake: false
