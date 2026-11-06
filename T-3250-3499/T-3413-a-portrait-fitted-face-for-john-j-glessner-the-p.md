@@ -1,7 +1,7 @@
 ---
 id: T-3413
 title: A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/6/2026, 1:33:27 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-06T07:33:28.557Z
 decision: null
 decision_answer: null
 ---
