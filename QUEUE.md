@@ -179,7 +179,6 @@ T-3088 — Refine the horse anatomy and near silhouette against cleared views
 T-3089 — Qualify horse surface materials and portable distance exports
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
-T-2804 — Fit portable-human riders and drivers to horses and vehicles
 T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)

@@ -1,7 +1,7 @@
 ---
 id: T-2804
 title: Fit portable-human riders and drivers to horses and vehicles
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2798
 opened: 2026-10-18
-closed: null
+closed: 2026-11-05
 pr: 1733
 claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 for texture on Hans's clothing) 11/5/2026, 2:11:48 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-06T00:05:30Z
 claimed_run: null
 claimed_at: 2026-11-05T20:11:49.560Z
 decision: null
