@@ -1,7 +1,7 @@
 ---
 id: T-3425
 title: 1835 boot payload over its 39.6 MB budget (39.978 MB on dev 2ab4f2c3d): attribute the growth since T-3300 and cut or re-argue
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3375
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1764
 claimed_by: run 11/6/2026, 7:55:38 AM CT
 blocked_on: null
 needs_bake: false
