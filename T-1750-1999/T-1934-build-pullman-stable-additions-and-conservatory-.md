@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 1:17:32 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42275101954
-claimed_at: 2026-11-06T19:17:32.775Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -170,3 +170,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-03** (claim of run 11/3/2026, 11:25:12 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41678526668): PR #1668 (resume: gate still running, nothing red) builds the stack Taylor's 16554 shows behind the house's rear face between its two rear dormers (chimneys.stacks[3], place reconstructed against the dormers, L-pullman-1729-rear-stack-1934); the conservatory's 16554 record now matches. Still open: 16555's house corner, diagnosed in its record as the house's placement — the camera fits the wing's west end (the house's east wall) at u -12.12 where the scene stands the house's east wall at -11.21, 0.91 m east, and the 1894 plate reads the same 1 m — which belongs to the house's own record (T-1881). Also restamps 2009 Prairie's stale input hash left on dev by #1658. Not split: the gate stays on this ticket.
 
 **Released 2026-11-04** (claim of run 11/4/2026, 11:44:15 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41975258336): nothing of its own left to build: every estate record matches but conservatory/taylor_16555_west_front, whose one open item is the house's east wall standing 0.91 m east of where 16555 and the 1894 plate put it (camera anchor u -12.12 vs scene -11.21) — the house record's (T-1881), which a live run holds (PR #1707)
+
+**Released 2026-11-06** (claim of run 11/6/2026, 1:17:32 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42275101954): nothing of its own left to build: every estate record matches but conservatory/taylor_16555_west_front, whose one open item is the house's east wall 0.91 m off (T-1881's house record, claimed by a live sibling run now)
