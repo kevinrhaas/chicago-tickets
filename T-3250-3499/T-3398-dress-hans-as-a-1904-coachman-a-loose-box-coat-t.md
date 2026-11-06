@@ -1,7 +1,7 @@
 ---
 id: T-3398
 title: Dress Hans as a 1904 coachman: a loose box coat that drapes, a top hat, and skin with detail
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1739
 claimed_by: run 11/5/2026, 10:27:01 PM CT
 blocked_on: null
 needs_bake: false
