@@ -207,3 +207,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3417 reference photographs for its roles (only the 1904 coachman set exists so far), and the owner's call on a female body (no women exist on the shared rig; T-3412 varies only the two male bodies), asked in thread 'Make Hans and all humans look photographic' on 2026-11-06.
 T-3422 — Hans meets his photographs: the box coat stands off his chest and arms, its skirt laps closed over the knees in gathered folds, pale driving gloves
+T-3423 — A woman's body on the shared human rig: the hm08 base with MakeHuman's female targets, same skeleton, clips and LODs as the men, inside the phone people pool
