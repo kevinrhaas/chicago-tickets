@@ -31,6 +31,7 @@ T-3427 — THREE.Object3D.add page error at smoke stage 5 on the content build's
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
+T-3431 — Tickets settle workflow fails every run: T-3335/T-3341 carry epic 1812 and T-3343 epic PRAIRIE, which ticket.mjs EPICS does not list, so merged PRs (e.g. #1771/T-3427) stay in review
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
