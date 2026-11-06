@@ -1,7 +1,7 @@
 ---
 id: T-3400
 title: Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1748
 claimed_by: run 11/5/2026, 10:44:09 PM CT
 blocked_on: null
 needs_bake: false
