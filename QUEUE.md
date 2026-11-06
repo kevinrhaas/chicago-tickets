@@ -159,7 +159,6 @@ T-3414 — Period hairstyles and beards as strand cards with sheen, and wet eyes
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
 T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
-T-3417 — A paired-still acceptance rig for people: reference photographs per role and year, fixed 3 m and 10 m stills beside them, desktop and phone
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
