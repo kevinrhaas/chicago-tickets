@@ -216,3 +216,4 @@ T-3401 — Lee's Place 1812 haystacks look like real hay: shaggy thatched textur
 T-3405 — Fort Dearborn building-by-building jaunt walks by default, and a chosen Fly is honoured on every jaunt leg
 T-3408 — Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
 T-3411 — 1835 brick buildings batch as one relief group: phone smoke part 8-9 red after T-3387
+T-3418 — Print export: uniform roof courses on every roof (Glessner 3MF)
