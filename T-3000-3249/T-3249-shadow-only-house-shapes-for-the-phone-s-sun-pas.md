@@ -1,7 +1,7 @@
 ---
 id: T-3249
 title: Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-29
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/6/2026, 7:01:10 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42221407883
+claimed_at: 2026-11-06T13:01:10.986Z
 decision: null
 decision_answer: null
 ---
