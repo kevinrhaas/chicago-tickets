@@ -1,7 +1,7 @@
 ---
 id: T-3412
 title: Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1755
 claimed_by: run 11/6/2026, 12:27:42 AM CT
 blocked_on: null
 needs_bake: false
