@@ -1,7 +1,7 @@
 ---
 id: T-3273
 title: Pullman conservatory at 1800 Calumet: glass panes, planted interior, walk tone and curve (owner, 2026-10-31)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-31
 closed: null
-pr: null
+pr: 1762
 claimed_by: run 11/6/2026, 7:07:44 AM CT
 blocked_on: null
 needs_bake: false
