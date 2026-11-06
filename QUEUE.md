@@ -199,3 +199,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
+T-3396 — Glessner's stable cross ridge back in line with the north wing's ridge (owner, 2026-11-06)
