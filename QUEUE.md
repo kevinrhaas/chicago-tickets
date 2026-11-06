@@ -124,9 +124,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3377 — Jaunts open in their own time of day and season: a jaunt-level default hour and season, set on start and given back at the end, chosen for every 1904 and 1835 jaunt
-T-3378 — A nighttime haunted Prairie Avenue jaunt: the street's ghost legends (Kimball, Field Jr., Keith, Pullman's grave, Richardson at Glessner, the 1812 battle ground) told at night in the fall
-T-3379 — 1904 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts about the houses passed on the way
 
 # --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
 # ---    they can be worked by separate agents later").
@@ -141,7 +138,6 @@ T-2379 — Match the Lake House under construction to its pictures
 T-2380 — Match the log jail to its pictures
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
-T-3380 — 1835 jaunts retold as stories: scene-setting openings, people introduced, stops that lead into the next, facts along the way
 
 # --- 5. 1812 — the 1812 scene's open work, one band for its own agent (owner, 2026-11-05).
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
