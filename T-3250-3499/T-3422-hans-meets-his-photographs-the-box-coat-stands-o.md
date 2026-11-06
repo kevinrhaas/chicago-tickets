@@ -1,7 +1,7 @@
 ---
 id: T-3422
 title: Hans meets his photographs: the box coat stands off his chest and arms, its skirt laps closed over the knees in gathered folds, pale driving gloves
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1756
 claimed_by: run 11/6/2026, 3:29:16 AM CT
 blocked_on: null
 needs_bake: false
