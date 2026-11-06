@@ -215,4 +215,4 @@ T-3408 — Measure where 1904's phone memory goes and free a people pool of abou
 T-3411 — 1835 brick buildings batch as one relief group: phone smoke part 8-9 red after T-3387
 T-3418 — Print export: uniform roof courses on every roof (Glessner 3MF)
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
-#     waits: T-3412 (seeded bodies, including the women the maid and lady need; claimed in another thread) and T-3417 (the reference photographs per role and year this catalogue must be read from). The kit (T-3409, PR 1746) is ready; only the two seated male drivers exist as bodies today.
+#     waits: T-3417 reference photographs for its roles (only the 1904 coachman set exists so far), and the owner's call on a female body (no women exist on the shared rig; T-3412 varies only the two male bodies), asked in thread 'Make Hans and all humans look photographic' on 2026-11-06.

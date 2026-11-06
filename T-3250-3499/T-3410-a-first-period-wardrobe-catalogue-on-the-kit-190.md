@@ -12,7 +12,7 @@ opened: 2026-11-06
 closed: null
 pr: null
 claimed_by: run 11/6/2026, 1:16:39 AM CT
-blocked_on: T-3412 (seeded bodies, including the women the maid and lady need; claimed in another thread) and T-3417 (the reference photographs per role and year this catalogue must be read from). The kit (T-3409, PR 1746) is ready; only the two seated male drivers exist as bodies today.
+blocked_on: T-3417 reference photographs for its roles (only the 1904 coachman set exists so far), and the owner's call on a female body (no women exist on the shared rig; T-3412 varies only the two male bodies), asked in thread 'Make Hans and all humans look photographic' on 2026-11-06.
 needs_bake: false
 closed_at: null
 claimed_run: null
