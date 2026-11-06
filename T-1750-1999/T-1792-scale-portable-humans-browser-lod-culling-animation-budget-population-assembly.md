@@ -58,3 +58,12 @@ T-2672 policy and the portable asset/export/runtime prerequisites still apply. P
 Actual fixture desktop/mobile 12 cases pass functional skin/morph, scheduling and logical resource cleanup, including disposal during pending parse. One mobile framing gap remains. Outside-app source archive follows; no named-resident/photo or town admission acceptance. See evidence/period-transport-2026-10-18/parallel-refinement-2026-10-19/ and CHECKPOINT.md. PR1041 remains draft; conditional dev merge awaits green final-head gates.
 
 **Released 2026-10-21** (claim of parallel human population budgets 10/18/2026, 10:06:51 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## The crowd stage of the photographic-humans plan (owner, 2026-11-06)
+
+Kevin agreed the plan "Photographic humans: the path" (https://claude.ai/artifact/V87s9knPesndaBs2C5aLgq):
+"Agreed on your recommendations, proceed". Its stage 6, a crowd at a phone's cost, belongs to this ticket:
+far people as impostor cards from one shared atlas, middle-distance people as instanced animated
+meshes sharing one body, and full skinned, draped figures only near the camera. It comes after the
+people memory pool (T-3408) is freed, and after a handful of people are done fully
+(T-3409, T-3410, T-3412..T-3417).
