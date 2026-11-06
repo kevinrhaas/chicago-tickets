@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 7:28:39 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42222800796
-claimed_at: 2026-11-06T13:28:39.582Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -163,3 +163,5 @@ match record's open differences name both):
 **Released 2026-10-31** (claim of run 10/31/2026, 11:14:29 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41217563865): PR #1533 (resume, waiting only on the chicago-4d-check gate; locally check.sh 1113/1113 on the dev-merged tree and smoke part 3 green at desktop and mobile) pitches the east range's 18th Street end at 60 degrees and stands HABS photograph 2's pale stone stack on its apex — K01 wings gain end_pitch_deg and stacks (HABS 2 'tall stack behind the frontispiece's gable' now fixed; Taylor and HABS 1 cannot see it). The image gate still has 3 open differences on the three Kimball match records (HABS 1 south cornice heights; HABS 2 frontispiece's place; Taylor flank section depth); more than one run holds them, and a sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-10-31** (claim of run 10/31/2026, 5:14:05 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41246502208): PR #1545 (resume, waiting only on the chicago-4d-check gate; locally check.sh green in parts on the dev-merged tree, smoke part 3 green at desktop and mobile) stands the 18th Street section at the 1911 sheet's 0.1 m as a shallow projection, 6.97 m to the tower, its corner, lights, gable and corner round carried back along the Taylor camera's rays (Taylor 'flank section depth' now fixed; the Taylor record now matches). The image gate still has 2 open differences on the Kimball match records (HABS 1 south cornice heights; HABS 2 frontispiece's place); a sign-off is never split, so the rest goes back to the queue.
+
+**Released 2026-11-06** (claim of run 11/6/2026, 7:28:39 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42222800796): PR #1766 (merged) slates the three hooded dormers' shelves, read as each hood's own dark eave (Taylor print, HABS 1 and 2), and raises the street hood to 1.8 m (Taylor). Re-reading the Prairie front on the owner's 2026-11-05 call found a stone third storey with one light behind the bow's balcony, its eave triangulated from the Taylor print and HABS 2 at about 11.1-11.75 m (v 3.9-5.85), where the build carries mansard slate down to the cornice; it is open in all three match records, and the Taylor curb-and-deck item is reopened (35-50 px, about 0.7-0.9 m; HABS 2's camera sits about 55 px off at that corner, and HABS 1 shows sky where the build's front mansard rises). No kit piece builds a wall dormer that wide yet, so the third storey is the next run's; a sign-off is never split, so the rest goes back to the queue.
