@@ -1,7 +1,7 @@
 ---
 id: T-3419
 title: Arms at rest, hands on hips or behind the back, a touch of the hat brim to a close visitor, and a walk with arm swing
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3415
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/6/2026, 1:15:54 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-06T07:15:55.814Z
 decision: null
 decision_answer: null
 ---
