@@ -1,7 +1,7 @@
 ---
 id: T-3386
 title: First Presbyterian Church (2029 Indiana Avenue, 1904) walls in their real material, read off its photographs: the flat untextured red wall given the right brick or stone fabric
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-05
 pr: 1730
 claimed_by: thread:Vary Prairie Avenue face brick 11/5/2026, 1:17:21 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T02:21:30Z
 claimed_run: null
 claimed_at: 2026-11-05T19:17:22.498Z
 decision: null
