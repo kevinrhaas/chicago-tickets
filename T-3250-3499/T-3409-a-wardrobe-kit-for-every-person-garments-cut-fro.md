@@ -1,7 +1,7 @@
 ---
 id: T-3409
 title: A wardrobe kit for every person: garments cut from patterns, stood off by their cloth's loft, loose parts draped onto the figure, spring-bone tails, a source or liberty per garment
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1746
 claimed_by: run 11/6/2026, 12:10:52 AM CT
 blocked_on: null
 needs_bake: false
