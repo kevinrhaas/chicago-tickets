@@ -155,9 +155,7 @@ T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evi
 T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-T-3402 — Bring standing and walking people to life: breathing, weight shifts, gaze toward the visitor and street, natural blinks
 T-3404 — Make every person in town interactive: a name tag when you look at them, Find for anyone standing, Follow, and a turned look as you come near
-T-3409 — A wardrobe kit for every person: garments cut from patterns, stood off by their cloth's loft, loose parts draped onto the figure, spring-bone tails, a source or liberty per garment
 T-3410 — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs
 T-3412 — Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
 T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
@@ -214,8 +212,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
-T-3401 — Lee's Place 1812 haystacks look like real hay: shaggy thatched texture, fed-from and settled shapes, varied stacks
-T-3405 — Fort Dearborn building-by-building jaunt walks by default, and a chosen Fly is honoured on every jaunt leg
 T-3408 — Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
 T-3411 — 1835 brick buildings batch as one relief group: phone smoke part 8-9 red after T-3387
 T-3418 — Print export: uniform roof courses on every roof (Glessner 3MF)

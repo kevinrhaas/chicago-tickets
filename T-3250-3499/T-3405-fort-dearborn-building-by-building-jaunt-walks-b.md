@@ -1,7 +1,7 @@
 ---
 id: T-3405
 title: Fort Dearborn building-by-building jaunt walks by default, and a chosen Fly is honoured on every jaunt leg
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-06
 pr: 1747
 claimed_by: interactive thread 11/5/2026, 11:29:09 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T07:15:43Z
 claimed_run: null
 claimed_at: 2026-11-06T05:29:10.963Z
 decision: null
