@@ -153,7 +153,6 @@ T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evi
 T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-T-3412 — Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
 T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 T-3414 — Period hairstyles and beards as strand cards with sheen, and wet eyes with a corneal highlight
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
@@ -205,7 +204,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3417 reference photographs for its roles (only the 1904 coachman set exists so far), and the owner's call on a female body (no women exist on the shared rig; T-3412 varies only the two male bodies), asked in thread 'Make Hans and all humans look photographic' on 2026-11-06.
 T-3422 — Hans meets his photographs: the box coat stands off his chest and arms, its skirt laps closed over the knees in gathered folds, pale driving gloves
