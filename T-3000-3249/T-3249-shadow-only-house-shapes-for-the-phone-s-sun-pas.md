@@ -1,7 +1,7 @@
 ---
 id: T-3249
 title: Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-29
 closed: null
-pr: null
+pr: 1765
 claimed_by: run 11/6/2026, 7:01:10 AM CT
 blocked_on: null
 needs_bake: true
