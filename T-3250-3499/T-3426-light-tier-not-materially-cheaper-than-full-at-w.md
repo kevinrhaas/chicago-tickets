@@ -1,7 +1,7 @@
 ---
 id: T-3426
 title: light tier not materially cheaper than full at West prairie (mobile 4100 vs 4498, desktop 4981 vs 5445): price the stand by layer and win the draws back at light
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3375
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1772
 claimed_by: run 11/6/2026, 8:22:37 AM CT
 blocked_on: null
 needs_bake: false
