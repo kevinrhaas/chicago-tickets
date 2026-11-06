@@ -1,7 +1,7 @@
 ---
 id: T-3404
 title: Make every person in town interactive: a name tag when you look at them, Find for anyone standing, Follow, and a turned look as you come near
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-06
 pr: 1753
 claimed_by: run 11/5/2026, 11:22:26 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T08:06:49Z
 claimed_run: null
 claimed_at: 2026-11-06T05:22:27.321Z
 decision: null

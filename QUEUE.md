@@ -143,7 +143,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
-T-3403 — 1812 battle site: rejoin the lake shore at Twelfth Street, raise Heald's high sand bank and its cover, and place his small elevation in the open prairie
 T-3407 — 1812: plant the commanding officer's garden south of the fort (Whistler's beds and walks, mid-August crops) and hang a garden gate a visitor can open and walk through
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
@@ -155,7 +154,6 @@ T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evi
 T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-T-3404 — Make every person in town interactive: a name tag when you look at them, Find for anyone standing, Follow, and a turned look as you come near
 T-3412 — Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
 T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 T-3414 — Period hairstyles and beards as strand cards with sheen, and wet eyes with a corneal highlight
@@ -212,6 +210,5 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
 T-3408 — Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
-T-3411 — 1835 brick buildings batch as one relief group: phone smoke part 8-9 red after T-3387
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3417 reference photographs for its roles (only the 1904 coachman set exists so far), and the owner's call on a female body (no women exist on the shared rig; T-3412 varies only the two male bodies), asked in thread 'Make Hans and all humans look photographic' on 2026-11-06.
