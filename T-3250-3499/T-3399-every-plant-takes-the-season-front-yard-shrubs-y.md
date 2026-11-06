@@ -1,7 +1,7 @@
 ---
 id: T-3399
 title: Every plant takes the Season: front-yard shrubs, yard trees, ivy, Glessner's vines and the 1835 yards turn in fall, leaf in spring and go bare in winter
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-06
 pr: 1740
 claimed_by: run 11/5/2026, 10:34:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T06:23:36Z
 claimed_run: null
 claimed_at: 2026-11-06T04:34:14.048Z
 decision: null

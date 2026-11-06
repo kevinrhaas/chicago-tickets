@@ -144,7 +144,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 T-3403 — 1812 battle site: rejoin the lake shore at Twelfth Street, raise Heald's high sand bank and its cover, and place his small elevation in the open prairie
-T-3406 — 1812 story jaunts: every stop opens with how long since the last one (Four hours later, Four months later)
 T-3407 — 1812: plant the commanding officer's garden south of the fort (Whistler's beds and walks, mid-August crops) and hang a garden gate a visitor can open and walk through
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
@@ -213,7 +212,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
-T-3399 — Every plant takes the Season: front-yard shrubs, yard trees, ivy, Glessner's vines and the 1835 yards turn in fall, leaf in spring and go bare in winter
 T-3401 — Lee's Place 1812 haystacks look like real hay: shaggy thatched texture, fed-from and settled shapes, varied stacks
 T-3405 — Fort Dearborn building-by-building jaunt walks by default, and a chosen Fly is honoured on every jaunt leg
 T-3408 — Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
