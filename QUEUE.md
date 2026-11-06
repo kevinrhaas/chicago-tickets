@@ -28,7 +28,6 @@
 # Owner, 2026-11-05 re-rank: dev's red content-build smoke and the phone's shadow-caster cut, moved up from 8b's foot and band 7.
 T-3426 — light tier not materially cheaper than full at West prairie (mobile 4100 vs 4498, desktop 4981 vs 5445): price the stand by layer and win the draws back at light
 T-3427 — THREE.Object3D.add page error at smoke stage 5 on the content build's baked mirror (does not reproduce unbaked)
-T-3249 — Shadow-only house shapes for the phone's sun pass: simplified casters made at bake time
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
