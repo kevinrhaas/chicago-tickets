@@ -1,7 +1,7 @@
 ---
 id: T-3417
 title: A paired-still acceptance rig for people: reference photographs per role and year, fixed 3 m and 10 m stills beside them, desktop and phone
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1754
 claimed_by: run 11/6/2026, 12:34:53 AM CT
 blocked_on: null
 needs_bake: false
