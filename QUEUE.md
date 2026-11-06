@@ -200,3 +200,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-3396 — Glessner's stable cross ridge back in line with the north wing's ridge (owner, 2026-11-06)
+T-3397 — 1936 Prairie's belvedere tower reads as its photograph's, not a flared cap on a plain shaft
