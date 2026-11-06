@@ -204,3 +204,4 @@ T-3397 — 1936 Prairie's belvedere tower reads as its photograph's, not a flare
 T-3398 — Dress Hans as a 1904 coachman: a loose box coat that drapes, a top hat, and skin with detail
 T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
 T-3399 — Every plant takes the Season: front-yard shrubs, yard trees, ivy, Glessner's vines and the 1835 yards turn in fall, leaf in spring and go bare in winter
+T-3401 — Lee's Place 1812 haystacks look like real hay: shaggy thatched texture, fed-from and settled shapes, varied stacks
