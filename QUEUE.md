@@ -202,7 +202,5 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
-T-3432 — Jaunts fly to the start, open on a welcome page, show only readable road notes, mark the last stop and fold Outing complete
-T-3433 — Glessner: east wing court slope open beside the middle stack (copper lean-to tile cut ran to the wing ridge); print drops vine stems
 T-3435 — Building card tabs: Design as a written style guide for every building, Story renamed Timeline, Sources grouped by source, a Details tab for grades, one-row icon tab bar
 T-3436 — Go to: 1904 viewpoints with short names and icons, new Pullman, church and Field views, and a Photos list of every matched photo view

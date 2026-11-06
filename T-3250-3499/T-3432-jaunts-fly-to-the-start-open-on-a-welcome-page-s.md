@@ -1,7 +1,7 @@
 ---
 id: T-3432
 title: Jaunts fly to the start, open on a welcome page, show only readable road notes, mark the last stop and fold Outing complete
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-06
-closed: null
+closed: 2026-11-06
 pr: 1790
 claimed_by: run 11/6/2026, 2:45:27 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T23:21:20Z
 claimed_run: null
 claimed_at: 2026-11-06T20:45:28.644Z
 decision: null
