@@ -155,6 +155,7 @@ T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubie
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 T-3402 — Bring standing and walking people to life: breathing, weight shifts, gaze toward the visitor and street, natural blinks
+T-3404 — Make every person in town interactive: a name tag when you look at them, Find for anyone standing, Follow, and a turned look as you come near
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
