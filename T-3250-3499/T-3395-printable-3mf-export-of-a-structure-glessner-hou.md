@@ -1,7 +1,7 @@
 ---
 id: T-3395
 title: Printable 3MF export of a structure (Glessner House first): watertight standalone solid for FDM
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1735
 claimed_by: run 11/5/2026, 5:13:37 PM CT
 blocked_on: null
 needs_bake: false
