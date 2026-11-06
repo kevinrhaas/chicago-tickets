@@ -1,7 +1,7 @@
 ---
 id: T-3406
 title: 1812 story jaunts: every stop opens with how long since the last one (Four hours later, Four months later)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1741
 claimed_by: run 11/5/2026, 11:29:33 PM CT
 blocked_on: null
 needs_bake: false
