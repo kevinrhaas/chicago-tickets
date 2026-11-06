@@ -1,7 +1,7 @@
 ---
 id: T-3426
 title: light tier not materially cheaper than full at West prairie (mobile 4100 vs 4498, desktop 4981 vs 5445): price the stand by layer and win the draws back at light
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3375
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/6/2026, 8:22:37 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42231221995
+claimed_at: 2026-11-06T14:22:38.761Z
 decision: null
 decision_answer: null
 ---
