@@ -1,7 +1,7 @@
 ---
 id: T-3427
 title: THREE.Object3D.add page error at smoke stage 5 on the content build's baked mirror (does not reproduce unbaked)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3375
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1771
 claimed_by: run 11/6/2026, 9:15:41 AM CT
 blocked_on: null
 needs_bake: false
