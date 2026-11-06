@@ -25,6 +25,13 @@ Period hairstyles and beards as strand cards with sheen, and wet eyes with a cor
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
+1. Every portable human with a hair material wears **strand-card hair** at its near levels (LOD0, LOD1): cards grown at load from that body's own scalp, skinned to its own bones, so they move with the head. No texture and no new file: each strand's coverage, taper and tip are computed in the shader, and the cards take a two-lobe strand sheen along their own direction. The shell stays beneath as the scalp's colour; LOD2 and LOD3 keep the shell alone.
+2. **A period cut per era**, by data, not code: 1835 men longer, brushed forward at the temples, with side whiskers; 1904 men short back and sides with a side part. **Beards and moustaches** are a per-person choice in a recorded table, each with its grade (reconstructed unless a source is cited); Hans and Otis are set, and every choice is a liberty line.
+3. **Under a hat, hair stays under it**: with Hans's top hat on, no strand shows through its crown or band; hair shows below the brim at the nape and over the ears, as the coachman pictures show.
+4. **Wet eyes with a corneal highlight**: the iris sits under a clear domed cornea that throws a small sharp highlight of the sun or sky, and the lids' edge reads wet.
+5. **Cost**: 1904 phone memory stays under its 400 MB line (CI memory green). Phones may draw cards only at LOD0 if that is needed.
+6. **Evidence**: before/after close-ups of Hans (1904) and Otis (1835) in the live town, and a T-3417 rig reshoot of Hans where the checklist's hat-and-hair item still reads. Gate test for the cards, the table and the eyes; smoke by parts with no page error.
+
 ## Source (owner, 2026-11-06)
 
 Filed from the plan "Photographic humans: the path" (https://claude.ai/artifact/V87s9knPesndaBs2C5aLgq).
