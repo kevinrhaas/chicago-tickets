@@ -207,4 +207,3 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 T-3392 — Glessner carriage way: stray stone slab across the Prairie mouth at street grade
 T-3393 — 1700-1706 Prairie's street front to the photographs (owner, 2026-11-05: the front is missing its street fence): the low stone curb on the street line across the open middle between the two walks, in line with the railings' own, as Chicagology's and the GHM Christmas photographs show
-T-3394 — 1600 Prairie east side: street borders — 1637's fence out to the street line with a gate at its walk, stone coping across the open fronts 1601-1625
