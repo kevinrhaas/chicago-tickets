@@ -1,7 +1,7 @@
 ---
 id: T-3408
 title: Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1751
 claimed_by: run 11/6/2026, 12:29:04 AM CT
 blocked_on: null
 needs_bake: false
