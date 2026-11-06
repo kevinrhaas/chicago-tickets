@@ -206,4 +206,3 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3428 — Brightness setting reaches 4x and lifts shaded facades without blowing out the sky
 T-3429 — Winter street elms draw as bare round branches, not brown twig-card fans
-T-3430 — People directory in the Navigator: search people and households, open their cards, Go to house
