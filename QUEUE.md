@@ -157,7 +157,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 T-3412 — Seeded body and face variation for every person from MakeHuman morphs: height, build, age, posture and face, no two neighbours alike
 T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 T-3414 — Period hairstyles and beards as strand cards with sheen, and wet eyes with a corneal highlight
-T-3419 — Arms at rest, hands on hips or behind the back, a touch of the hat brim to a close visitor, and a walk with arm swing
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
 T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
