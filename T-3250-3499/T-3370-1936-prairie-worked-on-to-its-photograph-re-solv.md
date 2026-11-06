@@ -1,7 +1,7 @@
 ---
 id: T-3370
 title: 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3367
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 4:40:34 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42304061143
-claimed_at: 2026-11-06T22:40:35.104Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -41,3 +41,5 @@ T-3367 carries an `## Image gate` section. The last of these pieces to close is 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
 **Released 2026-11-06** (claim of run 11/6/2026, 1:45:19 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42279624446): Its asks are built in kevinrhaas/chicago#1789 (camera re-solved at 12 px rms, the corner settled at x 1425, verandah s 0-7.6, tower 2.0 m north, stacks placed, deck height kept), handed on with resume while its PR gate runs: merge that first, do not rebuild it. done was refused only by the image gate T-1901 passes down to its last piece: 1936 Prairie still differs from its photograph in 6 open items written in its match record (belvedere pilasters, window dressings, the south side's full-height face with paired windows, the dining range's window count, the stacks' caps and the left one's height, the deck's extent), none of them this ticket's asks.
+
+**Released 2026-11-06** (claim of run 11/6/2026, 4:40:34 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42304061143): #1789 merged (a9acfbc): camera re-solved at 12 px rms, south-east corner settled at x 1425, tower 2.0 m north, verandah 0-7.6 m on three arches, south stacks re-placed, deck height confirmed at 17.0 m. done is refused only by the image gate T-1901 passes to its last piece: chicagology_photo still says differs, and the gaps still open are listed in the match record (the left stack's top about 0.8 m low, no deck rail west of the right stack, the south face's full-height pair of windows against the build's bay, the dining range's single/single/pair windows, the belvedere's pilasters and the window hoods). The next run on T-3370 works those from the record.
