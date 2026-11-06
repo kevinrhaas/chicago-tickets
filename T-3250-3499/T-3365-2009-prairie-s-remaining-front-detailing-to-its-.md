@@ -1,7 +1,7 @@
 ---
 id: T-3365
 title: 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1914
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 1:18:16 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42275101954
-claimed_at: 2026-11-06T19:18:16.686Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -39,3 +39,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1914 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-06** (claim of run 11/6/2026, 1:18:16 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42275101954): PR #1786 (resume: gate still running, nothing red) builds 2009 Prairie's carved crest on a flat-topped gable (K01 shaped_gable finial form 'crest') and the door's three pinnacles (arch.pilasters.pinnacles); both items fixed in the chicagology_photo record. Still open there: the near stack's place and corbelled cap (needs an outside-wall stack on a hip; one camera cannot fix its depth), the base's top (the print's rock face to ~1.25 m and smooth band to ~1.9 m lie outside the K02 sandstone_brown/dressed_trim ranges), the oriel's carved apron, the windows' hoods and the gable's pendant, the gable's south foot, and Monroe's 1896 plate camera. Not split: the gate stays on T-1914.
