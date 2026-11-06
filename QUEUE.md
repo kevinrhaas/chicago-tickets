@@ -152,7 +152,6 @@ T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evi
 T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-T-3413 — A portrait-fitted face for John J. Glessner, the pilot of named likenesses, graded by its source
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
 T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
