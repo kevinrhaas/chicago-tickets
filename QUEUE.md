@@ -55,7 +55,6 @@ T-1890 — Finish 1801 Kimball corner mansion architecture
 T-3354 — 1919 Prairie's rear ranges' roofs and place read again against all three Gatlin plates: the pinnacled dormers between the gables on the slope the plates show facing the street, the third smaller gable at the flank's far end, the quoined block at the middle range's corner, the canted bay's own corners, and the 1912 Blue Book plate's camera solved
 T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
 T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
-T-3387 — Period brick for 1835 brick buildings and 1812 chimneys: the K03 palette's earlier-era entries (hand-made soft-mud brick) and the hook a non-K01 generator uses to wear one
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
 # Umbrellas T-0475, T-0476 and T-0477 were closed as split into the T-1837 children below (2026-10-16); their files keep the scope.
