@@ -143,7 +143,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
-T-3407 — 1812: plant the commanding officer's garden south of the fort (Whistler's beds and walks, mid-August crops) and hang a garden gate a visitor can open and walk through
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
@@ -208,6 +207,5 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
 T-3400 — Photographic skin and hair on every person: pores, fine wrinkles, colour variation, soft subsurface glow, strand sheen
-T-3408 — Measure where 1904's phone memory goes and free a people pool of about 12 MB, without degrading desktop
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3417 reference photographs for its roles (only the 1904 coachman set exists so far), and the owner's call on a female body (no women exist on the shared rig; T-3412 varies only the two male bodies), asked in thread 'Make Hans and all humans look photographic' on 2026-11-06.

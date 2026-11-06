@@ -1,7 +1,7 @@
 ---
 id: T-3407
 title: 1812: plant the commanding officer's garden south of the fort (Whistler's beds and walks, mid-August crops) and hang a garden gate a visitor can open and walk through
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-06
 pr: 1745
 claimed_by: run 11/5/2026, 11:36:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T09:22:38Z
 claimed_run: null
 claimed_at: 2026-11-06T05:36:14.323Z
 decision: null
