@@ -1,7 +1,7 @@
 ---
 id: T-3414
 title: Period hairstyles and beards as strand cards with sheen, and wet eyes with a corneal highlight
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1763
 claimed_by: run 11/6/2026, 6:10:09 AM CT
 blocked_on: null
 needs_bake: false
