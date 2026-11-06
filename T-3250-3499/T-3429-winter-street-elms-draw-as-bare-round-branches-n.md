@@ -1,7 +1,7 @@
 ---
 id: T-3429
 title: Winter street elms draw as bare round branches, not brown twig-card fans
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-06
-closed: null
+closed: 2026-11-06
 pr: 1777
 claimed_by: run 11/6/2026, 10:30:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-06T19:27:05Z
 claimed_run: null
 claimed_at: 2026-11-06T16:30:19.732Z
 decision: null
