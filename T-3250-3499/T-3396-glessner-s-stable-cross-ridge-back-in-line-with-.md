@@ -1,7 +1,7 @@
 ---
 id: T-3396
 title: Glessner's stable cross ridge back in line with the north wing's ridge (owner, 2026-11-06)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-05
-closed: null
+closed: 2026-11-05
 pr: 1738
 claimed_by: run 11/5/2026, 9:59:05 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-06T05:24:11Z
 claimed_run: null
 claimed_at: 2026-11-06T03:59:06.804Z
 decision: null
