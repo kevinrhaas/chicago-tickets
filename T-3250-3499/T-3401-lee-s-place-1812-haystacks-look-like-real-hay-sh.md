@@ -1,7 +1,7 @@
 ---
 id: T-3401
 title: Lee's Place 1812 haystacks look like real hay: shaggy thatched texture, fed-from and settled shapes, varied stacks
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-05
 closed: null
-pr: null
+pr: 1742
 claimed_by: thread: Make 1812 haystacks look real 11/5/2026, 10:52:26 PM CT
 blocked_on: null
 needs_bake: false
