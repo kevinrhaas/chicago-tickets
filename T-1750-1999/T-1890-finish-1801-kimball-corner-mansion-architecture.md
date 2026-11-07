@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-07
 pr: 1804
 claimed_by: run 11/6/2026, 10:09:03 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-07T10:23:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42336724464
 claimed_at: 2026-11-07T04:09:04.161Z
 decision: null

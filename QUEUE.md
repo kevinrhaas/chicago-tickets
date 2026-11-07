@@ -46,7 +46,6 @@
 T-1881 — Finish 1729 Pullman main house architecture
 T-1934 — Refine Pullman stable, additions and conservatory estate
 # Owner, 2026-11-05: "1801 prairie should also reenter photo matching the facade on prairie is still way off". Reopened in place (its ## Reopened section).
-T-1890 — Finish 1801 Kimball corner mansion architecture
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
 T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
