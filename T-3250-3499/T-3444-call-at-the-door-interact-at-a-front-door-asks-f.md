@@ -1,7 +1,7 @@
 ---
 id: T-3444
 title: Call at the door: Interact at a front door asks for someone of the household, who comes, opens the door, comes down the steps to you, and walks with you around the house or into Glessner's courtyard
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-06
-closed: null
+closed: 2026-11-07
 pr: 1822
 claimed_by: run 11/6/2026, 10:59:46 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T09:09:54Z
 claimed_run: null
 claimed_at: 2026-11-07T04:59:47.069Z
 decision: null
