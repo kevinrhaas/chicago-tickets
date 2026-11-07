@@ -1,7 +1,7 @@
 ---
 id: T-3474
 title: 1812 yard goods photographic: real wood surfaces on woodpiles, chopping blocks and log heaps, and the 1812 woodpiles shown on phones
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 12:24:21 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T18:24:22.566Z
 decision: null
 decision_answer: null
 ---
