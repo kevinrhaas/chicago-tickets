@@ -24,3 +24,7 @@ decision_answer: null
 1812 soldiers at their duties: talking groups that break up and re-form, sentries walking their beat, a fatigue party in rank, no man left standing loose on the parade.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Source (owner, 2026-11-07)
+
+Of the T-3462 soldiers on dev, with a screenshot of the parade: "the soldiers in 1812 are standing in the dirt in the fort" — "and maybe when placing them at this point they a few could be in groups talking to each other and then they break up and come back together" — "like all of them standing around aimlessly is awkward".
