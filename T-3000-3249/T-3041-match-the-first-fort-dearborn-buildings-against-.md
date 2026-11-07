@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Kevin thread: log, lower cupolas 11/7/2026, 12:37:40 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T18:37:40.540Z
 decision: null
 decision_answer: null
 ---
