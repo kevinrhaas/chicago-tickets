@@ -206,7 +206,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
-T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
 T-3476 — 1835: every dooryard garden its own size, beds and fence, sized to the house and household
 T-3477 — 1812: plant the settlement's other gardens and fields (Kinzie, Lee's Place, the forks, the sutler) beside the officer's
 T-3478 — Stand-in likenesses: a face fitted to a stand-in's photograph when none of the person is known, labelled on the card and the picture
@@ -218,4 +217,3 @@ T-3486 — Mattie Williamson and Mary Reynolds: faces fitted to a photograph of 
 T-3490 — 1812 soldiers at their duties: talking groups that break up and re-form, sentries walking their beat, a fatigue party in rank, no man left standing loose on the parade
 T-3491 — 1812 soldiers each look like themselves: complexion, hair colour and cut, eyes and stature from his name's heritage and the period's enlistment descriptions, graded on his card
 T-3494 — Spread 1835 boarders over the named households' dwellings: three South log houses hold 77 to 82 households each
-T-3495 — Jaunts hide the everyday people; each stop shows only the people it calls for

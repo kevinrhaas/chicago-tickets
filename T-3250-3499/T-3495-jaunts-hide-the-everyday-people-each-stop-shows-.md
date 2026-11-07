@@ -1,7 +1,7 @@
 ---
 id: T-3495
 title: Jaunts hide the everyday people; each stop shows only the people it calls for
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1855
 claimed_by: run 11/7/2026, 3:43:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T23:30:16Z
 claimed_run: null
 claimed_at: 2026-11-07T21:43:37.584Z
 decision: null

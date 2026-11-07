@@ -1,7 +1,7 @@
 ---
 id: T-3469
 title: 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1842
 claimed_by: run 11/7/2026, 10:59:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T23:34:10Z
 claimed_run: null
 claimed_at: 2026-11-07T16:59:18.249Z
 decision: null
