@@ -1,7 +1,7 @@
 ---
 id: T-3489
 title: Desktop smoke part 14's 1904 tail still pays a software frame per await: hold the draws over the 1904 Inspect checks (survival card through Show me) so part 14 fits the 600 s local cap
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1849
 claimed_by: run 11/7/2026, 1:32:21 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T20:24:28Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42406183582
 claimed_at: 2026-11-07T19:32:21.836Z
 decision: null

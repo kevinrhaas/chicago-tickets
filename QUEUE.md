@@ -29,7 +29,6 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
-T-3489 — Desktop smoke part 14's 1904 tail still pays a software frame per await: hold the draws over the 1904 Inspect checks (survival card through Show me) so part 14 fits the 600 s local cap
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
@@ -209,7 +208,6 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
 T-3472 — People walk naturally: real stride, heel to toe, swinging arms and skirts
-T-3475 — Step back to let the carriage pass does nothing near Hans
 T-3476 — 1835: every dooryard garden its own size, beds and fence, sized to the house and household
 T-3477 — 1812: plant the settlement's other gardens and fields (Kinzie, Lee's Place, the forks, the sutler) beside the officer's
 T-3478 — Stand-in likenesses: a face fitted to a stand-in's photograph when none of the person is known, labelled on the card and the picture
