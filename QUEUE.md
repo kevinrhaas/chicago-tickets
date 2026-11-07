@@ -213,3 +213,4 @@ T-3459 — Jaunts take each stop's season from its date, from the first scene; t
 T-3468 — 1812 parade private becomes Private Paul Grummo of Heald's company; 1812 people open the Inspect person card like the other years
 T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
 T-3470 — Glessner's collar stands as a starched band and his likeness picture is re-rendered
+T-3471 — Follow trails right behind the person and keeps out of walls
