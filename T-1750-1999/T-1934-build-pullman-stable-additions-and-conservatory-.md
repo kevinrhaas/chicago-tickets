@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 6:11:52 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42314779278
-claimed_at: 2026-11-07T00:11:52.779Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -172,3 +172,5 @@ This ticket's part, taken first by that thread (interactive):
 **Released 2026-11-04** (claim of run 11/4/2026, 11:44:15 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41975258336): nothing of its own left to build: every estate record matches but conservatory/taylor_16555_west_front, whose one open item is the house's east wall standing 0.91 m east of where 16555 and the 1894 plate put it (camera anchor u -12.12 vs scene -11.21) — the house record's (T-1881), which a live run holds (PR #1707)
 
 **Released 2026-11-06** (claim of run 11/6/2026, 1:17:32 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42275101954): nothing of its own left to build: every estate record matches but conservatory/taylor_16555_west_front, whose one open item is the house's east wall 0.91 m off (T-1881's house record, claimed by a live sibling run now)
+
+**Released 2026-11-06** (claim of run 11/6/2026, 6:11:52 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42314779278): nothing of its own left to build (re-checked 2026-11-07): every estate match record matches but conservatory/taylor_16555_west_front, whose one open item is the house's east wall 0.91 m off — T-1881's house record, held by live runs (PRs #1784, #1797)
