@@ -140,6 +140,7 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
+T-3464 — 1812 women in town: officers' wives, soldiers' wives, Cicely and the civilian women in 1812 dress at the fort and the houses
 T-3463 — 1812 officers in town: Heald, Helm, Ronan and Van Voorhis in officers' dress of 1812 at their quarters
 T-3462 — 1812 people in town: every present man of Heald's company stands or works at the fort in the private's dress, each with his own face and build
 T-3461 — 1812 people: a person card for everyone documented at Chicago on 14 August 1812 (Heald's company, the militia, officers' and soldiers' families, the Kinzie, Ouilmette, Burns and Lee households, Wells, the named Potawatomi leaders), and reconstructed cards for the unnamed balance
