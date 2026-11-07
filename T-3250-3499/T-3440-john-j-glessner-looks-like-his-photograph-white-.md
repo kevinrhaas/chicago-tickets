@@ -1,7 +1,7 @@
 ---
 id: T-3440
 title: John J. Glessner looks like his photograph: white hair at the sides and a bald crown, a full grey moustache, round wire spectacles and an older man's skin, on his card and his figure
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-06
-closed: null
+closed: 2026-11-07
 pr: 1817
 claimed_by: run 11/6/2026, 10:59:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T08:17:47Z
 claimed_run: null
 claimed_at: 2026-11-07T04:59:29.485Z
 decision: null

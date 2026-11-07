@@ -152,7 +152,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
 T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
-T-3440 — John J. Glessner looks like his photograph: white hair at the sides and a bald crown, a full grey moustache, round wire spectacles and an older man's skin, on his card and his figure
 T-3441 — A 1904 gentleman's clothes on the kit: frock coat, waistcoat, standing collar and tie, trousers, boots and hat, first worn by John J. Glessner (the gentleman of T-3410)
 T-3448 — A 1904 house maid's dress on the kit: print or black dress, white apron and cap, first worn by a Glessner maid (the maid of T-3410)
 T-3447 — A 1904 lady's day dress on the kit, first worn by Frances M. Glessner (the lady of T-3410)
