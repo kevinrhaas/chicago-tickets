@@ -155,6 +155,7 @@ T-3416 — Contact shadows and occlusion for people: under feet and hat brims, w
 T-3440 — John J. Glessner looks like his photograph: white hair at the sides and a bald crown, a full grey moustache, round wire spectacles and an older man's skin, on his card and his figure
 T-3441 — A 1904 gentleman's clothes on the kit: frock coat, waistcoat, standing collar and tie, trousers, boots and hat, first worn by John J. Glessner (the gentleman of T-3410)
 T-3442 — Doors that open and steps people climb: Glessner's front door swings on its hinges, and the visitor and drawn people walk up and down entrance steps
+T-3443 — John J. Glessner in the town: standing by 1800 Prairie, spoken to with Interact, and told to go home, when he climbs his steps, opens the door and goes in
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
