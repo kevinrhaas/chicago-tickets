@@ -140,6 +140,7 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
+T-3467 — 1812 Potawatomi and Miami people in town: researched dress, the named leaders and a respectful reconstructed number at the camp, and Wells's Miami escort
 T-3466 — 1812 civilian men in town: Kinzie, his clerk and servants, Ouilmette, Burns, Lee and the militia in trader's and engagé dress
 T-3465 — 1812 children in town: a child's body on the shared rig, 1812 children's dress, and the garrison and Kinzie children placed
 T-3464 — 1812 women in town: officers' wives, soldiers' wives, Cicely and the civilian women in 1812 dress at the fort and the houses
