@@ -1,7 +1,7 @@
 ---
 id: T-3460
 title: 1812: the commanding officer's garden follows Settings > Season (winter snow and bare canes, April sowing, October harvest)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1833
 claimed_by: run 11/7/2026, 10:04:59 AM CT
 blocked_on: null
 needs_bake: false
