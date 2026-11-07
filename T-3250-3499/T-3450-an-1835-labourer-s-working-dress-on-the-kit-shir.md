@@ -1,7 +1,7 @@
 ---
 id: T-3450
 title: An 1835 labourer's working dress on the kit: shirt, trousers, braces, waistcoat and cap, read from 1830s plates
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 3:52:29 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T09:52:29.835Z
 decision: null
 decision_answer: null
 ---
