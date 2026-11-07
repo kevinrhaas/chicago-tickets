@@ -1,7 +1,7 @@
 ---
 id: T-3484
 title: August Billings, the Glessners' stable helper (Swedish, born 1875), drawn in the stable yard in his own work clothes, face fitted to a photograph or stand-in
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1856
 claimed_by: run 11/7/2026, 1:03:54 PM CT
 blocked_on: null
 needs_bake: false
