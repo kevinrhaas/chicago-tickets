@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/7/2026, 7:17:13 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42375824336
-claimed_at: 2026-11-07T13:17:13.708Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -188,3 +188,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-07** (claim of run 11/7/2026, 4:30:02 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42363827715): PR #1825 merged to dev: the Detroit print det 4a08066's two broad square-headed transomed windows in the 18th Street flank's ground storey east of the porte-cochere (a new K01 read-window component path; Taylor 1445/16554's earlier round-headed lights recorded within tolerance as an alteration before c. 1900), and ivy on the flank's east section, the pavilion face and the porte-cochere's east piers under the owner's 2026-11-02 ruling; 4a08066 items 3 fixed and 4 owner ruling. Still open: 4a08066's porte-cochere place, the step's stack, the parkway trees and the ivy over the east arch's ring; Detroit 4a08065's door leaves and front parts' depth; Taylor 1445's north block; Taylor 16554's trees, so the owner's ticket stays open
 
 **Released 2026-11-07** (claim of run 11/7/2026, 5:46:07 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42369098848): PR #1826 (ivy over the porte-cochere's east arch ring, off the Detroit print det 4a08066, via a new creeper_arches planter key and mantle_ring form; 4a08066 item 15 fixed; item 7 re-read: the arch misses by 35-40 px and no level camera fits the rear, the stable and this end of the flank together) is up on resume with every gate part green and moving-frames still running; 4a08066's porte-cochere place and arch size, the step's stack and the parkway trees, Detroit 4a08065's door leaves and front parts' depth, Taylor 1445's north block and Taylor 16554's trees remain open, so the owner's ticket stays open
+
+**Released 2026-11-07** (claim of run 11/7/2026, 7:17:13 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42375824336): PR #1828 (the rear step's stack stood on the step's cornice and carried up its mansard face, off the Detroit print det 4a08066, via a new K01 on_step chimney key; 4a08066 item 5 fixed) is up on resume while its CI gate finishes; 4a08066's porte-cochere place and arch size and parkway trees, Detroit 4a08065's door leaves and front parts' depth, Taylor 1445's north block and Taylor 16554's trees remain open, so the owner's ticket stays open
