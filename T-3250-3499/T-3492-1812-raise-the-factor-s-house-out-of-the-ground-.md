@@ -1,7 +1,7 @@
 ---
 id: T-3492
 title: 1812: raise the factor's house out of the ground on a stone underpinning with a doorstep, and seat the interpreter's house the same
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1854
 claimed_by: run 11/7/2026, 3:20:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T23:05:32Z
 claimed_run: null
 claimed_at: 2026-11-07T21:20:53.096Z
 decision: null
