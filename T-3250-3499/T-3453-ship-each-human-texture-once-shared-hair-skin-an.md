@@ -1,7 +1,7 @@
 ---
 id: T-3453
 title: Ship each human texture once: shared hair, skin and eye maps published as one file and decoded once on the GPU for every figure
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1827
 claimed_by: run 11/7/2026, 7:41:12 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T15:03:25Z
 claimed_run: null
 claimed_at: 2026-11-07T13:41:13.457Z
 decision: null

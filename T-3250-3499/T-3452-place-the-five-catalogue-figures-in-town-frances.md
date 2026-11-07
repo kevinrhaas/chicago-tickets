@@ -1,7 +1,7 @@
 ---
 id: T-3452
 title: Place the five catalogue figures in town: Frances Glessner and the house maid at 1800 Prairie (1904), Peck and Mahoney (1835), the First Infantry private at the fort (1812)
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1827
 claimed_by: run 11/7/2026, 7:41:09 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T15:03:25Z
 claimed_run: null
 claimed_at: 2026-11-07T13:41:10.401Z
 decision: null
