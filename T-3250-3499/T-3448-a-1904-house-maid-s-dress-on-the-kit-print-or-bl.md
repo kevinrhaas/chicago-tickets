@@ -1,7 +1,7 @@
 ---
 id: T-3448
 title: A 1904 house maid's dress on the kit: print or black dress, white apron and cap, first worn by a Glessner maid (the maid of T-3410)
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 0
 claimed_by: run 11/7/2026, 1:55:44 AM CT
 blocked_on: null
 needs_bake: false
