@@ -220,3 +220,4 @@ T-3486 — Mattie Williamson and Mary Reynolds: faces fitted to a photograph of 
 T-3490 — 1812 soldiers at their duties: talking groups that break up and re-form, sentries walking their beat, a fatigue party in rank, no man left standing loose on the parade
 T-3491 — 1812 soldiers each look like themselves: complexion, hair colour and cut, eyes and stature from his name's heritage and the period's enlistment descriptions, graded on his card
 T-3494 — Spread 1835 boarders over the named households' dwellings: three South log houses hold 77 to 82 households each
+T-3495 — Jaunts hide the everyday people; each stop shows only the people it calls for
