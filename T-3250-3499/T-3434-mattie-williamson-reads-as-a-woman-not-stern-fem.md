@@ -1,7 +1,7 @@
 ---
 id: T-3434
 title: Mattie Williamson reads as a woman, not stern: female skin atlas, softer face and expression, fuller shirtwaist, apron straps, hair volume
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-06
-closed: null
+closed: 2026-11-06
 pr: 1798
 claimed_by: run 11/6/2026, 2:56:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T00:00:39Z
 claimed_run: null
 claimed_at: 2026-11-06T20:56:54.434Z
 decision: null

@@ -153,7 +153,6 @@ T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, ani
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
 T-3416 — Contact shadows and occlusion for people: under feet and hat brims, where clothes overlap, and correct near shadows
-T-3434 — Mattie Williamson reads as a woman, not stern: female skin atlas, softer face and expression, fuller shirtwaist, apron straps, hair volume
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
@@ -202,4 +201,3 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-1872
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
-T-3435 — Building card tabs: Design as a written style guide for every building, Story renamed Timeline, Sources grouped by source, a Details tab for grades, one-row icon tab bar
