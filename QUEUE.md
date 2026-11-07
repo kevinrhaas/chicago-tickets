@@ -202,3 +202,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3449 — An 1835 merchant's dress on the kit: frock or tail coat, waistcoat, stock and top hat, read from 1830s plates
 T-3450 — An 1835 labourer's working dress on the kit: shirt, trousers, braces, waistcoat and cap, read from 1830s plates
+T-3451 — An 1812 Fort Dearborn soldier on the kit: 1st Infantry coat, trousers, shako and accoutrements, read from period regulations and plates
