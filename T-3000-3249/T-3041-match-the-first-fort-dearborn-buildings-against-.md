@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: run 11/7/2026, 9:54:32 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-07T15:54:33.045Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -150,3 +150,5 @@ All four actual source-check parts and normal preflight remain required before o
 **Released 2026-11-04** (claim of run 11/4/2026, 12:08:04 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41782312201): Partial increment MERGED to dev as a92e7c3d0 (PR https://github.com/kevinrhaas/chicago/pull/1698): the first fort's powder magazine now carries the barrel vault the owner adopted from Whistler's 1808 arched front and Currey's 1912 bird's-eye on 2026-11-03 (T-3335), built by an opt-in barrel_vault branch of the fort_structure archetype. All 25 affected fort_structure masters were genuinely rebuilt before the first source commit on pinned sha256-verified Blender 4.5.3 under Ubuntu 26.04; exactly one moved a byte, 24 came back byte-identical (the second fort's magazine and the cupola blockhouse among them), and all 243 outbuilding masters, their derivatives, registries and the T-3041 NE pyramid are untouched. THE SHAPE ALONE IS ADOPTED: the rise 1.0286254881847008 m is envelope conservation holding the old gable crown at 3.628625488184701 m, making a shallow segment where Whistler draws near a semicircle, and that gap is stated, not closed. That is the second of thirteen differences on data/reference_views/first_fort_dearborn_pickets_outer/currey_1912_birdseye.match.json marked fixed; verdict stays differs. STILL OPEN there: the blockhouse cupolas and the western gateway, plus the whole original acceptance (21 named records, 9 context records, every listed picture). Parent T-2387 stays split and unfinished; no image-match completion, photo follow-up or split is claimed. Verification: check.sh parts 1-3 green, part 4 one pre-existing environmental red (NumPy 2 removed 2-D np.cross in tools/transport/horse_socket_interface_v1/socket_controls.py, nothing that step reads is in the diff), smoke stage 3 PASS at both 390x780 and 1280x800 with zero page errors, and the hosted 8-part dev gate green on the exact merged head. Recovery: PR 1698, docs/STATUS.md T-3041 (2026-11-04), docs/LIBERTIES.md L-first-fort-magazine-barrel-vault-3041.
 
 **Released 2026-11-04** (claim of Codex magazine current 1812 acceptance followup 11/4/2026, 1:41:13 AM CT): PR #1699 merged to dev as 0a14eb07bc6630ace4ce8bec12b87e9fa1a4b0d4: delivered magazine current1812 exterior/real GPU roof and ground/Inspect Design+Sources desktop+phone accepted; saved evidence https://github.com/kevinrhaas/chicago-evidence/blob/38e7792be383556ed9506f3047e6fa2c041b7ea0/evidence/first-fort-2026-11-04/pr1699-current1812-magazine-body-design-sources/runtime-d5-v2/FINAL-CLOSURE.json. Documentation-only finalhead 880036af3d6355799968fea9a77b92d85f95deec preserves exact runtime inputs; final current8+gate passed. This is partial T3041/T2387: Currey remains DIFFERS, first-fort blockhouse cupolas, western gateway and remaining original picture coverage still open. Give back the original claim; do not close or split/create a photo ticket.
+
+**Released 2026-11-07** (claim of run 11/7/2026, 9:54:32 AM CT): Partial increment MERGED to dev as 18d5204a (PR https://github.com/kevinrhaas/chicago/pull/1831, owner-reported 2026-11-07): both first-fort blockhouses (NW, SE) now carry the cupola the owner adopted from Currey 1912 (T-3335) — occurrence inferred, kit dimensions reconstructed (L-first-fort-blockhouse-cupolas-3041); the Currey match row is fixed, verdict stays differs. Draft PR 1704 (same feature, stalled) closed as superseded. STILL OPEN: the western gateway / wicket by the NW blockhouse, plus the original all-pictures acceptance. Parent T-2387 stays split; no completion claimed.
