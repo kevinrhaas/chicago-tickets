@@ -1,7 +1,7 @@
 ---
 id: T-3454
 title: Win back about 10 MB of 1904 phone memory outside the people layer, so the four placed figures fit under the 400 MiB line
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1832
 claimed_by: run 11/7/2026, 9:39:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T17:22:04Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42386363695
 claimed_at: 2026-11-07T15:40:00.127Z
 decision: null
