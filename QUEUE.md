@@ -200,3 +200,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3452 — Place the five catalogue figures in town: Frances Glessner and the house maid at 1800 Prairie (1904), Peck and Mahoney (1835), the First Infantry private at the fort (1812)
+T-3453 — Ship each human texture once: shared hair, skin and eye maps published as one file and decoded once on the GPU for every figure
