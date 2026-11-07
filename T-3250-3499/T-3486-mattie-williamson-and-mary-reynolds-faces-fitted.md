@@ -1,7 +1,7 @@
 ---
 id: T-3486
 title: Mattie Williamson and Mary Reynolds: faces fitted to a photograph of them or a stand-in, shown on their cards
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1856
 claimed_by: run 11/7/2026, 1:03:57 PM CT
 blocked_on: null
 needs_bake: false
