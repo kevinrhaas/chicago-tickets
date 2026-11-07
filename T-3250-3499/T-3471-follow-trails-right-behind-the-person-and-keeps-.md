@@ -1,7 +1,7 @@
 ---
 id: T-3471
 title: Follow trails right behind the person and keeps out of walls
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1844
 claimed_by: run 11/7/2026, 12:10:09 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T19:56:49Z
 claimed_run: null
 claimed_at: 2026-11-07T18:10:10.944Z
 decision: null
