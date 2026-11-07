@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: Codex two first-fort cupola source-half 11/4/2026, 7:03:55 AM CT
+claimed_by: run 11/7/2026, 9:54:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T13:03:56.072Z
+claimed_at: 2026-11-07T15:54:33.045Z
 decision: null
 decision_answer: null
 ---
