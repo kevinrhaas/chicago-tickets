@@ -219,3 +219,4 @@ T-3477 — 1812: plant the settlement's other gardens and fields (Kinzie, Lee's 
 T-3478 — Stand-in likenesses: a face fitted to a stand-in's photograph when none of the person is known, labelled on the card and the picture
 T-3479 — Kate Ryan, the Glessners' cook (Irish, born 1850), drawn at 1800 Prairie in her own period work dress, face fitted to a photograph or stand-in
 T-3481 — Christine Nelson, the Glessners' parlor maid (Swedish, born 1873), drawn in her own period dress, walking back from market round the block, face fitted to a photograph or stand-in
+T-3483 — Charles Nelson, the Glessners' coachman (Swedish, born 1848), drawn at the coach house in his own livery, face fitted to a photograph or stand-in
