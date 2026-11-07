@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
-Follow trails right behind the person and keeps out of walls.
+Kevin, 2026-11-07: "when i follow someone like frances, i get stuck on walls, maybe when we follow we should go right behind them by default instead of along side?" (screenshot: Following Frances M. Glessner by 1800 Prairie, the eye pressed into the granite wall).
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+Follow (follow.js, T-3404) stands 4 m to one side of the person; by houses, walls and fences that stand is inside a wall, the walker presses against it and the eye looks at the person through the stone.
+
+**Acceptance:**
+- Follow stands right behind the person by default (behind their way of travel; behind their back when they stand), for every person in every year (1812, 1835, 1904 on foot; drivers behind and just off their carriage).
+- When a wall, fence or house is in the way the stand pulls in toward the person (or swings round them) to the farthest point with a clear line to them; never inside a wall.
+- A follower held against a wall finds its way (along the person's own trail) or is set down at the stand; it never stays pressed on a wall looking through it.
+- Gate case in tools/test_person_interaction.mjs; phone and desktop browser check.
