@@ -1,7 +1,7 @@
 ---
 id: T-3365
 title: 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1914
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 11:09:05 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42340483841
-claimed_at: 2026-11-07T05:09:05.781Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -51,3 +51,5 @@ T-1914 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-06** (claim of run 11/6/2026, 8:13:39 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42327509750): PR #1805 merged to dev: 2009 Prairie's windows' moulded hoods and the gable's pendant built (K01 street_front_windows.hoods: the paired light's drip mould with label stops and a carved pendant to 12.96 m, consoles under the oriel either side of the ground window, a splayed key block over the small light) and the street gutter taken off the gable's foot (shaped_gable.takes_gutter); match record item fixed, carving drawn as blocks within tolerance; 3 open left. Do not rebuild them. Still open: the near stack's place and corbelled cap (a K01 stack on a hip roof's wall line), the gable's south foot, and the Monroe 1896 camera. The image gate stays on T-1914.
 
 **Released 2026-11-06** (claim of run 11/6/2026, 9:41:08 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42334574759): PR #1809 merged to dev (squash bf26279da): 2009 Prairie's near north stack built astride the north wall where the Chicagology print centres it (K01 chimneys.stacks[].astride_wall, a hip's stack with its breast carried up the flank from the ground; render shaft x 327-410 px vs the print's 331-409, top within 0.1 m), and both stacks given a K15 head (band, proud stage, stone cap); match record item fixed. Do not rebuild it. Still open: the gable's south foot; the stacks' buff brick where the print draws them as dark as the front's brick (recorded open, a tone in a monochrome print — wants a colour source); the Monroe 1896 camera. The breast below the eave is 'not shown' (trees in both pictures; L-k01-2009-meyer-north-stack-3365). The image gate stays on T-1914.
+
+**Released 2026-11-07** (claim of run 11/6/2026, 11:09:05 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42340483841): PR #1820 lays 2009 Prairie's gable south foot to the Chicagology print: K01 shaped_gable.run_on carries the coping down the print's line to the party wall at about 10.3 m (read row by row), the front, party wall and hip eave cut down under it to a brick cheek 0.9 m back (L-k01-2009-meyer-gable-run-on-3365); match record item fixed. Do not rebuild it. Still open: the stacks' buff brick where the print draws them dark (a tone in a monochrome print, wants a colour source), and the Monroe 1896 camera. The image gate stays on T-1914.
