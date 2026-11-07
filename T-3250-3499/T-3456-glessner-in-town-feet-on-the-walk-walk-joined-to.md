@@ -1,7 +1,7 @@
 ---
 id: T-3456
 title: Glessner in town: feet on the walk, walk joined to the sidewalk, collar off the chin, legs walk, thumbs forward; women's brows smooth
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1830
 claimed_by: run 11/7/2026, 9:39:21 AM CT
 blocked_on: null
 needs_bake: false
