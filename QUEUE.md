@@ -216,3 +216,4 @@ T-3472 — People walk naturally: real stride, heel to toe, swinging arms and sk
 T-3473 — Frances Glessner's face fitted to her 1892 conservatory photograph, shown beside the model on her card; both of Kevin's photographs of her in the evidence corpus
 T-3475 — Step back to let the carriage pass does nothing near Hans
 T-3476 — 1835: every dooryard garden its own size, beds and fence, sized to the house and household
+T-3477 — 1812: plant the settlement's other gardens and fields (Kinzie, Lee's Place, the forks, the sutler) beside the officer's
