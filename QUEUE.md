@@ -221,3 +221,4 @@ T-3481 — Christine Nelson, the Glessners' parlor maid (Swedish, born 1873), dr
 T-3483 — Charles Nelson, the Glessners' coachman (Swedish, born 1848), drawn at the coach house in his own livery, face fitted to a photograph or stand-in
 T-3484 — August Billings, the Glessners' stable helper (Swedish, born 1875), drawn in the stable yard in his own work clothes, face fitted to a photograph or stand-in
 T-3486 — Mattie Williamson and Mary Reynolds: faces fitted to a photograph of them or a stand-in, shown on their cards
+T-3488 — 1904 Prairie back and side yards: rear terraces at the back doors, walks to the coach house and the front, gangways, gardens, each on a textured surface
