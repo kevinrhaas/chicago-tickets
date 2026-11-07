@@ -1,7 +1,7 @@
 ---
 id: T-1886
 title: Refine 1816 Henderson mansard house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 7:57:48 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42326275419
-claimed_at: 2026-11-07T01:57:49.053Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -82,3 +82,5 @@ This ticket closed without passing its image gate: `ticket.mjs split` closed it 
 
 
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
+
+**Released 2026-11-06** (claim of run 11/6/2026, 7:57:48 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42326275419): PR #1806 stands 1816 Prairie on the pale stone basement Chicagology's photograph shows (smooth limestone to the water table at 2.0 m, round the front, both canted bays and the south flank, barred lights under the bays' windows), slates both crowns as the main mansard and puts a pedimented dormer on each crown's front face. Still open in the match record: the flank crown's dormer in its SE canted face (K08 lays bay dormers on a front face only), the carved window hoods with crests, the balcony's 1 m pierced railing with the window over the door made a door, and the flank brick's tone; the 1874 Land Owner engraving's camera is not solved. Not split: the gate stays on this ticket.
