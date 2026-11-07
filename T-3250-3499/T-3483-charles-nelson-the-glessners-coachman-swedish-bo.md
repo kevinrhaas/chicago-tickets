@@ -1,7 +1,7 @@
 ---
 id: T-3483
 title: Charles Nelson, the Glessners' coachman (Swedish, born 1848), drawn at the coach house in his own livery, face fitted to a photograph or stand-in
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1856
 claimed_by: run 11/7/2026, 1:03:51 PM CT
 blocked_on: null
 needs_bake: false
