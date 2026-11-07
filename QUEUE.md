@@ -218,3 +218,4 @@ T-3484 — August Billings, the Glessners' stable helper (Swedish, born 1875), d
 T-3486 — Mattie Williamson and Mary Reynolds: faces fitted to a photograph of them or a stand-in, shown on their cards
 T-3488 — 1904 Prairie back and side yards: rear terraces at the back doors, walks to the coach house and the front, gangways, gardens, each on a textured surface
 T-3490 — 1812 soldiers at their duties: talking groups that break up and re-form, sentries walking their beat, a fatigue party in rank, no man left standing loose on the parade
+T-3491 — 1812 soldiers each look like themselves: complexion, hair colour and cut, eyes and stature from his name's heritage and the period's enlistment descriptions, graded on his card
