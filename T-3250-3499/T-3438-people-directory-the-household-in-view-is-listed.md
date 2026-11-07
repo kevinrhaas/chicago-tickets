@@ -1,7 +1,7 @@
 ---
 id: T-3438
 title: People directory: the household in view is listed twice, and sits among the people
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1810
 claimed_by: run 11/6/2026, 10:31:15 PM CT
 blocked_on: null
 needs_bake: false
