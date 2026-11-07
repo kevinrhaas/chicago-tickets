@@ -1,7 +1,7 @@
 ---
 id: T-3442
 title: Doors that open and steps people climb: Glessner's front door swings on its hinges, and the visitor and drawn people walk up and down entrance steps
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/6/2026, 10:59:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T04:59:47.069Z
 decision: null
 decision_answer: null
+group: T-3441,T-3442,T-3443,T-3444
 ---
 
 Doors that open and steps people climb: Glessner's front door swings on its hinges, and the visitor and drawn people walk up and down entrance steps.
