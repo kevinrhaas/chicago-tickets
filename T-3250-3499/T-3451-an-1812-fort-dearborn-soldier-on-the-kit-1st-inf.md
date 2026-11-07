@@ -1,7 +1,7 @@
 ---
 id: T-3451
 title: An 1812 Fort Dearborn soldier on the kit: 1st Infantry coat, trousers, shako and accoutrements, read from period regulations and plates
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 3:52:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T09:52:32.984Z
 decision: null
 decision_answer: null
 ---
