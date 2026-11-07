@@ -207,3 +207,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3439 — Fix freezing in the Glessner courtyard; Settings to hide people and carriages and horses
 T-3445 — Refresh the first-time tour and in-app help; drop the wordy Why lines in Settings
+T-3446 — Note on each 1904 jaunt stop when its house was torn down
