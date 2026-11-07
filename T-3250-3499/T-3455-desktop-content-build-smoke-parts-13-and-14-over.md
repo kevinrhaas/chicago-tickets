@@ -1,7 +1,7 @@
 ---
 id: T-3455
 title: Desktop content-build smoke parts 13 and 14 overrun their 40-minute job cap on dev
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1841
 claimed_by: run 11/7/2026, 11:37:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T19:22:49Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42396100001
 claimed_at: 2026-11-07T17:37:05.916Z
 decision: null
