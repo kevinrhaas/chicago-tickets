@@ -1,7 +1,7 @@
 ---
 id: T-3354
 title: 1919 Prairie's rear ranges' roofs and place read again against all three Gatlin plates: the pinnacled dormers between the gables on the slope the plates show facing the street, the third smaller gable at the flank's far end, the quoined block at the middle range's corner, the canted bay's own corners, and the 1912 Blue Book plate's camera solved
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3338
 opened: 2026-11-03
-closed: null
+closed: 2026-11-06
 pr: 1794
 claimed_by: run 11/6/2026, 3:38:50 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T01:45:15Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42294957446
 claimed_at: 2026-11-06T21:38:50.605Z
 decision: null

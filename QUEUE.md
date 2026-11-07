@@ -49,7 +49,6 @@ T-1934 — Refine Pullman stable, additions and conservatory estate
 T-1890 — Finish 1801 Kimball corner mansion architecture
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
-T-3354 — 1919 Prairie's rear ranges' roofs and place read again against all three Gatlin plates: the pinnacled dormers between the gables on the slope the plates show facing the street, the third smaller gable at the flank's far end, the quoined block at the middle range's corner, the canted bay's own corners, and the 1912 Blue Book plate's camera solved
 T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
 T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
 
