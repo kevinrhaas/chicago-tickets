@@ -1,7 +1,7 @@
 ---
 id: T-3445
 title: Refresh the first-time tour and in-app help; drop the wordy Why lines in Settings
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1819
 claimed_by: run 11/7/2026, 12:02:30 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T07:40:40Z
 claimed_run: null
 claimed_at: 2026-11-07T06:02:30.956Z
 decision: null
