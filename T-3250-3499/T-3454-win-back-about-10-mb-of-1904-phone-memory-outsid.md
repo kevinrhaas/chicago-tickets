@@ -1,7 +1,7 @@
 ---
 id: T-3454
 title: Win back about 10 MB of 1904 phone memory outside the people layer, so the four placed figures fit under the 400 MiB line
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1832
 claimed_by: run 11/7/2026, 9:39:59 AM CT
 blocked_on: null
 needs_bake: false
