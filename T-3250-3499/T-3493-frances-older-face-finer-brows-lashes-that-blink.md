@@ -1,9 +1,9 @@
 ---
 id: T-3493
-title: Frances: older face, finer brows, lashes that blink /tmp/claude-0/-home-user/a2c7c8df-b4f9-5b35-a8e4-d5eecc9d0ff6/scratchpad/t_frances.md
+title: "Frances: older face, finer brows, lashes that blink"
 state: claimed
 epic: META
-requested_by: steward
+requested_by: owner
 seen: false
 effort: M
 legacy_id: null
@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
-Frances: older face, finer brows, lashes that blink /tmp/claude-0/-home-user/a2c7c8df-b4f9-5b35-a8e4-d5eecc9d0ff6/scratchpad/t_frances.md.
+Kevin, 2026-11-07, on Frances Glessner's face beside her 1892 photograph: "frances looks young to me compared to the photo and her eyelashes and eyebrows look like they are double eyebrows they are dark and dont look good, her eyelashes dont move".
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+- Her upper lashes close with her eyelids: the facial cards take the face's blink (and jaw) morphs from the skin under each root, the lash tips turning down as the lid shuts.
+- Brows and lashes finer and lighter: a face's brows take a colour near the hair's own, lashes thinner and shorter on the lid margin, so they stop reading as a second dark brow.
+- Her face reads 56: the women's young-face lean (no jowls, no double chin, narrow jaw, high cheekbones) is replaced for her by what her photograph shows by eye; age lines (nasolabial folds, under-eye, crow's feet, forehead) in the skin shader by a person's age, for every face.
+- Re-render her likeness still.
+
+**Acceptance:** her lashes visibly close with her lids in a blink; brows and lashes no longer read as a dark doubled brow in a 3 m still; her likeness still beside the 1892 photograph reads as a woman in her fifties.
