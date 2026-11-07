@@ -214,3 +214,4 @@ T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street a
 T-3471 — Follow trails right behind the person and keeps out of walls
 T-3472 — People walk naturally: real stride, heel to toe, swinging arms and skirts
 T-3473 — Frances Glessner's face fitted to her 1892 conservatory photograph, shown beside the model on her card; both of Kevin's photographs of her in the evidence corpus
+T-3475 — Step back to let the carriage pass does nothing near Hans
