@@ -30,6 +30,7 @@ T-3455 — Desktop content-build smoke parts 13 and 14 overrun their 40-minute j
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
+T-3489 — Desktop smoke part 14's 1904 tail still pays a software frame per await: hold the draws over the 1904 Inspect checks (survival card through Show me) so part 14 fits the 600 s local cap
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
