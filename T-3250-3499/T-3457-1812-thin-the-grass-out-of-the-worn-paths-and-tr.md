@@ -1,7 +1,7 @@
 ---
 id: T-3457
 title: 1812: thin the grass out of the worn paths and trodden yards round the buildings
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1834
 claimed_by: run 11/7/2026, 10:03:35 AM CT
 blocked_on: null
 needs_bake: false
