@@ -141,6 +141,7 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 T-3457 — 1812: thin the grass out of the worn paths and trodden yards round the buildings
+T-3458 — 1812: period yard goods round every property, woodpiles, chopping blocks and the working things each house needed
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
