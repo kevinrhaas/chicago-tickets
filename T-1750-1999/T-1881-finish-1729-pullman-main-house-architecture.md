@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 4:41:36 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-06T22:41:37.500Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -180,3 +180,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-06** (claim of run 11/6/2026, 11:21:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42257864189): PR #1781 (the Prairie parkway's corner tree at 259.8 m, read off the Detroit print's trunk at x 630 and Taylor 1445's at x 148, whose rays meet the planting line 0.04 m apart; Detroit's 'corner trunk' item fixed) is up on resume while its CI gate finishes; Detroit's portico reach, door reading and front parts' depth, Taylor 1445's dormer and north block, and Taylor 16554's porte-cochere and trees remain open, so the owner's ticket stays open
 
 **Released 2026-11-06** (claim of run 11/6/2026, 1:12:48 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42275112820): PR #1783 (three of 1729 Prairie's open match differences re-read on fresh renders: Taylor 1445's dormer is the flank's corner dormer and within tolerance; Taylor 16554's porte-cochere arch is the block's east end, in place, within tolerance; Detroit's portico reach is the north block's belt course) is up on resume while its CI gate finishes; Detroit's door leaves and front parts' depth, Taylor 1445's north block and Taylor 16554's trees remain open, so the owner's ticket stays open
+
+**Released 2026-11-06** (claim of run 11/6/2026, 4:41:36 PM CT): PR 1797 merged (one column on the Prairie front's third part); Detroit/Taylor/Clark records still differ on other items
