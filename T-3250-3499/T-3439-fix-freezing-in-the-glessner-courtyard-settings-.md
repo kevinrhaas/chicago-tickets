@@ -1,7 +1,7 @@
 ---
 id: T-3439
 title: Fix freezing in the Glessner courtyard; Settings to hide people and carriages and horses
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1815
 claimed_by: run 11/6/2026, 10:44:01 PM CT
 blocked_on: null
 needs_bake: false
