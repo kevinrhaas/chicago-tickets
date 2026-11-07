@@ -1,7 +1,7 @@
 ---
 id: T-3468
 title: 1812 parade private becomes Private Paul Grummo of Heald's company; 1812 people open the Inspect person card like the other years
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 10:30:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T16:30:37.595Z
 decision: null
 decision_answer: null
 ---
