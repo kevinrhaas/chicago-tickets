@@ -1,7 +1,7 @@
 ---
 id: T-3472
 title: People walk naturally: real stride, heel to toe, swinging arms and skirts
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1845
 claimed_by: run 11/7/2026, 12:12:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T22:52:35Z
 claimed_run: null
 claimed_at: 2026-11-07T18:12:54.384Z
 decision: null
