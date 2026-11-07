@@ -1,7 +1,7 @@
 ---
 id: T-3461
 title: 1812 people: a person card for everyone documented at Chicago on 14 August 1812 (Heald's company, the militia, officers' and soldiers' families, the Kinzie, Ouilmette, Burns and Lee households, Wells, the named Potawatomi leaders), and reconstructed cards for the unnamed balance
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1836
 claimed_by: run 11/7/2026, 10:20:55 AM CT
 blocked_on: null
 needs_bake: false
