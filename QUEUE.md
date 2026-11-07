@@ -26,6 +26,7 @@
 # ---    tickets above all of the house tickets let's clear those first"; earlier the same day: "clear all of the optimization tickets").
 # Owner, 2026-10-16: "in a browser on mobile we get memory crashes and it's getting jittery ... keep it simple and lightweight ... rely on the local cpu gpu". Mobile performance and memory group T-2546..T-2558 (not T-2552), dependency order: measure, cut CPU/geometry, cut textures, smooth frames, then the WebGPU spike (T-2558, ruled (a) 2026-10-16). Same day: "tap into local computing resources ... based on the browser and platform or ... a big package app download that happens up front" added T-2559 (device profile), T-2560 (prebuilt town), T-2561 (download the year to disk).
 # Owner, 2026-11-05 re-rank: dev's red content-build smoke and the phone's shadow-caster cut, moved up from 8b's foot and band 7.
+T-3454 — Win back about 10 MB of 1904 phone memory outside the people layer, so the four placed figures fit under the 400 MiB line
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
@@ -201,4 +202,3 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3452 — Place the five catalogue figures in town: Frances Glessner and the house maid at 1800 Prairie (1904), Peck and Mahoney (1835), the First Infantry private at the fort (1812)
 T-3453 — Ship each human texture once: shared hair, skin and eye maps published as one file and decoded once on the GPU for every figure
-T-3454 — Win back about 10 MB of 1904 phone memory outside the people layer, so the four placed figures fit under the 400 MiB line
