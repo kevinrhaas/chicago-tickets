@@ -1,7 +1,7 @@
 ---
 id: T-3490
 title: 1812 soldiers at their duties: talking groups that break up and re-form, sentries walking their beat, a fatigue party in rank, no man left standing loose on the parade
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1853
 claimed_by: run 11/7/2026, 3:05:15 PM CT
 blocked_on: null
 needs_bake: false
