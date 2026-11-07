@@ -1,7 +1,7 @@
 ---
 id: T-3441
 title: A 1904 gentleman's clothes on the kit: frock coat, waistcoat, standing collar and tie, trousers, boots and hat, first worn by John J. Glessner (the gentleman of T-3410)
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-06
 closed: null
-pr: null
+pr: 1822
 claimed_by: run 11/6/2026, 10:59:46 PM CT
 blocked_on: null
 needs_bake: false
