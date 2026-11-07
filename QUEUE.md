@@ -202,3 +202,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3437 — Date stamp follows the Season: mid-April, mid-October, mid-February, summer the scene's day
 T-3438 — People directory: the household in view is listed twice, and sits among the people
+T-3439 — Fix freezing in the Glessner courtyard; Settings to hide people and carriages and horses
