@@ -1,7 +1,7 @@
 ---
 id: T-3446
 title: Note on each 1904 jaunt stop when its house was torn down
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1821
 claimed_by: interactive 11/7/2026, 12:26:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T08:14:05Z
 claimed_run: null
 claimed_at: 2026-11-07T06:26:52.472Z
 decision: null
