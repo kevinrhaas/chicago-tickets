@@ -1,7 +1,7 @@
 ---
 id: T-3493
 title: Frances: older face, finer brows, lashes that blink /tmp/claude-0/-home-user/a2c7c8df-b4f9-5b35-a8e4-d5eecc9d0ff6/scratchpad/t_frances.md
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 3:22:10 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T21:22:11.951Z
 decision: null
 decision_answer: null
 ---
