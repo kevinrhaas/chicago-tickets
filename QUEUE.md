@@ -212,3 +212,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-3459 — Jaunts take each stop's season from its date, from the first scene; the Battle of Fort Dearborn starts at the fort
 T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
 T-3471 — Follow trails right behind the person and keeps out of walls
+T-3472 — People walk naturally: real stride, heel to toe, swinging arms and skirts
