@@ -1,7 +1,7 @@
 ---
 id: T-3436
 title: Go to: 1904 viewpoints with short names and icons, new Pullman, church and Field views, and a Photos list of every matched photo view
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -14,7 +14,7 @@ pr: 1800
 claimed_by: run 11/6/2026, 3:30:33 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: 2026-11-06T23:29:38Z
+closed_at: 2026-11-07T02:06:30Z
 claimed_run: null
 claimed_at: 2026-11-06T21:30:34.302Z
 decision: null
