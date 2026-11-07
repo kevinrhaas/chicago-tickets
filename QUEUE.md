@@ -205,3 +205,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3456 — Glessner in town: feet on the walk, walk joined to the sidewalk, collar off the chin, legs walk, thumbs forward; women's brows smooth
 T-3459 — Jaunts take each stop's season from its date, from the first scene; the Battle of Fort Dearborn starts at the fort
+T-3460 — 1812: the commanding officer's garden follows Settings > Season (winter snow and bare canes, April sowing, October harvest)
