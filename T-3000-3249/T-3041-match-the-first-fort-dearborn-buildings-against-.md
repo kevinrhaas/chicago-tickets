@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: claude (thread: cupola lookouts and shingle roofs) 11/7/2026, 2:41:23 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-07T20:41:24.268Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -154,3 +154,5 @@ All four actual source-check parts and normal preflight remain required before o
 **Released 2026-11-07** (claim of run 11/7/2026, 9:54:32 AM CT): Partial increment MERGED to dev as 18d5204a (PR https://github.com/kevinrhaas/chicago/pull/1831, owner-reported 2026-11-07): both first-fort blockhouses (NW, SE) now carry the cupola the owner adopted from Currey 1912 (T-3335) — occurrence inferred, kit dimensions reconstructed (L-first-fort-blockhouse-cupolas-3041); the Currey match row is fixed, verdict stays differs. Draft PR 1704 (same feature, stalled) closed as superseded. STILL OPEN: the western gateway / wicket by the NW blockhouse, plus the original all-pictures acceptance. Parent T-2387 stays split; no completion claimed.
 
 **Released 2026-11-07** (claim of Kevin thread: log, lower cupolas 11/7/2026, 12:37:40 PM CT): Follow-up MERGED to dev as 2ed7d761 (PR https://github.com/kevinrhaas/chicago/pull/1840): on the owner's reading of the drawings (2026-11-07) the first-fort cupolas are now log (opt-in cupola_construction) and 1.6 m bodies instead of 2.1 m (opt-in cupola_height_m), about 20% lower overall. STILL OPEN: the western gateway / wicket by the NW blockhouse, plus the original all-pictures acceptance.
+
+**Released 2026-11-07** (claim of claude (thread: cupola lookouts and shingle roofs) 11/7/2026, 2:41:23 PM CT): partial: cupola lookout ports and riven shingle roofs in PR 1850; the western gateway/wicket by the NW blockhouse is still open
