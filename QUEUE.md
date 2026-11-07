@@ -145,7 +145,6 @@ T-3464 — 1812 women in town: officers' wives, soldiers' wives, Cicely and the 
 T-3465 — 1812 children in town: a child's body on the shared rig, 1812 children's dress, and the garrison and Kinzie children placed
 T-3466 — 1812 civilian men in town: Kinzie, his clerk and servants, Ouilmette, Burns, Lee and the militia in trader's and engagé dress
 T-3467 — 1812 Potawatomi and Miami people in town: researched dress, the named leaders and a respectful reconstructed number at the camp, and Wells's Miami escort
-T-3474 — 1812 yard goods photographic: real wood surfaces on woodpiles, chopping blocks and log heaps, and the 1812 woodpiles shown on phones
 T-3492 — 1812: raise the factor's house out of the ground on a stone underpinning with a doorstep, and seat the interpreter's house the same
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
