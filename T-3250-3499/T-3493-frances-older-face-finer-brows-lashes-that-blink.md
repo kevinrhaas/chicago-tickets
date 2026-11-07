@@ -1,7 +1,7 @@
 ---
 id: T-3493
 title: "Frances: older face, finer brows, lashes that blink"
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1856
 claimed_by: run 11/7/2026, 3:22:10 PM CT
 blocked_on: null
 needs_bake: false
