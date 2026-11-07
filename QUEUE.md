@@ -214,3 +214,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-3459 — Jaunts take each stop's season from its date, from the first scene; the Battle of Fort Dearborn starts at the fort
 T-3460 — 1812: the commanding officer's garden follows Settings > Season (winter snow and bare canes, April sowing, October harvest)
 T-3468 — 1812 parade private becomes Private Paul Grummo of Heald's company; 1812 people open the Inspect person card like the other years
+T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
