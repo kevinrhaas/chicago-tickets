@@ -29,6 +29,7 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
+T-3493 — Frances: older face, finer brows, lashes that blink /tmp/claude-0/-home-user/a2c7c8df-b4f9-5b35-a8e4-d5eecc9d0ff6/scratchpad/t_frances.md
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
