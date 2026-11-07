@@ -217,3 +217,4 @@ T-3473 — Frances Glessner's face fitted to her 1892 conservatory photograph, s
 T-3475 — Step back to let the carriage pass does nothing near Hans
 T-3476 — 1835: every dooryard garden its own size, beds and fence, sized to the house and household
 T-3477 — 1812: plant the settlement's other gardens and fields (Kinzie, Lee's Place, the forks, the sutler) beside the officer's
+T-3478 — Stand-in likenesses: a face fitted to a stand-in's photograph when none of the person is known, labelled on the card and the picture
