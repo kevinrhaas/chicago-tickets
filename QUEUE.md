@@ -210,7 +210,5 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3459 — Jaunts take each stop's season from its date, from the first scene; the Battle of Fort Dearborn starts at the fort
-T-3468 — 1812 parade private becomes Private Paul Grummo of Heald's company; 1812 people open the Inspect person card like the other years
 T-3469 — 1812 battle site: carry the battle shore south to Eighteenth Street and move battle jaunt stops 9 and 10 to the 17th-20th Street ground
-T-3470 — Glessner's collar stands as a starched band and his likeness picture is re-rendered
 T-3471 — Follow trails right behind the person and keeps out of walls
