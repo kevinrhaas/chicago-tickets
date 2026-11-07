@@ -1,7 +1,7 @@
 ---
 id: T-3458
 title: 1812: period yard goods round every property, woodpiles, chopping blocks and the working things each house needed
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1838
 claimed_by: run 11/7/2026, 10:03:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-07T18:59:50Z
 claimed_run: null
 claimed_at: 2026-11-07T16:03:36.197Z
 decision: null
