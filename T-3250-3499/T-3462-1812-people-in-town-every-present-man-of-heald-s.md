@@ -1,7 +1,7 @@
 ---
 id: T-3462
 title: 1812 people in town: every present man of Heald's company stands or works at the fort in the private's dress, each with his own face and build
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 10:20:55 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-07T16:20:56.474Z
 decision: null
 decision_answer: null
+group: T-3461,T-3462
 ---
 
 1812 people in town: every present man of Heald's company stands or works at the fort in the private's dress, each with his own face and build.
