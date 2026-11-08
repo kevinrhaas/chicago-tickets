@@ -1,7 +1,7 @@
 ---
 id: T-3509
 title: 1812 battle participants: each Native card says its part on 15 August, sourced for the named and a flagged likely part for the reconstructed
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-08
 closed: null
-pr: null
+pr: 1881
 claimed_by: run 11/8/2026, 11:09:00 AM CT
 blocked_on: null
 needs_bake: false
