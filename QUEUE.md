@@ -137,10 +137,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
-T-3509 — 1812 battle participants: each Native card says its part on 15 August, sourced for the named and a flagged likely part for the reconstructed
-T-3508 — 1812: card the named Native people of the Chicago country who may have been at the camps, each with their sourced story and a likeness
-T-3507 — 1812 Native cards equal to settler cards: a researched, respectful reconstructed Potawatomi or Miami name and a reconstructed history for every unnamed Native card, each reconstruction flagged
-T-3506 — 1812 Native people: no two dressed alike: per-person dress colours, worn pieces and hair from the 1812 dress evidence, on the existing figures with no new models
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
@@ -204,5 +200,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3517 — 1812 sloughs: water in the State Street slough the camps sit around, carved naturally (owner)
-T-3518 — 1812 boats dry inside and skiffs full height; card review note small at the foot of the card
 T-3519 — 1812 phone and desktop memory ceilings argued for the people work (phone 250 -> 350 MiB, desktop 700 -> 875 MiB)
