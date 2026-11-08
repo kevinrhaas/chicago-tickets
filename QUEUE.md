@@ -207,3 +207,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3505 — Everyone in 1812 has a purpose for every part of the day: talks gather and break up, each person works or plays between them, breaks indoors at their home door
 T-3511 — 1812 camps: vary the worn camp grounds to fit the sources (owner: oddly regular)
 T-3512 — 1812 camps: natural worn paths to each other, the river, the fort and the factory
+T-3513 — 1812: carry the battle-shore beach-ridge landscape and tree pockets across the whole area
