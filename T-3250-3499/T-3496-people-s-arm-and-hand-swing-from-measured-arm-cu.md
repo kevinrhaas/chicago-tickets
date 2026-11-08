@@ -1,7 +1,7 @@
 ---
 id: T-3496
 title: People's arm and hand swing from measured arm curves: arm mostly behind, forearm trailing, hands relaxed with the thumb in
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1863
 claimed_by: run 11/7/2026, 7:15:04 PM CT
 blocked_on: null
 needs_bake: false
