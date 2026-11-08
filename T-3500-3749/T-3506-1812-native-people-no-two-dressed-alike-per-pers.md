@@ -1,7 +1,7 @@
 ---
 id: T-3506
 title: 1812 Native people: no two dressed alike: per-person dress colours, worn pieces and hair from the 1812 dress evidence, on the existing figures with no new models
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-08
 closed: null
-pr: null
+pr: 1881
 claimed_by: run 11/8/2026, 11:08:50 AM CT
 blocked_on: null
 needs_bake: false
