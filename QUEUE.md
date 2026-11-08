@@ -138,6 +138,7 @@ T-3041 — Match the first Fort Dearborn buildings against every reference pictu
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
 T-3509 — 1812 battle participants: each Native card says its part on 15 August, sourced for the named and a flagged likely part for the reconstructed
+T-3510 — 1812 river crossings: varied photographic dugouts, bark canoes and skiffs drawn up on the banks, a Cross action that rows the visitor over, and the fort wharf in photographic weathered timber
 T-3508 — 1812: card the named Native people of the Chicago country who may have been at the camps, each with their sourced story and a likeness
 T-3507 — 1812 Native cards equal to settler cards: a researched, respectful reconstructed Potawatomi or Miami name and a reconstructed history for every unnamed Native card, each reconstruction flagged
 T-3506 — 1812 Native people: no two dressed alike: per-person dress colours, worn pieces and hair from the 1812 dress evidence, on the existing figures with no new models
