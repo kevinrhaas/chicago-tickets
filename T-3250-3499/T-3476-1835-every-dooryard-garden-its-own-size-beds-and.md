@@ -1,7 +1,7 @@
 ---
 id: T-3476
 title: 1835: every dooryard garden its own size, beds and fence, sized to the house and household
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1847
 claimed_by: run 11/7/2026, 12:45:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T00:11:16Z
 claimed_run: null
 claimed_at: 2026-11-07T18:45:56.707Z
 decision: null
