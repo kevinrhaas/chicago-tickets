@@ -1,7 +1,7 @@
 ---
 id: T-3464
 title: 1812 women in town: officers' wives, soldiers' wives, Cicely and the civilian women in 1812 dress at the fort and the houses
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1869
 claimed_by: run 11/7/2026, 8:13:24 PM CT
 blocked_on: null
 needs_bake: false
