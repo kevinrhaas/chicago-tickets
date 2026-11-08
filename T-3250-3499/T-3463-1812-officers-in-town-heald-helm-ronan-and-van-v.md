@@ -1,7 +1,7 @@
 ---
 id: T-3463
 title: 1812 officers in town: Heald, Helm, Ronan and Van Voorhis in officers' dress of 1812 at their quarters
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 8:13:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-08T02:13:21.897Z
 decision: null
 decision_answer: null
 ---
