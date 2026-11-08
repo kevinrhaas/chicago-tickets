@@ -202,3 +202,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3520 — 1812 children: a child's walk, their own dress and hair, fewer out at once and near home
 T-3522 — 1812 townspeople: every settler, trader, engagé and woman dressed as their own person, seen at normal distance
 T-3521 — Person cards: Find and Go to house reach everyone; every Their story rewritten as a story; a picked person stays in the Navigator
+T-3523 — 1812 garrison dressed by rank and armed: NCO epaulettes, musicians' red coats and drums, fatigue dress, officers' epaulettes by rank and sashes, muskets with bayonets carried by duty
