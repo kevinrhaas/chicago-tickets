@@ -1,7 +1,7 @@
 ---
 id: T-3477
 title: 1812: plant the settlement's other gardens and fields (Kinzie, Lee's Place, the forks, the sutler) beside the officer's
-state: review
+state: done
 epic: FLORA
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1858
 claimed_by: run 11/7/2026, 12:45:58 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T00:59:05Z
 claimed_run: null
 claimed_at: 2026-11-07T18:45:59.834Z
 decision: null
