@@ -208,5 +208,4 @@ T-3511 — 1812 camps: vary the worn camp grounds to fit the sources (owner: odd
 T-3512 — 1812 camps: natural worn paths to each other, the river, the fort and the factory
 T-3513 — 1812: carry the battle-shore beach-ridge landscape and tree pockets across the whole area
 T-3514 — 1812 from above: break up the repeating tiled ground texture
-T-3515 — Hat-tip greeting: the fingertips meet the brim and no hand goes through any hat, every year
 T-3516 — 1835 and 1904 people have a purpose for every part of the day: a job about their place on a loop, short talks with neighbours, breaks in and out of their own door, indoors at night
