@@ -144,7 +144,6 @@ T-3464 — 1812 women in town: officers' wives, soldiers' wives, Cicely and the 
 T-3465 — 1812 children in town: a child's body on the shared rig, 1812 children's dress, and the garrison and Kinzie children placed
 T-3466 — 1812 civilian men in town: Kinzie, his clerk and servants, Ouilmette, Burns, Lee and the militia in trader's and engagé dress
 T-3467 — 1812 Potawatomi and Miami people in town: researched dress, the named leaders and a respectful reconstructed number at the camp, and Wells's Miami escort
-T-3497 — 1812 horse-drawn wagons in motion: the photographic farm wagon driven by garrison privates on the fort's tracks, loops round the fort and loading runs between gate, factory, wharf and stables on the eve of the evacuation
 T-3499 — 1812: lodges for the whole August gathering (500 warriors, 179 women and children by Helm's count) and a camp for Wells's 27 Miamis
 T-3500 — 1812: card every missing person of the gathering and the Miami escort with a lodge home; about 1 in 5 drawn outdoors, the rest inside and called out by name at the lodge door; card Louis Fettle
 
