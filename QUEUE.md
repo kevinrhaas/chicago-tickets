@@ -47,7 +47,6 @@
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
 T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-T-3501 — Content build: cache and retry the pinned KTX-Software 4.3.2 .deb so a github.com release-asset 504 cannot fail the bake (the install step warns and goes on, then ktx2_sheets.py's single urlopen fetches again and FATALs on the first textured mesh)
 T-3503 — Content build's bake job hits its 50-minute cap on full bakes again (dev push 42425844204 on 11-07, nightly main 42454769550 on 11-08, PR #1874's workflow-path bake 42480258299): every one cancelled inside the Bake step at 50m0s — T-3296 raised the cap from 30 and expected the drifted masters to converge; read the moved lists of two runs and either converge them or price the bake by parts
 T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
 

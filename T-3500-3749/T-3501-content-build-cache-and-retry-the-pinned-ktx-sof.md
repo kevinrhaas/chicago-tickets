@@ -1,7 +1,7 @@
 ---
 id: T-3501
 title: Content build: cache and retry the pinned KTX-Software 4.3.2 .deb so a github.com release-asset 504 cannot fail the bake (the install step warns and goes on, then ktx2_sheets.py's single urlopen fetches again and FATALs on the first textured mesh)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1874
 claimed_by: run 11/8/2026, 5:56:21 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T13:19:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42476972723
 claimed_at: 2026-11-08T11:56:22.156Z
 decision: null
