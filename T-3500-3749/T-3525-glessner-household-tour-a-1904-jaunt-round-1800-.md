@@ -1,7 +1,7 @@
 ---
 id: T-3525
 title: Glessner household tour: a 1904 jaunt round 1800 Prairie told by the people who live and work there
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/8/2026, 4:41:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-08T22:41:30.677Z
 decision: null
 decision_answer: null
 ---
