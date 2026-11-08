@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/7/2026, 9:31:04 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42442639478
-claimed_at: 2026-11-08T03:31:05.193Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -200,3 +200,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-07** (claim of run 11/7/2026, 6:36:00 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42429862619): PR #1861 (the porte-cochere's east arch mouth cleared: mantle_ring ivy strips keep their leaves inside the strip in the renderer; Detroit det 4a08066's arch-ivy item fixed; 13 Pullman records re-hashed with verdicts kept, the lodge's two left for a fresh look) is up on resume while CI's moving-frames finishes, every gate part green; 4a08066's heights, arch width, parkway trunks, 18th Street piers and east-section windows, 4a08065's door leaves and owner item, and Taylor 1445's north block remain open, so the owner's ticket stays open
 
 **Released 2026-11-07** (claim of run 11/7/2026, 8:34:42 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42435288176): PR #1865 merged to dev: the 18th Street flank's east-section window and second-storey pair moved from s 22.95 to 23.5 off the Detroit print det 4a08066 (rebaked; 13 match records re-rendered, verdicts kept; 4a08066's item fixed); records still differ on other items, so the ticket stays open
+
+**Released 2026-11-07** (claim of run 11/7/2026, 9:31:04 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42442639478): PR #1867 merged to dev: the 18th Street wall east of the porch stair restored (fourth, fifth with its urn, and sixth piers, and the sweeps between the third and fourth), read off the Detroit print det 4a08066 through its solved camera, which shows the 1894 wall still standing c. 1900; L-pullman-18th-street-wall-c1900-1934 resolved; 4a08066's pier item and 16554's boundary item within tolerance. The ranges' and conservatory's 16555 court's-way/approach items are open again, as before #1515 (T-1934). Still open on the house: 4a08065's owner item and door leaves (the print's pale leaves read at v 5.0 on the entry face, the north block's return, or at v 6.3-7.5 if they stand at the portico's front), 4a08066's heights, east arch and parkway trunks, and Taylor 1445's north block, so the owner's ticket stays open
