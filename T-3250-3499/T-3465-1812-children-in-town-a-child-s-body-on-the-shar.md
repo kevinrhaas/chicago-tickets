@@ -1,7 +1,7 @@
 ---
 id: T-3465
 title: 1812 children in town: a child's body on the shared rig, 1812 children's dress, and the garrison and Kinzie children placed
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-07
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/7/2026, 8:13:27 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-08T02:13:27.904Z
 decision: null
 decision_answer: null
 ---
