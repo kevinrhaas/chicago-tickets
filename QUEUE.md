@@ -47,7 +47,6 @@
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
 T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-T-3503 — Content build's bake job hits its 50-minute cap on full bakes again (dev push 42425844204 on 11-07, nightly main 42454769550 on 11-08, PR #1874's workflow-path bake 42480258299): every one cancelled inside the Bake step at 50m0s — T-3296 raised the cap from 30 and expected the drifted masters to converge; read the moved lists of two runs and either converge them or price the bake by parts
 T-3365 — 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
 
 # --- 7. SOUTH THROUGH TIME — PRAIRIE AVENUE 1904, ARCHITECTURAL ASSET PROGRAMME (T-1837)
@@ -138,7 +137,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
-T-3500 — 1812: card every missing person of the gathering and the Miami escort with a lodge home; about 1 in 5 drawn outdoors, the rest inside and called out by name at the lodge door; card Louis Fettle
 T-3509 — 1812 battle participants: each Native card says its part on 15 August, sourced for the named and a flagged likely part for the reconstructed
 T-3508 — 1812: card the named Native people of the Chicago country who may have been at the camps, each with their sourced story and a likeness
 T-3507 — 1812 Native cards equal to settler cards: a researched, respectful reconstructed Potawatomi or Miami name and a reconstructed history for every unnamed Native card, each reconstruction flagged
