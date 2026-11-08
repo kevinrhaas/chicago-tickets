@@ -139,6 +139,7 @@ T-3041 — Match the first Fort Dearborn buildings against every reference pictu
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
 T-3500 — 1812: card every missing person of the gathering and the Miami escort with a lodge home; about 1 in 5 drawn outdoors, the rest inside and called out by name at the lodge door; card Louis Fettle
+T-3508 — 1812: card the named Native people of the Chicago country who may have been at the camps, each with their sourced story and a likeness
 T-3507 — 1812 Native cards equal to settler cards: a researched, respectful reconstructed Potawatomi or Miami name and a reconstructed history for every unnamed Native card, each reconstruction flagged
 T-3506 — 1812 Native people: no two dressed alike: per-person dress colours, worn pieces and hair from the 1812 dress evidence, on the existing figures with no new models
 
