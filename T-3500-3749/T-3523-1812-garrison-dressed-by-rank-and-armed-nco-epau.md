@@ -1,7 +1,7 @@
 ---
 id: T-3523
 title: 1812 garrison dressed by rank and armed: NCO epaulettes, musicians' red coats and drums, fatigue dress, officers' epaulettes by rank and sashes, muskets with bayonets carried by duty
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/8/2026, 4:19:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-08T22:19:38.987Z
 decision: null
 decision_answer: null
 ---
