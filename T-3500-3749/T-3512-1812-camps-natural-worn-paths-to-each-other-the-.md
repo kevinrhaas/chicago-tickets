@@ -23,4 +23,6 @@ decision_answer: null
 
 1812 camps: natural worn paths to each other, the river, the fort and the factory.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+Owner, 2026-11-08 (thread "Make 1812 landscape and camps natural"): *"A couple things: the camps look oddly regular, maybe that is the case that they are very round like that, but I would expect more variation, but check me on that. The camps are also missing natural worn paths to each other and the river and maybe even to the fort or factor house or important paths, make them natural. Overall from above I think south of the river you would have had more trees like pockets of trees scattered like the whole southern shoreline we developed, those beachy ridges and landscape should cover the whole chicago area landscape along the shore and nice varaiarion and sensible trees cottonwoods etc that we know grow and the low cedars, the landscapes of the battle site and the areas inland would be similar to the chicago landscape. I also note that from above it looks very patchy regular repeating pattern on the ground . While you don't see this while walking you can see how regular it looks from above and it would be nice if it did not looks so regular"*
+
+**Acceptance:** Worn treads link the camps to each other, to the water (the river and the State Street creek), to the factory and the fort, and to the south-bank path, routed by the same least-cost rule as T-3339's trails, lighter than the fort road. Gate: generate_worn_ground_1812.py --check.
