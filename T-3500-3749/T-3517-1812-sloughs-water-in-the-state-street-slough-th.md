@@ -1,7 +1,7 @@
 ---
 id: T-3517
 title: 1812 sloughs: water in the State Street slough the camps sit around, carved naturally (owner)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1887
 claimed_by: run 11/8/2026, 1:49:01 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T21:52:07Z
 claimed_run: null
 claimed_at: 2026-11-08T19:49:02.736Z
 decision: null
