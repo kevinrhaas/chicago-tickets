@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: done
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,14 +9,14 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: 2026-11-07
-pr: 1804
-claimed_by: run 11/6/2026, 10:09:03 PM CT
+closed: null
+pr: null
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-11-07T10:23:46Z
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42336724464
-claimed_at: 2026-11-07T04:09:04.161Z
+closed_at: null
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -42,6 +42,13 @@ Package **C06B**, one part of the owner-requested [T-1837](../T-1750-1999/T-1837
 **Execution gate:** owner approved resumption on 2026-10-01 (America/Chicago): “Go”, then “Push the tickets to dev queue in one group below”. The inherited 2026-09-30 construction hold is lifted. This ticket is open in the single Prairie programme group at the bottom of QUEUE.md. Its listed dependencies and needs_bake requirement still apply; read their current state before claiming.
 
 **Bound:** complete the stated package using shared components. If full-resolution source inspection or the rear-polygon census makes it larger than one run, split this specific child before claiming; retain the whole acceptance and parent links. Glessner roof repairs remain with T-1830/T-1833; legal-lot work remains with T-1745 and road/sidewalk materials with T-1728.
+
+
+## Reopened (owner, 2026-11-08): the south front and its south-west corner
+
+Owner, 2026-11-08, thread "Match 1801 Prairie's south front to photos", on HABS photograph 1: *"can you improve the kimball house 1801 prarie to photographic match like particularly the southern half, you have some nice pieces here and you need to bring that curved flat and curved piece all together and match the facade based on the photos like from this south west angle you can see how far off you are from that corner, your roof line there is completely off"*.
+
+It closed on 2026-11-07 (PR #1804) with all three match records reading `matches`. Reopened in place, not refiled (T-3153): the bow, the gabled face and the round bay as one front, the south-west corner's roof line, against HABS photograph 1 and the other two pictures.
 
 ## Refines the district draft (owner, 2026-10-08)
 
