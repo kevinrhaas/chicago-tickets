@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/7/2026, 6:04:38 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42427636851
-claimed_at: 2026-11-08T00:04:39.106Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -194,3 +194,5 @@ Fix first, before further detail: (1) the Prairie front as three steps back from
 **Released 2026-11-07** (claim of run 11/7/2026, 2:32:13 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42410951033): PR #1852 (18th Street's tree at 58.8 m before the house's south-east corner regrown on a tall leader under a narrow head, off Taylor 16554 and the Detroit print det 4a08066; Taylor 16554's trees item and det 4a08066's trees item ruled within tolerance as camera-fit disagreements, so taylor_16554_from_south now matches) is up on resume while its CI gate finishes; Detroit 4a08065's door leaves and the owner's 2026-10-28 item, Taylor 1445's north block and 4a08066's porte-cochere remain open, so the owner's ticket stays open
 
 **Released 2026-11-07** (claim of run 11/7/2026, 4:47:53 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42420585960): PR #1857 (the Detroit print det 4a08066's camera re-solved on the house's own flank: 2.6 px rms against 20.6, eye 1.6 m on Calumet Avenue from the gas lamp's horizon; From this spot moves with it; the porte-cochere's place item fixed, it was the camera) is up on resume while its CI gate finishes; newly open through 4a08066: the house's heights about 10 % over the build's (as Taylor 1445 reads), the east arch's mouth, the review ivy in it, the parkway trunks, the 18th Street piers and the east section's windows; the stable's misfit noted for T-1934. Detroit 4a08065's door leaves and the owner's 2026-10-28 item and Taylor 1445's north block remain open, so the owner's ticket stays open
+
+**Released 2026-11-07** (claim of run 11/7/2026, 6:04:38 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42427636851): PR #1857 (the Detroit print det 4a08066's camera re-solved on the 18th Street flank: rms 20.6 → 2.6 px over the same 10 points, eye on Calumet Avenue ~30 m south of 18th Street; match record re-judged — porte-cochère place fixed) merged to dev after its resume run re-gated it on dev (check.sh 4/4 green, mobile stage 9 and desktop stage 3 smoke green); the image gate stays open on the upper storeys' heights (~10 % under the prints), the porte-cochère's east arch, the ivy in the arch, parkway trunks, the 18th Street pier row, the east section's windows and the unsolved CHM 1905 views, so the owner's ticket stays open
