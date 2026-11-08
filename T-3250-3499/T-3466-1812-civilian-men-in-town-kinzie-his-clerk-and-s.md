@@ -1,7 +1,7 @@
 ---
 id: T-3466
 title: 1812 civilian men in town: Kinzie, his clerk and servants, Ouilmette, Burns, Lee and the militia in trader's and engagé dress
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-08
 pr: 1869
 claimed_by: run 11/7/2026, 8:13:30 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T11:01:11Z
 claimed_run: null
 claimed_at: 2026-11-08T02:13:30.930Z
 decision: null

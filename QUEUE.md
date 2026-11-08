@@ -138,11 +138,6 @@ T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the b
 T-3041 — Match the first Fort Dearborn buildings against every reference picture
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
-T-3463 — 1812 officers in town: Heald, Helm, Ronan and Van Voorhis in officers' dress of 1812 at their quarters
-T-3464 — 1812 women in town: officers' wives, soldiers' wives, Cicely and the civilian women in 1812 dress at the fort and the houses
-T-3465 — 1812 children in town: a child's body on the shared rig, 1812 children's dress, and the garrison and Kinzie children placed
-T-3466 — 1812 civilian men in town: Kinzie, his clerk and servants, Ouilmette, Burns, Lee and the militia in trader's and engagé dress
-T-3467 — 1812 Potawatomi and Miami people in town: researched dress, the named leaders and a respectful reconstructed number at the camp, and Wells's Miami escort
 T-3500 — 1812: card every missing person of the gathering and the Miami escort with a lodge home; about 1 in 5 drawn outdoors, the rest inside and called out by name at the lodge door; card Louis Fettle
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
