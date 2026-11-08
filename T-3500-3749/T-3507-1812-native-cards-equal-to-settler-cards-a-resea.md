@@ -24,3 +24,6 @@ decision_answer: null
 1812 Native cards equal to settler cards: a researched, respectful reconstructed Potawatomi or Miami name and a reconstructed history for every unnamed Native card, each reconstruction flagged.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+- Every unnamed Native card (gathering, camp, Miami escort) gets a reconstructed name: a Potawatomi (or Miami) name with its English sense, built from documented vocabularies and naming practice (clan-name and dream-name practice, Skinner; Bourassa's vocabulary), never a recorded real person's name, and marked reconstructed on the card.
+- Each card gets a reconstructed history (village or band, family, the year's round, trade, coming to the gathering, what became of people like them), every reconstructed sentence flagged, at least as full as a settler card.
+- Card shows the name as reconstructed; liberty recorded; review_required/touches_removal kept.
