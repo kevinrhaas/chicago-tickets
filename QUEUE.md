@@ -29,7 +29,6 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
-T-3493 — Frances: older face, finer brows, lashes that blink /tmp/claude-0/-home-user/a2c7c8df-b4f9-5b35-a8e4-d5eecc9d0ff6/scratchpad/t_frances.md
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
@@ -207,11 +206,5 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 # BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3477 — 1812: plant the settlement's other gardens and fields (Kinzie, Lee's Place, the forks, the sutler) beside the officer's
-T-3478 — Stand-in likenesses: a face fitted to a stand-in's photograph when none of the person is known, labelled on the card and the picture
-T-3479 — Kate Ryan, the Glessners' cook (Irish, born 1850), drawn at 1800 Prairie in her own period work dress, face fitted to a photograph or stand-in
-T-3481 — Christine Nelson, the Glessners' parlor maid (Swedish, born 1873), drawn in her own period dress, walking back from market round the block, face fitted to a photograph or stand-in
-T-3483 — Charles Nelson, the Glessners' coachman (Swedish, born 1848), drawn at the coach house in his own livery, face fitted to a photograph or stand-in
-T-3484 — August Billings, the Glessners' stable helper (Swedish, born 1875), drawn in the stable yard in his own work clothes, face fitted to a photograph or stand-in
-T-3486 — Mattie Williamson and Mary Reynolds: faces fitted to a photograph of them or a stand-in, shown on their cards
 T-3491 — 1812 soldiers each look like themselves: complexion, hair colour and cut, eyes and stature from his name's heritage and the period's enlistment descriptions, graded on his card
 T-3494 — Spread 1835 boarders over the named households' dwellings: three South log houses hold 77 to 82 households each

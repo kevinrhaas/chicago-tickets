@@ -1,7 +1,7 @@
 ---
 id: T-3478
 title: Stand-in likenesses: a face fitted to a stand-in's photograph when none of the person is known, labelled on the card and the picture
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-07
-closed: null
+closed: 2026-11-07
 pr: 1856
 claimed_by: run 11/7/2026, 12:59:47 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T00:38:02Z
 claimed_run: null
 claimed_at: 2026-11-07T18:59:48.639Z
 decision: null
