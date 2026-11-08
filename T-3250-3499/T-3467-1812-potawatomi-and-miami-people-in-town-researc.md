@@ -1,7 +1,7 @@
 ---
 id: T-3467
 title: 1812 Potawatomi and Miami people in town: researched dress, the named leaders and a respectful reconstructed number at the camp, and Wells's Miami escort
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1869
 claimed_by: run 11/7/2026, 8:13:33 PM CT
 blocked_on: null
 needs_bake: false
