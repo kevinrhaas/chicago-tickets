@@ -1,7 +1,7 @@
 ---
 id: T-3516
 title: 1835 and 1904 people have a purpose for every part of the day: a job about their place on a loop, short talks with neighbours, breaks in and out of their own door, indoors at night
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1882
 claimed_by: run 11/8/2026, 12:44:17 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T19:43:09Z
 claimed_run: null
 claimed_at: 2026-11-08T18:44:18.665Z
 decision: null
