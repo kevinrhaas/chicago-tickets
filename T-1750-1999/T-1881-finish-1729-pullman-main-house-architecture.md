@@ -1,7 +1,7 @@
 ---
 id: T-1881
 title: Finish 1729 Pullman main house architecture
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-08
 pr: 1871
 claimed_by: run 11/7/2026, 11:17:28 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-08T06:15:03Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/42449209425
 claimed_at: 2026-11-08T05:17:28.793Z
 decision: null
