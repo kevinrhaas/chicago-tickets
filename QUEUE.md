@@ -205,3 +205,4 @@ T-3521 — Person cards: Find and Go to house reach everyone; every Their story 
 T-3523 — 1812 garrison dressed by rank and armed: NCO epaulettes, musicians' red coats and drums, fatigue dress, officers' epaulettes by rank and sashes, muskets with bayonets carried by duty
 T-3524 — Glessner court service door opens and shuts as people pass; they climb and come down the service stair in sight
 T-3525 — Glessner household tour: a 1904 jaunt round 1800 Prairie told by the people who live and work there
+T-3526 — 1812 mat lodges seem to float from far away: camp earth paints over their feet
