@@ -1,7 +1,7 @@
 ---
 id: T-3505
 title: Everyone in 1812 has a purpose for every part of the day: talks gather and break up, each person works or plays between them, breaks indoors at their home door
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1878
 claimed_by: run 11/8/2026, 10:37:22 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T18:40:48Z
 claimed_run: null
 claimed_at: 2026-11-08T16:37:23.203Z
 decision: null
