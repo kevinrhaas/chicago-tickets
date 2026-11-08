@@ -1,7 +1,7 @@
 ---
 id: T-3497
 title: 1812 horse-drawn wagons in motion: the photographic farm wagon driven by garrison privates on the fort's tracks, loops round the fort and loading runs between gate, factory, wharf and stables on the eve of the evacuation
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-07
 closed: null
-pr: null
+pr: 1866
 claimed_by: run 11/7/2026, 8:48:15 PM CT
 blocked_on: null
 needs_bake: false
