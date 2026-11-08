@@ -1,0 +1,26 @@
+---
+id: T-3504
+title: People stand on the ground and never share a spot: knots stand in a ring, shared work spots and walk ends spaced, figures keep personal space while they move, in every year
+state: open
+epic: META
+requested_by: owner
+seen: false
+effort: M
+legacy_id: null
+parent: null
+opened: 2026-11-08
+closed: null
+pr: null
+claimed_by: null
+blocked_on: null
+needs_bake: false
+closed_at: null
+claimed_run: null
+claimed_at: null
+decision: null
+decision_answer: null
+---
+
+People stand on the ground and never share a spot: knots stand in a ring, shared work spots and walk ends spaced, figures keep personal space while they move, in every year.
+
+**Acceptance:** (state it before working — the definition of done, never weakened to pass)
