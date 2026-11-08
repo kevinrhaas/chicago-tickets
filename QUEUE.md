@@ -207,3 +207,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3491 — 1812 soldiers each look like themselves: complexion, hair colour and cut, eyes and stature from his name's heritage and the period's enlistment descriptions, graded on his card
 T-3494 — Spread 1835 boarders over the named households' dwellings: three South log houses hold 77 to 82 households each
+T-3496 — People's arm and hand swing from measured arm curves: arm mostly behind, forearm trailing, hands relaxed with the thumb in
