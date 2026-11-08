@@ -1,7 +1,7 @@
 ---
 id: T-3510
 title: 1812 river crossings: varied photographic dugouts, bark canoes and skiffs drawn up on the banks, a Cross action that rows the visitor over, and the fort wharf in photographic weathered timber
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-08
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/8/2026, 11:23:59 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-08T17:24:00.483Z
 decision: null
 decision_answer: null
 ---
