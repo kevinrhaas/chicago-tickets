@@ -1,7 +1,7 @@
 ---
 id: T-1934
 title: Refine Pullman stable, additions and conservatory estate
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 1872
 claimed_by: run 11/8/2026, 12:29:34 AM CT
 blocked_on: null
 needs_bake: true
