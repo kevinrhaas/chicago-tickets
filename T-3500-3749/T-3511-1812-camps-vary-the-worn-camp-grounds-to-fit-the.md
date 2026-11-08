@@ -1,7 +1,7 @@
 ---
 id: T-3511
 title: 1812 camps: vary the worn camp grounds to fit the sources (owner: oddly regular)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1879
 claimed_by: run 11/8/2026, 11:37:26 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-08T19:21:46Z
 claimed_run: null
 claimed_at: 2026-11-08T17:37:27.642Z
 decision: null
