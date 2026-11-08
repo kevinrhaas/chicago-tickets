@@ -1,7 +1,7 @@
 ---
 id: T-3518
 title: 1812 boats dry inside and skiffs full height; card review note small at the foot of the card
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-08
 closed: null
-pr: null
+pr: 1884
 claimed_by: run 11/8/2026, 2:05:09 PM CT
 blocked_on: null
 needs_bake: false
