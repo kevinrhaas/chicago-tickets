@@ -201,3 +201,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3517 — 1812 sloughs: water in the State Street slough the camps sit around, carved naturally (owner)
 T-3519 — 1812 phone and desktop memory ceilings argued for the people work (phone 250 -> 350 MiB, desktop 700 -> 875 MiB)
+T-3520 — 1812 children: a child's walk, their own dress and hair, fewer out at once and near home
