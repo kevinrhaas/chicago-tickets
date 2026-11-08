@@ -25,8 +25,6 @@ Glessner court service door opens and shuts as people pass; they climb and come 
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
-
 The owner, 2026-11-08: *"when people enter the glessner house from the rear they just kind of disappear at the staircase i think the door should work and the stairs and they should come up and down the stairs"*.
 
 Scope: the 1904 Glessner House (1800 Prairie), on dev, desktop and a 390x780 phone.
