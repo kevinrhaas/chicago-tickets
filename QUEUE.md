@@ -139,6 +139,7 @@ T-3041 — Match the first Fort Dearborn buildings against every reference pictu
 T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
 T-3500 — 1812: card every missing person of the gathering and the Miami escort with a lodge home; about 1 in 5 drawn outdoors, the rest inside and called out by name at the lodge door; card Louis Fettle
+T-3506 — 1812 Native people: no two dressed alike: per-person dress colours, worn pieces and hair from the 1812 dress evidence, on the existing figures with no new models
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
 # Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
