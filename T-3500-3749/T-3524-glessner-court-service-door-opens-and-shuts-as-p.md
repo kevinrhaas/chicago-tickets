@@ -1,7 +1,7 @@
 ---
 id: T-3524
 title: Glessner court service door opens and shuts as people pass; they climb and come down the service stair in sight
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1892
 claimed_by: run 11/8/2026, 4:37:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-09T01:39:37Z
 claimed_run: null
 claimed_at: 2026-11-08T22:37:14.112Z
 decision: null
