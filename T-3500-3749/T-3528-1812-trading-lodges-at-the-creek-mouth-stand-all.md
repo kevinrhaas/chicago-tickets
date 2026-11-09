@@ -1,7 +1,7 @@
 ---
 id: T-3528
 title: 1812 trading lodges at the creek mouth stand all year (owner's pick on the dated camps card)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-08
 closed: null
-pr: null
+pr: 1896
 claimed_by: run 11/8/2026, 7:33:38 PM CT
 blocked_on: null
 needs_bake: false
