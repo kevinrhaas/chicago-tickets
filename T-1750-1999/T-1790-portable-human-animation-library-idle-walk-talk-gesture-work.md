@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: done
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,17 +9,22 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: 2026-11-05
-pr: 1723
-claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 to take over Hans's idle life, clothing and carriage pace) 11/5/2026, 1:01:03 PM CT
-blocked_on: T-1789
+closed: null
+pr: null
+claimed_by: null
+blocked_on: null
 needs_bake: true
-closed_at: 2026-11-05T21:31:57Z
+closed_at: null
 claimed_run: null
-claimed_at: 2026-11-05T19:01:04.394Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
+
+## Queue acceptance audit — 9 November 2026
+
+Reopened after acceptance review. PR #1723 delivered seated-driver animation and remains credited. Current DEV has no exported talk, gesture, carry or work clips in the 248-GLB human fixture inventory; browser additive actions do not fulfil the portable Blender animation-library requirement. Finish the reusable clips, transition/metadata contracts and their measured CPU acceptance. Existing delivered idle/walk/driver work must be reused. Reviewed against DEV `dc998577d76a09a31a5519b7deb0c0c0f6e1f869` and the merged PR evidence. This restores unfinished acceptance; it does not revert delivered code or revoke the completed increments.
+
 
 ## Verified incremental progress — 2026-11-04 09:58 UTC
 

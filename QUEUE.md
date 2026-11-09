@@ -44,6 +44,7 @@
 # reopened, Glessner, then the owner's photo reworks already in hand. T-3273 (the Pullman conservatory, filed 2026-10-31) came up from 8b's foot.
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 # Owner, 2026-11-05: "1801 prairie should also reenter photo matching the facade on prairie is still way off". Reopened in place (its ## Reopened section).
+T-1890 — Finish 1801 Kimball corner mansion architecture
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
 T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
@@ -143,9 +144,11 @@ T-2484 — 1812: build the Kinzie house, the former Point du Sable house on the 
 # Owner, 2026-10-03: had moved it to sit directly above the Prairie Avenue 1904 architectural programme.
 # Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
 T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
+T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evidence with attested likeness, period analogy and reconstruction kept apart, the figure assembled from the T-1789 library on the shared rig, inspected front, three-quarter and profile renders, and LODs exported through T-1787
 T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
 T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
+T-3410 — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs
 T-1792 — Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
 T-3420 — Talking in pairs, sweeping, carrying and leaning (needs a second person and props)
 T-3421 — Coat-tail sway on walkers (needs coats from the wardrobe kit)
@@ -168,8 +171,10 @@ T-2797 — Board, ride and leave a carriage or wagon with accessible controls
 # Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
 T-3088 — Refine the horse anatomy and near silhouette against cleared views
 T-3089 — Qualify horse surface materials and portable distance exports
+T-2803 — Rig the horse and author grounded idle, walk and trot clips
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
+T-2804 — Fit portable-human riders and drivers to horses and vehicles
 T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
@@ -196,6 +201,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 # BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
 #     waits: T-1872
-# BLOCKED-TECH T-3410 (opened 2026-11-06, RENDERING) — A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, …
-#     waits: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'

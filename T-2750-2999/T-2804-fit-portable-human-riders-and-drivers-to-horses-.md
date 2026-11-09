@@ -1,7 +1,7 @@
 ---
 id: T-2804
 title: Fit portable-human riders and drivers to horses and vehicles
-state: done
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,17 +9,22 @@ effort: M
 legacy_id: null
 parent: T-2798
 opened: 2026-10-18
-closed: 2026-11-05
-pr: 1733
-claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 for texture on Hans's clothing) 11/5/2026, 2:11:48 PM CT
+closed: null
+pr: null
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-11-06T00:05:30Z
+closed_at: null
 claimed_run: null
-claimed_at: 2026-11-05T20:11:49.560Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
+
+## Queue acceptance audit — 9 November 2026
+
+Reopened for the remaining mounted-rider and synchronized gait/fit requirements. PR #1733 improved seated-driver clothing; that delivery remains accepted. The reviewed runtime has seated drivers but no mounted horse rider, fitted saddle/stirrups or accepted rider idle/walk/trot assembly. Riding gear (T-2802) and mounting controls (T-2805) remain separate open work; preserve the accepted driver/clothing increments. Reviewed against DEV `dc998577d76a09a31a5519b7deb0c0c0f6e1f869` and the merged PR evidence. This restores unfinished acceptance; it does not revert delivered code or revoke the completed increments.
+
 
 ## Verified incremental progress — 2026-11-04 09:58 UTC
 

@@ -1,7 +1,7 @@
 ---
 id: T-2803
 title: Rig the horse and author grounded idle, walk and trot clips
-state: done
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,17 +9,22 @@ effort: M
 legacy_id: null
 parent: T-2798
 opened: 2026-10-18
-closed: 2026-11-05
-pr: 1729
-claimed_by: Claude thread 'Bring coachman and carriage to life' (Kevin asked 2026-11-05 for a realistic slow carriage pace) 11/5/2026, 2:11:45 PM CT
+closed: null
+pr: null
+claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: 2026-11-05T22:59:19Z
+closed_at: null
 claimed_run: null
-claimed_at: 2026-11-05T20:11:46.198Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
+
+## Queue acceptance audit — 9 November 2026
+
+Reopened for the remaining trot requirement. PR #1729 delivered the current26 lateral-sequence walk at 1.3 m/s and remains accepted progress. The selected runtime does not provide the promised qualified trot. Retain the existing grounded idle/walk work; author and qualify the missing trot and the original gait/contact/export requirements without replaying the walking delivery. Reviewed against DEV `dc998577d76a09a31a5519b7deb0c0c0f6e1f869` and the merged PR evidence. This restores unfinished acceptance; it does not revert delivered code or revoke the completed increments.
+
 
 ## Actual finite quiet head/neck qualification complete — 29 October 2026, 7:48 PM CT
 

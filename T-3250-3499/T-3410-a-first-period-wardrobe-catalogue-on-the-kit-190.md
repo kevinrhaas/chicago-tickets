@@ -1,7 +1,7 @@
 ---
 id: T-3410
 title: A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs
-state: blocked-tech
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,20 @@ parent: null
 opened: 2026-11-06
 closed: null
 pr: null
-claimed_by: run 11/6/2026, 1:16:39 AM CT
-blocked_on: T-3423 (a woman's body on the shared rig, filed on the owner's 'File it', 2026-11-06) for the maid and the lady, and T-3417 reference sets for every role but the 1904 coachman
+claimed_by: null
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-06T07:16:40.448Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
+
+## Queue acceptance audit — 9 November 2026
+
+The former blockers T-3423 (female shared-rig body, PR #1787) and T-3417 (paired reference rig, PR #1754) have merged. All six catalogue-role implementations also landed in PRs #1822–#1824. Restore this ticket to open for the remaining paired 3 m/10 m appearance reviews and complete catalogue acceptance; asset availability alone is not closure. Reviewed against DEV `dc998577d76a09a31a5519b7deb0c0c0f6e1f869` and the merged PR evidence. This restores unfinished acceptance; it does not revert delivered code or revoke the completed increments.
+
 
 A first period wardrobe catalogue on the kit: 1904 maid, gentleman and lady; 1835 merchant and labourer; 1812 soldier, each read from period plates and photographs.
 
