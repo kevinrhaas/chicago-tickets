@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago Sauganash finite stopping-rule signoff investigation 11/4/2026, 7:25:58 AM CT
+claimed_by: Chicago original-picture Sauganash resume 2026-11-09 11/9/2026, 3:35:42 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-04T13:25:58.887Z
+claimed_at: 2026-11-09T21:35:43.772Z
 decision: null
 decision_answer: null
 ---
