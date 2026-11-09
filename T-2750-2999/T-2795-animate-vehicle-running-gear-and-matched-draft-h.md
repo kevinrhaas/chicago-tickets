@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## First passenger-carriage hitch requested — 9 November 2026
+
+The owner identified the existing carriage outside Glessner House: add its horse and make the same carriage available for a coachman-led passenger ride. Reuse its existing model and the horse/gear work (T-2801); preserve attachment/contact and wheel/stride mechanics through start, turn, stop and passenger approach. T-2797 owns physical board/ride/leave and coachman request controls, with Mr. Glessner allowed as an existing identified passenger. Do not substitute a second decorative vehicle or relabel a camera-only mode as boarding. This is recorded within existing scope; no new ticket or completed hitch is claimed.
+
+
 ## Delivery progress — 2026-10-23 10:14 UTC
 
 PR #1175 merged to DEV (fffae74c7); its resident, timber wagons, distinct canvas and Brougham are delivered. PR #1213 closed as superseded after full63-path containment. Standing horse is applied on currentDEV e4745b3 in a separate branch; actual canonical owners, measured unit and isolation checks pass; fullpreflight and actual published app verification are next. Broad photographic, gait, complete gear, occupied teams and riding acceptance remain open. Full current source and actual merge/owner receipts are GitHub-checkpointed; see HANDOVER.md.

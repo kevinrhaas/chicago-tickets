@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Owner's Glessner carriage horse — 9 November 2026
+
+Explicit checklist: “A horse for the carriage in front of the Glessner house.” Reuse the existing carriage, existing horse model and period gear as the first concrete passenger-carriage hitch. Supply visible, coherent horse/shaft/trace/rein attachments before its boarding/ride acceptance (T-2795/T-2797). The intended visit is approach the coachman, ask to board, then ride; Mr. Glessner may be a passenger, not an invented coachman. Improve existing work rather than adding a separate decorative carriage or filing another ticket. No hitch or ride completion is claimed by this scope note.
+
+
 ## Depends on
 
 T-2799, T-2800, T-2792, T-2793. Read each dependency before claiming; do not silently skip its proof.
