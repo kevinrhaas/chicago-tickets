@@ -1,7 +1,7 @@
 ---
 id: T-3531
 title: Person cards: Find and Follow only when the person can be found now, and cross the river by boat before flying
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-08
 closed: null
-pr: null
+pr: 1898
 claimed_by: run 11/8/2026, 8:39:53 PM CT
 blocked_on: null
 needs_bake: false
