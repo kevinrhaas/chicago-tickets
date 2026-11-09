@@ -202,5 +202,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3523 — 1812 garrison dressed by rank and armed: NCO epaulettes, musicians' red coats and drums, fatigue dress, officers' epaulettes by rank and sashes, muskets with bayonets carried by duty
 T-3524 — Glessner court service door opens and shuts as people pass; they climb and come down the service stair in sight
 T-3525 — Glessner household tour: a 1904 jaunt round 1800 Prairie told by the people who live and work there
-T-3527 — 1812 gathering camps come and go with the date: lodges, worn ground and camp paths only 12-16 August
 T-3528 — 1812 trading lodges at the creek mouth stand all year (owner's pick on the dated camps card)

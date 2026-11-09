@@ -1,7 +1,7 @@
 ---
 id: T-3527
 title: 1812 gathering camps come and go with the date: lodges, worn ground and camp paths only 12-16 August
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-08
-closed: null
+closed: 2026-11-08
 pr: 1894
 claimed_by: run 11/8/2026, 6:22:08 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-09T01:31:04Z
 claimed_run: null
 claimed_at: 2026-11-09T00:22:09.072Z
 decision: null
