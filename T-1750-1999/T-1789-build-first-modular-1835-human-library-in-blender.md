@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Active canonical library work — 9 November 2026
+
+Queue acceptance audit completed against DEV `dc998577d76a09a31a5519b7deb0c0c0f6e1f869`; this is the first remaining human ticket and is now claimed for continued work. PR #1346's source-library delivery remains credited. Older API-access blockers below are historical; GitHub access is working.
+
+[Current-source canonical build, run 42703941214](https://github.com/kevinrhaas/chicago/actions/runs/42703941214) has started on an isolated measurement branch with the existing artifact-only human workflow. It regenerates the Otis Bardwell, Joseph Dufresne and Martin Flynn workwear masters through the portable export path. The real human fixture runs before the optional canonical job. No website, production promotion or complete library acceptance is claimed by dispatching this build. Remaining work includes checking the generated assemblies, the required three Blender stills, modular garment/material coverage and measured exports against the original acceptance below.
+
+
 ## Active motion and delivery update — 2026-10-29 03:38 PM CT
 
 Checked human-library source a397 remains public with its actual full preflight and committed-head checks. Separate T1790 current-existing-rig motion correction now has all eight Otis master/web LODs finite native129 qualified and is integrating latest DEV before actual scene review. Canonical new modular-library bake/ingestion and three Blender stills remain blocked by GitHub API access. Broad photographic acceptance remains open.
