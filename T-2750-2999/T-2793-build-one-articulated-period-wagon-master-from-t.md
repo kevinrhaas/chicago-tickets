@@ -1,7 +1,7 @@
 ---
 id: T-2793
 title: Build one articulated period wagon master from the existing wagon families
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 11/3/2026, 8:39:00 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-03T14:39:02.596Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -307,3 +307,5 @@ PR1340 frozen source remains78b11b7a8e49126a8a5724a4035ea961461a4f49; full1105PA
 PR1340 has normally pushed checked head33d5abc. Its original moving frames, both still-frame checks and all six scene/viewport memory checks passed. Its two failures are preserved: required-texture comparison after source hierarchy collapse, and an inherited coach-house manifest input hash. The first is repaired with a compact original-slot fingerprint; actual released-source/missing-slot/wrong-node/repeated-material controls pass77/77. The repaired published1904 Full→Light interaction passed10/10 in196.379s under the original600s foreground limit, with unchanged frame/picking and banked/retained geometry0. The native coach-house emitter reproduces its existing141404B master exactly and refreshed only its manifest input hash; no geometry was changed.
 
 The six-path repair is staged at candidate tree88472d15787f062f82a5255bd42ccd88aa80f1d9, with a fresh four-part required gate in progress. It is not yet committed, merged, or a broad photo-quality acceptance. Driver-loop/horse/Otis source is being integrated separately; source/world/browser/interaction qualification and DEV delivery remain pending. Closed progress saved at chicago-evidence81460e8fa9505a72dde1627b54f0af3f852fce8c.
+
+**Released 2026-11-09** (claim of Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 11/3/2026, 8:39:00 AM CT): Owner-requested 2026-11-09 queue refresh: expired inactive claims. Preserve merged increments and all remaining photographic, physical-interface and qualification requirements.

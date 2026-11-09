@@ -1,7 +1,7 @@
 ---
 id: T-3084
 title: Match the Brougham body and materials to the 1893 catalogue
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2794
 opened: 2026-10-23
 closed: null
 pr: null
-claimed_by: Codex root carriage_resume continuing owned coachwork and cabin finish delivery in this session 10/26/2026, 9:38:55 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-10-27T02:38:56.443Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -70,3 +70,5 @@ the bounded T-3083 lamp refinement. This is one specimen, not a fleet or era var
 
 The parent retains the entire original ask, sources and all historical increments.
 No photographic acceptance exists merely because T-3083 merges.
+
+**Released 2026-11-09** (claim of Codex root carriage_resume continuing owned coachwork and cabin finish delivery in this session 10/26/2026, 9:38:55 PM CT): Owner-requested 2026-11-09 queue refresh: expired inactive claims. Preserve merged increments and all remaining photographic, physical-interface and qualification requirements.
