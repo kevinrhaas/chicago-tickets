@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-09T23:24:20.722Z
 decision: null
 decision_answer: null
+group: T-2374,T-2376,T-2380
 ---
 
 Match Cobweb Castle to its pictures.

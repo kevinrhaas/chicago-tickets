@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:26:23 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-09T23:26:25.430Z
 decision: null
 decision_answer: null
+group: T-2374,T-2376,T-2380
 ---
 
 Match the log jail to its pictures.
