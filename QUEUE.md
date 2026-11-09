@@ -204,3 +204,4 @@ T-3525 — Glessner household tour: a 1904 jaunt round 1800 Prairie told by the 
 T-3528 — 1812 trading lodges at the creek mouth stand all year (owner's pick on the dated camps card)
 T-3530 — A Potawatomi family lives at the 1812 lodges by the river all year (owner's pick)
 T-3529 — 1812 toddler still kneels: a nudge leaves its planted foot behind
+T-3531 — Person cards: Find and Follow only when the person can be found now, and cross the river by boat before flying
