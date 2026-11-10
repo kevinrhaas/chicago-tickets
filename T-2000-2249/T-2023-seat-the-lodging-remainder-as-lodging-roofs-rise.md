@@ -104,3 +104,12 @@ West lodging roof, and nothing needs to**:
   `persons/male/10_19/west/lodging/none` (5 of 6).
 
 Unblocked, since its only blocker is gone.
+
+
+## Progress checkpoint 2026-11-10 — current debt and division-safe payments
+
+PR [chicago#1920](https://github.com/kevinrhaas/chicago/pull/1920), source `195c2f761a`, separates the carried adult allocation from the live order. Its seven unspent West slots are historical residue; the current book orders zero West adults. Staffing payment now requires the same committed civil division as the premises and refuses a missing/conflicting division. Official lodger/staff checks and self-tests, unchanged housing derivation, and actual write-isolation checks pass. This checkpoint adds no people and moves no resident or housing assignment.
+
+A separate candidate for three already-ordered South youths is deliberately held outside the public delivery: the old greedy housing pass would move 1,028 existing assignments and strand a ruled-in resident. Current lodger-only bed accounting omits occupants placed by the housing overlay, so apparent empty beds are not accepted as whole-roof capacity. The completion work preserves all existing assignments, audits already-standing residential quarters, and reconciles actual household membership units instead of treating each container card as one household.
+
+The live work still belongs here: 13 people and 34 lodging-household units remain before the candidate is safely applied. No new historical people, roofs, follow-up tickets, lifecycle override or completion is claimed by this checkpoint.
