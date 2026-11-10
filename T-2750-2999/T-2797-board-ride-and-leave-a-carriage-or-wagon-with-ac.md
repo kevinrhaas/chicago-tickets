@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+
+## Both complete door sweeps pass; optical delivery next — 10 November 2026
+
+[Current source and complete near/mid proof checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/69427de85bef9b09b31d0d1ee644a7154c0f416a/evidence/transport/T2797/top-fit-both-full-clearance-20261110) is published and every remote blob is verified. The corrected near candidate passes all 2,190,221 continuous pairs in 113.474786s; mid passes all 1,718,283 pairs in 95.165698s. Both retain all 15 sampled positions with zero contacts, original depth 12, tolerance 1e-8, the 120s supervisor and resource floors. All 32 corruption controls reject as intended; owned-process cleanup is complete. The earlier 42-pair NONPASS and diagnostic failures remain preserved as historical results.
+
+The repair retains the original vertical hinge, roof/body, glass, horses and placement. Small reconstructed relief is confined to the moving top frame/header, with measured stock/attachment guards. Ceiling cap winding was corrected without changing its surface shape. A dimensional membership error was repaired by testing actual finite-triangle distance at the same original 2e-7m bound, retaining normal and corruption assertions.
+
+These are actual full surface-clearance results, not boarding approval. All five qualification flags remain false. The updated optical derivatives and new-source near/mid desktop/phone appearance checks are next; actual coachman/world interaction, occupied passage, seats/driver, ride route, stop/exit and keyboard/touch round trips remain open. Complete application check/preflight is UNRUN; no new APP commit, PR, installed door asset or DEV delivery is claimed. This body update preserves the claim, original queue place and open acceptance.
+
 ## Complete door sweep diagnosed; tested lifecycle fix saved — 10 November 2026, 10:45 AM CT
 
 [Reviewable interval/runtime source and actual receipts](https://github.com/kevinrhaas/chicago-evidence/tree/4e52842da213ae528d25659c680eb6241fff847c/evidence/transport/T2797/interval-runtime-source-checkpoint-20261110) are published and remotely verified. All five changed source/doc paths are preserved externally against APP head 74aea12f; complete APP check/preflight remains UNRUN, so no new APP commit/PR or DEV delivery is claimed. [Six original old/new closed/open source views](https://github.com/kevinrhaas/chicago-evidence/tree/0097409aa7038d8ff7b673d14f295ff4ed106d65/evidence/transport/T2797/door-source74-six-views-20261110) are also saved. Their chosen-view review is engineering evidence, not published/phone/photo/passenger acceptance.
