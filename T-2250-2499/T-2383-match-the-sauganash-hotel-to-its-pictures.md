@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago original-picture Sauganash resume 2026-11-09 11/9/2026, 3:35:42 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-09T21:35:43.772Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -201,3 +201,5 @@ Four source/current compositions were refreshed and actually viewed. Three uncha
 The broader published suite still has explicit inherited UI-fixture, first-visit payload and worst-stand triangle failures; no assertion or budget was weakened and no full-smoke pass is claimed. Baseline runtime/data trees, five large compressed dev prebuilt binaries, unchanged Hotel topology/bounds and seven fewer Hotel gzip bytes establish the limited no-regression qualification used for the owner's requested harmless incremental merge.
 
 Recovery evidence: https://github.com/kevinrhaas/chicago-evidence/tree/7ad3d9e506ecf82ff620a527a09998d2f8536253/evidence/2026-11-09-t2383-native-photo-review/ . Reviewed code, native outputs, match records and comparisons are all in merged dev; the claim remains held while this run continues the original batch.
+
+**Released 2026-11-09** (claim of Chicago original-picture Sauganash resume 2026-11-09 11/9/2026, 3:35:42 PM CT): Native increments merged to dev as PR1901 and PR1902 with final source gates green and actual target desktop/phone checks. Original wider image coverage remains partial in landed notes; this run continues the separate three-ticket PR1903 group. No forced closure or new photo follow-up.

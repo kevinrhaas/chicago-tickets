@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: Chicago original-picture west-gateway resume 2026-11-09 11/9/2026, 4:07:58 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-09T22:08:00.161Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -162,3 +162,5 @@ All four actual source-check parts and normal preflight remain required before o
 Merged to dev as d07704f13a5c20491c3453065f653c8cfe59064c: https://github.com/kevinrhaas/chicago/pull/1902 . Both first-fort stockades now have aligned reconstructed western wickets beside the NW blockhouse; unchanged south entrances remain usable. Pinned native run42715284565 produced the15 family outputs. Thirteen control WEBs are byte-identical; MASTER differences are unused untextured UVs only, with geometry/materials/confidence/layout preserved. Final source head4f0878a0f1d4b185dc01c9e8525e18bf6d3030bb passes all8 CI parts and the required gate. Actual desktop and phone gate interactions and all12 terrain walk cases pass, with14 screenshots inspected. Fresh Currey comparison supports this bounded increment under the explicit owner rulings.
 
 The whole original T-2387/T-3041 all-pictures request remains partial. The northwest blockhouse lacks its own enrolled canonical comparison, and the remaining original/context picture coverage has not been individually accepted. Broader published smoke has known baseline failures disclosed in the PR; this note does not claim it passed. Recovery and source checkpoint: https://github.com/kevinrhaas/chicago-evidence/tree/3c9b3da860d21ba480a97735c753727a5a315def/evidence/2026-11-09-parallel-three-picture-source-group/ .
+
+**Released 2026-11-09** (claim of Chicago original-picture west-gateway resume 2026-11-09 11/9/2026, 4:07:58 PM CT): Native increments merged to dev as PR1901 and PR1902 with final source gates green and actual target desktop/phone checks. Original wider image coverage remains partial in landed notes; this run continues the separate three-ticket PR1903 group. No forced closure or new photo follow-up.
