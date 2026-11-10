@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Current delivery and canonical follow-up — 10 November 2026, 04:46 UTC
+
+The existing-resident clothing surface and source hem increment [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) is already merged into DEV. The subsequent level-hem canonical producer was cancelled: it is **not a PASS**, and its generated assets were not adopted. This supersedes the earlier “remains active” producer status without removing its historical receipt.
+
+The scoped second fixture repair is now [draft PR #1909](https://github.com/kevinrhaas/chicago/pull/1909), currently open with CI pending and integration of the horse increment [PR #1908](https://github.com/kevinrhaas/chicago/pull/1908) into its branch in progress. Neither this draft nor the separately prepared coat-variation proposal is a completed canonical asset delivery; the coat proposal has no PR yet, and no new shader or photographic acceptance is claimed. Full modular kit/material/posed fit and Mark assembly acceptance remain unfinished. This broad ticket stays claimed with no closing PR assigned.
+
 ## Queue clarification: portable foundations are complete — 10 November 2026
 
 T-1786 contract ([PR #606](https://github.com/kevinrhaas/chicago/pull/606)), T-1787 exporter ([PR #644](https://github.com/kevinrhaas/chicago/pull/644)) and T-1788 browser actor ([PR #669](https://github.com/kevinrhaas/chicago/pull/669)) are already done and merged. This remaining ticket is the **modular 1835 wardrobe/body/head/hair kit and reviewed assemblies**, not an unimplemented portable pipeline. DEV `e8342e42555d65481080bbd5450bcf905006c910` has 248 measured source/web GLBs, four LODs and a shared 56-joint rig; reuse that path.

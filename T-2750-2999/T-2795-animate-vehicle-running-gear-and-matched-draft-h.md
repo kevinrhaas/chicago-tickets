@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Waiting Glessner team increment in review — 10 November 2026, 04:46 UTC
+
+[Draft PR #1908](https://github.com/kevinrhaas/chicago/pull/1908) is open at `f5e28cf333f0094c9688439d61b1bbec97681e7c`, including DEV `2dc` ancestry. It attaches a waiting pair to the retained Glessner carriage in Full and Balanced, preserving the existing carriage geometry and giving each horse independently phased quiet standing movement. This is a stationary attached-team increment, not completed running gear, coachman-led boarding or a passenger ride.
+
+Five focused checks pass. The actual phone review records finite contact/lifecycle measurements and zero browser errors; a controlled desktop image is recorded. Broader rendering-budget qualification is **not green**, and ordinary loop limits remain unresolved; these bounded views do not supersede that result. [All eight exact-HEAD CI partitions, run 42757554939](https://github.com/kevinrhaas/chicago/actions/runs/42757554939), are in progress, not passed, and the PR has not merged. Full moving hitch/turn/start/stop/contact acceptance stays open here; T-2801 retains horse/gear work and T-2797 retains physical boarding/coachman request/ride acceptance. This ticket stays claimed with no closing PR assigned.
+
 ## First passenger-carriage hitch requested — 9 November 2026
 
 The owner identified the existing carriage outside Glessner House: add its horse and make the same carriage available for a coachman-led passenger ride. Reuse its existing model and the horse/gear work (T-2801); preserve attachment/contact and wheel/stride mechanics through start, turn, stop and passenger approach. T-2797 owns physical board/ride/leave and coachman request controls, with Mr. Glessner allowed as an existing identified passenger. Do not substitute a second decorative vehicle or relabel a camera-only mode as boarding. This is recorded within existing scope; no new ticket or completed hitch is claimed.
