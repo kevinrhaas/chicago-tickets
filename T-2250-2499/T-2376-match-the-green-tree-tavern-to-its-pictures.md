@@ -173,3 +173,15 @@ Continue **T-2376, T-3041 and T-2388 as one existing-ticket group** under actor 
 
 Fresh public ownership review found T-2376 open and T-3041/T-2388 held by this same coordinator's Chicago two-fort completion group, with no matching open PR and only historical related source refs. The official claim force option is used solely to renew these own active claim timestamps and replace the old two-ticket grouping with this three-ticket continuation under the coordinator's explicit authorization. No foreign live claim, branch or writer is displaced. The previous source/date/rights rulings and partial handoffs remain in force until genuinely qualified completion; no ticket is closed by this claim.
 
+## Qualified-source checkpoint; final closure pending — 2026-11-10 06:26 UTC
+
+[PR1910](https://github.com/kevinrhaas/chicago/pull/1910) is still **DRAFT/OPEN and unmerged** at this checkpoint. This paragraph does not close the ticket, claim a final merge, or turn pending release checks into passed results.
+
+Exact source `af4cc3ff486a90571edb7f3bb48ee1609343ad5f` has completed all eight protected source parts plus required aggregate,1297actual steps, in [run42765887507](https://github.com/kevinrhaas/chicago/actions/runs/42765887507). The actual final fort/GreenTree desktop+phone body/card/source/ground reviews report52directly inspected screenshots; frozen-UI-to-final-source bindings retain the exact relevant model/data/renderer trees. Final stockade smoke190/0 and boot43.82MiB passed. These bounded results do not assert the entire release is finished.
+
+At this observed checkpoint17of18native smoke legs passed; [official desktop13 recovery42765919955](https://github.com/kevinrhaas/chicago/actions/runs/42765919955) remains running at that same source. Balanced release qualification is also still pending. The documented newFullGhost price has strict measured/negative controls; it is not permission to waive an unfinished smoke result. The earlier infrastructure cancellation, external wrong-face UI fixture and every recovery remain recorded.
+
+The existing [public source/native starting checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/2969e726f1d28c20176174cf0ac517d915041871/evidence/2026-11-10-pr1910-final-three-source/) is a durable **pre-final** checkpoint, not a substitute for the forthcoming full final qualification/readback. Final closure requires actual remaining results, final public evidence, ordinary PR1910 merge and a fresh normal image/liveness/ownership check. No new `--anyway` or fabricated `matches` is authorized or used here.
+
+The final model has the third upper-front sash identified in Trowbridge, alongside the retained left group, low connector and source-qualified body/roof work. Actual current Andreas, Kurz panel11 and Trowbridge comparisons are `matches` with zero open rows. This replaces the PR1907 partial two-window state; it does not quietly inherit that partial acceptance. The corrected app front-camera qualification is the relevant UI evidence; an earlier external wrong-face fixture was caught before qualification and remains a recorded harness failure.
+
