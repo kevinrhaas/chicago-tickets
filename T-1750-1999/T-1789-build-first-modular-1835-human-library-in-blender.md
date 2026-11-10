@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Portable human library continuation after queue audit; renewing this same sessions own active lease 11/9/2026, 6:08:29 PM CT
+claimed_by: Portable human library continuation after queue audit; verified same-session ROOT lease renewal, no competing open PR 11/9/2026, 8:45:04 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T00:08:29.755Z
+claimed_at: 2026-11-10T02:45:05.379Z
 decision: null
 decision_answer: null
 ---
