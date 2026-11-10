@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Wool palette correction saved; native tangent guard now succeeds — 10 November 2026, 14:10 UTC
+
+Read-only failed834 sourceLOD0 inspection found real wool darkening: effective linear means retained only about 8–15% of the old waistcoat/trouser/jacket colors. The shirt's existing texture palette was already within about 1%. One bounded Joseph GLB stayed in memory; exact range/CRC/full-file SHA were verified, while the full ZIP digest was not. These are uniform texel means, not rendered or surface-weighted appearance; failed834 remains failed and unadopted.
+
+The correction is saved in [source0efd0309](https://github.com/kevinrhaas/chicago/commit/0efd03090875ead0b295964262a88fc709378b0d): explicit IEC sRGB encoding for factor-only wool, preserving the inherited linen domain. Three quantized color controls and five tangent controls pass on active Joseph configuration. Seven legacy controls separately passed with an explicitly default-off input; that is not a claim that their strict default assertion passed on the opt-in recipe. Frozen linen/normal/ORM input bytes and all 975 foreign isolation rows remain exact. Actual corrected PNG export and runtime appearance remain UNVERIFIED; no producer was dispatched for0efd yet.
+
+Current [native run42824930117](https://github.com/kevinrhaas/chicago/actions/runs/42824930117) remains bound to earlier398. Its 24-container validation and original hierarchy-warning guard succeeded at 14:05 UTC; measured browser/baseline/workwear inspection is still in progress, so the full run is not yet a PASS. Actual tangent accessor readback, far-LOD equality and later palette-corrected export still need verification. No assets are adopted, and full garment-fit/material/Mark assembly/photographic acceptance stays open.
+
+
 ## Joseph cloth exporter corrected; new native qualification running — 10 November 2026
 
 The first woven-cloth native run [42815699269](https://github.com/kevinrhaas/chicago/actions/runs/42815699269), source `834fcb`, **failed** the existing exact-pointer validator: four Joseph near-LOD materials used normal maps without exported tangent accessors. The human prerequisite passed, but that does not make the producer successful. No assets from this failed run were adopted and no warning was suppressed.

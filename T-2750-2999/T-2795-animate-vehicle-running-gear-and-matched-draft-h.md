@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Current integrated ground head and public coachman evidence — 10 November 2026, 14:10 UTC
+
+[PR #1921](https://github.com/kevinrhaas/chicago/pull/1921) is now pushed at `d379150866761d7d98fe5336b7fdea0b815270cd`, normally merged with DEV `9501bbb78558973dabe622badce99af45e7c7824` after the separate masonry increment landed. Its complete hosted checks are running, not green or merged. [Immutable integration and original-failure receipts](https://github.com/kevinrhaas/chicago-evidence/tree/91efcb4f055e8c0ecf3a0527f6b9e4cbcd13ab52/evidence/transport/pedestrian-ground-2026-11-10/pr1921-integration-d37915) preserve the original 48.4ms/32ms moving-frame NONPASS, and the just-started unchanged-source rerun cancelled as superseded by this combined tree. The five runtime ground files remain exact to the actual a1bc world observation. Current focused/canonical controls pass; the manifest check first failed on four absent sparse reference files, then passed with its self-test after restoring their exact committed bytes. Full local preflight remains UNRUN; no bar was changed.
+
+[Actual current-source ground observations](https://github.com/kevinrhaas/chicago-evidence/tree/ec32be3e39d1ead21ff5144309d3ce5be9bb888c/evidence/transport/pedestrian-ground-2026-11-10/pr1921-facd6448) retain the centre-height correction and sole/contact/strict-observer limits. [Public post-1917 response evidence](https://github.com/kevinrhaas/chicago-evidence/tree/2470f040329f104f84c4cf21ce3e81d810befebb/evidence/transport/coachman-placement-2026-11-10/public-post1917-8aa) verifies the previously merged coachman source on public DEV8aa, not a fresh d379 deployment or live-world/photo pass. Broader moving-hitch, contact, photographic and physical board/ride/leave acceptance remains open with no closing PR.
+
+
 ## Coachman merged and published; pavement correction in review — 10 November 2026
 
 This supersedes the pending statuses below. [PR #1917](https://github.com/kevinrhaas/chicago/pull/1917) merged normally into DEV at `f2346303048398c0f8597861ba0bcbeac6772e15` after all required checks succeeded on exact head `11d4bb29`. Charles now waits beside the carriage team; route and errand/tour ownership fixes are included. [Immutable final merge receipts](https://github.com/kevinrhaas/chicago-evidence/tree/30ccb969a1390034d8eb5392ade715da69362560/evidence/transport/coachman-placement-2026-11-10/pr1917-final-merge-f23463) retain every current-head verdict. A fresh public read at 13:51 UTC reports DEV `8aa1afcac`: five route/interaction JavaScript files match exactly, and Charles's minified JSON is semantically exact to DEV. This is HTTP delivery verification, not a fresh live-world or photographic pass.
