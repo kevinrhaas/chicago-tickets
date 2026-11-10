@@ -1,7 +1,7 @@
 ---
 id: T-2383
 title: Match the Sauganash Hotel to its pictures
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-11
-closed: null
+closed: 2026-11-09
 pr: 1907
 claimed_by: Chicago five-building completion group 2026-11-10 11/9/2026, 8:03:15 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-10T04:16:22Z
 claimed_run: null
 claimed_at: 2026-11-10T02:03:16.731Z
 decision: null
