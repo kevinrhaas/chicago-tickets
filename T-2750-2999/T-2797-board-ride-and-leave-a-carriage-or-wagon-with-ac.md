@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Hidden carriage-door interface repair checkpoint — 10 November 2026, 14:22 UTC
+
+Source [522b5bae40](https://github.com/kevinrhaas/chicago/commit/522b5bae400a73891537b627a96829ef9799448a) is ordinarily committed and pushed, retaining the earlier failed checkpoint. It cuts the fixed interfaces at an explicitly reconstructed envelope of the actual original leaf, transfers the obstructing header/pillar fragments at the same closed surfaces, routes only the hidden middle of two step stems inboard and repairs hinge-strap attachment. Charles's endpoint preflight now agrees with the native 0.05m arrival bound.
+
+One actual near/mid producer and structural/negative-control cell passed in 24.064s under the original SUP120/resource floors with complete cleanup. All sixteen refreshed-checksum corruption controls reject. The protected 468/302 original WORLD PN occurrences remain exact; eight whole original leaf/fitting streams retain their closed geometry, and both step terminal regions remain exact. Transferred header/pillar surfaces agree with original facets under unchanged tolerances. The derivative adds 6,478 triangles per detail, which still needs delivery-budget and visual review.
+
+This is structure-only evidence. No repaired candidate has yet passed closed/full-swing contact, continuous clearance, near/mid closed/open visuals, runtime interaction or delivery gates. A separately controlled batch SAT candidate preserves the original contact rules and is being checked against the retained bad geometry before use. All five qualification flags remain false; no generated GLB or changed installed asset is committed. No PR, DEV delivery, accessible passage, boarding, riding or safe exit is supplied, and the ticket remains open with its original queue place.
+
+
 ## Current carriage entrance source checkpoint; contacts require repair — 10 November 2026
 
 Unqualified source checkpoint [a30cca3d](https://github.com/kevinrhaas/chicago/commit/a30cca3d03a53b938c53ab1d5a532a86062b64ad) reuses the existing V19 Brougham and earlier C02 engineering without substituting the old carriage. It proposes a real aperture and articulated original curbside leaf, plus existing Charles/shared-interaction routing. Installed assets, standing team, placement and boarding flags are unchanged; the mechanism stays dormant and all qualification flags remain false. There is no PR or DEV delivery for this prototype.
