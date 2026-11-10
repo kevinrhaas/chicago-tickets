@@ -1,7 +1,7 @@
 ---
 id: T-3532
 title: Recorded spatial audio pilot and music cue library
-state: claimed
+state: blocked-tech
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-09
 closed: null
 pr: null
 claimed_by: run 11/9/2026, 8:20:16 PM CT
-blocked_on: null
+blocked_on: Local audio pilot is implemented and focused audio/browser checks pass. Integration is blocked by published storage: about 466 MiB versus the 432 MiB site limit; versioned audio hosting or a measured storage change is needed. Work remains uncommitted on audio/recorded-soundscape in the shared workspace. No PR or production promotion; remaining full gate and 3D smoke are outstanding. See docs/AUDIO.md and docs/STATUS.md.
 needs_bake: false
 closed_at: null
 claimed_run: null
