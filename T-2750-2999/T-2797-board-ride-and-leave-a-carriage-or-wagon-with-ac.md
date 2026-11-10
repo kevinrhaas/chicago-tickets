@@ -1,7 +1,7 @@
 ---
 id: T-2797
 title: Board, ride and leave a carriage or wagon with accessible controls
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/10/2026, 5:47:23 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T11:47:24.670Z
 decision: null
 decision_answer: null
 ---
