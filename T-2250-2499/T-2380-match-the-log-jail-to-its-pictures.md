@@ -1,7 +1,7 @@
 ---
 id: T-2380
 title: Match the log jail to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:26:23 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-09T23:26:25.430Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2374,T-2376,T-2380
 ---
 
 Match the log jail to its pictures.
@@ -159,3 +158,5 @@ After qualified ordinary merge, normally release original T-2380 OPEN/PARTIAL wi
 Feature7b427d130a2cca6ed82c183c74605b965aee1d4e/refsteward/chicago-native-exact-ticket-20261103, NEW targetT-2380, lane`jail-gable-native-20261104`, slice1/1, max400/default model, NOresume_pr. Read-only preparation guards originalOPEN/free, no active original-target PR/job, current critical keeper/DW/source431dc/15eb baseline and exact feature CI. RootGO binds request/patch/handoff/controller/PREPARED SHA. Public actualGO precedes O_EXCL-reserved singlePOST; uncertain POST is never retried. After actualrun/Ubuntu26/normalclaim readback and proper monitor closure, transfer to existing sole native coordinator; do not duplicate magazine/Sauganash status watches.
 
 **Released 2026-11-04** (claim of Chicago Jail saved34a local recovery 11/4/2026, 2:54:41 AM CT, by https://github.com/kevinrhaas/chicago-evidence/blob/49239fcd6898b180969e38651a677414274e7941/evidence/log-jail-2026-11-04/keeper-east-gable-native272-saved34a-quota-and-final-gaps/RECOVERY.md): PR #1702 merged to dev as 16dab2f5ae7a1e3b22797e3ca0f6fc5b07682905. Bounded keeper east-gable wall-material increment delivered with genuine native272/WEB, actual published desktop+phone east-face/root review, desktop107, carried saved mobile139 and current ac68 named eight-part gate+aggregate. Native/source/runtime proof https://github.com/kevinrhaas/chicago-evidence/blob/d7db87a72f5fd26048ab2cad5bea6fd6fe65d0f5/evidence/log-jail-2026-11-04/pr1702-published6e23-keeper-east-both-and-desktop107/RECOVERY.md . Whole compound remains DIFFERS: long-core/roof/camera composition and complete original-picture coverage remain open; no historical pose/grade promotion or new fullcitation/passage acceptance. Original stays OPEN/partial for the next bounded unit.
+
+**Released 2026-11-09** (claim of Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:26:23 PM CT): Bounded increments MERGED to dev in PR1903 as a0218d1aae9d4a004f8a13b5af38cd4e7c9efd54: Cobweb partial siding, Green Tree shoulder attachment, Jail lower fence/roof exposure. Native83 fresh;81 MASTER/WEB controls byte-identical;961 foreign defaults+6 variants exact. Actual current desktop+phone focused QA pass,26 reviewed screenshots; final sourcecba all8+requiredgate green. Canonical GreenTree/Jail remain DIFFERS; private Cobweb camera remains unsolved. Wider compound/roof/date/picture questions remain partial under each original, not DONE. Evidence checkpoints a8998097 native/pictures and58f060ba bothviewport qualification. No new photo follow-up.

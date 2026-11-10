@@ -1,7 +1,7 @@
 ---
 id: T-2374
 title: Match Cobweb Castle to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:24:18 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-09T23:24:20.722Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2374,T-2376,T-2380
 ---
 
 Match Cobweb Castle to its pictures.
@@ -104,3 +103,5 @@ FINISH: commands bounded600s, foreground and proper process cleanup, immutable s
 [Immutable root-reviewed exact-resume packet](https://github.com/kevinrhaas/chicago-evidence/blob/6e753a40d4d1e2b7b7b6cc710a5bc034e9dbbc7e/evidence/cobweb-2026-11-04/pr1690-completed-native-depth-repair-handoff/RECOVERY.md).
 
 **Released 2026-11-03** (claim of run 11/3/2026, 9:17:25 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/41765287782): PARTIAL, OPEN, STILL DIFFERS. Exact resume of PR https://github.com/kevinrhaas/chicago/pull/1690 (branch steward/t2374-cobweb-front-apertures), merged to dev as 05f37859255aba5d396aa738b39c484809a5e64e. The two grounded apertures the 1831 Wau-Bun panorama draws were being cut BEHIND the log courses and read as striped ladders: _compound_aperture passed the bare APERTURE_BACK_M (0.004 m) to openings.face, which measures from the wall PLANE, while openings.surround reads its back from the wall SKIN and ran the reveal to 0.026 m against a 0.022 m log relief. Repaired locally by passing w.skin + APERTURE_BACK_M, the convention the same file's blind doorway already follows; test_log_compound_apertures.py now pins the invariant off the builder's source and fails if the expression is reverted. No shared helper, schema, camera, grade or verdict touched. Native: pinned sha-verified Blender 4.5.3 on Ubuntu 26.04.1, all 82 log_dwelling masters rebuilt in four bounded batches, 81 byte-identical; Cobweb MASTER 4f42207b -> 1ddf548d, WEB 1699d7aa -> 99997b5f. Gate: check.sh parts 1/4-4/4 all green before the first source commit (1150+ steps, none red), smoke mobile 3-4 PASS and desktop 3 PASS, and the full hosted eight-part gate green on the merged head. The mobile 1-2 leg's five Green Tree wagon-shed reds were measured on a pristine origin/dev worktree as well, identical, so they are dev's and belong with T-2376/PR1684. Controlled before/after re-run at the retained private camera 07f94fa8 on source 624d8f1f: rendering the two earlier meshes reproduced the review's own images byte-for-byte, and both lower faces now read as uninterrupted dark recesses. NOT A MATCH: the panorama's camera is UNSOLVED and unenrolled, and the compound width, wings, sub-roof silhouettes, roof junctions, partial clapboarding and finish/tone all still differ. Image gate stays open; no photo follow-up filed. Receipts: https://github.com/kevinrhaas/chicago-evidence/tree/main/evidence/cobweb-2026-11-04/pr1690-exact-resume-depth-repair-qualified-41766
+
+**Released 2026-11-09** (claim of Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:24:18 PM CT): Bounded increments MERGED to dev in PR1903 as a0218d1aae9d4a004f8a13b5af38cd4e7c9efd54: Cobweb partial siding, Green Tree shoulder attachment, Jail lower fence/roof exposure. Native83 fresh;81 MASTER/WEB controls byte-identical;961 foreign defaults+6 variants exact. Actual current desktop+phone focused QA pass,26 reviewed screenshots; final sourcecba all8+requiredgate green. Canonical GreenTree/Jail remain DIFFERS; private Cobweb camera remains unsolved. Wider compound/roof/date/picture questions remain partial under each original, not DONE. Evidence checkpoints a8998097 native/pictures and58f060ba bothviewport qualification. No new photo follow-up.
