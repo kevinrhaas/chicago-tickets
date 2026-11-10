@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT renewing own same-session carriage door; both full clearance proofs pass, optical and actual-world acceptance in progress; no competing carriage open PR 11/10/2026, 1:02:00 PM CT
+claimed_by: ROOT continuing own carriage door; full clearance and fourteen native views verified, actual-world acceptance remains open 11/10/2026, 3:47:30 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T19:02:00.911Z
+claimed_at: 2026-11-10T21:47:31.216Z
 decision: null
 decision_answer: null
 ---
