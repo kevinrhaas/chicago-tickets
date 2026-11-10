@@ -1,7 +1,7 @@
 ---
 id: T-2795
 title: Animate vehicle running gear and matched draft-horse hitches
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,15 +11,20 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Glessner stationary attached-team increment; preserve existing carriage and coachman identities 11/9/2026, 6:13:23 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T00:13:24.753Z
 decision: null
 decision_answer: null
 ---
+
+## First passenger-carriage hitch requested — 9 November 2026
+
+The owner identified the existing carriage outside Glessner House: add its horse and make the same carriage available for a coachman-led passenger ride. Reuse its existing model and the horse/gear work (T-2801); preserve attachment/contact and wheel/stride mechanics through start, turn, stop and passenger approach. T-2797 owns physical board/ride/leave and coachman request controls, with Mr. Glessner allowed as an existing identified passenger. Do not substitute a second decorative vehicle or relabel a camera-only mode as boarding. This is recorded within existing scope; no new ticket or completed hitch is claimed.
+
 
 ## Delivery progress — 2026-10-23 10:14 UTC
 

@@ -11,15 +11,22 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: Portable human library continuation after owner queue audit; former branch PR1346 already merged 11/9/2026, 3:32:56 PM CT
+claimed_by: Portable human library continuation after queue audit; renewing this same sessions own active lease 11/9/2026, 6:08:29 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-09T21:32:57.115Z
+claimed_at: 2026-11-10T00:08:29.755Z
 decision: null
 decision_answer: null
 ---
+
+## Clothing refinement and actual canonical result — 9 November 2026
+
+Owner reaffirmed: “Better clothing for people”; improve the models already started toward photographic realism, realistic clothing textures and period style. This remains T-1789's existing scope, with no new ticket.
+
+Canonical run 42703941214 completed SUCCESS, including its human fixture and three-resident builder. The exact artifact SHA256 was verified; 24 source/WEB LOD container reports have zero errors/warnings. Existing PNGs are Three inspection views, not Blender renders. Current source reuses the drivers' linen/wool finish on ordinary residents and corrects jagged Joseph/Martin jacket hems; 11 real-body workwear tests and 11 preview/intake pure tests pass. Complete native gate, actual Blender execution, exported coat review and DEV delivery are pending. No app commit/PR/merge or photographic acceptance is claimed. Existing Otis exports and delivered seated/natural-idle clips are preserved.
+
 
 ## Active canonical library work — 9 November 2026
 

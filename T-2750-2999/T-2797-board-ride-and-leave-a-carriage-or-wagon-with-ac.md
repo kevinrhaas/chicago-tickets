@@ -21,6 +21,11 @@ decision: null
 decision_answer: null
 ---
 
+## Owner's concrete Glessner carriage ride — 9 November 2026
+
+The existing nice carriage in front of Glessner House is the requested first usable specimen. The visitor must be able to approach it, ask the coachman to board and go for a ride, board, ride, stop and leave safely with keyboard and touch. Permit Mr. Glessner to ride as an identified passenger using his existing person record; do not turn him into an invented coachman. Preserve the existing carriage and improve it. The owner separately reaffirmed a horse for this same carriage (T-2801/T-2795) and better clothing for people (T-1789/T-2804). Record reconstructed route/activity/appearance honestly. This extends the existing one-vehicle acceptance; it files no new ticket and does not claim boarding already works.
+
+
 ## Depends on
 
 T-2795, T-2796, T-2804. Read each dependency before claiming; do not silently skip its proof.
