@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: Chicago first-fort canonical picture coverage 2026-11-10 11/9/2026, 6:48:48 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T00:48:50.178Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -164,3 +164,5 @@ Merged to dev as d07704f13a5c20491c3453065f653c8cfe59064c: https://github.com/ke
 The whole original T-2387/T-3041 all-pictures request remains partial. The northwest blockhouse lacks its own enrolled canonical comparison, and the remaining original/context picture coverage has not been individually accepted. Broader published smoke has known baseline failures disclosed in the PR; this note does not claim it passed. Recovery and source checkpoint: https://github.com/kevinrhaas/chicago-evidence/tree/3c9b3da860d21ba480a97735c753727a5a315def/evidence/2026-11-09-parallel-three-picture-source-group/ .
 
 **Released 2026-11-09** (claim of Chicago original-picture west-gateway resume 2026-11-09 11/9/2026, 4:07:58 PM CT): Native increments merged to dev as PR1901 and PR1902 with final source gates green and actual target desktop/phone checks. Original wider image coverage remains partial in landed notes; this run continues the separate three-ticket PR1903 group. No forced closure or new photo follow-up.
+
+**Released 2026-11-09** (claim of Chicago first-fort canonical picture coverage 2026-11-10 11/9/2026, 6:48:48 PM CT): Bounded northwest coverage MERGED to dev in PR1905 as 1880ca90fc21ee4f8c00e2af71720fa69b0e4ca0. Two actual canonical comparison groups retained (Currey14 bounded MATCHES under existing T3335 crop/context limits; Kurz30 DIFFERS on2 finite composition/identity questions). Authoritative pictured badge reflects2 alreadycredited depictions under rule12; geometry, perattributeconfidence, Images list and native meshes/placements unchanged. Final8ef source all8+requiredgate green (1290steps); actual currentdesktop+phone badge/Sources/Images pass,6 screenshots inspected,0errors. OriginalT3041/T2387 allotherdatedpictures and21record+9context inventory remain PARTIAL, notDONE. No new photo followup.
