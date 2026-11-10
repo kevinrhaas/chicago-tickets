@@ -1,7 +1,7 @@
 ---
 id: T-3539
 title: Loading screen shows the device meter and what this device draws
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-10
 closed: null
-pr: null
+pr: 1927
 claimed_by: run 11/10/2026, 4:40:38 PM CT
 blocked_on: null
 needs_bake: false
