@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Merged clothing and open fixture follow-up — 10 November 2026, 05:16 UTC
+
+The clothing surface/source hem increment [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) remains merged into DEV. Its cancelled level-hem canonical producer is still **not a PASS** and remains unadopted. [Draft PR #1909](https://github.com/kevinrhaas/chicago/pull/1909) now includes the scoped scanner-registration repair at `511d5892436e66b33a023c1f3976232ec5c12605`: the focused failure was reproduced and the repaired focused check passes; fresh exact-HEAD CI remains pending completion. The draft is open and unmerged, and this is not fresh canonical asset or photographic acceptance.
+
+The related stationary Glessner team increment [PR #1908](https://github.com/kevinrhaas/chicago/pull/1908) has now merged into DEV; T-2795 records its actual gate/browser evidence and remaining moving-hitch scope. The separate horse-coat variation proposal is now [draft PR #1911](https://github.com/kevinrhaas/chicago/pull/1911), not a completed human-library delivery. Modular kit/material coverage, posed fit, Mark assembly and photographic acceptance remain open here. The existing claim and null closing-PR field are retained.
+
 ## Current delivery and canonical follow-up — 10 November 2026, 04:46 UTC
 
 The existing-resident clothing surface and source hem increment [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) is already merged into DEV. The subsequent level-hem canonical producer was cancelled: it is **not a PASS**, and its generated assets were not adopted. This supersedes the earlier “remains active” producer status without removing its historical receipt.

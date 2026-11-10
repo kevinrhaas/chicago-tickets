@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Stationary waiting team merged into DEV — 10 November 2026, 05:16 UTC
+
+[PR #1908](https://github.com/kevinrhaas/chicago/pull/1908) merged normally into DEV at `6f2ebb8107815a47dda0e3e7f4416665ad70d57d` on 10 November 2026 at 05:06:33 UTC. Its exact head `f5e28cf333f0094c9688439d61b1bbec97681e7c` passed [all eight native CI partitions and aggregate gate, run 42757554939](https://github.com/kevinrhaas/chicago/actions/runs/42757554939), plus [the desktop moving-frame check and phone upload-release review, run 42757555068](https://github.com/kevinrhaas/chicago/actions/runs/42757555068). The PR lap was released. This delivers the waiting pair on the retained Glessner carriage in Full/Balanced with independently phased quiet idle; broader rendering-budget and ordinary loop limits recorded below remain unresolved. Moving hitch/turn/start/stop, full contact and T-2797 coachman-led boarding/ride acceptance remain open.
+
+The next bounded horse-coat variation increment is [draft PR #1911](https://github.com/kevinrhaas/chicago/pull/1911) at `115c62cbeee99b9e26c4d3340ac19cf511fb3004`. After the visible brown-mask defect was corrected, all 11 actual source-gallery cases passed in 9.074 seconds and six larger inspection images were reviewed. The earlier negative result is retained. ROOT and independent review accept only this bounded improvement; this is not photographic or complete shader acceptance. [Immutable source and actual WebGL evidence](https://github.com/kevinrhaas/chicago-evidence/tree/52e4b9ed54f7b9735872b6777673176af9cfa238/evidence/transport/horse-coats-2026-11-10/incremental-source-and-actual-webgl). The draft remains open and unmerged.
+
+With the owner's approval, the three-file workflow-only MAIN freshness detector [PR #1906](https://github.com/kevinrhaas/chicago/pull/1906) merged at `742352e624d436390b0f304e194df0ed53bdd6dd`; it promotes no application code to MAIN. [Fresh publisher run 42760632043](https://github.com/kevinrhaas/chicago/actions/runs/42760632043) is queued. The last reported public build was `e834`, so the live public horse increment is **not yet verified**. This broad ticket remains claimed with no closing PR assigned.
+
 ## Waiting Glessner team increment in review — 10 November 2026, 04:46 UTC
 
 [Draft PR #1908](https://github.com/kevinrhaas/chicago/pull/1908) is open at `f5e28cf333f0094c9688439d61b1bbec97681e7c`, including DEV `2dc` ancestry. It attaches a waiting pair to the retained Glessner carriage in Full and Balanced, preserving the existing carriage geometry and giving each horse independently phased quiet standing movement. This is a stationary attached-team increment, not completed running gear, coachman-led boarding or a passenger ride.
