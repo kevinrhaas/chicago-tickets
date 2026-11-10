@@ -1,7 +1,7 @@
 ---
 id: T-2379
 title: Match the Lake House under construction to its pictures
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-10-11
 closed: null
-pr: null
+pr: 1907
 claimed_by: Chicago five-building completion group 2026-11-10 11/9/2026, 8:03:15 PM CT
 blocked_on: null
 needs_bake: false
