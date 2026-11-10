@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT renewing own same-session original carriage entrance; exact42 top-joint diagnosis and tested lifecycle prototype; no competing open PR verified 11/10/2026, 10:39:04 AM CT
+claimed_by: ROOT renewing own same-session carriage door; both full clearance proofs pass, optical and actual-world acceptance in progress; no competing carriage open PR 11/10/2026, 1:02:00 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T16:39:05.230Z
+claimed_at: 2026-11-10T19:02:00.911Z
 decision: null
 decision_answer: null
 ---
