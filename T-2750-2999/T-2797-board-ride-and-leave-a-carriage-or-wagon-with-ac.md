@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Door sampled clearance repaired; continuous proof remains open — 10 November 2026, 10:10 AM CT
+
+Latest source [74aea12face](https://github.com/kevinrhaas/chicago/commit/74aea12face3705206cf9fd29ddde46ca967c592) is committed and pushed. Both actual near/mid structural baselines and 24 refreshed-checksum corruption controls pass under the original guards. The fixed backing now clears the floor; step-support rings preserve their cross sections and terminal attachments, with an explicitly measured maximum 188.04mm lower-stem displacement. This is larger than the earlier 25mm upper routing description, and its appearance remains a delivery concern.
+
+All 15 sampled door positions have zero contacts on each repaired detail: near 24.107856s/61,736 candidate pairs; mid 18.734541s/56,695 pairs, original tolerance and caps unchanged. Six matched old-closed/new-closed/new-open source views completed in 14.361379s with clean shutdown. ROOT personally reviewed all originals: the overall closed carriage remains consistent, hinges and narrow seams are visible changes, and the moving original leaf/glass expose the cabin and seat. The low support alteration is not dominant in this chosen view; that is not full phone/published photographic approval or passage clearance.
+
+A reviewed, bounded interval helper is being integrated source-only, retaining the original scalar rules and fallback, full broadphase, all sampled poses and every continuous pair. No complete continuous result exists yet. All five qualification flags remain false; generated carriage GLBs remain temporary. The independent strict-recovery study [d6a3cbe9](https://github.com/kevinrhaas/chicago/commit/d6a3cbe9d974a239e34afefdfc7ff75763236a30) preserves the original default controller and tests a stricter opt-in ownership/restore transaction, but has no live scene ports. Accessible passage, seats/driver, route, actual stop, safe exit and desktop/touch round trip remain open. No boarding or DEV adoption is claimed.
+
 ## Hidden carriage-door interface repair checkpoint — 10 November 2026, 14:22 UTC
 
 Source [522b5bae40](https://github.com/kevinrhaas/chicago/commit/522b5bae400a73891537b627a96829ef9799448a) is ordinarily committed and pushed, retaining the earlier failed checkpoint. It cuts the fixed interfaces at an explicitly reconstructed envelope of the actual original leaf, transfers the obstructing header/pillar fragments at the same closed surfaces, routes only the hidden middle of two step stems inboard and repairs hinge-strap attachment. Charles's endpoint preflight now agrees with the native 0.05m arrival bound.

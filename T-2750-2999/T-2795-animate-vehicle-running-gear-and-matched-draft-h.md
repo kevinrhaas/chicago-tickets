@@ -21,6 +21,12 @@ decision: null
 decision_answer: null
 ---
 
+## Publisher merged and actual public DEV verified — 10 November 2026, 10:10 AM CT
+
+The owner explicitly approved [publisher PR #1914](https://github.com/kevinrhaas/chicago/pull/1914), normally merged into MAIN as `9c65defae1090d4b5fcac04aaa062b4ad501a96f`. Its three workflow/helper/test files leave the MAIN application source tree unchanged. The automatic deployment [42844744069](https://github.com/kevinrhaas/chicago/actions/runs/42844744069) completed full SUCCESS, including the original all-site size guard and public freshness check. The actual assembled site is 955,098,551 bytes, with 44,901,449 bytes of reserve; 1,099 verified duplicate assets save 155,063,733 bytes. Public DEV `694574cb24ac9bb7b3e14b5182641b63e7ec1f16` matched the current ref, includes the merged ground support, and a selected aliased KTX2 passed native logical resolution, magic and full SHA verification. [Immutable delivery evidence](https://github.com/kevinrhaas/chicago-evidence/tree/aced640742e724479b625f94195f8cab7721686d/evidence/transport/native-publication-sharing-2026-11-10/main9c65-deployment-694574).
+
+These are publication and selected-asset checks. Full horse gait, people stance/contact, driver/rider, boarding, interaction and photographic acceptance remain open. This body update changes no queue position or closing PR.
+
 ## Pavement support merged into DEV; broader transport remains open — 10 November 2026, 14:34 UTC
 
 [PR #1921](https://github.com/kevinrhaas/chicago/pull/1921) merged normally into DEV at `83cde5aa2b9103bcbc02186bd06b2aa6fc7dc764` on 10 November at 14:29 UTC. Its exact reviewed head `d379150866761d7d98fe5336b7fdea0b815270cd` passed all twelve checks: eight gate partitions, aggregate, report, moving frames and phone upload release. The merge tree equals that reviewed source and its parents are DEV9501 plus d379; the PR lap was released. [Immutable final merge and check receipts](https://github.com/kevinrhaas/chicago-evidence/tree/de3b6d445500932f5ad6423f485d02f025a62284/evidence/transport/pedestrian-ground-2026-11-10/pr1921-final-merge-83cde5).
