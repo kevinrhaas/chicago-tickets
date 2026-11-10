@@ -197,3 +197,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3532 — Recorded spatial audio pilot and music cue library
 T-3534 — Dated 1835 insect phrases and distant marsh calls
 T-3536 — Compact household interaction menu and paired social breaks
+T-3537 — Stop 1904 crashing on integrated-graphics desktops
