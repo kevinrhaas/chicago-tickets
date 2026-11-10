@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Current merged progress and active canonical build — 10 November 2026, 07:49 UTC
+
+This supersedes the draft and pending-CI statuses in older checkpoints below. [PR #1909](https://github.com/kevinrhaas/chicago/pull/1909) merged normally into DEV at `8745ab40e39207b90c88b3a3e9823604f091304d` after all eight ordinary gate parts, their aggregate and the human checks passed on exact head `37d9c3ce8724fe4feea0bde1fd0f77592acfd2fc`. The scoped repeated fixture sweep and canonically refreshed sign-off are delivered; no native assertion or timeout was relaxed.
+
+The next actual [canonical producer, run 42774580234](https://github.com/kevinrhaas/chicago/actions/runs/42774580234), was dispatched on `measurement/t1789-level-hem-8745-20261110-0722`, pinned to merged `8745ab40e39207b90c88b3a3e9823604f091304d`. A fresh REST read for this update reports **in progress**, with no successful verdict yet. It is not an adopted asset delivery. Earlier cancelled producers remain NONPASS; retain Otis's adopted seated-drive and natural-idle clips when reviewing any new exports.
+
+Modular wardrobe/material coverage, posed fit, reviewed canonical/Blender images, photographic qualification and the Mark assembly acceptance remain open. The related horse-coat [PR #1911](https://github.com/kevinrhaas/chicago/pull/1911) is now merged into DEV, with current gallery evidence and the still-unverified public-preview packaging recorded on T-2795. This partial delivery does not close the library ticket or assign it a closing PR.
+
 ## Merged clothing and open fixture follow-up — 10 November 2026, 05:16 UTC
 
 The clothing surface/source hem increment [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) remains merged into DEV. Its cancelled level-hem canonical producer is still **not a PASS** and remains unadopted. [Draft PR #1909](https://github.com/kevinrhaas/chicago/pull/1909) now includes the scoped scanner-registration repair at `511d5892436e66b33a023c1f3976232ec5c12605`: the focused failure was reproduced and the repaired focused check passes; fresh exact-HEAD CI remains pending completion. The draft is open and unmerged, and this is not fresh canonical asset or photographic acceptance.
