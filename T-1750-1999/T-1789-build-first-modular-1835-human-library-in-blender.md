@@ -25,6 +25,8 @@ decision_answer: null
 
 T-1786 contract ([PR #606](https://github.com/kevinrhaas/chicago/pull/606)), T-1787 exporter ([PR #644](https://github.com/kevinrhaas/chicago/pull/644)) and T-1788 browser actor ([PR #669](https://github.com/kevinrhaas/chicago/pull/669)) are already done and merged. This remaining ticket is the **modular 1835 wardrobe/body/head/hair kit and reviewed assemblies**, not an unimplemented portable pipeline. DEV `e8342e42555d65481080bbd5450bcf905006c910` has 248 measured source/web GLBs, four LODs and a shared 56-joint rig; reuse that path.
 
+Already completed component work also stays credited: T-3409 wardrobe kit ([PR #1746](https://github.com/kevinrhaas/chicago/pull/1746)), T-3412 face/body variation ([PR #1755](https://github.com/kevinrhaas/chicago/pull/1755)), T-3414 hair/eyes ([PR #1763](https://github.com/kevinrhaas/chicago/pull/1763)) and T-3423 female shared-rig base ([PR #1787](https://github.com/kevinrhaas/chicago/pull/1787)) are done with actually merged PRs. Reuse these components; remaining library acceptance is not permission to rebuild them.
+
 The cloth/hem source increment [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) and real canonical builds/Blender studies below are credited. Finish interchangeable garment/material/base coverage, posed clipping and photographic library qualification, and the Mark assembly stop condition. Mark's master/actor/world work stays T-2673/T-2674/T-2675; missing portable motion T-1790; crowds T-1792; Glessner hitch/ride T-2795/T-2801/T-2797. Broad T-1789 remains claimed/open; a partial merge does not close it.
 
 
