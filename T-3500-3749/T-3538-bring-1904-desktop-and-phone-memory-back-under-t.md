@@ -1,7 +1,7 @@
 ---
 id: T-3538
 title: Bring 1904 desktop and phone memory back under their ceilings
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/10/2026, 3:43:56 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T21:43:57.700Z
 decision: null
 decision_answer: null
 ---
