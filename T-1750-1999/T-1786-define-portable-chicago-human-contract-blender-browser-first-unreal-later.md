@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Completed foundation confirmed — 10 November 2026
+
+This contract is already **done**, delivered by [PR #606](https://github.com/kevinrhaas/chicago/pull/606) (merged into DEV on 10 October). Current DEV `e8342e42555d65481080bbd5450bcf905006c910` retains `docs/HUMAN-ASSET-CONTRACT.md` and `data/humans/contract.json`: the 56-bone portable rig, GLB delivery, identity/provenance and later-engine handoff. Export/publishing T-1787 and browser actor T-1788 are also complete. Do not rebuild these foundations.
+
+Remaining work stays on T-1789 modular library/garment/photo assembly, T-1790 missing portable talk/gesture/carry/work clips, T-1792 population scaling and T-2673/T-2674/T-2675 Mark Beaubien. Original acceptance and historic closure metadata are unchanged.
+
+
 Owner-requested start of the **portable humans** programme. The Chicago 4D project must
 not make MetaHuman, Unreal Control Rig, Unreal materials, Unreal groom hair or any other
 engine-specific representation the canonical person. Author once in Blender, render first

@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Completed browser actor confirmed — 10 November 2026
+
+This reusable actor is already **done** via [PR #669](https://github.com/kevinrhaas/chicago/pull/669), merged into DEV on 10 October. Current DEV `e8342e42555d65481080bbd5450bcf905006c910` uses `renderers/web/js/humans.js` for shared identity, skeletal playback, LOD and lifecycle; existing residents/drivers reuse it. T-1786 contract and T-1787 exporter are also complete, not missing prerequisites.
+
+Later feature acceptance stays on T-1789 library/clothing/photo assemblies, T-1790 portable animation vocabulary, T-1792 population budgets, T-2804 rider/driver physical fit and T-2797 boarding/rides. Those goals do not require another human engine or reopening this foundation.
+
+
 Prepare the existing three.js browser renderer to display and interact with portable
 humans rather than treating the People drawer as the only representation of a resident.
 Implementation target: `kevinrhaas/chicago` **dev**.

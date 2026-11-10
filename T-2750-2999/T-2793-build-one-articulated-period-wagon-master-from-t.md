@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Delivered wagon increment versus unclosed master acceptance — 10 November 2026
+
+The licensed farm-box increment [PR #1340](https://github.com/kevinrhaas/chicago/pull/1340) is merged into DEV; reuse its master and near/mid/far tooling. Static wagons remain preserved, and occupied loops/controls later landed via [PR #1649](https://github.com/kevinrhaas/chicago/pull/1649) and [PR #1697](https://github.com/kevinrhaas/chicago/pull/1697). This is delivered progress, not an absent wagon foundation.
+
+The master ticket remains open: DEV `e8342e42555d65481080bbd5450bcf905006c910` still declares `photographic_acceptance: false` and “Development master; matched-view, clearance, LOD and world qualification pending” in `renderers/web/transport/farm-box-master/farm-box.json`. Finish its original evidence/render/contact/portable budget acceptance. Full hitch motion belongs to T-2795, rider/driver fit T-2804 and boarding T-2797; do not silently expand this master to every later town feature or close it on a prototype.
+
+
 
 ## Incremental delivery merged and deployed — 3 November 2026
 

@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Queue clarification: portable foundations are complete — 10 November 2026
+
+T-1786 contract ([PR #606](https://github.com/kevinrhaas/chicago/pull/606)), T-1787 exporter ([PR #644](https://github.com/kevinrhaas/chicago/pull/644)) and T-1788 browser actor ([PR #669](https://github.com/kevinrhaas/chicago/pull/669)) are already done and merged. This remaining ticket is the **modular 1835 wardrobe/body/head/hair kit and reviewed assemblies**, not an unimplemented portable pipeline. DEV `e8342e42555d65481080bbd5450bcf905006c910` has 248 measured source/web GLBs, four LODs and a shared 56-joint rig; reuse that path.
+
+The cloth/hem source increment [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) and real canonical builds/Blender studies below are credited. Finish interchangeable garment/material/base coverage, posed clipping and photographic library qualification, and the Mark assembly stop condition. Mark's master/actor/world work stays T-2673/T-2674/T-2675; missing portable motion T-1790; crowds T-1792; Glessner hitch/ride T-2795/T-2801/T-2797. Broad T-1789 remains claimed/open; a partial merge does not close it.
+
+
 ## DEV clothing increment delivered — 10 November 2026
 
 [PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) merged normally into DEV at `3472575af18cb69b66f3b15a4460517372a78f84` after the complete source gate (1,267 checks/408 self-tests), committed-HEAD preflight, all eight hosted gate partitions plus aggregate, both moving-frame viewports and the ordinary human fixture passed. Existing residents now receive the existing linen/wool surface finish; their individual clothing colours, styles and adopted animation assets are retained. The source short-jacket hem correction is delivered, with fresh generated asset adoption still pending.
