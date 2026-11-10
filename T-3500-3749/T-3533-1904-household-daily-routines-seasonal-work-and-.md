@@ -24,3 +24,8 @@ decision_answer: null
 1904 household daily routines, seasonal work and Go inside interactions.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+- All eight currently drawn 1904 household members have complete seasonal days, including owners and Christine; meals, indoor work, outdoor jobs, errands and brief shared gatherings replace permanent idle placement.
+- Jaunts retain priority; existing greetings, front-door calls and walks still work.
+- Go inside is the visible command. Someone indoors can be asked for at a door and assigned a seasonal outdoor activity regardless of the current hour; the temporary task returns to the normal routine.
+- Reconstructed times and activities remain declared liberties. Tests and the repository gates must be green before merging to dev.
