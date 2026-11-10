@@ -22,6 +22,15 @@ decision_answer: null
 ---
 
 
+## Native optical desktop and phone views saved — 10 November 2026
+
+[All fourteen original images, exact source and verification receipts](https://github.com/kevinrhaas/chicago-evidence/tree/4b442e81f48b30bff40f3e4dafd61c1d5d14ac9f/evidence/transport/T2797/optical-fourteen-native-views-20261110) are published, with all 89 remote files independently verified. Lossless indexing and the glass-only delivery derivation passed in 1.368s: original ordered geometry, nodes, pivots and moving ownership remain exact; all nine corruption controls per detail reject, deterministic replay matches, and all four official glTF reports have zero errors/warnings.
+
+The actual 12.766s native capture contains six matched desktop old-closed/new-closed/new-open plates, four old/new step-support close-ups, and four near/mid closed/open phone plates at 390x780 in mobile/touch contexts. No page, console, request or WebGL errors occurred; all frozen inputs and cleanup checks pass. ROOT personally reviewed every original. The closed overall shape and dark-green color remain consistent; opening the original leaf/glass exposes the cabin and seat. The support reroute and a narrow bright seam along the lower/right closed door edge are visible close up. Neither dominates the chosen whole-carriage views; no invisible or seamless-repair claim is made.
+
+The phone whole-model view keeps the carriage small and does not establish the actual first-person approach or doorway view at Glessner House. Actual world/coachman interaction and near/mid delivery, complete APP checks, passenger passage, seats/driver, route, stop, exit and keyboard/touch boarding remain open. All qualification flags remain false, and no updated door asset, APP commit, PR or DEV delivery is claimed. This is a saved engineering increment; queue position and broad acceptance are unchanged.
+
+
 ## Both complete door sweeps pass; optical delivery next — 10 November 2026
 
 [Current source and complete near/mid proof checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/69427de85bef9b09b31d0d1ee644a7154c0f416a/evidence/transport/T2797/top-fit-both-full-clearance-20261110) is published and every remote blob is verified. The corrected near candidate passes all 2,190,221 continuous pairs in 113.474786s; mid passes all 1,718,283 pairs in 95.165698s. Both retain all 15 sampled positions with zero contacts, original depth 12, tolerance 1e-8, the 120s supervisor and resource floors. All 32 corruption controls reject as intended; owned-process cleanup is complete. The earlier 42-pair NONPASS and diagnostic failures remain preserved as historical results.
