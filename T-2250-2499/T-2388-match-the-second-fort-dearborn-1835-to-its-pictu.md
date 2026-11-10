@@ -1,7 +1,7 @@
 ---
 id: T-2388
 title: Match the second Fort Dearborn (1835) to its pictures, every building in it
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Chicago two-fort completion group 2026-11-10 11/9/2026, 8:03:20 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T02:03:21.520Z
 decision: null
 decision_answer: null
+group: T-3041,T-2388
 ---
 
 Match the second Fort Dearborn (1835) to its pictures, every building in it.
