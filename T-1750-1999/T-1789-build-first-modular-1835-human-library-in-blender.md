@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT continued existing-resident clothing fit/material review after successful canonical8745 build and hem renders; same-session prior branches, no competing human PR verified 11/10/2026, 5:13:59 AM CT
+claimed_by: ROOT continuing same-session own Joseph cloth sources 398 and 0efd and native42824930117; no competing human PR verified 11/10/2026, 8:06:52 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T11:13:59.890Z
+claimed_at: 2026-11-10T14:06:53.184Z
 decision: null
 decision_answer: null
 ---
