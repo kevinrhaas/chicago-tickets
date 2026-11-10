@@ -45,7 +45,13 @@ probe passes for compact controls, real meetings, returns indoors and Go inside.
 An unrelated driver joining the roster exposed a cancellation; the fix preserves
 resident state, with a regression that fails before it and passes afterward.
 All four final local gate partitions, preflight, and standard PR checks pass.
-The full final-runtime smoke is still completing. Its first desktop 14–15 attempt
-passed 164 checks but failed the zero-page-error check on an externally hosted
-reference thumbnail; an unchanged rerun is underway. The source-bound receipts
-are in `docs/RESEARCH/household-interactions-3536/README.md`.
+The full final-runtime smoke passes all 15 stages on both viewports: 1,655
+assertions across 16 successful jobs. Its first desktop 14–15 attempt passed
+164 checks but failed the zero-page-error check on an external reference thumbnail;
+the unchanged full-stage rerun passed all 165 checks. Both readings remain in the
+verification record. Final PR checks also pass on receipt commit `b848f1e6e0bf`.
+The source-bound receipts are in
+`docs/RESEARCH/household-interactions-3536/README.md`.
+
+**Merged into dev:** [PR #1922](https://github.com/kevinrhaas/chicago/pull/1922),
+merge commit `a137020b15e03310ef2321660fd6125ff7e87de0`.
