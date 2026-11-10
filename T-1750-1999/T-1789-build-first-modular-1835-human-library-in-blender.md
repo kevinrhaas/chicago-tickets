@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## DEV clothing increment delivered — 10 November 2026
+
+[PR #1904](https://github.com/kevinrhaas/chicago/pull/1904) merged normally into DEV at `3472575af18cb69b66f3b15a4460517372a78f84` after the complete source gate (1,267 checks/408 self-tests), committed-HEAD preflight, all eight hosted gate partitions plus aggregate, both moving-frame viewports and the ordinary human fixture passed. Existing residents now receive the existing linen/wool surface finish; their individual clothing colours, styles and adopted animation assets are retained. The source short-jacket hem correction is delivered, with fresh generated asset adoption still pending.
+
+Nine actual loader studio cells passed for Otis, Peck, Frances Glessner and Charles Nelson: 36 real desktop/phone standing/walking captures, including source and published assets and controlled before/after baselines. Independent review accepts the bounded surface-detail improvement; sampled draw/geometry/texture counts stay equal. [Published render evidence](https://github.com/kevinrhaas/chicago-evidence/tree/d26a7994736d69022d33f1e87abbafc9e6d25113/evidence/human-clothing-2026-11-10/pr1904-actual-loader-a64f26fa).
+
+[Real Blender preview run 42730222643](https://github.com/kevinrhaas/chicago/actions/runs/42730222643) passed: nine Cycles stills from three earlier canonical masters; artifact/image hashes and unchanged master hashes verified. The new level-hem canonical build `42730226412` remains active. No new human asset replaces Otis or drops his delivered seated/natural-idle clips. T-1789 stays claimed/open for full kit/material/pose/Mark assembly and photographic acceptance; this is an incremental DEV delivery, not full-town or full-library approval. The Glessner horse/hitch increment is separately claimed under existing T-2795; boarding/coachman-led rides remain T-2797.
+
+
 ## Clothing refinement and actual canonical result — 9 November 2026
 
 Owner reaffirmed: “Better clothing for people”; improve the models already started toward photographic realism, realistic clothing textures and period style. This remains T-1789's existing scope, with no new ticket.
