@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Coachman increment pushed; current public DEV bytes verified — 10 November 2026, 11:32 UTC
+
+The earlier stale-preview observations below are superseded by a fresh public read: `/4d/dev/build.json` reports DEV `7dcb5bb07`, and actual `main.js`, `standing-horses.js`, `horse-appearance.js`, `parked-transport.js`, `horse-coats.json` and parked placements are byte-exact to current DEV. This verifies HTTP delivery of the waiting team and coat inputs, not whole-world, photographic or passenger-ride acceptance. MAIN publisher proposal #1914 remains an unmerged draft; this fresh delivery observation does not require or claim its approval or adoption.
+
+[Draft PR #1917](https://github.com/kevinrhaas/chicago/pull/1917), current pushed head `2c9df872237b9dc2e6c95564eb6a4e125b80f185`, places Charles Nelson beside the waiting team between the Prairie Avenue trees, preserving all four seasonal routines, the original short break and stable-door tour mark. It retains the seven other household records byte-for-byte. Visible guides take real routes, narration waits for arrival, and errand/guide ownership prevents Greet or Stroll from replacing a live path. Both pre-fix ownership failures were reproduced; the repaired source passed all six focused day/round/household/jaunt suites in 10.17 seconds under SUP120, unchanged resource floors and complete cleanup. Complete exact-head hosted checks are pending; the PR is **not merged** and the post is not yet visually accepted.
+
+The new post's first finite world observation stopped on a task-local foot-domain instrumentation assertion before saving an image or physical result; it is **NONPASS**, with no mask/ground conclusion or photographic acceptance. The observer is being corrected without changing application ground rules, performance ceilings or acceptance bars. Earlier post occlusion/time/budget negatives remain retained. Actual carriage entry, boarding/ride/leave, driver/passenger fitting and the broader hitch/photo work remain open. No ticket is closed, no closing PR assigned and no queue position changed.
+
+
 ## Native publication and actual coat-recipe delivery merged; world work remains open — 10 November 2026, 09:44 UTC
 
 This supersedes older pending native-publication statuses below. [PR #1915](https://github.com/kevinrhaas/chicago/pull/1915) merged normally into DEV at `08f52e5d57cf1d4ef4afb07c0a4fdb0a9ad964d9`. Its exact head `119692a3ab849c6e75f679fe187009bd2d1f8287` passed all eight gate partitions, aggregate, humans, moving frames and phone upload release. The actual omitted `data/transport/horse-coats.json` is now copied into publication and guarded by missing/corrupt regression controls. Earlier parked-pair PR #1908 and 11-horse coat PR #1911 remain credited; the standing pair is Full/Balanced, not a completed moving hitch or ride.
