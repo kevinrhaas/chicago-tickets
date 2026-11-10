@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: Glessner stationary attached-team increment; preserve existing carriage and coachman identities 11/9/2026, 6:13:23 PM CT
+claimed_by: Glessner stationary attached-team increment; verified same-session ROOT lease renewal, preserve existing carriage and coachman identities 11/9/2026, 8:45:07 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T00:13:24.753Z
+claimed_at: 2026-11-10T02:45:08.584Z
 decision: null
 decision_answer: null
 ---

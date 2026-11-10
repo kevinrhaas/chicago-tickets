@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Completed prerequisites versus remaining crowd work — 10 November 2026
+
+T-1786 contract, T-1787 exporter and T-1788 runtime actor are already done. Current DEV `e8342e42555d65481080bbd5450bcf905006c910` has 31 measured asset families and 248 source/web exports over four LODs; existing residents/drivers use that foundation. This is not proof of a full street population or representative crowd budgets.
+
+This ticket remains open for shared assembly/resource reuse, representative Full/Balanced/Light desktop/phone counts with CPU/GPU/frame budgets, and the owner-approved far-impostor/mid-instanced/near-full-figure plan below. Existing T-3408/T-3409/T-3410/T-3412..T-3417 own preceding people refinements. Mark's T-2673/T-2674/T-2675 is one eligible route, not a reason to rebuild the pipeline.
+
+
 After one accepted period-qualified person proves the path, make the same architecture safe for a living town rather than
 copying a hero-cost actor hundreds of times. Implementation target:
 `kevinrhaas/chicago` **dev**.

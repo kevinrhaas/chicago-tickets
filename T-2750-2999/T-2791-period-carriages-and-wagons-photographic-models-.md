@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Delivered transport foundations and remaining work — 10 November 2026
+
+Reference/specification T-2792 and T-2799 are already done via merged [PR #1174](https://github.com/kevinrhaas/chicago/pull/1174). Reuse delivered static placements, licensed wagon [PR #1340](https://github.com/kevinrhaas/chicago/pull/1340), occupied circuits/walk-up controls [PR #1649](https://github.com/kevinrhaas/chicago/pull/1649) and [PR #1697](https://github.com/kevinrhaas/chicago/pull/1697), and driver life [PR #1723](https://github.com/kevinrhaas/chicago/pull/1723). Portable-human T-1786/T-1787/T-1788 prerequisites are complete.
+
+Existing unfinished rows remain: T-2793 wagon master qualification; T-3085 carriage interfaces/portable world delivery; T-2795 coherent running gear and single/pair hitch motion, including the active existing Glessner-front carriage; T-2796 measured traffic; T-2797 approach-coachman boarding/ride/disembark. Horse gear/gait/rider fit stays T-2801/T-2802/T-2803/T-2804. Moving pairs or metadata seats are not completed boarding. Preserve this split parent and all original acceptance; no new tickets or blanket closure.
+
+
 ## Epic scope
 
 Period carriages and wagons from source-bounded photographic masters to articulated running gear, moving distant traffic and boarding/riding. This is the grouping record; six children own implementation and retain the requested order. Existing T-0084/T-0087/T-2121 running-gear and visual work is reused, not repeated.

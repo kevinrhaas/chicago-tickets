@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Completed motion versus remaining portable vocabulary — 10 November 2026
+
+The portable-human foundation T-1786/T-1787/T-1788 is complete. Motion has shipped via merged [PR #1649](https://github.com/kevinrhaas/chicago/pull/1649) (standing/occupied transport), [PR #1697](https://github.com/kevinrhaas/chicago/pull/1697) (waiting/pace controls) and [PR #1723](https://github.com/kevinrhaas/chicago/pull/1723) (seated-driver life). Older paragraphs calling those PRs open or API access blocked are dated recovery history, not current status.
+
+DEV `e8342e42555d65481080bbd5450bcf905006c910` has idle and walk on all 248 measured exports, sit_drive on 24, sit_drive_look_v2 on eight and idle_natural_v1 on eight. It has **no exported talk, gesture, carry or work clips**. Browser additive actions are useful delivered behavior but do not fulfill the original shared Blender/export library acceptance. Keep this ticket open for missing clips, transition/metadata/facial hooks and measured close/small-group CPU acceptance; do not redo accepted idle/walk/driver work.
+
+
 ## Queue acceptance audit — 9 November 2026
 
 Reopened after acceptance review. PR #1723 delivered seated-driver animation and remains credited. Current DEV has no exported talk, gesture, carry or work clips in the 248-GLB human fixture inventory; browser additive actions do not fulfil the portable Blender animation-library requirement. Finish the reusable clips, transition/metadata contracts and their measured CPU acceptance. Existing delivered idle/walk/driver work must be reused. Reviewed against DEV `dc998577d76a09a31a5519b7deb0c0c0f6e1f869` and the merged PR evidence. This restores unfinished acceptance; it does not revert delivered code or revoke the completed increments.

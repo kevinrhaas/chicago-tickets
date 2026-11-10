@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Completed horse prerequisites versus remaining animal/gear work — 10 November 2026
+
+Reference/specification T-2799 is done via merged [PR #1174](https://github.com/kevinrhaas/chicago/pull/1174); eye-UV T-3086 and safe viewpoint T-3087 are done via merged [PR #1279](https://github.com/kevinrhaas/chicago/pull/1279). Existing standing/driven horse increments and completed portable-human T-1786/T-1787/T-1788 foundations must be reused.
+
+Remaining existing rows are T-3088 anatomy/silhouette, T-3089 materials/distance exports, T-2803 grounded idle/walk/trot transitions and gear synchronization, T-2801 complete single/pair harness variants, T-2802 riding gear and T-2804 actual mounted rider plus driver fit. T-2795 owns vehicle/hitch motion and T-2797 boarding/rides. Current pair circuits do not close single shafts, mounted rider, full trot or photo acceptance. This parent remains split.
+
+
 ## Epic scope
 
 Photographic-quality period horses and correct working/riding gear, then grounded animation, portable-human riders/drivers and eventually mounting/riding. Canonical reusable horse models serve both vehicle hitches and independent mounted riders.

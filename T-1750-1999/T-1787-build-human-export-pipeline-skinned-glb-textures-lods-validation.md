@@ -21,6 +21,13 @@ decision: null
 decision_answer: null
 ---
 
+## Completed portable export pipeline confirmed — 10 November 2026
+
+The owner is correct that the portable-human pipeline is implemented: this ticket is already **done** via [PR #644](https://github.com/kevinrhaas/chicago/pull/644), merged into DEV on 10 October. DEV `e8342e42555d65481080bbd5450bcf905006c910` retains the reproducible Blender export, validation, web derivatives and real browser fixture. `data/humans/fixture.measure.json` records **248 GLBs: 31 asset families × four LODs × source/web**, all with 56 joints. Asset families are not a count of distinct historical residents.
+
+The foundation does not wait for Mark or photo-perfect clothing. Reuse this pipeline and completed T-1788 actor. Remaining modular kit/garment/assembly work is T-1789; portable motion vocabulary is T-1790; measured crowd scaling is T-1792. This note adds evidence without reopening or restamping completion.
+
+
 Build the reproducible asset path that turns the Blender source-of-truth human into a
 browser-deliverable Chicago 4D asset. Implementation target: `kevinrhaas/chicago` **dev**.
 
