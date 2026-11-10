@@ -1,7 +1,7 @@
 ---
 id: T-3041
 title: Match the first Fort Dearborn buildings against every reference picture
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2387
 opened: 2026-10-22
 closed: null
-pr: null
+pr: 1910
 claimed_by: Chicago final three completion 2026-11-10 11/9/2026, 10:28:16 PM CT
 blocked_on: null
 needs_bake: false
