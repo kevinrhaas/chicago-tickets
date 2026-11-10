@@ -1,7 +1,7 @@
 ---
 id: T-2023
 title: Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-10-03
-closed: null
+closed: 2026-11-10
 pr: 1920
 claimed_by: Chicago lodging reconciliation 2026-11-10 11/10/2026, 5:21:24 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-10T14:54:40Z
 claimed_run: null
 claimed_at: 2026-11-10T11:21:26.821Z
 decision: null
