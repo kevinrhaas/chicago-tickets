@@ -21,6 +21,14 @@ decision: null
 decision_answer: null
 ---
 
+## Canonical build and nine native stills completed; acceptance remains open — 10 November 2026, 09:44 UTC
+
+This supersedes the earlier in-progress producer status without removing its history. The actual [canonical producer 42774580234](https://github.com/kevinrhaas/chicago/actions/runs/42774580234) completed **SUCCESS** on `8745ab40e39207b90c88b3a3e9823604f091304d`. Its scoped second sweep measured 24 rebuilt source/WEB files, retained 240 other SHA-verified baseline rows and passed the global check of 264 native GLBs. The full human prerequisite also passed; no native assertion or timeout was relaxed.
+
+The separate artifact-only [Blender stills run 42780711312](https://github.com/kevinrhaas/chicago/actions/runs/42780711312) completed **SUCCESS** on that same renderer source, consuming the successful producer's exact artifact. Its source binding, three native manifests and nine 512×768 PNGs (front, three-quarter, profile for each resident) were verified. The bounded old/new review supports continuous Joseph/Martin coat hems in place of the old triangular notches; Otis's three decoded pixel views are unchanged, while PNG/master file hashes differ. Old producer `dc998577d76a09a31a5519b7deb0c0c0f6e1f869` and renderer `a64f26fa2fc3e05dd39cd8e55df5384646786d7b` remain separately bound; Joseph's small camera/light recenter is recorded rather than hidden.
+
+This is **not** full garment-fit, photographic or likeness acceptance: the figures remain smooth/stylized, and other poses/material coverage still need review. No generated library assets were adopted, and Otis's adopted seated-drive/natural-idle clips remain intact. Full modular wardrobe/material, posed-fit, photographic and Mark assembly acceptance stays open. This ticket remains claimed with no closing PR assigned.
+
 ## Current merged progress and active canonical build — 10 November 2026, 07:49 UTC
 
 This supersedes the draft and pending-CI statuses in older checkpoints below. [PR #1909](https://github.com/kevinrhaas/chicago/pull/1909) merged normally into DEV at `8745ab40e39207b90c88b3a3e9823604f091304d` after all eight ordinary gate parts, their aggregate and the human checks passed on exact head `37d9c3ce8724fe4feea0bde1fd0f77592acfd2fc`. The scoped repeated fixture sweep and canonically refreshed sign-off are delivered; no native assertion or timeout was relaxed.
