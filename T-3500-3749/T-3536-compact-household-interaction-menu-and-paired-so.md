@@ -1,7 +1,7 @@
 ---
 id: T-3536
 title: Compact household interaction menu and paired social breaks
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-10
-closed: null
+closed: 2026-11-10
 pr: 1922
 claimed_by: run 11/10/2026, 9:01:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-10T21:45:20Z
 claimed_run: null
 claimed_at: 2026-11-10T15:02:01.288Z
 decision: null
