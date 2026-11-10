@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Chicago final three completion 2026-11-10 11/9/2026, 10:28:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T04:28:18.664Z
 decision: null
 decision_answer: null
+group: T-2376,T-3041,T-2388
 ---
 
 Match the Green Tree Tavern to its pictures.
@@ -165,3 +166,10 @@ Use reviewed owner-safe platform feature `7b427d130a2cca6ed82c183c74605b965aee1d
 **Released 2026-11-09** (claim of Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:26:23 PM CT): Bounded increments MERGED to dev in PR1903 as a0218d1aae9d4a004f8a13b5af38cd4e7c9efd54: Cobweb partial siding, Green Tree shoulder attachment, Jail lower fence/roof exposure. Native83 fresh;81 MASTER/WEB controls byte-identical;961 foreign defaults+6 variants exact. Actual current desktop+phone focused QA pass,26 reviewed screenshots; final sourcecba all8+requiredgate green. Canonical GreenTree/Jail remain DIFFERS; private Cobweb camera remains unsolved. Wider compound/roof/date/picture questions remain partial under each original, not DONE. Evidence checkpoints a8998097 native/pictures and58f060ba bothviewport qualification. No new photo follow-up.
 
 **Released 2026-11-09** (claim of Chicago five-building completion group 2026-11-10 11/9/2026, 8:03:15 PM CT): PR1907 ships the verified left-group improvement only. Actual review leaves the categorical third upper-front window OPEN; same original completes with T3041/T2388 in the next combined native group. Exact source fix a65f49715d is checkpointed in chicago-evidence9807336; no new photo ticket or false matches verdict.
+
+## Existing final three-ticket continuation — 2026-11-10
+
+Continue **T-2376, T-3041 and T-2388 as one existing-ticket group** under actor Chicago final three completion2026-11-10, on `steward/t2376-t3041-t2388-final-pictures-20261110`. PR1907 has actually merged; its four qualified originals T-2374/T-2379/T-2380/T-2383 are publicly done. Green Tree's third upper-front window remains its explicit categorical remainder; the two forts retain their full original picture/date/coverage scope. No photo follow-up, replacement ticket or reduced acceptance is created.
+
+Fresh public ownership review found T-2376 open and T-3041/T-2388 held by this same coordinator's Chicago two-fort completion group, with no matching open PR and only historical related source refs. The official claim force option is used solely to renew these own active claim timestamps and replace the old two-ticket grouping with this three-ticket continuation under the coordinator's explicit authorization. No foreign live claim, branch or writer is displaced. The previous source/date/rights rulings and partial handoffs remain in force until genuinely qualified completion; no ticket is closed by this claim.
+

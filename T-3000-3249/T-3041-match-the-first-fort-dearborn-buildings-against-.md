@@ -11,15 +11,15 @@ parent: T-2387
 opened: 2026-10-22
 closed: null
 pr: null
-claimed_by: Chicago two-fort completion group 2026-11-10 11/9/2026, 8:03:20 PM CT
+claimed_by: Chicago final three completion 2026-11-10 11/9/2026, 10:28:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T02:03:21.519Z
+claimed_at: 2026-11-10T04:28:18.664Z
 decision: null
 decision_answer: null
-group: T-3041,T-2388
+group: T-2376,T-3041,T-2388
 ---
 
 Match the first Fort Dearborn buildings against every reference picture.
@@ -167,3 +167,10 @@ The whole original T-2387/T-3041 all-pictures request remains partial. The north
 **Released 2026-11-09** (claim of Chicago original-picture west-gateway resume 2026-11-09 11/9/2026, 4:07:58 PM CT): Native increments merged to dev as PR1901 and PR1902 with final source gates green and actual target desktop/phone checks. Original wider image coverage remains partial in landed notes; this run continues the separate three-ticket PR1903 group. No forced closure or new photo follow-up.
 
 **Released 2026-11-09** (claim of Chicago first-fort canonical picture coverage 2026-11-10 11/9/2026, 6:48:48 PM CT): Bounded northwest coverage MERGED to dev in PR1905 as 1880ca90fc21ee4f8c00e2af71720fa69b0e4ca0. Two actual canonical comparison groups retained (Currey14 bounded MATCHES under existing T3335 crop/context limits; Kurz30 DIFFERS on2 finite composition/identity questions). Authoritative pictured badge reflects2 alreadycredited depictions under rule12; geometry, perattributeconfidence, Images list and native meshes/placements unchanged. Final8ef source all8+requiredgate green (1290steps); actual currentdesktop+phone badge/Sources/Images pass,6 screenshots inspected,0errors. OriginalT3041/T2387 allotherdatedpictures and21record+9context inventory remain PARTIAL, notDONE. No new photo followup.
+
+## Existing final three-ticket continuation — 2026-11-10
+
+Continue **T-2376, T-3041 and T-2388 as one existing-ticket group** under actor Chicago final three completion2026-11-10, on `steward/t2376-t3041-t2388-final-pictures-20261110`. PR1907 has actually merged; its four qualified originals T-2374/T-2379/T-2380/T-2383 are publicly done. Green Tree's third upper-front window remains its explicit categorical remainder; the two forts retain their full original picture/date/coverage scope. No photo follow-up, replacement ticket or reduced acceptance is created.
+
+Fresh public ownership review found T-2376 open and T-3041/T-2388 held by this same coordinator's Chicago two-fort completion group, with no matching open PR and only historical related source refs. The official claim force option is used solely to renew these own active claim timestamps and replace the old two-ticket grouping with this three-ticket continuation under the coordinator's explicit authorization. No foreign live claim, branch or writer is displaced. The previous source/date/rights rulings and partial handoffs remain in force until genuinely qualified completion; no ticket is closed by this claim.
+

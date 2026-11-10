@@ -11,15 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago two-fort completion group 2026-11-10 11/9/2026, 8:03:20 PM CT
+claimed_by: Chicago final three completion 2026-11-10 11/9/2026, 10:28:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T02:03:21.520Z
+claimed_at: 2026-11-10T04:28:18.664Z
 decision: null
 decision_answer: null
-group: T-3041,T-2388
+group: T-2376,T-3041,T-2388
 ---
 
 Match the second Fort Dearborn (1835) to its pictures, every building in it.
@@ -141,3 +141,10 @@ The original genuine native25 fort_structure outputs and their explicit reconstr
 5. Push qualified incremental source commits to this existing PR promptly; publish UNQUALIFIED working-source plus raw command/hash checkpoints every15–20minutes BEFORE gates so work survives an interrupted run. Use ordinary fast-forward evidence writes. Once current source/runtime/root pixels and actual whole hosted gate qualify, merge this SAME PR normally into dev, verify actual dev delivery and release original T-2388 OPEN/PARTIAL with evidence and remaining discrepancy pointer. No direct dev/main push, force/admin merge, assertion weakening, host Blender, production dispatch or new photo follow-up.
 
 Actual completed raw records and salvage ownership incident: https://github.com/kevinrhaas/chicago-evidence/blob/a2c472ca93beda114c14079970f14fa41c1df80a/evidence/second-fort-2026-11-04/completed-generic-holder-and-exact-salvage-ownership/RECOVERY.md . The exact raw stream is also bound by the authenticated artifact digest saved in the current recovery packet. Earlier native25 and source/date findings remain in the preserved original handoffs above; this continuation supersedes their stale source heads and dispatch feature only.
+
+## Existing final three-ticket continuation — 2026-11-10
+
+Continue **T-2376, T-3041 and T-2388 as one existing-ticket group** under actor Chicago final three completion2026-11-10, on `steward/t2376-t3041-t2388-final-pictures-20261110`. PR1907 has actually merged; its four qualified originals T-2374/T-2379/T-2380/T-2383 are publicly done. Green Tree's third upper-front window remains its explicit categorical remainder; the two forts retain their full original picture/date/coverage scope. No photo follow-up, replacement ticket or reduced acceptance is created.
+
+Fresh public ownership review found T-2376 open and T-3041/T-2388 held by this same coordinator's Chicago two-fort completion group, with no matching open PR and only historical related source refs. The official claim force option is used solely to renew these own active claim timestamps and replace the old two-ticket grouping with this three-ticket continuation under the coordinator's explicit authorization. No foreign live claim, branch or writer is displaced. The previous source/date/rights rulings and partial handoffs remain in force until genuinely qualified completion; no ticket is closed by this claim.
+
