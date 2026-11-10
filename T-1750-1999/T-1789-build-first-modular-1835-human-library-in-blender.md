@@ -22,6 +22,17 @@ decision_answer: null
 ---
 
 
+## Charles material increment committed and in PR #1928 — 10 November 2026, 6:00 PM CT
+
+[DEV draft PR #1928](https://github.com/kevinrhaas/chicago/pull/1928) contains the four near Charles coat assets, canonical transactional export and bounded runtime material selection. Source commit `a380525149ad71d29a2b529fd0ac1893cb7fe6d9` and normal integrated head [`9b6c043877cd6b73ae6c2754f52ec2fbe0497193`](https://github.com/kevinrhaas/chicago/commit/9b6c043877cd6b73ae6c2754f52ec2fbe0497193) are saved to GitHub. All 38 reviewed bytes match the remote Git blobs; the latest DEV household, loading-screen, memory and publication changes are preserved. This is a partial material delivery, not a closing PR for broad T-1789.
+
+All eight local source-check parts passed, totaling 1,308 steps, under the original 600-second caps and resource floors. Both committed-head PR-event questions and targeted checks passed. [Immutable source/gate/review milestone](https://github.com/kevinrhaas/chicago-evidence/tree/2ee3384c5bfc53e7ad50426f06f997d9c73146d6/evidence/humans/T1789/eight-part-gate-committed-9b6c-20261110) retains exact hashes, the two canonical report-only coverage deltas and earlier NONPASS references. Hosted checks on the integrated head have passed all eight source partitions and aggregate, still frames and memory; human, moving-frame and upload checks remain in progress at this checkpoint.
+
+Actual integrated native publication passed in 153.659 seconds. Its unchanged original human checker reads 112 rewritten GLBs through 244 shared sheets back to their sources view for view. The two selected native GLBs and all 37 local external-resource references are separately hash/size bound; raw source-web hashes remain fixed. The earlier two-minute standalone publication timeout is retained, not relabeled successful. Corrected validation uses the real native publication contract and the existing full-build 600-second envelope, with unchanged resource floors.
+
+The local 1904 phone-memory check is running; desktop memory and the published renderer stages at both viewports remain before merge. No DEV coat delivery or whole release/photographic/fit acceptance is claimed. Dark-green livery, identity, shape, movement, other residents and four far LODs remain preserved. Full garment fit, modular-kit coverage and Mark assembly acceptance remain open; this ticket keeps its queue position, claim and null closing-PR field.
+
+
 ## Charles canonical integration and local gate progress — 10 November 2026, 5:22 PM CT
 
 The [canonical candidate and native fixture checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/94af0652777f676a86171ffe538644b7c243e3bb/evidence/humans/T1789/canonical-candidate-native-fixture-20261110) is saved and fully remote-verified. The actual integrated owner reproduced all four near MASTER/WEB files from eight immutable parents in 40.138s. The existing native fixture measured the four selected near files at desktop and phone sizes in 84.441s, with every unselected fixture row and all 248 source asset hashes unchanged. The fresh/offline/corrupt-parent controls, canonical inventory writer, two actual inventory writes and real zero-write tool-isolation controls passed. Other residents, Charles's identity, existing rig/clips and far LODs stay preserved.
