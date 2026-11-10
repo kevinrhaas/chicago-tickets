@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT renewing own same-session transport delivery claim; merged PR1921 and authorized MAIN1914; no competing open PR verified 11/10/2026, 10:38:57 AM CT
+claimed_by: ROOT renewing own same-session transport delivery; MAIN1914 deployed and DEV1921 verified; no competing transport open PR 11/10/2026, 1:01:53 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T16:38:57.903Z
+claimed_at: 2026-11-10T19:01:54.360Z
 decision: null
 decision_answer: null
 ---
