@@ -1,7 +1,7 @@
 ---
 id: T-2484
 title: 1812: build the Kinzie house, the former Point du Sable house on the north bank opposite the fort, with its piazza, fenced green, Lombardy poplars and two cottonwoods, matched to its pictures
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-10-13
-closed: null
+closed: 2026-11-10
 pr: 1919
 claimed_by: Kinzie 1812 completion 2026-11-10 11/10/2026, 5:17:40 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-10T16:12:36Z
 claimed_run: null
 claimed_at: 2026-11-10T11:17:42.279Z
 decision: null
