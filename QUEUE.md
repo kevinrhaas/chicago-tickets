@@ -124,12 +124,9 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 # The picture-match redos parked at 8b's foot since 2026-10-22 come up here, with the seating remainder and the brick ticket, so
 # nothing workable is left under the blocked band (owner, 2026-11-05: "make sure we are not leaving things at the bottom").
 # T-3341 covers 1812's brick too; it is here because the 1835 brick library is its source.
-T-2383 — Match the Sauganash Hotel to its pictures
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
-T-2374 — Match Cobweb Castle to its pictures
 T-2376 — Match the Green Tree Tavern to its pictures
 T-2379 — Match the Lake House under construction to its pictures
-T-2380 — Match the log jail to its pictures
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 
