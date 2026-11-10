@@ -1,7 +1,7 @@
 ---
 id: T-3535
 title: Use conservative shadow culling at Balanced detail
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/10/2026, 1:41:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T07:41:55.510Z
 decision: null
 decision_answer: null
 ---
