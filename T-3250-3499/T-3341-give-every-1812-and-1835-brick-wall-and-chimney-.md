@@ -1,7 +1,7 @@
 ---
 id: T-3341
 title: Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-02
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Brick surfaces T3341 2026-11-10 11/10/2026, 5:16:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T11:17:00.886Z
 decision: null
 decision_answer: null
 ---
