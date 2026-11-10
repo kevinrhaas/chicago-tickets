@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT continuing same-session own a30 door repair prototype; no competing boarding PR verified 11/10/2026, 8:06:55 AM CT
+claimed_by: ROOT renewing own same-session original carriage entrance; exact42 top-joint diagnosis and tested lifecycle prototype; no competing open PR verified 11/10/2026, 10:39:04 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T14:06:55.917Z
+claimed_at: 2026-11-10T16:39:05.230Z
 decision: null
 decision_answer: null
 ---
