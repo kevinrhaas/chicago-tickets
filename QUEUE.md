@@ -126,7 +126,6 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 # T-3341 covers 1812's brick too; it is here because the 1835 brick library is its source.
 T-2388 — Match the second Fort Dearborn (1835) to its pictures, every building in it
 T-2376 — Match the Green Tree Tavern to its pictures
-T-2379 — Match the Lake House under construction to its pictures
 T-3341 — Give every 1812 and 1835 brick wall and chimney real brick: the 1835 library's local clay brick, lime mortar sheet, shuffled per brick
 T-2023 — Seat the lodging remainder as lodging roofs rise: 7 West adults the book orders with no free bed, and 44 boarding-house and inn households waiting on roofs. T-1538's frozen top-up deals new roofs to them automatically
 
