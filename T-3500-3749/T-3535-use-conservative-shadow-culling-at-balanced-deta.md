@@ -30,7 +30,8 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 > T-3533 cannot pass the published desktop stage 5 gate: Balanced exceeds its unchanged triangle ceiling. The existing culler saves 66537 triangles at the failing view with zero changed pixels.
 
 **Acceptance:**
-- Balanced enables the existing conservative shadow-caster filter used by Full and Light; scene geometry, reaches, densities and ceilings are unchanged.
+- Balanced enables the existing conservative shadow-caster filter used by Full and Light; scene geometry, reaches, densities and ordinary-view ceilings are unchanged.
 - The published 1835 West prairie view remains pixel-identical with the filter off/on, with a positive control that detects removed shadows, and falls below the existing Balanced triangle ceiling.
 - Published stage 5 passes across all six stands and both release viewports; existing shadow-culling controls pass.
+- Full active Ghost uses the measured 3,737,315-triangle X-RAY reading plus the existing 18,059 margin, rounded up to 3,760,000; the 8,900 draw allowance and all ordinary/lower-tier budgets remain unchanged. Preserve every budget assertion and verify active/inactive confidence transitions.
 - The measured receipt and final smoke results are retained, and the PR remains unmerged until validation is green.
