@@ -203,3 +203,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3532 — Recorded spatial audio pilot and music cue library
 T-3534 — Dated 1835 insect phrases and distant marsh calls
 T-3533 — 1904 household daily routines, seasonal work and Go inside interactions
+T-3535 — Use conservative shadow culling at Balanced detail
