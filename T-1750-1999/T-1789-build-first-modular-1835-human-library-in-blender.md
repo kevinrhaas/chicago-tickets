@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT continuing same-session own Joseph cloth sources 398 and 0efd and native42824930117; no competing human PR verified 11/10/2026, 8:06:52 AM CT
+claimed_by: ROOT renewing own same-session Charles SOURCE06 and actual-published material study; no competing open PR verified 11/10/2026, 10:39:00 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T14:06:53.184Z
+claimed_at: 2026-11-10T16:39:01.668Z
 decision: null
 decision_answer: null
 ---
