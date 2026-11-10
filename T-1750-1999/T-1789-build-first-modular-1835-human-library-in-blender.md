@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT renewing own same-session Charles SOURCE06 and actual-published material study; no competing open PR verified 11/10/2026, 10:39:00 AM CT
+claimed_by: ROOT renewing own same-session Charles coat integration; exact four-file regeneration passes, candidate and full gate in progress; no competing human-library open PR 11/10/2026, 1:01:56 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T16:39:01.668Z
+claimed_at: 2026-11-10T19:01:57.784Z
 decision: null
 decision_answer: null
 ---
