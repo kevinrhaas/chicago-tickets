@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+
+## Charles canonical integration and local gate progress — 10 November 2026, 5:22 PM CT
+
+The [canonical candidate and native fixture checkpoint](https://github.com/kevinrhaas/chicago-evidence/tree/94af0652777f676a86171ffe538644b7c243e3bb/evidence/humans/T1789/canonical-candidate-native-fixture-20261110) is saved and fully remote-verified. The actual integrated owner reproduced all four near MASTER/WEB files from eight immutable parents in 40.138s. The existing native fixture measured the four selected near files at desktop and phone sizes in 84.441s, with every unselected fixture row and all 248 source asset hashes unchanged. The fresh/offline/corrupt-parent controls, canonical inventory writer, two actual inventory writes and real zero-write tool-isolation controls passed. Other residents, Charles's identity, existing rig/clips and far LODs stay preserved.
+
+Local complete-gate coverage has passed parts 1–5 of eight; part 6 is running under the original 600s cap and resource floors. The final 38-file candidate includes two canonical derived-report repairs: two closing-report ordinal cells and one source-use record count. Earlier failed/timeout attempts remain recorded. All eight parts, committed-HEAD preflight, actual current published/phone/resource smoke and exact-head hosted CI still precede a DEV merge. There is no new APP commit, material PR, live coat delivery or complete gate verdict yet.
+
+The bounded coat increment retains the reviewed dark-green appearance and subtle finer weave. Existing broad folds and waist/armhole gaps remain; full photographic, pose/fit, modular-kit and Mark assembly acceptance stays open. The separate DEV-only publisher safeguard PR #1925 merged with all 20 checks green and no application-file change; it does not deliver the coat or promote application changes to production.
+
 ## All six publisher-generated research views and resource controls saved — 10 November 2026
 
 [Immutable v8 research evidence](https://github.com/kevinrhaas/chicago-evidence/tree/a6bad3533c8561f8aec1b99d80ae6691194c2550/evidence/humans/T1789/actual-selected-published-research-v8-20261110) contains all six original old/new idle/walk full/close images, source/resource hashes and completed recolor/ownership/memory observations. All 18 files were verified remotely. ROOT reviewed the walking originals and proved the two idle images byte-identical to previously reviewed originals. Same dark-green livery, silhouette, camera and sampled poses; finer cloth response is subtle. Broad diagonal folds and inherited waist/armhole gaps remain stylized. No full photographic, drape or fit acceptance is claimed.
