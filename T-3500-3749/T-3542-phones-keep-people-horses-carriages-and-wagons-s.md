@@ -1,7 +1,7 @@
 ---
 id: T-3542
 title: Phones keep people, horses, carriages and wagons; strong phones start higher
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-10
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/10/2026, 5:19:22 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T23:19:23.079Z
 decision: null
 decision_answer: null
 ---
