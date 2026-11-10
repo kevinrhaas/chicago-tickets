@@ -24,4 +24,4 @@ group: T-3540,T-3541
 
 1812 daily routine coverage for soldiers and lodge residents.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** All 284 drawn 1812 people and all 520 inside-listed residents have complete daily routines, including all Native residents and visitors. Preserve existing dated and seasonal routines; give soldiers coherent quarters/duty schedules and inside-listed people age-appropriate lodge or household activities with explicit reconstructed provenance. Lazy nearby figures let residents go about routines without drawing the whole gathering; calls remain available at the correct door. Preserve presence and battle-day absence, guards, clear paths and rendering budgets. Verify coverage, seasonal/date transitions, bounded lazy population and return to duties; merge with T-3540 after green gates.

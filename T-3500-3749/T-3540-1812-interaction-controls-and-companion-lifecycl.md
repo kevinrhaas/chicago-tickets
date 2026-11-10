@@ -24,4 +24,4 @@ group: T-3540,T-3541
 
 1812 interaction controls and companion lifecycle.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Every 1812 person, including soldiers and Native lodge residents brought out at a door, has short icon actions under Interact: greet, Go inside, and flexible seasonal outdoor activities. Requested chats meet a real available companion (outside preferred; otherwise called out), then both resume daily duties. Presence dates, away days, jaunts and existing 1904 controls remain intact. Dynamic figures release their controls on return. Verify meaningful simulation tests and the published 1812 scene, both required gates, and merge the green PR into dev.
