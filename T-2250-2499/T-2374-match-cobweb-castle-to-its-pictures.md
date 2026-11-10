@@ -1,7 +1,7 @@
 ---
 id: T-2374
 title: Match Cobweb Castle to its pictures
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Chicago five-building completion group 2026-11-10 11/9/2026, 8:03:15 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-10T02:03:16.730Z
 decision: null
 decision_answer: null
+group: T-2374,T-2376,T-2379,T-2380,T-2383
 ---
 
 Match Cobweb Castle to its pictures.
