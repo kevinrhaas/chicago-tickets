@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Joseph cloth exporter corrected; new native qualification running — 10 November 2026
+
+The first woven-cloth native run [42815699269](https://github.com/kevinrhaas/chicago/actions/runs/42815699269), source `834fcb`, **failed** the existing exact-pointer validator: four Joseph near-LOD materials used normal maps without exported tangent accessors. The human prerequisite passed, but that does not make the producer successful. No assets from this failed run were adopted and no warning was suppressed.
+
+The actual exporter is corrected in source [39873aa9](https://github.com/kevinrhaas/chicago/commit/39873aa9fcb7fcbd71c7fe6f6bcac911c50243ea): export tangents only for Joseph LOD0/1 when the selected material actually contains the opt-in marker and linked tangent normal map. Other residents and far LOD behavior remain unchanged. Five exporter-decision/wiring controls and native zero-write isolation passed under the original guards; all 975 existing isolation rows remain exact. One new source-bound native run [42824930117](https://github.com/kevinrhaas/chicago/actions/runs/42824930117) is **in progress**, not passed. This is a corrected-source qualification, not an unchanged-source rerun.
+
+Actual palette/texture export, far-LOD equality, texture memory and HumanActor source/published views still require verification. A separately bounded read-only color diagnostic of failed source834 cannot qualify that source or adopt its assets. Existing successful 8745 intake, hem review and walk-fit evidence remain credited; the diagnosed garment intersections, full material/pose coverage, Mark assembly and photographic acceptance stay open. Otis's adopted seated-drive and natural-idle clips are preserved. No closing PR is assigned.
+
+
 ## Current Joseph fit review and woven-cloth native qualification — 10 November 2026
 
 [Immutable current-source intake and walk review](https://github.com/kevinrhaas/chicago-evidence/tree/52361f2b3129c38735e190dc2f6663e9408969d3/evidence/humans/clothing-library-2026-11-10/joseph-sourceLOD0-walk) binds all eight Joseph GLBs to successful producer8745 through actual full SHA/CRC and current manifests. The raw WEB and published WEB hash domains are recorded separately. All eight were reused after proving equality; less than1MB of archive ranges was read and the full582MB ZIP digest was not recomputed. The older cancelled source run remains cancelled.

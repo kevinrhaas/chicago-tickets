@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Current carriage entrance source checkpoint; contacts require repair — 10 November 2026
+
+Unqualified source checkpoint [a30cca3d](https://github.com/kevinrhaas/chicago/commit/a30cca3d03a53b938c53ab1d5a532a86062b64ad) reuses the existing V19 Brougham and earlier C02 engineering without substituting the old carriage. It proposes a real aperture and articulated original curbside leaf, plus existing Charles/shared-interaction routing. Installed assets, standing team, placement and boarding flags are unchanged; the mechanism stays dormant and all qualification flags remain false. There is no PR or DEV delivery for this prototype.
+
+An initial same-name hubcap binding error was caught and repaired using actual occurrence/node paths. Corrected near/mid structure baselines and twelve negative controls pass, preserving protected geometry and the original closed leaf. The full near sweep remains **NONPASS**: 1,313 actual closed-pose contacts were measured before the unchanged 120s timeout; continuous proof was not reached. A separate 36.509s bounded diagnosis identifies fourteen fixed/moving part-pair conflicts at the door edge, hidden step supports, upper frame and hinge hardware. No contact is exempted and no tolerance was changed.
+
+The next source-only increment repairs those measured fixed interfaces and hinge construction while preserving the visible closed outline, original moving surfaces, wheels, lamps, horse team and placement. It must pass fresh structural, surface, visual and actual interaction checks before any delivery opt-in. Step/floor rise, safe passenger passage, driver/passenger seats, ride route, stop/exit and desktop/touch round trips remain open. This ticket remains claimed with no closing PR, and its queue position is preserved.
+
+
 ## Owner's concrete Glessner carriage ride — 9 November 2026
 
 The existing nice carriage in front of Glessner House is the requested first usable specimen. The visitor must be able to approach it, ask the coachman to board and go for a ride, board, ride, stop and leave safely with keyboard and touch. Permit Mr. Glessner to ride as an identified passenger using his existing person record; do not turn him into an invented coachman. Preserve the existing carriage and improve it. The owner separately reaffirmed a horse for this same carriage (T-2801/T-2795) and better clothing for people (T-1789/T-2804). Record reconstructed route/activity/appearance honestly. This extends the existing one-vehicle acceptance; it files no new ticket and does not claim boarding already works.

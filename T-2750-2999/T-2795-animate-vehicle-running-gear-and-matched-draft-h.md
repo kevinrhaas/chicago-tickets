@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Coachman merged and published; pavement correction in review — 10 November 2026
+
+This supersedes the pending statuses below. [PR #1917](https://github.com/kevinrhaas/chicago/pull/1917) merged normally into DEV at `f2346303048398c0f8597861ba0bcbeac6772e15` after all required checks succeeded on exact head `11d4bb29`. Charles now waits beside the carriage team; route and errand/tour ownership fixes are included. [Immutable final merge receipts](https://github.com/kevinrhaas/chicago-evidence/tree/30ccb969a1390034d8eb5392ade715da69362560/evidence/transport/coachman-placement-2026-11-10/pr1917-final-merge-f23463) retain every current-head verdict. A fresh public read at 13:51 UTC reports DEV `8aa1afcac`: five route/interaction JavaScript files match exactly, and Charles's minified JSON is semantically exact to DEV. This is HTTP delivery verification, not a fresh live-world or photographic pass.
+
+The next bounded improvement is [PR #1921](https://github.com/kevinrhaas/chicago/pull/1921), ready at `facd644869541d81fe5058b0e9f23719a936e907`. All eight gate partitions and aggregate passed; moving frames and phone release were still completing when this update began. It uses existing visible pavement triangles for 1904 people only. An actual source-bound world observation places Charles's root at the drawn parkway centre, 4.311735338m, rather than the hidden raw terrain at 4.341757225m; all five runtime ground files remain byte-exact in the integrated PR. Forty-seven focused controls and canonical reports pass; the original horse support remains unchanged. The full physical observer remains NONPASS with 30 aborted native requests, and sole minima remain −2.315/−2.850mm on the slope. No full stance/gait/contact or photographic acceptance is claimed.
+
+The carriage entrance remains separate, unqualified work on T-2797. Moving hitch/gear, physical board/ride/leave, safe passenger/coachman fit and broader photographic acceptance stay open. This broad ticket is not closed, and its queue place and null closing PR remain unchanged.
+
+
 ## Coachman source integrated with current DEV; fresh checks pending — 10 November 2026
 
 [PR #1917](https://github.com/kevinrhaas/chicago/pull/1917) is ready for review at pushed head `11d4bb29bb4cf14bf20e2796da4b4b99c1273a4c`, normally merged with latest DEV `b4eb1cbf0fa557ba98059846c60bf46978a6b92c` after picture-review PR #1910 landed. The earlier2c9 head completed every required gate/human/moving/phone check successfully; that is old-head evidence, not current11d4 acceptance. Fresh exact-head hosted checks are running. The PR is **not merged**. Canonical owner/self-tests passed82.27s preserving all1,088 foreign Liberty rows, and source-use/manifest plus six focused household/day/jaunt suites passed21.25s. Full local preflight was not passed in the sparse asset checkout. [Immutable integration receipts](https://github.com/kevinrhaas/chicago-evidence/tree/dae9ad71e2d7893696ff4dfcbb3fe96de231f1cc/evidence/transport/coachman-placement-2026-11-10/pr1917-integration-11d4bb).
