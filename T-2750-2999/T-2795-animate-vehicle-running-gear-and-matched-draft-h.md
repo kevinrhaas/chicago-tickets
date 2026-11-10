@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Coachman source integrated with current DEV; fresh checks pending — 10 November 2026
+
+[PR #1917](https://github.com/kevinrhaas/chicago/pull/1917) is ready for review at pushed head `11d4bb29bb4cf14bf20e2796da4b4b99c1273a4c`, normally merged with latest DEV `b4eb1cbf0fa557ba98059846c60bf46978a6b92c` after picture-review PR #1910 landed. The earlier2c9 head completed every required gate/human/moving/phone check successfully; that is old-head evidence, not current11d4 acceptance. Fresh exact-head hosted checks are running. The PR is **not merged**. Canonical owner/self-tests passed82.27s preserving all1,088 foreign Liberty rows, and source-use/manifest plus six focused household/day/jaunt suites passed21.25s. Full local preflight was not passed in the sparse asset checkout. [Immutable integration receipts](https://github.com/kevinrhaas/chicago-evidence/tree/dae9ad71e2d7893696ff4dfcbb3fe96de231f1cc/evidence/transport/coachman-placement-2026-11-10/pr1917-integration-11d4bb).
+
+[Original street image and complete finite physical evidence](https://github.com/kevinrhaas/chicago-evidence/tree/50d4bcf5f96c648aa70f18041df2c9c4493ddcc1/evidence/transport/coachman-placement-2026-11-10/pr1917-2c9df8-bounded-post) show Charles clearly beside the team and outside the walking strip. This is a source-bound local2c9 overlay fixture, not a live11d4 image. Its first image retains the native look prompt; the second screenshot timed out and the strict observer remains NONPASS, with zero actual page/HTTP errors and retained aborted requests. A Balanced spot passed the original stricter draw/triangle limits; no whole-world budget invariant is claimed.
+
+The complete actual foot domains prove both terrain materials discard the raw field while Charles remains about27mm above the drawn parkway. [The next ground-support source candidate and actual CPU/memory proofs](https://github.com/kevinrhaas/chicago-evidence/tree/dae9ad71e2d7893696ff4dfcbb3fe96de231f1cc/evidence/transport/pedestrian-ground-2026-11-10/candidate-2c9) are saved, **unadopted**: a215KB index,19ms initialization, no duplicateXYZ and sparse known-pixel replay. Conservative mask-boundary height transitions and fresh post-change world contact remain unqualified. Existing pair/coats/clothing increments stay credited; boarding/ride/leave, broader moving gear/contact and photographic acceptance remain open. Queue place and null closing-PR field are retained.
+
+
 ## Coachman increment pushed; current public DEV bytes verified — 10 November 2026, 11:32 UTC
 
 The earlier stale-preview observations below are superseded by a fresh public read: `/4d/dev/build.json` reports DEV `7dcb5bb07`, and actual `main.js`, `standing-horses.js`, `horse-appearance.js`, `parked-transport.js`, `horse-coats.json` and parked placements are byte-exact to current DEV. This verifies HTTP delivery of the waiting team and coat inputs, not whole-world, photographic or passenger-ride acceptance. MAIN publisher proposal #1914 remains an unmerged draft; this fresh delivery observation does not require or claim its approval or adoption.

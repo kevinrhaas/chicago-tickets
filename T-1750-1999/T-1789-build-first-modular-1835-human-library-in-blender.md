@@ -21,6 +21,15 @@ decision: null
 decision_answer: null
 ---
 
+## Current Joseph fit review and woven-cloth native qualification — 10 November 2026
+
+[Immutable current-source intake and walk review](https://github.com/kevinrhaas/chicago-evidence/tree/52361f2b3129c38735e190dc2f6663e9408969d3/evidence/humans/clothing-library-2026-11-10/joseph-sourceLOD0-walk) binds all eight Joseph GLBs to successful producer8745 through actual full SHA/CRC and current manifests. The raw WEB and published WEB hash domains are recorded separately. All eight were reused after proving equality; less than1MB of archive ranges was read and the full582MB ZIP digest was not recomputed. The older cancelled source run remains cancelled.
+
+One actual sourceLOD0 walk probe completed73 track-key/midpoint poses in32.72s under SUP120 with full cleanup and zero WebGL requests/errors. It visited all15,769 garment vertices; its2,336 selected three-ray witnesses include988 repeated inside observations on32 unique selected vertices. The largest observed selected depth is1.452mm on trousers, not a global maximum or a visible-hole count; up to15 trouser vertices lacked a local nearest result. Full fit and photographic acceptance remain open.
+
+The existing128-square portable cloth proposal is now pushed as [artifact-only measurement source834fcb](https://github.com/kevinrhaas/chicago/commit/834fcbcee9de46de3270e28c786ed5fae57ae6c6). The earlier default-off source controls and the separate actual Joseph-only opt-in matrix pass. [One native qualification run42815699269](https://github.com/kevinrhaas/chicago/actions/runs/42815699269) was dispatched and is queued, **not passed**. Only Joseph is opted in; Otis/Martin and all adopted assets remain untouched. Exact farLOD hashes, actual texture/UV-transform/color export and actual HumanActor source/published views still require verification. The near material proposal has an estimated1MiB increment, not a measured phone-budget pass. It does not fix the diagnosed garment intersections or establish photographic likeness. No asset adoption or closing PR is assigned.
+
+
 ## Canonical build and nine native stills completed; acceptance remains open — 10 November 2026, 09:44 UTC
 
 This supersedes the earlier in-progress producer status without removing its history. The actual [canonical producer 42774580234](https://github.com/kevinrhaas/chicago/actions/runs/42774580234) completed **SUCCESS** on `8745ab40e39207b90c88b3a3e9823604f091304d`. Its scoped second sweep measured 24 rebuilt source/WEB files, retained 240 other SHA-verified baseline rows and passed the global check of 264 native GLBs. The full human prerequisite also passed; no native assertion or timeout was relaxed.
