@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-10T02:03:16.731Z
 decision: null
 decision_answer: null
-group: T-2374,T-2376,T-2379,T-2380,T-2383
+group: T-2374,T-2379,T-2380,T-2383
 ---
 
 Match the Lake House under construction to its pictures.

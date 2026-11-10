@@ -1,7 +1,7 @@
 ---
 id: T-2376
 title: Match the Green Tree Tavern to its pictures
-state: claimed
+state: open
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: null
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: Chicago five-building completion group 2026-11-10 11/9/2026, 8:03:15 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T02:03:16.731Z
+claimed_at: null
 decision: null
 decision_answer: null
-group: T-2374,T-2376,T-2379,T-2380,T-2383
 ---
 
 Match the Green Tree Tavern to its pictures.
@@ -164,3 +163,5 @@ Push qualified incremental source commits promptly to SAME PR1684. Publish UNQUA
 Use reviewed owner-safe platform feature `7b427d130a2cca6ed82c183c74605b965aee1d4e` on `steward/chicago-native-exact-ticket-20261103`, whose targeted-Chicago automatic salvage archives only a unique UNQUALIFIED ref and cannot advance another owner's live PR source branch. Platform main stays unchanged. A NEW exact continuation requires separate root-reviewed singlePOST authorization with target_ticket=T-2376/resume_pr=1684/original lane `green-tree-dormer-native-20261103`/max_turns400 and default processor/model/effort. This handoff alone is not a dispatch or success claim.
 
 **Released 2026-11-09** (claim of Chicago original-picture parallel group 2026-11-09 11/9/2026, 5:26:23 PM CT): Bounded increments MERGED to dev in PR1903 as a0218d1aae9d4a004f8a13b5af38cd4e7c9efd54: Cobweb partial siding, Green Tree shoulder attachment, Jail lower fence/roof exposure. Native83 fresh;81 MASTER/WEB controls byte-identical;961 foreign defaults+6 variants exact. Actual current desktop+phone focused QA pass,26 reviewed screenshots; final sourcecba all8+requiredgate green. Canonical GreenTree/Jail remain DIFFERS; private Cobweb camera remains unsolved. Wider compound/roof/date/picture questions remain partial under each original, not DONE. Evidence checkpoints a8998097 native/pictures and58f060ba bothviewport qualification. No new photo follow-up.
+
+**Released 2026-11-09** (claim of Chicago five-building completion group 2026-11-10 11/9/2026, 8:03:15 PM CT): PR1907 ships the verified left-group improvement only. Actual review leaves the categorical third upper-front window OPEN; same original completes with T3041/T2388 in the next combined native group. Exact source fix a65f49715d is checkpointed in chicago-evidence9807336; no new photo ticket or false matches verdict.
