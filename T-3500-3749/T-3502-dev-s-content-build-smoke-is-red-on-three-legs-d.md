@@ -40,3 +40,28 @@ The run baked PR #1873's head 3701b36, which is 0 commits behind dev c891a26d7. 
 PR #1873 (T-3370) is handed on with `resume`, waiting on this ticket.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+
+## Audio integration diagnosis (2026-11-10; PR #1912)
+
+The audio branch reproduces the inherited Balanced failure exactly: desktop stage 5
+run 42788508334 at `563a94144248ec2e8d397f37fb4d5b42903ad7f5` reports
+2,657,384 triangles / 6,441 calls, with 29 other checks passing. The latest
+passing stage-5 control was run 42406509178 at `2ed7d761f`; that **stage** passed,
+but its overall workflow was cancelled, so it is not a complete green build.
+
+Paired actual published-artifact probes at 1280x800 attribute the entire +73,053
+triangle change: gardens +52,962; enclosures +18,114; structures +2,282;
+trees +144; yard ground +143; woodpiles -592. Before/instrumented/after frame totals
+and the sum of individual draws agree exactly. Both focused probes are 900
+triangles above their corresponding CI readings, so the difference agrees while
+the protocols remain distinguished. Flora is idle and stable throughout; no
+horse, human or audio geometry accounts for the increase.
+
+Existing T-3535 / PR #1913 already owns a conservative shadow-culling repair for
+this same failure and a measured Full Ghost allowance. PR #1912 will reuse that
+bounded implementation and retain its measurement provenance instead of opening
+another ticket or independently raising the ordinary Balanced ceiling. Its final
+integrated checks remain pending. This is partial work on this ticket: the
+separate first-visit boot payload measurement is not covered by manual stage 1-2
+smoke, and neither this finding nor the rendering repair closes all three legs.
