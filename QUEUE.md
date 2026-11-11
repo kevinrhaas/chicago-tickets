@@ -199,4 +199,3 @@ T-3546 — Research Prairie Avenue residents and add sourced portrait cards
 T-3547 — Fit Prairie Avenue likenesses to portraits and researched demographics
 T-3549 — Activate researched Prairie Avenue adult household figures
 T-3550 — Review and activate age-appropriate Prairie Avenue children and infant care
-#   ? T-3550 DECISION: Review the five child/teen role prototypes before scene activation: https://github.com/kevinrhaas/chicago-evidence/tree/prairie-people-2026-11-11/evidence/prairie-people-2026-11-11/child-prototypes . Are these acceptable as the basis for the younger residents? data/people_match/README.md requires the first figure of each role to receive owner side-by-side approval. References show other children and outfits remain reconstructed, not accepted photographic matches. — (a) Approve these five prototypes as the basis for younger-resident activation  (b) Request changes to the prototypes before activation
