@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-11T05:39:27.040Z
 decision: null
 decision_answer: null
+group: T-3546,T-3547,T-3548
 ---
 
 Research Prairie Avenue residents and add sourced portrait cards.
