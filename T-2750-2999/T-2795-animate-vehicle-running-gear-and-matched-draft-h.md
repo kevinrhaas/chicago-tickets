@@ -21,6 +21,10 @@ decision: null
 decision_answer: null
 ---
 
+## Owner priority: horse compatibility — 11 November 2026, 01:47 UTC
+
+The owner asks that the existing optimization for more devices include the horse. This extends the existing transport work here; no new ticket or queue move. Read-only runtime inspection found that Light mode suppresses standing/town/parked horse paths. Next work will assess a bounded existing animated horse derivative or reduced rendering cost so nearby horses can remain visible with their coat variation and natural motion inside the lower-tier budgets. Current assets and phone behavior remain unchanged; no compatibility, gait, photographic or boarding completion is claimed.
+
 ## Publisher merged and actual public DEV verified — 10 November 2026, 10:10 AM CT
 
 The owner explicitly approved [publisher PR #1914](https://github.com/kevinrhaas/chicago/pull/1914), normally merged into MAIN as `9c65defae1090d4b5fcac04aaa062b4ad501a96f`. Its three workflow/helper/test files leave the MAIN application source tree unchanged. The automatic deployment [42844744069](https://github.com/kevinrhaas/chicago/actions/runs/42844744069) completed full SUCCESS, including the original all-site size guard and public freshness check. The actual assembled site is 955,098,551 bytes, with 44,901,449 bytes of reserve; 1,099 verified duplicate assets save 155,063,733 bytes. Public DEV `694574cb24ac9bb7b3e14b5182641b63e7ec1f16` matched the current ref, includes the merged ground support, and a selected aliased KTX2 passed native logical resolution, magic and full SHA verification. [Immutable delivery evidence](https://github.com/kevinrhaas/chicago-evidence/tree/aced640742e724479b625f94195f8cab7721686d/evidence/transport/native-publication-sharing-2026-11-10/main9c65-deployment-694574).
