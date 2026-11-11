@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT continuing own Glessner carriage door work; full clearance and optical views saved; current native fixture bound; actual world and boarding open 11/10/2026, 6:18:58 PM CT
+claimed_by: ROOT continuing own transport delivery and source gate; preserve foreign capable-phone work; broader acceptance open 11/10/2026, 8:45:04 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T00:18:59.101Z
+claimed_at: 2026-11-11T02:45:04.877Z
 decision: null
 decision_answer: null
 ---
