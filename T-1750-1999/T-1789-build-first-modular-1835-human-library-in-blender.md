@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT renewing own transport and native linen continuation; native LTS guard and loose 1812 linen source gates; PR1928 merged DEV; broader acceptance remains open 11/11/2026, 4:59:44 AM CT
+claimed_by: ROOT renewing own transport and clothing continuation; S3 quoted-codec repair/source gate and fresh native linen capture pending; broader acceptance remains open 11/11/2026, 7:49:06 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T10:59:50.342Z
+claimed_at: 2026-11-11T13:49:11.761Z
 decision: null
 decision_answer: null
 ---
