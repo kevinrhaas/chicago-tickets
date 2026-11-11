@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT continuing own transport and clothing work; S4 browser-source checkpoint pushed; native linen capture acceptance and broader delivery remain pending 11/11/2026, 12:28:51 PM CT
+claimed_by: ROOT continuing own PR 1933 linen recovery; source validation running; immutable capture and adoption pending 11/11/2026, 3:19:36 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T18:28:58.244Z
+claimed_at: 2026-11-11T21:19:38.723Z
 decision: null
 decision_answer: null
 ---
