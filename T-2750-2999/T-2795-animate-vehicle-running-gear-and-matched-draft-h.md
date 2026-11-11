@@ -21,9 +21,11 @@ decision: null
 decision_answer: null
 ---
 
-## Owner priority: horse compatibility — 11 November 2026, 01:47 UTC
+## Horse compatibility: preserve the other thread’s work — 11 November 2026
 
-The owner asks that the existing optimization for more devices include the horse. This extends the existing transport work here; no new ticket or queue move. Read-only runtime inspection found that Light mode suppresses standing/town/parked horse paths. Next work will assess a bounded existing animated horse derivative or reduced rendering cost so nearby horses can remain visible with their coat variation and natural motion inside the lower-tier budgets. Current assets and phone behavior remain unchanged; no compatibility, gait, photographic or boarding completion is claimed.
+The owner clarified that lower-power support is already being worked in another thread, including capable phones: do not assume a phone is weak. Merged PR #1923/T-3537 keeps weaker desktops at Balanced detail with reduced memory use and lighter textures so people, horses, wagons and carriages remain visible. PR #1924 records the 1425/425 MiB desktop/phone budgets. Horse paths key their reach to detail, not the low-memory flag.
+
+The related phone work is already owned by live T-3542, “Phones keep people, horses, carriages and wagons; strong phones start higher.” Preserve that claim and integrate its actual source when published; do not duplicate it or introduce a touch-only quality ceiling here. The earlier Light-mode audit was a finding about the current candidate, not a new feature request or a conclusion about phone capability. No new horse derivative, device policy or visibility change has been made in this continuation. Gait, photographic and boarding acceptance remain open.
 
 ## Publisher merged and actual public DEV verified — 10 November 2026, 10:10 AM CT
 
