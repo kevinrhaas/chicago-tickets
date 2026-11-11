@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT renewing own transport work; PR1928 partial coat delivery, broader acceptance remains open 11/10/2026, 10:14:16 PM CT
+claimed_by: ROOT renewing own PR1928 memory repair and transport/clothing continuation; broader acceptance remains open 11/11/2026, 1:01:17 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T04:14:16.910Z
+claimed_at: 2026-11-11T07:01:18.129Z
 decision: null
 decision_answer: null
 ---
