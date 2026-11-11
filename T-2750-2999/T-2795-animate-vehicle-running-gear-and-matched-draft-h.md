@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT continuing own transport and Glessner carriage delivery; native cohort and competing PRs rechecked; broader gait and hitch acceptance open 11/10/2026, 6:18:53 PM CT
+claimed_by: ROOT continuing own transport delivery and source gate; preserve foreign capable-phone work; broader acceptance open 11/10/2026, 8:45:00 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T00:18:54.550Z
+claimed_at: 2026-11-11T02:45:00.998Z
 decision: null
 decision_answer: null
 ---
