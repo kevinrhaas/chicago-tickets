@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT continuing own Charles material PR1928; native publication and phone passed; desktop and moving-frame diagnostics active; broad acceptance open 11/10/2026, 6:18:43 PM CT
+claimed_by: ROOT continuing own transport delivery and source gate; preserve foreign capable-phone work; broader acceptance open 11/10/2026, 8:44:55 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T00:18:50.067Z
+claimed_at: 2026-11-11T02:44:56.584Z
 decision: null
 decision_answer: null
 ---
