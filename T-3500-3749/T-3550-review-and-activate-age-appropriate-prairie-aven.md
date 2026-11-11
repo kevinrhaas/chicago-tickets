@@ -11,12 +11,12 @@ parent: T-3548
 opened: 2026-11-11
 closed: null
 pr: null
-claimed_by: continuing owner-approved Prairie younger integration 11/11/2026, 8:28:47 AM CT
+claimed_by: continuing approved Prairie younger residents through final validation 11/11/2026, 9:42:19 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T14:28:47.765Z
+claimed_at: 2026-11-11T15:42:20.969Z
 decision: answered
 decision_answer: a
 ---
