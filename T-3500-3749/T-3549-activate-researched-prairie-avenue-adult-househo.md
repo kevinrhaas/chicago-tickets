@@ -1,7 +1,7 @@
 ---
 id: T-3549
 title: Activate researched Prairie Avenue adult household figures
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3548
 opened: 2026-11-11
 closed: null
-pr: null
+pr: 1932
 claimed_by: run 11/11/2026, 4:41:11 AM CT
 blocked_on: null
 needs_bake: false
