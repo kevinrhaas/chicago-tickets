@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-10
 closed: null
 pr: null
-claimed_by: codex 11/10/2026, 11:43:19 PM CT
+claimed_by: run 11/11/2026, 2:07:50 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T05:43:21.216Z
+claimed_at: 2026-11-11T08:07:52.007Z
 decision: null
 decision_answer: null
 group: T-3546,T-3547,T-3548
