@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT continuing own PR 1933 linen recovery; source validation running; immutable capture and adoption pending 11/11/2026, 3:19:36 PM CT
+claimed_by: ROOT continuing own PR1933 final delivery; immutable local capture and scoped eight-file native intake passed; final gates and DEV merge pending 11/11/2026, 5:03:00 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T21:19:38.723Z
+claimed_at: 2026-11-11T23:03:02.698Z
 decision: null
 decision_answer: null
 ---
