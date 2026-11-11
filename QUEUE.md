@@ -196,3 +196,4 @@ T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3544 — Recorded harness and wagon sounds follow moving teams
 T-3546 — Research Prairie Avenue residents and add sourced portrait cards
+T-3547 — Fit Prairie Avenue likenesses to portraits and researched demographics
