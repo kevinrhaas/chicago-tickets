@@ -1,7 +1,7 @@
 ---
 id: T-3541
 title: 1812 daily routine coverage for soldiers and lodge residents
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-10
 closed: null
-pr: null
+pr: 1929
 claimed_by: run 11/10/2026, 7:17:37 PM CT
 blocked_on: null
 needs_bake: false
