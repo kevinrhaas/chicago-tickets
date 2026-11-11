@@ -1,7 +1,7 @@
 ---
 id: T-3550
 title: Review and activate age-appropriate Prairie Avenue children and infant care
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3548
 opened: 2026-11-11
-closed: null
+closed: 2026-11-11
 pr: 1932
 claimed_by: continuing approved Prairie younger residents through final validation 11/11/2026, 9:42:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-11T17:56:02Z
 claimed_run: null
 claimed_at: 2026-11-11T15:42:20.969Z
 decision: answered
