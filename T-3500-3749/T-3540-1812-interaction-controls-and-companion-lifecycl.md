@@ -1,7 +1,7 @@
 ---
 id: T-3540
 title: 1812 interaction controls and companion lifecycle
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-10
-closed: null
+closed: 2026-11-10
 pr: 1929
 claimed_by: run 11/10/2026, 7:17:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-11T05:26:49Z
 claimed_run: null
 claimed_at: 2026-11-11T01:17:38.460Z
 decision: null
