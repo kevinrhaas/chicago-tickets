@@ -1,7 +1,7 @@
 ---
 id: T-3545
 title: Scene detail switch fails and freezes outside summer
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-10
 closed: null
-pr: null
+pr: 1930
 claimed_by: run 11/10/2026, 9:26:24 PM CT
 blocked_on: null
 needs_bake: false
