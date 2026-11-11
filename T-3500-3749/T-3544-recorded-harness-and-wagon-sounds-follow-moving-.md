@@ -37,3 +37,7 @@ Owner request: everything that sounds nearby has its visible source; moving wago
 **Owner listening steering, 2026-11-11:** wind sounds too strong in town, particularly 1904; more exposure near the 1812 shore is reasonable. River audio in 1835 sounds moving/babbling although the scene shows nearly still, slow water. “The bugs were nice.” Preserve insect recordings, scheduling and levels; lower town wind with restrained lake proximity and hold the busy river proxy from scene playback until a calmer lapping source is qualified.
 
 **Owner UI/travel steering, 2026-11-11:** replace the large Sound on/off text button with a compact speaker icon showing mute/on; retain an accessible touch target. Explain Ambience versus Effects in Settings with examples. Clarified music scope: “Only time-travel/arrival; keep period music in town.” Music must stay silent through the time stream, landing and arrival choices, then repeat in town; ambience/effects remain independent. A separate travel track is future owner-supplied work.
+
+**Owner spacing follow-up:** sound descriptions sat too low and looked attached to the next setting. Group each label, slider and description together; use a small gap after its own slider and a larger gap before the next control.
+
+**Owner text follow-up:** remove the unnecessary Music behavior paragraph and general Sound disclaimer shown below the sliders. Keep just the Ambience and Effects examples. Both removed; catalogue provenance and credits remain available through the existing library link.
