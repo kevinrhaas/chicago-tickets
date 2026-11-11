@@ -199,3 +199,4 @@ T-3534 — Dated 1835 insect phrases and distant marsh calls
 T-3540 — 1812 interaction controls and companion lifecycle
 T-3541 — 1812 daily routine coverage for soldiers and lodge residents
 T-3542 — Phones keep people, horses, carriages and wagons; strong phones start higher
+T-3543 — Persistent person interactions and clear indoor destinations
