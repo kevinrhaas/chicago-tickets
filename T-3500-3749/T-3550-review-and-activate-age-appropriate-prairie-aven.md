@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Review and activate age-appropriate Prairie Avenue children and infant care.
@@ -49,3 +49,6 @@ The run that split it (by hand) may be working one of the pieces now.
 **Asked:** 2026-11-11. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Released 2026-11-11** (claim of run 11/11/2026, 4:41:11 AM CT): Five canonical prototypes, 40 mechanical inspections and 45 desktop/phone town captures are available in chicago-evidence/evidence/prairie-people-2026-11-11/child-prototypes. First-role owner review is pending under data/people_match/README.md; younger-resident activation and infant care remain unfinished. Adult PR #1932 does not close this work.
+
+
+**Owner answer, 2026-11-11 (conversation):** “Approve these five prototypes.” This approves the five presented child/teen prototypes as the basis for younger-resident activation. It does not assert exact photographic matching. Canonical build 42997832738, source a229ee241; original five-role review packet and asset hashes are retained in chicago-evidence/evidence/prairie-people-2026-11-11/child-prototypes.
