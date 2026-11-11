@@ -11,12 +11,12 @@ parent: T-2791
 opened: 2026-10-18
 closed: null
 pr: null
-claimed_by: ROOT renewing own transport and native linen continuation; partial PR1928 final CI; broader acceptance remains open 11/11/2026, 2:54:49 AM CT
+claimed_by: ROOT renewing own transport and native linen continuation; native LTS guard and loose 1812 linen source gates; PR1928 merged DEV; broader acceptance remains open 11/11/2026, 4:59:57 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T08:54:49.887Z
+claimed_at: 2026-11-11T10:59:57.814Z
 decision: null
 decision_answer: null
 ---
