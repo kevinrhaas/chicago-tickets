@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-11T10:41:12.763Z
 decision: null
 decision_answer: null
-group: T-3546,T-3547,T-3549,T-3550
+group: T-3546,T-3547,T-3549
 ---
 
 Fit Prairie Avenue likenesses to portraits and researched demographics.

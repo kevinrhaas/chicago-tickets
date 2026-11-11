@@ -1,7 +1,7 @@
 ---
 id: T-3550
 title: Review and activate age-appropriate Prairie Avenue children and infant care
-state: claimed
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -11,15 +11,14 @@ parent: T-3548
 opened: 2026-11-11
 closed: null
 pr: null
-claimed_by: run 11/11/2026, 4:41:11 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-11T10:41:12.763Z
+claimed_at: null
 decision: pending
 decision_answer: null
-group: T-3546,T-3547,T-3549,T-3550
 ---
 
 Review and activate age-appropriate Prairie Avenue children and infant care.
@@ -48,3 +47,5 @@ The run that split it (by hand) may be working one of the pieces now.
 - (b) Request changes to the prototypes before activation
 
 **Asked:** 2026-11-11. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Released 2026-11-11** (claim of run 11/11/2026, 4:41:11 AM CT): Five canonical prototypes, 40 mechanical inspections and 45 desktop/phone town captures are available in chicago-evidence/evidence/prairie-people-2026-11-11/child-prototypes. First-role owner review is pending under data/people_match/README.md; younger-resident activation and infant care remain unfinished. Adult PR #1932 does not close this work.
