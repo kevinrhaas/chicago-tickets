@@ -197,4 +197,5 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3544 — Recorded harness and wagon sounds follow moving teams
 T-3546 — Research Prairie Avenue residents and add sourced portrait cards
 T-3547 — Fit Prairie Avenue likenesses to portraits and researched demographics
-T-3548 — Build Prairie Avenue household figures from researched person cards
+T-3549 — Activate researched Prairie Avenue adult household figures
+T-3550 — Review and activate age-appropriate Prairie Avenue children and infant care
