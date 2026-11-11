@@ -1,7 +1,7 @@
 ---
 id: T-3532
 title: Recorded spatial audio pilot and music cue library
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-09
-closed: null
+closed: 2026-11-10
 pr: 1912
 claimed_by: run 11/9/2026, 10:15:10 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-11T01:13:43Z
 claimed_run: null
 claimed_at: 2026-11-10T04:15:12.433Z
 decision: null
