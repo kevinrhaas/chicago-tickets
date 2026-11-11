@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: 2026-11-11T10:41:12.763Z
-decision: null
+decision: pending
 decision_answer: null
 group: T-3546,T-3547,T-3549,T-3550
 ---
@@ -39,3 +39,12 @@ The run that split it (by hand) may be working one of the pieces now.
 **Acceptance:** Use age-appropriate figures and household behavior for the 40 younger residents identified by the researched roster: 35 children/teens aged 2–17 and five infants aged 0–1. Never use a default adult figure for them. Build, inspect and present the first of each new role beside period photographs in the published town on desktop and phone, following data/people_match/README.md. Resolve visible defects and obtain the required first-role review before production activation. Retain each child's actual household and sources, label reconstructed appearance, and make activities and supervision appropriate to age. Infants remain in household care rather than receiving independent adult walking routines. Validate figure/card age consistency, household calls and returns, and rendering resources.
 
 **Current work:** Five canonical child/teen exports succeeded in build [42997832738](https://github.com/kevinrhaas/chicago/actions/runs/42997832738), source a229ee241fc1fd756f2be5b8a5190910e1ba52c5. Forty mechanical browser inspections passed; town photo comparisons are being prepared. These are prototypes, not photographically accepted or activated residents. Adult integration is T-3549. Authoring recipes and the opt-in build workflow are in PR #1932; merging that preparation does not close this ticket.
+
+## Decision needed
+
+**Question:** Review the five child/teen role prototypes before scene activation: https://github.com/kevinrhaas/chicago-evidence/tree/prairie-people-2026-11-11/evidence/prairie-people-2026-11-11/child-prototypes . Are these acceptable as the basis for the younger residents? data/people_match/README.md requires the first figure of each role to receive owner side-by-side approval. References show other children and outfits remain reconstructed, not accepted photographic matches.
+
+- (a) Approve these five prototypes as the basis for younger-resident activation
+- (b) Request changes to the prototypes before activation
+
+**Asked:** 2026-11-11. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
