@@ -36,4 +36,6 @@ When T-3548 was split (2026-11-11T10:40:39.891Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** Connect the 362 researched adult residents to the portable-human pipeline with individual appearance, researched or explicitly reconstructed scene-date age, and period clothing. Keep the eight existing Glessner actors and their interactions. Preserve canonical identity and historical presence, avoiding duplicate aliases and collective labels. Adults must answer their own household doors, follow seasonal routines, support paired discussions and return indoors. Validate representative resident, staff and portrait cases in the published desktop and phone scene, with card/figure identity consistency and rendering within budget. The separately tracked 40 younger residents belong to T-3550; their preparation in PR #1932 does not close that work.
+
+**Implementation:** PR #1932, parent implementation identifiers T-3548. Research and portrait fitting remain T-3546 and T-3547. Adult activation, visible cards and routine integration are implemented; final checks after dev integration remain pending.

@@ -36,4 +36,6 @@ When T-3548 was split (2026-11-11T10:40:39.891Z), this was already on it. Read i
 
 The run that split it (by hand) may be working one of the pieces now.
 
-**Acceptance:** (state it before working — one demonstration, never weakened to pass)
+**Acceptance:** Use age-appropriate figures and household behavior for the 40 younger residents identified by the researched roster: 35 children/teens aged 2–17 and five infants aged 0–1. Never use a default adult figure for them. Build, inspect and present the first of each new role beside period photographs in the published town on desktop and phone, following data/people_match/README.md. Resolve visible defects and obtain the required first-role review before production activation. Retain each child's actual household and sources, label reconstructed appearance, and make activities and supervision appropriate to age. Infants remain in household care rather than receiving independent adult walking routines. Validate figure/card age consistency, household calls and returns, and rendering resources.
+
+**Current work:** Five canonical child/teen exports succeeded in build [42997832738](https://github.com/kevinrhaas/chicago/actions/runs/42997832738), source a229ee241fc1fd756f2be5b8a5190910e1ba52c5. Forty mechanical browser inspections passed; town photo comparisons are being prepared. These are prototypes, not photographically accepted or activated residents. Adult integration is T-3549. Authoring recipes and the opt-in build workflow are in PR #1932; merging that preparation does not close this ticket.
