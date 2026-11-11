@@ -11,12 +11,12 @@ parent: null
 opened: 2026-09-30
 closed: null
 pr: null
-claimed_by: ROOT continuing own Charles coat candidate; exact assets verified, full gate setup underway; no competing human-library PR 11/10/2026, 3:47:27 PM CT
+claimed_by: ROOT continuing own Charles material PR1928; native publication and phone passed; desktop and moving-frame diagnostics active; broad acceptance open 11/10/2026, 6:18:43 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-10T21:47:27.932Z
+claimed_at: 2026-11-11T00:18:50.067Z
 decision: null
 decision_answer: null
 ---
