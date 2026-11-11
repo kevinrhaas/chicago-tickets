@@ -199,3 +199,4 @@ T-3541 — 1812 daily routine coverage for soldiers and lodge residents
 T-3542 — Phones keep people, horses, carriages and wagons; strong phones start higher
 T-3543 — Persistent person interactions and clear indoor destinations
 T-3544 — Recorded harness and wagon sounds follow moving teams
+T-3545 — Scene detail switch fails and freezes outside summer
