@@ -1,7 +1,7 @@
 ---
 id: T-3551
 title: 1812 seasonal nature, dirt and snow hoofbeats, and visible work sounds
-state: review
+state: blocked-owner
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-11
 closed: null
 pr: 1934
 claimed_by: run 11/11/2026, 2:19:06 PM CT
-blocked_on: null
+blocked_on: Owner requested stop and HOLD on 2026-11-11 to preserve context; do not resume or merge PR #1934 until explicit owner release.
 needs_bake: false
 closed_at: null
 claimed_run: null
@@ -33,3 +33,13 @@ decision_answer: null
 - Focused real-browser playback and visual checks at phone/desktop sizes, required local gates and published scene checks pass. Commit/push recoverable code, create a PR and merge only DEV when green; verify deployed behavior.
 
 **Scope:** 1812 first. Voices/narration and broad 1904 expansion remain subsequent work. The owner's earlier authorization allows reconstructed proxies and concurrent DEV merges.
+
+## Owner hold and recovery handover — 2026-11-11
+
+Owner requested stop and HOLD on 2026-11-11 to preserve context; do not resume or merge PR #1934 until explicit owner release.
+
+PR https://github.com/kevinrhaas/chicago/pull/1934 remains open DRAFT with `hold`; repository automation must skip it. Work is not complete and has not merged to DEV. Do not reopen/reclaim/rebuild this work automatically.
+
+Code committed and pushed through `c5de44a61e8cd0c254e4d213f5ecd1046cbe4000` on `steward/1812-seasonal-audio`; application worktree clean. Local gate parts 1–3 pass; part 4 and two desktop close visual views remain. Current-head hosted gate, moving frames, portable humans and mobile stage 13 pass; desktop stage 13 was running at hold. Both phone close views accepted. No local work processes remain.
+
+[Full handover, exact resume sequence and evidence](https://github.com/kevinrhaas/chicago-evidence/blob/a4c875a851848ec3e2d035c687c9bc439ff05ec6/evidence/1812-audio-2026-11-11/HANDOVER-HELD.md). The same evidence commit includes a recovery archive (helpers, logs, receipts, chronology, 1904 read-only notes) and the approved phone images. No new R2 upload needed. Resume only after owner explicitly releases hold; finish required checks and visual review before DEV merge, then verify deployed DEV. Never promote MAIN as part of this ticket.
