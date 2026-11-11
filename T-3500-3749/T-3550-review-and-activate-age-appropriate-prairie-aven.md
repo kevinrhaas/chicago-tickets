@@ -1,7 +1,7 @@
 ---
 id: T-3550
 title: Review and activate age-appropriate Prairie Avenue children and infant care
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3548
 opened: 2026-11-11
 closed: null
-pr: null
+pr: 1932
 claimed_by: continuing approved Prairie younger residents through final validation 11/11/2026, 9:42:19 AM CT
 blocked_on: null
 needs_bake: false
@@ -37,7 +37,7 @@ The run that split it (by hand) may be working one of the pieces now.
 
 **Acceptance:** Use age-appropriate figures and household behavior for the 40 younger residents identified by the researched roster: 35 children/teens aged 2–17 and five infants aged 0–1. Never use a default adult figure for them. Build, inspect and present the first of each new role beside period photographs in the published town on desktop and phone, following data/people_match/README.md. Resolve visible defects and obtain the required first-role review before production activation. Retain each child's actual household and sources, label reconstructed appearance, and make activities and supervision appropriate to age. Infants remain in household care rather than receiving independent adult walking routines. Validate figure/card age consistency, household calls and returns, and rendering resources.
 
-**Current work:** The owner approved the five prototypes below. Exact canonical build 42997832738 exports and their hash-bound admission are retained in recovery commit f6c990d80 on combined PR #1932. The integrated source activates all 35 children/teens and five infant care records. Published behavior checks pass at 390×780 and 1280×800 for all five roles, actual infant door cards, companion walks, interaction holds, conversations and returns, with zero page errors. Shared walks now keep a caregiver within 1.4 m; an actual grid-detour defect was fixed and its original failed proof retained. Full combined local gates, fresh CI, final teen screenshot retakes and mapped renderer coverage remain required before merge. Evidence: https://github.com/kevinrhaas/chicago-evidence/tree/prairie-people-2026-11-11/evidence/prairie-people-2026-11-11/younger-integration-checkpoint . Approval does not assert exact photographic likeness.
+**Current work:** The owner approved the five prototypes below. Exact canonical build 42997832738 exports and their hash-bound admission are retained in recovery commit f6c990d80 on combined PR #1932. Pushed integration commit b5cc48c0894be2ab334afe7ebdf9f69465739511 activates all 35 children/teens and five infant care records, alongside the adult rollout, on dev base 62da0f4. Published behavior checks pass at 390×780 and 1280×800 for all five roles, actual infant door cards, companion walks, interaction holds, conversations and returns, with zero page errors. Shared walks now keep a caregiver within 1.4 m; an actual grid-detour defect was fixed and its original failed proof retained. All four combined local gate parts pass (326, 326, 326, 327 steps), and the final teen desktop/phone retakes are inspected. Six browser-tested source inputs are unchanged in the pushed commit. Fresh CI and all 15 renderer stages on both viewports are running and remain required before merge. Evidence: https://github.com/kevinrhaas/chicago-evidence/tree/prairie-people-2026-11-11/evidence/prairie-people-2026-11-11/integrated-revision . Approval does not assert exact photographic likeness.
 
 ## Decision needed
 
