@@ -22,6 +22,11 @@ decision_answer: null
 ---
 
 
+## DEV material delivery and linen continuation — 11 November 2026
+
+[PR #1928](https://github.com/kevinrhaas/chicago/pull/1928) merged into DEV at `9be845850325cc76d1acc84427c7017cdb18b417`, with all six renderer and ten memory checks green. Public DEV verification [43001828833](https://github.com/kevinrhaas/chicago/actions/runs/43001828833) remains pending. Linen source `3d2d9b356db02deed9d406422f754af4de7aa5f0` is saved in [draft PR #1933](https://github.com/kevinrhaas/chicago/pull/1933); all eight source-check parts passed (1,313 steps), while native capture [43000644195](https://github.com/kevinrhaas/chicago/actions/runs/43000644195) is in progress. Native posed fit and photographic acceptance remain open. The recorded coat, apron, collar, soldier-trim and linen-seat observations remain within T-1789; this partial delivery does not close its broader library/fit acceptance.
+
+
 ## Charles material increment committed and in PR #1928 — 10 November 2026, 6:00 PM CT
 
 [DEV draft PR #1928](https://github.com/kevinrhaas/chicago/pull/1928) contains the four near Charles coat assets, canonical transactional export and bounded runtime material selection. Source commit `a380525149ad71d29a2b529fd0ac1893cb7fe6d9` and normal integrated head [`9b6c043877cd6b73ae6c2754f52ec2fbe0497193`](https://github.com/kevinrhaas/chicago/commit/9b6c043877cd6b73ae6c2754f52ec2fbe0497193) are saved to GitHub. All 38 reviewed bytes match the remote Git blobs; the latest DEV household, loading-screen, memory and publication changes are preserved. This is a partial material delivery, not a closing PR for broad T-1789.
