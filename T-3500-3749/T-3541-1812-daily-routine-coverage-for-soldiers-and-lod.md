@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-10T22:45:45.559Z
 decision: null
 decision_answer: null
-group: T-3540,T-3541
+group: T-3540,T-3541,T-3543
 ---
 
 1812 daily routine coverage for soldiers and lodge residents.

@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-11T00:01:51.288Z
 decision: null
 decision_answer: null
+group: T-3540,T-3541,T-3543
 ---
 
 Persistent person interactions and clear indoor destinations.
