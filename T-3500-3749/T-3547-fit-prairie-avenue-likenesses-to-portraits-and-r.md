@@ -24,4 +24,6 @@ group: T-3546,T-3547,T-3548
 
 Fit Prairie Avenue likenesses to portraits and researched demographics.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Use the researched Prairie Avenue portrait references to produce individual face fits and card comparison stills through the existing Glessner pipeline. Record actual facial landmarks, uncertainties, source dates, scene-date age and visible characteristics. Preserve the distinction between a person's own portrait and a labelled stand-in; monochrome photographs do not attest colouring. Review the portrait/model comparisons and correct visible discrepancies. Existing accepted Glessner fits remain intact unless new evidence warrants a documented correction.
+
+Owner request, 2026-11-11: photo-match the listed Prairie Avenue people using their photographs, demographics and other researched characteristics. Integrated with T-3546 and T-3548.

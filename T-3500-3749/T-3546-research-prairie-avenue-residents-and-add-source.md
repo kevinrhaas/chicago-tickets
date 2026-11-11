@@ -24,4 +24,6 @@ group: T-3546,T-3547,T-3548
 
 Research Prairie Avenue residents and add sourced portrait cards.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Audit every entry in the 1904 Prairie Avenue roster, resolving explicit aliases and collective entries without inventing identities. Research each household's named people, retain the census and directory evidence, and add sourced biographical and portrait information to their visible cards. A photograph must identify its subject and carry its date, source and rights basis. Where the sources searched yield no identifiable portrait, say so and label any period stand-in plainly. Retain historical presence dates and keep former residents out of the 1904 street scene. Record coverage and unresolved facts person by person.
+
+Owner request, 2026-11-11: extend John and Frances Glessner's person-card, portrait-match and figure treatment to all people listed on Prairie Avenue. Worked with T-3547 and T-3548 as one integrated change; research alone is not the completion criterion.
