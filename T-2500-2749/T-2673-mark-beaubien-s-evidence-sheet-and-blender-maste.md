@@ -1,7 +1,7 @@
 ---
 id: T-2673
 title: Mark Beaubien's evidence sheet and Blender master: dated likeness evidence with attested likeness, period analogy and reconstruction kept apart, the figure assembled from the T-1789 library on the shared rig, inspected front, three-quarter and profile renders, and LODs exported through T-1787
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1791
 opened: 2026-10-16
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3556 (owner's consolidation, 2026-11-12)
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T06:16:17.111Z
 claimed_run: null
 claimed_at: null
 decision: null
