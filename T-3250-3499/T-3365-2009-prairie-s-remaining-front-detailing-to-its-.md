@@ -1,7 +1,7 @@
 ---
 id: T-3365
 title: 2009 Prairie's remaining front detailing to its pictures: the oriel's carved apron, the windows' hoods and the gable's pendant, the north corner's quoins, the gable's carved crest, the basement's three lights, the door's pinnacles, the near stack's place, and a camera solved on Monroe's 1896 plate
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1914
 opened: 2026-11-03
 closed: null
 pr: null
-claimed_by: run 11/12/2026, 4:51:27 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43201272709
-claimed_at: 2026-11-12T10:51:27.744Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -59,3 +59,5 @@ T-1914 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-12** (claim of run 11/12/2026, 2:10:11 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43179179198): PR #1941 (resume: gate still running, nothing red) re-solves the Chicagology camera as a view turned 22.4 degrees south of square: the course and hood that fell to the south are level (9.2 m, 11.3 m), so the falling-course item is fixed. Through it the oriel (crown 8.45 m, 0.5 m of brick under the course), paired light (9.4-11.0 m), hood (11.0-11.3 m), pendant (to 12.15 m) and attic light (13.2-14.0 m) are lowered to the print. Do not re-solve the camera. Still open: the near stack's top (16.3 m in the print against about 17.8 m built) and the north corner's wall head (about 11.3 m against 11.97 m), which come from the third storey's height and want doing together; a turned refit of Monroe's plate camera; and the stacks' brick colour. The image gate stays on T-1914.
 
 **Released 2026-11-12** (claim of run 11/12/2026, 4:10:51 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43197074733): PR #1941 merged: the Chicagology camera re-solved as a turned view (22.4° south of square) and the upper front (oriel, paired light, hood, pendant, attic light) re-read and lowered through it. Still open on chicagology_photo: the north corner's wall head (~0.65 m high, 11.97 m built vs ~11.3 m in the print) and the near stack's top (~1.5 m high) — lower them together, wall head first; and the stacks' brick colour wants a colour source. Trees are not this record's.
+
+**Released 2026-11-12** (claim of run 11/12/2026, 4:51:27 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43201272709): PR #1946 (resume: gate still running — gate 8/8 green, only the humans check in progress; nothing red) lowers 2009 Prairie's north corner and near stack to the turned Chicagology camera: third storey 2.75 -> 2.22 m (wall head 11.42 m against the print's ~11.3 m; the paired light's top under the gable slab's foot holds it there), ledge 11.45 m, slab foot 11.0 m, stacks 0.75 m over the ridge (near stack's cap y 108-121 px vs the print's 107). Both items fixed in chicagology_photo.match.json; Monroe plate's stack and corner re-read within tolerance. Do not rebuild them. Still open: the stacks' brick colour (wants a colour source) and the trees (not the house's). The image gate stays on T-1914.
