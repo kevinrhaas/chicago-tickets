@@ -154,7 +154,6 @@ T-3558 — Finish the photographic wagons and Brougham: the farm-box master qual
 T-3084 — Match the Brougham body and materials to the 1893 catalogue
 T-3085 — Qualify Brougham interfaces and portable distance delivery in town
 T-2795 — Animate vehicle running gear and matched draft-horse hitches
-T-2796 — Move horse-drawn traffic through distant streets with measured LOD budgets
 T-2797 — Board, ride and leave a carriage or wagon with accessible controls
 T-3557 — Ride the Glessner carriage: ask the coachman, board, ride a short round with Mr. Glessner aboard, stop and get down, by keyboard and touch
 
