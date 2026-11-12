@@ -1,7 +1,7 @@
 ---
 id: T-3563
 title: Settings card: icon tabs, mouse sensitivity, What's new and Research at the end
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/12/2026, 11:08:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-12T17:08:31.871Z
 decision: null
 decision_answer: null
 ---
