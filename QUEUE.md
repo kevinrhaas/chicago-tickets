@@ -178,3 +178,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3563 — Settings card: icon tabs, mouse sensitivity, What's new and Research at the end
 T-3564 — Glessner to Kevin's 2026-11-10 photos: coach-house doors and drive, Prairie arch roll, alley dormer, court wall, 35 plaque and green sash, varied granite
 T-3566 — 1721 Prairie: the 1863 frame Dexter house standing behind Arthur Little's brick front, built to the 1891 plate and the Detroit print
+T-3569 — Replace 1904 music with Kevin's ten-track ragtime playlist on shuffle
