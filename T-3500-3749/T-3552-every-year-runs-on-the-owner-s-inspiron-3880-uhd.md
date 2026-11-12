@@ -1,7 +1,7 @@
 ---
 id: T-3552
 title: Every year runs on the owner's Inspiron 3880 (UHD 630, 12 GB): integrated-GPU memory lines for 1835 and 1812, and a software-rendering visitor boots modest
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-11
-closed: null
+closed: 2026-11-11
 pr: 1935
 claimed_by: run 11/11/2026, 10:13:58 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T05:32:09Z
 claimed_run: null
 claimed_at: 2026-11-12T04:13:59.204Z
 decision: null
