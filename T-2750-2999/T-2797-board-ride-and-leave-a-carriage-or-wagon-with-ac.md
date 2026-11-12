@@ -1,7 +1,7 @@
 ---
 id: T-2797
 title: Board, ride and leave a carriage or wagon with accessible controls
-state: claimed
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2791
 opened: 2026-10-18
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: ROOT continuing own transport and clothing work; S4 browser-source checkpoint pushed; native linen capture acceptance and broader delivery remain pending 11/11/2026, 12:29:06 PM CT
-blocked_on: null
+blocked_on: folded into T-3557 (owner's consolidation, 2026-11-12)
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T06:16:24.364Z
 claimed_run: null
 claimed_at: 2026-11-11T18:29:06.856Z
 decision: null
