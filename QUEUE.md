@@ -177,6 +177,5 @@ T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and tr
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3564 — Glessner to Kevin's 2026-11-10 photos: coach-house doors and drive, Prairie arch roll, alley dormer, court wall, 35 plaque and green sash, varied granite
 T-3566 — 1721 Prairie: the 1863 frame Dexter house standing behind Arthur Little's brick front, built to the 1891 plate and the Detroit print
-T-3569 — Replace 1904 music with Kevin's ten-track ragtime playlist on shuffle
 T-3571 — Navigator mute all sound and mute music toggles; softer lit state on every appearance
 T-3572 — 1812 jumpy frames and slow walking near the fort: figure builds stall the main thread
