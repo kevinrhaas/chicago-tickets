@@ -1,7 +1,7 @@
 ---
 id: T-2674
 title: Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1791
 opened: 2026-10-16
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3556 (owner's consolidation, 2026-11-12)
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T06:16:19.603Z
 claimed_run: null
 claimed_at: null
 decision: null
