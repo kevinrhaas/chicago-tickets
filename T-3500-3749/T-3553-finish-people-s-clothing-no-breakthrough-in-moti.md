@@ -13,7 +13,7 @@ closed: null
 pr: null
 claimed_by: null
 blocked_on: null
-needs_bake: false
+needs_bake: true
 closed_at: null
 claimed_run: null
 claimed_at: null
@@ -23,4 +23,26 @@ decision_answer: null
 
 Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+## Why this ticket (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue": "the people human tickets, horses and carriages I think a lot has been done and there probably are only a few items left to do so those can be pulled out and consolidated into a limited number of tickets that will be faster to complete". This ticket is what is left of the clothing work. It replaces **T-1789** (modular human library), **T-3410** (first wardrobe catalogue) and **T-3421** (coat-tail sway), which are withdrawn into it. Their files keep their history; read them only for a detail this one does not carry.
+
+## Already done on dev — reuse it, don't rebuild it
+
+- The portable pipeline: T-1786 contract (#606), T-1787 exporter (#644), T-1788 browser actor (#669); 248 measured GLBs over four LODs on a shared 56-joint rig.
+- The wardrobe kit T-3409 (#1746), face/body variation T-3412 (#1755), hair and eyes T-3414 (#1763), the female shared-rig base T-3423 (#1787), the paired reference rig T-3417 (#1754), the fabric shader (T-2804, #1733) and the coachman's livery (T-3398, #1739).
+- The six catalogue roles: Glessner's day dress (#1822), Frances Glessner and the maid (#1823), the 1835 merchant and labourer and the 1812 private (#1824).
+- The cloth finish and level hems (#1904), fine wool coats (#1928), the 1812 settler's looser linen seat (#1933).
+
+## What is left
+
+**Acceptance:** (the definition of done, never weakened to pass)
+
+- [ ] **No clothing breaks through in motion.** Check walking and turning poses, not only standing: the coachman's trousers through his coat, the women's aprons, the soldiers' stripes and trim on bending sleeves. Fix the garment or its weights, not the camera.
+- [ ] **Collars** read as shirt collars at conversation distance: neckline and coat junction reshaped on the existing garments.
+- [ ] **Seats**: no trousers tracing the buttock cleft on any figure in motion (the 1812 settlers are done by #1933; check the rest).
+- [ ] **Coat tails sway** on people who walk in coats, as the drivers' spring tails already do (T-3409).
+- [ ] **The six-role catalogue reviewed**: one paired still per role at 3 m and 10 m beside a dated period photograph or plate (the T-3417 rig), differences listed candidly.
+- [ ] Desktop 1280×800 and phone 390×780 shots before and after, in the real scenes, in the ticket's evidence folder. Phone memory stays inside the T-3537 / T-3542 ceilings; no person, horse or carriage is dropped to fit.
+
+Keep each person's identity, colours, style, provenance and adopted clips. Ship in as many PRs as it takes, each one a visible improvement; the ticket closes when the list above is ticked.
