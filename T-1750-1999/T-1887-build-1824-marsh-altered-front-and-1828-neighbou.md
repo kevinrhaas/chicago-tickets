@@ -1,7 +1,7 @@
 ---
 id: T-1887
 title: Refine 1824 Marsh altered front and 1828 neighbour
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/12/2026, 7:21:00 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43225230917
-claimed_at: 2026-11-12T13:21:00.642Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -90,3 +90,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-06** (claim of run 11/6/2026, 8:43:02 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42329336605): PR #1808 (resume: gate still running, nothing red) turns 1828's porch arches on its front and south side and cuts the bay's three barred basement lights, off the automobile photograph; both 1828 match records re-judged (arches and basement windows fixed). Still open in the match records: 1828's third porch column (against the bay's north cheek, ~0.5 m south of the respond), the bay carried into the mansard, the mansard's last metre, the wall south of the bay; 1824's placement against 1828 through the shared camera, its wall south of the bay and its flanks' finish. Not split: the gate stays on this ticket.
 
 **Released 2026-11-12** (claim of run 11/12/2026, 12:33:00 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43168101404): PR #1938 (resume: gate still running, nothing red) carries 1828's canted bay up into the mansard under its own crown with a dormer of its own, off the Glessner partial view; the main face's dormer over the bay is taken down, and the partial view's record now reads the bay-into-mansard item fixed. Still open in the match records: 1828's third porch column against the bay's north cheek and the terrace beside the stoop it stands on (K01's porch places columns only along its front, and its terrace does not step along a canted bay), the front wall south of the bay, and the mansard's last metre; 1824's placement against 1828 through the shared camera, its wall south of the bay, and its flanks' finish. Not split: the gate stays on this ticket.
+
+**Released 2026-11-12** (claim of run 11/12/2026, 7:21:00 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43225230917): PR #1948 (resume: gate still running, CI gate 1-8 green, nothing red) paints 1824's flanks, rear range and stacks light (K01 wall_finish opened to a stone-fronted house), off the Pomeroy photograph and the automobile photograph's light south flank; 1824's match record now reads the flanks' finish fixed. Still open in the match records: 1824's placement against 1828 through the shared camera and its wall south of the bay; 1828's third porch column against the bay's north cheek (the photograph puts the porch's south side on a diagonal to it, which K01's rectangular hood cannot draw), the front wall south of the bay, and the mansard's last metre. Not split: the gate stays on this ticket.
