@@ -1,7 +1,7 @@
 ---
 id: T-2795
 title: Animate vehicle running gear and matched draft-horse hitches
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-2791
 opened: 2026-10-18
 closed: null
-pr: null
+pr: 1908
 claimed_by: ROOT continuing own transport and clothing work; S4 browser-source checkpoint pushed; native linen capture acceptance and broader delivery remain pending 11/11/2026, 12:29:01 PM CT
 blocked_on: null
 needs_bake: false
