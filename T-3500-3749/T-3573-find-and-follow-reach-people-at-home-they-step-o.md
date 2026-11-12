@@ -1,7 +1,7 @@
 ---
 id: T-3573
 title: Find and Follow reach people at home: they step out for a walk round the block
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1970
 claimed_by: run 11/12/2026, 2:46:53 PM CT
 blocked_on: null
 needs_bake: false
