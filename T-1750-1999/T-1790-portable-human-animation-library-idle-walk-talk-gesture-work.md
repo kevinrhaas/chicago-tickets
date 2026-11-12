@@ -1,7 +1,7 @@
 ---
 id: T-1790
 title: Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3554 (owner's consolidation, 2026-11-12)
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-12T06:16:05.109Z
 claimed_run: null
 claimed_at: null
 decision: null
