@@ -1,7 +1,7 @@
 ---
 id: T-1886
 title: Refine 1816 Henderson mansard house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/12/2026, 6:48:07 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43220235978
-claimed_at: 2026-11-12T12:48:07.397Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -86,3 +86,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-06** (claim of run 11/6/2026, 7:57:48 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42326275419): PR #1806 stands 1816 Prairie on the pale stone basement Chicagology's photograph shows (smooth limestone to the water table at 2.0 m, round the front, both canted bays and the south flank, barred lights under the bays' windows), slates both crowns as the main mansard and puts a pedimented dormer on each crown's front face. Still open in the match record: the flank crown's dormer in its SE canted face (K08 lays bay dormers on a front face only), the carved window hoods with crests, the balcony's 1 m pierced railing with the window over the door made a door, and the flank brick's tone; the 1874 Land Owner engraving's camera is not solved. Not split: the gate stays on this ticket.
 
 **Released 2026-11-12** (claim of run 11/12/2026, 3:44:54 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43193190483): PR #1945 (resume) carries 1816 Prairie's south flank in the front's face brick and K09 crests on the front and flank hoods, gated green; it needs one lap (dev's T-3561 manifest conflict on 1815, a hash-only rebake) to merge. Still open in the match record: the flank crown's SE-face dormer, crests on the K08 bay hoods, the balcony's pierced railing with a door over the entrance, and the 1874 Land Owner engraving's camera. Finish #1945 first.
+
+**Released 2026-11-12** (claim of run 11/12/2026, 6:48:07 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43220235978): PR #1945 (south flank brick + crested hoods) is gated green and handed on with resume, waiting only on the humans check; the image gate's remaining differences (second flank-crown dormer, K08 bay hoods, balcony railing, 1874 camera) stay open on this ticket
