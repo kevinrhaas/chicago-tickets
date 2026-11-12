@@ -1,7 +1,7 @@
 ---
 id: T-3570
 title: Meet the Glessner House: owner's edits to the opening text
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1955
 claimed_by: run 11/12/2026, 11:25:13 AM CT
 blocked_on: null
 needs_bake: false
