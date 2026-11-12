@@ -1,7 +1,7 @@
 ---
 id: T-1872
 title: Refine 1708 and 1712 townhouse fronts
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/12/2026, 3:03:12 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43187136510
-claimed_at: 2026-11-12T09:03:12.950Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -84,3 +84,5 @@ This ticket closed without passing its image gate: `ticket.mjs split` closed it 
 
 
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
+
+**Released 2026-11-12** (claim of run 11/12/2026, 3:03:12 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43187136510): PR #1943 gives 1712 its first reference view (the 1893 Rand McNally west-side strip) and rebuilds its front to it; one difference stays open: the drawing's hip reads ~20 degrees, below the K01 contract's 25-degree floor for an ordinary roof, so closing it needs that range widened (a component-standard decision). 1708's two views already match.
