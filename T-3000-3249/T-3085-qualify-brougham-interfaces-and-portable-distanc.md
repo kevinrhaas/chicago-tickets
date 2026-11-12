@@ -1,7 +1,7 @@
 ---
 id: T-3085
 title: Qualify Brougham interfaces and portable distance delivery in town
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2794
 opened: 2026-10-23
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3558 (owner's consolidation, 2026-11-12)
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T06:16:33.936Z
 claimed_run: null
 claimed_at: null
 decision: null

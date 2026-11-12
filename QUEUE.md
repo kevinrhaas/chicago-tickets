@@ -146,7 +146,6 @@ T-3555 — A living town at a phone's cost: far people as impostor cards, middle
 # T-2792 and T-2799 completed through PR #1174; retain each remaining model's rights, date and needs_bake gates.
 T-3558 — Finish the photographic wagons and Brougham: the farm-box master qualified, the covered wagons upgraded but kept distinct, and the Brougham matched to its 1893 plate and qualified in town
 # Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).
-T-3085 — Qualify Brougham interfaces and portable distance delivery in town
 T-2795 — Animate vehicle running gear and matched draft-horse hitches
 T-3557 — Ride the Glessner carriage: ask the coachman, board, ride a short round with Mr. Glessner aboard, stop and get down, by keyboard and touch
 
