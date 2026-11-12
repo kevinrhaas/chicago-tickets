@@ -66,12 +66,17 @@ In the Pullman house views: `a16-pullman-det-4a08066` (right foreground) and `a1
 
 Source records already in `data/sources/`: `wikipedia_fort_dearborn_massacre_monument`, `chicagoandcook_2017_1812_massacre_site`, `loc_det_4a08065_pullman_residence`, `loc_det_4a08066_pullman_residence`. Add a record for each picture a camera is solved on (ICHi-19208 has none yet), and put the pictures on the monument's card (T-2389).
 
-## How to build it (suggested, not binding)
+## Owner's ruling on accuracy (Kevin, 2026-11-12, verbatim)
 
-- Pedestal and base from the kit as granite masses (cheap; get them exactly right: steps, chamfers, die, cap, panels and lettering as texture or shallow relief).
-- The bronze group is the hard part. Bound it to what the photographs show: five figures in their poses, about 2.7 m tall, on a rocky top. A Blender sculpt or the portable-human rigs posed and fused into one bronze mesh, with a single dark patinated bronze material, are both fine; keep it one draw call and inside the Light tier's triangle ceiling (LODs: a simpler silhouette from more than ~40 m).
-- Depiction: the figures are period sculpture, built as the sculptor made them. The card says plainly that Native groups long objected to the work and that it was taken off public view in 1997. Record the structure with `review_required: true` and its own reason (a depiction of the 1812 battle and of Potawatomi people), per the standing constraint; it does not block release.
-- Whatever the photographs cannot settle (the rear panels, the back of the group) is `reconstructed` with a `docs/LIBERTIES.md` entry; the rear is bounded by the Inter Ocean rear sketch.
+> you should be accurate to the photos it must be accurate do not change native depictions as done in the monument, this must accurately represent the monument
+
+So this is a **faithful replica of the monument as photographed**, binding on whoever builds it:
+- **Every figure as Rohl-Smith made it**, read from the photographs: the poses, the anatomy, the dress and undress, the headdresses and feathers, the hair, the tomahawk, the musket, the faces and expressions, the woman's drapery, the fallen surgeon, the child, and the rocky ground. **Do not soften, re-dress, re-pose, idealise or "correct" the Native figures**, and do not apply the project's Native dress, variation or likeness rules (`dress_1812_native.json`, the 1812 card rules) to them: they are a bronze sculpture of 1893, not people in the scene.
+- **No generic stand-ins.** The portable-human rigs may serve only as an armature; the finished group has to read as this sculpture in every photograph, figure by figure, not as five posed town figures.
+- The pedestal, the steps and chamfers, the die, the bronze panels (including what the front relief shows), the inscription's wording and layout, the cap, and the dark bronze on dark granite, all to the photographs.
+- Accuracy is not traded for budget: if the group needs more triangles than the Light tier allows at close range, raise the budget (AGENTS.md: "just raise it", never silently) or give it distance LODs, but the near view stays exact.
+- Where no photograph shows a part (the far side of the group, the rear and side panels), build it from the Inter Ocean 1892 rear sketch and the other views, mark it `reconstructed`, and record it in `docs/LIBERTIES.md`. Nothing is invented where a picture shows it.
+- The card states the monument's history factually: who commissioned and made it, where it stood, the 1931 move, and that it was taken off public view in 1997 after long objection from Native groups. That is history about the object; it does not change the object. Keep `review_required: true` with its own reason (a depiction of the 1812 battle and of Potawatomi people), as the standing constraint requires; the flag changes nothing in the model and does not block release.
 
 ## Image gate
 
@@ -79,4 +84,4 @@ Source records already in `data/sources/`: `wikipedia_fort_dearborn_massacre_mon
 
 - fort_dearborn_massacre_monument_1893
 
-**Acceptance:** the monument stands in the 1904 scene on 18th Street by Calumet, in front of the Pullman wall, and not in 1812 or 1835; cameras solved on at least ICHi-19208, Taylor 1893 and the Detroit 4a08066 view; `photo_match` side-by-sides reviewed to `matches` under the T-3153 bar (pedestal steps, die, panel and lettering placement, the group's five figures, silhouette and height, dark bronze on dark granite); the Pullman house's 4a08066 and 4a08065 records updated to show it; a card with its history (including the 1931 move and the 1997 removal) and its pictures; shown at desktop and at 390x780; Light tier inside its triangle and draw-call ceilings.
+**Acceptance:** the monument stands in the 1904 scene on 18th Street by Calumet, in front of the Pullman wall, and not in 1812 or 1835; cameras solved on at least ICHi-19208, Taylor 1893 and the Detroit 4a08066 view; `photo_match` side-by-sides reviewed to `matches` (pedestal steps, die, panel and lettering, each of the five figures' pose, dress, weapons and features as sculpted, silhouette and height, dark bronze on dark granite; any figure that departs from the sculpture is `open`, never `within tolerance`); the Pullman house's 4a08066 and 4a08065 records updated to show it; a card with its history (including the 1931 move and the 1997 removal) and its pictures; shown at desktop and at 390x780; Light tier inside its triangle and draw-call ceilings.
