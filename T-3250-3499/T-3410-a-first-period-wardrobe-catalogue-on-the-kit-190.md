@@ -37,3 +37,7 @@ Kevin: "Agreed on your recommendations, proceed": named residents with a survivi
 fitted faces (Glessner first), a handful of people are done fully before any crowd, people may have
 about 12 MB of shared textures on phones once that is freed elsewhere, and the order is clothes first,
 then bodies and faces, then the rest. Acceptance is a paired still beside period photographs (T-3417).
+
+## Folded into T-3553 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3553**. This file keeps its history; the work continues there.

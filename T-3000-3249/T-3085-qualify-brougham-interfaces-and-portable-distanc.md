@@ -54,3 +54,7 @@ Read T-2794 and the accepted exact T-3084 source/asset hashes before starting.
 - Complete normal integrated and published desktop/mobile gates before DEV merge.
   Door operation, occupied teams, traffic, boarding gameplay and riding remain their
   existing later interaction tickets; this child proves the parent's static interfaces.
+
+## Folded into T-3558 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3558**. This file keeps its history; the work continues there.

@@ -74,3 +74,7 @@ far people as impostor cards from one shared atlas, middle-distance people as in
 meshes sharing one body, and full skinned, draped figures only near the camera. It comes after the
 people memory pool (T-3408) is freed, and after a handful of people are done fully
 (T-3409, T-3410, T-3412..T-3417).
+
+## Folded into T-3555 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3555**. This file keeps its history; the work continues there.

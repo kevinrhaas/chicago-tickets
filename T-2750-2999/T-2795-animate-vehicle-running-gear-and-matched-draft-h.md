@@ -177,3 +177,7 @@ Parallel source adapter now covers actual W01 steering/rolling and existing reco
 Separately versioned seated sourceV2 passed independent authoring review only. Internal22.096mm rise clears all four CPU LODs with fixed shoes, but near support gap4.49mm, wrists/palms rise22.096mm, tiny coarse export margin. Actual canonical export, support/reins/harness/load/world acceptance remain open; live driver disabled.
 
 **Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:25 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
+
+## Closed as done (owner's consolidation, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue": close what is already done. On dev: wheels turn on the driven loops (`transport-loop.js`), Hans's brougham and the 1812 wagons run with their teams, the Glessner carriage has its waiting team with draft tack (`draft-hitch.js`, #1908), individual coats (#1911), its coachman (#1917) and pavement support (#1921). Whatever hitch motion the moving Glessner ride still needs belongs to **T-3557**.

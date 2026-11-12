@@ -38,3 +38,7 @@ Owner, 2026-10-16: *"I think human figures are ok once we are able to render the
 - [ ] The browser actor is bound to the existing `beaubien_mark` person id at an appropriate authored location and state; historical placement is not altered to make the demo easy.
 - [ ] The actor idles, walks when driven, performs a greeting/talk gesture, can be selected and approached, and opens or hands off to the existing person information.
 - [ ] Works at desktop and at 390x780 (the mobile release gate) in the 1835 scene.
+
+## Folded into T-3556 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3556**. This file keeps its history; the work continues there.

@@ -134,3 +134,7 @@ Photographic/interaction acceptance remains open; this evidence note changes no 
 Owner: “Keep going and please make some visible progress … you can make incremental progress”. Owner also asks to use the fort gate interaction pattern for people, horses, wagons and carriages, and: “a person driving a wagon or carriage on a circle loop on 1904 and 1835, and also be able to walk up to one and interact with it”.
 
 Extend this existing driver ticket rather than file more tickets. Work toward one bounded, visible driven loop in each year with a real period-clothed seated driver and a keyboard/touch approach action (stop/continue), preserving scene-date eligibility and the generic interaction engine. Routes, activity and appearances are reconstructed where unsupported. Incremental DEV delivery is explicitly authorized; photographic perfection is not a prerequisite for each partial delivery. Full riding, complete gear, photographic and whole-town traffic acceptance remain open. No runtime implementation or DEV merge is claimed by this note.
+
+## Folded into T-3560 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3560**. This file keeps its history; the work continues there.

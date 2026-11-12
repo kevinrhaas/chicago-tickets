@@ -137,3 +137,7 @@ Final person14323534e is pushed after full1042/380 preflight and postcommit mirr
 Increment committed/pushed0656467069ee3f8d0a40685ee571ceaaf4b0a2d7, full1046/381 preflight and postcommit publication/mirror PASS. Draft PR1208 opened. Actual mobile published stage8 PASS21/0; desktop and normal CI pending at last finite audit. Targeted stage8 is not whole-gate qualification. Parent remains claimed/open for photographic work.
 
 **Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:31 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
+
+## Folded into T-3558 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3558**. This file keeps its history; the work continues there.

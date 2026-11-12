@@ -502,3 +502,7 @@ The owner requested parallel continuation while PR #1928 completes its existing 
 Separate small source candidates are being prepared for the coachman, aprons, collars and 1812 linen trousers, with an independent posed garment/trim clearance review. These are source work in progress: no new canonical geometry bake, native posed fit pass or photographic acceptance is claimed. Preserve the existing rig/animations, identity, clothing style and provenance; use the established canonical pipeline and retain frozen material-version receipts. PR #1928 continues separately toward DEV-only merge when its own checks are green. All broader acceptance remains open.
 
 **Released 2026-11-11** (claim of ROOT continuing own PR1933 final delivery; immutable local capture and scoped eight-file native intake passed; final gates and DEV merge pending 11/11/2026, 5:03:00 PM CT): Partial PR #1933 merged into DEV at 02fa54518ae350d6661e5fb16beee6a96191bee1: eight settler linen-seat assets adopted; all16 local source parts and both exact-head GitHub CI workflows passed. Broader modular-library, photographic/full-fit acceptance and documented seam/coverage work remain open. No production promotion.
+
+## Folded into T-3553 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3553**. This file keeps its history; the work continues there.

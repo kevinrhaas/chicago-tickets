@@ -38,3 +38,7 @@ Owner, 2026-10-16: *"I think human figures are ok once we are able to render the
 - [ ] Mark rendered and inspected in the real 1835 browser scene at desktop and mobile, at close, conversation and street distances: terrain contact, scale against doors, shadows, hair and clothing artefacts, foot slide, LOD popping, textures and historical read. A Blender beauty render alone does not close it.
 - [ ] Shipped size, triangles per LOD, materials and draw calls, texture memory, animation cost and frame impact recorded; visible and performance defects corrected rather than the scene budget weakened to admit the first person.
 - [ ] Stop condition (the parent's): a visitor can encounter a credible, explicitly sourced or reconstructed Mark Beaubien in the browser, and the whole path stays portable to a future Unreal import from the same Blender source.
+
+## Folded into T-3556 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3556**. This file keeps its history; the work continues there.

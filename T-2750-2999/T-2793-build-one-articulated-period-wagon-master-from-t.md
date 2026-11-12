@@ -316,3 +316,7 @@ PR1340 has normally pushed checked head33d5abc. Its original moving frames, both
 The six-path repair is staged at candidate tree88472d15787f062f82a5255bd42ccd88aa80f1d9, with a fresh four-part required gate in progress. It is not yet committed, merged, or a broad photo-quality acceptance. Driver-loop/horse/Otis source is being integrated separately; source/world/browser/interaction qualification and DEV delivery remain pending. Closed progress saved at chicago-evidence81460e8fa9505a72dde1627b54f0af3f852fce8c.
 
 **Released 2026-11-09** (claim of Codex root coordinating resumed existing wagon PR1340 and saved horse/Otis branches after verified API restoration 11/3/2026, 8:39:00 AM CT): Owner-requested 2026-11-09 queue refresh: expired inactive claims. Preserve merged increments and all remaining photographic, physical-interface and qualification requirements.
+
+## Folded into T-3558 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3558**. This file keeps its history; the work continues there.

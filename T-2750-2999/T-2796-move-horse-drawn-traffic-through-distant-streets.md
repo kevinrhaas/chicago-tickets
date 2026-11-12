@@ -103,3 +103,7 @@ Owner prioritizes first repeating team circuit before population expansion/playe
 Active source extension is checking continuous provisional rigid-team clearance and dry worked-earth shoulders within correct ROW; no widened wear mask or moved historic geometry. Existing worn7mcore failure remains visible. Full actual animated horse/harness sweep and world/phone proof remain open.
 
 **Released 2026-10-23** (claim of root continuing delegated people and transport delivery; independent renewal 10/23/2026, 7:45:28 AM CT): Session wrap: broad acceptance unfinished. Complete43-file horse source is GitHub-backed at checkpoint73276bb; latest full run FAIL1/1054 (stale-lap fixture), no new horse PR or DEV merge. Resume HANDOVER.md and existing saved source; draft checkpoint exception awaits owner answer.
+
+## Folded into T-3555 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3555**. This file keeps its history; the work continues there.

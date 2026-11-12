@@ -56,3 +56,7 @@ the full static photographic/portable horse delivery originally required by T-28
 - Complete normal source and published desktop/mobile qualification. Do not infer
   walking/trot, tack, riders, teams, driving or boarding from a static-animal pass;
   those remain the existing T-2803/T-2804 and gear/traffic tickets.
+
+## Folded into T-3559 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3559**. This file keeps its history; the work continues there.

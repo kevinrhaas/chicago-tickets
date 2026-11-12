@@ -123,3 +123,7 @@ The unoccupied camera study remains outside the app. C02 now has a separately ar
 Durable inputs, failed receipts and current recovery instructions: `evidence/period-transport-2026-10-18/CHECKPOINT.md` and `parallel-refinement-2026-10-19/` beneath that evidence directory. This progress update does not change the ticket state or production acceptance.
 
 **Released 2026-10-21** (claim of parallel vehicle boarding 10/18/2026, 10:06:57 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Folded into T-3557 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3557**. This file keeps its history; the work continues there.

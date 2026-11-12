@@ -38,3 +38,7 @@ Owner, 2026-10-16: *"I think human figures are ok once we are able to render the
 - [ ] A dated visual-evidence sheet committed before modelling: contemporary or near-contemporary likeness if any, later portraits clearly dated, documented age, role and body clues, and period clothing references for his role in Chicago in 1835 — attested likeness, period analogy and reconstruction kept separate. A late-life portrait is not turned into an undocumented exact 1835 face.
 - [ ] Mark assembled or refined from the T-1789 Blender library on the shared skeleton; custom face, hair, clothing or accessories only where the evidence or a stated reconstruction warrants them; reusable improvements go back into the library.
 - [ ] Inspected Blender renders (front, three-quarter, profile; neutral light; period-clothed full body) and LODs exported through T-1787; the Blender master, texture sources, rights and provenance, recipes and evidence links preserved.
+
+## Folded into T-3556 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3556**. This file keeps its history; the work continues there.

@@ -34,3 +34,7 @@ When T-3415 was split (2026-11-06T07:15:18.057Z), this was already on it. Read i
 The run that split it (by hand) may be working one of the pieces now.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+## Folded into T-3553 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3553**. This file keeps its history; the work continues there.

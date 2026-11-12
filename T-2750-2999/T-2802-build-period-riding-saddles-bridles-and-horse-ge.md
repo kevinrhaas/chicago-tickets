@@ -99,3 +99,7 @@ Centralfoldcf148 actual passed all29self and329pairs then failed iron/tread pair
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
 
 **Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:19 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Folded into T-3560 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3560**. This file keeps its history; the work continues there.

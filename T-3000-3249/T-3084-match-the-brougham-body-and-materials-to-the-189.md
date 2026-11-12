@@ -72,3 +72,7 @@ The parent retains the entire original ask, sources and all historical increment
 No photographic acceptance exists merely because T-3083 merges.
 
 **Released 2026-11-09** (claim of Codex root carriage_resume continuing owned coachwork and cabin finish delivery in this session 10/26/2026, 9:38:55 PM CT): Owner-requested 2026-11-09 queue refresh: expired inactive claims. Preserve merged increments and all remaining photographic, physical-interface and qualification requirements.
+
+## Folded into T-3558 (owner, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue", asked for the people, horse and carriage tickets to be pulled together into a few that are faster to finish. What is left of this ticket is carried, with credit for everything already merged, by **T-3558**. This file keeps its history; the work continues there.

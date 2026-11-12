@@ -162,3 +162,7 @@ Six-part upper attachment actual0752b0b1 failed affected pair86 after85 complete
 Photographic/interaction acceptance remains open; this evidence note changes no ticket state or claim.
 
 **Released 2026-10-21** (claim of continuing parallel period transport team 10/19/2026, 1:49:16 PM CT): Claims audit: reopen stale inactive work; reference and carriage work immediately reassigned individually for independent parallel completion
+
+## Closed as done (owner's consolidation, 2026-11-12)
+
+Kevin, thread "Consolidate ticket queue": close what is already done. On dev: wheels turn on the driven loops (`transport-loop.js`), Hans's brougham and the 1812 wagons run with their teams, the Glessner carriage has its waiting team with draft tack (`draft-hitch.js`, #1908), individual coats (#1911), its coachman (#1917) and pavement support (#1921). Whatever hitch motion the moving Glessner ride still needs belongs to **T-3557**.
