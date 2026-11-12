@@ -136,6 +136,7 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 # Completed portable-human foundations: T-1786 contract (PR #606), T-1787 export pipeline (PR #644), T-1788 browser actor (PR #669). Do not rebuild them.
 # T-1789 below is remaining modular wardrobe/assembly/photo kit; T-1790 missing portable talk/gesture/carry/work; T-1792 measured crowd scaling.
 T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
+T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
 T-1790 — Build the portable human animation library: idle, walk, talk, gesture and work clips on the shared Chicago rig
 T-2673 — Mark Beaubien's evidence sheet and Blender master: dated likeness evidence with attested likeness, period analogy and reconstruction kept apart, the figure assembled from the T-1789 library on the shared rig, inspected front, three-quarter and profile renders, and LODs exported through T-1787
 T-2674 — Mark Beaubien in the browser: the actor bound to the existing beaubien_mark person at his authored place, idling, walking when driven, greeting, selectable, and handing off to his card
