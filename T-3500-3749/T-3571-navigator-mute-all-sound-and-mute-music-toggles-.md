@@ -1,7 +1,7 @@
 ---
 id: T-3571
 title: Navigator mute all sound and mute music toggles; softer lit state on every appearance
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1958
 claimed_by: run 11/12/2026, 11:33:07 AM CT
 blocked_on: null
 needs_bake: false
