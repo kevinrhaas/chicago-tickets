@@ -1,7 +1,7 @@
 ---
 id: T-3551
 title: 1812 seasonal nature, dirt and snow hoofbeats, and visible work sounds
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-11
-closed: null
+closed: 2026-11-12
 pr: 1934
 claimed_by: run 11/11/2026, 2:19:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T16:49:41Z
 claimed_run: null
 claimed_at: 2026-11-11T20:19:08.295Z
 decision: null
