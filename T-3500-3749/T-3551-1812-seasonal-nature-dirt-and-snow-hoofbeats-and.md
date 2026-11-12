@@ -43,3 +43,7 @@ PR https://github.com/kevinrhaas/chicago/pull/1934 remains open DRAFT with `hold
 Code committed and pushed through `c5de44a61e8cd0c254e4d213f5ecd1046cbe4000` on `steward/1812-seasonal-audio`; application worktree clean. Local gate parts 1–3 pass; part 4 and two desktop close visual views remain. Current-head hosted gate, moving frames, portable humans and mobile stage 13 pass; desktop stage 13 was running at hold. Both phone close views accepted. No local work processes remain.
 
 [Full handover, exact resume sequence and evidence](https://github.com/kevinrhaas/chicago-evidence/blob/a4c875a851848ec3e2d035c687c9bc439ff05ec6/evidence/1812-audio-2026-11-11/HANDOVER-HELD.md). The same evidence commit includes a recovery archive (helpers, logs, receipts, chronology, 1904 read-only notes) and the approved phone images. No new R2 upload needed. Resume only after owner explicitly releases hold; finish required checks and visual review before DEV merge, then verify deployed DEV. Never promote MAIN as part of this ticket.
+
+## Owner resumed — 2026-11-12
+
+The owner explicitly released the hold and requested completion, periodic recovery commits, and green DEV merge. Earlier hold instructions are historical and superseded. PR1934 is draft while final local/visual validation runs. Hosted desktop13 passed; all 18 source-qualified renderer runs now pass. DEV advanced with PR1933 and PR1935; integrating those before final validation. No new feature scope.
