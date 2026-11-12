@@ -1,7 +1,7 @@
 ---
 id: T-2801
 title: Build period draft harnesses and vehicle hitch assemblies
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2798
 opened: 2026-10-18
-closed: null
+closed: 2026-11-09
 pr: 1908
 claimed_by: null
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-10T05:06:33Z
 claimed_run: null
 claimed_at: null
 decision: null
