@@ -175,6 +175,7 @@ T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
 T-2804 — Fit portable-human riders and drivers to horses and vehicles
 T-2805 — Mount, ride, steer and dismount a horse with accessible controls
+T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and trot, and mount, steer and dismount by keyboard and touch
 
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
 # Commented holds, never claimable. Unblock only when every dependency AND a capable executor are proven.
