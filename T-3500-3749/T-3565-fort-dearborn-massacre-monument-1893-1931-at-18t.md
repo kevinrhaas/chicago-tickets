@@ -1,7 +1,7 @@
 ---
 id: T-3565
 title: Fort Dearborn Massacre monument (1893-1931) at 18th Street and Calumet, beside the Pullman house, built to its photographs in 1904
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: run 11/12/2026, 11:20:24 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-12T17:22:50.704Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43264513499
 claimed_at: 2026-11-12T17:20:25.359Z
 decision: null
