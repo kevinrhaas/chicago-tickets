@@ -118,6 +118,7 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
+T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: the carded townspeople drawn at their homes and work, Mark Beaubien at the Sauganash among them, and the rest asked for at their doors
 
 # --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
 # ---    they can be worked by separate agents later").
