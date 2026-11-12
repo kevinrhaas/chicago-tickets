@@ -136,7 +136,6 @@ T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: t
 # Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
 # Completed portable-human foundations: T-1786 contract (PR #606), T-1787 export pipeline (PR #644), T-1788 browser actor (PR #669). Do not rebuild them.
 # T-1789 below is remaining modular wardrobe/assembly/photo kit; T-1790 missing portable talk/gesture/carry/work; T-1792 measured crowd scaling.
-T-1789 — Build the first modular 1835 human library in Blender on the shared portable rig
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
 T-3554 — Everyday motion for people: exported talk, gesture, carry and work clips on the shared rig, sweeping and leaning with their props, and contact shadows under feet and hat brims
 T-3555 — A living town at a phone's cost: far people as impostor cards, middle-distance people instanced, and horse-drawn traffic moving on distant streets, inside measured budgets
