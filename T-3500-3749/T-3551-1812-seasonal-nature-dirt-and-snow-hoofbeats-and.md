@@ -1,7 +1,7 @@
 ---
 id: T-3551
 title: 1812 seasonal nature, dirt and snow hoofbeats, and visible work sounds
-state: blocked-owner
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -12,7 +12,7 @@ opened: 2026-11-11
 closed: null
 pr: 1934
 claimed_by: run 11/11/2026, 2:19:06 PM CT
-blocked_on: Owner requested stop and HOLD on 2026-11-11 to preserve context; do not resume or merge PR #1934 until explicit owner release.
+blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
