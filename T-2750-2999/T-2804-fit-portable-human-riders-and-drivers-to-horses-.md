@@ -1,7 +1,7 @@
 ---
 id: T-2804
 title: Fit portable-human riders and drivers to horses and vehicles
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-2798
 opened: 2026-10-18
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3560 (owner's consolidation, 2026-11-12)
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-12T06:16:45.926Z
 claimed_run: null
 claimed_at: null
 decision: null

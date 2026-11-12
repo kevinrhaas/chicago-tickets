@@ -153,7 +153,6 @@ T-3557 — Ride the Glessner carriage: ask the coachman, board, ride a short rou
 # Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
 T-3559 — Finish the photographic horse: near anatomy and coat against cleared views, near, mid and far exports, and a grounded trot beside the delivered walk
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
-T-2804 — Fit portable-human riders and drivers to horses and vehicles
 T-2805 — Mount, ride, steer and dismount a horse with accessible controls
 T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and trot, and mount, steer and dismount by keyboard and touch
 
