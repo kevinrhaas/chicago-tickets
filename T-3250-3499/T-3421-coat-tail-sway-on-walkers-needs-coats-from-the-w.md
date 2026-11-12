@@ -1,7 +1,7 @@
 ---
 id: T-3421
 title: Coat-tail sway on walkers (needs coats from the wardrobe kit)
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3415
 opened: 2026-11-06
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3553 (owner's consolidation, 2026-11-12)
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T06:16:02.753Z
 claimed_run: null
 claimed_at: null
 decision: null
