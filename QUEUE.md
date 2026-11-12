@@ -139,7 +139,6 @@ T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: t
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
 T-3554 — Everyday motion for people: exported talk, gesture, carry and work clips on the shared rig, sweeping and leaning with their props, and contact shadows under feet and hat brims
 T-3555 — A living town at a phone's cost: far people as impostor cards, middle-distance people instanced, and horse-drawn traffic moving on distant streets, inside measured budgets
-T-2675 — Mark Beaubien inspected and measured in the real 1835 scene at desktop and mobile: close, conversation and street distances checked for contact, scale, shadows, foot slide and LOD popping, with shipped size, triangles, draw calls, texture memory and frame cost recorded and defects fixed
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
 # Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
