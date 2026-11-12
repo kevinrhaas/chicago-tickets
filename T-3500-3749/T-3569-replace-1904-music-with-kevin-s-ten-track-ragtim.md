@@ -1,7 +1,7 @@
 ---
 id: T-3569
 title: Replace 1904 music with Kevin's ten-track ragtime playlist on shuffle
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1954
 claimed_by: run 11/12/2026, 11:24:21 AM CT
 blocked_on: null
 needs_bake: false
