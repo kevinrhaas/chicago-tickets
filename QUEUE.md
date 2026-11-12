@@ -180,3 +180,4 @@ T-3564 — Glessner to Kevin's 2026-11-10 photos: coach-house doors and drive, P
 T-3566 — 1721 Prairie: the 1863 frame Dexter house standing behind Arthur Little's brick front, built to the 1891 plate and the Detroit print
 T-3569 — Replace 1904 music with Kevin's ten-track ragtime playlist on shuffle
 T-3570 — Meet the Glessner House: owner's edits to the opening text
+T-3571 — Navigator mute all sound and mute music toggles; softer lit state on every appearance
