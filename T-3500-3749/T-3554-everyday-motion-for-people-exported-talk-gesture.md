@@ -42,3 +42,14 @@ Kevin asked for the people, horse and carriage tickets to be consolidated into a
 - [ ] **Contact shadows and occlusion**: a soft contact shadow under feet, a shade under hat brims, and darkening where clothes overlap, cheap enough for phones.
 - [ ] CPU cost measured for one close person and a small group; which features drop at lower LODs written down.
 - [ ] Desktop and phone (390×780) shots or short clips in the real scenes, before and after. No person is dropped at lower settings to pay for it.
+
+## Owner, 2026-11-12: doors, stairs, walking paths, facing (thread "Make 1904 doors, stairs and walking paths work")
+
+Kevin, with a picture of the rear of 1626/1628 Prairie in 1904: *"there is a door here in 1904 that is not sensible, do a sweep of all of the front and rear doors and make sure they are openable and closeable for a person to enter and make sure that people can walk up the stairs instead of vanishing into the staircase, and make sure that when people walk they dont cut themselves and swipe though a sidewalk their dresses are wide and they walk their path sometimes cuts through a wall or barrier people should not be able to walk through walls or barriers"*; then, at 1700-1706 Prairie: *"people can come out of the house and have a conversation and not face each other"*. Folded here (no new tickets, per the 2026-11-12 consolidation).
+
+Found (2026-11-12): 56 of the 121 back doors of data/back_yards/1904.json stand 0.4-24 m off their house's built wall (1626 Prairie 16 m) because the tool's rear profile was the Sanborn trace, not the model; front doors are walked step-to-leaf in a straight line through the stoop; 25 draft fronts carry no door in their model.
+
+- [ ] Every back door on its model's wall, ray-checked by the tool's gate.
+- [ ] Every front and back door a person uses opens before them and shuts after, and they climb its treads.
+- [ ] Walking routes clear walls, fences and copings by a skirt's half-width.
+- [ ] People in a talk face each other.
