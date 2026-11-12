@@ -1,7 +1,7 @@
 ---
 id: T-3566
 title: 1721 Prairie: the 1863 frame Dexter house standing behind Arthur Little's brick front, built to the 1891 plate and the Detroit print
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-12
 pr: 1962
 claimed_by: run 11/12/2026, 11:16:53 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-12T20:43:43Z
 claimed_run: null
 claimed_at: 2026-11-12T17:16:55.188Z
 decision: null
