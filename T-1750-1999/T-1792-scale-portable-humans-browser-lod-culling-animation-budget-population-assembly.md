@@ -1,7 +1,7 @@
 ---
 id: T-1792
 title: Scale portable humans beyond the first NPC: browser LOD, culling, animation budgets and population assembly
-state: open
+state: withdrawn
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-09-30
-closed: null
+closed: 2026-11-12
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: folded into T-3555 (owner's consolidation, 2026-11-12)
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-12T06:16:12.182Z
 claimed_run: null
 claimed_at: null
 decision: null
