@@ -152,7 +152,6 @@ T-3557 — Ride the Glessner carriage: ask the coachman, board, ride a short rou
 # --- 8E. PERIOD HORSES AND GEAR — photographic animals, tack, riders, then mounting/riding (epic T-2798)
 # Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
 T-3559 — Finish the photographic horse: near anatomy and coat against cleared views, near, mid and far exports, and a grounded trot beside the delivered walk
-T-2803 — Rig the horse and author grounded idle, walk and trot clips
 T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-2802 — Build period riding saddles, bridles and horse gear
 T-2804 — Fit portable-human riders and drivers to horses and vehicles
