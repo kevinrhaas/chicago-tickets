@@ -18,7 +18,7 @@
 #   worked by separate agents later"; "Pullman should def be finished next"): performance and GPU (band 1), loop operations
 #   (band 9), Prairie Avenue 1904 in progress: Pullman, 1801, Glessner and the owner's photo reworks (band 2), the balance of
 #   Prairie Avenue 1904, nearest Glessner first (band 7), the Navigator (band 3), then one band per area, each workable by its
-#   own agent: 1835 (band 4), 1812 (band 5), portable humans (8C), carriages (8D), horses (8E). The Unreal holds and the
+#   own agent: 1835 (band 4), 1812 (band 5), portable humans (8C), carriages (8D), horses (8E); 8C-8E consolidated 2026-11-12. The Unreal holds and the
 #   playtests are commented out, by hand only. A bare `ticket.mjs new` or `unblock` lands at the foot of this file, under 8b,
 #   where no lane reaches it: pass --after, or move the line into its area's band at once.
 
@@ -118,42 +118,37 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # Owner, 2026-10-20: sound off by default; the gaze tag to the right nav under the address, smaller, fading by default (T-2941, T-2942, one PR).
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
-T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: the carded townspeople drawn at their homes and work, Mark Beaubien at the Sauganash among them, and the rest asked for at their doors
 
 # --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
 # ---    they can be worked by separate agents later").
 # The picture-match redos parked at 8b's foot since 2026-10-22 come up here, with the seating remainder and the brick ticket, so
 # nothing workable is left under the blocked band (owner, 2026-11-05: "make sure we are not leaving things at the bottom").
 # T-3341 covers 1812's brick too; it is here because the 1835 brick library is its source.
+# Owner, 2026-11-12, thread "Consolidate ticket queue": Mark Beaubien is one of all the 1835 people given days, as 1812 and 1904 were, not his own tickets (T-2673..T-2675 folded in).
+T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: the carded townspeople drawn at their homes and work, Mark Beaubien at the Sauganash among them, and the rest asked for at their doors
 
 # --- 5. 1812 — the 1812 scene's open work, one band for its own agent (owner, 2026-11-05).
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
 # Owner, 2026-11-07, thread "Research and place 1812 people": "maybe you should do a multi agent research sweep to identify and place and fill in any possible people, and do reconstructions for the balance in 1812 since we dont have many". T-3461 cards first; T-3462..T-3467 place each group.
 
 # --- 8C. PORTABLE HUMANS — Blender is canonical; browser/three.js first, Unreal is a later consumer
-# Owner, 2026-10-08: "move the portable people tickets after the south through time tickets" — moved here, below the whole Prairie Avenue 1904 programme (draft pass, refinements, block checks, Glessner repair).
-# Owner, 2026-10-03: had moved it to sit directly above the Prairie Avenue 1904 architectural programme.
-# Owner, 2026-09-30: build the human library and browser rendering path before loop optimization; Mark Beaubien is the first end-to-end historical example.
-# Completed portable-human foundations: T-1786 contract (PR #606), T-1787 export pipeline (PR #644), T-1788 browser actor (PR #669). Do not rebuild them.
-# T-1789 below is remaining modular wardrobe/assembly/photo kit; T-1790 missing portable talk/gesture/carry/work; T-1792 measured crowd scaling.
+# Owner, 2026-11-12, thread "Consolidate ticket queue": "a lot has been done and there probably are only a few items left ... consolidated
+# into a limited number of tickets that will be faster to complete". 8C, 8D and 8E were pulled into the eight tickets below
+# (T-3553..T-3560); each lists what dev already has, to reuse, and a short acceptance. Add findings to them; don't file per-person tickets.
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
 T-3554 — Everyday motion for people: exported talk, gesture, carry and work clips on the shared rig, sweeping and leaning with their props, and contact shadows under feet and hat brims
 T-3555 — A living town at a phone's cost: far people as impostor cards, middle-distance people instanced, and horse-drawn traffic moving on distant streets, inside measured budgets
 
-# --- 8D. PERIOD CARRIAGES AND WAGONS — photographic models, then motion, then boarding/riding (epic T-2791)
-# Owner, 2026-10-18: "build tickets for these, place them in the queue in bands below the portable humans";
-# first review existing assets and dated photographic evidence, then models, moving distant traffic and interaction.
-# T-2792 and T-2799 completed through PR #1174; retain each remaining model's rights, date and needs_bake gates.
-T-3558 — Finish the photographic wagons and Brougham: the farm-box master qualified, the covered wagons upgraded but kept distinct, and the Brougham matched to its 1893 plate and qualified in town
-# Owner 2026-10-21: upgrade covered wagons as ready; preserve their existing visual variety so they do not become clones (follow-up recorded in T-2793).
-T-2795 — Animate vehicle running gear and matched draft-horse hitches
+# --- 8D. PERIOD CARRIAGES AND WAGONS — the Glessner carriage ride first (owner, 2026-11-09), then the photographic vehicles (epic T-2791)
+# T-2795 and T-2801 are done (the waiting Glessner team, #1908) and leave the queue when settle reads the merge.
 T-3557 — Ride the Glessner carriage: ask the coachman, board, ride a short round with Mr. Glessner aboard, stop and get down, by keyboard and touch
+T-3558 — Finish the photographic wagons and Brougham: the farm-box master qualified, the covered wagons upgraded but kept distinct, and the Brougham matched to its 1893 plate and qualified in town
+T-2795 — Animate vehicle running gear and matched draft-horse hitches
 
-# --- 8E. PERIOD HORSES AND GEAR — photographic animals, tack, riders, then mounting/riding (epic T-2798)
-# Horse master and gear supply both wagon/carriage teams and mounted riders; reuse portable-human rig/wardrobe.
+# --- 8E. PERIOD HORSES AND GEAR — the photographic horse and its trot, then riding (epic T-2798)
 T-3559 — Finish the photographic horse: near anatomy and coat against cleared views, near, mid and far exports, and a grounded trot beside the delivered walk
-T-2801 — Build period draft harnesses and vehicle hitch assemblies
 T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and trot, and mount, steer and dismount by keyboard and touch
+T-2801 — Build period draft harnesses and vehicle hitch assemblies
 
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
 # Commented holds, never claimable. Unblock only when every dependency AND a capable executor are proven.
