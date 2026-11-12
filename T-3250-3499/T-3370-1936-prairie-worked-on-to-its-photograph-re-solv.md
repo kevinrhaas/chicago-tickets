@@ -1,7 +1,7 @@
 ---
 id: T-3370
 title: 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3367
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: run 11/12/2026, 12:39:40 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43168083641
-claimed_at: 2026-11-12T06:39:40.214Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -49,3 +49,5 @@ T-3367 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-06** (claim of run 11/6/2026, 9:05:28 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42331119798): PR #1811 (merged) builds the dining range's south windows as the photograph draws them: a single, a single and a pair (K06 paired sash) to each storey, at the photograph's fractions of the face; that match item is fixed. Newly open in the match record: the face's length (the re-solved camera reads it about 10.4 m where the 1911 sheet gives 9.03, so the east return renders about 40 px west of the print's). Still open: the right stack's two-staged head, the deck west of the right stack, the south face's full-height pair, the belvedere pilasters, the window hoods.
 
 **Released 2026-11-08** (claim of run 11/8/2026, 2:14:52 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42461631661): PR #1873 (resume: gate green on head, content build re-dispatched on it as run 42469167608) builds 1936 Prairie's right stack with its photograph's stage on a lowered head (K15 chimneys.stacks[].stage; moved to u 12.3, the committed camera's reading) and stops the deck's rail behind it (K01 hip_deck.rail.from_u_m 8.3); both match items fixed. Do not rebuild them. Newly open: the deck's south-east corner about 1 m east of the print's (a hip deck cannot move one edge of its level cut yet). Still open: the south face's full-height pair, the dining range face's length, the belvedere's pilasters, the window dressings. The image gate stays on T-3367.
+
+**Released 2026-11-12** (claim of run 11/12/2026, 12:39:40 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43168083641): PR #1937 (merged) carries 1936 Prairie's reception bay up through the attic to the main cornice, flat-topped under the dining range's bracketed eaves, with two lights in its front to each principal storey, as the photograph draws the south face; that match item is fixed. Do not rebuild it. The dining range's face-length gap (sheet 9.03 m against the camera's 10.4 m; the bay's lights sit at the same ~45 px offset) is now within tolerance (T-3153). Still open in the match record: the belvedere's pilasters, the window dressings (hoods, round-headed chamber lights), and the deck's south-east corner (about 1 m; K01 hip_deck cannot move one edge yet). The image gate stays on T-3367.
