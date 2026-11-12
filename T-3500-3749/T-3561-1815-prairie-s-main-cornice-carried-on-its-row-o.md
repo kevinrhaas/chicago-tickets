@@ -1,7 +1,7 @@
 ---
 id: T-3561
 title: 1815 Prairie's main cornice carried on its row of stone consoles over a frieze, round the front and onto the south flank, and the south flank's tall panelled stack carried up past the mansard, both off the two Chicagology views
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1893
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1944
 claimed_by: run 11/12/2026, 3:04:55 AM CT
 blocked_on: null
 needs_bake: false
