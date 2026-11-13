@@ -1,7 +1,7 @@
 ---
 id: T-1890
 title: Finish 1801 Kimball corner mansion architecture
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/13/2026, 6:00:27 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43420221330
-claimed_at: 2026-11-13T12:00:27.740Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -180,3 +180,5 @@ match record's open differences name both):
 **Released 2026-11-06** (claim of run 11/6/2026, 4:59:15 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/42306682032): PR #1791 merged (5fb3b3f, after two dev-merge laps; local check.sh 1-4/4 green, smoke mobile 3, desktop 1, mobile 15 green, CI gate 8/8 green) frames the third storey's one light in a lugged architrave with a projecting sill (HABS 2 'the third storey's light's frame' fixed; that record now matches). Still open: the Taylor curb-and-deck line and HABS 1's front roof over the curb, one item seen from two cameras. A sign-off is never split, so the rest goes back to the queue.
 
 **Released 2026-11-12** (claim of run 11/12/2026, 7:07:07 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43223104458): This piece (the south return and its light) is up in PR #1939, gated green locally, handed on as resume while CI's gate finishes. HABS 1's remaining open item is the flashed fold where the return-setback cut meets the front slope, for the next piece
+
+**Released 2026-11-13** (claim of run 11/13/2026, 6:00:27 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43420221330): PR #1991 ships the south return's leaning slate face (the HABS 1 fold item fixed); the image gate still has one open difference on habs_1965_01_southwest (the face's left edge under the white coping), written into its match record, so the house is not signed off
