@@ -1,7 +1,7 @@
 ---
 id: T-3581
 title: Split the dev preview onto its own Pages site (dev.chicago.polecat.live) and raise the 4D site budget from 445 to the prod-only ceiling
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-13
 closed: null
-pr: null
+pr: 2000
 claimed_by: run 11/13/2026, 10:49:03 AM CT
 blocked_on: null
 needs_bake: false
