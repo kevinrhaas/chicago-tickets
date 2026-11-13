@@ -1,7 +1,7 @@
 ---
 id: T-3568
 title: Fort Dearborn Massacre monument worked to its pictures: cameras on ICHi-19208, Taylor 1893 and Detroit 4a08066, side-by-sides to matches, and the Pullman house's 4a08066 and 4a08065 records showing it
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-3565
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/13/2026, 4:39:54 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43406654430
+claimed_at: 2026-11-13T10:39:55.695Z
 decision: null
 decision_answer: null
 ---
