@@ -138,7 +138,6 @@ T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: t
 # into a limited number of tickets that will be faster to complete". 8C, 8D and 8E were pulled into the eight tickets below
 # (T-3553..T-3560); each lists what dev already has, to reuse, and a short acceptance. Add findings to them; don't file per-person tickets.
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
-T-3554 — Everyday motion for people: exported talk, gesture, carry and work clips on the shared rig, sweeping and leaning with their props, and contact shadows under feet and hat brims
 T-3555 — A living town at a phone's cost: far people as impostor cards, middle-distance people instanced, and horse-drawn traffic moving on distant streets, inside measured budgets
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — the Glessner carriage ride first (owner, 2026-11-09), then the photographic vehicles (epic T-2791)
