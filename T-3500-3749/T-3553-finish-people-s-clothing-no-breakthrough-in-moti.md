@@ -46,3 +46,7 @@ Kevin, thread "Consolidate ticket queue": "the people human tickets, horses and 
 - [ ] Desktop 1280×800 and phone 390×780 shots before and after, in the real scenes, in the ticket's evidence folder. Phone memory stays inside the T-3537 / T-3542 ceilings; no person, horse or carriage is dropped to fit.
 
 Keep each person's identity, colours, style, provenance and adopted clips. Ship in as many PRs as it takes, each one a visible improvement; the ticket closes when the list above is ticked.
+
+## Progress
+
+- 2026-11-13 — **Breakthrough in motion, hanging cloth** (PR #1979). Kevin, following a coated man on 18th St in 1904 on his phone: "no one should have their legs break through their clothing like that". Every hanging garment (coat skirts, the coachman's livery, tails, 1812 capotes, shirt tails, blankets, breechcloths, girls' frocks, petticoats, aprons) now hangs from the waist over the legs (human-skirt.js `garmentKind`, COAT style for coats); tested on all 35 assets at every LOD, standing, posed and walking. Coat tails now sway with the walk. Left: the Potawatomi man's breechcloth flap corner (3.1 cm over a leg at the end of a stride, was 11.2) and his legging selvage through his shirt tail standing (asset as drawn); soldiers' stripes and trim on bending sleeves are not yet checked.
