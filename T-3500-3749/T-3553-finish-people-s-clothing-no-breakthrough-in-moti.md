@@ -1,7 +1,7 @@
 ---
 id: T-3553
 title: Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 2014
 claimed_by: run 11/13/2026, 3:10:40 PM CT
 blocked_on: null
 needs_bake: true
