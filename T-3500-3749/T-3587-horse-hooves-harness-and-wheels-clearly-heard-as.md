@@ -1,7 +1,7 @@
 ---
 id: T-3587
 title: Horse hooves, harness and wheels clearly heard as a team passes, in all years and seasons, balanced against birds and wind
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-13
 closed: null
-pr: null
+pr: 2016
 claimed_by: run 11/13/2026, 3:14:51 PM CT
 blocked_on: null
 needs_bake: false
