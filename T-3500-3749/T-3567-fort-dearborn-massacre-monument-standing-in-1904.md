@@ -1,7 +1,7 @@
 ---
 id: T-3567
 title: Fort Dearborn Massacre monument standing in 1904 on 18th Street by Calumet: granite pedestal and bronze group from its photographs, with its card
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3565
 opened: 2026-11-12
-closed: null
+closed: 2026-11-13
 pr: 1960
 claimed_by: run 11/12/2026, 11:22:55 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-13T10:10:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43264513499
 claimed_at: 2026-11-12T17:22:55.985Z
 decision: null

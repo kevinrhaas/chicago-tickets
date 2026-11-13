@@ -45,7 +45,6 @@
 # Owner, 2026-10-28, thread "Rework Pullman estate photo match": 1729 Prairie "is still way off from a photographic match ... you need to reenter the photographic match". Reopened in place (they had closed through split pieces without their image gate, T-3235); worked interactively, one PR each.
 # Owner, 2026-11-05: "1801 prairie should also reenter photo matching the facade on prairie is still way off". Reopened in place (its ## Reopened section).
 T-1890 — Finish 1801 Kimball corner mansion architecture
-T-3567 — Fort Dearborn Massacre monument standing in 1904 on 18th Street by Calumet: granite pedestal and bronze group from its photographs, with its card
 T-3568 — Fort Dearborn Massacre monument worked to its pictures: cameras on ICHi-19208, Taylor 1893 and Detroit 4a08066, side-by-sides to matches, and the Pullman house's 4a08066 and 4a08065 records showing it
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
