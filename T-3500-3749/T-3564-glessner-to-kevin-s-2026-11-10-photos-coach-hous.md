@@ -1,7 +1,7 @@
 ---
 id: T-3564
 title: Glessner to Kevin's 2026-11-10 photos: coach-house doors and drive, Prairie arch roll, alley dormer, court wall, 35 plaque and green sash, varied granite
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-13
 pr: 1964
 claimed_by: run 11/12/2026, 11:10:44 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-13T08:35:04Z
 claimed_run: null
 claimed_at: 2026-11-12T17:10:45.197Z
 decision: null
