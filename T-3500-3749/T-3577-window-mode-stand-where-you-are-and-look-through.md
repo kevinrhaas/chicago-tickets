@@ -1,7 +1,7 @@
 ---
 id: T-3577
 title: Window mode: stand where you are and look through a phone or iPad into the year (GPS + motion sensors)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1980
 claimed_by: run 11/12/2026, 9:08:58 PM CT
 blocked_on: null
 needs_bake: false
