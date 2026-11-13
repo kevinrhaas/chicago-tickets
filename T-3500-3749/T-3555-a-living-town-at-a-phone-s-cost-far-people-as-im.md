@@ -43,3 +43,8 @@ Standing rule (Kevin, 2026-11-10): every device keeps the living town. People, h
 - [ ] **Distant traffic**: a capped number of horse-drawn vehicles moving on roads (not sidewalks) beyond the near loops, in each year that has roads for them, using the same tiers and stopping for crossings and obstructions.
 - [ ] Measured on Full, Balanced and Light, desktop and phone: frame time, draw calls, triangles, animation CPU, memory, shipped bytes. The budgets written down for the next population work.
 - [ ] Before and after from the same street stand on desktop and phone, with more people and traffic visible than before at the same or lower cost.
+
+
+## Finding 2026-11-13: two more 1904 carriages that give way at crossings (PR #2021)
+
+Kevin (2026-11-13) asked for two more 1904 carriages on different loops round Prairie Avenue, at least one counter-clockwise, crossing paths with one waiting for the other. PR #2021 adds the Pullman brougham (Henry Windish, 16th-18th) and the Armour brougham (Joseph Daniels, 20th-22nd) beside Hans's, all counter-clockwise (right-hand lanes leave only left turns at the brougham's 16.4 m minimum radius). `renderers/web/js/transport-crossings.js` finds the footprint conflict zones between circuits and lets the first team claim a crossing while the other waits at its edge (no hold-and-wait, so no deadlock). The 1904 phone reads 436.1 MB against its 450 MB ceiling at spawn. Loaded town transport still loads all of a scene's rows once the visitor nears any circuit; distant-street impostors remain this ticket's open work. Liberty L-1904-more-carriages-3555.

@@ -40,3 +40,8 @@ Kevin asked for the people, horse and carriage tickets to be consolidated into a
 - [ ] **Covered wagons**: a few older covered wagons replaced by better ones, each keeping its own finish, canvas ageing, seed and place, so no two look like clones.
 - [ ] **Brougham**: body, wheels, steps, doors, seats and glass matched to the 1893 Studebaker plate at matched cameras, with a discrepancy register; then exported near/mid/far and loaded in the real 1904 scene with its seats, doors and anchors intact for the ride (T-3557).
 - [ ] Before and after shots, desktop and phone, for each; triangles, draws, memory and bytes inside the phone ceilings.
+
+
+## Finding 2026-11-13: each 1904 coach, team and coachman distinct (PR #2021)
+
+Kevin (2026-11-13): "make the carriages look different ... horses will vary and the coachmen will vary ... different colors and/or some random mar marks ... typically black". PR #2021 adds `renderers/web/js/coachwork.js`: a row's `vehicle_finish` (panels, timber, gear, trim colours; gloss, dust, scuffs; a seed) gives each brougham its own paint, road dust, splash, wheel-rim mud and scuffs on one shared shader program, no textures. `driver_livery_colours` gives each coachman his own coat/trousers/buttons/gloves; `driver_export_person_id` lets the new coachmen reuse Hans's seated export with their own faces. New teams: dark bay (Pullman) and chestnut (Armour). Still open here: photographic coach textures and a second coach model (all three are the same brougham shape).
