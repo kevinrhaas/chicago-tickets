@@ -1,7 +1,7 @@
 ---
 id: T-3582
 title: Fort Dearborn monument's five figures re-posed to ICHi-19208 and Taylor 1893 (the warrior's lunge, Mrs. Helm leaning back with her arm across, Black Partridge's raised open hand, feather and slanted musket, the surgeon fallen under them, the child kneeling with both arms out) and the rock broken under their feet
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3568
 opened: 2026-11-13
 closed: null
-pr: null
+pr: 2005
 claimed_by: run 11/13/2026, 11:25:01 AM CT
 blocked_on: null
 needs_bake: false
