@@ -1,7 +1,7 @@
 ---
 id: T-3584
 title: Reorganize the jaunts menu into Places, People, Architecture, Stories, Errands, Work and Build log, the Glessner household tour first with card pictures, and Charles Nelson's 1904 stop corrected (coachman 1878-1902)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-13
-closed: null
+closed: 2026-11-13
 pr: 2004
 claimed_by: run 11/13/2026, 11:26:38 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-13T20:23:25Z
 claimed_run: null
 claimed_at: 2026-11-13T17:26:39.267Z
 decision: null
