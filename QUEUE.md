@@ -174,5 +174,4 @@ T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and tr
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3579 — dev's CI gate red since 4ecfac167: smoke 14 PLACED_1904 lacks dexter_house_1721_prairie_frame_house (T-3566), bake gate 7/8 doors_1835 stale after the CI bake, smoke 15 narration index.json blocked by R2 CORS, mobile 6-7/13 red
-T-3580 — Sign-in: Microsoft and email/password beside Google, email-only kept
 T-3581 — Split the dev preview onto its own Pages site (dev.chicago.polecat.live) and raise the 4D site budget from 445 to the prod-only ceiling

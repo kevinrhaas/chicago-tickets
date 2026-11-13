@@ -1,7 +1,7 @@
 ---
 id: T-3580
 title: Sign-in: Microsoft and email/password beside Google, email-only kept
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-13
-closed: null
+closed: 2026-11-13
 pr: 1999
 claimed_by: run 11/13/2026, 10:09:05 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-13T17:17:43Z
 claimed_run: null
 claimed_at: 2026-11-13T16:09:07.064Z
 decision: null
