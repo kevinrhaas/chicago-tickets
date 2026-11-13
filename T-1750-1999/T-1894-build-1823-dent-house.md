@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/13/2026, 5:00:24 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43406665733
-claimed_at: 2026-11-13T11:00:25.177Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -82,3 +82,5 @@ This ticket closed without passing its image gate: `ticket.mjs split` closed it 
 
 
 It is reopened in place, not refiled. Read every picture itself, solve a camera for each one not yet solved, and work every view to `matches` under the T-3153 bar: an element missing or the wrong shape, a wrong count, a wrong material or colour, or a gap over about 0.3 m is `open`, never `within tolerance`. If it must be split again, its gate stays on it and the last piece closes it.
+
+**Released 2026-11-13** (claim of run 11/13/2026, 5:00:24 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43406665733): PR #1987 builds two of the six open picture differences (the stack over the rear range, the principal storey's narrow light beside the door; K01 now carries stacks on a flat wing and a principal-storey front_bays_by_storey). Still open in both match records, each needing a new K01 capability: the triple group's broad pedimented dormer over the curb, the grilled arched doorway under the landing, the box bay's corbelled foot, and the pavilion attic's slated cheeks. The image gate keeps the ticket open until those match.
