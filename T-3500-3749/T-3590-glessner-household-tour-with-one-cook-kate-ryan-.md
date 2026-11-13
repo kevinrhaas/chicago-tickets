@@ -1,7 +1,7 @@
 ---
 id: T-3590
 title: Glessner Household tour with one cook (Kate Ryan out, per Bill Tyre), a grades 3-5 version, and a grade band on every jaunt
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-13
 closed: null
-pr: null
+pr: 2022
 claimed_by: run 11/13/2026, 4:09:14 PM CT
 blocked_on: null
 needs_bake: false
