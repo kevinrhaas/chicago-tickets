@@ -178,3 +178,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3564 — Glessner to Kevin's 2026-11-10 photos: coach-house doors and drive, Prairie arch roll, alley dormer, court wall, 35 plaque and green sash, varied granite
 T-3573 — Find and Follow reach people at home: they step out for a walk round the block
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
+T-3575 — Add a VR headset mode: Enter VR, head-tracked look, thumbstick walk and snap turn (WebXR)
