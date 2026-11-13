@@ -69,7 +69,7 @@ T-3370 — 1936 Prairie worked on to its photograph: re-solve the Chicagology ca
 T-1886 — Refine 1816 Henderson mansard house
 T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-T-1872 — Refine 1708 and 1712 townhouse fronts
+T-2365 — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own age once T-1872 stands it on K01, shown beside 1808 under the same light, front and oblique at both viewports, with costs
 T-1894 — Refine 1823 Dent house
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
@@ -170,8 +170,6 @@ T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and tr
 # refuses a blocked ticket that is missing from this band (T-1518, T-1541).
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
-# BLOCKED-TECH T-2365 (opened 2026-10-11, SOUTH_TIME) — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own …
-#     waits: T-1872
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3579 — dev's CI gate red since 4ecfac167: smoke 14 PLACED_1904 lacks dexter_house_1721_prairie_frame_house (T-3566), bake gate 7/8 doors_1835 stale after the CI bake, smoke 15 narration index.json blocked by R2 CORS, mobile 6-7/13 red
