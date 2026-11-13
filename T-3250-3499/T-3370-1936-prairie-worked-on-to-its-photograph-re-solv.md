@@ -1,7 +1,7 @@
 ---
 id: T-3370
 title: 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3367
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: run 11/13/2026, 6:57:16 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43425262757
-claimed_at: 2026-11-13T12:57:16.483Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -59,3 +59,5 @@ T-3367 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-12** (claim of run 11/12/2026, 10:31:13 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43256375486): PR #1956 (resume: gate green on head, then a conflict in assets/manifest.json when dev moved; merge dev, rebake, re-gate and merge it: do not rebuild it) builds 1936 Prairie's tower on its whole square from the main cornice up (K08 stage.whole: the belvedere clear of the front wall's plane, walled, lit and corniced on all four sides); the render's belvedere spans x 1535-1754 against the print's 1530-1744 and shows its lit south face, so that match item is fixed. Still open in the match record: the belvedere's pilasters and the dining range's pair hoods. The image gate stays on T-3367.
 
 **Released 2026-11-12** (claim of run 11/12/2026, 7:19:34 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43342173577): PR #1978 (resume: CI gate queued after two merge laps, nothing red; local check.sh 4/4 and smoke desktop 1, desktop 3, mobile 3 green — merge it, do not rebuild it) builds 1936 Prairie's belvedere corner pilasters (K08 pilasters.storeys, on the whole stage's four corners, belvedere storey only) and its arched frames' colonnettes (K08 architrave.columns); that match item is fixed. Still open in the match record: the dining range's pair hoods (scrolled pediments about 1.1-1.2 m over the lights in the print). The image gate stays on T-3367.
+
+**Released 2026-11-13** (claim of run 11/13/2026, 6:57:16 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43425262757): PR kevinrhaas/chicago#1992 (resume: gate still running, nothing red) finishes salvage's draft #1983: K08 scrolled pediments over the dining range's two pairs, 1.15 m over their heads as the Chicagology photograph draws them; attic frieze lights up 0.4 m; the 51 K01 houses' input hashes re-recorded (meshes byte-identical). Merge it, do not rebuild it. done stays refused by the image gate. Still open in the match record: the street front's window dressings (carved hoods with scrolled and pedimented crests), plus the items earlier passes left open.
