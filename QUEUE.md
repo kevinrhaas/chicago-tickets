@@ -172,6 +172,7 @@ T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and tr
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
-T-3579 — dev's CI gate red since 4ecfac167: smoke 14 PLACED_1904 lacks dexter_house_1721_prairie_frame_house (T-3566), bake gate 7/8 doors_1835 stale after the CI bake, smoke 15 narration index.json blocked by R2 CORS, mobile 6-7/13 red
+T-3591 — dev's smoke 14 and 15 reds: PLACED_1904 lists dexter_house_1721_prairie_frame_house (T-3566), and the published smoke stands in the hosted narration index the bucket refuses at localhost
+T-3592 — dev's remaining content-build reds after the smoke 14/15 fix: bake gate 7/8 doors_1835 stale after the CI bake (derive_doors_scene.py), mobile 6-7's compass-and-map instrument, mobile 13's Auto/Sound, Researcher and HUD-coverage checks; desktop 14's Go-to key check re-read on a fresh build
 T-3587 — Horse hooves, harness and wheels clearly heard as a team passes, in all years and seasons, balanced against birds and wind
 T-3590 — Glessner Household tour with one cook (Kate Ryan out, per Bill Tyre), a grades 3-5 version, and a grade band on every jaunt
