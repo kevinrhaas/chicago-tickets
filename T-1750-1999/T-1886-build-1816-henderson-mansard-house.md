@@ -1,7 +1,7 @@
 ---
 id: T-1886
 title: Refine 1816 Henderson mansard house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/13/2026, 2:47:17 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43502712020
-claimed_at: 2026-11-13T20:47:19.386Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -94,3 +94,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-13** (claim of run 11/13/2026, 6:53:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43427290873): PR #1995 (resume, waiting only on CI runners; locally gated green) builds 1816 Prairie's balcony: the guard at 0.95 m and the light over the door made a French door onto the deck (K01 hood.door_over, new). Still open in the match record: the flank crown's dormer in its SE canted face (a K08 kit change) and the 1874 Land Owner engraving's camera. Not split: the gate stays on this ticket.
 
 **Released 2026-11-13** (claim of run 11/13/2026, 12:21:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43480492451): PR #2009 (resume, waiting only on CI runners; locally gated green) sets 1816 Prairie's Chicagology camera on the print's horizon (principal y 885, eye 2.0 m; the render had sat 50-60 px high) and re-reads the match record through it: the SE-canted-face crown dormer was a misreading (that face is plain; the dormer beside it is the main mansard's south dormer). Still open in the match record: the main south dormer ~0.3-0.5 m west in the print, the south flank bay's lights lower/shorter in the print with a ~1.0 m light in its frontal face (re-read the bay's plan with them, then bake), and the 1874 Land Owner engraving's camera. Not split: the gate stays on this ticket.
+
+**Released 2026-11-13** (claim of run 11/13/2026, 2:47:17 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43502712020): PR #2019 (resume: CI gate green, conflicts with dev after it moved) reshapes 1816 Prairie's flank bay to the photograph (wide south-east cant, narrow front), sets its lights lower and shorter, lowers its crown to 3.25 m and sets all five dormers on their cornices, the south one 0.8 m west. Still open in the match record: the flank crown's moulded curb (~0.7 m, a K08 kit change), the south flank window drawn on the upper storey only (the build lights both), and the 1874 Land Owner engraving's camera. Not split: the gate stays on this ticket.
