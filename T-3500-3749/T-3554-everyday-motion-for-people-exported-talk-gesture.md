@@ -1,7 +1,7 @@
 ---
 id: T-3554
 title: Everyday motion for people: exported talk, gesture, carry and work clips on the shared rig, sweeping and leaning with their props, and contact shadows under feet and hat brims
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1975
 claimed_by: run 11/12/2026, 11:41:34 AM CT
 blocked_on: null
 needs_bake: true
