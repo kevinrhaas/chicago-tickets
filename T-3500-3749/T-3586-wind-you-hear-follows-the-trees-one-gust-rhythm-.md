@@ -1,7 +1,7 @@
 ---
 id: T-3586
 title: Wind you hear follows the trees: one gust rhythm sways trees, vines and grass and swells the leaf rustle, all years
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/13/2026, 2:26:32 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-13T20:26:33.830Z
 decision: null
 decision_answer: null
 ---
