@@ -1,7 +1,7 @@
 ---
 id: T-3576
 title: Sign-in before entering a year (Google or email), visitor list and usage
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-13
 pr: 1981
 claimed_by: run 11/12/2026, 9:00:00 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-13T06:00:05Z
 claimed_run: null
 claimed_at: 2026-11-13T03:00:01.461Z
 decision: null
