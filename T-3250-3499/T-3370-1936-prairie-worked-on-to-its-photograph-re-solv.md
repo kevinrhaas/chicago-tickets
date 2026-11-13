@@ -1,7 +1,7 @@
 ---
 id: T-3370
 title: 1936 Prairie worked on to its photograph: re-solve the Chicagology camera with more points (the 1886 Andreas engraving and the 1874 Land Owner vignette as cross-checks), settle where the photograph's south-east corner stands on the plan and the front's composition between the photograph and the 1911 sheet, and set the verandah's place along the front, the stacks' places and the deck's height against the photograph
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3367
 opened: 2026-11-04
 closed: null
 pr: null
-claimed_by: run 11/13/2026, 10:59:18 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43465795504
-claimed_at: 2026-11-13T16:59:18.395Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -61,3 +61,5 @@ T-3367 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-12** (claim of run 11/12/2026, 7:19:34 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43342173577): PR #1978 (resume: CI gate queued after two merge laps, nothing red; local check.sh 4/4 and smoke desktop 1, desktop 3, mobile 3 green — merge it, do not rebuild it) builds 1936 Prairie's belvedere corner pilasters (K08 pilasters.storeys, on the whole stage's four corners, belvedere storey only) and its arched frames' colonnettes (K08 architrave.columns); that match item is fixed. Still open in the match record: the dining range's pair hoods (scrolled pediments about 1.1-1.2 m over the lights in the print). The image gate stays on T-3367.
 
 **Released 2026-11-13** (claim of run 11/13/2026, 6:57:16 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43425262757): PR kevinrhaas/chicago#1992 (resume: gate still running, nothing red) finishes salvage's draft #1983: K08 scrolled pediments over the dining range's two pairs, 1.15 m over their heads as the Chicagology photograph draws them; attic frieze lights up 0.4 m; the 51 K01 houses' input hashes re-recorded (meshes byte-identical). Merge it, do not rebuild it. done stays refused by the image gate. Still open in the match record: the street front's window dressings (carved hoods with scrolled and pedimented crests), plus the items earlier passes left open.
+
+**Released 2026-11-13** (claim of run 11/13/2026, 10:59:18 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43465795504): PR kevinrhaas/chicago#2007 dresses 1936 Prairie's street-front chamber lights under K09 carved crests on their cornice hoods (hood + crest about 1.0 m over the heads, as the print) and the tower's pair over the porch in moulded brownstone surrounds with crests; the street front's window-dressings item is fixed. Merge it, do not rebuild it. done stays refused by the image gate. Still open in the match record: the tower pair's hoods and crests rise about 1.2 m over the lights' heads in the print against the build's 0.6 m, because K08 stops a light's crest under the storey band (letting a crest cross the band, as the scrolled pediment may, is a K08 kit change).
