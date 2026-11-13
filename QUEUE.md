@@ -173,4 +173,3 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3579 — dev's CI gate red since 4ecfac167: smoke 14 PLACED_1904 lacks dexter_house_1721_prairie_frame_house (T-3566), bake gate 7/8 doors_1835 stale after the CI bake, smoke 15 narration index.json blocked by R2 CORS, mobile 6-7/13 red
 T-3584 — Reorganize the jaunts menu into Places, People, Architecture, Stories, Errands, Work and Build log, the Glessner household tour first with card pictures, and Charles Nelson's 1904 stop corrected (coachman 1878-1902)
-T-3585 — 1904 nature sounds: robins in the parkway elms, summer cicadas by day and crickets at dusk, by season (owner: few birds heard in 1904 summer daytime)
