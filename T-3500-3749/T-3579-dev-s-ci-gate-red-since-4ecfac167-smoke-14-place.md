@@ -1,7 +1,7 @@
 ---
 id: T-3579
 title: dev's CI gate red since 4ecfac167: smoke 14 PLACED_1904 lacks dexter_house_1721_prairie_frame_house (T-3566), bake gate 7/8 doors_1835 stale after the CI bake, smoke 15 narration index.json blocked by R2 CORS, mobile 6-7/13 red
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/13/2026, 5:09:15 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43523518301
+claimed_at: 2026-11-13T23:09:16.538Z
 decision: null
 decision_answer: null
 ---
