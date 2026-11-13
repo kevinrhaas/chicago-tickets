@@ -1,7 +1,7 @@
 ---
 id: T-3578
 title: Voice jaunt narration with ElevenLabs: The Glessner Household first
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-12
 closed: null
-pr: null
+pr: 1982
 claimed_by: run 11/12/2026, 10:42:17 PM CT
 blocked_on: null
 needs_bake: false
