@@ -1,7 +1,7 @@
 ---
 id: T-3591
 title: dev's smoke 14 and 15 reds: PLACED_1904 lists dexter_house_1721_prairie_frame_house (T-3566), and the published smoke stands in the hosted narration index the bucket refuses at localhost
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3579
 opened: 2026-11-13
 closed: null
-pr: null
+pr: 2025
 claimed_by: run 11/13/2026, 5:13:00 PM CT
 blocked_on: null
 needs_bake: false
