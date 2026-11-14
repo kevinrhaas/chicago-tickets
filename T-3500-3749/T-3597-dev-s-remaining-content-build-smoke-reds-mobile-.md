@@ -1,7 +1,7 @@
 ---
 id: T-3597
 title: dev's remaining content-build smoke reds: mobile 6-7's compass-and-map instrument, mobile 13's Auto/Sound, Researcher and HUD-coverage checks; desktop 14's Go-to key check re-read on a fresh build
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3592
 opened: 2026-11-14
-closed: null
+closed: 2026-11-14
 pr: 2041
 claimed_by: run 11/14/2026, 5:44:42 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-14T14:44:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43590906808
 claimed_at: 2026-11-14T11:44:43.187Z
 decision: null
