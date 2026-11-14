@@ -66,7 +66,6 @@ T-3594 — Fort Dearborn monument's figures modelled past the rigs to the sculpt
 T-1886 — Refine 1816 Henderson mansard house
 T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-T-2365 — K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own age once T-1872 stands it on K01, shown beside 1808 under the same light, front and oblique at both viewports, with costs
 T-1894 — Refine 1823 Dent house
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
