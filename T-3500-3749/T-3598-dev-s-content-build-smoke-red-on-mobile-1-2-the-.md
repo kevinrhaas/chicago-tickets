@@ -1,7 +1,7 @@
 ---
 id: T-3598
 title: dev's content-build smoke red on mobile 1-2: the plank decks tie into the ground they cross (deepest -0.601 m below grade, 1345 vertices past their relief allowance, worst by 0.241 m), red on dev's 5367f0fd6 and on every PR merged up to it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-14
-closed: null
+closed: 2026-11-14
 pr: 2040
 claimed_by: run 11/14/2026, 6:11:48 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-14T13:57:51Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43593182989
 claimed_at: 2026-11-14T12:11:49.296Z
 decision: null
