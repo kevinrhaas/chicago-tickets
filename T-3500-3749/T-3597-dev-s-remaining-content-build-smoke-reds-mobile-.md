@@ -1,7 +1,7 @@
 ---
 id: T-3597
 title: dev's remaining content-build smoke reds: mobile 6-7's compass-and-map instrument, mobile 13's Auto/Sound, Researcher and HUD-coverage checks; desktop 14's Go-to key check re-read on a fresh build
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3592
 opened: 2026-11-14
 closed: null
-pr: null
+pr: 2041
 claimed_by: run 11/14/2026, 5:44:42 AM CT
 blocked_on: null
 needs_bake: false
