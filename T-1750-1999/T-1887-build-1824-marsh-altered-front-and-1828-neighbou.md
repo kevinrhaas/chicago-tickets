@@ -1,7 +1,7 @@
 ---
 id: T-1887
 title: Refine 1824 Marsh altered front and 1828 neighbour
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/14/2026, 5:42:00 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43590578896
-claimed_at: 2026-11-14T11:42:00.858Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -102,3 +102,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-13** (claim of run 11/13/2026, 4:31:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43518321393): PR #2024 (resume: gate still running, nothing red) rules 1824's last open automobile item within tolerance: the light wall south of its bay is the south flank. In the partial view's solved camera its band vanishes at x -250..-320, against the flank's -197..-376 and a 45-degree face's -1244..-1955. In the automobile print it vanishes at x -1473, a 45-degree wall only through the principal point T-3166 assumed at the print's edge. So 1824's automobile view reads matches. Still open: 1828's left-edge face (automobile print x 0-150), which reads frontal with level courses where the sheet starts the bay at the south corner. No second picture shows that corner. The same assumed principal point bears on it: a point far left would make a receding flank's courses there read nearly level. Not split: the gate stays on this ticket.
 
 **Released 2026-11-13** (claim of run 11/13/2026, 9:32:01 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43550490507): PR #2029 (resume: gate still running, nothing red) empties 1828's south-flank windows in front of its canted flank bay: the automobile photograph's left band (x 0-150) is plain coursed stone with no opening. The open item is sharpened: the band's courses rise to the right across x 8-48 and fall to the right across x 90-140 either side of the lit strip, so the face is convex; a principal-point sweep (0 to -1500 px) finds no level square-on camera that shows 1828's flank there and keeps the stoop's foot at x 750. Still open: a convex light stone mass south of the bay's cheek that the 1911 sheet does not draw. Not split: the gate stays on this ticket.
+
+**Released 2026-11-14** (claim of run 11/14/2026, 5:42:00 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43590578896): Read the automobile print's left band (x 0-150) again, at 2x with contrast, and in the second copy (a18-gh-shipman-1828-with-automobile, 675 px, same negative, no wider crop). New observations: the band is in shade under the south-east sun that fully lights the bay's cheek and front beside it, lit only by a wedge (x 47-87) whose lower end comes to a point at y ~245, which reads as sun through a gap rather than geometry, so the 'lit strip' should not be taken as the convex mass's nearest face; the band's stone is channelled (deep horizontal joints), unlike the bay's smooth ashlar; its water table at y ~478 runs on level from the bay's base. Its rising courses (VP -1200..-2500) agree with 1824's south-flank frieze VP (-1380..-1473), which would put the u-direction vanishing point, and so a square camera's principal point, near x -1450; but with the sash scale fixed (62 px/m) that camera cannot keep the stoop's foot at x 750 (the parallax would need the eye ~180 m off). So either the stoop's modelled projection or the 'level, square' premise of the camera is wrong; a joint least-squares re-solve (principal x, eye u/v, f free, stoop, porch columns, both bay windows, both flank VPs) is the next step, not another single-parameter sweep. Released without a PR.
