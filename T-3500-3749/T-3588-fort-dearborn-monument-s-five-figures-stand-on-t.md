@@ -1,7 +1,7 @@
 ---
 id: T-3588
 title: Fort Dearborn monument's five figures stand on the people rigs: hm08 bodies posed to T-3582's joints, skinned and baked into the monument's GLB as bronze, the sculpture's pieces of each rig's dress kept as starting shapes
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3583
 opened: 2026-11-13
-closed: null
+closed: 2026-11-13
 pr: 2018
 claimed_by: run 11/13/2026, 3:45:26 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-14T03:06:09Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43511249978
 claimed_at: 2026-11-13T21:45:27.721Z
 decision: null
