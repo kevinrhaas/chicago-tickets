@@ -32,3 +32,21 @@ Owner, 2026-11-14: "Is there a way to do this corner today and show the view fro
 - Without a key it is a card with the heading and Google Maps' keyless Street View link; with the owner's key (today-view-config.js, restricted to the site's hosts) it is the live panorama.
 - Local metres to lat/lng agree with pyproj (EPSG:26916) to a centimetre; grid bearings become true headings.
 - Apple Look Around rejected: MapKit JS takes no heading, so it cannot turn with the walker.
+
+## Completion (PR #2056, merged to dev 2026-11-14)
+
+The Today window shipped. Tap TODAY under the compass for Google Street View today at your spot, turning and following as you walk; expand, open in Google Maps, hide; Settings › Show › Today window. Nothing from Google loads until it is opened. Until the owner's Maps JavaScript API key goes into `renderers/web/js/today-view-config.js`, visitors get a card with the heading and Google Maps' keyless Street View link.
+
+**Before** (1904, Prairie & 18th, desktop and phone):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/desktop-before.jpg?raw=true" width="640"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/mobile-before.jpg?raw=true" width="200">
+
+**After, live** (Google's keyless development mode, hence washed out and watermarked; NNE 028°, then turned to E 090° and the panorama followed):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/desktop-live.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/desktop-live-turned.jpg?raw=true" width="420">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/mobile-live.jpg?raw=true" width="200"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/mobile-live-turned.jpg?raw=true" width="200">
+
+**After, until the key is added** (the card):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/desktop-link.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9aced37a150f763ef084b1c99621ae66f721970f/evidence/today-window-T-3601/mobile-link.jpg?raw=true" width="200">
