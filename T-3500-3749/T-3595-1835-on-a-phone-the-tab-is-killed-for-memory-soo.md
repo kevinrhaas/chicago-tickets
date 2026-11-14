@@ -1,7 +1,7 @@
 ---
 id: T-3595
 title: 1835 on a phone: the tab is killed for memory soon after load (Meg's crash on prod); let go of the timber and road buffers the page kept whole
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/13/2026, 11:07:43 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-14T05:07:44.120Z
 decision: null
 decision_answer: null
 ---
