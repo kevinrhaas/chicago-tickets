@@ -1,7 +1,7 @@
 ---
 id: T-3602
 title: App code sweep: dead code, copied helpers and duplicate imports, with no change to what is drawn
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-14
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/14/2026, 5:17:50 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-14T23:17:51.264Z
 decision: null
 decision_answer: null
 ---
