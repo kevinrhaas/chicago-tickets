@@ -1,7 +1,7 @@
 ---
 id: T-1887
 title: Refine 1824 Marsh altered front and 1828 neighbour
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/13/2026, 9:32:01 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43550490507
-claimed_at: 2026-11-14T03:32:02.199Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -100,3 +100,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-13** (claim of run 11/13/2026, 10:57:00 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43465808338): PR #2008 (resume: merged dev, re-derived, gate not re-run before the run's clock) lays 1828's three-storey block's flanks and its south canted bay in the front's Lemont stone 14 m back (K01 stone_front.flanks.to_m), as the 1911 sheet edges them in blue; the automobile view's match record now has the flanks' material fixed. Still open in the match records: 1828's left-edge face, which reads frontal and windowless in the print where the stone flank recedes with two windows; 1824's light wall south of its bay, whose frieze vanishes near x -1500 (measured on four lines of the frieze and cornice: -1380 to -1760). That is either a 45-degree wall or the south flank under a principal point about 1500 px left of the print's edge, and the second needs a lens covering over 45 degrees off-axis, so it was not adopted. Not split: the gate stays on this ticket.
 
 **Released 2026-11-13** (claim of run 11/13/2026, 4:31:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43518321393): PR #2024 (resume: gate still running, nothing red) rules 1824's last open automobile item within tolerance: the light wall south of its bay is the south flank. In the partial view's solved camera its band vanishes at x -250..-320, against the flank's -197..-376 and a 45-degree face's -1244..-1955. In the automobile print it vanishes at x -1473, a 45-degree wall only through the principal point T-3166 assumed at the print's edge. So 1824's automobile view reads matches. Still open: 1828's left-edge face (automobile print x 0-150), which reads frontal with level courses where the sheet starts the bay at the south corner. No second picture shows that corner. The same assumed principal point bears on it: a point far left would make a receding flank's courses there read nearly level. Not split: the gate stays on this ticket.
+
+**Released 2026-11-13** (claim of run 11/13/2026, 9:32:01 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43550490507): PR #2029 (resume: gate still running, nothing red) empties 1828's south-flank windows in front of its canted flank bay: the automobile photograph's left band (x 0-150) is plain coursed stone with no opening. The open item is sharpened: the band's courses rise to the right across x 8-48 and fall to the right across x 90-140 either side of the lit strip, so the face is convex; a principal-point sweep (0 to -1500 px) finds no level square-on camera that shows 1828's flank there and keeps the stoop's foot at x 750. Still open: a convex light stone mass south of the bay's cheek that the 1911 sheet does not draw. Not split: the gate stays on this ticket.
