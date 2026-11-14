@@ -1,7 +1,7 @@
 ---
 id: T-3589
 title: Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), the inscription cut, the front panel's c. 1900 tone, and its match records to matches
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3583
 opened: 2026-11-13
-closed: null
+closed: 2026-11-13
 pr: null
 claimed_by: run 11/13/2026, 9:34:27 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-14T03:50:44.676Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43550483088
 claimed_at: 2026-11-14T03:34:28.065Z
 decision: null
