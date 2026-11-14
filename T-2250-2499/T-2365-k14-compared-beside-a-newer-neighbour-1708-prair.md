@@ -1,7 +1,7 @@
 ---
 id: T-2365
 title: K14 compared beside a newer neighbour: 1708 Prairie, an empty lot on the 1886 Robinson plate, takes the kit at its own age once T-1872 stands it on K01, shown beside 1808 under the same light, front and oblique at both viewports, with costs
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-2361
 opened: 2026-10-11
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/14/2026, 10:45:27 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43614356818
+claimed_at: 2026-11-14T16:45:27.732Z
 decision: null
 decision_answer: null
 ---
