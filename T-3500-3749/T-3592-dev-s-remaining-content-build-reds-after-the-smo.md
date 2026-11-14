@@ -1,7 +1,7 @@
 ---
 id: T-3592
 title: dev's remaining content-build reds after the smoke 14/15 fix: bake gate 7/8 doors_1835 stale after the CI bake (derive_doors_scene.py), mobile 6-7's compass-and-map instrument, mobile 13's Auto/Sound, Researcher and HUD-coverage checks; desktop 14's Go-to key check re-read on a fresh build
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3579
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/14/2026, 12:07:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43563041861
+claimed_at: 2026-11-14T06:07:37.880Z
 decision: null
 decision_answer: null
 ---
