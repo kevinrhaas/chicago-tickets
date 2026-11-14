@@ -174,4 +174,3 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3596 — doors_1835 and doors_1904 name each model by its build inputs, not its file bytes, so a CI re-bake's float noise no longer stales them (the content build's bake gate doors_1835 red)
 T-3597 — dev's remaining content-build smoke reds: mobile 6-7's compass-and-map instrument, mobile 13's Auto/Sound, Researcher and HUD-coverage checks; desktop 14's Go-to key check re-read on a fresh build
-T-3595 — 1835 on a phone: the tab is killed for memory soon after load (Meg's crash on prod); let go of the timber and road buffers the page kept whole
