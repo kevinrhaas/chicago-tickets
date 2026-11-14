@@ -45,3 +45,11 @@ Kevin asked for the people, horse and carriage tickets to be consolidated into a
 ## Added from T-3564 (owner, 2026-11-12): the coach house doors open and the carriage goes in
 
 Kevin, of his photographs of the 18th Street coach-house doors: "the main coach house door can open and a horse and carriage can enter according to normal standards of how that would work ... i imagine there would be like a driveway to the coach house as well". T-3564 builds the still parts: the two diagonal-boarded leaves with the man door (glessner_house.json `v4_detail.north_stable_fabric.carriage_leaves`, doorway W 134.9-147.0) and the carriage drive from the doors over the curb to the roadway (`data/street_section/1904.json` `carriage_drives`, `prairie_1800.carriage_drive`). What is left belongs here, with the ride: the two leaves swing (inward or outward as the hinges read on the photographs; renderers/web/js/house-doors.js already swings door leaves), the man door opens for people, and the Glessner carriage can drive in off 18th Street over that drive and out again. No new ticket (Kevin's ticket restraint).
+
+## Added from Kevin (owner, 2026-11-14): board and drive any team
+
+Kevin, thread "Board and drive horse teams": "One of the things with carriages and horses and wagons was we wanted to be able to board and drive the team around." So boarding is not only the Glessner ride: every driven team in every year (1812 fort wagon and shore-road haul, 1835 Western Hotel wagon, 1904 Hans's, the Pullman and the Armour broughams) can be boarded, and the visitor can take the reins and drive it, by keyboard and touch, phones included. No new ticket (Kevin's ticket restraint).
+
+- [ ] Climb up (Interact) onto any driven team and ride its round on the seat beside the driver; look around freely; get down at any time (a moving team pulls up first) onto a clear spot beside it.
+- [ ] Take the reins: walk on, pull up and steer the team; it refuses ground it cannot carry (buildings, kerbs, broken ground, people, other teams) by pulling up, never by clipping; hand the reins back and the driver takes it home to its round.
+- [ ] Desktop and phone (390×780) shots in each year, with frame cost; recorded as reconstructed in LIBERTIES.
