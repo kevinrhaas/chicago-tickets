@@ -1,7 +1,7 @@
 ---
 id: T-3596
 title: doors_1835 and doors_1904 name each model by its build inputs, not its file bytes, so a CI re-bake's float noise no longer stales them (the content build's bake gate doors_1835 red)
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3592
 opened: 2026-11-14
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/14/2026, 12:07:55 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43563041861
+claimed_at: 2026-11-14T06:07:56.691Z
 decision: null
 decision_answer: null
 ---
