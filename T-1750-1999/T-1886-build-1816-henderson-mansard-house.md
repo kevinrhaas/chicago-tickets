@@ -1,7 +1,7 @@
 ---
 id: T-1886
 title: Refine 1816 Henderson mansard house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/14/2026, 8:57:49 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43604084987
-claimed_at: 2026-11-14T14:57:50.381Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -98,3 +98,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-13** (claim of run 11/13/2026, 2:47:17 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43502712020): PR #2019 (resume: CI gate green, conflicts with dev after it moved) reshapes 1816 Prairie's flank bay to the photograph (wide south-east cant, narrow front), sets its lights lower and shorter, lowers its crown to 3.25 m and sets all five dormers on their cornices, the south one 0.8 m west. Still open in the match record: the flank crown's moulded curb (~0.7 m, a K08 kit change), the south flank window drawn on the upper storey only (the build lights both), and the 1874 Land Owner engraving's camera. Not split: the gate stays on this ticket.
 
 **Released 2026-11-14** (claim of run 11/14/2026, 5:52:22 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43586640744): PR #2039 (locally gated green: check.sh 4/4, smoke desktop 1 + 3 and mobile 3) builds 1816 Prairie's south flank light on the upper storey only, as the Chicagology print draws it (sill 6.5 m, head 9.0 m, 0.75 m wide, the principal storey's light under it gone); the match record's flank-window difference is fixed. Still open in the match record: the flank crown's moulded curb (~0.7 m, a K08 kit change) and the 1874 Land Owner engraving's camera. Not split: the gate stays on this ticket.
+
+**Released 2026-11-14** (claim of run 11/14/2026, 8:57:49 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43604084987): PR #2048 (resume: CI gate still running; locally gated green: check.sh 4/4, smoke desktop 3 + mobile 3) finishes both of 1816 Prairie's crowns in a moulded curb cornice (K08 roof.mansard.curb_mould, new), closing the Chicagology photograph's last open difference; its match record now reads matches. Still open: the 1874 Land Owner engraving's camera, which draws an earlier house (a plain mansard, no raised crowns over the bays), so its match record must argue those as alterations by date. Not split: the gate stays on this ticket.
