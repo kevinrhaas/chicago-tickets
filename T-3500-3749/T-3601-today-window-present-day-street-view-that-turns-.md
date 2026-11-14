@@ -1,7 +1,7 @@
 ---
 id: T-3601
 title: Today window: present-day Street View that turns with you
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-14
 closed: null
-pr: null
+pr: 2056
 claimed_by: run 11/14/2026, 3:40:09 PM CT
 blocked_on: null
 needs_bake: false
