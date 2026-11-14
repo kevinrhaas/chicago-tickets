@@ -1,7 +1,7 @@
 ---
 id: T-3594
 title: Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), and its match records to matches
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-3589
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: run 11/14/2026, 9:00:02 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43603411336
-claimed_at: 2026-11-14T15:00:03.854Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -39,3 +39,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-3589 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-14** (claim of run 11/14/2026, 9:00:02 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43603411336): PR #2045 (resume, gate still running) models Mrs. Helm's skirt, overskirt and cloak in folds. Still open in both group match records: the sculpted faces and hair, Black Partridge's headdress and feathers, the ornaments and weapons as sculpted, the other four figures' dress, Black Partridge's straightness and the warrior's upright torso. The image gate keeps the ticket open until those match.
