@@ -29,7 +29,6 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
-T-3599 — dev's 1835 boot payload measures 44.936 MB over its 44.9 MB budget (dev d775bba81, 1227 requests), which reds smoke (desktop, 1-2) in every PR's content build — measure what grew since T-3341's 44.716 reading and re-budget or cut
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
