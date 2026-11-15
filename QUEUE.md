@@ -69,7 +69,6 @@ T-1894 — Refine 1823 Dent house
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1902 — Finish 1916-1930 identity and 1936 Allerton estate architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-1868 — Refine 1613, 1615 and 1619 east row
 T-1910 — Refine 2018 and 2026 masonry houses
 T-1915 — Refine 2011 Romanesque house beside Mayer
 T-1916 — Refine 2013 Reid classical house
