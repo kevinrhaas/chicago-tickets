@@ -1,7 +1,7 @@
 ---
 id: T-1902
 title: Finish 1916-1930 identity and 1936 Allerton estate architecture
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 2065
 claimed_by: run 11/14/2026, 7:50:59 PM CT
 blocked_on: null
 needs_bake: true
