@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 4:36:24 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43704119364
-claimed_at: 2026-11-15T10:36:25.295Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -86,3 +86,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-13** (claim of run 11/13/2026, 5:00:24 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43406665733): PR #1987 builds two of the six open picture differences (the stack over the rear range, the principal storey's narrow light beside the door; K01 now carries stacks on a flat wing and a principal-storey front_bays_by_storey). Still open in both match records, each needing a new K01 capability: the triple group's broad pedimented dormer over the curb, the grilled arched doorway under the landing, the box bay's corbelled foot, and the pavilion attic's slated cheeks. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-14** (claim of run 11/14/2026, 6:13:01 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43653558386): PR #2061 builds the grilled round-arched doorway under the stoop's landing (K01 side_stoop.arch, K07 _arch_grille), fixed on both match records; it records open the landing's length (both pictures draw it about 1 m longer north and lower). Still open, each needing a new K01/K08/K05 capability: the triple group's broad pedimented dormer over the curb, the box bay's corbelled foot, the pavilion attic's slated cheeks, and now the landing's length. The image gate keeps the ticket open until those match.
+
+**Released 2026-11-15** (claim of run 11/15/2026, 4:36:24 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43704119364): PR #2073 builds the box bay's corbelled foot (K01 lets an oriel stand on the principal floor; K08's corbelled oriel on three courses, its foot at 1.75 m), fixed on both match records, and lays three of the flank's basement lights the engraving draws; it records open the two it cannot lay (one by the wall's end, one on the rear range, which K01 lays only round-headed). Still open: the triple group's broad pedimented dormer over the curb, the pavilion attic's slated cheeks, the landing's length, and those two lights. The image gate keeps the ticket open until those match.
