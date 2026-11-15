@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: 2026-11-15T18:56:47.619Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -44,3 +44,14 @@ Kevin, thread "Consolidate ticket queue": "things like mark beaubien there are l
 - [ ] Reuse existing dresses and figure GLBs by role; mind the site size budget (see 1812's levers in #1869). Desktop 1280×800 and phone 390×780 shots of a busy street, a door "Ask for" list and Mark at the Sauganash. Phones keep people, horses and wagons (T-3542 ceilings).
 
 One PR if it fits, as 1812's #1869 did; more if the size budget needs it.
+
+## Decision needed
+
+**Question:** PR #2088 gives all 2,830 people of 1835 a day, their homes and places of business, doors and interactions. The one acceptance line left is Mark Beaubien at the Sauganash: the hotel's own record says the Beaubiens owned it until 1834 and names 'Davis (1835)' as its 1835 operator. Where should Mark be on 1 July 1835?
+
+- (a) Leave him at the roof the housing deal gives him (as now) and close this ticket when #2088 merges
+- (b) Put him at the Sauganash as its keeper anyway, recorded as a liberty against the hotel record
+
+**Recommendation:** (a) Leave him at the roof the housing deal gives him (as now) and close this ticket when #2088 merges — Provenance is the product: the project's own source puts Davis, not Beaubien, at the Sauganash in 1835
+
+**Asked:** 2026-11-15. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.

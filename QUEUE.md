@@ -120,6 +120,7 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 # T-3341 covers 1812's brick too; it is here because the 1835 brick library is its source.
 # Owner, 2026-11-12, thread "Consolidate ticket queue": Mark Beaubien is one of all the 1835 people given days, as 1812 and 1904 were, not his own tickets (T-2673..T-2675 folded in).
 T-3556 — Put everyone of 1835 in the town with a day, as 1812 and 1904 have: the carded townspeople drawn at their homes and work, Mark Beaubien at the Sauganash among them, and the rest asked for at their doors
+#   ? T-3556 DECISION: PR #2088 gives all 2,830 people of 1835 a day, their homes and places of business, doors and interactions. The one acceptance line left is Mark Beaubien at the Sauganash: the hotel's own record says the Beaubiens owned it until 1834 and names 'Davis (1835)' as its 1835 operator. Where should Mark be on 1 July 1835? — (a) Leave him at the roof the housing deal gives him (as now) and close this ticket when #2088 merges  (b) Put him at the Sauganash as its keeper anyway, recorded as a liberty against the hotel record — recommended: (a)
 
 # --- 5. 1812 — the 1812 scene's open work, one band for its own agent (owner, 2026-11-05).
 # Owner, 2026-10-13, thread "1812 structures": build every documented 1812 structure. T-2484 came down from the foot of band 7.
