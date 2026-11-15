@@ -1,7 +1,7 @@
 ---
 id: T-1886
 title: Refine 1816 Henderson mansard house
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-15
 pr: 2076
 claimed_by: run 11/15/2026, 6:04:54 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-15T15:47:43Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43710924705
 claimed_at: 2026-11-15T12:04:55.687Z
 decision: null
