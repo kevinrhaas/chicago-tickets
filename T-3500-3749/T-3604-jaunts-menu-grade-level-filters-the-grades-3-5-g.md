@@ -1,7 +1,7 @@
 ---
 id: T-3604
 title: Jaunts menu: grade-level filters; the grades 3-5 Glessner tour keeps the plain name
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-15
-closed: null
+closed: 2026-11-15
 pr: 2085
 claimed_by: run 11/15/2026, 12:15:55 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-15T20:38:30Z
 claimed_run: null
 claimed_at: 2026-11-15T18:15:56.209Z
 decision: null
