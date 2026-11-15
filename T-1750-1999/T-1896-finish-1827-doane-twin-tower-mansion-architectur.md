@@ -1,7 +1,7 @@
 ---
 id: T-1896
 title: Finish 1827 Doane twin-tower mansion architecture
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 2062
 claimed_by: run 11/14/2026, 6:16:52 PM CT
 blocked_on: null
 needs_bake: true
