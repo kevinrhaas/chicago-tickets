@@ -1,7 +1,7 @@
 ---
 id: T-1910
 title: Refine 2018 and 2026 masonry houses
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-15
 pr: null
 claimed_by: run 11/15/2026, 2:51:11 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-15T20:52:49.152Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43759137658
 claimed_at: 2026-11-15T20:51:12.083Z
 decision: null

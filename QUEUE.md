@@ -67,7 +67,8 @@ T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 
 T-1894 — Refine 1823 Dent house
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
-T-1910 — Refine 2018 and 2026 masonry houses
+T-3607 — Refine 2018 Prairie's stone-front masonry house from the draft onto K01
+T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
 T-1915 — Refine 2011 Romanesque house beside Mayer
 T-1916 — Refine 2013 Reid classical house
 T-1917 — Refine 2017, 2021 High and 2027 Cobb-associated group
