@@ -1,7 +1,7 @@
 ---
 id: T-3607
 title: Refine 2018 Prairie's stone-front masonry house from the draft onto K01
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1910
 opened: 2026-11-15
 closed: null
-pr: null
+pr: 2094
 claimed_by: run 11/15/2026, 2:52:53 PM CT
 blocked_on: null
 needs_bake: false
