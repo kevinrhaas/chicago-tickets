@@ -1,7 +1,7 @@
 ---
 id: T-3557
 title: Ride the Glessner carriage: ask the coachman, board, ride a short round with Mr. Glessner aboard, stop and get down, by keyboard and touch
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-15
 pr: 2075
 claimed_by: run 11/15/2026, 12:24:27 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-15T14:44:59Z
 claimed_run: null
 claimed_at: 2026-11-15T06:24:28.421Z
 decision: null

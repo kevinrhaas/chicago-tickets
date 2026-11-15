@@ -134,7 +134,6 @@ T-3555 — A living town at a phone's cost: far people as impostor cards, middle
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — the Glessner carriage ride first (owner, 2026-11-09), then the photographic vehicles (epic T-2791)
 # T-2795 and T-2801 are done (the waiting Glessner team, #1908) and leave the queue when settle reads the merge.
-T-3557 — Ride the Glessner carriage: ask the coachman, board, ride a short round with Mr. Glessner aboard, stop and get down, by keyboard and touch
 T-3558 — Finish the photographic wagons and Brougham: the farm-box master qualified, the covered wagons upgraded but kept distinct, and the Brougham matched to its 1893 plate and qualified in town
 
 # --- 8E. PERIOD HORSES AND GEAR — the photographic horse and its trot, then riding (epic T-2798)
