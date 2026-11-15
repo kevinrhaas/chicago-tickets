@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 8:52:18 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43725635734
-claimed_at: 2026-11-15T14:52:19.019Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -88,3 +88,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-14** (claim of run 11/14/2026, 6:13:01 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43653558386): PR #2061 builds the grilled round-arched doorway under the stoop's landing (K01 side_stoop.arch, K07 _arch_grille), fixed on both match records; it records open the landing's length (both pictures draw it about 1 m longer north and lower). Still open, each needing a new K01/K08/K05 capability: the triple group's broad pedimented dormer over the curb, the box bay's corbelled foot, the pavilion attic's slated cheeks, and now the landing's length. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-15** (claim of run 11/15/2026, 4:36:24 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43704119364): PR #2073 builds the box bay's corbelled foot (K01 lets an oriel stand on the principal floor; K08's corbelled oriel on three courses, its foot at 1.75 m), fixed on both match records, and lays three of the flank's basement lights the engraving draws; it records open the two it cannot lay (one by the wall's end, one on the rear range, which K01 lays only round-headed). Still open: the triple group's broad pedimented dormer over the curb, the pavilion attic's slated cheeks, the landing's length, and those two lights. The image gate keeps the ticket open until those match.
+
+**Released 2026-11-15** (claim of run 11/15/2026, 8:52:18 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43725635734): PR #2077 lays the flank's last two basement lights the Chicagology engraving draws, square-headed (K01: a read light may stand 0.1 m inside a flank's rear end where a rear wing carries the wall on flush; a wing's basement lights may be square-headed), fixed on both match records; the reconstructed north downpipe moves off the first. Still open, each needing a new K01/K05 capability: the triple group's broad pedimented dormer over the curb, the pavilion attic's slated cheeks, and the landing's length. The image gate keeps the ticket open until those match.
