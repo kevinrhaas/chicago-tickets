@@ -1,7 +1,7 @@
 ---
 id: T-3594
 title: Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), and its match records to matches
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-3589
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 4:56:18 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43705999275
-claimed_at: 2026-11-15T10:56:19.457Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -43,3 +43,5 @@ T-3589 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-14** (claim of run 11/14/2026, 9:00:02 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43603411336): PR #2045 (resume, gate still running) models Mrs. Helm's skirt, overskirt and cloak in folds. Still open in both group match records: the sculpted faces and hair, Black Partridge's headdress and feathers, the ornaments and weapons as sculpted, the other four figures' dress, Black Partridge's straightness and the warrior's upright torso. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-14** (claim of run 11/14/2026, 3:41:27 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43643309342): PR #2058 (resume, gate still running) models the weapons and ornaments: the warrior's pipe tomahawk, feather and fringed pouch, Black Partridge's headband, knot, standing feather, streamer and musket. Still open in both group match records: the sculpted faces and hair, the warrior's, Black Partridge's, the surgeon's and the child's dress, Black Partridge's straightness and the warrior's upright torso. The image gate keeps the ticket open until those match.
+
+**Released 2026-11-15** (claim of run 11/15/2026, 4:56:18 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43705999275): PR #2072 turns the warrior and Black Partridge as the plates show: the warrior's chest twists to Mrs. Helm over hips facing his lunge and his head is bowed to her; Black Partridge's chest turns a third of the way to the warrior and his face is in profile to him (the 'figures' masses' entries now fixed). Still open in both group match records: the sculpted faces and hair, and the dress of the warrior, Black Partridge, the surgeon and the child. The image gate keeps the ticket open until those match.
