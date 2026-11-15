@@ -24,3 +24,24 @@ decision_answer: null
 Ten dramatic 1904 story jaunts from the owner's stories document.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Completion (2026-11-15, PR #2091 into dev)
+
+Ten 1904 story jaunts are in the new **Stories** menu group. There are 41 stops, each played by the people of the street, every quotation is cited, and liberty L-1904-story-jaunts records what is reconstructed. The Bronze at Eighteenth Street waits on the monument's review, like prairie-built-so-far. Narration direction is written, but voices.json is left for the owner, because it spends ElevenLabs characters.
+
+**The Merchant and Mrs. Caton, the yards:** before / after
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/caton-yards-before.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/caton-yards-after.jpg?raw=true" width="420">
+
+**Monday at the Fortress, the door:** before / after
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/reading-class-door-before.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/reading-class-door-after.jpg?raw=true" width="420">
+
+**The Daughter Who Made Things, the court:** before / after
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/lee-court-before.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/lee-court-after.jpg?raw=true" width="420">
+
+**More stops (after)**
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/caton-widow-after.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/field-steps-after.jpg?raw=true" width="420">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/twins-carriage-after.jpg?raw=true" width="420"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/b18a8742a1b8c9022dcada1b4fef981d99709fae/evidence/story-jaunts-T-3606-2026-11-15/levee-passage-after.jpg?raw=true" width="420">
