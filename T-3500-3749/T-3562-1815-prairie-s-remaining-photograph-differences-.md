@@ -1,7 +1,7 @@
 ---
 id: T-3562
 title: 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1893
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 5:24:08 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43772091684
-claimed_at: 2026-11-15T23:24:09.074Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -52,3 +52,5 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-15** (claim of run 11/15/2026, 9:58:37 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43732146697): PR #2082 builds the three sunk panels the oblique print draws down 1815's south stack (0.15 m across, 11.35-13.45 m), cut in the stack's own stone: K15 now sinks a stone stack's panel in its stone, and a cornice stack may name panel_foot_m (all 52 K01 houses rebuilt byte-identical, only their input hashes moved); the oblique match record re-judged (panels fixed). Still open in the match records: the pavilion's full 4 m width with the door in it (its dentil band, shoulders and the pediment's width; needs a door through an ordinary pavilion and an attic narrower than the pavilion under it, which K08 cannot build), the basement doorway, open underside and iron rail under the stoop's north landing, the curb's height and the deck over it, the corner bay's set-out past the flank, the stack's pots (a district rebake), the north fence, and which front stood in 1904. Not split: the gate stays on this ticket.
 
 **Released 2026-11-15** (claim of run 11/15/2026, 1:23:39 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43749054258): PR #2082 (stack's sunk stone panels, one of the ticket's differences) lapped onto dev and handed on with resume (CI gate queued); the image gate still has 13 differences open across both views, so the ticket stays open for them
+
+**Released 2026-11-15** (claim of run 11/15/2026, 5:24:08 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43772091684): PR #2082 (south stack's sunk stone panels) merged to dev 2026-11-15 on a green CI gate; the merged tree re-checked locally (validate --stale 0 errors). The image gate's other differences remain open in the match records, so the ticket stays open for them
