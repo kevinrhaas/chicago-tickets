@@ -165,3 +165,4 @@ T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and tr
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3603 — Sign out from inside the town (About tab)
+T-3605 — Rebuild the Lake and Dearborn street faces to the Gifford Tremont drawing, then carry its density to the other 1835 streets
