@@ -1,7 +1,7 @@
 ---
 id: T-3557
 title: Ride the Glessner carriage: ask the coachman, board, ride a short round with Mr. Glessner aboard, stop and get down, by keyboard and touch
-state: claimed
+state: open
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: run 11/14/2026, 1:21:32 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-14T19:21:33.496Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -79,3 +79,5 @@ Driving Hans's brougham on a phone (390×780):
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/88fbabef66e20f053a8e44a00ea04b0ff46873eb/evidence/transport/T3557-board-drive/1904-phone-after-driving.jpg?raw=true" width="300">
 
 All 37 shots are in kevinrhaas/chicago-evidence under `evidence/transport/T3557-board-drive/`.
+
+**Released 2026-11-14** (claim of run 11/14/2026, 1:21:32 PM CT): no reason given
