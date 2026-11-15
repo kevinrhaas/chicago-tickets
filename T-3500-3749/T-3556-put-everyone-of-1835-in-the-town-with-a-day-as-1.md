@@ -1,7 +1,7 @@
 ---
 id: T-3556
 title: Put everyone of 1835 in the town with a day, as 1812 and 1904 have: the carded townspeople drawn at their homes and work, Mark Beaubien at the Sauganash among them, and the rest asked for at their doors
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/15/2026, 12:56:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-15T18:56:47.619Z
 decision: null
 decision_answer: null
 ---
