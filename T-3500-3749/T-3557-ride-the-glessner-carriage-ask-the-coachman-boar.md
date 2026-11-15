@@ -53,3 +53,29 @@ Kevin, thread "Board and drive horse teams": "One of the things with carriages a
 - [ ] Climb up (Interact) onto any driven team and ride its round on the seat beside the driver; look around freely; get down at any time (a moving team pulls up first) onto a clear spot beside it.
 - [ ] Take the reins: walk on, pull up and steer the team; it refuses ground it cannot carry (buildings, kerbs, broken ground, people, other teams) by pulling up, never by clipping; hand the reins back and the driver takes it home to its round.
 - [ ] Desktop and phone (390×780) shots in each year, with frame cost; recorded as reconstructed in LIBERTIES.
+
+## Progress (2026-11-15): board and drive shipped to dev (PR #2060)
+
+Kevin's 2026-11-14 ask is done on dev, merged 2026-11-15 in kevinrhaas/chicago#2060 (liberty L-board-drive-3557). Every driven team in 1812, 1835 and 1904 can be boarded. On board you can take the reins, drive (walk on, whoa, steer, back up) and hand the reins back; the driver then takes the team home to its round. You can get down at any point, by keyboard or touch, phones included. The team pulls up at walls, kerbs, rough ground, people and other teams instead of clipping through them; in 1904 it stays on the carriageways. The three boxes in Kevin's section above are met. The Glessner parts of this ticket are still open: the waiting team at the door, Mr. Glessner aboard, and the coach-house doors and drive.
+
+1812, before (dev, only "Stop driver") and after ("Climb up onto the wagon"):
+
+![1812 before and after](https://github.com/kevinrhaas/chicago-evidence/blob/88fbabef66e20f053a8e44a00ea04b0ff46873eb/evidence/transport/T3557-board-drive/1812-before-after.jpg?raw=true)
+
+Driving the 1812 fort wagon:
+
+![1812 driving](https://github.com/kevinrhaas/chicago-evidence/blob/88fbabef66e20f053a8e44a00ea04b0ff46873eb/evidence/transport/T3557-board-drive/1812-desktop-after-driving.jpg?raw=true)
+
+1835, before and after:
+
+![1835 before and after](https://github.com/kevinrhaas/chicago-evidence/blob/88fbabef66e20f053a8e44a00ea04b0ff46873eb/evidence/transport/T3557-board-drive/1835-before-after.jpg?raw=true)
+
+1904, before and after (desktop above, phone below):
+
+![1904 before and after](https://github.com/kevinrhaas/chicago-evidence/blob/88fbabef66e20f053a8e44a00ea04b0ff46873eb/evidence/transport/T3557-board-drive/1904-before-after.jpg?raw=true)
+
+Driving Hans's brougham on a phone (390×780):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/88fbabef66e20f053a8e44a00ea04b0ff46873eb/evidence/transport/T3557-board-drive/1904-phone-after-driving.jpg?raw=true" width="300">
+
+All 37 shots are in kevinrhaas/chicago-evidence under `evidence/transport/T3557-board-drive/`.
