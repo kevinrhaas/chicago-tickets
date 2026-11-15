@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: 2026-11-15T18:56:47.619Z
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Put everyone of 1835 in the town with a day, as 1812 and 1904 have: the carded townspeople drawn at their homes and work, Mark Beaubien at the Sauganash among them, and the rest asked for at their doors.
@@ -55,3 +55,5 @@ One PR if it fits, as 1812's #1869 did; more if the size budget needs it.
 **Recommendation:** (a) Leave him at the roof the housing deal gives him (as now) and close this ticket when #2088 merges — Provenance is the product: the project's own source puts Davis, not Beaubien, at the Sauganash in 1835
 
 **Asked:** 2026-11-15. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Answered:** 2026-11-15, Kevin in the project thread ("That makes sense"): (a). Mark stays at his housing-deal roof; the ticket closes when #2088 merges.
