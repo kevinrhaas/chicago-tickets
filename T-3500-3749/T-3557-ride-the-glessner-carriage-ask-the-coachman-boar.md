@@ -37,10 +37,10 @@ Kevin asked for the people, horse and carriage tickets to be consolidated into a
 
 **Acceptance:** (the definition of done, never weakened to pass)
 
-- [ ] Approach the coachman and ask for a ride (Interact); the door opens, the step is usable, the visitor boards and sits at the right eye height.
-- [ ] The team pulls out, walks a short round of the block and comes back, wheels turning and the hitch moving with the horses. Mr. Glessner may ride as an identified passenger from his own record; the coachman stays the coachman.
-- [ ] Stop and get down at any point, by keyboard and by touch; leaving a moving carriage stops it first. Reduced motion respected; no camera clipping; reload or a year switch never strands the camera.
-- [ ] Desktop and phone (390×780) clip or shots of the whole round trip in the real scene, with frame cost. Route and activity recorded as reconstructed.
+- [x] Approach the coachman and ask for a ride (Interact); the door opens, the step is usable, the visitor boards and sits at the right eye height.
+- [x] The team pulls out, walks a short round of the block and comes back, wheels turning and the hitch moving with the horses. Mr. Glessner may ride as an identified passenger from his own record; the coachman stays the coachman.
+- [x] Stop and get down at any point, by keyboard and by touch; leaving a moving carriage stops it first. Reduced motion respected; no camera clipping; reload or a year switch never strands the camera.
+- [x] Desktop and phone (390×780) clip or shots of the whole round trip in the real scene, with frame cost. Route and activity recorded as reconstructed.
 
 ## Added from T-3564 (owner, 2026-11-12): the coach house doors open and the carriage goes in
 
@@ -50,9 +50,9 @@ Kevin, of his photographs of the 18th Street coach-house doors: "the main coach 
 
 Kevin, thread "Board and drive horse teams": "One of the things with carriages and horses and wagons was we wanted to be able to board and drive the team around." So boarding is not only the Glessner ride: every driven team in every year (1812 fort wagon and shore-road haul, 1835 Western Hotel wagon, 1904 Hans's, the Pullman and the Armour broughams) can be boarded, and the visitor can take the reins and drive it, by keyboard and touch, phones included. No new ticket (Kevin's ticket restraint).
 
-- [ ] Climb up (Interact) onto any driven team and ride its round on the seat beside the driver; look around freely; get down at any time (a moving team pulls up first) onto a clear spot beside it.
-- [ ] Take the reins: walk on, pull up and steer the team; it refuses ground it cannot carry (buildings, kerbs, broken ground, people, other teams) by pulling up, never by clipping; hand the reins back and the driver takes it home to its round.
-- [ ] Desktop and phone (390×780) shots in each year, with frame cost; recorded as reconstructed in LIBERTIES.
+- [x] Climb up (Interact) onto any driven team and ride its round on the seat beside the driver; look around freely; get down at any time (a moving team pulls up first) onto a clear spot beside it.
+- [x] Take the reins: walk on, pull up and steer the team; it refuses ground it cannot carry (buildings, kerbs, broken ground, people, other teams) by pulling up, never by clipping; hand the reins back and the driver takes it home to its round.
+- [x] Desktop and phone (390×780) shots in each year, with frame cost; recorded as reconstructed in LIBERTIES.
 
 ## Progress (2026-11-15): board and drive shipped to dev (PR #2060)
 
@@ -81,3 +81,39 @@ Driving Hans's brougham on a phone (390×780):
 All 37 shots are in kevinrhaas/chicago-evidence under `evidence/transport/T3557-board-drive/`.
 
 **Released 2026-11-14** (claim of run 11/14/2026, 1:21:32 PM CT): no reason given
+
+## Done (2026-11-15): the Glessner ride and the coach house (PR #2075)
+
+Kevin chose on 2026-11-15 to build the rest of this ticket, and kevinrhaas/chicago#2075 does it. Ask Charles Nelson for a ride at the waiting brougham on Prairie: the parked carriage hands over to a driven one at the same stand, the kerbside door opens, and you sit inside beside Mr. Glessner. Nelson drives a round of the block (Prairie, 20th, Indiana, 18th; giving way at the crossings) and back to the door. You can get out at any time, by key or touch; a moving carriage stops first. Home to the coach house: the two leaves swing inward, the carriage drives in off 18th Street over the carriage drive, and the leaves shut behind it; asked, it backs out and comes round again. The man door in the left leaf opens for people. Recorded as reconstructed: L-glessner-ride-3557, L-glessner-coach-house-3557. Checked in the real app, 1904, on desktop and on a phone (390×780) by touch, with zero page errors. Frame cost could not be measured meaningfully in the headless browser (it renders in software).
+
+At the waiting brougham, before (dev: no Interact) and after ("Ask the coachman for a ride"):
+
+![Glessner brougham before and after](https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/glessner-before-after.jpg?raw=true)
+
+The coach-house doors, before (shut) and after (opened by Interact):
+
+![Coach house before and after](https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/coachhouse-before-after.jpg?raw=true)
+
+The cab door opens:
+
+![Cab door](https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/1904-desktop-cab-door.jpg?raw=true)
+
+On the round:
+
+![On the round](https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/1904-desktop-round.jpg?raw=true)
+
+Driving in to the coach house off 18th Street:
+
+![Into the coach house](https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/1904-desktop-coachhouse-in.jpg?raw=true)
+
+Bringing it round again, backing out:
+
+![Bring it round](https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/1904-desktop-bring-round.jpg?raw=true)
+
+Seated inside beside Mr. Glessner, on a phone (390×780):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/08673970fe347074a135479ba52ca21758f41461/evidence/transport/T3557-glessner-ride/1904-phone-seated.jpg?raw=true" width="300">
+
+All 20 shots are in kevinrhaas/chicago-evidence under `evidence/transport/T3557-glessner-ride/`.
+
+Known limits: Get out mid-round lands in the carriageway by the cab door (at the stand, on the walk); the cab is low, so the visitor and Mr. Glessner sit stooped; the first R press aboard is sometimes ignored; 1812/1835 teamster walkers still walk forwards while a wagon backs.
