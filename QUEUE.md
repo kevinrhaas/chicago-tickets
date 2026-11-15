@@ -166,3 +166,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3603 — Sign out from inside the town (About tab)
 T-3605 — Rebuild the Lake and Dearborn street faces to the Gifford Tremont drawing, then carry its density to the other 1835 streets
+T-3606 — Ten dramatic 1904 story jaunts from the owner's stories document
