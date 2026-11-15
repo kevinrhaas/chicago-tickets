@@ -1,7 +1,7 @@
 ---
 id: T-1902
 title: Finish 1916-1930 identity and 1936 Allerton estate architecture
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-15
 pr: 2065
 claimed_by: run 11/14/2026, 7:50:59 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-15T11:52:53Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43664465478
 claimed_at: 2026-11-15T01:51:00.769Z
 decision: null
