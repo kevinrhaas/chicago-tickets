@@ -64,7 +64,6 @@ T-3594 — Fort Dearborn monument's figures modelled past the rigs to the sculpt
 # existing order; T-2163 (the district grounds and walk, unblocked 2026-11-05: T-2983's pieces have all merged) goes before the verifies.
 # Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
 T-1886 — Refine 1816 Henderson mansard house
-T-1887 — Refine 1824 Marsh altered front and 1828 neighbour
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
 T-1894 — Refine 1823 Dent house
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
