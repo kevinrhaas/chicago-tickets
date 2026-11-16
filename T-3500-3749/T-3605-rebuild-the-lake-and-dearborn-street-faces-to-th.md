@@ -1,7 +1,7 @@
 ---
 id: T-3605
 title: Rebuild the Lake and Dearborn street faces to the Gifford Tremont drawing, then carry its density to the other 1835 streets
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-15
-closed: null
+closed: 2026-11-16
 pr: 2093
 claimed_by: run 11/15/2026, 12:35:41 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-16T06:45:26Z
 claimed_run: null
 claimed_at: 2026-11-15T18:35:42.719Z
 decision: null
