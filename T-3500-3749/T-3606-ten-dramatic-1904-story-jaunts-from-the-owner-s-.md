@@ -1,7 +1,7 @@
 ---
 id: T-3606
 title: Ten dramatic 1904 story jaunts from the owner's stories document
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-15
-closed: null
+closed: 2026-11-15
 pr: 2091
 claimed_by: run 11/15/2026, 12:44:42 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-16T00:53:42Z
 claimed_run: null
 claimed_at: 2026-11-15T18:44:43.974Z
 decision: null
