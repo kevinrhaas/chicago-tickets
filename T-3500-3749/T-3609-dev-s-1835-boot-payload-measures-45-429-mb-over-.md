@@ -1,7 +1,7 @@
 ---
 id: T-3609
 title: dev's 1835 boot payload measures 45.429 MB over its 45.2 MB budget (1237 requests) since T-3556's townspeople (#2088), which reds smoke (desktop, 1-2) in every PR's content build — measure what grew since T-3599's 44.936 reading and re-budget or cut
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-15
-closed: null
+closed: 2026-11-15
 pr: 2095
 claimed_by: run 11/15/2026, 8:44:21 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-16T04:23:29Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43792773193
 claimed_at: 2026-11-16T02:44:22.124Z
 decision: null

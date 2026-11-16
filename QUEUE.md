@@ -67,7 +67,6 @@ T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 
 T-1894 — Refine 1823 Dent house
 T-3610 — dev's first-visit boot payload is 45.437 MB, over the 45.2 MB budget — every content build's desktop 1-2 leg is red
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
-T-3609 — dev's 1835 boot payload measures 45.429 MB over its 45.2 MB budget (1237 requests) since T-3556's townspeople (#2088), which reds smoke (desktop, 1-2) in every PR's content build — measure what grew since T-3599's 44.936 reading and re-budget or cut
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
 T-3607 — Refine 2018 Prairie's stone-front masonry house from the draft onto K01
 T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
