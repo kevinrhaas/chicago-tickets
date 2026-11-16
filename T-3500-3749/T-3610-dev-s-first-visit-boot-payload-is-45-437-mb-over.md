@@ -1,7 +1,7 @@
 ---
 id: T-3610
 title: dev's first-visit boot payload is 45.437 MB, over the 45.2 MB budget — every content build's desktop 1-2 leg is red
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-15
-closed: null
+closed: 2026-11-15
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: duplicate of T-3609: the same 45.437 MB reading on dev, already re-budgeted 45.2 → 45.7 MB under SITE-BUDGET.md § 4o by #2095 (merged 2026-11-16 04:23Z)
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-16T05:20:50.906Z
 claimed_run: null
 claimed_at: null
 decision: null
