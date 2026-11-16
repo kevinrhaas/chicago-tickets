@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 10:18:03 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43802098897
-claimed_at: 2026-11-16T04:18:03.532Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -94,3 +94,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-15** (claim of run 11/15/2026, 1:51:34 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43751593439): PR #2089 (resume) builds the landing a few risers under the door, drawn to its length (entrance_floor_m 1.7, landing v 4.4-7.1 m, the arch re-read to 1.25 m at v 5.8 m, the door 3.2 m clear), fixed on both match records; it records open the print's 3.8 m doorway with its transom and hood. The PR needs the 52 K01 houses rebaked after its K07 probe fix, and the rest of the gate. Still open: the triple group's dormer over the curb and the pavilion attic's slated cheeks.
 
 **Released 2026-11-15** (claim of run 11/15/2026, 4:40:59 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43767936277): slice 3/5 finished the rebake + laps on resume PR #2089 (the landing slice); the ticket's photo differences (crown, triple-group dormer, doorway height) stay open for the next slice
+
+**Released 2026-11-15** (claim of run 11/15/2026, 10:18:03 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43802098897): PR #2100 builds the doorway to the engraving's 3.5 m with its 1.05 m transom light (K01 entrance_kit.transom) and K09's cornice hood (street_front_trim.entrance), fixed on the engraving's match record. It records open that both pictures draw the door's head level with the principal storey's lights beside it, where the build's lights stand 0.65 m higher; the gap is in the lights, not the door. Still open: the triple group's dormer over the curb and the pavilion attic's slated cheeks. The image gate keeps the ticket open until those match.
