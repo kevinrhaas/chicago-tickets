@@ -51,4 +51,20 @@ Down Lake Street, looking west from Dearborn:
 
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/5015e34978a488cbe671091a51b24481b957ffcc/evidence/T-3605-2026-11-16/stoop-before-after.jpg?raw=true" width="100%">
 
-**Phase 2 (acceptance 2), in progress.** The owner chose "Commercial core, about 60 stores": South Water's south side and both sides of Lake, Wells to State, filled toward 70 % of each block front (58 stores, roof programme 687 → 745). It ships in its own PR under this ticket.
+**Phase 2 (acceptances 2 and 3), PR 2110 (merged to dev 2026-11-16).** The owner chose "Commercial core, about 60 stores". 59 reconstructed stores now stand in the commercial core: 46 on the open block fronts of South Water and Lake, and 13 turning the corner up Wells, LaSalle, Clark and Dearborn (the owner's pick, "Add Clark, Dearborn, Wells, LaSalle"). No house was moved for them: the owner asked for the ten cottages first moved back to be reworked, so a store never stands across a house's dooryard, on a door apron or on a tavern's ell. The roof programme went 687 → 746 and every household has a roof. 1835 phone memory 503.5 of 525 MB.
+
+Lake Street, looking east (before left, after right):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2f9a34dd19743c56bc5864cc828ac9ad2e29da75/evidence/T-3605-2026-11-16/core-59-lake-east.jpg?raw=true" width="100%">
+
+Lake Street, looking west:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2f9a34dd19743c56bc5864cc828ac9ad2e29da75/evidence/T-3605-2026-11-16/core-59-lake-west.jpg?raw=true" width="100%">
+
+LaSalle at Lake, looking north:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2f9a34dd19743c56bc5864cc828ac9ad2e29da75/evidence/T-3605-2026-11-16/core-59-lasalle-north.jpg?raw=true" width="100%">
+
+Clark at Lake, looking north:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2f9a34dd19743c56bc5864cc828ac9ad2e29da75/evidence/T-3605-2026-11-16/core-59-clark-north.jpg?raw=true" width="100%">
