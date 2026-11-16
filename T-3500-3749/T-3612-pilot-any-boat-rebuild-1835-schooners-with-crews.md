@@ -1,7 +1,7 @@
 ---
 id: T-3612
 title: Pilot any boat; rebuild 1835 schooners with crews and circuits; 1812 trade boats; boats by season
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/16/2026, 3:37:33 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-16T09:37:34.221Z
 decision: null
 decision_answer: null
 ---
