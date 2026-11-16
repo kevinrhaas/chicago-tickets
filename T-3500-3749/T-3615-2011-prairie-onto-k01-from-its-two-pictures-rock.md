@@ -1,7 +1,7 @@
 ---
 id: T-3615
 title: 2011 Prairie onto K01 from its two pictures: rock-faced front, arched door, dormer and round turret
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1915
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/16/2026, 9:49:12 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43892391697
+claimed_at: 2026-11-16T15:49:13.728Z
 decision: null
 decision_answer: null
 ---
