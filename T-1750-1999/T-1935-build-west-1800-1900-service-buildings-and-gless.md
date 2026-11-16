@@ -1,7 +1,7 @@
 ---
 id: T-1935
 title: Refine west 1800-1900 service buildings and Glessner boundary
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 2102
 claimed_by: run 11/15/2026, 11:32:03 PM CT
 blocked_on: null
 needs_bake: true
