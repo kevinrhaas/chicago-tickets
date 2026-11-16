@@ -34,3 +34,21 @@ The owner, 2026-11-15 (project thread "Rebuild 1835 streetscapes to Tremont phot
 
 ## Image gate
 tremont_house_1
+
+## Done so far
+
+**Phase 1, PR 2093 (merged to dev 2026-11-16).** Nineteen roofs on Lake and Dearborn round the first Tremont House are built to Gifford's drawing, and the Tremont turns its named gable to Lake. Three cottages, the Tremont stable and Bates's auction room moved; none was retired. The roof programme went 668 → 687, the image gate's `gifford_street` view matches, and `waiting_on_a_roof` fell from 25 households to 8.
+
+From the Lake and Dearborn crossing, looking north-west as Gifford does (before left, after right):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/73799f8ce994cdf504115bc2e2b4dd127b735fb5/evidence/T-3605-2026-11-15/gifford-before-after.jpg?raw=true" width="100%">
+
+Down Lake Street, looking west from Dearborn:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/73799f8ce994cdf504115bc2e2b4dd127b735fb5/evidence/T-3605-2026-11-15/lake-before-after.jpg?raw=true" width="100%">
+
+**Stoop fix, PR 2101.** The owner saw a townsman walking through a cottage's front steps. 1835's 164 house stoops are now steps that townspeople and the visitor climb:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/5015e34978a488cbe671091a51b24481b957ffcc/evidence/T-3605-2026-11-16/stoop-before-after.jpg?raw=true" width="100%">
+
+**Phase 2 (acceptance 2), in progress.** The owner chose "Commercial core, about 60 stores": South Water's south side and both sides of Lake, Wells to State, filled toward 70 % of each block front (58 stores, roof programme 687 → 745). It ships in its own PR under this ticket.
