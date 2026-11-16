@@ -165,6 +165,5 @@ T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and tr
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3614 — Floating name cards over every person, all years; a tap opens their card
-T-3617 — 1904 houses can load with white walls and roofs: a shared texture sheet that fails to arrive is dropped silently; retry it and re-read the house
 T-3619 — Jaunt openings and closings shown on screen while their narration plays, all jaunts
 T-3620 — Jaunt progress meters: the stop's scene in real time and the whole jaunt
