@@ -1,7 +1,7 @@
 ---
 id: T-3594
 title: Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), and its match records to matches
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-3589
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/16/2026, 5:29:43 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43978125017
+claimed_at: 2026-11-16T23:29:44.285Z
 decision: null
 decision_answer: null
 ---
