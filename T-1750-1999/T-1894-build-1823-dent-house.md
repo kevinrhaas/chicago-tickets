@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 4:40:59 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43767936277
-claimed_at: 2026-11-15T22:40:59.529Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -92,3 +92,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-15** (claim of run 11/15/2026, 8:52:18 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43725635734): PR #2077 lays the flank's last two basement lights the Chicagology engraving draws, square-headed (K01: a read light may stand 0.1 m inside a flank's rear end where a rear wing carries the wall on flush; a wing's basement lights may be square-headed), fixed on both match records; the reconstructed north downpipe moves off the first. Still open, each needing a new K01/K05 capability: the triple group's broad pedimented dormer over the curb, the pavilion attic's slated cheeks, and the landing's length. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-15** (claim of run 11/15/2026, 1:51:34 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43751593439): PR #2089 (resume) builds the landing a few risers under the door, drawn to its length (entrance_floor_m 1.7, landing v 4.4-7.1 m, the arch re-read to 1.25 m at v 5.8 m, the door 3.2 m clear), fixed on both match records; it records open the print's 3.8 m doorway with its transom and hood. The PR needs the 52 K01 houses rebaked after its K07 probe fix, and the rest of the gate. Still open: the triple group's dormer over the curb and the pavilion attic's slated cheeks.
+
+**Released 2026-11-15** (claim of run 11/15/2026, 4:40:59 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43767936277): slice 3/5 finished the rebake + laps on resume PR #2089 (the landing slice); the ticket's photo differences (crown, triple-group dormer, doorway height) stay open for the next slice
