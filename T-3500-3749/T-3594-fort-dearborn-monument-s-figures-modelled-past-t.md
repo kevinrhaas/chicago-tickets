@@ -1,7 +1,7 @@
 ---
 id: T-3594
 title: Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), and its match records to matches
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-3589
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 9:03:51 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43793878808
-claimed_at: 2026-11-16T03:03:51.962Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -47,3 +47,5 @@ T-3589 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-15** (claim of run 11/15/2026, 4:56:18 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43705999275): PR #2072 turns the warrior and Black Partridge as the plates show: the warrior's chest twists to Mrs. Helm over hips facing his lunge and his head is bowed to her; Black Partridge's chest turns a third of the way to the warrior and his face is in profile to him (the 'figures' masses' entries now fixed). Still open in both group match records: the sculpted faces and hair, and the dress of the warrior, Black Partridge, the surgeon and the child. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-15** (claim of run 11/15/2026, 8:57:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43725362885): PR #2079 (resume, gate still running) models Black Partridge's short fringed breechcloth (off his belt to the tops of his thighs, in place of the rig's knee-length one) and the child's smock (shoulders to mid-thigh, arms, shins and feet bare, in place of the rig's jacket, trousers and shoes). Still open in both group match records: the sculpted faces and hair, and the dress of the warrior (the fringed sash at his belt) and the surgeon. The image gate keeps the ticket open until those match.
+
+**Released 2026-11-15** (claim of run 11/15/2026, 9:03:51 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43793878808): PR #2096 (resume, gate still running) models the hair: Black Partridge's long lock falling from under his band behind his neck to the back of his left shoulder, and the warrior's curl past his cheek. Still open in both group match records: the sculpted faces, and the dress of the warrior (the fringed sash at his belt) and the surgeon. The image gate keeps the ticket open until those match.
