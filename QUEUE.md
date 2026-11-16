@@ -66,7 +66,6 @@ T-3613 — Dev's desktop smoke part 13 is red: the Confidence view's three overl
 # Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
 T-1894 — Refine 1823 Dent house
-T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
 T-3607 — Refine 2018 Prairie's stone-front masonry house from the draft onto K01
 T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
