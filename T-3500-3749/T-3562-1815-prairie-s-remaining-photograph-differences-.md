@@ -1,7 +1,7 @@
 ---
 id: T-3562
 title: 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1893
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: run 11/15/2026, 10:21:29 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43802090689
-claimed_at: 2026-11-16T04:21:30.033Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -54,3 +54,5 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-15** (claim of run 11/15/2026, 1:23:39 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43749054258): PR #2082 (stack's sunk stone panels, one of the ticket's differences) lapped onto dev and handed on with resume (CI gate queued); the image gate still has 13 differences open across both views, so the ticket stays open for them
 
 **Released 2026-11-15** (claim of run 11/15/2026, 5:24:08 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43772091684): PR #2082 (south stack's sunk stone panels) merged to dev 2026-11-15 on a green CI gate; the merged tree re-checked locally (validate --stale 0 errors). The image gate's other differences remain open in the match records, so the ticket stays open for them
+
+**Released 2026-11-15** (claim of run 11/15/2026, 10:21:29 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43802090689): PR #2097 (resume, gated locally green: check.sh 1/4-4/4 and smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) builds 1815's low iron railing across the north side yard off the square-on photograph: K11's coping front may name passage_fence, a kit spear run on its own curb square to the street (1815's on u 15.6, 1.9 m behind the front, 0.79 m to the tips, from the lot line to the stair projection); all 51 other K01 houses rebuilt byte-identical, only input hashes moved; the square-on match record's north fence fixed. Still open in the match records: the pavilion's full 4 m width with the door in it (its dentil band, shoulders and the pediment's width), the basement doorway, open underside and iron rail under the stoop, the curb's height and the deck over it, the corner bay's set-out past the flank, the stack's pots, and which front stood in 1904. Not split: the gate stays on this ticket.
