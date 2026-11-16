@@ -1,7 +1,7 @@
 ---
 id: T-3562
 title: 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1893
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: run 11/16/2026, 3:39:23 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43959852180
-claimed_at: 2026-11-16T21:39:23.445Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -58,3 +58,5 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-15** (claim of run 11/15/2026, 10:21:29 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43802090689): PR #2097 (resume, gated locally green: check.sh 1/4-4/4 and smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) builds 1815's low iron railing across the north side yard off the square-on photograph: K11's coping front may name passage_fence, a kit spear run on its own curb square to the street (1815's on u 15.6, 1.9 m behind the front, 0.79 m to the tips, from the lot line to the stair projection); all 51 other K01 houses rebuilt byte-identical, only input hashes moved; the square-on match record's north fence fixed. Still open in the match records: the pavilion's full 4 m width with the door in it (its dentil band, shoulders and the pediment's width), the basement doorway, open underside and iron rail under the stoop, the curb's height and the deck over it, the corner bay's set-out past the flank, the stack's pots, and which front stood in 1904. Not split: the gate stays on this ticket.
 
 **Released 2026-11-16** (claim of run 11/16/2026, 6:04:34 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43860632654): PR #2108 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) gives K15 a slender 1.1 m pot (long) and stands it on 1815's south stack's three flues off the oblique (the kit's 0.72 m tall pot stood 0.3-0.5 m short); all 51 other K01 houses rebuilt byte-identical, only input hashes moved; the oblique match record's pot height fixed. Newly open there: a possible fourth pot (four 0.21 m flues do not fit the 1.1 m stack) and K15's soot band rendering red brick on this stone stack's head. Still open: the pavilion's full 4 m width with the door in it (its dentil band, shoulders and the pediment's width), the basement doorway, open underside and iron rail under the stoop, the curb's height and the deck over it, the corner bay's set-out past the flank, and which front stood in 1904. Not split: the gate stays on this ticket.
+
+**Released 2026-11-16** (claim of run 11/16/2026, 3:39:23 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43959852180): PR #2125 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) keeps a stone K15 stack in its own stone through the soot band, so 1815's south stack (oblique) and north stack (square-on) no longer show a red brick band under their heads; kit specimen regenerated, all 51 other K01 houses rebuilt byte-identical (input hashes only); both match records re-judged (the band fixed). Still open in the match records: the pavilion's full 4 m width with the door in it (its dentil band, shoulders and the pediment's width), the basement doorway, open underside and iron rail under the stoop, the curb's height and the deck over it, the corner bay's set-out past the flank, a possible fourth pot, and which front stood in 1904. Not split: the gate stays on this ticket.
