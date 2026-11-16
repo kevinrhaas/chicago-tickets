@@ -168,3 +168,4 @@ T-3614 — Floating name cards over every person, all years; a tap opens their c
 T-3617 — 1904 houses can load with white walls and roofs: a shared texture sheet that fails to arrive is dropped silently; retry it and re-read the house
 T-3618 — Line the Today window up with each year's ground: by the fort it stood in the river
 T-3619 — Jaunt openings and closings shown on screen while their narration plays, all jaunts
+T-3620 — Jaunt progress meters: the stop's scene in real time and the whole jaunt
