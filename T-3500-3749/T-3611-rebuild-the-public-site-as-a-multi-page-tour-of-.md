@@ -1,7 +1,7 @@
 ---
 id: T-3611
 title: Rebuild the public site as a multi-page tour of the app with films of every year, and fit the Observatory's years on a phone screen
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-15
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/15/2026, 10:39:35 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-16T04:39:36.169Z
 decision: null
 decision_answer: null
 ---
