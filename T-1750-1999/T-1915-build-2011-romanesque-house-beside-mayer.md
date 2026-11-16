@@ -1,7 +1,7 @@
 ---
 id: T-1915
 title: Refine 2011 Romanesque house beside Mayer
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-16
 pr: null
 claimed_by: run 11/16/2026, 9:11:19 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-16T15:49:08.047Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43892391697
 claimed_at: 2026-11-16T15:11:20.460Z
 decision: null
