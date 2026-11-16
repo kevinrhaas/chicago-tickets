@@ -1,7 +1,7 @@
 ---
 id: T-3617
 title: 1904 houses can load with white walls and roofs: a shared texture sheet that fails to arrive is dropped silently; retry it and re-read the house
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-16
 closed: null
-pr: null
+pr: 2116
 claimed_by: run 11/16/2026, 10:04:41 AM CT
 blocked_on: null
 needs_bake: false
