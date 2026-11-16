@@ -65,6 +65,7 @@ T-3594 — Fort Dearborn monument's figures modelled past the rigs to the sculpt
 # Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
 T-1894 — Refine 1823 Dent house
+T-3610 — dev's first-visit boot payload is 45.437 MB, over the 45.2 MB budget — every content build's desktop 1-2 leg is red
 T-1896 — Finish 1827 Doane twin-tower mansion architecture
 T-3609 — dev's 1835 boot payload measures 45.429 MB over its 45.2 MB budget (1237 requests) since T-3556's townspeople (#2088), which reds smoke (desktop, 1-2) in every PR's content build — measure what grew since T-3599's 44.936 reading and re-budget or cut
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
