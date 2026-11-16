@@ -1,7 +1,7 @@
 ---
 id: T-3614
 title: Floating name cards over every person, all years; a tap opens their card
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: thread 4wua2z 11/16/2026, 9:49:22 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-16T15:49:23.693Z
 decision: null
 decision_answer: null
 ---
