@@ -1,7 +1,7 @@
 ---
 id: T-3622
 title: Dev's desktop smoke part 5 is red: 'full' and 'light' are over their triangle ceilings at West prairie (3,513,901 of 3,495,000; 1,225,393 of 1,190,000)
-state: claimed
+state: open
 epic: META
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: run 11/16/2026, 2:32:07 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43948981037
-claimed_at: 2026-11-16T20:32:08.425Z
+claimed_run: null
+claimed_at: null
 decision: pending
 decision_answer: null
 ---
@@ -41,3 +41,5 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 **Recommendation:** (a) Raise it: Light 1,190,000 -> 1,270,000 (1,251,432 plus T-0672's 15,791 headroom, rounded up to 5,000), with Full -> 3,575,000 and Balanced -> 2,730,000 on the same margins. Nothing in the scene changes, and dev's part 5 goes green in one PR. — Both parcels are ones you asked for, and the ruling is that the scene needing it is the justification. The phone is still well inside its floor, the breach is desktop-only, and coarse schooner hulls would save only about 5,000 (measured), so a trim means taking boats off Light. Option a unblocks every open PR's part 5 today.
 
 **Asked:** 2026-11-16 by https://github.com/kevinrhaas/polecat-platform/actions/runs/43948981037. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Released 2026-11-16** (claim of run 11/16/2026, 2:32:07 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43948981037): waiting on the owner's Light-floor ruling (decision pending); readings and both options are in the ticket
