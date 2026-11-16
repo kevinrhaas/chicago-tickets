@@ -68,3 +68,13 @@ LaSalle at Lake, looking north:
 Clark at Lake, looking north:
 
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/2f9a34dd19743c56bc5864cc828ac9ad2e29da75/evidence/T-3605-2026-11-16/core-59-clark-north.jpg?raw=true" width="100%">
+
+**The ground behind the core stores, PR 2124.** The owner asked for the areas behind the stores to be laid out for horses and wagons, loading and workshops by kind of business. Each of the 59 stores now has one outbuilding behind it, dealt by its type: a stable for the two-storey stores and the boarding house (the ground between it and the back door left open as the wagon and loading yard), a workshop for the store-residences, a storehouse for the small shops. 23 stables, 21 workshops and 15 storehouses, all reconstructed (L-store-back-lots-3605).
+
+Behind the Lake Street stores near State, looking south (before left, after right):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/1a77c7fb73071f153199d9e7f288fe88598194dd/evidence/T-3605-2026-11-16/back-lots-lake-dearborn-backs.jpg?raw=true" width="100%">
+
+Behind the South Water stores at Wells, looking north:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/1a77c7fb73071f153199d9e7f288fe88598194dd/evidence/T-3605-2026-11-16/back-lots-sw-wells-backs.jpg?raw=true" width="100%">
