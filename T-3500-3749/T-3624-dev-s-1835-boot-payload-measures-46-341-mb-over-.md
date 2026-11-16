@@ -1,7 +1,7 @@
 ---
 id: T-3624
 title: dev's 1835 boot payload measures 46.341 MB over its 45.7 MB budget, so every PR's content build is red on smoke (desktop, 1-2) — measure what grew since T-3609's 45.437 reading and re-budget or cut
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/16/2026, 5:44:39 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43980921923
+claimed_at: 2026-11-16T23:44:40.698Z
 decision: null
 decision_answer: null
 ---
