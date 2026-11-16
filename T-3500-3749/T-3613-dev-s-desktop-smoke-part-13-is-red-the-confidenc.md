@@ -1,7 +1,7 @@
 ---
 id: T-3613
 title: Dev's desktop smoke part 13 is red: the Confidence view's three overlays add 19 geometries and 19 draw calls on switch-on (T-2650 check: 709 → 728, programs 150 both)
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-16
-closed: null
+closed: 2026-11-16
 pr: 2119
 claimed_by: run 11/16/2026, 12:13:48 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-16T20:02:13Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43923475678
 claimed_at: 2026-11-16T18:13:48.825Z
 decision: null
