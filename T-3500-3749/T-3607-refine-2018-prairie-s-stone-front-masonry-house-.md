@@ -1,7 +1,7 @@
 ---
 id: T-3607
 title: Refine 2018 Prairie's stone-front masonry house from the draft onto K01
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1910
 opened: 2026-11-15
-closed: null
+closed: 2026-11-16
 pr: 2094
 claimed_by: run 11/15/2026, 2:52:53 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-16T23:11:08Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43759137658
 claimed_at: 2026-11-15T20:52:53.726Z
 decision: null
