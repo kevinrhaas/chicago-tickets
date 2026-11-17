@@ -1,7 +1,7 @@
 ---
 id: T-1935
 title: Refine west 1800-1900 service buildings and Glessner boundary
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-17
 pr: 2102
 claimed_by: run 11/15/2026, 11:32:03 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-17T08:29:31Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43809437505
 claimed_at: 2026-11-16T05:32:03.681Z
 decision: null
