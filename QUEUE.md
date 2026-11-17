@@ -66,7 +66,6 @@ T-3594 — Fort Dearborn monument's figures modelled past the rigs to the sculpt
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
 T-1894 — Refine 1823 Dent house
 T-3622 — Dev's desktop smoke part 5 is red: 'full' and 'light' are over their triangle ceilings at West prairie (3,513,901 of 3,495,000; 1,225,393 of 1,190,000)
-T-3630 — Dev's smoke parts 8 and 9-12 are red on 'restores the frame' residuals: road aid, roughness, shadow reach and brightness aid leave a held frame changed
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
 T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
 T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off

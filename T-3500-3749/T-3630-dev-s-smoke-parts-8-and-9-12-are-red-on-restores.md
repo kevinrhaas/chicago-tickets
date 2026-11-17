@@ -1,7 +1,7 @@
 ---
 id: T-3630
 title: Dev's smoke parts 8 and 9-12 are red on 'restores the frame' residuals: road aid, roughness, shadow reach and brightness aid leave a held frame changed
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-16
-closed: null
+closed: 2026-11-17
 pr: 2137
 claimed_by: run 11/16/2026, 9:47:29 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-17T06:18:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44011465623
 claimed_at: 2026-11-17T03:47:30.187Z
 decision: null
