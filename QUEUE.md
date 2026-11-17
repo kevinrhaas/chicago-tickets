@@ -165,3 +165,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
 T-3639 — 1812 frames jumpy at the Kinzie household by the boat
 T-3640 — Jaunts menu filters by age band, and every card shows its age band
+T-3642 — Refresh the first-time tour (Field Check) for today's interface: Interact, Jaunts by grade, labelled rail
