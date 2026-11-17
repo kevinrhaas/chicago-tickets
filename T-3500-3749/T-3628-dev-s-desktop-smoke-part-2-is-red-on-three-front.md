@@ -1,7 +1,7 @@
 ---
 id: T-3628
 title: Dev's desktop smoke part 2 is red on three frontage counts T-3605's stores grew: 97 hitching posts and 97 business-front fittings read where the checks still hard-code sixty and sixty-one, and the five-record frontage check
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-16
-closed: null
+closed: 2026-11-16
 pr: 2135
 claimed_by: run 11/16/2026, 9:45:12 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-17T05:12:32Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44011455983
 claimed_at: 2026-11-17T03:45:13.256Z
 decision: null

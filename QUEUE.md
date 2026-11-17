@@ -66,7 +66,6 @@ T-3594 — Fort Dearborn monument's figures modelled past the rigs to the sculpt
 T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
 T-1894 — Refine 1823 Dent house
 T-3622 — Dev's desktop smoke part 5 is red: 'full' and 'light' are over their triangle ceilings at West prairie (3,513,901 of 3,495,000; 1,225,393 of 1,190,000)
-T-3628 — Dev's desktop smoke part 2 is red on three frontage counts T-3605's stores grew: 97 hitching posts and 97 business-front fittings read where the checks still hard-code sixty and sixty-one, and the five-record frontage check
 T-3630 — Dev's smoke parts 8 and 9-12 are red on 'restores the frame' residuals: road aid, roughness, shadow reach and brightness aid leave a held frame changed
 T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
 T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
@@ -163,4 +162,3 @@ T-3558 — Finish the photographic wagons and Brougham: the farm-box master qual
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3574 — 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
-T-3629 — Interface sweep: quick fixes and Navigator reorganisation (Kevin's usability review)
