@@ -1,7 +1,7 @@
 ---
 id: T-3642
 title: Refresh the first-time tour (Field Check) for today's interface: Interact, Jaunts by grade, labelled rail
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2158
 claimed_by: run 11/17/2026, 11:09:07 AM CT
 blocked_on: null
 needs_bake: false
