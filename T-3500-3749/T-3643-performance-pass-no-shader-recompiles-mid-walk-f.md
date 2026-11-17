@@ -1,7 +1,7 @@
 ---
 id: T-3643
 title: Performance pass: no shader recompiles mid-walk, fewer GPU stalls at boot, nothing drawn differently
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2161
 claimed_by: run 11/17/2026, 11:22:47 AM CT
 blocked_on: null
 needs_bake: false
