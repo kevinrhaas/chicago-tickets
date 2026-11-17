@@ -69,7 +69,9 @@ T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner eng
 T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
 T-3625 — 2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, three-light upper storeys under an arched head, cornice and roof balustrade
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
-T-1917 — Refine 2017, 2021 High and 2027 Cobb-associated group
+T-3633 — 2021 Prairie, the High house, onto K01 from its Chicagology photograph: the steep front gable over the three-storey front block, the round corner turret and its cone, the arched entry and high stoop, the set-back side wing under its own gable, stone basement and the tall chimney
+T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
+T-3635 — 2027 Prairie, the Cobb-associated map-led villa, onto K01 from the 1911 sheet (no picture: a bounded design), and the T-1917 image-gate sign-off for 2017 and 2021
 T-1918 — Refine 2031, 2033 and 2035 limestone row
 T-3631 — 2036 Prairie, the Buckingham house, onto K01 from the 1911 sheet and the c. 1880 engraving: the mansard front block, canted corner and flank bays, stone basement, the 21st Street face's hooded lights and sill course, the porch and balustraded stoop
 T-3632 — 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
