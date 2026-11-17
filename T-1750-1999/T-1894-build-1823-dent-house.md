@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/17/2026, 6:01:09 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44076631368
-claimed_at: 2026-11-17T12:01:09.861Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -98,3 +98,5 @@ It is reopened in place, not refiled. Read every picture itself, solve a camera 
 **Released 2026-11-15** (claim of run 11/15/2026, 10:18:03 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43802098897): PR #2100 builds the doorway to the engraving's 3.5 m with its 1.05 m transom light (K01 entrance_kit.transom) and K09's cornice hood (street_front_trim.entrance), fixed on the engraving's match record. It records open that both pictures draw the door's head level with the principal storey's lights beside it, where the build's lights stand 0.65 m higher; the gap is in the lights, not the door. Still open: the triple group's dormer over the curb and the pavilion attic's slated cheeks. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-16** (claim of run 11/16/2026, 9:10:00 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43892375983): PR #2113 (resume) builds the triple group's broad dormer over the curb between scrolled consoles (K01 mansard.dormers[].over_curb, K10 dress.consoles), fixed on both match records; it waits only on CI's gate. Still open: the pavilion attic's slated cheeks and the principal storey's lights against the door's head. The image gate keeps the ticket open until those match.
+
+**Released 2026-11-17** (claim of run 11/17/2026, 6:01:09 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44076631368): PR #2149 lays the street front's principal-storey lights on the principal floor to the door's head (K01 sash_by_storey[].street_front: 2.35-5.2 m, the flank keeping its 3.25-5.85 m), fixed on both match records; the Chicagology engraving's view now matches. Still open: the pavilion attic's slated cheeks round its pedimented front (the 1883 album). The image gate keeps the ticket open until that matches.
