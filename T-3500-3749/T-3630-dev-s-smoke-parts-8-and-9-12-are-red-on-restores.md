@@ -1,7 +1,7 @@
 ---
 id: T-3630
 title: Dev's smoke parts 8 and 9-12 are red on 'restores the frame' residuals: road aid, roughness, shadow reach and brightness aid leave a held frame changed
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-16
 closed: null
-pr: null
+pr: 2137
 claimed_by: run 11/16/2026, 9:47:29 PM CT
 blocked_on: null
 needs_bake: false
