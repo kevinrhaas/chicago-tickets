@@ -1,7 +1,7 @@
 ---
 id: T-3555
 title: A living town at a phone's cost: far people as impostor cards, middle-distance people instanced, and horse-drawn traffic moving on distant streets, inside measured budgets
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-17
 pr: 2146
 claimed_by: run 11/16/2026, 8:41:21 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-17T12:35:12Z
 claimed_run: null
 claimed_at: 2026-11-17T02:41:22.227Z
 decision: null

@@ -130,7 +130,6 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 # into a limited number of tickets that will be faster to complete". 8C, 8D and 8E were pulled into the eight tickets below
 # (T-3553..T-3560); each lists what dev already has, to reuse, and a short acceptance. Add findings to them; don't file per-person tickets.
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
-T-3555 — A living town at a phone's cost: far people as impostor cards, middle-distance people instanced, and horse-drawn traffic moving on distant streets, inside measured budgets
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — the Glessner carriage ride first (owner, 2026-11-09), then the photographic vehicles (epic T-2791)
 # T-2795 and T-2801 are done (the waiting Glessner team, #1908) and leave the queue when settle reads the merge.
