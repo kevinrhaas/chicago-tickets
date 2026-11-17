@@ -1,7 +1,7 @@
 ---
 id: T-3574
 title: 1904 Grey household bios: 1900 census tannery, births, marriage, Sarah's death c.1905-06, clubs
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-17
 pr: 2160
 claimed_by: run 11/12/2026, 5:27:31 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-17T22:05:21Z
 claimed_run: null
 claimed_at: 2026-11-12T23:27:32.031Z
 decision: null
