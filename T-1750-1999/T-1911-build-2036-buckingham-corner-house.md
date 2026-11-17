@@ -1,7 +1,7 @@
 ---
 id: T-1911
 title: Refine 2036 Buckingham corner house
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-17
 pr: null
 claimed_by: run 11/17/2026, 3:27:22 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-17T09:46:15.671Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44053281365
 claimed_at: 2026-11-17T09:27:23.157Z
 decision: null

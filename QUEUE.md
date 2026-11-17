@@ -71,7 +71,8 @@ T-3625 — 2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-1917 — Refine 2017, 2021 High and 2027 Cobb-associated group
 T-1918 — Refine 2031, 2033 and 2035 limestone row
-T-1911 — Refine 2036 Buckingham corner house
+T-3631 — 2036 Prairie, the Buckingham house, onto K01 from the 1911 sheet and the c. 1880 engraving: the mansard front block, canted corner and flank bays, stone basement, the 21st Street face's hooded lights and sill course, the porch and balustraded stoop
+T-3632 — 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
 T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
 T-1924 — Refine 2101 and 2109 Roloson neighbours
