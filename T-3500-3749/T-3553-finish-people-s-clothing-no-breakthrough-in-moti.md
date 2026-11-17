@@ -39,7 +39,7 @@ Kevin, thread "Consolidate ticket queue": "the people human tickets, horses and 
 **Acceptance:** (the definition of done, never weakened to pass)
 
 - [x] **No clothing breaks through in motion.** Check walking and turning poses, not only standing: the coachman's trousers through his coat, the women's aprons, the soldiers' stripes and trim on bending sleeves. Fix the garment or its weights, not the camera.
-- [ ] **Collars** read as shirt collars at conversation distance: neckline and coat junction reshaped on the existing garments.
+- [x] **Collars** read as shirt collars at conversation distance: neckline and coat junction reshaped on the existing garments. (PR #2165 edges and layering; PR #2171 John Glessner's white standing collar and Frances Glessner's cream lace.)
 - [x] **Seats**: no trousers tracing the buttock cleft on any figure in motion (the 1812 settlers are done by #1933; check the rest).
 - [x] **Coat tails sway** on people who walk in coats, as the drivers' spring tails already do (T-3409).
 - [x] **The six-role catalogue reviewed**: one paired still per role at 3 m and 10 m beside a dated period photograph or plate (the T-3417 rig), differences listed candidly.
