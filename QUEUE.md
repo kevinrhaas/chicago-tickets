@@ -47,6 +47,7 @@
 T-3594 — Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), and its match records to matches
 T-3636 — Dev's mobile smoke stage 1-2 is red on five wagon and yard checks since the T-3558 wagon change (yard goods, Green Tree yard wagons, town wagon spread, type mix, dealt slew)
 T-3638 — Dev's content-build smoke (mobile, 14) is red on two key checks: 'Space inspects on foot instead of lifting off' (flying false, inspected false) and 'neither key fires while typing in Go-to' (E typed with Go-to open inspects nothing); dev run 44076624959 and #2148's build 44092240737 fail the identical pair, 143 passed / 2 failed
+T-3641 — PR gate part 7/8 is intermittently red on the Catalogue Brougham check (T-3084): brougham_v20/check.py 'far: every triangle re-derives' fails on some CI runners, passes on rerun and locally
 T-3637 — Dev's mobile smoke stage 15 is intermittently red on zero page errors: THREE.GLTFLoader couldn't load texture blob:… URLs after the Jump checks
 # Glessner (owner photo markup, 2026-11-05), up from 8b's foot.
 # The owner's photo reworks of 1919, 1936 and 2009 Prairie (2026-11-03/04), already claimed, up from band 7.
