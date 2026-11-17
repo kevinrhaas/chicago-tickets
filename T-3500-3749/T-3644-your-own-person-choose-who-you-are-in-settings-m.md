@@ -1,7 +1,7 @@
 ---
 id: T-3644
 title: Your own person: choose who you are in Settings (man or woman, complexion, face, hair, age, dress per year), worn in the saddle; the start of a person builder
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/17/2026, 11:35:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-17T17:35:57.225Z
 decision: null
 decision_answer: null
 ---
