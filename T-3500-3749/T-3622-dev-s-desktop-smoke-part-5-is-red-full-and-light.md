@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 Dev's desktop smoke part 5 is red: 'full' and 'light' are over their triangle ceilings at West prairie (3,513,901 of 3,495,000; 1,225,393 of 1,190,000).
@@ -45,3 +45,5 @@ A follow-up goes to the foot of band 9 unless dev's gate is red on it or the bui
 **Released 2026-11-16** (claim of run 11/16/2026, 2:32:07 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43948981037): waiting on the owner's Light-floor ruling (decision pending); readings and both options are in the ticket
 
 **Readings since the question (2026-11-17, a finish-only run's re-read of CI's content builds):** the stand has kept climbing, so option (a)'s numbers are already short. On unrelated PR #2125's head 69e93b9d2 (job 133684045691, dev plus one Prairie house): Full 3,553,405, Balanced 2,709,257, Light 1,283,731, so Light is past (a)'s proposed 1,270,000. On PR #2129's head f01e96648 (job 133734529895, the Fort Dearborn monument's sash and hanging cloth on dev): Full 3,584,847, Balanced 2,728,359, Light 1,287,071. That monument stands in view of the West prairie stand and adds about 31,000 Full, 19,000 Balanced and 3,000 Light, which is over (a)'s proposed Full 3,575,000 as well. Whatever is ruled, the ceilings need re-deriving from the readings on the day (tools/measure_detail_ceilings.mjs), not from c8649f3cd's. #2113, #2102 and #2129 wait on this ticket.
+
+**Owner answer (2026-11-16, via Manager):** (a) Raise it: Light 1,190,000 -> 1,270,000 (1,251,432 plus T-0672's 15,791 headroom, rounded up to 5,000), with Full -> 3,575,000 and Balanced -> 2,730,000 on the same margins. Nothing in the scene changes, and dev's part 5 goes green in one PR.
