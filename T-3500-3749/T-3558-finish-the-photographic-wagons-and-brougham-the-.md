@@ -1,7 +1,7 @@
 ---
 id: T-3558
 title: Finish the photographic wagons and Brougham: the farm-box master qualified, the covered wagons upgraded but kept distinct, and the Brougham matched to its 1893 plate and qualified in town
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-17
 pr: 2140
 claimed_by: run 11/16/2026, 8:42:13 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-17T08:15:59Z
 claimed_run: null
 claimed_at: 2026-11-17T02:42:14.946Z
 decision: null
