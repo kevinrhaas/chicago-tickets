@@ -1,7 +1,7 @@
 ---
 id: T-1916
 title: Refine 2013 Reid classical house
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-16
 pr: null
 claimed_by: run 11/16/2026, 6:08:47 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-17T00:12:22.034Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43984123522
 claimed_at: 2026-11-17T00:08:47.658Z
 decision: null

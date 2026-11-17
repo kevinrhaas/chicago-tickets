@@ -72,7 +72,8 @@ T-1935 — Refine west 1800-1900 service buildings and Glessner boundary
 T-3608 — Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
 T-3615 — 2011 Prairie onto K01 from its two pictures: rock-faced front, arched door, dormer and round turret
 T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
-T-1916 — Refine 2013 Reid classical house
+T-3625 — 2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, pilastered tripartite upper lights under an arched head, oval lights, dentilled cornice and roof balustrade
+T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate camera's remaining differences and the image-gate sign-off
 T-1917 — Refine 2017, 2021 High and 2027 Cobb-associated group
 T-1918 — Refine 2031, 2033 and 2035 limestone row
 T-1911 — Refine 2036 Buckingham corner house
