@@ -1,7 +1,7 @@
 ---
 id: T-3625
 title: 2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, pilastered tripartite upper lights under an arched head, oval lights, dentilled cornice and roof balustrade
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1916
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/16/2026, 6:12:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43984123522
+claimed_at: 2026-11-17T00:12:26.989Z
 decision: null
 decision_answer: null
 ---
