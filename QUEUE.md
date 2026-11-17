@@ -168,3 +168,4 @@ T-3642 — Refresh the first-time tour (Field Check) for today's interface: Inte
 T-3643 — Performance pass: no shader recompiles mid-walk, fewer GPU stalls at boot, nothing drawn differently
 T-3644 — Your own person: choose who you are in Settings (man or woman, complexion, face, hair, age, dress per year), worn in the saddle; the start of a person builder
 T-3645 — Reading level by age: Settings choice, jaunt filter, level tabs on every card
+T-3646 — Observatory year cards play their clips on an iPhone in Low Power Mode
