@@ -1,7 +1,7 @@
 ---
 id: T-3639
 title: 1812 frames jumpy at the Kinzie household by the boat
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2154
 claimed_by: run 11/17/2026, 9:44:22 AM CT
 blocked_on: null
 needs_bake: false
