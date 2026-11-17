@@ -73,3 +73,13 @@ Tack by year, and the riders:
 ![riders 1904 and 1835](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-riders-1904-1835.jpg?raw=true)
 
 ![rider 1812](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-rider-1812-side-front.jpg?raw=true)
+
+## Follow-on (2026-11-17): PR #2144 into dev — riders on rounds, stabled horses, canter and gallop
+
+Kevin asked for this in the same thread, so it is noted here and has no ticket of its own.
+- Riders walk rounds of the town by hour and season: seven in 1835, four in 1812, one groom in 1904 (`tools/lay_town_riders.mjs`). Ten saddle horses stand at named stables, and each can be mounted.
+- The horse now canters and gallops (`tools/horse_walk_v2.mjs`). Shift urges a ridden horse or a driven team from a trot to a canter to a gallop. Town riders and teams walk unless Interact asks them on.
+- Left open: figures in coats with skirts, blankets or breechcloths do not ride yet, because the cloth hangs through the horse.
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/399536abb03d1c728a5d9854d5105c72a0ac3e58/evidence/town-riders-3560/1835-rider-beside-wagon.png?raw=true" width="640">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/399536abb03d1c728a5d9854d5105c72a0ac3e58/evidence/town-riders-3560/1835-ridden-canter.png?raw=true" width="640">
