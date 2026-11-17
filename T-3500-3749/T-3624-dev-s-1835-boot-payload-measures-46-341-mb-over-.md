@@ -1,7 +1,7 @@
 ---
 id: T-3624
 title: dev's 1835 boot payload measures 46.341 MB over its 45.7 MB budget, so every PR's content build is red on smoke (desktop, 1-2) — measure what grew since T-3609's 45.437 reading and re-budget or cut
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-16
 closed: null
-pr: null
+pr: 2126
 claimed_by: run 11/16/2026, 5:44:39 PM CT
 blocked_on: null
 needs_bake: false
