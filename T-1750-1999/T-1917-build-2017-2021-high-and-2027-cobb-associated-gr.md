@@ -1,7 +1,7 @@
 ---
 id: T-1917
 title: Refine 2017, 2021 High and 2027 Cobb-associated group
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/17/2026, 6:10:00 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44079072792
+claimed_at: 2026-11-17T12:10:01.254Z
 decision: null
 decision_answer: null
 ---
