@@ -162,7 +162,6 @@ T-3553 — Finish people's clothing: no breakthrough in motion, better collars a
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
-T-3639 — 1812 frames jumpy at the Kinzie household by the boat
 T-3640 — Jaunts menu filters by age band, and every card shows its age band
 T-3642 — Refresh the first-time tour (Field Check) for today's interface: Interact, Jaunts by grade, labelled rail
 T-3643 — Performance pass: no shader recompiles mid-walk, fewer GPU stalls at boot, nothing drawn differently
