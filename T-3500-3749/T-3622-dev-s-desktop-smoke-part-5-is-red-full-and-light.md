@@ -1,7 +1,7 @@
 ---
 id: T-3622
 title: Dev's desktop smoke part 5 is red: 'full' and 'light' are over their triangle ceilings at West prairie (3,513,901 of 3,495,000; 1,225,393 of 1,190,000)
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-16
 closed: null
-pr: null
+pr: 2138
 claimed_by: run 11/16/2026, 9:43:41 PM CT
 blocked_on: null
 needs_bake: false
