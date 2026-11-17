@@ -1,6 +1,6 @@
 ---
 id: T-3626
-title: 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate camera's remaining differences and the image-gate sign-off
+title: 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 state: open
 epic: SOUTH_TIME
 requested_by: owner
@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate camera's remaining differences and the image-gate sign-off.
+2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off.
 
 Piece 2 of 2 of **T-1916 — Refine 2013 Reid classical house**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 

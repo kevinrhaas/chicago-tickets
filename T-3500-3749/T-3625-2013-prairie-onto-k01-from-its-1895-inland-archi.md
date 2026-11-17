@@ -1,6 +1,6 @@
 ---
 id: T-3625
-title: 2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, pilastered tripartite upper lights under an arched head, oval lights, dentilled cornice and roof balustrade
+title: 2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, three-light upper storeys under an arched head, cornice and roof balustrade
 state: claimed
 epic: SOUTH_TIME
 requested_by: owner
@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, pilastered tripartite upper lights under an arched head, oval lights, dentilled cornice and roof balustrade.
+2013 Prairie onto K01 from its 1895 Inland Architect plate: the sheet's 7.6 m fireproof front block, Ionic portico and balcony, capped ground-floor lights, three-light upper storeys under an arched head, cornice and roof balustrade.
 
 Piece 1 of 2 of **T-1916 — Refine 2013 Reid classical house**, split because the parent needed more than one run's demonstration to be done. The parent keeps the full ask and its links; this ticket owns one slice of it.
 
