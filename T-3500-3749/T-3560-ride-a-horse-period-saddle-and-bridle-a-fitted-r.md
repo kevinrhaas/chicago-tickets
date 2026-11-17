@@ -37,7 +37,39 @@ Kevin asked for the people, horse and carriage tickets to be consolidated into a
 
 **Acceptance:** (the definition of done, never weakened to pass)
 
-- [ ] A period riding saddle, bridle and stirrups fitted to the existing horse, with eligibility by year kept apart (1812, 1835, 1904).
-- [ ] A portable-human rider seated in the saddle, feet in the stirrups and hands on the reins, moving with the horse at walk and trot without clipping.
-- [ ] The visitor mounts, rides, steers and dismounts by keyboard and touch, with safe mount and dismount spots, reduced motion respected, and no stranded camera on reload or a year switch.
-- [ ] Desktop and phone (390×780) clip in a real scene, with frame cost.
+- [x] A period riding saddle, bridle and stirrups fitted to the existing horse, with eligibility by year kept apart (1812, 1835, 1904).
+- [x] A portable-human rider seated in the saddle, feet in the stirrups and hands on the reins, moving with the horse at walk and trot without clipping.
+- [x] The visitor mounts, rides, steers and dismounts by keyboard and touch, with safe mount and dismount spots, reduced motion respected, and no stranded camera on reload or a year switch.
+- [x] Desktop and phone (390×780) clip in a real scene, with frame cost.
+
+## Done (2026-11-17): PR #2134 on dev
+
+Merged into dev in kevinrhaas/chicago#2134 (liberty L-riding-tack-3560), with T-3559.
+
+A saddled horse stands near where you arrive in 1812, 1835 and 1904. Interact on it to Mount. W walks, Shift+W trots, S pulls up (hold it to back up), A/D turn. On a phone the stick does all of this. V switches between the view from behind and the view from the saddle. Get down is on the travel bar and in Interact, and sets you on clear ground beside the horse. The horse only goes where you could stand. Reduced motion keeps the saddle view level. Riding ends on Go to, Follow and flying, and nothing is saved, so a reload or a year switch starts you on your feet.
+
+The tack is fitted to the horse's own coat. Each year has its own: 1812 a hunting-pattern saddle on a blanket with a crupper, 1835 a hunting saddle on a square cloth, 1904 a flat saddle, numnah, breastplate and double bridle. The rider is posed into the saddle every frame. `tools/test_riding.mjs` finds 0 of about 10,000 skin points per year more than 1 cm inside the horse, at 8 phases of walk and trot.
+
+Frame cost (SwiftShader): the ride's update takes 0.66 ms a frame on phone and 3.8 ms on desktop (the desktop figure includes the rider's first build). The horse, rider and tack draw 36 meshes and 33,470 triangles. There were 0 page errors.
+
+1835, desktop: standing, mounted, at the trot, from the saddle:
+
+![1835 standing](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1835-desktop-0-stood.jpg?raw=true)
+
+![1835 mounted](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1835-desktop-1-mounted.jpg?raw=true)
+
+![1835 trot](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1835-desktop-3-trot.jpg?raw=true)
+
+![1835 saddle view](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1835-desktop-4-saddle.jpg?raw=true)
+
+1904, phone 390×780: standing, mounted, trotting, from the saddle, down again:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1904-phone-0-stood.jpg?raw=true" width="180" alt="t3560-1904-phone-0-stood"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1904-phone-1-mounted.jpg?raw=true" width="180" alt="t3560-1904-phone-1-mounted"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1904-phone-3-trot.jpg?raw=true" width="180" alt="t3560-1904-phone-3-trot"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1904-phone-4-saddle.jpg?raw=true" width="180" alt="t3560-1904-phone-4-saddle"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-1904-phone-5-down.jpg?raw=true" width="180" alt="t3560-1904-phone-5-down">
+
+Tack by year, and the riders:
+
+![tack by year](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-tack-by-year.jpg?raw=true)
+
+![riders 1904 and 1835](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-riders-1904-1835.jpg?raw=true)
+
+![rider 1812](https://github.com/kevinrhaas/chicago-evidence/blob/9c8fe6d050e61160063c90f204faf00b07f6fe4b/evidence/horse-riding-3559-3560/t3560-rider-1812-side-front.jpg?raw=true)
