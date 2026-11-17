@@ -1,7 +1,7 @@
 ---
 id: T-3633
 title: 2021 Prairie, the High house, onto K01 from its Chicagology photograph: the steep front gable over the three-storey front block, the round corner turret and its cone, the arched entry and high stoop, the set-back side wing under its own gable, stone basement and the tall chimney
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1917
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2152
 claimed_by: run 11/17/2026, 6:11:05 AM CT
 blocked_on: null
 needs_bake: false
