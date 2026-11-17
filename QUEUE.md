@@ -138,8 +138,6 @@ T-3555 — A living town at a phone's cost: far people as impostor cards, middle
 T-3558 — Finish the photographic wagons and Brougham: the farm-box master qualified, the covered wagons upgraded but kept distinct, and the Brougham matched to its 1893 plate and qualified in town
 
 # --- 8E. PERIOD HORSES AND GEAR — the photographic horse and its trot, then riding (epic T-2798)
-T-3559 — Finish the photographic horse: near anatomy and coat against cleared views, near, mid and far exports, and a grounded trot beside the delivered walk
-T-3560 — Ride a horse: period saddle and bridle, a fitted rider at walk and trot, and mount, steer and dismount by keyboard and touch
 
 # --- 8. UNREAL DELIVERY — LOCAL / QUALIFIED UNREAL ONLY, NOT WORKABLE BY THE REMOTE WEB WORKER (programme T-1356)
 # Commented holds, never claimable. Unblock only when every dependency AND a capable executor are proven.

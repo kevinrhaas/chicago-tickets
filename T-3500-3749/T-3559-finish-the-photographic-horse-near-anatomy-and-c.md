@@ -1,7 +1,7 @@
 ---
 id: T-3559
 title: Finish the photographic horse: near anatomy and coat against cleared views, near, mid and far exports, and a grounded trot beside the delivered walk
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: null
+closed: 2026-11-16
 pr: 2134
 claimed_by: run 11/16/2026, 8:41:16 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-17T05:01:23Z
 claimed_run: null
 claimed_at: 2026-11-17T02:41:17.837Z
 decision: null
