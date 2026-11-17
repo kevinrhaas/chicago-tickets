@@ -1,7 +1,7 @@
 ---
 id: T-3633
 title: 2021 Prairie, the High house, onto K01 from its Chicagology photograph: the steep front gable over the three-storey front block, the round corner turret and its cone, the arched entry and high stoop, the set-back side wing under its own gable, stone basement and the tall chimney
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/17/2026, 6:11:05 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44079072792
+claimed_at: 2026-11-17T12:11:06.564Z
 decision: null
 decision_answer: null
 ---
