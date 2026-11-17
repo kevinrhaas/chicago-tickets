@@ -1,7 +1,7 @@
 ---
 id: T-3594
 title: Fort Dearborn monument's figures modelled past the rigs to the sculpture (faces, hair, drapery and cloak, ornaments and weapons as sculpted), and its match records to matches
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: T-3589
 opened: 2026-11-13
 closed: null
 pr: null
-claimed_by: run 11/17/2026, 6:04:51 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44077543341
-claimed_at: 2026-11-17T12:04:52.024Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -51,3 +51,5 @@ T-3589 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-15** (claim of run 11/15/2026, 9:03:51 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43793878808): PR #2096 (resume, gate still running) models the hair: Black Partridge's long lock falling from under his band behind his neck to the back of his left shoulder, and the warrior's curl past his cheek. Still open in both group match records: the sculpted faces, and the dress of the warrior (the fringed sash at his belt) and the surgeon. The image gate keeps the ticket open until those match.
 
 **Released 2026-11-16** (claim of run 11/16/2026, 5:29:43 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/43978125017): PR #2129 (resume, gate still running) models the warrior's sash: a broad band wrapped round his hips, its foot sloping down to his right hip with the fringed ends flying west out of it, and the cloth hanging from it at his right hip (strands at its foot) and beside his raised thigh, in place of the rig's thin breechcloth. Still open in both group match records: the sculpted faces and the surgeon's dress. The image gate keeps the ticket open until those match.
+
+**Released 2026-11-17** (claim of run 11/17/2026, 6:04:51 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44077543341): PR #2147 models the surgeon's pantaloons: loose heavy cloth on both legs from the hip past the knee to the boot's top, creased round and across the leg and gathered over the boot, in place of the rig's tight ones (read on ICHi-19208 and Taylor's print). Still open in both group match records: the sculpted faces. The image gate keeps the ticket open until those match.
