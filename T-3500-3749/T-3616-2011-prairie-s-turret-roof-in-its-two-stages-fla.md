@@ -1,7 +1,7 @@
 ---
 id: T-3616
 title: 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1915
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: run 11/17/2026, 6:10:45 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44079086480
-claimed_at: 2026-11-17T12:10:46.372Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -39,3 +39,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1915 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-17** (claim of run 11/17/2026, 6:10:45 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44079086480): PR #2150 ships the two-stage cap (K08 roof.upper), the turret on the sheet's 1.2 m bow and the Reid plate's camera, but the sign-off is not reached: both 2011 match records hold one open gap each from K08 limits — the turret's band/second-storey lights 0.3-0.55 m south of the photograph's (K08 refuses a light nearer the drum's junction with the front) and the plate's three south-side band lights (one tower's 7,000 light-tier triangles hold three band lights). Closing needs either a K08 change (lights nearer an inset tower's junction; a cheaper band light) or a budget ruling.
