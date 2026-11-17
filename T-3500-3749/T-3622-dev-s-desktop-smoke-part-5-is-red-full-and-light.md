@@ -1,7 +1,7 @@
 ---
 id: T-3622
 title: Dev's desktop smoke part 5 is red: 'full' and 'light' are over their triangle ceilings at West prairie (3,513,901 of 3,495,000; 1,225,393 of 1,190,000)
-state: review
+state: done
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-16
-closed: null
+closed: 2026-11-17
 pr: 2138
 claimed_by: run 11/16/2026, 9:43:41 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-17T06:40:20Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44011437912
 claimed_at: 2026-11-17T03:43:42.243Z
 decision: answered
