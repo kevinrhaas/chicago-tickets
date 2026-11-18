@@ -32,6 +32,42 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Current recovery checkpoint — 18 November 2026, 20:31 UTC
+
+Latest pushed code head is `03ecd9678e15988abe44c50e27c2bd9fec569530`, PR #2197 still
+draft. Runtime remains 6c83e8cf9. Source partitions 1–6 have passed locally; 7–8 are
+running sequentially with four workers and no full browsers. Part 5 passed 175 checks
+and part 6 passed 174. CI on previous head found the four new gate tests lacked rows
+in `tools/step_isolation.json`. All four were genuinely measured with
+`measure_step_isolation.mjs --tool`; each wrote nothing in-tree. Audit and self-tests
+pass, and complete local part 6 now passes. Original CI failure log is preserved at
+`/tmp/t3656-ci-part6-step-isolation-failure.log` (old run 44384392510, job135087069672).
+
+ALL FIFTEEN published mobile stages are now green: local 1–12,14,15 plus unchanged
+GitHub stage 13 run `44385930725`, job `135090381320`, which passed157/0 in8m28 with
+zero page errors. Combined staged runs have921 passing assertions (726 staged and195
+repeated scaffolding). Original capped local13 remains incomplete historical evidence,
+not a pass. Current source CI is `44390718841`; current moving/upload CI is44390718901.
+Desktop renderer run44372747109 remains in progress on identical runtime. New-head CI
+must pass; superseded CI was cancelled and is not used to satisfy the new head.
+
+Final actual published photo/person/notebook/link flows pass at BOTH390×780 and1280×800,
+five checks each: canonical person citations, normal-frame bounded photo, actual Save
+to notebook, note edit, exact photo/note/citations persistence on real shared navigation,
+person/view restore and saved jaunt retained inactive. Zero errors/404s/overflow. Both
+browsers closed. Evidence is pushed at2bbbc015cb3f0d865408a19d5405e612ce09d616 under the
+same evidence folder; raw reports, hashes, harnesses and screenshots are retained.
+
+Follow-up lanes are fully pushed and browser-fixture green: hunt final45f822b6e,
+accessibility final8c291d0d8174f09278bcdf2dbf0c03d4128b10c6. They include real multi-touch
+zoom, stable GPU buffer, magnified two-thumb roles and native horizontal panning fixes,
+plus modal keyboard/isolation/cleanup. Hunt fixture covers five rounds with real catalog
+but tiny test images. Full town/release gates for the combined group remain pending.
+The photo agent is preparing `steward/t3657-t3658-hunt-accessibility` in chicago-hunt
+from integration base03ecd9678. Before opening its DEV PR, first merge2197, then rebase
+ONLY commits after03ecd9678 onto actual origin/dev; do not reintroduce the classroom
+commits or folded changelog. First PR merge remains gated, no production promotion.
+
 ## Mobile stage 13 completion path — 18 November 2026, 20:00 UTC
 
 The quiet local stage 13 reached 149 passing assertions and then hit the unchanged
