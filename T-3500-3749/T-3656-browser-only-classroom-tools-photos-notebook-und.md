@@ -32,7 +32,45 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 18 November 2026, 20:44 UTC
+## Current recovery checkpoint — 18 November 2026, 21:05 UTC
+
+Latest pushed first-delivery head is `45b35a2c7d910ec1e73f5a60489b1b22c4aff278` in
+draft PR #2197. This changes runtime: caption fitting now uses bounded text measurements,
+notebook drafts drop confirmed deleted IDs, classroom CSS loads on view mount, and the
+shared-person callback uses an explicit `person` alias for the sidecar scanner.
+
+Parts 1–7 passed before these resource repairs. Part 8 failed the person alias scan and
+the era-page duplicate threshold (65,638 bytes). The publisher now confirms 65,534 bytes
+after removing 104 bytes of global stylesheet links; full partition 8 is rerunning.
+Preserve `/tmp/t3656-validator-failure-part8of8.log`. Latest-head source CI is
+`44397687385`, moving/upload CI is `44397687404`. Superseded bb593 source was force-cancelled
+after its aggregate stayed queued. Merge is still blocked on required green checks.
+
+Actual Glessner caption Canvas2D measurements fell from 9,241 calls / 2–5.6 seconds to
+17 calls / 3.6–4.9 ms, preserving full metadata. These are canvas-only local timings.
+Browser regressions cover 120 cross-tab deleted/recreated notebook IDs, preserved drafts
+on storage errors, actual lazy CSS, deduplication and iframe isolation. Evidence is in
+`/tmp/t3658-resource-review/` and `/tmp/t3656-notebook-lazy-css.log`; code/tests are committed.
+
+Old mobile all-15 and final photo/notebook reports cover runtime 6c83e8cf9. The baseline
+desktop run `44372747109` is still in progress. Do not call those exact-current runtime
+checks after this patch. Prepared fresh first-delivery harness:
+`/tmp/t3656-resource-photo-notebook-smoke.mjs`, with QA_MANIFEST support. Once source8
+finishes and CPU is quiet, snapshot the official mirror into
+`/workspace/chicago-classroom-final-published`, verify authored files against Git with
+`/tmp/t3656-resource-manifest.py`, and run each width to separate new report folders.
+Original frozen build, manifest, harness and reports remain intact.
+
+Combined follow-up branch remains based on `03ecd9678`. It includes docked-Home image
+cleanup `2f42e3c60` and the resource-fix checkpoint `e579424f0`; hunt CSS is being made lazy
+before final integration. Root must port the first delivery's latest style/person/tour
+repairs before its full-town tests. After #2197 merges, rebase ONLY commits after 03ecd
+onto actual DEV, preserving hunt/accessibility changes and avoiding duplicate first-delivery
+history/changelog. No production promotion or new service activation.
+
+Evidence checkpoint is `d57c0fdbd13c56995bc2af922d9cadb30e1daab3` in chicago-evidence.
+
+## Previous recovery checkpoint — 18 November 2026, 20:44 UTC
 
 Latest pushed code is `bb59311bfba32067a6f4ca3c8175deea2f05af38`; PR #2197 remains draft.
 Runtime is unchanged from 6c83e8cf9. Local source partition 7 failed one test because its
