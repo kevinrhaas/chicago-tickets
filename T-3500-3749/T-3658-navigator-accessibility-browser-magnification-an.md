@@ -1,7 +1,7 @@
 ---
 id: T-3658
 title: Navigator accessibility: browser magnification and keyboard-safe picture dialogs
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-18
 closed: null
-pr: null
+pr: 2199
 claimed_by: run 11/18/2026, 1:41:34 PM CT
 blocked_on: null
 needs_bake: false
