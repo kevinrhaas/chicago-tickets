@@ -32,7 +32,50 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 18 November 2026, 21:05 UTC
+## Current recovery checkpoint — 18 November 2026, 22:03 UTC
+
+Both deliveries are pushed and visible as draft PRs into DEV: #2197 at
+`7019f986b3773a27a3acc1b47135fa14f9086aa3` and dependent #2199 at
+`4a2ee67dcbc3067fd8e18fb432098822361f2476`. Neither has merged. The owner explicitly
+requested periodic PRs, authorized appropriate budget increases, and authorized merges
+to DEV when green. No further permission is needed for that scope.
+
+The first delivery's resource repairs passed complete local source partition 8 (174
+checks) and fresh published photo/notebook/share integration at 390x780 and 1280x800 on
+45b35a2c7, including actual lazy stylesheet loading and zero page errors/404s/overflow.
+The old full desktop renderer run ended at its 150-minute cap during stage 12 with 429
+passing assertions and one real Full triangle-budget failure. It is incomplete, not green.
+Its measured 3,607,087 peak supports the authorized Full allowance 3,630,000 (+0.69%)
+using the established margin. Other tiers, draw calls and geometry are unchanged.
+
+Current CI source command cap is 900 seconds, up from 600 after a partition that previously
+passed in 565.647 seconds hit 600 without an assertion failure. All eight partitions remain
+mandatory; the guard suite passes 50 checks including 14 negative controls. Local calls
+remain bounded at 595 seconds plus five seconds to kill. Exact-head source CI is
+44405083055 and moving/upload CI is 44405083166. At this checkpoint source part 2 is green;
+others are running/queued. Fresh desktop renderer stages 1,2,4,5,7,8,9,12,14,15 are queued
+on 7019f986b; stage 13 is running in 44403522127 on runtime-identical ae4e0bdd7. Local
+desktop 3,6,10,11 run sequentially on the frozen ae4 mirror. A fresh mobile13 dispatch is
+accepted on 7019f986b; earlier mobile all-15 results predate the resource repairs. Preserve
+the capped local desktop5 log; it did not reach the sweep or final PASS.
+
+Follow-up #2199 contains the daily photo hunt and targeted browser zoom/dialog accessibility.
+Final actual-town integration passes both widths on feature commit 5674d33d, including all
+five real photo responses, guarded destinations, Glessner arrival, share/score persistence,
+native mobile pinch/pan, and photo/notebook integration. Later commits port only the parent
+budget/CI changes. Preflight on 4a2ee67d passed source part 1/16 (89 checks), changelog and
+ticket metadata; this is not a complete source gate. Its CI is source 44407002205 and
+moving/upload 44407002229. After #2197 merges, rebase only commits after boundary
+03ecd9678e15988abe44c50e27c2bd9fec569530 onto actual DEV, drop duplicate parent fixes and
+preserve DEV's folded changelog. PR #2199 stays draft until that and its gates finish.
+
+All evidence through the final native follow-up is pushed at chicago-evidence
+477191a886b285f53eda33703b8d24f52e116517; the CI-budget, capped desktop5 and preflight
+receipts are being added separately. Current local logs are /tmp/t3656-current-desktop-N.log
+and /tmp/t3657-t3658-preflight-part1of16*. Continue gates, repair actual failures, and merge
+green PRs to DEV. No production promotion or new server/service activation.
+
+## Previous recovery checkpoint — 18 November 2026, 21:05 UTC
 
 Latest pushed first-delivery head is `45b35a2c7d910ec1e73f5a60489b1b22c4aff278` in
 draft PR #2197. This changes runtime: caption fitting now uses bounded text measurements,
