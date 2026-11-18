@@ -30,3 +30,24 @@ Browser-only classroom tools: photos, notebook, understanding checks and lesson 
 Start the top no-new-server items in parallel and account for the whole attached list. Prioritize #2 photo/share, #3 field notebook, #4 ungraded understanding checks and #5 lesson guides. Deprioritize #1: Navigator session choices may eventually replace/release the current session or explicitly open a new browser tab; never automatically retain multiple worlds. Time travel and Google view already exist; device resource use is a concern.
 
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
+
+
+## Implementation progress — 18 November 2026
+
+Four parallel worktrees produced the first photo/share, local notebook, cited-reflection
+and group-lesson implementation, integrated locally on `steward/t3656-browser-classroom`
+in `/workspace/chicago`, based on dev `bec8fd8d3`. No production deployment or shared-service
+activation. Full list disposition: `chicago/4d/docs/CLASSROOM-FEATURES.md`.
+
+All four focused logic suites pass on Node 22. Checks cover 240 available jaunt tellings,
+five bands, 192 school tellings and all 10 available year/group lesson combinations.
+Mobile/desktop browser fixtures verify notebook and lesson export/print, reflection UI,
+keyboard focus, safe source links and no overflow. Actual town checks verify notebook
+save/export and completed-jaunt reflections on phone, plus position/season restoration
+from a shared URL; fresh published desktop notebook and lesson/PDF flows also pass.
+
+This is not marked done: changes remain uncommitted while release verification is pending.
+The full four-part repository gate and full published renderer smoke have not passed.
+Node 22 was installed locally after the workspace's Node 24 hit the existing native-human
+geometry runtime assertion; a fresh first-part check is running. STATUS.md records the
+final validation state and remaining limits. No broader server-backed features are claimed.
