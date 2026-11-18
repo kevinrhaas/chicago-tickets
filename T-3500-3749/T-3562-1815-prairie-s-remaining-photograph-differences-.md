@@ -1,7 +1,7 @@
 ---
 id: T-3562
 title: 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1893
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: run 11/18/2026, 3:46:18 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44403147686
-claimed_at: 2026-11-18T21:46:18.337Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,5 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-17** (claim of run 11/17/2026, 5:12:33 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44194800399): PR #2173 (resume, CI gate queued at hand-off; local check.sh 1/8, 2/8, 4/8 green, 3/8's only red dev's T-3553 coat test) builds 1815's landing on north across the pavilion's front to a stone post from grade, open beneath to the basement doorway, the rail run on to the post (K07 cheek_form.wing; all other K01/K12/K13/K16 assets byte-identical); the pavilion's basement light, read in that dark, taken out; square-on record's doorway fixed, oblique's not shown; #2151's corner-bay judgments, dropped by its dev merge, restored. Still open: the pavilion's full 4 m width with the door (dentil band, shoulders, pediment width), the curb's height and deck, a possible fourth pot, the bay's place on the oblique, and which front stood in 1904. Not split: the gate stays on this ticket.
 
 **Released 2026-11-18** (claim of run 11/18/2026, 10:10:14 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44340797594): PR #2195 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) builds 1815's mansard deck at its record's 10 degrees: k01_frontage_params read the door hood's pediment pitch (31.7) into the roof's own pitch local, so the deck rose dark over the cresting; a loggia's column spacing did the same to Keith 1808's 1886 deck (0.36 for 2). Both locals renamed, the builder now refuses a roof pitch other than the record's; both houses rebaked (no other asset moved). Square-on record: the deck over the curb fixed, its 0.2 m curb within tolerance. Still open: the pavilion's full 4 m width with the door (dentil band, shoulders, pediment width), the curb's height on the oblique, a possible fourth pot, the bay's place on the oblique, and which front stood in 1904. Not split: the gate stays on this ticket.
+
+**Released 2026-11-18** (claim of run 11/18/2026, 3:46:18 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44403147686): PR #2200 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) builds the oblique print's fourth pot on 1815's south stack: the pale shape nearest the street read as the one pot seen whole (a rolled lip, its top in the row's perspective, lit where the three behind show only shaded slivers); the stack widened along the flank to 1.26 m (the least holding four K15 flues; the 1.1 m was read through the unsettled oblique camera), west face kept, flank dormer 0.07 m back to stay clear; this house only rebaked. Oblique record: fourth pot fixed; the bay item records that no single pinhole camera fits that print (30 points from both prints, 14-16 px rms, 40-60 px at the bay), so a camera re-solve will not settle the bay's place. Still open: the pavilion's full 4 m width with the door (dentil band, shoulders, pediment width), the curb's height on the oblique, the bay's place on the oblique, and which front stood in 1904. Not split: the gate stays on this ticket.
