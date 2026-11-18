@@ -1,7 +1,7 @@
 ---
 id: T-3636
 title: Dev's mobile smoke stage 1-2 is red on five wagon and yard checks since the T-3558 wagon change (yard goods, Green Tree yard wagons, town wagon spread, type mix, dealt slew)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-17
-closed: null
+closed: 2026-11-18
 pr: 2172
 claimed_by: run 11/17/2026, 5:31:07 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T07:34:35Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44197883418
 claimed_at: 2026-11-17T23:31:08.588Z
 decision: null

@@ -1,7 +1,7 @@
 ---
 id: T-3647
 title: Stage 15's page-error record says which step and which page each texture failure landed in, and the scene loader keeps the reason GLTFLoader drops (fetch refused, transcoder refused) in the problem list and a console warning
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3637
 opened: 2026-11-17
-closed: null
+closed: 2026-11-18
 pr: 2176
 claimed_by: run 11/17/2026, 6:56:51 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T07:21:57Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44202593731
 claimed_at: 2026-11-18T00:56:51.816Z
 decision: null
