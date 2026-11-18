@@ -32,6 +32,19 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Latest green coverage — 18 November 2026, 19:33 UTC
+
+PR2197 remains draft at pushed headcbf3408e0; no application source changed.
+Local source partitions1/8,2/8,3/8 are green (175,174,174checks). The complete3/8 rerun
+clears the ticket-layout issue. Part4/8 is running, then5–8; use three workers and pause
+between partitions when the smoke operator needs a second full world.
+
+All published mobile stages1–8 are green, including the unchanged quiet recovery retry.
+Stage9 is running. Full renderer workflows44372747109 (desktop) and44373274865 (mobile)
+are in progress on GitHub. Required PR gate44375593498 and moving-frames44375593479 were
+still queued at the last reading. Both earlier local issues are cleared; do not infer
+that the remaining queued/unrun stages have passed. Keep the PR draft until complete.
+
 ## Recovery test cleared — 18 November 2026, 19:26 UTC
 
 Unchanged official mobile6 passed in5m32s with source-check workers stopped:24checks,
