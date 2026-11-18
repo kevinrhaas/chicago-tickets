@@ -1,7 +1,7 @@
 ---
 id: T-3608
 title: Refine 2026 Prairie, the Louis Wahl house, to its 1874 Land Owner engraving (Second Empire, mansard and tower)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1910
 opened: 2026-11-15
-closed: null
+closed: 2026-11-18
 pr: 2111
 claimed_by: run 11/16/2026, 6:54:17 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T15:51:35Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/43869203697
 claimed_at: 2026-11-16T12:54:18.494Z
 decision: null
