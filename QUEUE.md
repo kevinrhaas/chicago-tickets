@@ -159,3 +159,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3654 — Build the 1871 citywide context baseline with varied buildings, streets and bridges
 T-3656 — Browser-only classroom tools: photos, notebook, understanding checks and lesson guides
 T-3657 — Where and when: a daily five-photo hunt from the licensed 1904 evidence
+T-3658 — Navigator accessibility: browser magnification and keyboard-safe picture dialogs
