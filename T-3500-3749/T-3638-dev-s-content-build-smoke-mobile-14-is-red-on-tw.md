@@ -1,7 +1,7 @@
 ---
 id: T-3638
 title: Dev's content-build smoke (mobile, 14) is red on two key checks: 'Space inspects on foot instead of lifting off' (flying false, inspected false) and 'neither key fires while typing in Go-to' (E typed with Go-to open inspects nothing); dev run 44076624959 and #2148's build 44092240737 fail the identical pair, 143 passed / 2 failed
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-17
-closed: null
+closed: 2026-11-18
 pr: 2181
 claimed_by: run 11/18/2026, 2:39:33 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T14:29:44Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44265125395
 claimed_at: 2026-11-18T08:39:33.926Z
 decision: null
