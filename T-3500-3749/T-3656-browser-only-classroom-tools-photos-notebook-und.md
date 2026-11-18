@@ -23,4 +23,10 @@ decision_answer: null
 
 Browser-only classroom tools: photos, notebook, understanding checks and lesson guides.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Demonstrate an entirely browser-local capture → notebook → cited jaunt reflection → printable group lesson workflow, with bounded photo memory/storage, explicit storage failures, keyboard-labelled controls and no new service. Shared URLs contain public scene context only. Check real catalogs, grades and source references, and report validation limits honestly.
+
+## Owner scope — 18 November 2026
+
+Start the top no-new-server items in parallel and account for the whole attached list. Prioritize #2 photo/share, #3 field notebook, #4 ungraded understanding checks and #5 lesson guides. Deprioritize #1: Navigator session choices may eventually replace/release the current session or explicitly open a new browser tab; never automatically retain multiple worlds. Time travel and Google view already exist; device resource use is a concern.
+
+The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
