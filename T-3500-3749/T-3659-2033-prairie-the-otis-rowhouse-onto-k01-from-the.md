@@ -1,7 +1,7 @@
 ---
 id: T-3659
 title: 2033 Prairie, the Otis rowhouse, onto K01 from the 1946 Walker Evans photographs: the narrow stone front, the full-height canted bay, carved segmental hoods, bracketed cornice, pedimented double-door hood, high stoop and iron boundary
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1918
 opened: 2026-11-18
 closed: null
-pr: null
+pr: 2203
 claimed_by: run 11/18/2026, 3:36:23 PM CT
 blocked_on: null
 needs_bake: false
