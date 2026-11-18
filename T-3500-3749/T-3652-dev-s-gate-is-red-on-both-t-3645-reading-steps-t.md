@@ -1,7 +1,7 @@
 ---
 id: T-3652
 title: Dev's gate is red on both T-3645 reading steps: two 1904 why-notes grew on dev (#2173, #2149) and their 8-10 retellings are keyed by the old words, so data/reading/1904.json is stale
-state: review
+state: withdrawn
 epic: META
 requested_by: steward
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-18
-closed: null
+closed: 2026-11-18
 pr: 2187
 claimed_by: run 11/18/2026, 6:04:02 AM CT
-blocked_on: null
+blocked_on: duplicate: #2184 (42d6e33df) landed the same re-key on dev while #2187 was gating, and #2186 keeps a house PR from turning dev red this way; dev's reading steps are green
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T13:24:15.835Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44296734583
 claimed_at: 2026-11-18T12:04:03.142Z
 decision: null
