@@ -52,6 +52,9 @@ this is not a low-end hardware performance certification.
 First repository partition passed all 347 steps. Final-tree partitions 1–4 are now being
 rerun at the committed checkpoint; part 4 invokes preflight. Full published renderer smoke
 stages 1–15 at both sizes is also running. Do not merge before the required checks pass.
+Desktop full published smoke (all 15 stages) is also running on GitHub at the exact
+checkpoint: https://github.com/kevinrhaas/chicago/actions/runs/44372747109 .
+Mobile stage 1 passed 95 checks with zero failures and page errors.
 Local logs: `/tmp/t3656-green-part{1,2,3,4}.log`; smoke `/tmp/t3656-renderer-*`.
 Frozen published build: `/workspace/chicago-classroom-published`.
 Focused photo reports: `/tmp/photo-town-{source,published}/report.json`;
