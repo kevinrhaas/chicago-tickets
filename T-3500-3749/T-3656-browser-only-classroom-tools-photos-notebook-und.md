@@ -32,7 +32,46 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — stage-13 pin repair, 18 November 2026
+## Current recovery checkpoint — 18 November 2026, 23:34 UTC
+
+The owner again requested periodic PR pushes and DEV merges when green. Both PRs remain
+pushed, draft and unmerged: #2197 at `5034a724d993abe0876a4db7bbfff02d2bb4da0a`,
+#2199 at `6ee1a689077839dd9923edbc80269dd2cbaccfb6`. GitHub CLI authentication is
+healthy again after the environment refresh; the connector fallback also works.
+
+Completed applicable renderer stages are desktop 1,2,3,4,6,7,8,9,10,11 and mobile 1,13.
+Each completed invocation includes final completion, zero page errors and vendor checks.
+Corrected mobile 13 passes all 157 checks. Corrected desktop 13 reached 153 printed
+passes before its 2,100-second cap during the final revisit, so it remains INCOMPLETE.
+The archived log is /tmp/t3656-corrected-desktop-13-2100s-incomplete.log. One retry with
+unchanged assertions, SMOKE_TIMING=1 and a 2,700+5-second limit is active in
+/tmp/t3656-corrected-desktop-13-2700s.log. Do not count a capped invocation as green.
+
+Exact-head source run 44412406486 remains queued. Exact-head moving frames in
+44412406478 has passed on synthetic merge 400ac5f8 (5034 into DEV 169404c9); upload
+remains active. Remaining desktop 5 was refreshed once from a wholly queued old-head
+run to exact-head run 44420604765; desktop 12,14,15 continue on the application-equivalent
+7019 cohort. Mobile 2–12,14,15 is queued as one range in 44418522036. After the local
+desktop retry, inspect that range before continuing locally: never duplicate it if running.
+
+Follow-up validation branch `qa/t3657-t3658-parent-pin` is pushed at
+`b501bfcbc9a9ecb38c7bed76efe35a48165b061b` in /workspace/chicago-followup-validation.
+It combines 6ee with the exact parent 5034 test-pin repair; runtime/assets/data/generators
+match 6ee byte-for-byte. Desktop stages 5 and 13 are running in 44415899803 and
+44415925432. Reuse is conditional on final runtime/data/renderer equality after the
+parent merges and the follow-up rebases; validate changed changelog coverage separately.
+The follow-up's source parts 2,3,6,7 have passed; its final exact-head gate remains required.
+
+Evidence is pushed through `859c704fdacb721ec813e9b75e52febaa6560c94` in
+chicago-evidence, with 222 artifact hashes checked. Latest local recovery pointers are
+/tmp/t3656-live-recovery.json and /tmp/t3656-current-local-stage-manifest.json.
+Keep the frozen primary published mirror untouched while the renderer is active. Finish
+the full gates, guarded-merge #2197 into DEV, then rebase only follow-up work after
+03ecd9678 onto actual DEV, preserving its folded changelog and dropping duplicate parent
+fixes. Complete final follow-up validation and merge #2199. No production promotion,
+new server purchase, or automatic additional world is authorized by this scope.
+
+## Previous recovery checkpoint — stage-13 pin repair, 18 November 2026
 
 PR #2197 is pushed at `5034a724d993abe0876a4db7bbfff02d2bb4da0a`; dependent
 PR #2199 is pushed at `6ee1a689077839dd9923edbc80269dd2cbaccfb6`. Both remain draft,
