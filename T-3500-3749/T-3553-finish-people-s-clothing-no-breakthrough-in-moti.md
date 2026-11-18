@@ -123,3 +123,16 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/b30d3903503ba555f3a9d13bdbe10562589491e4/evidence/T-3553-torch-boats/boarding-before-after.jpg?raw=true)
   Paddle, before and after:
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/b30d3903503ba555f3a9d13bdbe10562589491e4/evidence/T-3553-torch-boats/paddle-before.jpg?raw=true) ![](https://github.com/kevinrhaas/chicago-evidence/blob/b30d3903503ba555f3a9d13bdbe10562589491e4/evidence/T-3553-torch-boats/paddle-after.jpg?raw=true)
+
+## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
+
+Since dev d810b43f4 (#2165, `T-3553: collars, coats and sleeves hold together`), the
+`check.sh` step "A coat closes under the arm on every sleeved body and its back vent laps
+shut … (T-3553)" fails with `ERR_UNSUPPORTED_RESOLVE_REQUEST: Failed to resolve module
+specifier "./human-skeletons.js" from "data:text/javascript;base64,…"`.
+`tools/test_human_coat.mjs` loads `renderers/web/js/human-skirt.js` as a `data:` URL, and
+human-skirt.js now imports `./human-skeletons.js` (T-3639, #2154), which a `data:` URL
+cannot resolve. Reproduced standalone (`node tools/test_human_coat.mjs`, exit 1) on files
+byte-identical to dev. It reds `check.sh --part 3/4` for every PR merged up to dev, which
+holds chicago#2111 (T-3608) at `resume`. Fix: load the module from its file URL (or inline
+the import the way the test inlines the others).
