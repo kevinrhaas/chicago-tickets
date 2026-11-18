@@ -39,8 +39,12 @@ This third checkpoint changes only STATUS and verification records; runtime rema
 `6c83e8cf9`. Source partitions 1–4 and published mobile stages 1–12 are green. Source
 5–8 are deliberately paused for quiet mobile 13–15. Current exact-head PR workflows:
 source gate `44384392510`, moving frames `44384392451`; the push supersedes earlier
-PR CI, whose partial results cannot satisfy the new head. Full renderer workflow IDs
-remain `44372747109` desktop and `44373274865` mobile, on unchanged runtime 6c83.
+PR CI, whose partial results cannot satisfy the new head. Full desktop renderer run `44372747109` continues on unchanged runtime 6c83.
+Duplicate remote mobile run `44373274865` was deliberately cancelled to free runner
+capacity; it is not counted as a completed pass. Local staged mobile coverage remains
+the completion path. Superseded source run `44375593498` was force-cancelled after its
+always-run aggregate job remained queued and held the newer run in concurrency-pending;
+only this session’s superseded run was cancelled.
 PR #2197 remains draft and unmerged. The corrected evidence scope is in STATUS and the
 PR body; later receipts go to the evidence repo/ticket to avoid repeatedly restarting CI.
 
