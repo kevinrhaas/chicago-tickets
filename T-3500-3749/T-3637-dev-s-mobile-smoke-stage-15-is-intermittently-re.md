@@ -1,7 +1,7 @@
 ---
 id: T-3637
 title: Dev's mobile smoke stage 15 is intermittently red on zero page errors: THREE.GLTFLoader couldn't load texture blob:… URLs after the Jump checks
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-17
-closed: null
+closed: 2026-11-17
 pr: null
 claimed_by: run 11/17/2026, 6:27:38 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T00:56:46.095Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44202593731
 claimed_at: 2026-11-18T00:27:38.602Z
 decision: null
