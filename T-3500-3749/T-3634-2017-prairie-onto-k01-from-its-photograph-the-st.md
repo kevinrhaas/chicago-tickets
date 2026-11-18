@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/18/2026, 3:55:31 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44397638657
-claimed_at: 2026-11-18T21:55:32.738Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1917 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-18** (claim of run 11/18/2026, 3:55:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44397638657): taken 52 min into a run after its lap of #2196 was overtaken by a lockless sibling (slice 1/8 shipped the same fix); scoped before building: the 2017 photo is not yet ingested (source record, rights baseline, camera solve) and the draft record must be rewritten as a full K01 spec (2021's T-3633 was 41 files), which with emit, bake, photo-match and the ~50 min gate does not fit the 95 min left — released untouched for a fresh run
