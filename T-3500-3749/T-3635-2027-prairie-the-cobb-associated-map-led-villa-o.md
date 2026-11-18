@@ -1,7 +1,7 @@
 ---
 id: T-3635
 title: 2027 Prairie, the Cobb-associated map-led villa, onto K01 from the 1911 sheet (no picture: a bounded design), and the T-1917 image-gate sign-off for 2017 and 2021
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1917
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2201
 claimed_by: run 11/18/2026, 3:33:20 PM CT
 blocked_on: null
 needs_bake: false
