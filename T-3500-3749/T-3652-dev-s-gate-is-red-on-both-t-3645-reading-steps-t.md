@@ -1,7 +1,7 @@
 ---
 id: T-3652
 title: Dev's gate is red on both T-3645 reading steps: two 1904 why-notes grew on dev (#2173, #2149) and their 8-10 retellings are keyed by the old words, so data/reading/1904.json is stale
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 6:04:02 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44296734583
+claimed_at: 2026-11-18T12:04:03.142Z
 decision: null
 decision_answer: null
 ---
