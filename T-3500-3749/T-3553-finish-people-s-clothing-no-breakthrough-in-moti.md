@@ -123,6 +123,21 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/b30d3903503ba555f3a9d13bdbe10562589491e4/evidence/T-3553-torch-boats/boarding-before-after.jpg?raw=true)
   Paddle, before and after:
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/b30d3903503ba555f3a9d13bdbe10562589491e4/evidence/T-3553-torch-boats/paddle-before.jpg?raw=true) ![](https://github.com/kevinrhaas/chicago-evidence/blob/b30d3903503ba555f3a9d13bdbe10562589491e4/evidence/T-3553-torch-boats/paddle-after.jpg?raw=true)
+- 2026-11-18 — **Round 4: the round-3 leftovers** (merged with round 3 in PR #2171). Kevin: "Keep going". Frances's skirt hangs as a close walking skirt (mean hem span past standing 33 → 26 cm) and John's frock coat parts at the vent on the walk (4 → 9 cm mean), new L-skirt-driver-3553; John's lapels faced in the tie's silk with two hip buttons; Frances's gore seams pressed open; the 1812 private's overalls cut close to the leg (knee 3.6 → 1.8 cm off); Peck fuller at the hip, deeper pleats, 3 cm straps (a black strap was tried and can't be seen on the black shoe); the maid's and cook's white collars drawn over the dress stand (maid 33 → 96%), the maid's strap frills stood off, the 1904 children's collar slits closed; the coachman's glove eased to the sleeve lining (bare skin seen 684 → 0 points); the 1812 trader's armpit fold eased (705 → 179 cm²). John, Frances, Peck and the private now `matches`; the maid still `differs` (apron straps, folds). Left: John's lapel fleck and LOD1 vent flap; Frances's heel-strike reach (the gait's step); the private's hem step over the heel; the maid's frills not scalloped; a seam line where the children's slits closed; the trader's fold eased, not gone.
+  Frances and John walking, before (top) and after:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/skirt-driver/frances-midstride-before-after.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/skirt-driver/john-midstride-before-after.jpg?raw=true)
+  John's silk lapels; Frances's seams:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/facings/glessner_john_j_1904-lapels-close.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/facings/glessner_frances_m_1904-gores-3m.jpg?raw=true)
+  The private's overalls; Peck's pleats:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/legwear/private-overalls-lod0-legs.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/legwear/peck-pleats-fullness-lod0.jpg?raw=true)
+  The maid's collar; a 1904 girl's neckline; the coachman's glove; the trader's armpit:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/maid-collar-lod0-close.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/children-neck-child_girl_1904-lod0.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/coachman-glove-lod0.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/trader-armpit-lod0.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
@@ -136,3 +151,5 @@ cannot resolve. Reproduced standalone (`node tools/test_human_coat.mjs`, exit 1)
 byte-identical to dev. It reds `check.sh --part 3/4` for every PR merged up to dev, which
 holds chicago#2111 (T-3608) at `resume`. Fix: load the module from its file URL (or inline
 the import the way the test inlines the others).
+
+Fixed: the test loads human-skirt.js's relative imports from their files (PR #2171, and the same fix in #2177).
