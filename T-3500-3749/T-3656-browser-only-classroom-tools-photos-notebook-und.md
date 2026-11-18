@@ -1,7 +1,7 @@
 ---
 id: T-3656
 title: Browser-only classroom tools: photos, notebook, understanding checks and lesson guides
-state: claimed
+state: open
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: run 11/18/2026, 11:31:32 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-18T17:31:34.077Z
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -55,3 +55,5 @@ the whole part has not been rerun and parts 2–4 remain. Published desktop note
 lesson/PDF and real-jaunt checks pass with zero page errors/404s/overflow. Production photo
 modules pass a real WebGL/PNG fixture at both widths, but whole-town photo scheduling timed
 out under the software GPU and remains unverified. STATUS.md records final evidence. No broader server-backed features are claimed.
+
+**Released 2026-11-18** (claim of run 11/18/2026, 11:31:32 AM CT): First implementation retained locally on steward/t3656-browser-classroom in /workspace/chicago; focused and browser checks recorded in STATUS.md. Whole-town photo scheduling and the complete four-part release gate remain; no commit or deployment yet.
