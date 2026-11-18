@@ -32,6 +32,25 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Current validation issues — 18 November 2026, 19:16 UTC
+
+Source part3/8 found one local-layout failure: roof_id_pins.py could not see tickets
+through the directory symlink. The actual tickets clone now lives in the standard
+`/workspace/chicago/chicago/4d/tickets` directory; `/workspace/chicago-tickets` is an
+alias back to it, so existing commands still work. No tracked application files changed.
+The targeted check now passes all14 pins over26799 source files. Full part3/8 rerun is
+pending; its original failed log remains `/tmp/t3656-green-part3of8.log`.
+
+Mobile renderer stage6 timed out at240s while its crash-recovery subtest launched a second
+Balanced town alongside the original page and three source-check workers. This is a real
+incomplete stage, not a pass: the secondary context never reached its page-error assertion.
+The original stage6 log is preserved. Source workers are now stopped. Finish current
+mobile7, then rerun official6 with the same assertions and caps but no source gate running;
+if it still fails, inspect the secondary loader diagnostics before changing anything.
+Completed mobile1–5 remain green. No renderer/application source changed.
+
+PR2197 stays draft and unmerged until the full source and renderer aggregate is green.
+
 ## Validation milestone — 18 November 2026, 19:08 UTC
 
 PR2197 remains draft at pushed head `cbf3408e032eb6341df9d52bfbb289810035f412`.
