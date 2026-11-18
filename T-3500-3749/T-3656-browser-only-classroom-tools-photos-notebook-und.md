@@ -32,7 +32,31 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 18 November 2026, 20:31 UTC
+## Current recovery checkpoint — 18 November 2026, 20:44 UTC
+
+Latest pushed code is `bb59311bfba32067a6f4ca3c8175deea2f05af38`; PR #2197 remains draft.
+Runtime is unchanged from 6c83e8cf9. Local source partition 7 failed one test because its
+fixed 200-character source regex no longer spanned the inserted notebook host. The test
+now mounts the real Guide and checks that the original tour element leads controls and
+hosted sections. Focused tour/Guide tests pass; isolated source mutations that move or
+omit the tour are rejected. Official remeasurement records no in-tree writes; isolation
+audit and self-tests pass. Full partition 7 is rerunning, then partition 8. Preserve the
+original failure at `/tmp/t3656-tour-span-failure-part7of8.log` and negative-check receipts
+at `/tmp/t3656-tour-order-negative-checks.json`.
+
+Latest-head source CI is `44393940378`; moving/upload CI is `44393940359`. The superseded
+03ecd source run was force-cancelled after the push left its aggregate queued. Desktop
+renderer run `44372747109` is still running; all fifteen mobile stages remain green on
+identical runtime. No DEV merge until remaining checks are green.
+
+The combined follow-up branch `steward/t3657-t3658-hunt-accessibility` is pushed at
+`f1f2229f0879c4f1771b07fd9409f994cfc6a986`, based on `03ecd9678`. It contains the daily
+five-photo hunt and native zoom/modal accessibility work. Focused fixtures pass at both
+widths; actual historical thumbnails have been visually checked. Full-town integration
+is being prepared. After #2197 merges, rebase ONLY commits after 03ecd9678 onto actual
+DEV, so the first delivery is not duplicated or its folded changelog reintroduced.
+
+## Previous recovery checkpoint — 18 November 2026, 20:31 UTC
 
 Latest pushed code head is `03ecd9678e15988abe44c50e27c2bd9fec569530`, PR #2197 still
 draft. Runtime remains 6c83e8cf9. Source partitions 1–6 have passed locally; 7–8 are
