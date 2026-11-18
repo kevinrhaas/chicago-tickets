@@ -1,7 +1,7 @@
 ---
 id: T-3560
 title: Ride a horse: period saddle and bridle, a fitted rider at walk and trot, and mount, steer and dismount by keyboard and touch
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-12
-closed: 2026-11-16
+closed: 2026-11-18
 pr: 2175
 claimed_by: run 11/16/2026, 8:41:24 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: 2026-11-17T05:01:23Z
+closed_at: 2026-11-18T06:08:02Z
 claimed_run: null
 claimed_at: 2026-11-17T02:41:24.979Z
 decision: null
