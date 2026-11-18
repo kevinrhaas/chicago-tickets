@@ -1,7 +1,7 @@
 ---
 id: T-3648
 title: Fix the cause the T-3637 record names for the mobile stage-15 texture failures after the Jump checks, and bring dev's smoke (mobile, 15) to green without weakening zero page errors
-state: claimed
+state: split
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-3637
 opened: 2026-11-17
-closed: null
+closed: 2026-11-18
 pr: null
 claimed_by: run 11/18/2026, 2:36:51 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T09:15:59.084Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44265113509
 claimed_at: 2026-11-18T08:36:52.408Z
 decision: null
