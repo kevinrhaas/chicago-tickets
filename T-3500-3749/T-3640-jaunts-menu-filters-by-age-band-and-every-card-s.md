@@ -1,7 +1,7 @@
 ---
 id: T-3640
 title: Jaunts menu filters by age band, and every card shows its age band
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-17
-closed: null
+closed: 2026-11-18
 pr: 2156
 claimed_by: run 11/17/2026, 10:50:44 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T06:37:01Z
 claimed_run: null
 claimed_at: 2026-11-17T16:50:45.484Z
 decision: null
