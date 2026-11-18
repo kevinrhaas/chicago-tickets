@@ -32,6 +32,24 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Validation milestone — 18 November 2026, 19:08 UTC
+
+PR2197 remains draft at pushed head `cbf3408e032eb6341df9d52bfbb289810035f412`.
+Local source partitions1/8 and2/8 are green (175 and174 steps, no red steps);
+part3/8 is next. Complete PR source CI run44375593498 remains required, along with
+its moving-frames workflow44375593479. Do not count queued jobs as passes.
+
+Published mobile renderer stages1–5 are complete and green: respectively95,115,107,
+45 and30 checks; runtimes4:55,6:47,4:17,6:50,8:11. Every stage reports zero page errors.
+Stage5 completed the full/balanced/light scene-detail sweep and passed its budgets.
+Total392 assertions include65 repeated scaffolding checks, so327 staged-section checks
+are covered. Current stage is6. Canonical logs are
+`/tmp/t3656-renderer-mobile-{1,2,3,4,5}.log`; the source ledger holds1–3 so far.
+Desktop full workflow44372747109 passed setup/publication and is now running its renderer
+body; full mobile workflow44373274865 was queued. All15 stages at both sizes are needed
+before merge. Application source has not changed since6c83; later checkpoints record
+verification only, and do not invalidate the frozen published build's source bytes.
+
 ## PR checkpoint — 18 November 2026, 18:59 UTC
 
 Draft DEV PR: https://github.com/kevinrhaas/chicago/pull/2197 . Latest pushed head:
