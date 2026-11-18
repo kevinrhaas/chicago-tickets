@@ -158,3 +158,4 @@ T-3553 — Finish people's clothing: no breakthrough in motion, better collars a
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3654 — Build the 1871 citywide context baseline with varied buildings, streets and bridges
 T-3656 — Browser-only classroom tools: photos, notebook, understanding checks and lesson guides
+T-3657 — Where and when: a daily five-photo hunt from the licensed 1904 evidence
