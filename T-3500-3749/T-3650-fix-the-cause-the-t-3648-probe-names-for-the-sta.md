@@ -1,7 +1,7 @@
 ---
 id: T-3650
 title: Fix the cause the T-3648 probe names for the stage-15 texture refusals, and bring dev's smoke (mobile, 15) to green without weakening zero page errors
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3648
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 6:18:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44296782417
+claimed_at: 2026-11-18T12:18:07.375Z
 decision: null
 decision_answer: null
 ---
