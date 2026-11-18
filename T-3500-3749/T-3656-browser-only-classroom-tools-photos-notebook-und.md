@@ -1,7 +1,7 @@
 ---
 id: T-3656
 title: Browser-only classroom tools: photos, notebook, understanding checks and lesson guides
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 12:14:46 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-18T18:14:48.664Z
 decision: null
 decision_answer: null
 ---
