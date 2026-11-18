@@ -1,7 +1,7 @@
 ---
 id: T-3641
 title: PR gate part 7/8 is intermittently red on the Catalogue Brougham check (T-3084): brougham_v20/check.py 'far: every triangle re-derives' fails on some CI runners, passes on rerun and locally
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2180
 claimed_by: run 11/18/2026, 3:04:46 AM CT
 blocked_on: null
 needs_bake: false
