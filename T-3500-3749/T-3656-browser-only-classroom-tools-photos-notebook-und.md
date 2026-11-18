@@ -1,7 +1,7 @@
 ---
 id: T-3656
 title: Browser-only classroom tools: photos, notebook, understanding checks and lesson guides
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-18
 closed: null
-pr: null
+pr: 2197
 claimed_by: run 11/18/2026, 12:14:46 PM CT
 blocked_on: null
 needs_bake: false
@@ -31,6 +31,23 @@ Start the top no-new-server items in parallel and account for the whole attached
 
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
+
+## PR checkpoint — 18 November 2026, 18:59 UTC
+
+Draft DEV PR: https://github.com/kevinrhaas/chicago/pull/2197 . Latest pushed head:
+`cbf3408e032eb6341df9d52bfbb289810035f412`; this follow-up to implementation commit
+`6c83e8cf9` updates only STATUS and the recorded mobile smoke results. No application
+source changed between these checkpoints. Preflight1/8 passed 175 checks, changelog-entry
+and ticket-ID checks passed, and the smoke ledger self-test passed33 checks.
+
+Published mobile stages1–4 are now complete and green (95,115,107,45 checks respectively,
+zero failures/page errors); stage5 is running. The code ledger currently records1–3;
+subsequent milestones will be committed/pushed. The PR triggers the complete eight-part
+source CI gate on its exact head. Full desktop/mobile renderer workflows above remain
+necessary; desktop has acquired a runner and begun checkout, mobile was still queued.
+Keep PR draft until the complete source+renderer aggregate is green, then update its
+validation description, mark ready, and merge to DEV. Ticket review is not completion;
+the tickets repo settles done only after actual merge. Continue next #7/#10 work afterward.
 
 ## Validation recovery — 18 November 2026, 18:47 UTC
 
