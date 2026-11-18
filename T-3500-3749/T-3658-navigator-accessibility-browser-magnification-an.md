@@ -23,4 +23,8 @@ decision_answer: null
 
 Navigator accessibility: browser magnification and keyboard-safe picture dialogs.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Demonstrate Navigator reading and image viewing with browser magnification and keyboard alone at phone and desktop sizes: allow native mobile zoom, retain usable reading scroll and existing two-thumb world controls, distinguish visual viewport magnification from keyboard/orientation resizing, and make picture dialogs trap focus, isolate the background, close by Escape and restore focus. Verify zoom does not shrink the GPU canvas or lose reading controls. This is a bounded accessibility repair, not a claim of whole-app WCAG conformance.
+
+## Owner scope and implementation plan
+
+The owner asked to continue top-priority non-server items after the first classroom delivery and to checkpoint work to GitHub. This is a concrete first slice of list item 10. Work is isolated from PR #2197 while its release gates finish, and merges after that PR together with the photo hunt if the group remains coherent. Inspect viewport meta, Navigator touch-action ancestors, main.resize(), controls/touch.js visualViewport handling, and pictures.js modal lifecycle. Keep canvas/game gesture behavior explicit; test both reading and movement.
