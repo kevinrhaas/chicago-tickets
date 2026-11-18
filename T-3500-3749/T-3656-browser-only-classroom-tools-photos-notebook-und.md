@@ -36,9 +36,11 @@ The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEAT
 
 A workspace transition preserved the clean source checkout and logs but interrupted the
 active local processes. The pushed code checkpoint is still `6c83e8cf9558c0d6f9ffb422f299764837fc4ed2`.
-The final four-way part 1 rerun and mobile renderer stage 2 stopped without final verdicts;
-they do not count as passes. Earlier pre-review part 1 passed 347 checks, and final mobile
-stage 1 passed 95 checks with zero failures/page errors.
+The final four-way part 1 rerun stopped without a final verdict and does not count as a
+pass. Earlier pre-review part 1 passed 347 checks. Recovery subsequently found the original
+mobile renderer stage 2 had completed before process cleanup: its canonical log ends
+SMOKE PASS, 115 checks, zero failures/page errors. Final mobile stage 1 passed 95 checks.
+Completed mobile coverage is therefore stages 1–2; continue at stage 3.
 
 Local source validation now uses eight shorter partitions, as `tools/check.sh` instructs
 when a part exceeds 540 seconds; the four-way run took roughly 13 minutes. First run:
@@ -51,8 +53,8 @@ this exact checkpoint, with all 15 stages selected:
 - Desktop: https://github.com/kevinrhaas/chicago/actions/runs/44372747109
 - Mobile: https://github.com/kevinrhaas/chicago/actions/runs/44373274865
 
-Both were queued at the latest reading. Local mobile stages continue from stage 2 while
-waiting; preserve completed stage 1. The source branch remains unmerged. Do not promote
+Both were queued at the latest reading. Local mobile stages continue from stage 3 while
+waiting; preserve completed stages 1–2. The source branch remains unmerged. Do not promote
 production. After a green DEV merge, proceed with bounded #7 photo hunt and #10 reading
 accessibility work; a full ticket audit found no existing live ticket owns those scopes.
 
