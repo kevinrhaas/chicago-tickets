@@ -49,5 +49,9 @@ from a shared URL; fresh published desktop notebook and lesson/PDF flows also pa
 This is not marked done: changes remain uncommitted while release verification is pending.
 The full four-part repository gate and full published renderer smoke have not passed.
 Node 22 was installed locally after the workspace's Node 24 hit the existing native-human
-geometry runtime assertion; a fresh first-part check is running. STATUS.md records the
-final validation state and remaining limits. No broader server-backed features are claimed.
+geometry runtime assertion. The fresh part 1 completed 347 steps with one daybook-DOM
+regression, now repaired and verified by the affected license test and reflection tests;
+the whole part has not been rerun and parts 2–4 remain. Published desktop notebook,
+lesson/PDF and real-jaunt checks pass with zero page errors/404s/overflow. Production photo
+modules pass a real WebGL/PNG fixture at both widths, but whole-town photo scheduling timed
+out under the software GPU and remains unverified. STATUS.md records final evidence. No broader server-backed features are claimed.
