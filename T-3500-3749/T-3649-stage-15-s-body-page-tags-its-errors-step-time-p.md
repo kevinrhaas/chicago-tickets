@@ -1,7 +1,7 @@
 ---
 id: T-3649
 title: Stage 15's body page tags its errors (step, time, page) and a smoke-side probe makes every loader's refused picture say why (createImageBitmap, blob read, KTX2 transcode), with zero page errors unchanged
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: T-3648
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 3:16:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44265113509
+claimed_at: 2026-11-18T09:16:08.035Z
 decision: null
 decision_answer: null
 ---
