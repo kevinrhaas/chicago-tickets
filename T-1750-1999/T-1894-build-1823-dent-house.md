@@ -1,7 +1,7 @@
 ---
 id: T-1894
 title: Refine 1823 Dent house
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 11:15:46 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44354280089
+claimed_at: 2026-11-18T17:15:46.815Z
 decision: null
 decision_answer: null
 ---
