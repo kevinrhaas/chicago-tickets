@@ -1,7 +1,7 @@
 ---
 id: T-3645
 title: Reading level by age: Settings choice, jaunt filter, level tabs on every card
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2167
 claimed_by: run 11/17/2026, 11:57:29 AM CT
 blocked_on: null
 needs_bake: false
