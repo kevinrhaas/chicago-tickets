@@ -32,6 +32,26 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Mobile stage 13 completion path — 18 November 2026, 20:00 UTC
+
+The quiet local stage 13 reached 149 passing assertions and then hit the unchanged
+595-second command cap (exit 124). Its final report has one failure, suite body
+completion, because timeout termination closed the browser. It is **not a pass**;
+the What's New reload tail remains unverified. Original log is
+`/tmp/t3656-renderer-mobile-13.log`. No application assertion failed before the cap,
+and no test or timeout was changed. Unchanged stage 13 is dispatched on current
+head 7969031f0 as GitHub run `44385930725`, job `135090381320` (queued at this writing).
+Mobile stages 14–15 continue locally with quiet CPU. Source parts 5–8 resume afterward.
+Current-head moving-frames/upload-release jobs have started; source CI is queued.
+
+Follow-up code is pushed: photo hunt branch has `90a8a38ce` and `b3b8a490b`;
+accessibility branch has `4668c0cd5` and `bf0bc1af0`. Their pure checks pass, but browser
+fixtures still wait for the quiet smoke window. Both isolated worktrees are clean.
+Evidence repo latest is `51c0767f64385e6bb08fdc65c8ec6d3af7d89399`, including source 4,
+mobile 11–12 and `/tmp/t3656-final-photo-notebook-smoke.mjs` prepared but unrun. Run that
+final-runtime integration harness one viewport at a time after quiet smoke; it covers
+actual photo save, person citations, notebook edits/persistence and share restoration.
+
 ## Current pushed head — 18 November 2026, 19:50 UTC
 
 `7969031f049fb2d54df2ce8a6bccd014c5ea1a1e` is pushed on the classroom branch.
