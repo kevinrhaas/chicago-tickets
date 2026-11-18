@@ -1,7 +1,7 @@
 ---
 id: T-3662
 title: Dev's smoke part 15 is still red at both viewports after T-3650's #2190: GLTFLoader blob textures refused (Failed to fetch) at /1904/ after the Confidence Jump; find why the blobs are revoked and bring both legs green without weakening zero page errors
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 5:17:16 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44409911184
+claimed_at: 2026-11-18T23:17:18.127Z
 decision: null
 decision_answer: null
 ---
