@@ -1,7 +1,7 @@
 ---
 id: T-3636
 title: Dev's mobile smoke stage 1-2 is red on five wagon and yard checks since the T-3558 wagon change (yard goods, Green Tree yard wagons, town wagon spread, type mix, dealt slew)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2172
 claimed_by: run 11/17/2026, 5:31:07 PM CT
 blocked_on: null
 needs_bake: false
