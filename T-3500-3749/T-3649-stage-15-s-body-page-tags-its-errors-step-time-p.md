@@ -1,7 +1,7 @@
 ---
 id: T-3649
 title: Stage 15's body page tags its errors (step, time, page) and a smoke-side probe makes every loader's refused picture say why (createImageBitmap, blob read, KTX2 transcode), with zero page errors unchanged
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-3648
 opened: 2026-11-18
 closed: null
-pr: null
+pr: 2182
 claimed_by: run 11/18/2026, 3:16:06 AM CT
 blocked_on: null
 needs_bake: false
