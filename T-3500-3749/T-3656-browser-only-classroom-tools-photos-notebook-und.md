@@ -32,7 +32,49 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 18 November 2026, 22:03 UTC
+## Current recovery checkpoint — stage-13 pin repair, 18 November 2026
+
+PR #2197 is pushed at `5034a724d993abe0876a4db7bbfff02d2bb4da0a`; dependent
+PR #2199 is pushed at `6ee1a689077839dd9923edbc80269dd2cbaccfb6`. Both remain draft,
+target DEV, and have not merged. The follow-up now includes the Navigator rail Tab-stop
+repair, with 36 passing native keyboard checks. Evidence through that repair is pushed at
+chicago-evidence `497cdefebf835ee1f0397dd5bc92e711f62836c2`.
+
+The completed desktop stage 13 run 44403522127 reported 155 passes, zero page errors and
+two failures: its independent NORMAL ceiling pin still expected 3,605,000 while the app
+correctly restored the owner-authorized 3,630,000 in internal and public budgets. Actual
+work was 2,983,651 triangles and 3,328 calls. The smoke pin and pure transition fixture
+now require exactly 3,630,000; new negative cases reject stale/inflated allowances, extra
+draw calls and public/stat disagreement. Nine policy/transition checks, strict actual-main
+policy, world smoke contracts, official isolation measurement and audit pass. Application,
+assets, data, generators and publisher are unchanged. Assertions outside stage 13 are
+byte-identical; /tmp/t3656-stage13-pin-repair.json proves the difference.
+
+Complete unaffected local passes: desktop 3 (107 checks), 6 (20), 10 (31), 11 (21), and
+mobile 1 (95), all with final page-error/vendor checks and SMOKE PASS. The immutable old
+cohort manifest is /tmp/t3656-local-stages-before-stage13-pin.json. The new smoke hash is
+eeebfe0a43ed5002f0851b4b53b3178f54a354e85c662a8947ddad8c4a008396; its committed
+smoke-tree hash is sha256:d2efa11ef0b44c88. Main remains 58ae793db46618535950d279328c8976da865bffbc90b96cf741cbf18066dbd1,
+served from the frozen ae4 mirror. Corrected desktop 13 is running with a bounded
+2,100-second allowance plus five seconds to kill, based on its measured 1,678-second
+remote invocation and the owner's budget authorization. Corrected mobile 13 and remaining
+mobile 2–12,14,15 follow at 1,200+5 seconds. Do not count the old failed stage as green.
+
+Current-head source CI is 44412406486 and moving/upload is 44412406478. The old 7019
+moving/upload workflow passed; its source 2–6 passed and 1/7/8 were cancelled on the new
+head. Fresh exact-head CI remains required. Accepted remote desktop stages outside 13
+still exercise identical application code and identical assertions; do not duplicate them.
+
+Command-line GitHub authentication expired. Connected GitHub tools still read/write
+normally and have safely published both new heads with exact blob/tree SHA verification,
+expected-parent ref updates, and exact Git-object import. Do not expose or hunt credentials.
+Unsigned import helper: /tmp/import-github-api-commit.py; signed merge-object helper:
+/tmp/import-github-signed-api-commit.py (validated against existing signed DEV history).
+These write only a SHA-verified object and never refs. Keep the accepted 03ecd9678
+follow-up rebase boundary from the prior checkpoint; it will inherit this parent repair
+after #2197 merges. No production promotion or new server/service activation.
+
+## Previous recovery checkpoint — 18 November 2026, 22:03 UTC
 
 Both deliveries are pushed and visible as draft PRs into DEV: #2197 at
 `7019f986b3773a27a3acc1b47135fa14f9086aa3` and dependent #2199 at
