@@ -32,6 +32,37 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Recovery checkpoint — 18 November 2026, 18:33 UTC
+
+Code is committed and pushed to GitHub: `6c83e8cf9` on
+`steward/t3656-browser-classroom` in `kevinrhaas/chicago`, based on DEV `169af6421`.
+The owner explicitly requested checkpoints so another session can resume; this commit
+is a backup checkpoint, not a completed release. There is no PR or merge yet.
+
+All 36 source/document/test files are included. Four classroom features are implemented:
+bounded photo/share, local notebook, cited ungraded reflections, and printable group
+lessons. Final review repaired lesson reading overlays, selected-person retention through
+Home, and notebook saves from the legacy 1835 People screen. Focused tests pass, including
+actual town photo/share at both 390x780 and 1280x800 on source and published trees; scene
+pixels are nonblank, saved jaunts survive shared arrival without auto-resume, and the
+renderer retains `preserveDrawingBuffer: false`. Native capture tests pause continuous
+software-GPU rendering between interactions and step one real normal frame per shutter;
+this is not a low-end hardware performance certification.
+
+First repository partition passed all 347 steps. Final-tree partitions 1–4 are now being
+rerun at the committed checkpoint; part 4 invokes preflight. Full published renderer smoke
+stages 1–15 at both sizes is also running. Do not merge before the required checks pass.
+Local logs: `/tmp/t3656-green-part{1,2,3,4}.log`; smoke `/tmp/t3656-renderer-*`.
+Frozen published build: `/workspace/chicago-classroom-published`.
+Focused photo reports: `/tmp/photo-town-{source,published}/report.json`;
+person-link callback report: `/tmp/person-moment-fixture/report.json`.
+
+Next actions: finish gates and renderer checks, fix any real failures, push further
+checkpoints, create PR into DEV, mark this ticket review with the PR number, and merge
+only when green. Then take bounded server-free photo-hunt (#7) and accessibility (#10)
+work in separate worktrees. No production promotion, server spending, or shared service
+activation. #1 remains lower priority with one active world by default.
+
 ## Implementation progress — 18 November 2026
 
 Four parallel worktrees produced the first photo/share, local notebook, cited-reflection
