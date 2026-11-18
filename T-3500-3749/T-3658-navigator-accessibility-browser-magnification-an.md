@@ -30,6 +30,16 @@ Navigator accessibility: browser magnification and keyboard-safe picture dialogs
 
 The owner asked to continue top-priority non-server items after the first classroom delivery and to checkpoint work to GitHub. This is a concrete first slice of list item 10. Work is isolated from PR #2197 while its release gates finish, and merges after that PR together with the photo hunt if the group remains coherent. Inspect viewport meta, Navigator touch-action ancestors, main.resize(), controls/touch.js visualViewport handling, and pictures.js modal lifecycle. Keep canvas/game gesture behavior explicit; test both reading and movement.
 
+### Bounded keyboard continuation
+
+Review of the remaining accessibility path reproduced a rail defect: opening Move or Jump,
+which have no visible rail icon, leaves zero visible rail buttons in the Tab order. Extend
+this ticket with exactly one visible rail Tab stop while preserving truthful selection and
+manual arrow/Enter activation. Cover context disappearance, unregistering, async mounting,
+and dock/reopen. Actual keyboard browser fixtures at both widths should exercise Tab and
+Shift+Tab, not directly focus a rail button and thereby bypass the defect. This is part of
+the same accessibility PR, not a claim of full WCAG conformance or a new feature service.
+
 ## Recovery checkpoint — 18 November 2026
 
 Combined work is pushed in dependent draft PR #2199 at

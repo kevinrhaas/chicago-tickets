@@ -75,6 +75,14 @@ receipts are being added separately. Current local logs are /tmp/t3656-current-d
 and /tmp/t3657-t3658-preflight-part1of16*. Continue gates, repair actual failures, and merge
 green PRs to DEV. No production promotion or new server/service activation.
 
+Later validation update: under the same explicit owner budget authorization, local renderer
+stages may now run for up to 1,200 seconds plus five seconds to kill, one world at a time,
+with every assertion retained. This changes only the validation command allowance, not
+runtime rendering or CI source code. Source preflights retain their original bound. Fresh
+desktop stage 3 passed 107 checks in 6m23s with complete suite and zero page errors; 6,10,11
+and fresh mobile 1–12,14,15 continue locally. Current mobile13 is remote run 44407141092.
+The evidence checkpoint is now ac3ad2a6ca092af168783994d9b4bbb249bb4a11.
+
 ## Previous recovery checkpoint — 18 November 2026, 21:05 UTC
 
 Latest pushed first-delivery head is `45b35a2c7d910ec1e73f5a60489b1b22c4aff278` in
