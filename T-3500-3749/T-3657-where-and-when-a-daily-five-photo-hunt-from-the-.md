@@ -1,7 +1,7 @@
 ---
 id: T-3657
 title: Where and when: a daily five-photo hunt from the licensed 1904 evidence
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 1:41:34 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-18T19:41:36.836Z
 decision: null
 decision_answer: null
+group: T-3657,T-3658
 ---
 
 Where and when: a daily five-photo hunt from the licensed 1904 evidence.
