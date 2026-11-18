@@ -32,6 +32,18 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Current pushed head — 18 November 2026, 19:50 UTC
+
+`7969031f049fb2d54df2ce8a6bccd014c5ea1a1e` is pushed on the classroom branch.
+This third checkpoint changes only STATUS and verification records; runtime remains
+`6c83e8cf9`. Source partitions 1–4 and published mobile stages 1–12 are green. Source
+5–8 are deliberately paused for quiet mobile 13–15. Current exact-head PR workflows:
+source gate `44384392510`, moving frames `44384392451`; the push supersedes earlier
+PR CI, whose partial results cannot satisfy the new head. Full renderer workflow IDs
+remain `44372747109` desktop and `44373274865` mobile, on unchanged runtime 6c83.
+PR #2197 remains draft and unmerged. The corrected evidence scope is in STATUS and the
+PR body; later receipts go to the evidence repo/ticket to avoid repeatedly restarting CI.
+
 ## Recovery and evidence checkpoint — 18 November 2026
 
 Code remains pushed at `cbf3408e032eb6341df9d52bfbb289810035f412` on
