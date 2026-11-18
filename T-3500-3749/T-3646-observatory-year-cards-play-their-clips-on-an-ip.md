@@ -1,7 +1,7 @@
 ---
 id: T-3646
 title: Observatory year cards play their clips on an iPhone in Low Power Mode
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-17
-closed: null
+closed: 2026-11-17
 pr: 2170
 claimed_by: run 11/17/2026, 4:39:49 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T01:02:16Z
 claimed_run: null
 claimed_at: 2026-11-17T22:39:50.894Z
 decision: null

@@ -164,7 +164,5 @@ T-3553 — Finish people's clothing: no breakthrough in motion, better collars a
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3640 — Jaunts menu filters by age band, and every card shows its age band
-T-3643 — Performance pass: no shader recompiles mid-walk, fewer GPU stalls at boot, nothing drawn differently
 T-3644 — Your own person: choose who you are in Settings (man or woman, complexion, face, hair, age, dress per year), worn in the saddle; the start of a person builder
 T-3645 — Reading level by age: Settings choice, jaunt filter, level tabs on every card
-T-3646 — Observatory year cards play their clips on an iPhone in Low Power Mode
