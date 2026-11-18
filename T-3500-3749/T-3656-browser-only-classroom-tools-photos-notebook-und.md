@@ -32,6 +32,19 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Recovery test cleared — 18 November 2026, 19:26 UTC
+
+Unchanged official mobile6 passed in5m32s with source-check workers stopped:24checks,
+zero failures, second town ready in198.6s within the unchanged240s limit, both real
+context losses/reloads verified, and zero secondary-page errors. Original contention
+failure remains `/tmp/t3656-renderer-mobile-6-contention-failure.log`; the passing quiet
+retry is now canonical `/tmp/t3656-renderer-mobile-6.log`. No app or assertion changes.
+
+Mobile1–7 are now all green:455 assertions include91 repeated scaffolding checks, so
+364staged-section checks are covered. Mobile8 is next. The standard ticket-directory
+layout has also passed its targeted roof-pin check; complete source3/8 is rerunning.
+Local source1/8 and2/8 remain green;4–8 still pending. PR2197 remains draft atcbf3408e0.
+
 ## Current validation issues — 18 November 2026, 19:16 UTC
 
 Source part3/8 found one local-layout failure: roof_id_pins.py could not see tickets
