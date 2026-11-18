@@ -29,3 +29,20 @@ Navigator accessibility: browser magnification and keyboard-safe picture dialogs
 ## Owner scope and implementation plan
 
 The owner asked to continue top-priority non-server items after the first classroom delivery and to checkpoint work to GitHub. This is a concrete first slice of list item 10. Work is isolated from PR #2197 while its release gates finish, and merges after that PR together with the photo hunt if the group remains coherent. Inspect viewport meta, Navigator touch-action ancestors, main.resize(), controls/touch.js visualViewport handling, and pictures.js modal lifecycle. Keep canvas/game gesture behavior explicit; test both reading and movement.
+
+## Recovery checkpoint — 18 November 2026
+
+Combined work is pushed in dependent draft PR #2199 at
+4a2ee67dcbc3067fd8e18fb432098822361f2476. Native published integration passed both widths
+on feature commit 5674d33d, with real mobile pinch/pan and stable drawing-buffer dimensions,
+actual photograph dialog keyboard/focus behavior, hunt travel and notebook/photo capture.
+Focused fixtures also exercise magnified move/look regions, orientation/keyboard viewport
+changes, Escape/Tab/ShiftTab, inert background, focus return and dialog reopen races.
+Zero page/HTTP errors or overflow; expected request cancellations are recorded separately.
+These are browser-emulated viewports, not physical-device or whole-app WCAG certification.
+
+Preflight on current head passed source part 1/16 (89 checks), changelog and ticket-ID
+metadata. Complete source/renderer gates and dependency cleanup remain before merge.
+T-3657's recovery section records CI, evidence, branch and the exact rebase boundary.
+Merge parent #2197 first, then rebase and validate #2199; the user authorized green DEV
+merges and periodic GitHub checkpoints. No production promotion or server activation.
