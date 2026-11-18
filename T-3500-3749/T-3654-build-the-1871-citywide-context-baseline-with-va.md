@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: run 11/18/2026, 8:35:42 AM CT
+claimed_by: continuing the same 1871 integration 11/18/2026, 11:06:18 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-18T14:35:45.044Z
+claimed_at: 2026-11-18T17:06:19.857Z
 decision: null
 decision_answer: null
 ---
