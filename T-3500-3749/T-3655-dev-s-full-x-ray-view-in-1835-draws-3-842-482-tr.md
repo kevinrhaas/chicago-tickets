@@ -1,7 +1,7 @@
 ---
 id: T-3655
 title: dev's Full X-RAY view in 1835 draws 3,842,482 triangles against its 3,785,000 budget (smoke desktop 13, T-2981)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-18
-closed: null
+closed: 2026-11-18
 pr: 2193
 claimed_by: run 11/18/2026, 9:43:01 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-18T17:02:25Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44334675206
 claimed_at: 2026-11-18T15:43:01.866Z
 decision: null
