@@ -32,6 +32,38 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
+## Recovery and evidence checkpoint — 18 November 2026
+
+Code remains pushed at `cbf3408e032eb6341df9d52bfbb289810035f412` on
+`steward/t3656-browser-classroom`, draft PR #2197. Runtime is unchanged from
+`6c83e8cf9558c0d6f9ffb422f299764837fc4ed2`. Source parts 1–3 and published mobile
+stages 1–11 passed. A second workspace transition interrupted source part 4, which
+is rerunning; mobile 11 survived and finished without a duplicate run. Stage 12 is
+running. Source workers will pause between partitions while mobile 13–15 need quiet
+CPU. The full desktop and mobile GitHub runs remain in progress; exact-head source
+CI has passed its first partition, with the rest queued at the last reading.
+
+Completed evidence is now backed up in `kevinrhaas/chicago-evidence`, commit
+`3ed0baa57bd8708cf2cdf5f74c68b0ea35ddcbb1`, folder
+`evidence/t3656-browser-classroom-2026-11-18/`. Its README distinguishes checked
+coverage, pending work and runtime provenance. This archive currently includes source
+1–3 and mobile 1–10; later results still need adding.
+
+**Evidence correction:** the older full-town photo harness had `photoOnly = true`.
+Its notebook-persistence report label was too broad: that assertion was skipped and
+notebook was null. Notebook persistence passed in the separate two-width browser
+fixture, not those town reports. The photo reports also precede the final person
+selection and lesson reader-text changes. A reconstructed hash-matching diff in the
+evidence archive proves the capture/render path stayed unchanged; do not describe
+those historical reports as exact-final-runtime full-town notebook coverage.
+
+The next bounded server-free group is claimed as T-3657 (five-photo hunt) and T-3658
+(browser magnification and keyboard picture dialogs). Work is isolated in
+`/workspace/chicago-hunt` and `/workspace/chicago-accessibility`, branches
+`steward/t3657-t3658-photo-hunt` and `steward/t3657-t3658-accessibility`, based on cbf3408e0.
+Prepare/checkpoint it while this PR validates, but merge the classroom PR first when
+green, then integrate the follow-up onto dev. No production promotion.
+
 ## Latest green coverage — 18 November 2026, 19:33 UTC
 
 PR2197 remains draft at pushed headcbf3408e0; no application source changed.
