@@ -1,7 +1,7 @@
 ---
 id: T-1918
 title: Refine 2031, 2033 and 2035 limestone row
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 3:35:24 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44397678308
+claimed_at: 2026-11-18T21:35:25.288Z
 decision: null
 decision_answer: null
 ---
