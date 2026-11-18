@@ -69,7 +69,9 @@ T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, up
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3635 — 2027 Prairie, the Cobb-associated map-led villa, onto K01 from the 1911 sheet (no picture: a bounded design), and the T-1917 image-gate sign-off for 2017 and 2021
-T-1918 — Refine 2031, 2033 and 2035 limestone row
+T-3659 — 2033 Prairie, the Otis rowhouse, onto K01 from the 1946 Walker Evans photographs: the narrow stone front, the full-height canted bay, carved segmental hoods, bracketed cornice, pedimented double-door hood, high stoop and iron boundary
+T-3660 — 2031 Prairie, the Lemont-limestone row house, onto K01: the stone front on its lot module, full-height bay, high stoop, hooded windows, bracketed cornice and rear wing, and whether the 1887 Dewey drawing belongs to 2031 at all
+T-3661 — 2035 Prairie, the corner of the limestone row, onto K01: the corner return, high stoop, window hoods and the mixed brick and frame rear building, its cornice and party walls coordinated with 2031 and 2033
 T-3631 — 2036 Prairie, the Buckingham house, onto K01 from the 1911 sheet and the c. 1880 engraving: the mansard front block, canted corner and flank bays, stone basement, the 21st Street face's hooded lights and sill course, the porch and balustraded stoop
 T-3632 — 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
 T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
