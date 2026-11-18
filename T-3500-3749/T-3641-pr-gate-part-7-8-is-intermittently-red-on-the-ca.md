@@ -1,7 +1,7 @@
 ---
 id: T-3641
 title: PR gate part 7/8 is intermittently red on the Catalogue Brougham check (T-3084): brougham_v20/check.py 'far: every triangle re-derives' fails on some CI runners, passes on rerun and locally
-state: open
+state: claimed
 epic: META
 requested_by: loop
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 3:04:46 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44265091868
+claimed_at: 2026-11-18T09:04:47.607Z
 decision: null
 decision_answer: null
 ---
