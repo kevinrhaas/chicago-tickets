@@ -36,3 +36,19 @@ decision_answer: null
 Kevin, 2026-11-19, looking at the 1871 baseline on the dev preview: "in looking at it i was surprised to see so many brick and apparently stone surfaces among all of the buildings in 1871".
 
 Measured on dev (data/context/1871.json): by count 62% of the main buildings were frame (68% with yard stables), but West Side 33% brick, North Side 40%, mixed neighbourhoods 50%, river 67%; and the frame wall colour (180,168,139) is almost the stone colour (181,163,132), so frame houses read as stone.
+
+## Result (PR #2220)
+
+Masonry stand-ins fell from 10,770 to 2,942 of 33,580 footprints (about one house or shop in ten, matching Colbert and Chamberlin's 1868 count of 35,654 wooden to 3,712 brick and stone). Downtown stays masonry, and no footprint moved. Frame houses are pale weatherboard with a per-house reconstructed paint, and a new two-storey frame store form serves the neighbourhood shops.
+
+West Side from 60 m, desktop (before | after)
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/0c0e92407e1e63e5c9c6541898ededd00322ca71/evidence/t3683-1871-materials/desktop-west-side-low-aerial-before-after.jpg?raw=true" width="900">
+
+City from 450 m, desktop
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/0c0e92407e1e63e5c9c6541898ededd00322ca71/evidence/t3683-1871-materials/desktop-city-aerial-before-after.jpg?raw=true" width="900">
+
+North Side street, desktop
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/0c0e92407e1e63e5c9c6541898ededd00322ca71/evidence/t3683-1871-materials/desktop-north-side-street-before-after.jpg?raw=true" width="900">
+
+Phone, West Side from 60 m
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/0c0e92407e1e63e5c9c6541898ededd00322ca71/evidence/t3683-1871-materials/phone-west-side-low-aerial-before-after.jpg?raw=true" width="400">
