@@ -108,6 +108,7 @@ T-3688 — 1871 South Side fire landmarks from their pictures: Court House, Sher
 T-3689 — 1871 West and North Side fire places: the O'Leary cottage and barn, the Water Tower and pumping works, the Ogden house, the lake shore and Lincoln Park
 T-3690 — 1871 people, horses and wagons on every street: horse cars, drays, steam fire engines, and crowds fleeing with their bundles
 T-3691 — The Great Chicago Fire jaunt: follow the fire from the O'Leary barn to the North Side, stop by stop, at its hours
+T-3692 — The Last Sunday jaunt: walk 1871 Chicago at its peak on 8 October, from Lake Street to DeKoven Street at dusk
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
