@@ -1,7 +1,7 @@
 ---
 id: T-3663
 title: Make your case: compare Gossip newspaper readings and save a cited answer
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-18
-closed: null
+closed: 2026-11-19
 pr: 2205
 claimed_by: gossip-investigation-owner-request 11/18/2026, 8:48:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T19:27:52Z
 claimed_run: null
 claimed_at: 2026-11-19T02:48:20.044Z
 decision: null
