@@ -1,7 +1,7 @@
 ---
 id: T-3679
 title: Play a part: choice-driven jaunts as a young person of 1835 and 1904
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2242
 claimed_by: run 11/19/2026, 9:07:26 AM CT
 blocked_on: null
 needs_bake: false
