@@ -32,3 +32,28 @@ Accessibility pass toward WCAG 2.1 AA: menus, cards, text size, colour-safe conf
 - Narration: every narrated piece shows its words while it plays, and narration can be paused or stopped (1.2.1, 1.4.2).
 - Motion: one Motion setting (System / Reduce / Full) that removes head-bob, fly-in travel and UI animation; no UI moves for more than 5 s without a way to stop it; nothing flashes more than three times a second (2.2.2, 2.3.1).
 - docs/ACCESSIBILITY.md states what conforms and names what does not (the 3-D canvas itself has text alternatives through cards, it is not itself screen-readable). Browser tests assert each item above.
+
+## Completed — PR #2221, merged to dev 2026-11-19 (a8ca90c13)
+
+Every acceptance line above is built and held by a browser test (tools/test_a11y_{menus,cards,jaunts,visual,colour_motion,letter_keys}.mjs). docs/ACCESSIBILITY.md gives each criterion and the known gaps: the WebGL town and its name cards are not themselves readable, and no physical screen reader has been tried. Not on production until a promote.
+
+Building card tabs by keyboard (phone), before and after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/cards-building-tabs-390-before.png?raw=true" width="300"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/cards-building-tabs-390-after.png?raw=true" width="300">
+
+Jaunt narration: words being read, Transcript and Pause (phone), before and after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/jaunts-transcript-390-before.png?raw=true" width="300"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/jaunts-transcript-390-after.png?raw=true" width="300">
+
+Text at 200 % (phone), before and after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/visual-text200-390-before.png?raw=true" width="300"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/visual-text200-390-after.png?raw=true" width="300">
+
+Grades by shape and pattern as well as colour, before and after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/colour-grade-marks-1280-before.png?raw=true" width="640">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/colour-grade-marks-1280-after.png?raw=true" width="640">
+
+Settings › Look › Motion (phone), before and after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/motion-settings-390-before.png?raw=true" width="300"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/f202e680f8cf190fab7c088d30af6f253c435022/evidence/wcag-T-3671/motion-settings-390-after.png?raw=true" width="300">
