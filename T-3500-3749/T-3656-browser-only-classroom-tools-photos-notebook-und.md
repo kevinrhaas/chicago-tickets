@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-18T18:14:48.664Z
 decision: null
 decision_answer: null
+group: T-3656,T-3657,T-3658
 ---
 
 Browser-only classroom tools: photos, notebook, understanding checks and lesson guides.
@@ -32,40 +33,48 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 19 November 2026, 01:38 UTC
+## Current recovery checkpoint — combined delivery, 19 November 2026
 
-PR #2197 remains draft, unmerged and in review at
-`b1f507400cb743a3985cb1d50de1ebd085bd4f63`, incorporating DEV `c676aa2f`.
-Primary renderer coverage is complete under the [scoped coverage matrix](https://github.com/kevinrhaas/chicago-evidence/tree/46910daedcd6f68a9b07f50d58328c21c16207a4/evidence/t3656-browser-classroom-2026-11-18/primary-coverage-matrix.md):
-desktop 1–12 and mobile 1 retain their original results under reviewed DEV-input
-equivalence; fresh b1 desktop 13–15 passed 310/0 in 54m06s, and mobile 2–15
-passed 826/0 in a summed 69m25s. Each completed invocation has final suite,
-zero-page-error and vendor checks. Mobile 2's original shell-exit receipt was
-lost across reconnection; its complete final PASS and guards are verified,
-without inventing an exit code. These timings are not device benchmarks.
+All three tickets now share **PR #2197**, branch
+`steward/t3656-browser-classroom`, pushed head `edc7099032cd6d55d7a7e7f0d66d313b15960f10`,
+tree `b9c9b74ecb9f98869ff6a46a4d56a1993db25dd8`. Its parents are normalized QA
+`ddc78606998ea8aee589941c6ab6cae76a80440a` and folded DEV
+`d47d9550bf914d33860a56b99fd11ad2f6f6018b`. This is one combined delivery
+with one pending `T-3656.json` changelog entry; the shipped DEV changelog
+is preserved and the duplicate `T-3657.json` entry is removed. PR #2199
+is superseded and awaits coordinator closure; no PR has merged.
 
-Moving/upload run **44422645797** passed, including 32 upload checks, on actual
-PR merge `cda72c80519f5478380dd44b67615e2f97142dd5` into DEV `c676aa2f`.
-Source run **44422645793** was refreshed once on the same inputs: attempt 1
-retained part 2 PASS174 while seven wholly queued parts were cancelled.
-At this checkpoint, attempt 2 has only **part 4 PASS174**; parts 2/6/8 have
-acquired runners and 1/3/5/7 are queued. All eight plus the aggregate remain
-required. Attempt 1's part 2
-is historical, not an attempt 2 pass. No complete release-gate success or
-merge is claimed.
+The prior parent-first/rebase plan is superseded: classroom capture/notebook,
+reflection/lessons, the daily photo hunt and bounded accessibility repairs
+will be validated and merged together through #2197. Historical recovery
+sections below retain the earlier two-PR plan only as history.
 
-Evidence checkpoint `46910daedcd6f68a9b07f50d58328c21c16207a4` links every
-retained/fresh log and full hash, both immutable phone manifests, failed/capped
-history, and attempt-aware source receipts. The historical 5034/ae4 cohort is
-preserved separately. Follow-up QA `ddc786069` has desktop 1–4 PASS320; its
-remaining renderer groups and full source work are separate, as T-3657 records.
+Completed b1/c676 renderer and moving/upload receipts remain their original
+baseline. All eight source attempt2 partitions passed1394 steps and its
+aggregate job passed, but the overall workflow was cancelled by the edc
+update; it is not an overall workflow success. The newer
+1904 villa/global evidence inputs and folded release feed require fresh
+official stages13–15 on desktop and mobile against the final combined build.
+Earlier1–12 evidence retains only its reviewed input scope. Current combined
+source/preflight/moving/upload checks are still required; source44442868750
+is queued on edc. No complete combined
+release pass is claimed.
 
-Finish the required current source gate, verify fresh DEV/head and required
-checks, then guarded-merge DEV when green. After the parent squash/fold, use
-T-3657's normalized integration method and preserve the shipped changelog.
-The owner already authorized green DEV merges and GitHub checkpoints. Keep
-this ticket in review until its PR actually merges; no new service or
-production promotion is included.
+Fresh ddc desktop13–15 completed308/2 with Space-inspect and transfer-blob
+error failures. That failing receipt remains separate; it is not green or
+silently repaired by consolidation. Fresh combined coverage is required.
+
+The frozen ddc source sequence passed1–6, then stopped on a stale XR wiring
+assertion in part7; part8 and preflight were unrun. The test-only XR capture
+repair from fd27937a is integrated, with20 focused checks and official isolation
+receipts. Incoming unique-ID validator measurements were refreshed and the
+combined isolation audit passed. Active partition reruns have no claimed result.
+
+Combined provenance: `/tmp/t3656-combined-d47-provenance.json`. Durable prior
+evidence is in chicago-evidence b0d2ccee3cc346be81b9b18bc7243618fbfa2ec9,
+with the incoming DEV review, scoped matrix and failed/capped history. Finish
+the final combined gates and guarded-merge DEV when green. Keep all three
+tickets in review until that merge; no new service or production promotion.
 
 ## Previous recovery checkpoint — 18 November 2026, 23:34 UTC
 

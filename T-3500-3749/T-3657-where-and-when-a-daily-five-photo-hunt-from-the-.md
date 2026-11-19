@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-18
 closed: null
-pr: 2199
+pr: 2197
 claimed_by: run 11/18/2026, 1:41:34 PM CT
 blocked_on: null
 needs_bake: false
@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-18T19:41:36.836Z
 decision: null
 decision_answer: null
-group: T-3657,T-3658
+group: T-3656,T-3657,T-3658
 ---
 
 Where and when: a daily five-photo hunt from the licensed 1904 evidence.
@@ -28,47 +28,46 @@ Where and when: a daily five-photo hunt from the licensed 1904 evidence.
 
 ## Owner scope and implementation plan
 
-The owner asked to continue top-priority non-server items after the first classroom delivery and to checkpoint work to GitHub. This implements list item 7. Runtime work is isolated from PR #2197 while its release gates finish; this follow-up merges after that PR. Candidate evidence ids, subject to canonical data/rights checks: a18-rba-taylor-2135-glessner-ne, a18-gh-cornell-glessner-rear-c1887, a18-rba-taylor-1801-kimball-c1895, a18-rba-levy-1812-wheeler, a16-pullman-det-4a08065. Five photographs of four places are acceptable and should be described honestly. No geometry or photographic-matching work is included.
+The owner asked to continue top-priority non-server items after the first classroom delivery and to checkpoint work to GitHub. This implements list item 7. This work is delivered together with the classroom and accessibility changes in combined PR #2197. Candidate evidence ids, subject to canonical data/rights checks: a18-rba-taylor-2135-glessner-ne, a18-gh-cornell-glessner-rear-c1887, a18-rba-taylor-1801-kimball-c1895, a18-rba-levy-1812-wheeler, a16-pullman-det-4a08065. Five photographs of four places are acceptable and should be described honestly. No geometry or photographic-matching work is included.
 
-## Current recovery checkpoint — 19 November 2026, 01:38 UTC
+## Current recovery checkpoint — combined delivery, 19 November 2026
 
-Dependent draft PR #2199 remains in review at
-`6ee1a689077839dd9923edbc80269dd2cbaccfb6`, pending parent #2197. Normalized QA
-`ddc78606998ea8aee589941c6ab6cae76a80440a` is pushed on
-`qa/t3657-t3658-current-dev-keyboard`, tree `fa70a0164ccbef670529470937b170677c5a99b0`,
-sole parent b1. It preserves current DEV c676 data/assets/generators/stamped
-changelog and parent policy/harness pins, with the T-3658 keyboard repair.
+All three tickets now share **PR #2197**, branch
+`steward/t3656-browser-classroom`, pushed head `edc7099032cd6d55d7a7e7f0d66d313b15960f10`,
+tree `b9c9b74ecb9f98869ff6a46a4d56a1993db25dd8`. Its parents are normalized QA
+`ddc78606998ea8aee589941c6ab6cae76a80440a` and folded DEV
+`d47d9550bf914d33860a56b99fd11ad2f6f6018b`. This is one combined delivery
+with one pending `T-3656.json` changelog entry; the shipped DEV changelog
+is preserved and the duplicate `T-3657.json` entry is removed. PR #2199
+is superseded and awaits coordinator closure; no PR has merged.
 
-Exact ddc published desktop **1–4 passed 320/0 in 38m29s**, run44426888539:
-307 staged checks plus 13 always-on checks once for the whole group, with
-complete final suite, zero-page-error and vendor assertions. Desktop 6–12
-(44426953188), desktop 13–15 (44426968208) and mobile 1–15 (44426984452) are
-active at this checkpoint; no partial group counts as passed. Historical b501
-desktop 5 is retained only under the documented unchanged-1835 geometry,
-detail-policy and direct-API proof; it is not fresh ddc or keyboard validation.
+The licensed five-photo hunt now ships with the classroom tools and
+accessibility work in this single PR. There is no remaining parent-first
+merge or post-parent rebase step. The normalized ddc contribution and folded
+DEV were integrated together; do not replay old raw history or use the
+03ecd-based changelog merge driver. Prior recovery sections below are historical.
 
-The isolated local ddc source gate completed **part 1/8 PASS175**, including
-63 self-tests. Its original shell-exit receipt was lost at compaction; the
-complete final CHECK PASS is present, so no exit code is invented. Receipt:
-`/tmp/t3657-ddc-source-part1of8.log`, SHA256
-`ffab42c3b5fb9de8e89e11dc768f89362d031c6386e9be93ebbad872d6a28b39`;
-provenance: `/tmp/t3657-ddc-source-provenance.json`. All eight parts, preflight
-and final integrated-head source/moving checks remain required. The active
-validation worktree and its separate tickets clone must remain undisturbed.
+On frozen ddc/c676, published desktop1–4 passed320/0 in38m29s and desktop6–12
+passed111/0 in82m18s. Each group counts its13 always-on checks once. Stage5
+retains only the documented unchanged1835 geometry/policy proof. These results
+are not fresh edc/d47 runs. Prior native hunt/source-date/rights receipts keep
+their original tested commit and scope.
 
-Parent renderer coverage is complete under its scoped retained/fresh matrix,
-and moving/upload passed; parent source attempt 2 has only part 4 green.
-Parts 2/6/8 have runners, 1/3/5/7 are queued, and aggregate remains pending.
-[Evidence46910da](https://github.com/kevinrhaas/chicago-evidence/tree/46910daedcd6f68a9b07f50d58328c21c16207a4/evidence/t3657-t3658-hunt-accessibility-2026-11-18) preserves
-completed ddc/native/keyboard receipts and the primary matrix separately.
+The separate ddc desktop13–15 group completed308/2, failing Space-inspect and
+transfer-blob error assertions. Preserve that failing receipt; current
+combined coverage remains required and no repair is inferred from this note.
 
-After #2197's actual squash/fold, apply the normalized b1-to-ddc contribution
-onto actual DEV, preserving its folded changelog and removal of T-3656.json;
-retain only this PR's T-3657 entry. Do not replay raw old history or the unsafe
-03ecd-based changelog merge driver. Compare the resulting runtime/data and
-any new DEV inputs before reusing coverage, then complete affected renderer
-and final source/moving gates. The [normalized patch and provenance](https://github.com/kevinrhaas/chicago-evidence/tree/46910daedcd6f68a9b07f50d58328c21c16207a4/evidence/t3657-t3658-hunt-accessibility-2026-11-18/current-dev-keyboard)
-are durable. Neither PR has merged; keep both tickets in review.
+Frozen local source parts1–6 passed; part7 failed one stale XR capture-shape
+assertion and stopped the sequence. Part8/preflight were unrun. Part1's final
+CHECK PASS is complete but its shell-exit receipt was lost; no exit code is
+invented. The test-only XR repair is now included in edc and focused checks
+pass, but current full source/preflight/moving/upload and refreshed official
+13–15 at both widths remain required. Active reruns are not counted as passes.
+
+Combined provenance: `/tmp/t3656-combined-d47-provenance.json`; prior evidence:
+chicago-evidence b0d2ccee3cc346be81b9b18bc7243618fbfa2ec9. Validate the actual
+combined inputs and any later DEV change before coverage reuse. This ticket
+stays in review with #2197; it is not done and #2199 is not its delivery PR.
 
 ## Previous recovery checkpoint — 18 November 2026
 
