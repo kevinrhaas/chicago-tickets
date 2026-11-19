@@ -1,7 +1,7 @@
 ---
 id: T-3664
 title: smoke part 14 dies after T-3658's 'Space activates a focused Navigator control' check: the next page.evaluate (on-foot Space) throws 'Execution context was destroyed, most likely because of a navigation' — the walk page reloads itself (same URL ?year=1835&keep-geometry=1, twice ~25 s before, then again) during the keyboard section; red on desktop and mobile on every PR since #2197 landed without a part-14 run (#2150 CI 135363867200 + local, #2207 mobile, #2210 desktop)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2211
 claimed_by: run 11/19/2026, 4:04:34 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T11:44:07Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44501061259
 claimed_at: 2026-11-19T10:04:35.624Z
 decision: null
