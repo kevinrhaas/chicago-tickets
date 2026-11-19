@@ -43,4 +43,19 @@ Canonical `data/jaunts/gossip-or-notice.json` and its four audience versions; so
 
 ## Implementation boundaries
 
-New isolated worktree `/workspace/chicago-investigation`, based on `3472ec872d00e33761490b0138b23da1c63daee2`. Ticket changes use a separate real clone at `/workspace/chicago-investigation-tickets`. Current release checkout, frozen published mirror and shared origin/dev ref remain untouched. Source and published validation are pending; no full gate has run for this ticket.
+New isolated worktree `/workspace/chicago-investigation`, based on `3472ec872d00e33761490b0138b23da1c63daee2`. Ticket changes use a separate real clone, now at `/workspace/chicago-investigation/chicago/4d/tickets` (moved from `/workspace/chicago-investigation-tickets`; not a symlink). Current release checkout, frozen published mirror and shared origin/dev ref remain untouched. Source and published validation are pending; no full gate has run for this ticket.
+
+
+## Recoverable implementation checkpoint — 19 November 2026
+
+Branch `steward/t3663-gossip-evidence`, first pushed implementation `9bca589e9`.
+The current worktree includes the model, native view, strings, CSS, preview hook,
+focused actual-store/export regression and documentation. Source/context review
+preserves the lost sale figure and Inferred Springfield reading. An independently
+edited Notebook entry is compared by payload before calling a repeated save a duplicate.
+
+Focused pure checks, reflection/notebook regressions, strings and changelog checks pass.
+The new source-gate command is officially measured with no in-tree or ignored writes;
+the isolation audit passes. Native browser fixture is prepared but unrun while the
+primary mobile release cohort owns CPU. Full source/preflight and published gates
+remain pending. No PR is open; do not merge before #2197 actually lands green.
