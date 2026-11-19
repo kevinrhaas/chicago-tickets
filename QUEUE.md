@@ -165,8 +165,6 @@ T-3553 — Finish people's clothing: no breakthrough in motion, better collars a
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
-T-3669 — Same spot, another year: Jump lands on the ground you stand on when the far year has it
-T-3670 — Check your understanding in the guide's voice: three questions with one answer each and retry
 T-3676 — Watch a block grow: a time-lapse of one block from its structures' built dates
 T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
 T-3678 — More Make your case mysteries: cited cases on other jaunts after the Gossip case
