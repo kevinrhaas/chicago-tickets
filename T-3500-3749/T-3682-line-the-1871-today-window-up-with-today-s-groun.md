@@ -1,7 +1,7 @@
 ---
 id: T-3682
 title: Line the 1871 Today window up with today's ground: on the river bank it showed the river
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2222
 claimed_by: run 11/19/2026, 10:07:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T18:09:17Z
 claimed_run: null
 claimed_at: 2026-11-19T16:07:06.153Z
 decision: null
