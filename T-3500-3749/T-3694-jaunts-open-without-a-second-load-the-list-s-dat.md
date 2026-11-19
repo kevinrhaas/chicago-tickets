@@ -1,7 +1,7 @@
 ---
 id: T-3694
 title: Jaunts open without a second load: the list's data and code fetched quietly after the town is ready
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2225
 claimed_by: run 11/19/2026, 11:00:49 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T19:16:26Z
 claimed_run: null
 claimed_at: 2026-11-19T17:00:51.360Z
 decision: null
