@@ -162,3 +162,4 @@ T-3673 — People met, places found: a local by-year collection in the People di
 T-3674 — On-site walking tour: Window mode leads a GPS walk along Prairie Avenue to Glessner House
 T-3675 — Chromebook class set: a tested low-end Chromebook profile and a one-tap year preload for the classroom
 T-3676 — Watch a block grow: a time-lapse of one block from its structures' built dates
+T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
