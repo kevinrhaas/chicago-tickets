@@ -1,7 +1,7 @@
 ---
 id: T-3671
 title: Accessibility pass toward WCAG 2.1 AA: menus, cards, text size, colour-safe confidence, narration transcripts
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 8:59:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-19T15:00:03.841Z
 decision: null
 decision_answer: null
 ---
