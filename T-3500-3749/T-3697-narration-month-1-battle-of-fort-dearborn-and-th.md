@@ -1,7 +1,7 @@
 ---
 id: T-3697
 title: Narration month 1: Battle of Fort Dearborn and the ten 1904 story jaunts voiced (Essayist), the two voiced Glessner jaunts restyled smooth
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2232
 claimed_by: run 11/19/2026, 1:09:42 PM CT
 blocked_on: null
 needs_bake: false
