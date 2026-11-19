@@ -1,7 +1,7 @@
 ---
 id: T-3654
 title: Build the 1871 citywide context baseline with varied buildings, streets and bridges
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-18
-closed: null
+closed: 2026-11-19
 pr: 2198
 claimed_by: continuing the same 1871 integration 11/18/2026, 11:06:18 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T14:33:27Z
 claimed_run: null
 claimed_at: 2026-11-18T17:06:19.857Z
 decision: null
