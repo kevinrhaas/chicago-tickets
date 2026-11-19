@@ -1,7 +1,7 @@
 ---
 id: T-1919
 title: Refine 2100 Sherman Victorian Gothic house envelope
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1837
 opened: 2026-10-01
 closed: null
-pr: null
+pr: 2214
 claimed_by: run 11/19/2026, 4:05:28 AM CT
 blocked_on: null
 needs_bake: true
