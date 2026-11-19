@@ -32,7 +32,44 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 18 November 2026, 23:34 UTC
+## Current recovery checkpoint — 19 November 2026
+
+PR #2197 is pushed, draft and unmerged at b1f507400cb743a3985cb1d50de1ebd085bd4f63.
+It cleanly incorporates current DEV c676aa2f4, preserving the Prairie houses, monument,
+derived sources/jaunts and folded changelog. Tree: 858aa04a6f34329f71efbbe0c472ad5902fea23b.
+The feature implementation is unchanged. Current source run44422645793 remains queued;
+moving/upload44422645797 is running. Content-build44422636884 correctly passed its
+warrant check and skipped redundant baking of already merged DEV generator changes.
+
+All fifteen desktop stages completed on the pre-DEV-integration runtime. The corrected
+stage13 retry passed157/0 in35m34, including its final revisit, completion, page errors and
+vendor checks. The earlier2100-second attempt stays archived as incomplete. Frozen proof:
+/tmp/t3656-local-stages-5034-complete.json, SHA256
+d65790467cb783f5f23761da4d768ba94164be31f03e5fec1e76abbec1dd2eb8.
+Desktop5 passed30/0; all three detail tiers were inside their exact ceilings.
+
+The current b1 mirror is published and frozen, built2026-11-19T00:01:25Z, smoke-tree
+sha256:6a914d94e3eb1159. Main remains58ae793d and harness eeebfe0a. Applicable completed
+desktop1–12 and mobile1 retain explicit behavioral/data equivalence proof; changed DEV
+inputs require desktop13–15 in run44422884843. Mobile2–15 now runs locally, sequentially,
+with SMOKE_TIMING=1 and1200+5-second caps:2 passed115 checks,3 passed107,4 is next.
+The wholly queued remote mobile run44422910837 was cancelled before any step.
+Current mobile manifest: /tmp/t3656-b1-mobile-stage-manifest.json. Do not publish or change
+source while that queue runs. The environment reconnected once; mobile2 survived and was
+continued, not restarted. Its final PASS is complete but the original shell exit receipt
+was lost with the connection; later stages retain their direct exit receipts.
+
+Evidence is pushed at chicago-evidence dae64772938ce55ec15cb4bb9dbc0f1c9c6d4ae2, with
+270 artifact hashes checked. Current recovery: /tmp/t3656-live-recovery.json. The follow-up
+candidate with the final keyboard repair is pushed at ddc78606998ea8aee589941c6ab6cae76a80440a
+on qa/t3657-t3658-current-dev-keyboard; its full renderer groups are queued separately.
+Read T3657/T3658's new recovery notes before final integration: use the normalized patch,
+not a raw replay that can unstamp shipped changelog entries. Neither PR has merged. Finish
+all current required checks, verify fresh DEV/head, and guarded-merge DEV only. The owner
+already authorized green DEV merges and periodic GitHub checkpoints; no further approval
+is required. No production promotion or new server/service activation.
+
+## Previous recovery checkpoint — 18 November 2026, 23:34 UTC
 
 The owner again requested periodic PR pushes and DEV merges when green. Both PRs remain
 pushed, draft and unmerged: #2197 at `5034a724d993abe0876a4db7bbfff02d2bb4da0a`,

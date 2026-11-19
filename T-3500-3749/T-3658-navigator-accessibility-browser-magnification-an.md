@@ -40,7 +40,34 @@ and dock/reopen. Actual keyboard browser fixtures at both widths should exercise
 Shift+Tab, not directly focus a rail button and thereby bypass the defect. This is part of
 the same accessibility PR, not a claim of full WCAG conformance or a new feature service.
 
-## Recovery checkpoint — 18 November 2026
+## Current recovery checkpoint — keyboard ownership, 19 November 2026
+
+The rail repair is in draft PR #2199 at6ee1a689. Further review reproduced a real capture/
+backend conflict: ArrowDown on a Navigator button requested pointer lock and moved the
+walker; Space inspected instead of activating the native button. The repair is backed up
+at597a7c392f7300eeafd069b2afe245c44c1bb7cf on backup/t3658-keyboard-ownership and included
+in normalized candidate ddc786069 on qa/t3657-t3658-current-dev-keyboard. It keeps reader/
+control keys with their focused UI, clears held motion when focus enters it, preserves
+world-focused controls and intended E-to-close card behavior, and excludes native dialogs,
+text fields and picture dialogs from that E exception. Existing isTyping semantics stay.
+
+Actual capture/backend regressions, existing Navigator/Settings tests and independent
+review pass. Native browser fixture passed20/20 checks at390x780 and1280x800, zero page/
+HTTP/external-request errors: real Space activation, rail Arrow focus, role-less dialogs,
+held-W then Tab into UI, world keys, prevented keys, popup/Inspect E and text entry. No world
+or WebGL was loaded; pointer-lock requests were counted without granting mouse capture.
+Official isolation measurement recorded zero in-tree writes for the new gate; tool SHA256
+d8f2163a1b9f38ebcaf83f68ff1660cf6485bd731b89f7e2e58707c9b853b21d. Audit/self-test passed;
+the full audit console result was reported but its empty log is not used as evidence.
+Native report: /tmp/t3658-keyboard-ownership-browser/report.json. Evidence checkpoint
+dae64772938ce55ec15cb4bb9dbc0f1c9c6d4ae2 retains source hashes, screenshots and receipts.
+
+T3657's current recovery note has the normalized integration method and pending full
+renderer run IDs. Merge parent first, preserve its folded changelog, then finish the final
+follow-up gates and merge DEV when green. This remains a bounded accessibility repair,
+not physical-device testing or whole-app WCAG certification. No PR has merged yet.
+
+## Previous recovery checkpoint — 18 November 2026
 
 Combined work is pushed in dependent draft PR #2199 at
 4a2ee67dcbc3067fd8e18fb432098822361f2476. Native published integration passed both widths
