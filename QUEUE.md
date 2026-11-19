@@ -101,6 +101,7 @@ T-3685 — 1871 street surfaces: dirt in most streets, Nicholson wood block down
 T-3686 — 1871 downtown builds shoulder to shoulder: attached period fronts with doors, stoops, steps and signs, full detail near the jaunt sites
 T-3687 — The Great Fire burns the 1871 city on its timeline: fire front, flames, smoke, glow, char and ash at each hour
 T-3688 — 1871 South Side fire landmarks from their pictures: Court House, Sherman and Tremont Houses, Chamber of Commerce, Crosby's, Field and Leiter, Palmer House, Tribune
+T-3689 — 1871 West and North Side fire places: the O'Leary cottage and barn, the Water Tower and pumping works, the Ogden house, the lake shore and Lincoln Park
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
