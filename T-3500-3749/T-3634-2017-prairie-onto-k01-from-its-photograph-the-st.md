@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/19/2026, 4:05:03 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44501074758
-claimed_at: 2026-11-19T10:05:04.579Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -44,3 +44,5 @@ T-1917 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-18** (claim of run 11/18/2026, 4:44:51 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44409897979): Built and on PR #2202 (resume: CI gate queued, nothing red): 2017 Prairie on K01 off its photograph, camera solved, match record differs. done is refused because T-3634 became T-1917's last open piece (T-3635 went to review) and so inherits the parent's image-gate sign-off for 2017 and 2021; 2017's open items need kit work (K08 gable lights and bargeboards, K10 crenellated cresting, carved dormer lunettes, ring-pierced porch parapet, a north stack on the flank's face, grilles on two lights in one K08 storey, a low area railing) and 2021's record is differs. Whoever takes this next: merge or confirm #2202, then do the sign-off
 
 **Released 2026-11-19** (claim of run 11/19/2026, 12:43:14 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44458298526): slice 7/8 only lapped PR #2202 (merged dev, re-baked, re-derived, gated green locally; handed on with resume while CI queued); the image gate still has 8 differences open on house_2017_prairie, so done --pr is refused
+
+**Released 2026-11-19** (claim of run 11/19/2026, 4:05:03 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44501074758): PR #2212 fixes two of 2017's open photograph differences (the crenellated crest along the mansard's curb, and grilles on the projection's two basement lights; the 'iron drawn twice' was the 0.1 m ring's legs lying on the 3rd and 5th bars). The sign-off still cannot close: 6 differences stay open on 2017 (dormer lunettes, gable bargeboards and dentil band, the gable's two attic lights — K08 cuts no light in a gable's face — the porch's ring-pierced parapet and ball finials, the north stack's place, the low area railing) and 7 on 2021's view, each needing kit work. Released untouched by any further claim; the next run takes the next kit gap
