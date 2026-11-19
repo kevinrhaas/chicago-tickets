@@ -1,7 +1,7 @@
 ---
 id: T-3631
 title: 2036 Prairie, the Buckingham house, onto K01 from the 1911 sheet and the c. 1880 engraving: the mansard front block, canted corner and flank bays, stone basement, the 21st Street face's hooded lights and sill course, the porch and balustraded stoop
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1911
 opened: 2026-11-17
-closed: null
+closed: 2026-11-19
 pr: 2209
 claimed_by: run 11/18/2026, 10:33:43 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T08:36:39Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44458307619
 claimed_at: 2026-11-19T04:33:44.016Z
 decision: null
