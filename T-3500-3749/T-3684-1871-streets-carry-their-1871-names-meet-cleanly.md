@@ -1,7 +1,7 @@
 ---
 id: T-3684
 title: 1871 streets carry their 1871 names, meet cleanly and curve smoothly; the THEN card names the intersection you stand at
-state: open
+state: claimed
 epic: TOWN
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 10:49:48 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-19T16:49:49.442Z
 decision: null
 decision_answer: null
 ---
