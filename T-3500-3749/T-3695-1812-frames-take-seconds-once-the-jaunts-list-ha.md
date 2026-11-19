@@ -1,7 +1,7 @@
 ---
 id: T-3695
 title: 1812 frames take seconds once the Jaunts list has opened
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2227
 claimed_by: run 11/19/2026, 11:30:28 AM CT
 blocked_on: null
 needs_bake: false
