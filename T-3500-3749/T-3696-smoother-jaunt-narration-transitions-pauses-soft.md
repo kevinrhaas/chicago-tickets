@@ -1,7 +1,7 @@
 ---
 id: T-3696
 title: Smoother jaunt narration (transitions, pauses, softer whispers and laughs), Glessner 3rd-grade re-voiced first; ElevenLabs budget plan
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
