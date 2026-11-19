@@ -157,3 +157,4 @@ T-3663 — Make your case: compare Gossip newspaper readings and save a cited an
 T-3669 — Same spot, another year: Jump lands on the ground you stand on when the far year has it
 T-3670 — Check your understanding in the guide's voice: three questions with one answer each and retry
 T-3671 — Accessibility pass toward WCAG 2.1 AA: menus, cards, text size, colour-safe confidence, narration transcripts
+T-3672 — Teacher routes: pick a jaunt or string stops and people into a route with questions, shared as one link or file
