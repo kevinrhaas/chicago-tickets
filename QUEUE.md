@@ -96,6 +96,11 @@ T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 # Glessner look research (owner, 2026-10-29), evidence only, up from 8b's foot.
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
+
+# --- 7B. 1871 — PRE-FIRE CHICAGO AND THE GREAT FIRE (owner, 2026-11-19, thread "Build the 1871 Great Fire jaunt and streetscapes":
+# ---     "you can add a chunk of tickets below the south through time and start working them in parallel"). One band for its own
+# ---     agents, worked in parallel: streets and names, surfaces and walks, dense downtown, the fire, the landmarks, people and
+# ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
 T-3684 — 1871 streets carry their 1871 names, meet cleanly and curve smoothly; the THEN card names the intersection you stand at
 T-3685 — 1871 street surfaces: dirt in most streets, Nicholson wood block downtown, stone at the wharves, raised plank walks with crossings
 T-3686 — 1871 downtown builds shoulder to shoulder: attached period fronts with doors, stoops, steps and signs, full detail near the jaunt sites
