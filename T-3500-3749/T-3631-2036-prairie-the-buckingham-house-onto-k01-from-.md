@@ -1,7 +1,7 @@
 ---
 id: T-3631
 title: 2036 Prairie, the Buckingham house, onto K01 from the 1911 sheet and the c. 1880 engraving: the mansard front block, canted corner and flank bays, stone basement, the 21st Street face's hooded lights and sill course, the porch and balustraded stoop
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1911
 opened: 2026-11-17
 closed: null
-pr: null
+pr: 2209
 claimed_by: run 11/18/2026, 10:33:43 PM CT
 blocked_on: null
 needs_bake: false
