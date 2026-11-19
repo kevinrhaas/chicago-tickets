@@ -1,7 +1,7 @@
 ---
 id: T-3677
 title: Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2237
 claimed_by: run 11/19/2026, 9:07:17 AM CT
 blocked_on: null
 needs_bake: false
