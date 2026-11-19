@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/18/2026, 4:44:51 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44409897979
-claimed_at: 2026-11-18T22:44:51.809Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -40,3 +40,5 @@ T-1917 carries an `## Image gate` section. The last of these pieces to close is 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
 **Released 2026-11-18** (claim of run 11/18/2026, 3:55:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44397638657): taken 52 min into a run after its lap of #2196 was overtaken by a lockless sibling (slice 1/8 shipped the same fix); scoped before building: the 2017 photo is not yet ingested (source record, rights baseline, camera solve) and the draft record must be rewritten as a full K01 spec (2021's T-3633 was 41 files), which with emit, bake, photo-match and the ~50 min gate does not fit the 95 min left — released untouched for a fresh run
+
+**Released 2026-11-18** (claim of run 11/18/2026, 4:44:51 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44409897979): Built and on PR #2202 (resume: CI gate queued, nothing red): 2017 Prairie on K01 off its photograph, camera solved, match record differs. done is refused because T-3634 became T-1917's last open piece (T-3635 went to review) and so inherits the parent's image-gate sign-off for 2017 and 2021; 2017's open items need kit work (K08 gable lights and bargeboards, K10 crenellated cresting, carved dormer lunettes, ring-pierced porch parapet, a north stack on the flank's face, grilles on two lights in one K08 storey, a low area railing) and 2021's record is differs. Whoever takes this next: merge or confirm #2202, then do the sign-off
