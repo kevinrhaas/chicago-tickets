@@ -19,7 +19,6 @@ claimed_run: null
 claimed_at: 2026-11-19T15:00:29.784Z
 decision: null
 decision_answer: null
-group: T-3672,T-3673
 ---
 
 Teacher routes: pick a jaunt or string stops and people into a route with questions, shared as one link or file.
