@@ -1,7 +1,7 @@
 ---
 id: T-3691
 title: The Great Chicago Fire jaunt: follow the fire from the O'Leary barn to the North Side, stop by stop, at its hours
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2243
 claimed_by: run 11/19/2026, 10:51:56 AM CT
 blocked_on: null
 needs_bake: false
