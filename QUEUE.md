@@ -159,3 +159,4 @@ T-3670 — Check your understanding in the guide's voice: three questions with o
 T-3671 — Accessibility pass toward WCAG 2.1 AA: menus, cards, text size, colour-safe confidence, narration transcripts
 T-3672 — Teacher routes: pick a jaunt or string stops and people into a route with questions, shared as one link or file
 T-3673 — People met, places found: a local by-year collection in the People directory and the Map
+T-3674 — On-site walking tour: Window mode leads a GPS walk along Prairie Avenue to Glessner House
