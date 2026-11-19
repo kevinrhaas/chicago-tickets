@@ -164,3 +164,4 @@ T-3675 — Chromebook class set: a tested low-end Chromebook profile and a one-t
 T-3676 — Watch a block grow: a time-lapse of one block from its structures' built dates
 T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
 T-3678 — More Make your case mysteries: cited cases on other jaunts after the Gossip case
+T-3679 — Play a part: choice-driven jaunts as a young person of 1835 and 1904
