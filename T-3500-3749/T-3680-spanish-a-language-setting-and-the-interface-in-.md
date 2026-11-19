@@ -1,7 +1,7 @@
 ---
 id: T-3680
 title: Spanish: a language setting and the interface in Spanish
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2219
 claimed_by: run 11/19/2026, 9:11:38 AM CT
 blocked_on: null
 needs_bake: false
