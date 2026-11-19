@@ -1,7 +1,7 @@
 ---
 id: T-3665
 title: 2101 Prairie onto K01 from the 1911 sheet: the 2½-storey brick house on its map plan, high stoop, hipped roof with its half storey, the attached rear wing and frame range (map-led bounded design; no picture of it is known)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1924
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 4:20:56 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44503136453
+claimed_at: 2026-11-19T10:20:56.978Z
 decision: null
 decision_answer: null
 ---
