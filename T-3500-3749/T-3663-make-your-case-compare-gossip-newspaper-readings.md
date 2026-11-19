@@ -59,3 +59,18 @@ The new source-gate command is officially measured with no in-tree or ignored wr
 the isolation audit passes. Native browser fixture is prepared but unrun while the
 primary mobile release cohort owns CPU. Full source/preflight and published gates
 remain pending. No PR is open; do not merge before #2197 actually lands green.
+
+
+### Latest checkpoint
+
+Pushed source head `fc51c9efcd56f863a3493d67101ae2e1ec60e75e`, branch
+`steward/t3663-gossip-evidence`. The new pure step is registered and officially measured;
+row `{wrote: [], wrote_ignored: []}`. Test SHA256
+`ac112f316beec3d15794cce9a355b20a36ed81ea8226fb8b32f276a5c6232db8`.
+Focused command receipts are preserved under `/tmp/t3663-source-receipts/`, with
+selected-tool isolation in `/tmp/t3663-isolation.log` and its audit log. They await the
+shared evidence archive; the source branch is the durable implementation checkpoint.
+Native fixture `/tmp/t3663-investigation-browser.mjs` is prepared but remains unrun.
+Full source/preflight and published application validation remain pending; no PR opened,
+no merge or release gate claimed. Do not rebase or merge until coordinator integration
+after PR #2197 lands. The current primary source and published mirror are untouched.
