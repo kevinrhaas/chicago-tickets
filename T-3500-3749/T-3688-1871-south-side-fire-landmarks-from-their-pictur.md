@@ -31,6 +31,20 @@ The South Side's fire landmarks stand in 1871 built from their pictures, ready t
 - The blocks round each (Court House square's four fronts, State Street from Lake to Monroe, Dearborn at Madison) are full-detail streetscape per T-3686.
 - Phone keeps every landmark (lower detail, never dropped). Before/after pictures inline in the PR, desktop and phone. Gate green, merged to dev.
 
+## Image gate
+
+- cook_county_court_house_1871
+- chamber_of_commerce_1871
+- sherman_house_1871
+
+## Progress (2026-11-19, first PR: the Court House square group)
+
+This ticket grew past one run, so its first PR ships the Court House square group, as the Notes allow, and the rest is recorded here rather than split.
+
+- **Shipped:** the Court House, the Chamber of Commerce and the Sherman House stand in the 1871 scene on a new pure-Python archetype, `landmark_1871` (blocks, faces, openings, cornices, mansards, towers, crests; K02/K03/K04 materials). Each has a record, a card with its fire hour and sources, a camera on its photograph and a match record. The GLB node's extras carry `fire.roles` (roof, glazing, walls, trim, iron mapped to material names) and `fire.shell` (what stood after: fate, walls left, hour) as the hook for T-3687.
+- **Image gate, still `differs`:** the Chamber of Commerce (the balcony over the entrance; the upper windows' curved pediments), the Sherman House (the second-storey balcony's railing; the attic's balustrade; the Clark Street portico), the Court House (its camera is not fitted because no dimension of the 1870 wings was found; the wings are a storey short; the great cupola is low and lacks its clock stage). Each item is in its view's match record.
+- **Remaining, not started:** the Tremont House (SE corner of Lake and Dearborn, 140 ft on Lake by 180 on Dearborn, five and a half storeys, Van Osdel, 1850: Andreas vol. 2, pp. 501-502), Crosby's Opera House, Field, Leiter and Co., the Palmer House and the Tribune building, and the full-detail blocks round each (T-3686).
+
 ## Notes
 
 - Reuse the 1904 K01 kit and Glessner-era masonry materials (cornices, window hoods, rusticated stone). If one landmark grows past a run, ship the others and record the rest in this ticket; ask Kevin before splitting it into per-building tickets (owner, 2026-10-25 ticket restraint).
