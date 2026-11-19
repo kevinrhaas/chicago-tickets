@@ -99,6 +99,7 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3684 — 1871 streets carry their 1871 names, meet cleanly and curve smoothly; the THEN card names the intersection you stand at
 T-3685 — 1871 street surfaces: dirt in most streets, Nicholson wood block downtown, stone at the wharves, raised plank walks with crossings
 T-3686 — 1871 downtown builds shoulder to shoulder: attached period fronts with doors, stoops, steps and signs, full detail near the jaunt sites
+T-3687 — The Great Fire burns the 1871 city on its timeline: fire front, flames, smoke, glow, char and ash at each hour
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
