@@ -1,7 +1,7 @@
 ---
 id: T-3672
 title: Teacher routes: pick a jaunt or string stops and people into a route with questions, shared as one link or file
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2229
 claimed_by: run 11/19/2026, 9:00:28 AM CT
 blocked_on: null
 needs_bake: false
