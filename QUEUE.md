@@ -179,5 +179,4 @@ T-3679 — Play a part: choice-driven jaunts as a young person of 1835 and 1904
 T-3681 — Spanish: every jaunt telling in Spanish
 T-3683 — 1871 city is mostly wood frame: fewer brick and stone stand-ins outside downtown, frame houses that read as painted clapboard
 T-3695 — 1812 frames take seconds once the Jaunts list has opened
-T-3696 — Smoother jaunt narration (transitions, pauses, softer whispers and laughs), Glessner 3rd-grade re-voiced first; ElevenLabs budget plan
 T-3697 — Narration month 1: Battle of Fort Dearborn and the ten 1904 story jaunts voiced (Essayist), the two voiced Glessner jaunts restyled smooth
