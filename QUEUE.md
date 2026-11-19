@@ -173,6 +173,4 @@ T-3676 — Watch a block grow: a time-lapse of one block from its structures' bu
 T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
 T-3678 — More Make your case mysteries: cited cases on other jaunts after the Gossip case
 T-3679 — Play a part: choice-driven jaunts as a young person of 1835 and 1904
-T-3681 — Spanish: every jaunt telling in Spanish
 T-3683 — 1871 city is mostly wood frame: fewer brick and stone stand-ins outside downtown, frame houses that read as painted clapboard
-T-3697 — Narration month 1: Battle of Fort Dearborn and the ten 1904 story jaunts voiced (Essayist), the two voiced Glessner jaunts restyled smooth

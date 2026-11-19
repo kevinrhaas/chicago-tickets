@@ -1,7 +1,7 @@
 ---
 id: T-3681
 title: Spanish: every jaunt telling in Spanish
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2234
 claimed_by: run 11/19/2026, 9:11:42 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T21:31:17Z
 claimed_run: null
 claimed_at: 2026-11-19T15:11:43.035Z
 decision: null
