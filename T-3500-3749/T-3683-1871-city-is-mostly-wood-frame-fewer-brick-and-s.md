@@ -1,7 +1,7 @@
 ---
 id: T-3683
 title: 1871 city is mostly wood frame: fewer brick and stone stand-ins outside downtown, frame houses that read as painted clapboard
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2220
 claimed_by: run 11/19/2026, 10:08:20 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T22:41:29Z
 claimed_run: null
 claimed_at: 2026-11-19T16:08:21.768Z
 decision: null
