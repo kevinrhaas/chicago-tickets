@@ -1,7 +1,7 @@
 ---
 id: T-3660
 title: 2031 Prairie, the Lemont-limestone row house, onto K01: the stone front on its lot module, full-height bay, high stoop, hooded windows, bracketed cornice and rear wing, and whether the 1887 Dewey drawing belongs to 2031 at all
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1918
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 10:46:26 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44459497791
+claimed_at: 2026-11-19T04:46:27.353Z
 decision: null
 decision_answer: null
 ---
