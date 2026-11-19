@@ -69,7 +69,6 @@ T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3659 — 2033 Prairie, the Otis rowhouse, onto K01 from the 1946 Walker Evans photographs: the narrow stone front, the full-height canted bay, carved segmental hoods, bracketed cornice, pedimented double-door hood, high stoop and iron boundary
 T-3660 — 2031 Prairie, the Lemont-limestone row house, onto K01: the stone front on its lot module, full-height bay, high stoop, hooded windows, bracketed cornice and rear wing, and whether the 1887 Dewey drawing belongs to 2031 at all
-T-3661 — 2035 Prairie, the corner of the limestone row, onto K01: the corner return, high stoop, window hoods and the mixed brick and frame rear building, its cornice and party walls coordinated with 2031 and 2033
 T-3632 — 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
 T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
