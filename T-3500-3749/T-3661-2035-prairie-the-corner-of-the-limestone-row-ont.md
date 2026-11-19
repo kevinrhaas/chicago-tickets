@@ -1,7 +1,7 @@
 ---
 id: T-3661
 title: 2035 Prairie, the corner of the limestone row, onto K01: the corner return, high stoop, window hoods and the mixed brick and frame rear building, its cornice and party walls coordinated with 2031 and 2033
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1918
 opened: 2026-11-18
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/18/2026, 10:49:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44458263114
+claimed_at: 2026-11-19T04:49:29.356Z
 decision: null
 decision_answer: null
 ---
