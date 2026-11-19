@@ -168,7 +168,6 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3669 — Same spot, another year: Jump lands on the ground you stand on when the far year has it
 T-3670 — Check your understanding in the guide's voice: three questions with one answer each and retry
 T-3674 — On-site walking tour: Window mode leads a GPS walk along Prairie Avenue to Glessner House
-T-3675 — Chromebook class set: a tested low-end Chromebook profile and a one-tap year preload for the classroom
 T-3676 — Watch a block grow: a time-lapse of one block from its structures' built dates
 T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
 T-3678 — More Make your case mysteries: cited cases on other jaunts after the Gossip case
