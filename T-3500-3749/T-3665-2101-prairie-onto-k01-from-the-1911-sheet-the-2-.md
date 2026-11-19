@@ -1,7 +1,7 @@
 ---
 id: T-3665
 title: 2101 Prairie onto K01 from the 1911 sheet: the 2½-storey brick house on its map plan, high stoop, hipped roof with its half storey, the attached rear wing and frame range (map-led bounded design; no picture of it is known)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1924
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2215
 claimed_by: run 11/19/2026, 4:20:56 AM CT
 blocked_on: null
 needs_bake: false
