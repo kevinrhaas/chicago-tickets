@@ -66,7 +66,6 @@ T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 
 T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-T-3660 — 2031 Prairie, the Lemont-limestone row house, onto K01: the stone front on its lot module, full-height bay, high stoop, hooded windows, bracketed cornice and rear wing, and whether the 1887 Dewey drawing belongs to 2031 at all
 T-3632 — 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
 T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
