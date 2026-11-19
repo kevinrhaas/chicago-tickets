@@ -1,7 +1,7 @@
 ---
 id: T-3669
 title: Same spot, another year: Jump lands on the ground you stand on when the far year has it
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2218
 claimed_by: run 11/19/2026, 8:44:36 AM CT
 blocked_on: null
 needs_bake: false
