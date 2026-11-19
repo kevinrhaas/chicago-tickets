@@ -1,7 +1,7 @@
 ---
 id: T-3687
 title: The Great Fire burns the 1871 city on its timeline: fire front, flames, smoke, glow, char and ash at each hour
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2228
 claimed_by: run 11/19/2026, 10:51:52 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T21:17:10Z
 claimed_run: null
 claimed_at: 2026-11-19T16:51:53.252Z
 decision: null
