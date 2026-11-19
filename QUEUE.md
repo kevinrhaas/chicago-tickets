@@ -96,6 +96,7 @@ T-1947 — Verify the completed 16th-18th Prairie streetscape
 T-1949 — Verify the completed 20th-22nd Prairie streetscape
 # Glessner look research (owner, 2026-10-29), evidence only, up from 8b's foot.
 T-3246 — Marble look target for Glessner: one photo-generated world beside our render, evidence only
+T-3684 — 1871 streets carry their 1871 names, meet cleanly and curve smoothly; the THEN card names the intersection you stand at
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
