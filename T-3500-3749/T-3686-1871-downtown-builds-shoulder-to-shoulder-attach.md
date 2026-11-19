@@ -1,7 +1,7 @@
 ---
 id: T-3686
 title: 1871 downtown builds shoulder to shoulder: attached period fronts with doors, stoops, steps and signs, full detail near the jaunt sites
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2231
 claimed_by: run 11/19/2026, 10:52:27 AM CT
 blocked_on: null
 needs_bake: false
