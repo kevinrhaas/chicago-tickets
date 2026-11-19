@@ -1,7 +1,7 @@
 ---
 id: T-3673
 title: People met, places found: a local by-year collection in the People directory and the Map
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 9:00:58 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-19T15:01:00.507Z
 decision: null
 decision_answer: null
 ---
