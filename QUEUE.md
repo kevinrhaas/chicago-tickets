@@ -166,3 +166,4 @@ T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on
 T-3678 — More Make your case mysteries: cited cases on other jaunts after the Gossip case
 T-3679 — Play a part: choice-driven jaunts as a young person of 1835 and 1904
 T-3680 — Spanish: a language setting and the interface in Spanish
+T-3681 — Spanish: every jaunt telling in Spanish
