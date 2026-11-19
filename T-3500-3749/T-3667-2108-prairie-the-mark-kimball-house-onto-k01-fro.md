@@ -1,7 +1,7 @@
 ---
 id: T-3667
 title: 2108 Prairie, the Mark Kimball house, onto K01 from the 1911 sheet and the 1898 Tribune cut: the two-storey brick house on its map plan, high stoop, simple cornice and roof, rear wing, and the image-gate sign-off
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1921
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2216
 claimed_by: run 11/19/2026, 4:56:15 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T16:51:46Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44508663143
 claimed_at: 2026-11-19T10:56:16.295Z
 decision: null
