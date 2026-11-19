@@ -156,3 +156,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3663 — Make your case: compare Gossip newspaper readings and save a cited answer
 T-3669 — Same spot, another year: Jump lands on the ground you stand on when the far year has it
 T-3670 — Check your understanding in the guide's voice: three questions with one answer each and retry
+T-3671 — Accessibility pass toward WCAG 2.1 AA: menus, cards, text size, colour-safe confidence, narration transcripts
