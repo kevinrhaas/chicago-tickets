@@ -72,7 +72,8 @@ T-3660 — 2031 Prairie, the Lemont-limestone row house, onto K01: the stone fro
 T-3632 — 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
 T-1919 — Refine 2100 Sherman Victorian Gothic house envelope
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
-T-1924 — Refine 2101 and 2109 Roloson neighbours
+T-3665 — 2101 Prairie onto K01 from the 1911 sheet: the 2½-storey brick house on its map plan, high stoop, hipped roof with its half storey, the attached rear wing and frame range (map-led bounded design; no picture of it is known)
+T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
 T-1921 — Refine 2108 Mark Kimball and 2112 Rothschild
 T-1922 — Refine 2110 Rees at its historical site envelope
 T-1923 — Finish 2110 Rees at its historical site architecture
