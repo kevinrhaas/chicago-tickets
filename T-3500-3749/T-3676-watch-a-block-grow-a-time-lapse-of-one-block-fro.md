@@ -1,7 +1,7 @@
 ---
 id: T-3676
 title: Watch a block grow: a time-lapse of one block from its structures' built dates
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 9:03:22 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-19T15:03:23.082Z
 decision: null
 decision_answer: null
 ---
