@@ -184,3 +184,4 @@ T-3681 — Spanish: every jaunt telling in Spanish
 T-3682 — Line the 1871 Today window up with today's ground: on the river bank it showed the river
 T-3683 — 1871 city is mostly wood frame: fewer brick and stone stand-ins outside downtown, frame houses that read as painted clapboard
 T-3694 — Jaunts open without a second load: the list's data and code fetched quietly after the town is ready
+T-3695 — 1812 frames take seconds once the Jaunts list has opened
