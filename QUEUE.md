@@ -171,7 +171,6 @@ T-3663 — Make your case: compare Gossip newspaper readings and save a cited an
 T-3669 — Same spot, another year: Jump lands on the ground you stand on when the far year has it
 T-3670 — Check your understanding in the guide's voice: three questions with one answer each and retry
 T-3672 — Teacher routes: pick a jaunt or string stops and people into a route with questions, shared as one link or file
-T-3673 — People met, places found: a local by-year collection in the People directory and the Map
 T-3674 — On-site walking tour: Window mode leads a GPS walk along Prairie Avenue to Glessner House
 T-3675 — Chromebook class set: a tested low-end Chromebook profile and a one-tap year preload for the classroom
 T-3676 — Watch a block grow: a time-lapse of one block from its structures' built dates
