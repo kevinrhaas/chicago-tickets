@@ -23,8 +23,6 @@ decision_answer: null
 
 Narration month 2: the rest of the 1904 originals, the First Fort Dearborn tour, the Lalime jaunt and the battle's 3-5 and 9-10 tellings, Essayist, smooth.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
-
 Kevin, 2026-11-19 (thread "Build out jaunt narration within the ElevenLabs budget"): approved the budget plan (https://claude.ai/artifact/7vfHtfhkU8fdrzSNnowMae), Essayist only for new jaunts; "You can start now and work towards the full budget". Month 2 of the plan: Famous Names, Notable Women, Ghosts at Night, Architects, the three style walks, First Fort Dearborn tour, Killing of Jean Lalime, Battle of Fort Dearborn grades 3-5 and 9-10 (about 78,000 characters).
 
 **Acceptance:** each has a smooth direction that test_narration passes; voices.json lists them essayist-only after month 1, so they voice in plan order only once month 1 is voiced and only within the per-run cap and the quota.
