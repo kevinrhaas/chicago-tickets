@@ -1,7 +1,7 @@
 ---
 id: T-3692
 title: The Last Sunday jaunt: walk 1871 Chicago at its peak on 8 October, from Lake Street to DeKoven Street at dusk
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2246
 claimed_by: run 11/19/2026, 10:59:10 AM CT
 blocked_on: null
 needs_bake: false
