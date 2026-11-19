@@ -1,7 +1,7 @@
 ---
 id: T-3674
 title: On-site walking tour: Window mode leads a GPS walk along Prairie Avenue to Glessner House
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2241
 claimed_by: run 11/19/2026, 9:03:14 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-19T23:44:12Z
 claimed_run: null
 claimed_at: 2026-11-19T15:03:15.620Z
 decision: null
