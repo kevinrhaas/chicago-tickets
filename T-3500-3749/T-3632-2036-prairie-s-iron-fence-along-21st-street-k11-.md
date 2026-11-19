@@ -1,7 +1,7 @@
 ---
 id: T-3632
 title: 2036 Prairie's iron fence along 21st Street (K11 lays no side-street iron yet), the 1890s photograph's camera, and the image-gate sign-off (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1911
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 4:05:07 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44501109819
+claimed_at: 2026-11-19T10:05:08.438Z
 decision: null
 decision_answer: null
 ---
