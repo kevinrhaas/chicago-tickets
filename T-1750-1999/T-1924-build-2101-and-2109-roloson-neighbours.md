@@ -1,7 +1,7 @@
 ---
 id: T-1924
 title: Refine 2101 and 2109 Roloson neighbours
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/19/2026, 4:18:15 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44503136453
+claimed_at: 2026-11-19T10:18:16.226Z
 decision: null
 decision_answer: null
 ---
