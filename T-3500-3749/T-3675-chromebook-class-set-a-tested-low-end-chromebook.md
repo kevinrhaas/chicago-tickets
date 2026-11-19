@@ -1,7 +1,7 @@
 ---
 id: T-3675
 title: Chromebook class set: a tested low-end Chromebook profile and a one-tap year preload for the classroom
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2235
 claimed_by: run 11/19/2026, 9:03:18 AM CT
 blocked_on: null
 needs_bake: false
