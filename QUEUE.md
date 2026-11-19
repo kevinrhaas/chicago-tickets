@@ -160,3 +160,4 @@ T-3654 — Build the 1871 citywide context baseline with varied buildings, stree
 T-3656 — Browser-only classroom tools: photos, notebook, understanding checks and lesson guides
 T-3657 — Where and when: a daily five-photo hunt from the licensed 1904 evidence
 T-3658 — Navigator accessibility: browser magnification and keyboard-safe picture dialogs
+T-3663 — Make your case: compare Gossip newspaper readings and save a cited answer
