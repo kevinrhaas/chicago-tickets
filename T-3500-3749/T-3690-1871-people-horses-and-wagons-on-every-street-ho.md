@@ -31,6 +31,33 @@ The 1871 city has its people, horses and wagons on every street, as 1812, 1835 a
 - Fire behaviour (driven by T-3687's clock): crowds stream away from the front carrying bundles, pushing carts, dragging trunks; wagons loaded high; engine crews working at hydrants. No one is shown burning in a students' telling; the adults telling may show the dead after the fact, from the accounts.
 - People, horses, carriages and wagons are kept on every device (lower resolution, never dropped). Before/after pictures inline in the PR, desktop and phone. Gate green, merged to dev.
 
+## Remainder after PR 1 (people and wagons)
+
+PR 1 put the carded town (3,606 people in 1,014 households from 17 hubs and 16 scattered blocks, households
+under data/residents_1871/) and 13 driven wagons on the 1871 streets. Still to do under this ticket:
+
+- Horse cars on State, Madison and the West Division lines. Needs a horse-car GLB from period
+  pictures (state-street-horse-cars-date-unconfirmed.png in the owner's references is undated, so
+  reference only) and a standing `platform` driver mode for the transport assembly, which knows only
+  `on_foot` and seated drivers today.
+- Carriages and broughams: the 1904 carriages need a `driver_export_scene` tweak in the driven-loop
+  loader before an 1871 row can borrow them.
+- The steam fire engine with hose cart and team ("Little Giant", "Long John"), new from period
+  pictures.
+- Fire behaviours (PR 2), reading T-3687's `api.fire.time()` / onFire defensively: fleeing crowds
+  with bundles, loaded wagons, engine crews at hydrants, Monday's refugees on the lake shore and in
+  Lincoln Park. No one shown burning in a students' telling.
+- North Side wagons: its streets in the context city are 12-14 m and Halsted and Chicago Avenue
+  cross bridges, so no 1871 loop runs there yet (lay_driven_1871.mjs keeps rows on streets of 20 m
+  and more).
+- Shawls and bonnets for the women's wardrobe; the 1871 wardrobe borrows 1835 and 1904 bodies
+  (L-wardrobe-1871).
+
+Traps: drivers_1871.json holds each loop's frozen corners, so a context-city street change means
+re-running `node tools/lay_driven_1871.mjs --audit`. Walk ribbons sit a few centimetres above the
+roadway where they cross it, so 1871 teams read road ribbons only (`roadHeightOf`) and run with
+rough_road off. A horse-coat recipe must list a scene before teams there assemble.
+
 ## Notes
 
 - T-3553 (people) stays open and is the place for findings that are not 1871-specific.
