@@ -32,42 +32,40 @@ Start the top no-new-server items in parallel and account for the whole attached
 The broader list and disposition are recorded in `chicago/4d/docs/CLASSROOM-FEATURES.md`. This ticket owns the first browser-only classroom workflow; it does not claim all twenty features are complete. No server purchase, cloud service activation, multiplayer or production promotion is included.
 
 
-## Current recovery checkpoint — 19 November 2026
+## Current recovery checkpoint — 19 November 2026, 01:38 UTC
 
-PR #2197 is pushed, draft and unmerged at b1f507400cb743a3985cb1d50de1ebd085bd4f63.
-It cleanly incorporates current DEV c676aa2f4, preserving the Prairie houses, monument,
-derived sources/jaunts and folded changelog. Tree: 858aa04a6f34329f71efbbe0c472ad5902fea23b.
-The feature implementation is unchanged. Current source run44422645793 remains queued;
-moving/upload44422645797 is running. Content-build44422636884 correctly passed its
-warrant check and skipped redundant baking of already merged DEV generator changes.
+PR #2197 remains draft, unmerged and in review at
+`b1f507400cb743a3985cb1d50de1ebd085bd4f63`, incorporating DEV `c676aa2f`.
+Primary renderer coverage is complete under the [scoped coverage matrix](https://github.com/kevinrhaas/chicago-evidence/tree/46910daedcd6f68a9b07f50d58328c21c16207a4/evidence/t3656-browser-classroom-2026-11-18/primary-coverage-matrix.md):
+desktop 1–12 and mobile 1 retain their original results under reviewed DEV-input
+equivalence; fresh b1 desktop 13–15 passed 310/0 in 54m06s, and mobile 2–15
+passed 826/0 in a summed 69m25s. Each completed invocation has final suite,
+zero-page-error and vendor checks. Mobile 2's original shell-exit receipt was
+lost across reconnection; its complete final PASS and guards are verified,
+without inventing an exit code. These timings are not device benchmarks.
 
-All fifteen desktop stages completed on the pre-DEV-integration runtime. The corrected
-stage13 retry passed157/0 in35m34, including its final revisit, completion, page errors and
-vendor checks. The earlier2100-second attempt stays archived as incomplete. Frozen proof:
-/tmp/t3656-local-stages-5034-complete.json, SHA256
-d65790467cb783f5f23761da4d768ba94164be31f03e5fec1e76abbec1dd2eb8.
-Desktop5 passed30/0; all three detail tiers were inside their exact ceilings.
+Moving/upload run **44422645797** passed, including 32 upload checks, on actual
+PR merge `cda72c80519f5478380dd44b67615e2f97142dd5` into DEV `c676aa2f`.
+Source run **44422645793** was refreshed once on the same inputs: attempt 1
+retained part 2 PASS174 while seven wholly queued parts were cancelled.
+At this checkpoint, attempt 2 has only **part 4 PASS174**; parts 2/6/8 have
+acquired runners and 1/3/5/7 are queued. All eight plus the aggregate remain
+required. Attempt 1's part 2
+is historical, not an attempt 2 pass. No complete release-gate success or
+merge is claimed.
 
-The current b1 mirror is published and frozen, built2026-11-19T00:01:25Z, smoke-tree
-sha256:6a914d94e3eb1159. Main remains58ae793d and harness eeebfe0a. Applicable completed
-desktop1–12 and mobile1 retain explicit behavioral/data equivalence proof; changed DEV
-inputs require desktop13–15 in run44422884843. Mobile2–15 now runs locally, sequentially,
-with SMOKE_TIMING=1 and1200+5-second caps:2 passed115 checks,3 passed107,4 is next.
-The wholly queued remote mobile run44422910837 was cancelled before any step.
-Current mobile manifest: /tmp/t3656-b1-mobile-stage-manifest.json. Do not publish or change
-source while that queue runs. The environment reconnected once; mobile2 survived and was
-continued, not restarted. Its final PASS is complete but the original shell exit receipt
-was lost with the connection; later stages retain their direct exit receipts.
+Evidence checkpoint `46910daedcd6f68a9b07f50d58328c21c16207a4` links every
+retained/fresh log and full hash, both immutable phone manifests, failed/capped
+history, and attempt-aware source receipts. The historical 5034/ae4 cohort is
+preserved separately. Follow-up QA `ddc786069` has desktop 1–4 PASS320; its
+remaining renderer groups and full source work are separate, as T-3657 records.
 
-Evidence is pushed at chicago-evidence dae64772938ce55ec15cb4bb9dbc0f1c9c6d4ae2, with
-270 artifact hashes checked. Current recovery: /tmp/t3656-live-recovery.json. The follow-up
-candidate with the final keyboard repair is pushed at ddc78606998ea8aee589941c6ab6cae76a80440a
-on qa/t3657-t3658-current-dev-keyboard; its full renderer groups are queued separately.
-Read T3657/T3658's new recovery notes before final integration: use the normalized patch,
-not a raw replay that can unstamp shipped changelog entries. Neither PR has merged. Finish
-all current required checks, verify fresh DEV/head, and guarded-merge DEV only. The owner
-already authorized green DEV merges and periodic GitHub checkpoints; no further approval
-is required. No production promotion or new server/service activation.
+Finish the required current source gate, verify fresh DEV/head and required
+checks, then guarded-merge DEV when green. After the parent squash/fold, use
+T-3657's normalized integration method and preserve the shipped changelog.
+The owner already authorized green DEV merges and GitHub checkpoints. Keep
+this ticket in review until its PR actually merges; no new service or
+production promotion is included.
 
 ## Previous recovery checkpoint — 18 November 2026, 23:34 UTC
 

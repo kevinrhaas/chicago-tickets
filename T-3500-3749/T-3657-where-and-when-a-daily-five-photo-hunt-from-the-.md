@@ -30,32 +30,45 @@ Where and when: a daily five-photo hunt from the licensed 1904 evidence.
 
 The owner asked to continue top-priority non-server items after the first classroom delivery and to checkpoint work to GitHub. This implements list item 7. Runtime work is isolated from PR #2197 while its release gates finish; this follow-up merges after that PR. Candidate evidence ids, subject to canonical data/rights checks: a18-rba-taylor-2135-glessner-ne, a18-gh-cornell-glessner-rear-c1887, a18-rba-taylor-1801-kimball-c1895, a18-rba-levy-1812-wheeler, a16-pullman-det-4a08065. Five photographs of four places are acceptable and should be described honestly. No geometry or photographic-matching work is included.
 
-## Current recovery checkpoint — 19 November 2026
+## Current recovery checkpoint — 19 November 2026, 01:38 UTC
 
-Dependent draft PR #2199 remains at6ee1a689077839dd9923edbc80269dd2cbaccfb6 while parent
-#2197 finishes. The final combined follow-up is pushed for review/validation at
-ddc78606998ea8aee589941c6ab6cae76a80440a on qa/t3657-t3658-current-dev-keyboard, tree
-fa70a0164ccbef670529470937b170677c5a99b0, sole parent b1f507400. It incorporates current
-DEVc676aa2f and the keyboard ownership repair described in T3658. All current DEV data,
-assets, generators and stamped changelog remain exact; parent budget/harness pins remain.
+Dependent draft PR #2199 remains in review at
+`6ee1a689077839dd9923edbc80269dd2cbaccfb6`, pending parent #2197. Normalized QA
+`ddc78606998ea8aee589941c6ab6cae76a80440a` is pushed on
+`qa/t3657-t3658-current-dev-keyboard`, tree `fa70a0164ccbef670529470937b170677c5a99b0`,
+sole parent b1. It preserves current DEV c676 data/assets/generators/stamped
+changelog and parent policy/harness pins, with the T-3658 keyboard repair.
 
-Full published-renderer groups are queued: desktop1–4 run44426888539,6–12 run44426953188,
-13–15 run44426968208, mobile1–15 run44426984452. Historical b501 desktop5 passed30/0 and
-13 passed157/0. Only stage5 is retained under a precise proof of identical1835 geometry,
-detail policy and direct API behavior; its original source attribution remains. New
-keyboard behavior and fresh boot/error checks are covered separately. Source6ee parts
-2/3/6/7 passed; its remaining wholly queued parts were cancelled. No incomplete source
-gate is treated as green. Final source/moving/upload gates remain required.
+Exact ddc published desktop **1–4 passed 320/0 in 38m29s**, run44426888539:
+307 staged checks plus 13 always-on checks once for the whole group, with
+complete final suite, zero-page-error and vendor assertions. Desktop 6–12
+(44426953188), desktop 13–15 (44426968208) and mobile 1–15 (44426984452) are
+active at this checkpoint; no partial group counts as passed. Historical b501
+desktop 5 is retained only under the documented unchanged-1835 geometry,
+detail-policy and direct-API proof; it is not fresh ddc or keyboard validation.
 
-After parent #2197 squash/fold, apply the normalized b1-to-ddc patch onto actual DEV and
-verify the resulting input differences. Do NOT replay the raw old history or invoke the
-03ecd-based changelog merge driver: review proved it can unstamp shipped upstream entries.
-Preserve DEV's folded changelog and removal of T3656.json; retain only T3657's entry for
-this PR. Exact patch/provenance: /tmp/t3657-t3658-current-dev-keyboard/combined.patch and
-provenance.json; remote candidate is the durable copy. If DEV advances again, preserve its
-new inputs and validate affected coverage before reuse. Evidence through native keyboard
-validation is pushed at chicago-evidence dae64772938ce55ec15cb4bb9dbc0f1c9c6d4ae2.
-PR body links the candidate and records the remaining gates. No DEV merge yet.
+The isolated local ddc source gate completed **part 1/8 PASS175**, including
+63 self-tests. Its original shell-exit receipt was lost at compaction; the
+complete final CHECK PASS is present, so no exit code is invented. Receipt:
+`/tmp/t3657-ddc-source-part1of8.log`, SHA256
+`ffab42c3b5fb9de8e89e11dc768f89362d031c6386e9be93ebbad872d6a28b39`;
+provenance: `/tmp/t3657-ddc-source-provenance.json`. All eight parts, preflight
+and final integrated-head source/moving checks remain required. The active
+validation worktree and its separate tickets clone must remain undisturbed.
+
+Parent renderer coverage is complete under its scoped retained/fresh matrix,
+and moving/upload passed; parent source attempt 2 has only part 4 green.
+Parts 2/6/8 have runners, 1/3/5/7 are queued, and aggregate remains pending.
+[Evidence46910da](https://github.com/kevinrhaas/chicago-evidence/tree/46910daedcd6f68a9b07f50d58328c21c16207a4/evidence/t3657-t3658-hunt-accessibility-2026-11-18) preserves
+completed ddc/native/keyboard receipts and the primary matrix separately.
+
+After #2197's actual squash/fold, apply the normalized b1-to-ddc contribution
+onto actual DEV, preserving its folded changelog and removal of T-3656.json;
+retain only this PR's T-3657 entry. Do not replay raw old history or the unsafe
+03ecd-based changelog merge driver. Compare the resulting runtime/data and
+any new DEV inputs before reusing coverage, then complete affected renderer
+and final source/moving gates. The [normalized patch and provenance](https://github.com/kevinrhaas/chicago-evidence/tree/46910daedcd6f68a9b07f50d58328c21c16207a4/evidence/t3657-t3658-hunt-accessibility-2026-11-18/current-dev-keyboard)
+are durable. Neither PR has merged; keep both tickets in review.
 
 ## Previous recovery checkpoint — 18 November 2026
 
