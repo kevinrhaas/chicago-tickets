@@ -1,7 +1,7 @@
 ---
 id: T-3616
 title: 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1915
 opened: 2026-11-16
-closed: null
+closed: 2026-11-20
 pr: 2254
 claimed_by: run 11/20/2026, 2:10:25 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T23:27:54Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44699440082
 claimed_at: 2026-11-20T08:10:26.272Z
 decision: null
