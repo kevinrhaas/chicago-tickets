@@ -1,7 +1,7 @@
 ---
 id: T-3709
 title: 1835 on a phone: bring the JS heap back down from 130 MB (100.1 on main 137da5c8a, 2026-11-17) with a heap snapshot, so the 575 MiB line T-3708 set can come back toward 525
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2264
 claimed_by: run 11/20/2026, 2:23:31 PM CT
 blocked_on: null
 needs_bake: false
