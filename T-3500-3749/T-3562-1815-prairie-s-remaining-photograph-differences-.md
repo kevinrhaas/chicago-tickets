@@ -1,7 +1,7 @@
 ---
 id: T-3562
 title: 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1893
 opened: 2026-11-12
 closed: null
 pr: null
-claimed_by: run 11/20/2026, 6:41:47 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44736012268
-claimed_at: 2026-11-20T12:41:47.951Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -72,3 +72,5 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-18** (claim of run 11/18/2026, 3:46:18 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44403147686): PR #2200 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) builds the oblique print's fourth pot on 1815's south stack: the pale shape nearest the street read as the one pot seen whole (a rolled lip, its top in the row's perspective, lit where the three behind show only shaded slivers); the stack widened along the flank to 1.26 m (the least holding four K15 flues; the 1.1 m was read through the unsettled oblique camera), west face kept, flank dormer 0.07 m back to stay clear; this house only rebaked. Oblique record: fourth pot fixed; the bay item records that no single pinhole camera fits that print (30 points from both prints, 14-16 px rms, 40-60 px at the bay), so a camera re-solve will not settle the bay's place. Still open: the pavilion's full 4 m width with the door (dentil band, shoulders, pediment width), the curb's height on the oblique, the bay's place on the oblique, and which front stood in 1904. Not split: the gate stays on this ticket.
 
 **Released 2026-11-19** (claim of run 11/18/2026, 10:43:06 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44458272001): PR #2207 (resume; local gate check.sh 1/4-4/4 green, smoke desktop 1, desktop 3, mobile 3 and mobile 14 green; CI's mobile 14 red on a flaky navigation, to re-run) carries 1815's pavilion across the door as both prints draw it: K01's new cut_by_door lets a shallow (0.1 m) pavilion be cut by the door at its edge, so the pavilion runs 3.88 m from the north corner with the door in its south half; its windows, attic pair and crown moved onto the print's (they stood 0.5-0.7 m north); the attic slated at its sides; the pediment widened to the print's 2.55 m. All other K01/K12/K13/K16 assets byte-identical (input hashes only). Match records: pavilion width, pediment and the oblique's attic offset fixed; the oblique's curb and corner bay within tolerance under T-3153 (the prints and camera fits disagree). Still open: the pavilion's own dentil band, its stone shoulders, the crown's cornice across the cheeks, and which front stood in 1904. Not split: the gate stays on this ticket.
+
+**Released 2026-11-20** (claim of run 11/20/2026, 6:41:47 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44736012268): PR #2259 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) finishes rescued draft #2255: 1815's pavilion carries its own dentil band (K08 corbel table under the attic, 8.0-8.43 m) and the attic stands on capped stone shoulders (K08 cheek shoulder); only this house rebaked; both match records re-judged (band and shoulders fixed). Still open: the crown's cornice across the slated cheeks, and which front stood in 1904. Not split: the gate stays on this ticket.
