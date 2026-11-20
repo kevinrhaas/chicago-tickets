@@ -66,7 +66,10 @@ T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 
 T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
+T-3699 — 2100 Prairie's stone dressing off the photograph: the pale stone sill and spring bands across the dark brick, the panels under the principal lights, the principal storey's arched heads and the cornice's paired blocks over a dentil band
+T-3700 — 2100 Prairie's corner oriel off the photograph: the second-storey oriel on its column over the cut corner, under its own small stone gable, and the pyramid springing from the mansard behind it
+T-3701 — 2100 Prairie's porch and stoops off the photograph: the balcony from the pavilion to the parlour on stone piers and a cluster of three columns, its carved stone balustrade, and the curved flight from the walk with the second flight from the south, their carved cheeks
+T-3702 — 2100 Prairie's roof, flank and boundary off the photograph, the other two pictures' cameras and the image-gate sign-off: the front dormers, the pavilion's flared slated gable, the great stack's carved flues, the 21st Street flank's lights and bay, the iron fence on stone piers
 T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
 T-3668 — 2112 Prairie, the Rothschild house, onto K01 from the 1911 sheet: the three-storey stone-front brick body, rear two-storey wing, high stoop and repeated masonry openings, and the image-gate sign-off (after the piece before it)
 T-1922 — Refine 2110 Rees at its historical site envelope

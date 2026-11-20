@@ -1,7 +1,7 @@
 ---
 id: T-1920
 title: Finish 2100 Sherman Victorian Gothic house architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-20
 pr: null
 claimed_by: run 11/20/2026, 2:10:23 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-20T08:11:56.996Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44699471198
 claimed_at: 2026-11-20T08:10:24.243Z
 decision: null
