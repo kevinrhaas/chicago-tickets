@@ -1,7 +1,7 @@
 ---
 id: T-3700
 title: 2100 Prairie's corner oriel off the photograph: the second-storey oriel on its column over the cut corner, under its own small stone gable, and the pyramid springing from the mansard behind it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1920
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2257
 claimed_by: run 11/20/2026, 5:05:39 AM CT
 blocked_on: null
 needs_bake: false
