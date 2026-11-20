@@ -29,7 +29,6 @@
 
 
 # --- 9. LOOP IMPROVEMENTS — operations: the loop's own tooling (lap, claims, merge, gates, tickets). Owner, 2026-10-20: right under
-T-3707 — PR gate bake part 6/8 times out at its 600 s cap on busy CI runners (rc 124 on #2257 and #2259, 2026-11-20) while it passes in 286 s locally and ~7.5 min on dev's CI: raise N or split the part before more PRs go red on it
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any

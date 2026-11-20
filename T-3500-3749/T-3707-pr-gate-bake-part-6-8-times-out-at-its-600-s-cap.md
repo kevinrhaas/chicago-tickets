@@ -1,7 +1,7 @@
 ---
 id: T-3707
 title: PR gate bake part 6/8 times out at its 600 s cap on busy CI runners (rc 124 on #2257 and #2259, 2026-11-20) while it passes in 286 s locally and ~7.5 min on dev's CI: raise N or split the part before more PRs go red on it
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-20
-closed: null
+closed: 2026-11-20
 pr: 2263
 claimed_by: run 11/20/2026, 2:15:28 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T23:42:17Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44808320154
 claimed_at: 2026-11-20T20:15:29.818Z
 decision: null
