@@ -67,7 +67,6 @@ T-3616 — 2011 Prairie's turret roof in its two stages (flared skirt, ledge, up
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-1920 — Finish 2100 Sherman Victorian Gothic house architecture
-T-3665 — 2101 Prairie onto K01 from the 1911 sheet: the 2½-storey brick house on its map plan, high stoop, hipped roof with its half storey, the attached rear wing and frame range (map-led bounded design; no picture of it is known)
 T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
 T-3668 — 2112 Prairie, the Rothschild house, onto K01 from the 1911 sheet: the three-storey stone-front brick body, rear two-storey wing, high stoop and repeated masonry openings, and the image-gate sign-off (after the piece before it)
 T-1922 — Refine 2110 Rees at its historical site envelope
