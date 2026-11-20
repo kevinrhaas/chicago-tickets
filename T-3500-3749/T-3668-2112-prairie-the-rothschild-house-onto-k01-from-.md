@@ -1,7 +1,7 @@
 ---
 id: T-3668
 title: 2112 Prairie, the Rothschild house, onto K01 from the 1911 sheet: the three-storey stone-front brick body, rear two-storey wing, high stoop and repeated masonry openings, and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1921
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: run 11/20/2026, 11:30:15 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44761959938
-claimed_at: 2026-11-20T17:30:16.888Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -40,3 +40,5 @@ T-1921 carries an `## Image gate` section. The last of these pieces to close is 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
 **Released 2026-11-20** (claim of run 11/20/2026, 7:24:27 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44743186764): 2112 is built and gated in PR #2260 (resume: CI still queued). done is refused by T-1921's inherited image gate: 2108's tribune_1898_front still differs on its basement lights (K02 base courses cap them at 0.8 m, no bars). What remains is that kit fix plus the sign-off; 2112 itself needs no rebuild once #2260 merges.
+
+**Released 2026-11-20** (claim of run 11/20/2026, 11:30:15 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44761959938): PR #2260 MERGED to dev 2026-11-20 (68382eaf7): 2112 is built and on dev. This run merged dev in, re-stamped 2112's inputs hash and re-derived doors_1904, and the CI gate went 8/8 green. done is still refused by T-1921's inherited image gate: 2108's tribune_1898_front differs on its basement lights (K02 base courses cap them at 0.8 m, no bars). What remains is that kit fix plus the sign-off. Nothing about 2112 needs rebuilding.
