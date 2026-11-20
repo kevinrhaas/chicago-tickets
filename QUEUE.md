@@ -101,7 +101,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
 T-3688 — 1871 South Side fire landmarks from their pictures: Court House, Sherman and Tremont Houses, Chamber of Commerce, Crosby's, Field and Leiter, Palmer House, Tribune
 T-3689 — 1871 West and North Side fire places: the O'Leary cottage and barn, the Water Tower and pumping works, the Ogden house, the lake shore and Lincoln Park
-T-3692 — The Last Sunday jaunt: walk 1871 Chicago at its peak on 8 October, from Lake Street to DeKoven Street at dusk
 T-3693 — Who Started the Fire? jaunt: weigh the O'Leary neighbours, the fire inquiry, the invented cow story and the later theories
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
