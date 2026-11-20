@@ -1,7 +1,7 @@
 ---
 id: T-3693
 title: Who Started the Fire? jaunt: weigh the O'Leary neighbours, the fire inquiry, the invented cow story and the later theories
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2250
 claimed_by: run 11/19/2026, 1:13:15 PM CT
 blocked_on: null
 needs_bake: false
