@@ -1,7 +1,7 @@
 ---
 id: T-3690
 title: 1871 people, horses and wagons on every street: horse cars, drays, steam fire engines, and crowds fleeing with their bundles
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2244
 claimed_by: run 11/19/2026, 10:51:48 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T05:14:36Z
 claimed_run: null
 claimed_at: 2026-11-19T16:51:49.881Z
 decision: null
