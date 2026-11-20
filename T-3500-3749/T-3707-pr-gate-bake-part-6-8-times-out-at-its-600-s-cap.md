@@ -1,7 +1,7 @@
 ---
 id: T-3707
 title: PR gate bake part 6/8 times out at its 600 s cap on busy CI runners (rc 124 on #2257 and #2259, 2026-11-20) while it passes in 286 s locally and ~7.5 min on dev's CI: raise N or split the part before more PRs go red on it
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2263
 claimed_by: run 11/20/2026, 2:15:28 PM CT
 blocked_on: null
 needs_bake: false
