@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -42,3 +42,15 @@ T-1916 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-17** (claim of run 11/17/2026, 5:28:53 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44194823794): PR #2174 (resume, gate queued) builds the plate's stone frame on 2013 Prairie's front: pilasters, sunk panels under the top storey's lights, one corniced hood across the frame, the broad light re-read as a square light under the hood with a lunette over it, and the two oval lights in moulded rings (new K01 part street_front_windows.frame, L-k01-2013-reid-3626). Still open in the plate's match record: the pilasters' carved capitals and the panels' roundels, the carved border up the front's south edge, the frieze of garlands and the dentils, and the front's pale tone (K03 has no panel paler than common buff). Not started: the flanks and rear off the 2003 nomination photographs (NARA link-only, not in the image store). The image gate keeps the ticket open until those match.
 
 **Released 2026-11-20** (claim of run 11/20/2026, 2:16:06 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44699450476): PR #2252 (resume: the content build failed on its first head, before the 65 K01 re-emits, and was re-dispatched on the branch) builds the plate's row of blocks under the cornice (wall_head.blocks, now taken by a flat roof's street-front stone cornice) and the border up the south edge, and rules the capitals, roundels, the frieze's garlands and a plain north-corner strip within tolerance. Still open in the plate's match record: the front's near-white tone, which K03 cannot lay (a recipe's factor is at most 1 on its panels, the palest the common buff, and 1904 adds no brick map at its memory ceiling) — a pale brick panel is a memory decision. Not read: the 2003 nomination photographs (library link-only, reuse rights not established; NARA's S3 copy 403 on 2026-11-20, NPGallery not digitized); their summaries are post-1955 and the rear's coach house is 1910.
+
+## Decision needed
+
+**Question:** 2013 Prairie's sign-off is held by the front's tone: the 1895 plate prints it near white, but K03 cannot lay a face paler than its common-buff panel (factor <= 1) and 1904 adds no brick map at its phone memory ceiling. The 2003 nomination photographs of the flanks and rear are link-only with reuse rights not established. How should it close?
+
+- (a) Add one pale cream brick panel to K03 for 1904 (a new map, its memory paid), re-tone the front, and close on the plate; leave the 2003 photographs unread
+- (b) Rule the front's current tone an owner ruling (closest the kit lays) and close on the plate now; leave the 2003 photographs unread
+- (c) Clear the 2003 nomination photographs for use, bring them into the image store, and read the flanks and rear before closing
+
+**Recommendation:** (b) Rule the front's current tone an owner ruling (closest the kit lays) and close on the plate now; leave the 2003 photographs unread — The plate is a monochrome halftone, the house's form now matches it, and a new brick map is a memory cost for one front; the 2003 photographs are post-1955 and show a 1910 coach house, so they are weak 1904 evidence.
+
+**Asked:** 2026-11-20 by https://github.com/kevinrhaas/polecat-platform/actions/runs/44699450476. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
