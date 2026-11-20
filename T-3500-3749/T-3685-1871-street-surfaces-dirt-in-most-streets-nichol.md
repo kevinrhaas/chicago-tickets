@@ -1,7 +1,7 @@
 ---
 id: T-3685
 title: 1871 street surfaces: dirt in most streets, Nicholson wood block downtown, stone at the wharves, raised plank walks with crossings
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2240
 claimed_by: run 11/19/2026, 2:34:59 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T03:18:21Z
 claimed_run: null
 claimed_at: 2026-11-19T20:35:02.671Z
 decision: null
