@@ -1,7 +1,7 @@
 ---
 id: T-3704
 title: Guide › For teachers handout spills onto two pages since 1871 got three Jaunts (smoke 9-12 red on dev)
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-20
-closed: null
+closed: 2026-11-20
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: duplicate of T-3703: PR #2256 (merged to dev 5198242b1) prints the handout's destinations two by two so 12 Jaunts fit one page
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T12:35:04.434Z
 claimed_run: null
 claimed_at: null
 decision: null
