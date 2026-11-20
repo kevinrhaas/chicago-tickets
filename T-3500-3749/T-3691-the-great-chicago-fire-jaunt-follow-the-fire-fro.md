@@ -43,3 +43,13 @@ Kevin, 2026-11-19, thread "Build the 1871 Great Fire jaunt and streetscapes" (ve
 Band 7B (1871). Siblings: T-3684 streets and names, T-3685 surfaces and walks, T-3686 dense downtown, T-3687 the fire, T-3688 South Side landmarks, T-3689 West and North Side places, T-3690 people and vehicles, T-3691 the Great Fire jaunt. Related, worked elsewhere: T-3683 (frame vs masonry mix, PR 2220) and T-3682 (Today window offset and the Illinois Central trestle). Don't duplicate those; build on them once merged.
 
 Standing rules that bind every ticket here: people, horses, carriages and wagons are core on every device (lower resolution, never dropped); photographic quality around the jaunt sites, cheap elsewhere; reuse 1835 and 1904 components first; reconstructed is a tier to build at, recorded in docs/LIBERTIES.md; one PR per ticket into dev, pictures inline and rendered in the PR body, before and after, desktop and phone (390x780).
+
+## Remainder (after PR #2243)
+
+- Named castmates: when T-3690 gives 1871 its people, stage them where the claims place them: the O'Learys and Daniel Sullivan at the barn, Mathias Schaffer and Dennis Denene in the Court House tower, Mayor Mason in the basement and at the Sherman House corner, William Bross with Medill and White at the Tribune, and D. W. Fuller at the Water Works. Do it as a follow-up PR on this ticket. Every stop is staged today with unnamed figures in borrowed 1835/1904 dress (L-1871-great-fire-jaunt).
+- Stands: the twelve `fire_*` viewpoints in data/scenes/1871.json were placed clear of the 1871 context's generic buildings as they stood on 2026-11-19. Once T-3684/T-3686/T-3688/T-3689 land:
+  - re-check them with `node tools/measure_anchors.mjs --gate` and build.py's `clearance()`;
+  - re-run build.py, which clamps every figure out of the buildings.
+  - The O'Leary barn, St. Paul's, the Court House, Crosby's and the Ogden house are generic context buildings today. Washington Square is not open ground in the context.
+- Spanish: the jaunt and its four tellings have no `data/jaunts/_es/` words file yet, so they read in English (tools/jaunts_es.py).
+- Voices: the narration direction is written (data/narration/direction/the-great-fire.json). Nothing is recorded until Kevin asks.
