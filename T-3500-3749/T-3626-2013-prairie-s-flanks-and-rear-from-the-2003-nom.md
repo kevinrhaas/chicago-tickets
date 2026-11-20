@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: c
 ---
 
 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off.
@@ -54,3 +54,7 @@ T-1916 carries an `## Image gate` section. The last of these pieces to close is 
 **Recommendation:** (b) Rule the front's current tone an owner ruling (closest the kit lays) and close on the plate now; leave the 2003 photographs unread — The plate is a monochrome halftone, the house's form now matches it, and a new brick map is a memory cost for one front; the 2003 photographs are post-1955 and show a 1910 coach house, so they are weak 1904 evidence.
 
 **Asked:** 2026-11-20 by https://github.com/kevinrhaas/polecat-platform/actions/runs/44699450476. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-11-20, via Manager):** (c) Clear the 2003 nomination photographs for use, bring them into the image store, and read the flanks and rear before closing
+
+**Owner's note:** You can add colors
