@@ -1,7 +1,7 @@
 ---
 id: T-3699
 title: 2100 Prairie's stone dressing off the photograph: the pale stone sill and spring bands across the dark brick, the panels under the principal lights, the principal storey's arched heads and the cornice's paired blocks over a dentil band
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1920
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2253
 claimed_by: run 11/20/2026, 2:12:01 AM CT
 blocked_on: null
 needs_bake: false
