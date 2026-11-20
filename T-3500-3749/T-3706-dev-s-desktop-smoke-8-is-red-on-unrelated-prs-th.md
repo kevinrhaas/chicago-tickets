@@ -1,7 +1,7 @@
 ---
 id: T-3706
 title: Dev's desktop smoke 8 is red on unrelated PRs: 'the suite body ran to completion' times out in page.screenshot (90 s) while a frame costs 8-11 s on the software-GL runner — #2254, #2255 and #2251 all fail it, #2252 passes
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2258
 claimed_by: run 11/20/2026, 6:35:08 AM CT
 blocked_on: null
 needs_bake: false
