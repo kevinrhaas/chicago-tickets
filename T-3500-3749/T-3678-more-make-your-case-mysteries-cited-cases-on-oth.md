@@ -1,7 +1,7 @@
 ---
 id: T-3678
 title: More Make your case mysteries: cited cases on other jaunts after the Gossip case
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2233
 claimed_by: run 11/19/2026, 9:07:28 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T01:06:41Z
 claimed_run: null
 claimed_at: 2026-11-19T15:07:29.619Z
 decision: null
