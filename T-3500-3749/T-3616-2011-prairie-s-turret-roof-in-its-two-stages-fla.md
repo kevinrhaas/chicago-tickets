@@ -1,7 +1,7 @@
 ---
 id: T-3616
 title: 2011 Prairie's turret roof in its two stages (flared skirt, ledge, upper cone), the Reid 1895 plate's camera, and the image-gate sign-off
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1915
 opened: 2026-11-16
 closed: null
-pr: null
+pr: 2254
 claimed_by: run 11/20/2026, 2:10:25 AM CT
 blocked_on: null
 needs_bake: false
