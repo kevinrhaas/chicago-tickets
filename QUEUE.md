@@ -101,7 +101,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
 T-3684 — 1871 streets carry their 1871 names, meet cleanly and curve smoothly; the THEN card names the intersection you stand at
 T-3685 — 1871 street surfaces: dirt in most streets, Nicholson wood block downtown, stone at the wharves, raised plank walks with crossings
-T-3686 — 1871 downtown builds shoulder to shoulder: attached period fronts with doors, stoops, steps and signs, full detail near the jaunt sites
 T-3688 — 1871 South Side fire landmarks from their pictures: Court House, Sherman and Tremont Houses, Chamber of Commerce, Crosby's, Field and Leiter, Palmer House, Tribune
 T-3689 — 1871 West and North Side fire places: the O'Leary cottage and barn, the Water Tower and pumping works, the Ogden house, the lake shore and Lincoln Park
 T-3690 — 1871 people, horses and wagons on every street: horse cars, drays, steam fire engines, and crowds fleeing with their bundles
@@ -165,8 +164,5 @@ T-3553 — Finish people's clothing: no breakthrough in motion, better collars a
 # BLOCKED-TECH T-1407 (opened 2026-09-19, META) — The crews of the vessels in port and the harbour-works gang seated, once a committed source gives a schooner her comp…
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
-T-3676 — Watch a block grow: a time-lapse of one block from its structures' built dates
-T-3677 — Photo hunts for 1812, 1835 and 1871: five pictures a year, guessed on the ground
 T-3678 — More Make your case mysteries: cited cases on other jaunts after the Gossip case
 T-3679 — Play a part: choice-driven jaunts as a young person of 1835 and 1904
-T-3698 — Narration month 2: the rest of the 1904 originals, the First Fort Dearborn tour, the Lalime jaunt and the battle's 3-5 and 9-10 tellings, Essayist, smooth

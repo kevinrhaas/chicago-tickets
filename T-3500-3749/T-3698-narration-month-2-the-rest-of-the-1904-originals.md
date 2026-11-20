@@ -1,7 +1,7 @@
 ---
 id: T-3698
 title: Narration month 2: the rest of the 1904 originals, the First Fort Dearborn tour, the Lalime jaunt and the battle's 3-5 and 9-10 tellings, Essayist, smooth
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-19
 pr: 2245
 claimed_by: run 11/19/2026, 4:24:11 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T00:04:33Z
 claimed_run: null
 claimed_at: 2026-11-19T22:24:12.640Z
 decision: null
