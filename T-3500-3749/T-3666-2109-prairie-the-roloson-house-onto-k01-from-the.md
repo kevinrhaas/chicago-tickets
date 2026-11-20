@@ -1,7 +1,7 @@
 ---
 id: T-3666
 title: 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1924
 opened: 2026-11-19
 closed: null
 pr: null
-claimed_by: run 11/20/2026, 6:59:51 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44739265060
-claimed_at: 2026-11-20T12:59:52.046Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1924 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-20** (claim of run 11/20/2026, 6:59:51 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44739265060): PR #2261 carries the K01 refinement, merged with dev and gated locally (resume, CI pending); done refused by T-1924's image gate: 2109's match record has 4 open differences (veranda front run and open piers, rear block's step, dormer's carved surround). Next run: render from the camera, fix, sign off.
