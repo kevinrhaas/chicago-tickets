@@ -1,7 +1,7 @@
 ---
 id: T-3705
 title: Navigator rail tablist keyboard check (T-2622) red on dev at desktop part 13
-state: open
+state: withdrawn
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-20
-closed: null
+closed: 2026-11-20
 pr: null
 claimed_by: null
-blocked_on: null
+blocked_on: duplicate of T-3703: PR #2256 (merged to dev 5198242b1) makes T-2622 expect the open app's rail key after T-3671
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-20T12:35:06.305Z
 claimed_run: null
 claimed_at: null
 decision: null
