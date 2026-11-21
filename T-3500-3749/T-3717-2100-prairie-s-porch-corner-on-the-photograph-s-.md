@@ -1,7 +1,7 @@
 ---
 id: T-3717
 title: 2100 Prairie's porch corner on the photograph's cluster of three columns on one tall pedestal
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3701
 opened: 2026-11-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/21/2026, 12:47:36 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44935232094
+claimed_at: 2026-11-21T18:47:37.227Z
 decision: null
 decision_answer: null
 ---
