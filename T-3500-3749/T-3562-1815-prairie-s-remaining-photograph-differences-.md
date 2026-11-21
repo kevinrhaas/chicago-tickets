@@ -1,7 +1,7 @@
 ---
 id: T-3562
 title: 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1893
 opened: 2026-11-12
-closed: null
+closed: 2026-11-21
 pr: 2277
 claimed_by: run 11/21/2026, 3:10:04 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T11:46:25Z
 claimed_run: null
 claimed_at: 2026-11-21T09:10:05.105Z
 decision: answered
