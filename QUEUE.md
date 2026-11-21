@@ -99,7 +99,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # ---     agents, worked in parallel: streets and names, surfaces and walks, dense downtown, the fire, the landmarks, people and
 # ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
 T-3688 — 1871 South Side fire landmarks from their pictures: Court House, Sherman and Tremont Houses, Chamber of Commerce, Crosby's, Field and Leiter, Palmer House, Tribune
-T-3689 — 1871 West and North Side fire places: the O'Leary cottage and barn, the Water Tower and pumping works, the Ogden house, the lake shore and Lincoln Park
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.

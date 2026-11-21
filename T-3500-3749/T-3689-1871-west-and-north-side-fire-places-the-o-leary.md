@@ -1,7 +1,7 @@
 ---
 id: T-3689
 title: 1871 West and North Side fire places: the O'Leary cottage and barn, the Water Tower and pumping works, the Ogden house, the lake shore and Lincoln Park
-state: review
+state: done
 epic: TOWN
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-19
-closed: null
+closed: 2026-11-21
 pr: 2270
 claimed_by: run 11/20/2026, 3:20:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T07:31:42Z
 claimed_run: null
 claimed_at: 2026-11-20T21:20:19.423Z
 decision: null
