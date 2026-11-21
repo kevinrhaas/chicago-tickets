@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: null
 claimed_at: null
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 1815 Prairie's remaining photograph differences: the pavilion's full 4 m width with the door in it, its dentil band and shoulders, the corner bay's set-out past the flank, the rock-faced south flank, the door's pedimented hood, the stoop's newels, arched underside and basement doorway, the mansard's curb height, cresting, finials and south-flank dormer, the north stack's place, and which front stood in 1904 (after the piece before it).
@@ -89,3 +89,5 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Asked:** 2026-11-20 by https://github.com/kevinrhaas/polecat-platform/actions/runs/44867104151. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
 
 **Released 2026-11-20** (claim of run 11/20/2026, 10:59:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44867104151): PR #2273 (resume: CI gate queued on saturated runners at hand-off, none red; gated locally) records that Heun's remodel is dated 1902 by the Ryerson and Burnham index and Glessner House, so the photographed Sears front had most likely gone by 1904, and records the 1908 Chicago Daily News negative DN-0005529 as the dated picture that settles it. The build is unchanged and the square-on item stays open. Which front stands for 1904 is put to the owner (decision pending)
+
+**Owner answer (2026-11-21, via Manager):** (a) Bring the 1908 Daily News picture into the image store (download it in a browser, or give a direct image URL for the fetch queue). The house is then rebuilt to the remodelled front, with that picture as its gate.
