@@ -17,7 +17,7 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44867104151
 claimed_at: 2026-11-21T04:59:31.525Z
-decision: null
+decision: pending
 decision_answer: null
 ---
 
@@ -76,3 +76,14 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-20** (claim of run 11/20/2026, 6:41:47 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44736012268): PR #2259 (resume, gated locally green: check.sh 1/4-4/4, smoke desktop 1, desktop 3, mobile 3; CI gate queued at hand-off) finishes rescued draft #2255: 1815's pavilion carries its own dentil band (K08 corbel table under the attic, 8.0-8.43 m) and the attic stands on capped stone shoulders (K08 cheek shoulder); only this house rebaked; both match records re-judged (band and shoulders fixed). Still open: the crown's cornice across the slated cheeks, and which front stood in 1904. Not split: the gate stays on this ticket.
 
 **Released 2026-11-20** (claim of run 11/20/2026, 2:55:24 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44813820905): PR #2265 (resume, CI gate queued at hand-off; local check.sh 1/8, check_bay_kit and validate --stale green, smoke desktop 1 cut off at the cap with 59 passes and no real red) builds 1815's crown cornice over the attic's stone front alone with its cheeks raked to the shoulders, off both prints: K01's hipped crown takes cheek_inset_m, K08's cheeks take raked {back_m} (the attic's wall stops over the shoulder, the slate slopes from the stone front's edge under the cornice's end to the cap, run back the crown's depth), and beside the north corner the main mansard is cut away over the cheek so the north stack stands clear against the sky as the print draws it; all other K01/K12/K13/K16 assets re-emitted byte-identical (input hashes only). Both match records re-judged: the crown's cornice fixed on both; the oblique now matches. Still open: which front stood in 1904 (the square-on). Not split: the gate stays on this ticket.
+
+## Decision needed
+
+**Question:** 1815 Prairie's photographs show Joseph Sears's front, but the Art Institute's Ryerson and Burnham index dates Arthur Heun's remodel for the Meekers to 1902, so that front had most likely gone by 1 July 1904. A dated picture of the remodelled house exists: Chicago Daily News negative DN-0005529, 1908, at the Chicago History Museum (explore.chicagocollections.org/image/chicagohistory/71/3t9dd7h/). The runners hit a browser challenge (403) there and at the Library of Congress. Which front should stand for 1904? (PR #2273 records the evidence.)
+
+- (a) Bring the 1908 Daily News picture into the image store (download it in a browser, or give a direct image URL for the fetch queue). The house is then rebuilt to the remodelled front, with that picture as its gate.
+- (b) Keep the photographed Sears front for 1904 as a declared liberty, and mark the 1904 item 'owner ruling' so the image gate can close.
+
+**Recommendation:** (a) Bring the 1908 Daily News picture into the image store (download it in a browser, or give a direct image URL for the fetch queue). The house is then rebuilt to the remodelled front, with that picture as its gate. — The project depicts 1904. Three independent records put the remodel in 1902, and the 1908 picture is the only dated view after it. Keeping the earlier front would keep a house that most likely no longer stood.
+
+**Asked:** 2026-11-20 by https://github.com/kevinrhaas/polecat-platform/actions/runs/44867104151. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
