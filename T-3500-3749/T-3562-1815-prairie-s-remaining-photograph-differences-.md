@@ -91,3 +91,19 @@ T-1893 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-20** (claim of run 11/20/2026, 10:59:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44867104151): PR #2273 (resume: CI gate queued on saturated runners at hand-off, none red; gated locally) records that Heun's remodel is dated 1902 by the Ryerson and Burnham index and Glessner House, so the photographed Sears front had most likely gone by 1904, and records the 1908 Chicago Daily News negative DN-0005529 as the dated picture that settles it. The build is unchanged and the square-on item stays open. Which front stands for 1904 is put to the owner (decision pending)
 
 **Owner answer (2026-11-21, via Manager):** (a) Bring the 1908 Daily News picture into the image store (download it in a browser, or give a direct image URL for the fetch queue). The house is then rebuilt to the remodelled front, with that picture as its gate.
+
+## Rebuilt to the 1908 Daily News picture (PR #2277, 2026-11-21)
+
+The owner's answer (a): the owner's copy of DN-0005529 is the house's third reference view, and 1904's ground floor is rebuilt to Arthur Heun's 1902 remodel: a one-storey stone bay across the front with an iron balcony rail, the arched entrance at grade in a small block north of the front, and the tall iron railing on the street line. The corner bay, stoop, pedimented door and low coping are gone for 1904; the upper storeys still match both Chicagology prints, whose ground floor is now recorded as the owner's ruling. All three views match (image gate on T-1893).
+
+Before and after, through the 1908 camera (the photograph left, the build right):
+
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/611df54b0a798d24c0cc6c7f3f62dff7e1327006/evidence/meeker-1815-1908-2026-11-21/before-1908-view.jpg?raw=true" width="640">
+
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/611df54b0a798d24c0cc6c7f3f62dff7e1327006/evidence/meeker-1815-1908-2026-11-21/after-1908-view.jpg?raw=true" width="640">
+
+Square-on, before and after:
+
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/611df54b0a798d24c0cc6c7f3f62dff7e1327006/evidence/meeker-1815-1908-2026-11-21/before-square-on.jpg?raw=true" width="640">
+
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/611df54b0a798d24c0cc6c7f3f62dff7e1327006/evidence/meeker-1815-1908-2026-11-21/after-square-on.jpg?raw=true" width="640">
