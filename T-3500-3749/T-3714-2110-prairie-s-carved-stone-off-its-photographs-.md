@@ -1,7 +1,7 @@
 ---
 id: T-3714
 title: 2110 Prairie's carved stone off its photographs: the gable's carved tympanum, the bow's carved band at the upper floor and the bow's copper cornice
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1923
 opened: 2026-11-21
 closed: null
-pr: null
+pr: 2281
 claimed_by: run 11/21/2026, 10:29:38 AM CT
 blocked_on: null
 needs_bake: false
