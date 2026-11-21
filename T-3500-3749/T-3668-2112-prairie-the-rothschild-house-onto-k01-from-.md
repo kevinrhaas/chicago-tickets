@@ -1,7 +1,7 @@
 ---
 id: T-3668
 title: 2112 Prairie, the Rothschild house, onto K01 from the 1911 sheet: the three-storey stone-front brick body, rear two-storey wing, high stoop and repeated masonry openings, and the image-gate sign-off (after the piece before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1921
 opened: 2026-11-19
-closed: null
+closed: 2026-11-21
 pr: 2266
 claimed_by: run 11/20/2026, 2:58:47 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T07:03:52Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44813833838
 claimed_at: 2026-11-20T20:58:48.576Z
 decision: null
