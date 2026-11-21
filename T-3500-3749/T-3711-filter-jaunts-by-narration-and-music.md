@@ -1,7 +1,7 @@
 ---
 id: T-3711
 title: Filter jaunts by narration and music
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-20
-closed: null
+closed: 2026-11-21
 pr: 2271
 claimed_by: run 11/20/2026, 5:33:43 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T10:01:32Z
 claimed_run: null
 claimed_at: 2026-11-20T23:33:44.373Z
 decision: null
