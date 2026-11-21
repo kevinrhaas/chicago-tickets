@@ -1,7 +1,7 @@
 ---
 id: T-3688
 title: 1871 South Side fire landmarks from their pictures: Court House, Sherman and Tremont Houses, Chamber of Commerce, Crosby's, Field and Leiter, Palmer House, Tribune
-state: claimed
+state: review
 epic: TOWN
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2278
 claimed_by: run 11/20/2026, 3:20:42 PM CT
 blocked_on: null
 needs_bake: false
