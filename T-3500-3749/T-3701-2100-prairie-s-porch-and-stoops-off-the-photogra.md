@@ -1,7 +1,7 @@
 ---
 id: T-3701
 title: 2100 Prairie's porch and stoops off the photograph: the balcony from the pavilion to the parlour on stone piers and a cluster of three columns, its carved stone balustrade, and the curved flight from the walk with the second flight from the south, their carved cheeks
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1920
 opened: 2026-11-20
 closed: null
 pr: null
-claimed_by: run 11/21/2026, 7:18:38 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44907660032
-claimed_at: 2026-11-21T13:18:39.124Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1920 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-21** (claim of run 11/21/2026, 7:18:38 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44907660032): PR #2279 builds the porch's position, deep entablature, 0.85 m guard and balcony door, carved capitals and swept pierced cheeks; still open on the match record and needing a K01 kit change: the cluster of three columns on one pedestal, the balcony carried to the pavilion, the flight narrowed north of the porch's middle, the balustrade's carved panels; then the image-gate sign-off
