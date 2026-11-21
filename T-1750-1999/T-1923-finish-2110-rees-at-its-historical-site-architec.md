@@ -1,7 +1,7 @@
 ---
 id: T-1923
 title: Finish 2110 Rees at its historical site architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-21
 pr: null
 claimed_by: run 11/21/2026, 10:26:53 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-21T16:29:34.086Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44923736007
 claimed_at: 2026-11-21T16:26:54.951Z
 decision: null
