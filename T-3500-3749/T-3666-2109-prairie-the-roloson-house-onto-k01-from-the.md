@@ -1,7 +1,7 @@
 ---
 id: T-3666
 title: 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1924
 opened: 2026-11-19
 closed: null
-pr: null
+pr: 2284
 claimed_by: run 11/21/2026, 12:43:05 PM CT
 blocked_on: null
 needs_bake: false
