@@ -1,7 +1,7 @@
 ---
 id: T-3712
 title: 2115 Prairie, the Armour house, onto K01 from the 1911 sheet and the Armour photograph: the banded stone front, the central arched door on its high stoop with stepped cheeks, the keyed round-headed lights, the south pavilion, the slated mansard with its dormers, stacks and cresting
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1925
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2275
 claimed_by: run 11/20/2026, 11:36:39 PM CT
 blocked_on: null
 needs_bake: false
