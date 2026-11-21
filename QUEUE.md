@@ -69,7 +69,6 @@ T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph:
 T-3714 — 2110 Prairie's carved stone off its photographs: the gable's carved tympanum, the bow's carved band at the upper floor and the bow's copper cornice
 T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
-T-3712 — 2115 Prairie, the Armour house, onto K01 from the 1911 sheet and the Armour photograph: the banded stone front, the central arched door on its high stoop with stepped cheeks, the keyed round-headed lights, the south pavilion, the slated mansard with its dormers, stacks and cresting
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1926 — Refine 2120 and the 2126 Robbins construction phase
 T-1930 — Refine 2123 masonry and 2125 frame neighbours

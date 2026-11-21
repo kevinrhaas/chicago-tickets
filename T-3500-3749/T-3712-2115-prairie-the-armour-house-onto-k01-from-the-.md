@@ -1,7 +1,7 @@
 ---
 id: T-3712
 title: 2115 Prairie, the Armour house, onto K01 from the 1911 sheet and the Armour photograph: the banded stone front, the central arched door on its high stoop with stepped cheeks, the keyed round-headed lights, the south pavilion, the slated mansard with its dormers, stacks and cresting
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1925
 opened: 2026-11-20
-closed: null
+closed: 2026-11-21
 pr: 2275
 claimed_by: run 11/20/2026, 11:36:39 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T18:21:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44870893052
 claimed_at: 2026-11-21T05:36:39.960Z
 decision: null
