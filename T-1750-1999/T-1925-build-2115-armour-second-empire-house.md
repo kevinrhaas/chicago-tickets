@@ -1,7 +1,7 @@
 ---
 id: T-1925
 title: Refine 2115 Armour Second Empire house
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-20
 pr: null
 claimed_by: run 11/20/2026, 11:34:42 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-21T05:36:35.520Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44870893052
 claimed_at: 2026-11-21T05:34:43.130Z
 decision: null

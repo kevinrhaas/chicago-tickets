@@ -71,7 +71,8 @@ T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph:
 T-3668 — 2112 Prairie, the Rothschild house, onto K01 from the 1911 sheet: the three-storey stone-front brick body, rear two-storey wing, high stoop and repeated masonry openings, and the image-gate sign-off (after the piece before it)
 T-1922 — Refine 2110 Rees at its historical site envelope
 T-1923 — Finish 2110 Rees at its historical site architecture
-T-1925 — Refine 2115 Armour Second Empire house
+T-3712 — 2115 Prairie, the Armour house, onto K01 from the 1911 sheet and the Armour photograph: the banded stone front, the central arched door on its high stoop with stepped cheeks, the keyed round-headed lights, the south pavilion, the slated mansard with its dormers, stacks and cresting
+T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1926 — Refine 2120 and the 2126 Robbins construction phase
 T-1930 — Refine 2123 masonry and 2125 frame neighbours
 T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
