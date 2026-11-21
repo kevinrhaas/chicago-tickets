@@ -31,3 +31,17 @@ Kevin, 2026-11-16 (thread "Pilot boats and rebuild 1835 schooners"), verbatim: "
 - Some schooners lie moored or anchored; others sail circuits down the river, out through the harbour cut to the lake and back.
 - 1812 gets period trade boats (Mackinaw boats, a bateau) and a lake vessel anchored off the bar when one would be there.
 - Boats follow the hour and the season: laid up in winter, at anchor by night; jaunts at the water see them.
+
+## Follow-up, 2026-11-21: water inside the boats you steer (PR #2286)
+
+Kevin, 2026-11-21 (iPhone Chrome, dev preview, 1812 fort tour, stop 12 "Across the river"): "Water in the boat when I went for a ride".
+
+- **Cause:** the boat at that stop is the garrison's scow (bateau). The trade boats and the 1835 rowboat/canoe in `vessel-model.js` laid their depth-only water lid 4 mm over the waterline, and `vessels.js ride()` heaves a piloted boat about ±2 cm in the river, so the lid went under and the river drew between the floorboards. It was not a T-3518 regression: the 12 crossing boats already lay their lid at the gunwale and stay dry.
+- **Fix (PR #2286):** the lid now lies 3 cm under the sheer (`gunwaleLid`), and moored boats keep their berths clear of reeds (the scow lay in the reed bed). `test_vessels.mjs` checks the lid stays dry at the worst ride pose, which the old lid fails by 0.22 m.
+- **Every 1812 boat a visitor or jaunt can ride:** the scow and the Kinzies' Mackinaw boat are fixed here; the 12 crossing boats (6 dugouts, 4 bark canoes, 2 skiffs) were already dry.
+
+Garrison's scow at the helm, desktop and phone (before left, after right):
+
+![desktop scow before and after](https://github.com/kevinrhaas/chicago-evidence/blob/0a223dbe8abe789058c669a737060d0d0862c6c5/evidence/1812-boats-dry-T-3612/desktop-garrison-before-after.jpg?raw=true)
+
+![phone scow before and after](https://github.com/kevinrhaas/chicago-evidence/blob/0a223dbe8abe789058c669a737060d0d0862c6c5/evidence/1812-boats-dry-T-3612/mobile-garrison-before-after.jpg?raw=true)
