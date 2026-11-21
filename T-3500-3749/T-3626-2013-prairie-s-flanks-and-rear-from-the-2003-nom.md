@@ -1,7 +1,7 @@
 ---
 id: T-3626
 title: 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1916
 opened: 2026-11-16
 closed: null
-pr: null
+pr: 2287
 claimed_by: run 11/21/2026, 2:55:17 PM CT
 blocked_on: null
 needs_bake: false
