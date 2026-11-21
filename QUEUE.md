@@ -95,7 +95,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # ---     "you can add a chunk of tickets below the south through time and start working them in parallel"). One band for its own
 # ---     agents, worked in parallel: streets and names, surfaces and walks, dense downtown, the fire, the landmarks, people and
 # ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
-T-3688 — 1871 South Side fire landmarks from their pictures: Court House, Sherman and Tremont Houses, Chamber of Commerce, Crosby's, Field and Leiter, Palmer House, Tribune
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
