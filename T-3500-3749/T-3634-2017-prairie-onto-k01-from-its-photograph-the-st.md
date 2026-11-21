@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/21/2026, 7:33:12 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44908730438
-claimed_at: 2026-11-21T13:33:12.863Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -50,3 +50,5 @@ T-1917 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-20** (claim of run 11/20/2026, 2:12:31 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44699461008): PR #2251 cuts 2017's two gable attic lights (K08 coped gable now takes roof.gable.lights); gated green locally (check.sh 4/4, smoke desktop 1+3, mobile 1), handed on with resume while CI's smoke legs were still queued — the janitor or the next run merges it. done stays refused by the image gate: 5 differences open on 2017 (dormer lunettes, gable bargeboards and dentil band, porch ring-pierced parapet and finials, north stack's place, low area railing), and 2021's view needs photo_match re-run (its flora inputs moved) besides its own open items. Next run: confirm #2251 merged, then take the next kit gap
 
 **Released 2026-11-20** (claim of run 11/20/2026, 11:23:05 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44780408119): lap of #2251 handed on with resume (gate queued on saturated runners); PR is a partial piece — 2017 still differs from its photograph, so the ticket returns to the queue as the PR body states
+
+**Released 2026-11-21** (claim of run 11/21/2026, 7:33:12 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44908730438): PR #2280 dresses 2017's two dormers as the photograph's classical pediments (pilasters, frieze, level cornice, 45-degree rake) with a carved lunette in each tympanum (K10's dressed pediment now takes dress.lunette; stone-faced dormers lay their dress in the front's stone); gated green locally (check.sh whole by round-robin parts; 66 other K01 meshes byte-identical), merging on CI. done stays refused by T-1917's image gate: 4 differences open on 2017 (gable bargeboards and dentil band, porch ring-pierced parapet and finials, north stack's place, low area railing) and 2021's view still has its own open items. Next run: confirm #2280 merged, then take the next kit gap
