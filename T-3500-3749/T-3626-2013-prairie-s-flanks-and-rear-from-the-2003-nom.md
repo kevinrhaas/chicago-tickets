@@ -1,7 +1,7 @@
 ---
 id: T-3626
 title: 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1916
 opened: 2026-11-16
 closed: null
 pr: null
-claimed_by: run 11/20/2026, 11:07:31 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44868860311
-claimed_at: 2026-11-21T05:07:32.047Z
+claimed_run: null
+claimed_at: null
 decision: answered
 decision_answer: c
 ---
@@ -60,3 +60,5 @@ T-1916 carries an `## Image gate` section. The last of these pieces to close is 
 **Owner's note:** You can add colors
 
 **Released 2026-11-20** (claim of run 11/20/2026, 4:20:15 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44825347467): PR #2269 (resume: CI gate pending at the run's clock) brings the 2003 nomination photographs into the image store, solves the north side's camera and builds the north wall's stair lights, the rear part's height and the stacks on the south wall. Still open in the match records: the rear block's open roofed top-floor porch (K01 wings have none), the dining room's canted bay on the south notch, the rear's smooth red brick, the rear photograph's camera, and the front's tone — now documented by the nomination as 'cream colored, rough textured brick'; the owner's 'You can add colors' means a pale K03 panel for 1904, its memory paid. Also found: the nomination dates the coach house (reid_house_2013_prairie_coach_house, standing in the 1904 scene) to 1910.
+
+**Released 2026-11-21** (claim of run 11/20/2026, 11:07:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44868860311): PR #2274 (resume: CI gate still running at the run's clock; local check.sh 1-4/4 and smoke desktop+mobile part 1 green) lays 2013 Prairie's front in a new K03 cream_rough fabric and panel (the nomination's 'cream colored, rough textured brick'; the owner's 'You can add colors'), so the 1895 plate's view now MATCHES. Still open: the north view's rear block (its open, roofed top-floor porch to about 14 m; K01 wings have none), plus the dining room's canted bay on the south notch, the rear's smooth red brick and the rear photograph's camera, read but not built. The image gate keeps the ticket open until the north view matches.
