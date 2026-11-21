@@ -1,7 +1,7 @@
 ---
 id: T-3701
 title: 2100 Prairie's porch and stoops off the photograph: the balcony from the pavilion to the parlour on stone piers and a cluster of three columns, its carved stone balustrade, and the curved flight from the walk with the second flight from the south, their carved cheeks
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1920
 opened: 2026-11-20
-closed: null
+closed: 2026-11-21
 pr: null
 claimed_by: run 11/21/2026, 12:37:45 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T18:47:27.353Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44935232094
 claimed_at: 2026-11-21T18:37:45.783Z
 decision: null
