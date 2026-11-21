@@ -1,7 +1,7 @@
 ---
 id: T-3702
 title: 2100 Prairie's roof, flank and boundary off the photograph, the other two pictures' cameras and the image-gate sign-off: the front dormers, the pavilion's flared slated gable, the great stack's carved flues, the 21st Street flank's lights and bay, the iron fence on stone piers
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1920
 opened: 2026-11-20
-closed: null
+closed: 2026-11-21
 pr: 2267
 claimed_by: run 11/20/2026, 2:55:04 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-21T07:48:44Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44813846846
 claimed_at: 2026-11-20T20:55:05.073Z
 decision: null

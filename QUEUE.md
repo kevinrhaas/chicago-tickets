@@ -67,7 +67,6 @@ T-3562 — 1815 Prairie's remaining photograph differences: the pavilion's full 
 T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3701 — 2100 Prairie's porch and stoops off the photograph: the balcony from the pavilion to the parlour on stone piers and a cluster of three columns, its carved stone balustrade, and the curved flight from the walk with the second flight from the south, their carved cheeks
-T-3702 — 2100 Prairie's roof, flank and boundary off the photograph, the other two pictures' cameras and the image-gate sign-off: the front dormers, the pavilion's flared slated gable, the great stack's carved flues, the 21st Street flank's lights and bay, the iron fence on stone piers
 T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
 T-1922 — Refine 2110 Rees at its historical site envelope
 T-1923 — Finish 2110 Rees at its historical site architecture
