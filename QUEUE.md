@@ -66,7 +66,6 @@ T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3717 — 2100 Prairie's porch corner on the photograph's cluster of three columns on one tall pedestal
 T-3718 — 2100 Prairie's porch carried north and south as the photograph's: the balcony on to the pavilion on stone piers, the porch's north end about 1 m wider, the flight narrowed north of the porch's middle, and the balustrade's carved pierced panels
-T-3666 — 2109 Prairie, the Roloson house, onto K01 from the Armour photograph: the stone front, the raised veranda wrapping its front and south side, the mansard tower, the rear wing and range, and the image-gate sign-off (after the piece before it)
 T-3714 — 2110 Prairie's carved stone off its photographs: the gable's carved tympanum, the bow's carved band at the upper floor and the bow's copper cornice
 T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
