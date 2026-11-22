@@ -1,7 +1,7 @@
 ---
 id: T-3718
 title: 2100 Prairie's porch carried north and south as the photograph's: the balcony on to the pavilion on stone piers, the porch's north end about 1 m wider, the flight narrowed north of the porch's middle, and the balustrade's carved pierced panels
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-3701
 opened: 2026-11-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/22/2026, 5:48:30 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45018553242
+claimed_at: 2026-11-22T11:48:31.895Z
 decision: null
 decision_answer: null
 ---
