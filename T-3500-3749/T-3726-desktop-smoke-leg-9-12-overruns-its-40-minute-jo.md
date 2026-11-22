@@ -1,7 +1,7 @@
 ---
 id: T-3726
 title: Desktop smoke leg 9-12 overruns its 40-minute job cap: 27-38 min on passing runs, cancelled at 40 on #2292 (job 137203036813) and #2290 (job 137039400647); split it into 9-10 and 11-12
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-22
 closed: null
-pr: null
+pr: 2295
 claimed_by: run 11/22/2026, 7:25:28 AM CT
 blocked_on: null
 needs_bake: false
