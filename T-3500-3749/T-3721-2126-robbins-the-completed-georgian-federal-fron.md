@@ -1,7 +1,7 @@
 ---
 id: T-3721
 title: 2126 Robbins: the completed Georgian/Federal front onto the shared kit from its two 1905 plates (five bays, marble trim and belts, pilaster heads, fanlit entry, attic parapet, end chimneys, urn-topped piers) as a later dated state beside the July 1904 works shell
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1926
 opened: 2026-11-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/22/2026, 2:49:36 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45004073195
+claimed_at: 2026-11-22T08:49:37.068Z
 decision: null
 decision_answer: null
 ---
