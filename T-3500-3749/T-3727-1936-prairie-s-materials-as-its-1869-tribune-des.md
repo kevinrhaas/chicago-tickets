@@ -30,3 +30,25 @@ The owner, 2026-11-22 (project thread "Rebuild 1936 Prairie from its 1880s descr
 ## Image gate
 
 - house_1918_prairie
+
+## Before and after (PR #2297)
+
+Pressed red brick all round with the tower in it, every dressing, the carving, the stoop and the reception bay in Portland brownstone, a rusticated brownstone basement with base and water-table, and the hip painted dark for the Tribune's slate. Liberty L-k01-1936-allerton-tribune-2026-11-22.
+
+The photograph beside the build, before:
+
+![before](https://github.com/kevinrhaas/chicago-evidence/blob/24c8905a19947bceef0a8174307b39d72318269d/evidence/T-3727-1936-prairie-tribune/photo-match-se-before.jpg?raw=true)
+
+After:
+
+![after](https://github.com/kevinrhaas/chicago-evidence/blob/24c8905a19947bceef0a8174307b39d72318269d/evidence/T-3727-1936-prairie-tribune/photo-match-se-after.jpg?raw=true)
+
+In the app (before on the left, after on the right), desktop:
+
+![south flank](https://github.com/kevinrhaas/chicago-evidence/blob/24c8905a19947bceef0a8174307b39d72318269d/evidence/T-3727-1936-prairie-tribune/app-desktop-south-flank-before-after.jpg?raw=true)
+
+Phone:
+
+![phone](https://github.com/kevinrhaas/chicago-evidence/blob/24c8905a19947bceef0a8174307b39d72318269d/evidence/T-3727-1936-prairie-tribune/app-phone-southeast-before-after.jpg?raw=true)
+
+Not built: the parlour's stone balcony on brackets (not in the photograph; the kit's balconettes are iron only) and true slate on the hip (the kit's slate needs a steeper pitch).
