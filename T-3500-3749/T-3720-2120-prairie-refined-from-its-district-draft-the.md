@@ -1,7 +1,7 @@
 ---
 id: T-3720
 title: 2120 Prairie refined from its district draft: the brick main body and attached wings, masonry corner bonds, recessed sash, lintels, foundation and high stoop, its own roof, gutters, chimneys and rear elevation
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1926
 opened: 2026-11-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/21/2026, 10:42:38 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44985043772
+claimed_at: 2026-11-22T04:42:38.900Z
 decision: null
 decision_answer: null
 ---
