@@ -1,7 +1,7 @@
 ---
 id: T-3713
 title: 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1925
 opened: 2026-11-20
 closed: null
 pr: null
-claimed_by: run 11/21/2026, 8:05:58 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44972310753
-claimed_at: 2026-11-22T02:05:58.442Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1925 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-21** (claim of run 11/21/2026, 8:05:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44972310753): PR (finishing salvaged draft #2289) ships the two cameras and 9 fixed differences; three stay open in the match records and need new K01 features this run could not fit: a mansard on the rear range with its north dormers (K01 wings are flat/hip/gable only), iron cresting and a carved top on the pavilion's crown (mansard.deck dresses the main deck only), and the lower railed south end of the front. The sign-off cannot close until those land.
