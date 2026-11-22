@@ -1,7 +1,7 @@
 ---
 id: T-1930
 title: Refine 2123 masonry and 2125 frame neighbours
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-22
 pr: null
 claimed_by: run 11/22/2026, 6:15:13 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-22T12:16:55.811Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45020665665
 claimed_at: 2026-11-22T12:15:14.652Z
 decision: null
