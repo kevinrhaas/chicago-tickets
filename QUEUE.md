@@ -62,7 +62,6 @@
 # ordered by distance (1816, 1824-1828, 1815, 1708-1712, 1823, 1827), then 1916-1936, then 1613-1619 and the 20th-22nd block in its
 # existing order; T-2163 (the district grounds and walk, unblocked 2026-11-05: T-2983's pieces have all merged) goes before the verifies.
 # Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
-T-3626 — 2013 Prairie's flanks and rear from the 2003 nomination photographs (north side, rear and garden), the plate's open differences (oval lights, pilastered frame and panels, frieze and dentils, the front's pale tone) and the image-gate sign-off
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3717 — 2100 Prairie's porch corner on the photograph's cluster of three columns on one tall pedestal
 T-3718 — 2100 Prairie's porch carried north and south as the photograph's: the balcony on to the pavilion on stone piers, the porch's north end about 1 m wider, the flight narrowed north of the porch's middle, and the balustrade's carved pierced panels
