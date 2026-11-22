@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/22/2026, 10:38:41 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45043184859
-claimed_at: 2026-11-22T16:38:42.221Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -58,3 +58,5 @@ T-1917 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-22** (claim of run 11/21/2026, 10:30:44 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44984079196): PR #2292 builds 2017's gable as the photograph's: a dentilled foot cornice (shelf, 21 dentils, fillet), bargeboards under both rakes, a latticed ventilator in its peak, rakes at the print's 1.4 pitch to its 12.2 m apex (K08 coped gable takes foot_cornice/bargeboards/ventilator; 68 other K08 meshes byte-identical); handed on with resume while CI's gate was queued, nothing red. done stays refused by T-1917's image gate: 1 difference open on 2017 (the low iron area railing before the basement, which needs a K11 layout with iron both sides of the stoop on a line close before the house) and 2021's view has its own. Next run: confirm #2292 merged, then take the railing
 
 **Released 2026-11-22** (claim of run 11/22/2026, 1:29:30 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44997480270): slice 2/5 lapped PR #2292 onto dev twice (2120 and 2013 Prairie landed mid-run): re-hashed/re-derived, local check.sh 8/8 green, handed on with resume while CI's gate ran (0 red). done stays refused by T-1917's image gate: 1 difference open on 2017 (the low iron area railing) and 2021's view has its own. Next run: confirm #2292 merged, then take the railing
+
+**Released 2026-11-22** (claim of run 11/22/2026, 10:38:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45043184859): slice 4/5 lapped PR #2292 onto dev after T-3726 (#2295) landed: manifest conflict cleared by merge_asset_registry (71 GLBs byte-identical), doors_1904 re-derived, local check.sh 8/8 green, mobile smoke 1 full pass; handed on with resume while CI's gate was queued (0 red). done stays refused by T-1917's image gate: 1 difference open on 2017 (the low iron area railing) and 2021's view has its own. Next run: confirm #2292 merged, then take the railing
