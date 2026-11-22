@@ -70,7 +70,9 @@ T-3714 — 2110 Prairie's carved stone off its photographs: the gable's carved t
 T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-T-1926 — Refine 2120 and the 2126 Robbins construction phase
+T-3720 — 2120 Prairie refined from its district draft: the brick main body and attached wings, masonry corner bonds, recessed sash, lintels, foundation and high stoop, its own roof, gutters, chimneys and rear elevation
+T-3721 — 2126 Robbins: the completed Georgian/Federal front onto the shared kit from its two 1905 plates (five bays, marble trim and belts, pilaster heads, fanlit entry, attic parapet, end chimneys, urn-topped piers) as a later dated state beside the July 1904 works shell
+T-3722 — 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-1930 — Refine 2123 masonry and 2125 frame neighbours
 T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
 T-1938 — Refine south-east service buildings

@@ -1,7 +1,7 @@
 ---
 id: T-1926
 title: Refine 2120 and the 2126 Robbins construction phase
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-21
 pr: null
 claimed_by: run 11/21/2026, 10:41:15 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-22T04:42:33.526Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/44985043772
 claimed_at: 2026-11-22T04:41:16.639Z
 decision: null
