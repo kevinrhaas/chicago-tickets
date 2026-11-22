@@ -66,7 +66,6 @@ T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansa
 T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-T-3721 — 2126 Robbins: the completed Georgian/Federal front onto the shared kit from its two 1905 plates (five bays, marble trim and belts, pilaster heads, fanlit entry, attic parapet, end chimneys, urn-topped piers) as a later dated state beside the July 1904 works shell
 T-3722 — 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3724 — 2123 Prairie, the stone-front masonry house, refined from its district draft onto K01 from the 1911 sheet and the Armour photograph
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
