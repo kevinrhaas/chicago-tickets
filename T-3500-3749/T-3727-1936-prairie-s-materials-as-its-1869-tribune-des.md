@@ -1,7 +1,7 @@
 ---
 id: T-3727
 title: 1936 Prairie's materials as its 1869 Tribune describes them: pressed brick, brownstone dressings, porch and bay, rusticated basement
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-22
 closed: null
-pr: null
+pr: 2297
 claimed_by: run 11/22/2026, 10:29:29 AM CT
 blocked_on: null
 needs_bake: false
