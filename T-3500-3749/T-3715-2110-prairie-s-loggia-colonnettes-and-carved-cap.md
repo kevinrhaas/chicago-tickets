@@ -1,7 +1,7 @@
 ---
 id: T-3715
 title: 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1923
 opened: 2026-11-21
 closed: null
-pr: null
+pr: 2296
 claimed_by: run 11/22/2026, 9:17:59 AM CT
 blocked_on: null
 needs_bake: false
