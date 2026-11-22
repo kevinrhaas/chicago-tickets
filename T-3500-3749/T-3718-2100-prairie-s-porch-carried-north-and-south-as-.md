@@ -17,8 +17,8 @@ needs_bake: false
 closed_at: null
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45018553242
 claimed_at: 2026-11-22T11:48:31.895Z
-decision: pending
-decision_answer: null
+decision: answered
+decision_answer: a
 ---
 
 2100 Prairie's porch carried north and south as the photograph's: the balcony on to the pavilion on stone piers, the porch's north end about 1 m wider, the flight narrowed north of the porch's middle, and the balustrade's carved pierced panels.
@@ -49,3 +49,5 @@ T-3701 carries an `## Image gate` section. The last of these pieces to close is 
 **Recommendation:** (a) You file follow-up tickets (--by owner) for the open differences you want built; T-3718 then closes on PR #2294 with --anyway — The porch is done and merged on its own PR; the remaining gaps are real, visible from the street and owner-only to file under the photo-ticket stopping rule (T-3153)
 
 **Asked:** 2026-11-22 by https://github.com/kevinrhaas/polecat-platform/actions/runs/45018553242. Answer on Manager's 4D Board, or set `decision: answered` and `decision_answer: <letter>` in this file.
+
+**Owner answer (2026-11-22, via Manager):** (a) You file follow-up tickets (--by owner) for the open differences you want built; T-3718 then closes on PR #2294 with --anyway
