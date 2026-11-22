@@ -1,7 +1,7 @@
 ---
 id: T-3723
 title: 2125 Prairie, the frame dwelling, refined from its district draft to a whole K16 clapboard frame house from the 1911 sheet (bounded design)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1930
 opened: 2026-11-22
 closed: null
-pr: null
+pr: 2298
 claimed_by: run 11/22/2026, 11:31:21 AM CT
 blocked_on: null
 needs_bake: false
