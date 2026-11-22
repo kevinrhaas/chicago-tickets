@@ -1,7 +1,7 @@
 ---
 id: T-3723
 title: 2125 Prairie, the frame dwelling, refined from its district draft to a whole K16 clapboard frame house from the 1911 sheet (bounded design)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1930
 opened: 2026-11-22
-closed: null
+closed: 2026-11-22
 pr: 2298
 claimed_by: run 11/22/2026, 11:31:21 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-22T22:09:24Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45048980231
 claimed_at: 2026-11-22T17:31:21.328Z
 decision: null
