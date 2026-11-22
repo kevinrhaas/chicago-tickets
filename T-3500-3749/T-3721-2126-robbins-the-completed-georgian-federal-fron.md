@@ -1,7 +1,7 @@
 ---
 id: T-3721
 title: 2126 Robbins: the completed Georgian/Federal front onto the shared kit from its two 1905 plates (five bays, marble trim and belts, pilaster heads, fanlit entry, attic parapet, end chimneys, urn-topped piers) as a later dated state beside the July 1904 works shell
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1926
 opened: 2026-11-21
 closed: null
-pr: null
+pr: 2293
 claimed_by: run 11/22/2026, 2:49:36 AM CT
 blocked_on: null
 needs_bake: false
