@@ -90,6 +90,7 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # ---     "you can add a chunk of tickets below the south through time and start working them in parallel"). One band for its own
 # ---     agents, worked in parallel: streets and names, surfaces and walks, dense downtown, the fire, the landmarks, people and
 # ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
+T-3738 — 1871 street numbers: the pre-fire city's buildings show their 1871 numbers (old numbering, before the 1909 change) as the period's photographs and directories show them, on the same atlas as 1904's (later; after T-3737)
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
@@ -149,4 +150,3 @@ T-3553 — Finish people's clothing: no breakthrough in motion, better collars a
 #     waits: a committed source giving an 1830s Great Lakes schooner her complement, and the Chief Engineer's 1835 harbour-works report. Neither is in the corpus.
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3736 — Graphics settings: antialiasing switch, Fast frame pacing, and a line saying what is drawn
-T-3738 — 1871 street numbers: the pre-fire city's buildings show their 1871 numbers (old numbering, before the 1909 change) as the period's photographs and directories show them, on the same atlas as 1904's (later; after T-3737)
