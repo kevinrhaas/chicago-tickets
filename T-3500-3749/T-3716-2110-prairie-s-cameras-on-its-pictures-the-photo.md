@@ -1,7 +1,7 @@
 ---
 id: T-3716
 title: 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1923
 opened: 2026-11-21
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/23/2026, 9:05:53 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45199395387
+claimed_at: 2026-11-23T15:05:53.897Z
 decision: null
 decision_answer: null
 ---
