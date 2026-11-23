@@ -33,7 +33,6 @@ Kevin, 2026-11-23: "i noticed there were no street addresses on most of the buil
 - Every 1904 house with a modelled front door on Prairie, Indiana or Calumet whose lot has a number shows it, read from the street at the door: on the transom glass where the door has one, on the leaf's top rail where it has none. Glessner keeps its grille's 1800 and gets nothing added.
 - 1815 and 1612 are marked attested in form; the rest are the number (inferred, from the sheet) in the reconstructed form (a liberty in docs/LIBERTIES.md).
 - One texture atlas and one draw call for the whole district; nothing drawn past a short distance; nothing added on a phone's boot beyond a few KB. Desktop 1280x800 and phone 390x780 pictured, zero page errors.
-- Pullman's front parkway: the reconstructed carriage walk at the lot's middle is withdrawn, because the Detroit Publishing print (`loc_det_4a08065_pullman_residence`) shows that parkway as unbroken grass between its elms; the pictured elm stays where the print puts it.
 - Before and after pictures inline in the PR and on closing.
 
-**Not in this ticket:** 1871 (filed separately for later), 1835 and 1812 (the town had no house numbers to show; nothing is invented).
+**Not in this ticket:** Kevin's tree on the walk (the thread "Move 1904 street trees out of the sidewalk" has it: the pictured Pullman corner elm on the 18th Street crossing); 1871 (filed separately for later), 1835 and 1812 (the town had no house numbers to show; nothing is invented).
