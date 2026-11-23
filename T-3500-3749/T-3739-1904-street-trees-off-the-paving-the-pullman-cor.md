@@ -1,7 +1,7 @@
 ---
 id: T-3739
 title: 1904 street trees off the paving: the Pullman corner elm moved off the 18th Street walk's crossing, and the tree planter refuses any trunk on a walk, carriage walk, corner crossing or drive
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-23
-closed: null
+closed: 2026-11-23
 pr: 2326
 claimed_by: run 11/23/2026, 10:54:16 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T21:57:22Z
 claimed_run: null
 claimed_at: 2026-11-23T16:54:17.414Z
 decision: null
