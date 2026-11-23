@@ -1,7 +1,7 @@
 ---
 id: T-3729
 title: 2130 Prairie, the Murdoch house, refined from its district draft onto K01 from the 1911 sheet and both 2140 photographs: the rock-faced stone front, the steep street gable over the columned porch, the round north tower with its conical cap, the brick rear
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1927
 opened: 2026-11-22
 closed: null
-pr: null
+pr: 2307
 claimed_by: run 11/22/2026, 7:45:02 PM CT
 blocked_on: null
 needs_bake: false
