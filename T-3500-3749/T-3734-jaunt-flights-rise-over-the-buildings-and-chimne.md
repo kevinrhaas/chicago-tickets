@@ -23,4 +23,13 @@ decision_answer: null
 
 Jaunt flights rise over the buildings and chimneys in their way, in every year, instead of passing through them.
 
+Owner, 2026-11-23 (project thread "Keep jaunt flights clear of buildings"): *"when you fly on the jaunts in 1904 and probably others you will often clip fly though a building or chimney, when you fly if you run into a thing you should fly over or around"*.
+
+Cause: both kinds of jaunt flight know only the ground. The timed glide (`travel.glide`, the flight to stop 1 and the closing look) flies a fixed arc, 0 m for a hop under 30 m and 18 m for a short one, whatever stands under it; the steered Fly ride between stops (`steerFlight`) climbs while moving forward, cruises at 20 m on a short leg, and comes down an 18° slope across the houses in front of the stand. The walker's fly mode keeps only 1.2 m off the terrain.
+
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+- Every flight a jaunt or Go to makes (the glide and the steered Fly ride) keeps the eye clear of the drawn buildings it passes, chimneys and towers included, and of the context city's stand-ins, in every year: 3 m above the tallest point of anything within 5 m of the eye's ground track, except over the stand it takes off from or lands on.
+- It rises before it reaches a building, not when it is over it, and comes down onto the stand rather than through the house in front of it.
+- A test flies real legs of 1904, 1871 and 1835 jaunts past their buildings and fails on any frame inside a building's clearance; it fails on the code before this change.
+- Before and after pictures from inside the flight, desktop and phone, in the PR and the close note.
+- No cost a weak PC can see: the clearance is looked up per flight, never a per-frame scan of the town.
