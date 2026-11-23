@@ -1,7 +1,7 @@
 ---
 id: T-3722
 title: 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1926
 opened: 2026-11-21
 closed: null
 pr: null
-claimed_by: run 11/23/2026, 3:58:37 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45148820742
-claimed_at: 2026-11-23T09:58:38.164Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1926 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-23** (claim of run 11/23/2026, 3:58:37 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45148820742): Cameras solved on both plate scans (matched against the completed VERSION through the new camera field 'version') and five of the plate's over-the-bar gaps built (Ionic pilaster heads, panels incl. the carved one, keys, corner scroll stops, brick gate piers with balls) in steward/t3722-2126-robbins-plate-cameras. Still open in both match records: the wall head (the K01 flat roof stands its deck/blocking about 1 m over the plate's cornice crown; needs a flat-roof crown option in K05/K01), the door (single leaf + two side lights under a brick arch), 6/6 sash (a K06 variant), and the north return wall with its ball-topped pier. Too much for the rest of this run; the next run starts from the match records.
