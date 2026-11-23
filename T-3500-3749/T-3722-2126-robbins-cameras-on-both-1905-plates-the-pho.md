@@ -1,7 +1,7 @@
 ---
 id: T-3722
 title: 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1926
 opened: 2026-11-21
 closed: null
-pr: null
+pr: 2333
 claimed_by: run 11/23/2026, 2:26:30 PM CT
 blocked_on: null
 needs_bake: false
