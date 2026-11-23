@@ -1,7 +1,7 @@
 ---
 id: T-3729
 title: 2130 Prairie, the Murdoch house, refined from its district draft onto K01 from the 1911 sheet and both 2140 photographs: the rock-faced stone front, the steep street gable over the columned porch, the round north tower with its conical cap, the brick rear
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1927
 opened: 2026-11-22
-closed: null
+closed: 2026-11-23
 pr: 2307
 claimed_by: run 11/22/2026, 7:45:02 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T10:34:48Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45094892509
 claimed_at: 2026-11-23T01:45:02.954Z
 decision: null
