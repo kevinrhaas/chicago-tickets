@@ -1,7 +1,7 @@
 ---
 id: T-3725
 title: 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1930
 opened: 2026-11-22
 closed: null
 pr: null
-claimed_by: run 11/23/2026, 5:27:07 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45158990805
-claimed_at: 2026-11-23T11:27:07.892Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1930 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-23** (claim of run 11/23/2026, 5:27:07 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45158990805): Camera solved and the photo-match worked down on branch steward/t3725-2123-armour-camera (storeys, basement, mansard, dormers, flank dormer and stack now stand on the print's). Two differences stay open in data/reference_views/house_2123_prairie/chicagology_armour_photo.match.json, so the image gate cannot sign off: the skyline steps ~0.45 m down south of the bow with a corniced, crested head over the second street dormer (K01's front crown refuses the print's north-flank dormer inside its depth; its hooded dormer takes only a flat-headed sash where the print's is round-headed), and the front's south end turns its mansard down at the print's right edge (the sheet's cut entrance corner, liberty L-k01-2123-prairie-3724, not built). The next run on this ticket needs a K01 change for one of those, not more reading.
