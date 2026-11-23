@@ -1,7 +1,7 @@
 ---
 id: T-3713
 title: 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1925
 opened: 2026-11-20
 closed: null
 pr: null
-claimed_by: run 11/23/2026, 9:08:53 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45197910665
-claimed_at: 2026-11-23T15:08:53.922Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -42,3 +42,5 @@ T-1925 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-21** (claim of run 11/21/2026, 8:05:58 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/44972310753): PR (finishing salvaged draft #2289) ships the two cameras and 9 fixed differences; three stay open in the match records and need new K01 features this run could not fit: a mansard on the rear range with its north dormers (K01 wings are flat/hip/gable only), iron cresting and a carved top on the pavilion's crown (mansard.deck dresses the main deck only), and the lower railed south end of the front. The sign-off cannot close until those land.
 
 **Released 2026-11-22** (claim of run 11/22/2026, 2:01:19 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45061785335): PR #2300 ships the crown's iron cresting (new K01 mansard.crown.cresting) and reads the 'carved top' as the south stack, raised to 18.35 m between the two pictures; both match records stay 'differs' on two differences that need new K01 roof features this run could not fit: a mansard with dormers on the rear range (K01 wing roofs are flat/hip/gable only) and the lower railed south end of the front (no K01 part stops the main mansard short of a side wall or drops one stretch's wall head)
+
+**Released 2026-11-23** (claim of run 11/23/2026, 9:08:53 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45197910665): PR (branch steward/t3713-2115-rear-mansard-south-end) ships the rear range's mansard and its two dormers (new K01 rear_wings roof kind 'mansard', joined into the main roof), fixing that open difference in the Armour photograph's match record. One difference stays open in both match records: the front's south end beyond the pavilion, lower and railed in both pictures, which needs a judgment between the 1911 sheet's '3B' main body and the pictures plus a K01 part that stops the main mansard short of a side wall and drops that stretch's wall head; the sign-off cannot close until it lands.
