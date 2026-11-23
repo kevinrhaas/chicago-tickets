@@ -67,6 +67,7 @@ T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's 
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-3732 — dev's 1835 first-visit boot payload measures 49.657 MB, over SITE-BUDGET § 4r's 49.6 MB: every PR's smoke (desktop, 1-2) is red on it (dev ef2ef1ecc, after #2311)
+T-3733 — dev's gate is red on validate --stale: murdoch_house_2130_prairie__as_mapped_1904.glb's inputs hash to 75d457575ccf, its mesh was built from 8d7f0ca61329 (dev 8c6ba3522, after #2300; gate part 3/8 on dev, 4/8 on PR #2315)
 T-3722 — 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1938 — Refine south-east service buildings
