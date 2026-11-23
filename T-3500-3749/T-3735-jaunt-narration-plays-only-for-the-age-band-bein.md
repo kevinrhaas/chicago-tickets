@@ -1,7 +1,7 @@
 ---
 id: T-3735
 title: Jaunt narration plays only for the age band being read; Narrated filter per band
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-23
-closed: null
+closed: 2026-11-23
 pr: 2319
 claimed_by: run 11/23/2026, 6:45:32 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T14:55:52Z
 claimed_run: null
 claimed_at: 2026-11-23T12:45:34.168Z
 decision: null
