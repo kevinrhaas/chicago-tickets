@@ -63,10 +63,8 @@
 # existing order; T-2163 (the district grounds and walk, unblocked 2026-11-05: T-2983's pieces have all merged) goes before the verifies.
 # Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-T-3732 — dev's 1835 first-visit boot payload measures 49.657 MB, over SITE-BUDGET § 4r's 49.6 MB: every PR's smoke (desktop, 1-2) is red on it (dev ef2ef1ecc, after #2311)
 T-3722 — 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1938 — Refine south-east service buildings

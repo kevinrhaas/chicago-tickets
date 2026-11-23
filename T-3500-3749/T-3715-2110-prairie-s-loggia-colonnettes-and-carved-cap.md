@@ -1,7 +1,7 @@
 ---
 id: T-3715
 title: 2110 Prairie's loggia colonnettes and carved capitals, the landing's parapet across the bow's foot, the stack in stone and the roof run on to the gable
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1923
 opened: 2026-11-21
-closed: null
+closed: 2026-11-23
 pr: 2296
 claimed_by: run 11/22/2026, 9:17:59 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T14:47:19Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45036623436
 claimed_at: 2026-11-22T15:18:00.704Z
 decision: null
