@@ -1,7 +1,7 @@
 ---
 id: T-1927
 title: Refine 2130 Murdoch rounded-bay house
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-22
 pr: null
 claimed_by: run 11/22/2026, 7:43:26 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-23T01:44:58.839Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45094892509
 claimed_at: 2026-11-23T01:43:26.789Z
 decision: null

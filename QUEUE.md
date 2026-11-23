@@ -71,7 +71,8 @@ T-3724 — 2123 Prairie, the stone-front masonry house, refined from its distric
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
 T-1938 — Refine south-east service buildings
-T-1927 — Refine 2130 Murdoch rounded-bay house
+T-3729 — 2130 Prairie, the Murdoch house, refined from its district draft onto K01 from the 1911 sheet and both 2140 photographs: the rock-faced stone front, the steep street gable over the columned porch, the round north tower with its conical cap, the brick rear
+T-3730 — 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1928 — Refine 2140 Tucker-Smith corner mansion envelope
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
 T-1937 — Refine south-west service buildings and shared Rees coach house
