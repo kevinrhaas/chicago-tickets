@@ -1,7 +1,7 @@
 ---
 id: T-3736
 title: Graphics settings: antialiasing switch, Fast frame pacing, and a line saying what is drawn
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-23
 closed: null
-pr: null
+pr: 2325
 claimed_by: run 11/23/2026, 8:48:56 AM CT
 blocked_on: null
 needs_bake: false
