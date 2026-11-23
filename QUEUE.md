@@ -67,7 +67,6 @@ T-3715 — 2110 Prairie's loggia colonnettes and carved capitals, the landing's 
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-3722 — 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
-T-3724 — 2123 Prairie, the stone-front masonry house, refined from its district draft onto K01 from the 1911 sheet and the Armour photograph
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1931 — Refine 2127-2129 flats and 2141 non-building frontage
 T-1938 — Refine south-east service buildings

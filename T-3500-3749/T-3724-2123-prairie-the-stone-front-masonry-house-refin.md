@@ -1,7 +1,7 @@
 ---
 id: T-3724
 title: 2123 Prairie, the stone-front masonry house, refined from its district draft onto K01 from the 1911 sheet and the Armour photograph
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1930
 opened: 2026-11-22
-closed: null
+closed: 2026-11-22
 pr: 2302
 claimed_by: run 11/22/2026, 4:39:25 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T03:36:26Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45076870472
 claimed_at: 2026-11-22T22:39:25.812Z
 decision: null
