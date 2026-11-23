@@ -23,4 +23,6 @@ decision_answer: null
 
 Bring the first-time tour (Field Check) up to date: stories and questions, mysteries, reading age, language, graphics, Jump to 1871.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+Kevin, 2026-11-23: "can you update the first time user tour so it is current?"
+
+**Acceptance:** the Field Check names what has landed since T-3642 — Tell me a story / Ask a question on Interact, mysteries and parts to play in Jaunts, Settings' Language, Reading age and Graphics, and a Jump step that names 1871 and the Great Fire — each step still waits for its own action, every bubble is 14 words or fewer in English and has its Spanish, the teacher handout's step count matches, and it works on desktop and on a 390×780 phone.
