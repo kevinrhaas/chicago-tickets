@@ -1,7 +1,7 @@
 ---
 id: T-3741
 title: Redesign the public site for four audiences (players, educators, historians, technicians) with cinematic films, seamless loops and a reliable contact form
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-23
 closed: null
-pr: null
+pr: 2331
 claimed_by: run 11/23/2026, 12:44:34 PM CT
 blocked_on: null
 needs_bake: false
