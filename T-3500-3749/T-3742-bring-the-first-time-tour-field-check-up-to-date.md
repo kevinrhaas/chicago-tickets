@@ -1,7 +1,7 @@
 ---
 id: T-3742
 title: Bring the first-time tour (Field Check) up to date: stories and questions, mysteries, reading age, language, graphics, Jump to 1871
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-23
 closed: null
-pr: null
+pr: 2336
 claimed_by: run 11/23/2026, 12:57:08 PM CT
 blocked_on: null
 needs_bake: false
