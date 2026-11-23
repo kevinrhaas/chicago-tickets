@@ -36,3 +36,23 @@ Kevin, 2026-11-23: "i noticed there were no street addresses on most of the buil
 - Before and after pictures inline in the PR and on closing.
 
 **Not in this ticket:** Kevin's tree on the walk (the thread "Move 1904 street trees out of the sidewalk" has it: the pictured Pullman corner elm on the 18th Street crossing); 1871 (filed separately for later), 1835 and 1812 (the town had no house numbers to show; nothing is invented).
+
+## Result (PR #2328)
+
+124 houses on Prairie, Indiana and Calumet show their 1904 number in gilt serif figures on the front door's transom: one atlas, one draw, hidden past 70 m. The Allerton house shows 1936, its pre-1909 number. Glessner keeps its grille's 1800. Liberty: L-prairie-house-numbers-3737.
+
+Before | after, desktop 1280x800, 1612 Prairie:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/5365a74258192beaaa3d2bae252dfdebc30bd0ca/evidence/house-numbers-T-3737/desktop-1612-prairie-close-before-after.jpg?raw=true" width="640">
+
+1612's transom, close:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/5365a74258192beaaa3d2bae252dfdebc30bd0ca/evidence/house-numbers-T-3737/desktop-1612-transom-zoom.jpg?raw=true" width="640">
+
+Before | after, desktop, 1830 Calumet:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/5365a74258192beaaa3d2bae252dfdebc30bd0ca/evidence/house-numbers-T-3737/desktop-1830-calumet-close-before-after.jpg?raw=true" width="640">
+
+Before | after, phone 390x780, 1612 Prairie and 1830 Calumet:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/5365a74258192beaaa3d2bae252dfdebc30bd0ca/evidence/house-numbers-T-3737/mobile-1612-prairie-close-before-after.jpg?raw=true" width="320"> <img src="https://github.com/kevinrhaas/chicago-evidence/blob/5365a74258192beaaa3d2bae252dfdebc30bd0ca/evidence/house-numbers-T-3737/mobile-1830-calumet-close-before-after.jpg?raw=true" width="320">
