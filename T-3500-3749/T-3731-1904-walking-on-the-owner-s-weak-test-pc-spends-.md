@@ -1,7 +1,7 @@
 ---
 id: T-3731
 title: 1904 walking on the owner's weak test PC spends about 44 ms a frame preparing structure draw lists one instance at a time
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-22
-closed: null
+closed: 2026-11-22
 pr: 2310
 claimed_by: run 11/22/2026, 8:22:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T05:03:03Z
 claimed_run: null
 claimed_at: 2026-11-23T02:22:38.694Z
 decision: null
