@@ -1,7 +1,7 @@
 ---
 id: T-3737
 title: 1904 house numbers: each Prairie, Indiana and Calumet house shows its 1904 street number where period houses carried it (gilt figures on the transom, as 1815's photograph shows), one atlas and one draw
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-23
-closed: null
+closed: 2026-11-23
 pr: 2328
 claimed_by: run 11/23/2026, 10:43:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-23T19:18:28Z
 claimed_run: null
 claimed_at: 2026-11-23T16:43:11.667Z
 decision: null
