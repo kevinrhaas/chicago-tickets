@@ -1,7 +1,7 @@
 ---
 id: T-3725
 title: 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1930
 opened: 2026-11-22
 closed: null
 pr: null
-claimed_by: run 11/23/2026, 1:39:11 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45246141164
-claimed_at: 2026-11-23T19:39:12.133Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -40,3 +40,5 @@ T-1930 carries an `## Image gate` section. The last of these pieces to close is 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
 
 **Released 2026-11-23** (claim of run 11/23/2026, 5:27:07 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45158990805): Camera solved and the photo-match worked down on branch steward/t3725-2123-armour-camera (storeys, basement, mansard, dormers, flank dormer and stack now stand on the print's). Two differences stay open in data/reference_views/house_2123_prairie/chicagology_armour_photo.match.json, so the image gate cannot sign off: the skyline steps ~0.45 m down south of the bow with a corniced, crested head over the second street dormer (K01's front crown refuses the print's north-flank dormer inside its depth; its hooded dormer takes only a flat-headed sash where the print's is round-headed), and the front's south end turns its mansard down at the print's right edge (the sheet's cut entrance corner, liberty L-k01-2123-prairie-3724, not built). The next run on this ticket needs a K01 change for one of those, not more reading.
+
+**Released 2026-11-23** (claim of run 11/23/2026, 1:39:11 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45246141164): Bow basement built on branch steward/t3725-2123-bow-basement: one light under the bow's north principal light (the print's pier under its south one; the second dark opening is the front's own basement light), inside K08's light-tier budget (6126/7000), so that difference is fixed. Still open in the match record: the skyline step south of the bow (a K01 front crown between the two street dormers, 1.95 m apart, collides with one or the other under K01's crown and dormer clearances, so the next run needs a K01 change there), the cut entrance corner at the print's right edge (L-k01-2123-prairie-3724), and the front's basement light beside the bow about 0.5 m wider to the north in the print.
