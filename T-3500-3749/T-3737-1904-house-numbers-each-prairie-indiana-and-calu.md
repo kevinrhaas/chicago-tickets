@@ -1,6 +1,6 @@
 ---
 id: T-3737
-title: 1904 house numbers: each Prairie, Indiana and Calumet house shows its 1904 street number where period houses carried it (gilt figures on the transom, as 1815's photograph shows), one atlas and one draw; and Pullman's parkway walk withdrawn where the Detroit print shows plain grass under the elm
+title: 1904 house numbers: each Prairie, Indiana and Calumet house shows its 1904 street number where period houses carried it (gilt figures on the transom, as 1815's photograph shows), one atlas and one draw
 state: claimed
 epic: META
 requested_by: owner
@@ -21,7 +21,7 @@ decision: null
 decision_answer: null
 ---
 
-1904 house numbers: each Prairie, Indiana and Calumet house shows its 1904 street number where period houses carried it (gilt figures on the transom, as 1815's photograph shows), one atlas and one draw; and Pullman's parkway walk withdrawn where the Detroit print shows plain grass under the elm.
+1904 house numbers: each Prairie, Indiana and Calumet house shows its 1904 street number where period houses carried it (gilt figures on the transom, as 1815's photograph shows), one atlas and one draw.
 
 Kevin, 2026-11-23: "i noticed there were no street addresses on most of the buildings could you do a sweep of what the street address numbers/plaque would have been on most buildings and then include them accordingly?" Then: "yes start with 1904, the other years can come later, you can add tickets for the other years for later to the queue, andother thing i am not sure that tree would be in the middle of the sidewalk" (with a screenshot of the east walk before the Pullman house, a parkway elm standing at the edge of the paved crossing).
 
