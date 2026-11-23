@@ -25,4 +25,4 @@ Bring the first-time tour (Field Check) up to date: stories and questions, myste
 
 Kevin, 2026-11-23: "can you update the first time user tour so it is current?"
 
-**Acceptance:** the Field Check names what has landed since T-3642 — Tell me a story / Ask a question on Interact, mysteries and parts to play in Jaunts, Settings' Language, Reading age and Graphics, and a Jump step that names 1871 and the Great Fire — each step still waits for its own action, every bubble is 14 words or fewer in English and has its Spanish, the teacher handout's step count matches, and it works on desktop and on a 390×780 phone.
+**Acceptance:** the Field Check names what has landed since T-3642 — Tell me a story / Ask a question on Interact, mysteries and parts to play in Jaunts, Settings' Language, Reading age and Graphics, and a Jump step on the year chip (1812, 1835, 1904; 1871 left out: Kevin 2026-11-23, "1871 ... is kind of early in development, 1904 is much more refined") — each step still waits for its own action, every bubble is 14 words or fewer in English and has its Spanish, the teacher handout's step count matches, and it works on desktop and on a 390×780 phone.
