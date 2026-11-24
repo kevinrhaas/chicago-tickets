@@ -1,7 +1,7 @@
 ---
 id: T-3744
 title: Make the public site cinematic: a trailer reel with title cards and the main theme, a Prairie Avenue walk, the 1812 column with everyone, people with their cards, Street View for educators, moving backgrounds
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -14,7 +14,7 @@ pr: 2342
 claimed_by: run 11/24/2026, 12:03:36 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: 2026-11-24T20:34:50Z
+closed_at: 2026-11-24T23:19:57Z
 claimed_run: null
 claimed_at: 2026-11-24T18:03:37.131Z
 decision: null
