@@ -1,7 +1,7 @@
 ---
 id: T-3722
 title: 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1926
 opened: 2026-11-21
-closed: null
+closed: 2026-11-23
 pr: 2333
 claimed_by: run 11/23/2026, 2:26:30 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-24T00:33:18Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45257536169
 claimed_at: 2026-11-23T20:26:31.545Z
 decision: null

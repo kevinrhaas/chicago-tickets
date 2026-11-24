@@ -65,7 +65,6 @@
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3716 — 2110 Prairie's cameras on its pictures, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-T-3722 — 2126 Robbins' cameras on both 1905 plates, the photo-match worked down and the image-gate sign-off (after the pieces before it)
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1938 — Refine south-east service buildings
 T-3730 — 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
