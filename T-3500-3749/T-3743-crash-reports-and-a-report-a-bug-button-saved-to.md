@@ -1,7 +1,7 @@
 ---
 id: T-3743
 title: Crash reports and a report-a-bug button, saved to Firebase with an email
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-24
 closed: null
-pr: null
+pr: 2338
 claimed_by: run 11/24/2026, 9:43:57 AM CT
 blocked_on: null
 needs_bake: false
