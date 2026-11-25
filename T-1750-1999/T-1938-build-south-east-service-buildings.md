@@ -1,7 +1,7 @@
 ---
 id: T-1938
 title: Refine south-east service buildings
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/25/2026, 3:12:25 PM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45701229567
+claimed_at: 2026-11-25T21:12:26.947Z
 decision: null
 decision_answer: null
 ---
