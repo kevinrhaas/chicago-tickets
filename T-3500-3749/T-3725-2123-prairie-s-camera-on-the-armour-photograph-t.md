@@ -1,7 +1,7 @@
 ---
 id: T-3725
 title: 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1930
 opened: 2026-11-22
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/25/2026, 3:18:45 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45701215834
+claimed_at: 2026-11-25T21:18:45.990Z
 decision: null
 decision_answer: null
 ---
