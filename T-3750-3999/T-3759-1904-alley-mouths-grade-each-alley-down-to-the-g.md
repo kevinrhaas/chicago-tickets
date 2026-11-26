@@ -1,7 +1,7 @@
 ---
 id: T-3759
 title: 1904 alley mouths: grade each alley down to the gutter and turn the curb into it
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2350
 claimed_by: run 11/25/2026, 10:27:24 PM CT
 blocked_on: null
 needs_bake: false
