@@ -1,7 +1,7 @@
 ---
 id: T-3750
 title: An Architecture site for expert users at its own link: the sixteen building kits with their specimens in 3D, their measured parameters, and the Prairie Avenue houses built on them
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2348
 claimed_by: run 11/25/2026, 10:17:40 PM CT
 blocked_on: null
 needs_bake: false
