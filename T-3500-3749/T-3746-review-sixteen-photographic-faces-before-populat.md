@@ -56,4 +56,14 @@ took 11m36s, exceeding the ten-minute foreground budget; the first concurrent at
 a scene-settling timeout. This is stage 1 of 15, not complete renderer qualification.
 
 Evidence and portable viewer:
-https://github.com/kevinrhaas/chicago-evidence/tree/38ee34b570baff303c038d0f0c2d3af5cebbd8fd/evidence/photo-face-pilot-T-3746
+https://github.com/kevinrhaas/chicago-evidence/tree/ea5f6f31f0f8452b8767e6b8172914bde0ca74f6/evidence/photo-face-pilot-T-3746
+
+The final review preserves fitted head/forehead axes and gives before/after distinct
+geometry cache keys. Actual browser parameters and the main body mesh are checked:
+1,828 of 13,341 position components change. The final extracted Full face-16 package
+also verifies distinct geometry (9,139 changed components), and phone/Light passes.
+All final screenshots and software timing were regenerated after the geometry fix.
+Two clean write-mode runs reproduce all 24 outputs; a deliberately damaged atlas was
+refused and restored byte-exact. Writer registration is measured and explicitly pending
+behind its unplaced input writers. Preflight 2/8 and gate 6/8 pass, as does local 1/4;
+complete CI and published renderer stages 2–15 remain outstanding on draft PR #2355.
