@@ -23,4 +23,4 @@ decision_answer: null
 
 Remove forehead bands from generic photographic faces.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Reproduce the visible forehead band on generic photographic faces, remove its actual texture or hair-boundary cause, and review representative adults and children from the front and oblique at full and Light detail. Preserve identity, child proportions, eye treatment and the existing shared texture budget. Run the applicable gates, update dev, and verify the served fix.
