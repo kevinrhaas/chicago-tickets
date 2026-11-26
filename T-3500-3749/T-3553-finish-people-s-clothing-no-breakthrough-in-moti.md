@@ -143,6 +143,13 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/1d3c74cc/evidence/T-3553-1812-doors-2026-11-26/desktop-covered-way-before-after.jpg?raw=true)
   The river's mouth at 45 s, before (left) and after:
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/1d3c74cc/evidence/T-3553-1812-doors-2026-11-26/desktop-river-mouth-t45-before-after.jpg?raw=true)
+- 2026-11-26 — **Round 5: clothes hang, lie and are trimmed as cloth** (PR #2359). Kevin: "the men are very bad ... ragged at points and peek through when they move and hugs their bodies unnaturally", then four close-ups: the coachman's collar and close coat, the maid's jagged collar and messy apron, John Glessner's lapels (no seams, no buttons, a lump at the shoulder), Frances Glessner's collar over her chin. Clothes are now worked as cloth at load, after the fittings, a slice at a time: coats and jackets faired off the figure, trims laid on the cloth, necklines refined, layers bound, hidden cloth culled (human-drape.js, human-fair.js, human-trim.js). John's lapels are recut as pressed cloth with three front buttons, back seams, a back collar and an even shoulder; the maid's collar is cut again as a band; a lady's collar is kept under her chin. Peek-through at LOD 0: John 4701 to 1637, Frances 2497 to 1221, coachman 12001 to 7790, maid 1508 to 1203; all 35 bodies 108086 to about 86000. Checking everyone found two more, both fixed: 1812 aprons sank behind short gowns, and Frances's jacket crumpled at the bust when faired. Left as is: the maid's apron bib, coarse lapels at the two far levels, a pre-existing skin sliver at John's chest at LOD 3, the coachman's collar corners, no armhole seams.
+  Before (left) and after:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/john-front.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/maid-front.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/coachman-front.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/frances-front.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/woman_working_1812.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
