@@ -1,7 +1,7 @@
 ---
 id: T-3751
 title: Great Fire jaunt scenes follow its story: Parmelee stop on Jackson Street, Field & Leiter burns at eight, Washington Square burnt with its furniture, every stop's fire state checked; period swing bridges joined to their streets, no buildings in Lake Park, quieter far colours, walks unblocked
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2356
 claimed_by: run 11/25/2026, 10:18:06 PM CT
 blocked_on: null
 needs_bake: false
@@ -37,3 +37,25 @@ And from his PDF of Great Fire jaunt screenshots (Nov 21): *"Building blocks the
 - No generic buildings between Michigan Avenue and the lake from the river to Twelfth Street (Lake Park), unless a source puts one there.
 - Far buildings read in muted period colours; attached fronts no longer stand on the walk, and walks do not stop short mid-block.
 - Before/after pictures, desktop and phone.
+
+## Result (PR 2356)
+
+Before (left) and after (right):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/03-parmelee.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/11-ogden-house.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/10-state-street.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/01-oleary-barn.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/desktop-state-bridge-air-sbs.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/desktop-state-bridge-deck-night-sbs.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/desktop-washington-east-sbs.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/desktop-lakefront-sbs.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/53e7ebf725602e8a9cd315dbf6226a80fe173892/evidence/T-3751-great-fire/desktop-aerial-far-sbs.jpg?raw=true" width="640">
