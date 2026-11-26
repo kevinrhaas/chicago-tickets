@@ -1,7 +1,7 @@
 ---
 id: T-3768
 title: Add age-appropriate photographic children faces for a consistent dev population
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2355
 claimed_by: run 11/26/2026, 9:09:45 AM CT
 blocked_on: null
 needs_bake: false
