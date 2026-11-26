@@ -1,6 +1,6 @@
 ---
 id: T-3761
-title: Expand the generic photo-face preview to sixty-four diverse adults
+title: Expand the generic photo-face preview to 256 diverse adults
 state: claimed
 epic: META
 requested_by: owner
@@ -24,3 +24,5 @@ decision_answer: null
 Expand the generic photo-face preview to sixty-four diverse adults.
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+Owner scope update: “Then do 256 faces if feasible.” Preserve the original sixteen and add 240 fictional adult sources, with varied apparent ages, skin tones, features and hair. Acceptance is one 256-face library, actual rendered page reviews, deterministic generic-adult assignments, and enforced texture/page residency budgets. Specific historical people follow next. Real low-power GPU whole-town performance must be measured separately; the available software renderer cannot certify it.
