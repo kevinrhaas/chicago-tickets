@@ -1,7 +1,7 @@
 ---
 id: T-3755
 title: Jaunts end every stop with a varied invitation; the Fort Dearborn ending keeps time order
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-25
-closed: null
+closed: 2026-11-26
 pr: 2347
 claimed_by: run 11/25/2026, 10:20:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-26T06:00:51Z
 claimed_run: null
 claimed_at: 2026-11-26T04:20:53.710Z
 decision: null
