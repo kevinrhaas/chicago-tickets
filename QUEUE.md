@@ -92,6 +92,7 @@ T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corne
 T-3751 — Great Fire jaunt scenes follow its story: Parmelee stop on Jackson Street, Field & Leiter burns at eight, Washington Square burnt with its furniture, every stop's fire state checked; period swing bridges joined to their streets, no buildings in Lake Park, quieter far colours, walks unblocked
 T-3747 — Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
 T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
+T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
