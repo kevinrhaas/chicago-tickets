@@ -1,7 +1,7 @@
 ---
 id: T-3769
 title: Remove forehead bands from generic photographic faces
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2365
 claimed_by: run 11/26/2026, 1:00:15 PM CT
 blocked_on: null
 needs_bake: false
