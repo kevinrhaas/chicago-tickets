@@ -24,4 +24,4 @@ group: T-3767,T-3768
 
 Enable the 256 generic photo faces by default in all four dev years.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Generic photographic faces load by default on dev in 1812, 1835, 1871 and 1904, without an opt-in query flag. Existing personal historical likenesses and visitor-selected faces retain priority. Verify complete population tables and actual rendered residents; preserve stable identities across body assignments. Adult and child crowd textures share one bounded nearby page, about 12 MiB added texture memory. Publish to dev and verify the served build; a real low-power GPU timing remains an explicit outstanding measurement.

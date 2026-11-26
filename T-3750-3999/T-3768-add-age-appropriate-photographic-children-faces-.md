@@ -24,4 +24,4 @@ group: T-3767,T-3768
 
 Add age-appropriate photographic children faces for a consistent dev population.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Provide sixteen fictional child/toddler/teenager photographs in the same photographic style as the 256 adult sources. Keep original source bytes, credit and reproducible landmark/camera records. Assign age-compatible child faces in all four dev years without transferring adult head morphs or changing existing child/toddler head values, body proportions, age, height or native eye placement. Show all sixteen actual renders and before/after actual child residents. Children and adults share one nearby texture-page budget.
