@@ -44,3 +44,17 @@ turned into the alley as at a street corner.
   is cut under it.
 - Desktop 1280x800 and phone 390x780 before/after pictures at the mouths, zero page errors; liberty
   recorded.
+
+## Done (PR 2350, 2026-11-26)
+
+All 13 mouths now carry the alley across the sidewalk space, falling evenly to the gutter, with a
+return curb on each side; the walk, parkway and street curb give way over the mouth. Liberty
+L-prairie-alley-returns-3759. Before | after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/82ad1a0bae9061079771dd7abdc96ddb8bb48f2b/evidence/1904-alley-mouths-T-3759/desktop-18th-west-alley-from-street-before-after.jpg?raw=true" width="900">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/82ad1a0bae9061079771dd7abdc96ddb8bb48f2b/evidence/1904-alley-mouths-T-3759/desktop-18th-west-alley-above-before-after.jpg?raw=true" width="900">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/82ad1a0bae9061079771dd7abdc96ddb8bb48f2b/evidence/1904-alley-mouths-T-3759/desktop-20th-east-alley-from-street-before-after.jpg?raw=true" width="900">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/82ad1a0bae9061079771dd7abdc96ddb8bb48f2b/evidence/1904-alley-mouths-T-3759/mobile-18th-west-alley-from-street-before-after.jpg?raw=true" width="400">
