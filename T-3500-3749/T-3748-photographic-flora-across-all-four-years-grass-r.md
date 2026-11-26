@@ -1,7 +1,7 @@
 ---
 id: T-3748
 title: Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Better Trees season pass 11/26/2026, 12:00:09 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-26T06:00:11.196Z
 decision: null
 decision_answer: null
 ---
