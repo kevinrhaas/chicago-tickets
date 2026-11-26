@@ -158,3 +158,4 @@ T-3750 — An Architecture site for expert users at its own link: the sixteen bu
 T-3763 — Narration: the First Fort Dearborn tour's three age tellings voiced (Essayist, smooth)
 T-3764 — Where and when? picture hunts in 1812 and 1871 (1812's river views from a boat)
 T-3765 — Make your case: one more case in each year (1812, 1835, 1871, 1904)
+T-3766 — Play a part: a role in 1871 and one more role in 1812, 1835 and 1904
