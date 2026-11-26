@@ -1,7 +1,7 @@
 ---
 id: T-3713
 title: 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1925
 opened: 2026-11-20
 closed: null
-pr: null
+pr: 2373
 claimed_by: run 11/25/2026, 3:24:13 PM CT
 blocked_on: null
 needs_bake: false
