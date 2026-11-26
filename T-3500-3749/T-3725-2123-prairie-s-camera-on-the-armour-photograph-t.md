@@ -1,7 +1,7 @@
 ---
 id: T-3725
 title: 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1930
 opened: 2026-11-22
 closed: null
 pr: null
-claimed_by: run 11/26/2026, 1:30:23 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45883465968
-claimed_at: 2026-11-26T19:30:23.770Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -44,3 +44,5 @@ T-1930 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-23** (claim of run 11/23/2026, 1:39:11 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45246141164): Bow basement built on branch steward/t3725-2123-bow-basement: one light under the bow's north principal light (the print's pier under its south one; the second dark opening is the front's own basement light), inside K08's light-tier budget (6126/7000), so that difference is fixed. Still open in the match record: the skyline step south of the bow (a K01 front crown between the two street dormers, 1.95 m apart, collides with one or the other under K01's crown and dormer clearances, so the next run needs a K01 change there), the cut entrance corner at the print's right edge (L-k01-2123-prairie-3724), and the front's basement light beside the bow about 0.5 m wider to the north in the print.
 
 **Released 2026-11-26** (claim of run 11/25/2026, 3:18:45 PM CT): no reason given
+
+**Released 2026-11-26** (claim of run 11/26/2026, 1:30:23 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45883465968): Both open differences need new K01 capability, not more reading: (1) the cut entrance corner — K01's forward block (T-1878, 1721's) can draw the sheet's 1.9 x 2.4 m notch (main front at u 19.57, a 7.08 m block flush with the north corner carrying the bow on_front), but that moves the print's north-flank dormer (2.6 m behind the front) onto the main mansard's street hip, and puts the front's rusticated base, hooded round heads, keys, frieze and blocks onto a K08 face that carries none of them; a native rectangular notch in K01's body (walls, cornice, rings, gutter, cresting, like T-3186's cant) is the clean route; (2) the mansard carried round the bow needs K01 to sweep its cornice, rings, gutter and cresting round a K08 bow. Each is larger than one run, and a sign-off may not split, so released for a run that can take the K01 work whole.
