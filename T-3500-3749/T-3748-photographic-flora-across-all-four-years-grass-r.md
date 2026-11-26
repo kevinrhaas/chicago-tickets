@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-25
 closed: null
 pr: null
-claimed_by: Better Trees season pass 11/26/2026, 12:00:09 AM CT
+claimed_by: Better Trees season pass 11/26/2026, 2:28:28 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-26T06:00:11.196Z
+claimed_at: 2026-11-26T08:28:29.514Z
 decision: null
 decision_answer: null
 group: T-3748,T-3760
