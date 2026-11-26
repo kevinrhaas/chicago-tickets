@@ -89,7 +89,6 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 # ---     vehicles, then the Great Fire jaunt. Two or more further 1871 jaunts are filed here once Kevin picks them.
 T-3738 — 1871 street numbers: the pre-fire city's buildings show their 1871 numbers (old numbering, before the 1909 change) as the period's photographs and directories show them, on the same atlas as 1904's (later; after T-3737)
 T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corner crossings, doorways, gates and stoops, and the planter refuses one that is not
-T-3751 — Great Fire jaunt scenes follow its story: Parmelee stop on Jackson Street, Field & Leiter burns at eight, Washington Square burnt with its furniture, every stop's fire state checked; period swing bridges joined to their streets, no buildings in Lake Park, quieter far colours, walks unblocked
 T-3747 — Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
 T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
 T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
@@ -154,4 +153,3 @@ T-3746 — Review sixteen photographic faces before population rollout
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3745 — Jaunt background music starts straight away: take the clipped main-theme intro off the jaunt beds and openings
 T-3750 — An Architecture site for expert users at its own link: the sixteen building kits with their specimens in 3D, their measured parameters, and the Prairie Avenue houses built on them
-T-3754 — 1812 Errands jaunt runs on foot and counts its own route; Follow keeps the jaunt; nobody missing from boats

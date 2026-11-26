@@ -1,7 +1,7 @@
 ---
 id: T-3751
 title: Great Fire jaunt scenes follow its story: Parmelee stop on Jackson Street, Field & Leiter burns at eight, Washington Square burnt with its furniture, every stop's fire state checked; period swing bridges joined to their streets, no buildings in Lake Park, quieter far colours, walks unblocked
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-25
-closed: null
+closed: 2026-11-26
 pr: 2356
 claimed_by: run 11/25/2026, 10:18:06 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-26T08:57:31Z
 claimed_run: null
 claimed_at: 2026-11-26T04:18:07.071Z
 decision: null
