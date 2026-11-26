@@ -1,7 +1,7 @@
 ---
 id: T-3767
 title: Enable the 256 generic photo faces by default in all four dev years
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/26/2026, 9:05:50 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-26T15:05:52.623Z
 decision: null
 decision_answer: null
 ---
