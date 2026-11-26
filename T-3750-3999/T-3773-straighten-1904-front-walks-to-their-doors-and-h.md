@@ -1,7 +1,7 @@
 ---
 id: T-3773
 title: Straighten 1904 front walks to their doors and hinge the frame houses' front doors
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-26
-closed: null
+closed: 2026-11-26
 pr: 2370
 claimed_by: run 11/26/2026, 2:18:16 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-26T22:44:07Z
 claimed_run: null
 claimed_at: 2026-11-26T20:18:17.564Z
 decision: null
