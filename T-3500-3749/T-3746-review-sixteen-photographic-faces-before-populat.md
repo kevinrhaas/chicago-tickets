@@ -67,3 +67,5 @@ Two clean write-mode runs reproduce all 24 outputs; a deliberately damaged atlas
 refused and restored byte-exact. Writer registration is measured and explicitly pending
 behind its unplaced input writers. Preflight 2/8 and gate 6/8 pass, as does local 1/4;
 complete CI and published renderer stages 2–15 remain outstanding on draft PR #2355.
+
+**Owner expansion (T-3761):** The same PR now carries 256 adult samples and a bounded nearby detail page. The original sixteen sources are preserved. Final 256-face evidence and runnable viewer: https://github.com/kevinrhaas/chicago-evidence/tree/86c4851431974d5c9ed6dac8db10bbd6de830563/evidence/photo-face-library-256-T-3761 . Existing hairstyles are the default; the scalp trial and real-GPU whole-town timing still need review. See T-3761 for the current verification and handoff.
