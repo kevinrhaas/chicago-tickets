@@ -158,3 +158,4 @@ T-3753 — Jaunts: jump to any stop, loading spinners, look-up freeze
 T-3754 — 1812 Errands jaunt runs on foot and counts its own route; Follow keeps the jaunt; nobody missing from boats
 T-3755 — Jaunts end every stop with a varied invitation; the Fort Dearborn ending keeps time order
 T-3756 — Body style labels Style 1/2/3, Style 3 its own look
+T-3757 — Language change warns in English and Spanish that the app restarts
