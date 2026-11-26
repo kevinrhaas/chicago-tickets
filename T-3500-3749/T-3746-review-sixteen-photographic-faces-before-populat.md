@@ -21,6 +21,27 @@ decision: null
 decision_answer: null
 ---
 
-Review sixteen photographic faces before population rollout.
+Owner request: prepare sixteen photographic starter faces on the existing generic people,
+show source/before/after renders before making them the population default, bound the
+cost on lower-power PCs, and provide a repeatable single-photo head-fit and face-map path
+for future historical portraits. The owner also called out poor hair and glaring eyes.
 
-**Acceptance:** (state it before working — the definition of done, never weakened to pass)
+**Acceptance:** Sixteen credited fictional sources, a runnable review with actual head
+geometry and front/three-quarter/profile views, an opt-in existing-resident preview,
+shared Full/Light texture budgets, and one historical-photo import command that produces
+the same review format without silently overwriting a person's likeness. Expose a
+hardware-labelled crowd measurement and keep historical likeness and hardware approval
+explicitly separate from completing the pilot implementation.
+
+**Implemented:** Review page and single-photo importer; stable generic-adult opt-in;
+historical/visitor face protection; source-fitted head shape and photographic face atlas.
+Retain iris detail instead of flattening it to a bright colour; source-guided sclera,
+pupil position and radius, measured resting lid aperture and reduced corneal glare.
+The town preview retains its existing hair; the separate review shows a small source-hair
+scalp proposal. Light town face atlas: 1.33 MiB including mipmaps for all sixteen.
+
+**Measured:** Actual desktop and phone previews, all sixteen simultaneously, and actual
+existing residents rendered without browser errors. The available renderer is SwiftShader
+software; its exported crowd timing does not satisfy a real-GPU performance acceptance.
+Source matching, especially single-photo depth and hair, still needs visual review before
+default rollout. Real low-power-PC whole-town performance remains outstanding.
