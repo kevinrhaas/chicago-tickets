@@ -35,3 +35,18 @@ Measured on dev (every worked 1904 house's built walk against its hung front doo
 - 2000, 2010 and 2011 Prairie's walks run straight out on their stair and door's line; `check_house_walks.py` refuses a walk off that line (rule 4), with self-tests.
 - The three frame houses' front doors are hung passages whose leaf swings (no `leafless`), with no "baked leaf was not found" problem on desktop or phone.
 - Before/after pictures, desktop and phone, in the PR and the close note.
+
+## Result (PR #2370)
+
+Before left, after right. 2010 Prairie (the Greys') walk, desktop and phone; its door half open; 2000 Prairie's walk; 1720's door.
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2da73a09c0ff539453bf28f439bbec43e27b8c94/evidence/T-3773/desktop-house_2010-walk-before-after.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2da73a09c0ff539453bf28f439bbec43e27b8c94/evidence/T-3773/mobile-house_2010-walk-before-after.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2da73a09c0ff539453bf28f439bbec43e27b8c94/evidence/T-3773/desktop-house_2010-door-opening-before-after.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2da73a09c0ff539453bf28f439bbec43e27b8c94/evidence/T-3773/desktop-house_2000-walk-before-after.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2da73a09c0ff539453bf28f439bbec43e27b8c94/evidence/T-3773/desktop-walker_house_1720-door-opening-before-after.jpg?raw=true" width="640">
+
