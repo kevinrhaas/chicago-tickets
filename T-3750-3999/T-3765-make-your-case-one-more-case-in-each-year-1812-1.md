@@ -1,7 +1,7 @@
 ---
 id: T-3765
 title: Make your case: one more case in each year (1812, 1835, 1871, 1904)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2364
 claimed_by: run 11/26/2026, 10:26:00 AM CT
 blocked_on: null
 needs_bake: false
