@@ -1,7 +1,7 @@
 ---
 id: T-3760
 title: 1871 tree cleanup: Water Tower and citywide leftover planting
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Better Trees session 11/25/2026, 11:17:54 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-26T05:17:56.550Z
 decision: null
 decision_answer: null
 ---
