@@ -1,7 +1,7 @@
 ---
 id: T-3756
 title: Body style labels Style 1/2/3, Style 3 its own look
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-25
-closed: null
+closed: 2026-11-26
 pr: 2357
 claimed_by: run 11/25/2026, 10:23:17 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-26T07:11:29Z
 claimed_run: null
 claimed_at: 2026-11-26T04:23:18.361Z
 decision: null
