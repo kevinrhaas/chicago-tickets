@@ -159,4 +159,3 @@ T-3754 — 1812 Errands jaunt runs on foot and counts its own route; Follow keep
 T-3756 — Body style labels Style 1/2/3, Style 3 its own look
 T-3757 — Language change warns in English and Spanish that the app restarts
 T-3758 — Accurate download sizes, progress and ETA on the loading screen and offline copy
-T-3759 — 1904 alley mouths: grade each alley down to the gutter and turn the curb into it
