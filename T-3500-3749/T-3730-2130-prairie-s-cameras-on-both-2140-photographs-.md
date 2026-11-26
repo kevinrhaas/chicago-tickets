@@ -1,7 +1,7 @@
 ---
 id: T-3730
 title: 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1927
 opened: 2026-11-22
 closed: null
 pr: null
-claimed_by: run 11/26/2026, 1:31:03 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45883486125
-claimed_at: 2026-11-26T19:31:04.086Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -38,3 +38,5 @@ The run that split it (https://github.com/kevinrhaas/polecat-platform/actions/ru
 T-1927 carries an `## Image gate` section. The last of these pieces to close is refused (`done`) until every building it names matches every one of its reference views, so a slice that leaves a difference open says so in the match record.
 
 **Acceptance:** (state it before working — one demonstration, never weakened to pass)
+
+**Released 2026-11-26** (claim of run 11/26/2026, 1:31:03 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45883486125): PR #2366 (branch steward/t3730-2130-photo-match) ships both cameras (the Chicagology print from Prairie & 22nd, 7.4 px RMS; the Van Osdel print, 3.4 px RMS), the tower's cone lowered to 1.6 rise/run and the south flank laid in the front's rock-faced stone. Both match records stay 'differs' on two differences that need new K01 parts this run could not add: neither picture shows the street gable the build carries, and both show a stone gable on the south flank under a ridge running along the avenue to the tower's cone (a side-gabled front block); and the columned porch across the front's south end (no K01 recessed porch). The Chicagology view also has the stack on that ridge open. The sign-off cannot close until those land.
