@@ -155,7 +155,6 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3745 — Jaunt background music starts straight away: take the clipped main-theme intro off the jaunt beds and openings
 T-3749 — Bluetooth game controller support: walk, look, jaunts and menus in every year
 T-3750 — An Architecture site for expert users at its own link: the sixteen building kits with their specimens in 3D, their measured parameters, and the Prairie Avenue houses built on them
-T-3753 — Jaunts: jump to any stop, loading spinners, look-up freeze
 T-3754 — 1812 Errands jaunt runs on foot and counts its own route; Follow keeps the jaunt; nobody missing from boats
 T-3756 — Body style labels Style 1/2/3, Style 3 its own look
 T-3757 — Language change warns in English and Spanish that the app restarts

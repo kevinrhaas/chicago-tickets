@@ -1,7 +1,7 @@
 ---
 id: T-3753
 title: Jaunts: jump to any stop, loading spinners, look-up freeze
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-25
-closed: null
+closed: 2026-11-26
 pr: 2351
 claimed_by: run 11/25/2026, 10:18:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-26T06:12:27Z
 claimed_run: null
 claimed_at: 2026-11-26T04:18:41.776Z
 decision: null
