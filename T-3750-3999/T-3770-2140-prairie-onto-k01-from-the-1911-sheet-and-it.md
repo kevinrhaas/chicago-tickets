@@ -1,7 +1,7 @@
 ---
 id: T-3770
 title: 2140 Prairie onto K01 from the 1911 sheet and its photographs: the main body's plan, storeys and banded brick, the mansard, the round corner tower and the two spired towers, and the openings on Prairie Avenue and Twenty-second Street
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1928
 opened: 2026-11-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/26/2026, 1:37:11 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45883465968
+claimed_at: 2026-11-26T19:37:12.326Z
 decision: null
 decision_answer: null
 ---
