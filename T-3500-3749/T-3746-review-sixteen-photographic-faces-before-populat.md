@@ -1,7 +1,7 @@
 ---
 id: T-3746
 title: Review sixteen photographic faces before population rollout
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2355
 claimed_by: run 11/25/2026, 9:29:14 PM CT
 blocked_on: null
 needs_bake: false
