@@ -156,3 +156,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3745 — Jaunt background music starts straight away: take the clipped main-theme intro off the jaunt beds and openings
 T-3750 — An Architecture site for expert users at its own link: the sixteen building kits with their specimens in 3D, their measured parameters, and the Prairie Avenue houses built on them
 T-3763 — Narration: the First Fort Dearborn tour's three age tellings voiced (Essayist, smooth)
+T-3764 — Where and when? picture hunts in 1812 and 1871 (1812's river views from a boat)
