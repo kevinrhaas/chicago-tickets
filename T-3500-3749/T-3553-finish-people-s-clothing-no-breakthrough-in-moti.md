@@ -150,6 +150,11 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/coachman-front.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/frances-front.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/e8c5c528/evidence/t3553-round5-2026-11-26/woman_working_1812.jpg?raw=true)
+- 2026-11-26 — **Round 6: the round-5 leftovers** (PR #2360). Kevin: "Yes keep going on the rest". The maid's shoulder frills are rebuilt as a gathered ruffle along the strap (a band on the bodice, folding every 3 cm, weighted from the body under it). The coachman's collar front is pressed flat and a white shirt front fills the coat's V. John's drawn waistcoat is closed at LOD 2 and 3, so the skin sliver is gone. Coats and jackets get armhole seams (John: 7 seams at LOD 0). Left as is: the front ruffle reads faintly at LOD 2; the maid's apron bib is as drawn.
+  Before (top) and after (bottom):
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/8d9ec0da/evidence/t3553-round6-2026-11-26/maid-ruffles.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/8d9ec0da/evidence/t3553-round6-2026-11-26/coachman-shirt-front.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/8d9ec0da/evidence/t3553-round6-2026-11-26/john-waistcoat-armhole.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
