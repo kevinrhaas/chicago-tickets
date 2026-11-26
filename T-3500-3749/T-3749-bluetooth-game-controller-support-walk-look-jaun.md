@@ -1,7 +1,7 @@
 ---
 id: T-3749
 title: Bluetooth game controller support: walk, look, jaunts and menus in every year
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-25
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/25/2026, 10:16:29 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-26T04:16:30.463Z
 decision: null
 decision_answer: null
 ---
