@@ -5,7 +5,7 @@ state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
-effort: M
+effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-25
@@ -30,3 +30,5 @@ Initial read: 1871's street layer already grows 6,741 trees, but `city-context.j
 2. Replace obsolete tree representations through the shared adaptive grown-tree path where appropriate, or remove proven duplicates/invalid placements. Preserve supported planting, historical grades, geography and inspectable provenance. No broad clearing based on a guess.
 3. Verify Water Tower/pumping works and representative city districts in published phone and desktop views, with before/after images, all seasons and all three detail levels. Check both street and context planting, collisions/duplicates, Confidence view, budgets and disposal/retiering.
 4. Follow local partitioned check.sh, preflight, required CI and mapped published smoke before PR merge to dev. Record the visible change in What's New/STATUS, artistic choices in LIBERTIES, and bulky evidence in chicago-evidence.
+
+**Scope/size after initial audit:** reduced from M to S. The leftover crowns share one runtime path; the named Water Tower/pumping grounds contain kerbs and railings, with no baked foliage to rebuild. The bounded correction is the shared grown-tree handoff, preserved reconstructed records/picking and control integration, without a planting-data rewrite. It fits with T-3748 because that pass enables 1871 seasons. Initial audit and exact input hashes: https://github.com/kevinrhaas/chicago-evidence/blob/20648926d4217e326a479028b1a669eccd6fbd46/evidence/vegetation-realism-2026-11-25/T-3760-initial-audit.json .
