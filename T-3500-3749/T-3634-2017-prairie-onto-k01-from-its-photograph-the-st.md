@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/26/2026, 1:32:47 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45883446638
-claimed_at: 2026-11-26T19:32:48.116Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -64,3 +64,5 @@ T-1917 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-22** (claim of run 11/22/2026, 1:44:57 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45061778096): slice 1/5 lapped PR #2292 onto dev after T-3718 (#2294) landed: manifest conflict cleared by merge_asset_registry (71 GLBs byte-identical), doors_1904 re-derived, local check.sh 8/8 green, mobile smoke 1 PASS 95/0 (desktop 1 cut at the 590 s cap, 0 red); handed on with resume after two 540 s merge laps while CI's gate was queued (0 red). done stays refused by T-1917's image gate: 1 difference open on 2017 (the low iron area railing) and 2021's view has its own. Next run: confirm #2292 merged, then take the railing
 
 **Released 2026-11-23** (claim of run 11/23/2026, 4:58:37 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45159804565): PR #2317 (finishing salvage draft #2304, closed: same branch) builds 2017's low iron area railing; 2017's photo-match view now MATCHES — its last difference closed. Lapped onto dev, check.sh 8/8 parts green locally; handed on with resume waiting on T-3732 (dev-wide boot payload red on smoke desktop 1-2). done --pr stays refused by T-1917's image gate: 2021 Prairie's view still differs. Next run: confirm #2317 merged, then take 2021's open items
+
+**Released 2026-11-26** (claim of run 11/26/2026, 1:32:47 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45883446638): PR #2369 builds 2021 Prairie's turret finial (K08: a half round's cone now carries a finial on its apex; pale zinc collar, cone at pitch 2.8), the gable's apex finial, and the third stack on the south wing's ridge; gated green locally (check.sh 4/4 parts, mobile smoke 1 PASS; every other K01 mesh byte-identical), handed on with resume while CI's bake ran (0 red). done stays refused by T-1917's image gate: 5 differences open on 2021 (porch behind the arch, stoop running along the front, narrow ground light, wing's cut corner, picket fence). Next run: confirm #2369 merged, then take the next kit gap
