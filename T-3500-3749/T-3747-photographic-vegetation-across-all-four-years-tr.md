@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-25
 closed: null
 pr: null
-claimed_by: run 11/25/2026, 9:56:41 PM CT
+claimed_by: Better Trees continuation 11/26/2026, 12:01:32 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-26T03:56:43.103Z
+claimed_at: 2026-11-26T06:01:33.050Z
 decision: null
 decision_answer: null
 ---
