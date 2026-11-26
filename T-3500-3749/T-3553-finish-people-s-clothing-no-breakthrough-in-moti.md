@@ -138,6 +138,11 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/children-neck-child_girl_1904-lod0.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/coachman-glove-lod0.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/9eef84ad/evidence/T-3553-clothing-r4-2026-11-18/edges/trader-armpit-lod0.jpg?raw=true)
+- 2026-11-26 — **1812: nobody walks through the covered way's gates; the warriors leave the column** (PR #2349). Kevin (PDF notes): "They can walk through doors"; the warriors about to attack "would either be at camp preparing, or taking up positions to attack the column". The covered way's four runs say their passages are open at both ends, but the archetype baked shut leaves into each gateway, so the powder carriers walked through eight shut gates: those baked leaves are no longer drawn (fort-gates.js OPEN_PASSAGES). At the river's mouth the escort no longer walks beside the column; eight of the gathering go off ahead at a jog and drop into the grass.
+  The covered way, before (left) and after:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/1d3c74cc/evidence/T-3553-1812-doors-2026-11-26/desktop-covered-way-before-after.jpg?raw=true)
+  The river's mouth at 45 s, before (left) and after:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/1d3c74cc/evidence/T-3553-1812-doors-2026-11-26/desktop-river-mouth-t45-before-after.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
