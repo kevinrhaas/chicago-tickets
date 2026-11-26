@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-26T15:05:52.623Z
 decision: null
 decision_answer: null
+group: T-3767,T-3768
 ---
 
 Enable the 256 generic photo faces by default in all four dev years.
