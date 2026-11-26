@@ -1,7 +1,7 @@
 ---
 id: T-1928
 title: Refine 2140 Tucker-Smith corner mansion envelope
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-26
 pr: null
 claimed_by: run 11/26/2026, 1:36:05 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-26T19:37:07.216Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45883465968
 claimed_at: 2026-11-26T19:36:06.603Z
 decision: null
