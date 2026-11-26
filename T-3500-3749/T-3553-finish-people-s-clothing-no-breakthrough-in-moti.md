@@ -155,6 +155,14 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/8d9ec0da/evidence/t3553-round6-2026-11-26/maid-ruffles.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/8d9ec0da/evidence/t3553-round6-2026-11-26/coachman-shirt-front.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/8d9ec0da/evidence/t3553-round6-2026-11-26/john-waistcoat-armhole.jpg?raw=true)
+- 2026-11-26 — **Round 7: clothes swept on everyone** (PR #2363). Kevin: "sweep all of the people and clothing and remove these ragged collars and edges and holes in clothing", then "Armpit is bad". A new sweep tool (`tools/qa_cloth_sweep.mjs`) drew all 35 bodies at all 4 levels and counted specks, frays, holes and jagged outlines. Garment edges are evened at every level. Belts, straps and crossbelts lie over the cloth under them, and braces lie between the shirt and the waistcoat. The armpit's torn notch (the sleeve front crossing the coat side once the arm hangs) is now a fold, because the pit cloth and the skin are tucked toward the chest in the body's own idle and walk poses. At the farthest level, under-layers take the coat's weights. At the two far levels, the hidden waistcoat band is left out. Left as is: a clean crease at the front of the coachman's armpit seen from the side, the 1835 waistcoat armhole against the shirt, and the overall speck count, which is level with dev.
+  Before (left) and after (right):
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/coachman-armpit-side.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/coachman-armpit-front.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/john-far-level.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/john-collar.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/braces-1835.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/crossbelts-1812.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
