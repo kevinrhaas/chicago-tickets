@@ -1,7 +1,7 @@
 ---
 id: T-3761
 title: Expand the generic photo-face preview to 256 diverse adults
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2355
 claimed_by: run 11/26/2026, 5:53:12 AM CT
 blocked_on: null
 needs_bake: false
