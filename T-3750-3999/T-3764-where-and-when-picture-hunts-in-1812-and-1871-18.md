@@ -1,7 +1,7 @@
 ---
 id: T-3764
 title: Where and when? picture hunts in 1812 and 1871 (1812's river views from a boat)
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2362
 claimed_by: run 11/26/2026, 8:53:48 AM CT
 blocked_on: null
 needs_bake: false
