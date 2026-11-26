@@ -1,7 +1,7 @@
 ---
 id: T-3747
 title: Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2358
 claimed_by: Better Trees continuation 11/26/2026, 12:01:32 AM CT
 blocked_on: null
 needs_bake: false
