@@ -90,6 +90,7 @@ T-3246 — Marble look target for Glessner: one photo-generated world beside our
 T-3738 — 1871 street numbers: the pre-fire city's buildings show their 1871 numbers (old numbering, before the 1909 change) as the period's photographs and directories show them, on the same atlas as 1904's (later; after T-3737)
 T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corner crossings, doorways, gates and stoops, and the planter refuses one that is not
 T-3747 — Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
+T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
