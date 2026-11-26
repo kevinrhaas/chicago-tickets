@@ -1,7 +1,7 @@
 ---
 id: T-3762
 title: Fit and map historical photos onto the Glessner Field and Pullman residents
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2371
 claimed_by: run 11/26/2026, 1:36:53 PM CT
 blocked_on: null
 needs_bake: false
