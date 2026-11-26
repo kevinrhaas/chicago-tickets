@@ -45,3 +45,15 @@ existing residents rendered without browser errors. The available renderer is Sw
 software; its exported crowd timing does not satisfy a real-GPU performance acceptance.
 Source matching, especially single-photo depth and hair, still needs visual review before
 default rollout. Real low-power-PC whole-town performance remains outstanding.
+
+**Final coverage:** All 1,234 drawn people checked through their actual scene assignments:
+1,048 generic adults receive photo faces on 1,076 bodies; 160 child and 27 personal-face
+assignments remain protected, and multiple bodies retain one face. Four real resident
+models verify retained iris maps, source-guided lid rest and softened sclera. The final
+extracted viewer ZIP passes Full and phone/Light checks without missing files or browser
+errors. Published renderer stage 1 passes 96 checks on each viewport. The desktop run alone
+took 11m36s, exceeding the ten-minute foreground budget; the first concurrent attempt hit
+a scene-settling timeout. This is stage 1 of 15, not complete renderer qualification.
+
+Evidence and portable viewer:
+https://github.com/kevinrhaas/chicago-evidence/tree/38ee34b570baff303c038d0f0c2d3af5cebbd8fd/evidence/photo-face-pilot-T-3746
