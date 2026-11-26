@@ -155,3 +155,4 @@ T-3762 — Fit and map historical photos onto the Glessner Field and Pullman res
 T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1873's 1904-only diff, run 42469167608): 1835 boot payload 43.017 MB over its 40.2 MB budget, 1835 'balanced' detail at West prairie 2,654,960 tris over its 2,625,000 ceiling, and the Glessner People card's why reading 'Face reconstructed after a stand-in' where the T-3265 check wants 'Inferred…'
 T-3745 — Jaunt background music starts straight away: take the clipped main-theme intro off the jaunt beds and openings
 T-3750 — An Architecture site for expert users at its own link: the sixteen building kits with their specimens in 3D, their measured parameters, and the Prairie Avenue houses built on them
+T-3763 — Narration: the First Fort Dearborn tour's three age tellings voiced (Essayist, smooth)
