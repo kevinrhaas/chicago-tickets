@@ -1,7 +1,7 @@
 ---
 id: T-1938
 title: Refine south-east service buildings
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/26/2026, 3:07:52 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45894289367
-claimed_at: 2026-11-26T21:07:53.077Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,5 @@ Pictures:
 **Released 2026-11-26** (claim of run 11/25/2026, 3:12:25 PM CT): no reason given
 
 **Released 2026-11-26** (claim of run 11/26/2026, 1:39:49 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45883475276): PR #2367 (resume: 2011's back yard regression, gate parts not run) refines 2001's and 2009's alley buildings (house_2001_prairie_coach_house, mayer_house_2009_prairie_coach_house) in place onto the K12 kit from the 1911 sheet: 2001's 16.07 x 6.66 m at its alley end's width, set back 0.99 m from 20th Street and the alley, gable to the street; 2009's 13.89 x 8.47 m on the alley line with its window mark, the house's range against its yard wall; draft rules skip s35-2001-rear and s35-2009-rear. Both viewports QA green. Open on the PR: lot prairie_2011 drops out of the back-yards layer (diagnosis in the PR body). Still to do: 2011, 2013 (Reid, image gate), 2017, 2021, 2031, 2033, 2035, 2101, 2109, 2115, 2123, 2125, still the draft's. Not split: the gate stays on this ticket.
+
+**Released 2026-11-26** (claim of run 11/26/2026, 3:07:52 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45894289367): PR #2367 merged: 2001's and 2009's alley buildings (house_2001_prairie_coach_house, mayer_house_2009_prairie_coach_house) refined in place onto K12 from the 1911 sheet; the back-yards layer now keeps a neighbour's cells out of a house's plan, so prairie_2011 (and indiana_1807) are laid again. Still to do: 2011, 2013 (Reid, image gate), 2017, 2021, 2031, 2033, 2035, 2101, 2109, 2115, 2123, 2125, still the draft's. Not split: the gate stays on this ticket.
