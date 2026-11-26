@@ -123,6 +123,7 @@ T-3719 — pr-automerge merges past a just-dispatched content build: a workflow_
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
 T-3746 — Review sixteen photographic faces before population rollout
 T-3761 — Expand the generic photo-face preview to 256 diverse adults
+T-3767 — Enable the 256 generic photo faces by default in all four dev years
 T-3762 — Fit and map historical photos onto the Glessner Field and Pullman residents
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — the Glessner carriage ride first (owner, 2026-11-09), then the photographic vehicles (epic T-2791)
