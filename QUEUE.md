@@ -156,3 +156,4 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3745 — Jaunt background music starts straight away: take the clipped main-theme intro off the jaunt beds and openings
 T-3766 — Play a part: a role in 1871 and one more role in 1812, 1835 and 1904
 T-3773 — Straighten 1904 front walks to their doors and hinge the frame houses' front doors
+T-3774 — Narration: Glessner Household, Meet the Glessner House and Frances Glessner Lee read aloud at every age
