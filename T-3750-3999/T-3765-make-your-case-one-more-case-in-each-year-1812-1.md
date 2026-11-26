@@ -24,3 +24,23 @@ decision_answer: null
 Make your case: one more case in each year (1812, 1835, 1871, 1904).
 
 **Acceptance:** (state it before working — the definition of done, never weakened to pass)
+
+## Result (PR #2364)
+
+Four new cases: 1812 where the blockhouses stood, 1835 what kind of bridge crossed the South Branch, 1871 which South Side building burned first, 1904 what a ghost story about the Glessner house's architect can show.
+
+Before, Across Wolf Point's finish had no case:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/90b18f0d739bca322e86d9edfa59e1b2f502fdd8/evidence/T-3765-make-your-case/before-1835-finish-desktop.png?raw=true" width="640">
+
+After, the finish card has a Make your case row:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/90b18f0d739bca322e86d9edfa59e1b2f502fdd8/evidence/T-3765-make-your-case/after-1835-finish-desktop.png?raw=true" width="640">
+
+After, the case opened:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/90b18f0d739bca322e86d9edfa59e1b2f502fdd8/evidence/T-3765-make-your-case/after-1835-case-desktop.png?raw=true" width="640">
+
+After, on a phone (390×780):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/90b18f0d739bca322e86d9edfa59e1b2f502fdd8/evidence/T-3765-make-your-case/after-1835-case-phone.png?raw=true" width="320">
