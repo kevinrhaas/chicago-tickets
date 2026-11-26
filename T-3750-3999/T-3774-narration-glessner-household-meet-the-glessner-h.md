@@ -1,7 +1,7 @@
 ---
 id: T-3774
 title: Narration: Glessner Household, Meet the Glessner House and Frances Glessner Lee read aloud at every age
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2375
 claimed_by: run 11/26/2026, 4:31:07 PM CT
 blocked_on: null
 needs_bake: false
