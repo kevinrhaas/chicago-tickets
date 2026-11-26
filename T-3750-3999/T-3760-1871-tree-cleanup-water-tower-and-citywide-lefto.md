@@ -11,14 +11,15 @@ parent: null
 opened: 2026-11-25
 closed: null
 pr: null
-claimed_by: Better Trees session 11/25/2026, 11:17:54 PM CT
+claimed_by: Better Trees season pass 11/26/2026, 12:00:39 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-26T05:17:56.550Z
+claimed_at: 2026-11-26T06:00:40.199Z
 decision: null
 decision_answer: null
+group: T-3748,T-3760
 ---
 
 Owner request during Better Trees implementation: "there were a few bogus trees leftover in 1871 i think also around water tower ... maybe a lot more to fix there". Continue alongside T-3747/T-3748 and merge the completed correction to dev through the normal gate/PR process.

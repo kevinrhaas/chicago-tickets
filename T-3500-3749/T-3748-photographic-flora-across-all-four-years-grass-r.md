@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-26T06:00:11.196Z
 decision: null
 decision_answer: null
+group: T-3748,T-3760
 ---
 
 Continuation of the owner's Better Trees request supplied 2026-11-25: "All trees and flora everywhere should get this upgrade." T-3747 owns shared woody rendering; this piece owns herbaceous flora, grass/reeds, flowers, low shrubs and garden crops, reusing the same leaf-lighting principles where appropriate.
