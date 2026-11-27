@@ -93,12 +93,12 @@ T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corne
 T-3747 — Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
 T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
 T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
-T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
-T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
-T-3805 — 1871 street furniture from the period photos round the jaunt stops: fire-alarm boxes, hydrants, telegraph poles, goods on the walks, trade figures
-T-3804 — 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
-T-3803 — 1871 shop signs from Edwards' 1871 directory round the jaunt stops: real firms by their old addresses, varied period sign forms
 T-3802 — 1871 Great Fire Court House stop: flames float above the building instead of sitting on it
+T-3803 — 1871 shop signs from Edwards' 1871 directory round the jaunt stops: real firms by their old addresses, varied period sign forms
+T-3804 — 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
+T-3805 — 1871 street furniture from the period photos round the jaunt stops: fire-alarm boxes, hydrants, telegraph poles, goods on the walks, trade figures
+T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
+T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
