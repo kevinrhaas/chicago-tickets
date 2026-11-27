@@ -105,6 +105,9 @@ T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3719 — pr-automerge merges past a just-dispatched content build: a workflow_dispatch run that has no check runs yet reads as 'nothing missing'
+# --- 3B. STAGE 1 — CLASSROOM DATABASE ON FIREBASE (owner, 2026-11-26, decision card "File which Stage 1 tickets now?": "All five
+# ---     Stage 1 tickets"; plan "Server, cloud GPU and engine plan"). The data policy first, then cloud save, class codes, shared
+# ---     routes, follow and classmates; each waits on the one it builds on. Worked interactively in thread "Plan server, cloud GPU and engine path".
 T-3776 — Student data policy for server-saved work: a plain privacy notice, delete-my-data in Settings, and an agreement a school can sign (Illinois SOPPA), before any class uses the Stage 1 cloud features
 T-3777 — Cloud save: the field notebook, people met and places found, and settings follow a signed-in student to any device through Firestore, with browser storage as the offline fallback
 T-3778 — Class codes and a teacher view: a teacher makes a class, students join with a short code, and the teacher sees the roster, hand-ins and reflections (classroom feature 6)
