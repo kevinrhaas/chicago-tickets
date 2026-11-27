@@ -1,7 +1,7 @@
 ---
 id: T-3787
 title: Recompile the 1904 prairie-built-so-far jaunt sidecar: dev's gate part 5/8 red since #2379 (stale jaunts)
-state: open
+state: claimed
 epic: META
 requested_by: steward
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/26/2026, 11:17:14 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45943306176
+claimed_at: 2026-11-27T05:17:15.536Z
 decision: null
 decision_answer: null
 ---
