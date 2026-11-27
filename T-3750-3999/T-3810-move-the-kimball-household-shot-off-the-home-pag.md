@@ -29,3 +29,21 @@ Move the Kimball household shot off the home page lead and put a stronger people
 - The column is not shown twice on the home page: the 1812 era tile it held becomes the order to leave (10 Aug, garrison on the parade), keeping the 10 Aug → 15 Aug → 16 Aug story.
 - The Kimball film moves to the People page's "Person cards" section, where clicking a name to read a card is the subject.
 - Copy follows the site rules: no counts, no machinery. Before/after pictures, desktop and phone (390×780).
+
+**Completion (PR #2409):** the home page's "What it is" picture is now the 1812 column marching out of Fort Dearborn; the 1812 era tile shows the order to leave instead; the Kimball household film sits on the People page beside the person cards.
+
+Home, "What it is" (desktop, then phone):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/cdccfd761507e951f89d38adc8ad8b2fc9002ed1/evidence/T-3810/sbs-desktop-home-inside.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/cdccfd761507e951f89d38adc8ad8b2fc9002ed1/evidence/T-3810/sbs-phone-home-inside.jpg?raw=true" width="640">
+
+Home, 1812 row:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/cdccfd761507e951f89d38adc8ad8b2fc9002ed1/evidence/T-3810/sbs-desktop-home-years-yearband.jpg?raw=true" width="640">
+
+People, Person cards (desktop, then phone):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/cdccfd761507e951f89d38adc8ad8b2fc9002ed1/evidence/T-3810/sbs-desktop-people-cards.jpg?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/cdccfd761507e951f89d38adc8ad8b2fc9002ed1/evidence/T-3810/sbs-phone-people-cards.jpg?raw=true" width="640">
