@@ -1,7 +1,7 @@
 ---
 id: T-3785
 title: 2000, 2010 and 2018 Prairie's yards laid as three properties on the one lot the 1911 sheet draws for them: each house its own front yard round its own door and its own back yard
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1945
 opened: 2026-11-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/26/2026, 10:47:30 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45936714818
+claimed_at: 2026-11-27T04:47:30.750Z
 decision: null
 decision_answer: null
 ---
