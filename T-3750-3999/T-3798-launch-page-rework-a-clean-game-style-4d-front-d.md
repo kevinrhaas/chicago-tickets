@@ -1,7 +1,7 @@
 ---
 id: T-3798
 title: Launch page rework: a clean game-style /4d/ front door with the four year tiles, music on/off, settings, sign-in, and an automatic check of this computer with a plain recommendation; the old console kept
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/27/2026, 10:39:18 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-27T16:39:19.837Z
 decision: null
 decision_answer: null
 ---
