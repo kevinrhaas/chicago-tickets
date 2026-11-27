@@ -70,7 +70,6 @@ T-3799 — 2140 Prairie's cameras on the Chicagology and Van Osdel photographs, 
 T-3800 — 2140 Prairie's round tower stood at the Prairie and 22nd Street corner, where both photographs and the sheet put its axis: a K08 round tower across its corner (after the piece before it)
 T-3801 — 2140 Prairie's cameras on the 1898 plate, the second Chicagology photograph, the stereograph and the 1928 Tribune, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1937 — Refine south-west service buildings and shared Rees coach house
-T-3786 — The rest of the 20th-22nd block's boundaries, gardens and frontage fittings: 2010's back door and the back yards that fit nothing (2003, 2130), the K16 front doors the yard planter cannot see, then the block walked at 1280x800 and 390x780 with its costs recorded
 T-3782 — 213 and 215 East Twentieth onto K01 from the 1911 sheet and the 2009 photographs: 213's red front behind its cornice, 215's brick front with stone lintels, round-headed lights and arched door behind its front yard (after the piece before it)
 T-3783 — 213, 215 and 217 East Twentieth's cameras on the four 2009 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-3791 — 2008 Calumet's cameras on the 1883 plate and the engraving, the photo-match worked down and the image-gate sign-off (after the piece before it)

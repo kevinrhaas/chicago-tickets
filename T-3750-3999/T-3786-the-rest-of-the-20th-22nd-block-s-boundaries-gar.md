@@ -1,7 +1,7 @@
 ---
 id: T-3786
 title: The rest of the 20th-22nd block's boundaries, gardens and frontage fittings: 2010's back door and the back yards that fit nothing (2003, 2130), the K16 front doors the yard planter cannot see, then the block walked at 1280x800 and 390x780 with its costs recorded
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1945
 opened: 2026-11-26
-closed: null
+closed: 2026-11-27
 pr: 2403
 claimed_by: run 11/27/2026, 12:35:34 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-27T22:05:11Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46047849368
 claimed_at: 2026-11-27T18:35:35.314Z
 decision: null
