@@ -119,7 +119,6 @@ T-3784 — pr-automerge merges blind: gh-rest api() folds gh's stderr 'hint: …
 # --- 3B. STAGE 1 — CLASSROOM DATABASE ON FIREBASE (owner, 2026-11-26, decision card "File which Stage 1 tickets now?": "All five
 # ---     Stage 1 tickets"; plan "Server, cloud GPU and engine plan"). The data policy first, then cloud save, class codes, shared
 # ---     routes, follow and classmates; each waits on the one it builds on. Worked interactively in thread "Plan server, cloud GPU and engine path".
-T-3776 — Student data policy for server-saved work: a plain privacy notice, delete-my-data in Settings, and an agreement a school can sign (Illinois SOPPA), before any class uses the Stage 1 cloud features
 T-3777 — Cloud save: the field notebook, people met and places found, and settings follow a signed-in student to any device through Firestore, with browser storage as the offline fallback
 T-3778 — Class codes and a teacher view: a teacher makes a class, students join with a short code, and the teacher sees the roster, hand-ins and reflections (classroom feature 6)
 T-3779 — Shared teacher routes and hand-ins: routes saved to the teacher's account, assigned to a class, and answers handed in without a download (the rest of classroom feature 11)
