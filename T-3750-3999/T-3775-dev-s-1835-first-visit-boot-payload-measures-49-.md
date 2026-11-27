@@ -1,7 +1,7 @@
 ---
 id: T-3775
 title: dev's 1835 first-visit boot payload measures 49.767 MB, over SITE-BUDGET § 4's 49.6 MB: every PR's smoke (desktop, 1-2) is red on it — the photo-face libraries' two review.json (0.166 MB) now load at boot (dev 71566d43b, after T-3767/T-3768)
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2377
 claimed_by: run 11/26/2026, 5:25:25 PM CT
 blocked_on: null
 needs_bake: false
