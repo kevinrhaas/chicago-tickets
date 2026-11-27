@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-21
 closed: null
-pr: 226
+pr: kevinrhaas/polecat-platform#226
 claimed_by: run 11/27/2026, 7:23:07 AM CT
 blocked_on: null
 needs_bake: false
