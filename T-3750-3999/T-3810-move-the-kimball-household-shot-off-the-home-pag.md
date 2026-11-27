@@ -1,7 +1,7 @@
 ---
 id: T-3810
 title: Move the Kimball household shot off the home page lead and put a stronger people shot there
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-27
 pr: 2409
 claimed_by: run 11/27/2026, 2:15:04 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-27T22:38:36Z
 claimed_run: null
 claimed_at: 2026-11-27T20:15:05.713Z
 decision: null
