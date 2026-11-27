@@ -1,7 +1,7 @@
 ---
 id: T-3809
 title: Voice the Great Fire jaunt
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/27/2026, 1:28:28 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-27T19:28:29.682Z
 decision: null
 decision_answer: null
 ---
