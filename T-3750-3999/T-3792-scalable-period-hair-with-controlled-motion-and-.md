@@ -1,7 +1,7 @@
 ---
 id: T-3792
 title: Scalable period hair with controlled motion and shared GPU budgets
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/27/2026, 10:12:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-27T16:12:16.245Z
 decision: null
 decision_answer: null
 ---
