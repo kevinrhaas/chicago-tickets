@@ -99,6 +99,7 @@ T-3804 — 1871 street walls round the jaunt stops matched to the period street 
 T-3805 — 1871 street furniture from the period photos round the jaunt stops: fire-alarm boxes, hydrants, telegraph poles, goods on the walks, trade figures
 T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
 T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
+T-3816 — 1871 fire-night crowd stream: hundreds fleeing, carrying and watching in the streets round the fire front, on the instanced crowd at a phone's cost (running clip, flow along the streets, counter-currents)
 T-3815 — 1871 fire night: runaway teams and burning loads, a horse tearing through the crowd with a wrecked buggy and a dray whose furniture is alight, from White and Frear
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
