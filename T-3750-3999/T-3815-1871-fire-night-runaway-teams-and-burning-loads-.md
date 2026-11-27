@@ -27,7 +27,7 @@ Research: `docs/RESEARCH/fire-night-scenes-3814/README.md` (the scenes the accou
 
 **What:** the runaways and burning loads the eyewitnesses saw, staged at the stops that fit their hour and place.
 
-- Horace White (Andreas p. 726): "a horse came tearing down the avenue, with the wreck of a buggy at his heels ... This was the only runaway I saw; and I was continually surprised at the sober, matter-of-fact way in which the horses did their work". One runaway, not many.
+- Horace White (Andreas p. 730): "a horse came tearing down the avenue, with the wreck of a buggy at his heels ... This was the only runaway I saw; and I was continually surprised at the sober, matter-of-fact way in which the horses did their work". One runaway, not many.
 - Alexander Frear (Andreas p. 736), near the Court House and the St. James Hotel about 1-2 a.m.: "a runaway truck"; "Loads of goods passed us, repeatedly, that were burning on the trucks"; his horse "ran into a burning dray-load of furniture".
 - A staged team at a gallop (the driven gaits already include it), a load that burns (the fire layer's small flames), the crowd giving way round it.
 
