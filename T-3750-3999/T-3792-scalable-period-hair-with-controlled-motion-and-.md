@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: Codex continuing owner-authorized hair while photo review completes 11/27/2026, 3:20:01 PM CT
+claimed_by: Codex continuing owner-authorized hair while photo review completes 11/27/2026, 5:34:14 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: 2026-11-27T21:20:02.535Z
+claimed_at: 2026-11-27T23:34:15.843Z
 decision: null
 decision_answer: null
 ---
