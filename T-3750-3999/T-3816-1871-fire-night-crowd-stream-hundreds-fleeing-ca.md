@@ -33,3 +33,5 @@ Research: `docs/RESEARCH/fire-night-scenes-3814/README.md` (the scenes the accou
 - caps by tier, measured on the light ceiling, the UHD 630 class and a phone.
 
 **Acceptance:** at every Great Fire stop the streets in view carry the night's crowd to the far distance, moving the right way for the hour; the light tier stays in its ceiling; measured row in docs/measurements; before/after pictures desktop and phone.
+
+**Free walk too (Kevin, 2026-11-27, decision card "Should the 1871 free walk also be able to show the fire night?": "Add a fire-night clock to free walk"):** the 1871 free walk gains a fire-night clock (a choice of hour from the barn at about nine on Sunday evening through Tuesday morning); set to one, the city burns as the jaunt's fire map has it at that hour, and this crowd fills the streets round the front. Left off, the free walk stays the pre-fire city of 8 October as now. Acceptance adds: the clock in the free walk, the city and crowd matching the hour picked, before/after pictures.
