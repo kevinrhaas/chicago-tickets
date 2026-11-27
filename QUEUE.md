@@ -71,7 +71,8 @@ T-3771 — 2140 Prairie's porch and exterior stair, the southern entrance canopy
 T-3772 — 2140 Prairie's rear ranges and attached service wings off the 1911 sheet, with the before/after views and costs (after the piece before it)
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
 T-1937 — Refine south-west service buildings and shared Rees coach house
-T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
+T-3785 — 2000, 2010 and 2018 Prairie's yards laid as three properties on the one lot the 1911 sheet draws for them: each house its own front yard round its own door and its own back yard
+T-3786 — The rest of the 20th-22nd block's boundaries, gardens and frontage fittings: 2010's back door and the back yards that fit nothing (2003, 2130), the K16 front doors the yard planter cannot see, then the block walked at 1280x800 and 390x780 with its costs recorded
 T-3781 — 217 East Twentieth, the corner rowhouse, onto K01 from the 1911 sheet and its 2009 photographs: the rock-faced red sandstone front, the copper corner oriel, the street gable and its finial, the round-headed ground-floor lights
 T-3782 — 213 and 215 East Twentieth onto K01 from the 1911 sheet and the 2009 photographs: 213's red front behind its cornice, 215's brick front with stone lintels, round-headed lights and arched door behind its front yard (after the piece before it)
 T-3783 — 213, 215 and 217 East Twentieth's cameras on the four 2009 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
