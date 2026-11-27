@@ -1,7 +1,7 @@
 ---
 id: T-1937
 title: Refine south-west service buildings and shared Rees coach house
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/27/2026, 12:37:31 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46047869310
-claimed_at: 2026-11-27T18:37:31.297Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -72,3 +72,5 @@ Pictures:
 - sherman_house_2100_prairie_coach_house
 
 **Released 2026-11-26** (claim of run 11/26/2026, 10:15:33 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45936701416): PR #2383 refines 2108's and 2110's shared alley building (mark_kimball_house_2108_prairie_coach_house) in place onto K12 as ONE building divided on the lot line, 15.48 x 10.67 m, flat-roofed behind parapets 7.01 m up, from the 1911 sheet and the Glessner House post of 1 Oct 2014 (now a source: glessner_blog_2014_10_rees_coach_house_relocated); K12 gains roof_form 'flat'. Ramp attested but not built (no place, no ground cut). Still to do: the image gate on 2108's coach house (solve the 2014 photograph's camera; settle which of its faces is the alley's and lay its segmental-headed openings there), and 2036, 2100, 2112, 2120, 2126, 2130 and 2140's alley buildings, still the draft's. Not split: the gate stays on this ticket.
+
+**Released 2026-11-27** (claim of run 11/27/2026, 12:37:31 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/46047869310): PR #2405 (resume: CI gate queued) refines 2100's alley building (sherman_house_2100_prairie_coach_house) in place onto K12: one 22.50 x 10.74 m rectangle off sheet 35, wagon house north / stable south, under the kit's hip_deck (deck 2.04 m in). Declared difference: the sheet draws no hip at the south end (the deck runs to the wall); the kit hips all four sides (L-k12-2100-wagon-house-1937). Image gate: neither named picture shows 2100's or 2112's alley building (both are street-front views), so no camera can be solved from them. Still to do: 2108's 2014-photograph camera and alley openings; 2036, 2112, 2120, 2126, 2130 and 2140's alley buildings (2112: plain 2-storey rectangle 14.7 x 8.6 m lettered AUTO, no roof marks).
