@@ -1,7 +1,7 @@
 ---
 id: T-3799
 title: 2140 Prairie's cameras on the Chicagology and Van Osdel photographs, fitted on the house and 2130 together, and its tall stack set to the height and place both put it
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1929
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2406
 claimed_by: run 11/27/2026, 12:45:42 PM CT
 blocked_on: null
 needs_bake: false
