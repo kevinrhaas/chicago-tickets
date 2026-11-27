@@ -63,18 +63,14 @@
 # existing order; T-2163 (the district grounds and walk, unblocked 2026-11-05: T-2983's pieces have all merged) goes before the verifies.
 # Owner, 2026-10-28 (decision card "Reopen them below Pullman"): eight houses that had closed through split pieces without their image gate, reopened in place (T-3235).
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1938 — Refine south-east service buildings
 T-3730 — 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
 T-1937 — Refine south-west service buildings and shared Rees coach house
-T-3785 — 2000, 2010 and 2018 Prairie's yards laid as three properties on the one lot the 1911 sheet draws for them: each house its own front yard round its own door and its own back yard
 T-3786 — The rest of the 20th-22nd block's boundaries, gardens and frontage fittings: 2010's back door and the back yards that fit nothing (2003, 2130), the K16 front doors the yard planter cannot see, then the block walked at 1280x800 and 390x780 with its costs recorded
-T-3781 — 217 East Twentieth, the corner rowhouse, onto K01 from the 1911 sheet and its 2009 photographs: the rock-faced red sandstone front, the copper corner oriel, the street gable and its finial, the round-headed ground-floor lights
 T-3782 — 213 and 215 East Twentieth onto K01 from the 1911 sheet and the 2009 photographs: 213's red front behind its cornice, 215's brick front with stone lintels, round-headed lights and arched door behind its front yard (after the piece before it)
 T-3783 — 213, 215 and 217 East Twentieth's cameras on the four 2009 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
-T-3790 — 2008 Calumet, the Hanford house, onto K01 from the 1911 sheet and the 1883 Inland Architect plate: the brownstone front, the steep slated roof with gabled dormers, the pointed corner roof and finial, the columned entrance porch and stoop, the tall stacks
 T-3791 — 2008 Calumet's cameras on the 1883 plate and the engraving, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1941 — Refine 2018 Calumet Wheeler-Kohn exterior
 T-1942 — Refine Second Presbyterian post-1900 exterior skyline

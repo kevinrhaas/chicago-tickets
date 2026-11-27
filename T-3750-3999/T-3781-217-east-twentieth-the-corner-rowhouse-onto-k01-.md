@@ -1,7 +1,7 @@
 ---
 id: T-3781
 title: 217 East Twentieth, the corner rowhouse, onto K01 from the 1911 sheet and its 2009 photographs: the rock-faced red sandstone front, the copper corner oriel, the street gable and its finial, the round-headed ground-floor lights
-state: review
+state: done
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: S
 legacy_id: null
 parent: T-1939
 opened: 2026-11-26
-closed: null
+closed: 2026-11-27
 pr: 2388
 claimed_by: run 11/26/2026, 10:23:05 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-27T18:09:35Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45936708134
 claimed_at: 2026-11-27T04:23:06.940Z
 decision: null
