@@ -40,6 +40,7 @@ T-3825 — filed over the budget
 T-3826 — run A files something
 T-3827 — run B files something else
 T-3828 — a ticket nobody has started
+T-3829 — a ticket a sibling is already on
 # ---    the performance band, and GPU or performance follow-ups go to band 1, a building's to its own band, not here.
 
 # --- 2. PRAIRIE AVENUE 1904 IN PROGRESS — every Prairie Avenue house already begun, finished next (owner, 2026-10-16: "finish any
