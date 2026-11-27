@@ -135,6 +135,7 @@ T-3780 — Follow the teacher and classmates in town: students go to the teacher
 # (T-3553..T-3560); each lists what dev already has, to reuse, and a short acceptance. Add findings to them; don't file per-person tickets.
 T-3553 — Finish people's clothing: no breakthrough in motion, better collars and seats, the six-role wardrobe reviewed beside period photographs, coat tails that sway
 T-3762 — Fit and map historical photos onto the Glessner Field and Pullman residents
+T-3792 — Scalable period hair with controlled motion and shared GPU budgets
 
 # --- 8D. PERIOD CARRIAGES AND WAGONS — the Glessner carriage ride first (owner, 2026-11-09), then the photographic vehicles (epic T-2791)
 # T-2795 and T-2801 are done (the waiting Glessner team, #1908) and leave the queue when settle reads the merge.
