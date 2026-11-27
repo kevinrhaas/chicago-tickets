@@ -163,6 +163,12 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/john-collar.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/braces-1835.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/fe563d2c/evidence/t3553-round7-2026-11-26/crossbelts-1812.jpg?raw=true)
+- 2026-11-27 — **Round 8: lapels, coat cloth and hats** (PR #2378). Kevin: "Look how bad their lapels are? And their hats men and women need a material update", then "The surface of their jackets also needs some work so it is finer". John's silk lapels were wound inward, so the hidden-cloth pass cut them into dark shards; each side now faces out, its rows are smoothed into one V, and the coat under it is sunk a few millimetres. Coat cloth is finer and smoother (wool, twill, linen). Hats have their own materials: matte felt with a ribbon band, plush top hats, woven straw. Left as is: the shirt front near John's collar at the middle level, a small highlight at the top of the left lapel notch, the straw weave fading on part of the crown, and the navy pinstripe gentleman, who was not checked on his own.
+  Before (dev) and after:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/lapels.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/cloth.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/hats.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/made-hats.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
