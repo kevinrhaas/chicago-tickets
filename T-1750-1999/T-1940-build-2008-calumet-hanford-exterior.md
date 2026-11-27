@@ -1,7 +1,7 @@
 ---
 id: T-1940
 title: Refine 2008 Calumet Hanford exterior
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-27
 pr: null
 claimed_by: run 11/27/2026, 7:16:02 AM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-27T13:21:18.518Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46004831785
 claimed_at: 2026-11-27T13:16:03.452Z
 decision: null
