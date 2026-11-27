@@ -31,20 +31,20 @@ Owner, 2026-11-27: "make the production website mark it with a \"Preview\" indic
 
 ## Result (PR #2400)
 
-A quiet pill in the corner of every public-site page: **● PREVIEW │ Still improving · Feedback ×**. Feedback goes to Contact; × hides it for good on that browser.
+A quiet pill in the corner of every public-site page: **● PREVIEW │ Feedback ×** ("Still improving" taken out at Kevin's word, 2026-11-27). Feedback goes to Contact; × hides it for good on that browser.
 
 Desktop, before | after:
 
-<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/desktop-before-after.jpg?raw=true" width="900">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/bffb0e2a3395d16fb32d0cfcf4dbb782216f6c95/evidence/T-3796-preview-marker/desktop-before-after.jpg?raw=true" width="900">
 
 Close-up:
 
-<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/desktop-marker-close-up.png?raw=true" width="400">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/bffb0e2a3395d16fb32d0cfcf4dbb782216f6c95/evidence/T-3796-preview-marker/desktop-marker-close-up.png?raw=true" width="400">
 
 Phone, before | after:
 
-<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/phone-before-after.jpg?raw=true" width="640">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/bffb0e2a3395d16fb32d0cfcf4dbb782216f6c95/evidence/T-3796-preview-marker/phone-before-after.jpg?raw=true" width="640">
 
 Phone after × and a reload:
 
-<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/phone-after-dismiss.jpg?raw=true" width="320">
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/bffb0e2a3395d16fb32d0cfcf4dbb782216f6c95/evidence/T-3796-preview-marker/phone-after-dismiss.jpg?raw=true" width="320">
