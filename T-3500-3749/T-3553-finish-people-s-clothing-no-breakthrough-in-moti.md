@@ -169,6 +169,9 @@ Keep each person's identity, colours, style, provenance and adopted clips. Ship 
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/cloth.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/hats.jpg?raw=true)
   ![](https://github.com/kevinrhaas/chicago-evidence/blob/ff72fc96/evidence/t3553-round8-2026-11-27/made-hats.jpg?raw=true)
+- 2026-11-27 — **Warriors get up out of the grass, not like a plank** (PR #2384). Kevin: "In the jaunt in 1812 in the battle where the natives stand up, they just rise like a plank, that is not how someone would jump up to attack from a prone position." New keyframed get-up/get-down motions (`human-motions.js`): hip, feet and hands keyed on the ground, leg IK on the real thigh and shin, hands planted. From prone: push up on the hands, a knee in under, crouch, drive off into the run; about four in ten rise through both knees; each man has his own side, tempo and offsets. Kneeling/crouched men drive up off the front foot; the run starts as they rise (stage holds the walk to the release frame). Going down: crouch, hands and knees, flat. The arm layer now yields to lying poses (prone forearms, the fallen). All five battle versions regenerated. Prone head still reads face down. Lab before/after (same seconds after the stand cue) and one man from the side:
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/439c9458/evidence/t3553-rise-from-prone-2026-11-27/close-up-before-after.jpg?raw=true)
+  ![](https://github.com/kevinrhaas/chicago-evidence/blob/439c9458/evidence/t3553-rise-from-prone-2026-11-27/side-knee.jpg?raw=true)
 
 ## Found 2026-11-18 — dev's gate is red on test_human_coat.mjs (#2165 meets T-3639)
 
