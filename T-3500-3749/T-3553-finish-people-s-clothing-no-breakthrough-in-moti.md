@@ -213,3 +213,15 @@ Left as found: the 1904 "Working clothes" text describes a sack coat and cap, bu
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/2981a009306c21607dcbf02180fa0b7e41570a3b/evidence/character-creator-T-3553/shots-r1/desk-1-body.png?raw=true" width="640">
 
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/2981a009306c21607dcbf02180fa0b7e41570a3b/evidence/character-creator-T-3553/shots-r1/phone-4-hair.png?raw=true" width="260">
+
+## Found 2026-11-27 — the 1904 working clothes (Kevin: "That outfit as described does not look very good ... provide better coloring and more options and more people with more clothing options", "And fix any people with that clothes")
+
+The working man's body (anonymous_working_driver_1904) was a tan shirt and pale grey waistcoat over pale trousers, no hat: a knit suit at any distance. renderers/web/js/human-wear.js now wears it as the photographs show (oatmeal collarless shirt, dark wool waistcoat and trousers, a flat cap from human-hats.js 'cap') in four colourings picked per person, for every figure on that body, near and far (crowd.js reads the same dress). Coachmen in livery keep their top hats. The Great Fire and Eighteenth Street bronze watchers wear a short coat and cap (the 1904 gentleman's body, skirts, tie and derby set aside). The visitor gets a long coat and cap, a jacket and skirt, and a work dress and apron in 1904, each outfit in colourings drawn in the creator. Liberty L-wear-3553. Same PR #2411.
+
+Before, and after (men; women):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/3bd2584c/evidence/character-creator-T-3553/working-clothes/before-working-clothes.png?raw=true" width="320">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/3bd2584c/evidence/character-creator-T-3553/working-clothes/after-men-1904.png?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/3bd2584c/evidence/character-creator-T-3553/working-clothes/after-women-1904.png?raw=true" width="640">
