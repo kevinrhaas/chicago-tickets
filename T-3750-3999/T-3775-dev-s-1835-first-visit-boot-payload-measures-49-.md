@@ -1,7 +1,7 @@
 ---
 id: T-3775
 title: dev's 1835 first-visit boot payload measures 49.767 MB, over SITE-BUDGET § 4's 49.6 MB: every PR's smoke (desktop, 1-2) is red on it — the photo-face libraries' two review.json (0.166 MB) now load at boot (dev 71566d43b, after T-3767/T-3768)
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-26
-closed: null
+closed: 2026-11-26
 pr: 2377
 claimed_by: run 11/26/2026, 5:25:25 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-27T01:45:16Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45909915876
 claimed_at: 2026-11-26T23:25:26.487Z
 decision: null
