@@ -181,3 +181,4 @@ T-3811 — New score music for 1871 and 1835 (and the Scandal bed) through a fal
 T-3812 — 1904 street talk: short voiced lines from people on Prairie Avenue
 T-3810 — Move the Kimball household shot off the home page lead and put a stronger people shot there
 T-3813 — What's New: concise latest-days view, full history kept, tighter entry budget
+T-3814 — 1871 Great Fire stops: people carry their goods out (bundles, trunks dragged on cords, bird cages, feather beds, a sick person in a doubled mattress) and wagons load at the stores, from the accounts
