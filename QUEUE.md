@@ -107,6 +107,7 @@ T-3043 — Guide's glossary tap check finds no locked term on Home since its Con
 T-3719 — pr-automerge merges past a just-dispatched content build: a workflow_dispatch run that has no check runs yet reads as 'nothing missing'
 T-3776 — Student data policy for server-saved work: a plain privacy notice, delete-my-data in Settings, and an agreement a school can sign (Illinois SOPPA), before any class uses the Stage 1 cloud features
 T-3777 — Cloud save: the field notebook, people met and places found, and settings follow a signed-in student to any device through Firestore, with browser storage as the offline fallback
+T-3778 — Class codes and a teacher view: a teacher makes a class, students join with a short code, and the teacher sees the roster, hand-ins and reflections (classroom feature 6)
 
 # --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
 # ---    they can be worked by separate agents later").
