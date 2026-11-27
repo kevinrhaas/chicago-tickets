@@ -201,3 +201,15 @@ After, the library, and the portrait before/after (Auto, Light complexion, Blue 
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/ddaedba549dab47a4fbb59b28c230bbc64ed124f/evidence/face-library-T-3553/desktop-you-tab-face-library.jpg?raw=true" width="460">
 
 <img src="https://github.com/kevinrhaas/chicago-evidence/blob/ddaedba549dab47a4fbb59b28c230bbc64ed124f/evidence/face-library-T-3553/before-after-auto-face-blue-eyes.jpg?raw=true" width="640">
+
+## Found 2026-11-27 — the character creator (Kevin: "much more rich with more preview simpler buttons ... best practice build your character style interfaces from aaa games")
+
+PR #2411 (into dev): "Edit your person" opens a full-screen creator. The person stands large on a lit stage and turns with a drag, the arrows, or Front / Side / Back, and a Body / Face toggle zooms in. Five icon categories (Body, Face, Skin & eyes, Hair, Clothes) hold picture choices: body styles, ages, cuts, whiskers and the year's dress are drawn on the person, colours are swatches, and the face library has its own category. The footer has Randomize, Undo, Start again and Done.
+
+Rendering (person-portrait.js): the figure is kept between turns, there is one render target per size, and pixels are read back behind a fence. Previews are built under their own row, `visitor:you:preview`. On the Mac GPU, the first Body open settles in about 9 s, and a drag ran 60 frames with no frame over 30 ms.
+
+Left as found: the 1904 "Working clothes" text describes a sack coat and cap, but the asset is drawn as a knit top.
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2981a009306c21607dcbf02180fa0b7e41570a3b/evidence/character-creator-T-3553/shots-r1/desk-1-body.png?raw=true" width="640">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/2981a009306c21607dcbf02180fa0b7e41570a3b/evidence/character-creator-T-3553/shots-r1/phone-4-hair.png?raw=true" width="260">
