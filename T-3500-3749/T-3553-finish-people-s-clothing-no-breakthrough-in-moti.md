@@ -187,3 +187,17 @@ holds chicago#2111 (T-3608) at `resume`. Fix: load the module from its file URL 
 the import the way the test inlines the others).
 
 Fixed: the test loads human-skirt.js's relative imports from their files (PR #2171, and the same fix in #2177).
+
+## Found 2026-11-27 — your own person and the photographed faces (Kevin: "Defining your person no longer works with the photo faces")
+
+Since T-3767 the town wears 256 photographed faces, but Settings › You still offered only the 22 painted faces. Auto always gave the visitor the same photographed face whatever the complexion (`pilot_22`), that face's own iris hid the chosen eye colour, and Style 3 on Auto fell back to Style 1's faces. PR #2391 (into dev) turns the Face row into a library: Auto, then Young / Middle-aged / Older / Painted, each in Lighter / Medium / Deeper bands, shown as the faces' own photos (`photo_faces/pilot/thumbs.jpg`, `tools/photo_face_thumbs.py`). Auto now picks the face of your age nearest your complexion, a pick is worn, chosen eyes win (humans.js; human-skin.js is pinned by the photo library), and the close-up redraws when the sharp page arrives. Left: a photographed face keeps its own brows, so the hair colour doesn't reach them.
+
+Before, the old Face row:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/ddaedba549dab47a4fbb59b28c230bbc64ed124f/evidence/face-library-T-3553/before-desktop-you-tab-face-row.jpg?raw=true" width="460">
+
+After, the library, and the portrait before/after (Auto, Light complexion, Blue eyes):
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/ddaedba549dab47a4fbb59b28c230bbc64ed124f/evidence/face-library-T-3553/desktop-you-tab-face-library.jpg?raw=true" width="460">
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/ddaedba549dab47a4fbb59b28c230bbc64ed124f/evidence/face-library-T-3553/before-after-auto-face-blue-eyes.jpg?raw=true" width="640">
