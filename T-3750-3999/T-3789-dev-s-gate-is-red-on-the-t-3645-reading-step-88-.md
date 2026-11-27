@@ -1,7 +1,7 @@
 ---
 id: T-3789
 title: Dev's gate is red on the T-3645 reading step: 88 1904 retellings wait for a re-key (the test allows 40), after the 20th-22nd Prairie house PRs rewrote their why/notes lines
-state: review
+state: done
 epic: META
 requested_by: loop
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-27
 pr: 2397
 claimed_by: run 11/27/2026, 6:44:10 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-27T16:45:00Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45998146960
 claimed_at: 2026-11-27T12:44:11.627Z
 decision: null
