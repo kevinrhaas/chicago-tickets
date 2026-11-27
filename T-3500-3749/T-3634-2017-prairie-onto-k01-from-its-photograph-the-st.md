@@ -1,7 +1,7 @@
 ---
 id: T-3634
 title: 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1917
 opened: 2026-11-17
 closed: null
 pr: null
-claimed_by: run 11/27/2026, 12:27:16 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46047820265
-claimed_at: 2026-11-27T18:27:17.171Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -68,3 +68,5 @@ T-1917 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-26** (claim of run 11/26/2026, 1:32:47 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45883446638): PR #2369 builds 2021 Prairie's turret finial (K08: a half round's cone now carries a finial on its apex; pale zinc collar, cone at pitch 2.8), the gable's apex finial, and the third stack on the south wing's ridge; gated green locally (check.sh 4/4 parts, mobile smoke 1 PASS; every other K01 mesh byte-identical), handed on with resume while CI's bake ran (0 red). done stays refused by T-1917's image gate: 5 differences open on 2021 (porch behind the arch, stoop running along the front, narrow ground light, wing's cut corner, picket fence). Next run: confirm #2369 merged, then take the next kit gap
 
 **Released 2026-11-27** (claim of run 11/27/2026, 6:47:41 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45998158093): PR #2393 builds 2021 Prairie's narrow principal-storey light between the porch and the broad window (K01 front_bays_by_storey now takes a read light on storey 0); gated locally (check.sh all parts green but 7/8's dev-wide T-3645 reading red, T-3789), smoke desktop 1 0 pageerrors; handed on with resume while CI's gate was queued. done stays refused by T-1917's image gate: 4 differences open on 2021 (porch behind the arch, stoop running along the front, wing's cut corner, picket fence). Next run: confirm #2393 merged, then take the next kit gap
+
+**Released 2026-11-27** (claim of run 11/27/2026, 12:27:16 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/46047820265): PR #2402 opens 2021 Prairie's street front (the boarded fence is gone) and builds the photograph's picket fence on the south lot line (K11 open front takes side_pickets); every other K01/K12/K13/K16 mesh byte-identical; local check.sh 8/8 parts green, smoke desktop 1 0 page errors; handed on with resume while CI's gate ran (0 red). done stays refused by T-1917's image gate: 4 differences open on 2021 (porch behind the arch, stoop running along the front, wing's cut corner, the side yard's fall toward the street under the pickets). Next run: confirm #2402 merged, then take the next kit gap
