@@ -93,6 +93,7 @@ T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corne
 T-3747 — Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
 T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
 T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
+T-3803 — 1871 shop signs from Edwards' 1871 directory round the jaunt stops: real firms by their old addresses, varied period sign forms
 T-3802 — 1871 Great Fire Court House stop: flames float above the building instead of sitting on it
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
