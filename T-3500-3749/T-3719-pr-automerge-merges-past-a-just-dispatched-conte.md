@@ -1,7 +1,7 @@
 ---
 id: T-3719
 title: pr-automerge merges past a just-dispatched content build: a workflow_dispatch run that has no check runs yet reads as 'nothing missing'
-state: claimed
+state: review
 epic: META
 requested_by: loop
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-21
 closed: null
-pr: null
+pr: 226
 claimed_by: run 11/27/2026, 7:23:07 AM CT
 blocked_on: null
 needs_bake: false
