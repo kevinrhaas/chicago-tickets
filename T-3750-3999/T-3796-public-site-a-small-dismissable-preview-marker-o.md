@@ -28,3 +28,23 @@ Public site: a small dismissable Preview marker on every page, saying the site i
 **Acceptance:** (a) Every page of the public site (`site/`, the pages that load `js/show.js`) shows a small "Preview" marker in the site's Control Room look, a few words at most. (b) One tap or click dismisses it and the dismissal is remembered on that browser. (c) Works at 390x780 and desktop, never covers the menu or the Enter button, hidden in print. (d) Before/after pictures in the PR and close note.
 
 Owner, 2026-11-27: "make the production website mark it with a \"Preview\" indicator you can dismiss so that people know its early and we are contiuning to develop and improve with early adopters and feedback, do not be wordy make this preview marker very elegant and simple and clean and not verbose and annoying".
+
+## Result (PR #2400)
+
+A quiet pill in the corner of every public-site page: **● PREVIEW │ Still improving · Feedback ×**. Feedback goes to Contact; × hides it for good on that browser.
+
+Desktop, before | after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/desktop-before-after.jpg?raw=true" width="900">
+
+Close-up:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/desktop-marker-close-up.png?raw=true" width="400">
+
+Phone, before | after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/phone-before-after.jpg?raw=true" width="640">
+
+Phone after × and a reload:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/d6705ae601e013f5aee0e2b29a71a801edc8817e/evidence/T-3796-preview-marker/phone-after-dismiss.jpg?raw=true" width="320">
