@@ -1,7 +1,7 @@
 ---
 id: T-3791
 title: 2008 Calumet's cameras on the 1883 plate and the engraving, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1940
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/27/2026, 1:01:13 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46047887285
+claimed_at: 2026-11-27T19:01:14.763Z
 decision: null
 decision_answer: null
 ---
