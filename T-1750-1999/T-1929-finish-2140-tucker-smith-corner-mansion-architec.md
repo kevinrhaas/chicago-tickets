@@ -1,7 +1,7 @@
 ---
 id: T-1929
 title: Finish 2140 Tucker-Smith corner mansion architecture
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-27
 pr: null
 claimed_by: run 11/27/2026, 12:38:56 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-27T18:45:38.471Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46047859311
 claimed_at: 2026-11-27T18:38:57.680Z
 decision: null
