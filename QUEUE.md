@@ -178,4 +178,5 @@ T-3502 — dev's content-build smoke is red on three legs (dev c891a26d7 + PR #1
 T-3745 — Jaunt background music starts straight away: take the clipped main-theme intro off the jaunt beds and openings
 T-3809 — Voice the Great Fire jaunt
 T-3811 — New score music for 1871 and 1835 (and the Scandal bed) through a fal workflow
+T-3812 — 1904 street talk: short voiced lines from people on Prairie Avenue
 T-3810 — Move the Kimball household shot off the home page lead and put a stronger people shot there
