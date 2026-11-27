@@ -1,7 +1,7 @@
 ---
 id: T-3776
 title: Student data policy for server-saved work: a plain privacy notice, delete-my-data in Settings, and an agreement a school can sign (Illinois SOPPA), before any class uses the Stage 1 cloud features
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2381
 claimed_by: run 11/26/2026, 9:51:38 PM CT
 blocked_on: null
 needs_bake: false
