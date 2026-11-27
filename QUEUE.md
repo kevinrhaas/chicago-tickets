@@ -107,6 +107,7 @@ T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
 # Owner, 2026-11-05 re-rank: band 3 moves below the balance of Prairie Avenue ("finish prairie Ave first"); T-3043 came up from 8b's foot.
 T-3043 — Guide's glossary tap check finds no locked term on Home since its Confidence view tile became a button
 T-3719 — pr-automerge merges past a just-dispatched content build: a workflow_dispatch run that has no check runs yet reads as 'nothing missing'
+T-3784 — pr-automerge merges blind: gh-rest api() folds gh's stderr 'hint: … gh event listen' notice into the PR JSON, so node id and head sha read empty and it falls back to pr-merge with no gate (hit on #2379, 2026-11-27)
 # --- 3B. STAGE 1 — CLASSROOM DATABASE ON FIREBASE (owner, 2026-11-26, decision card "File which Stage 1 tickets now?": "All five
 # ---     Stage 1 tickets"; plan "Server, cloud GPU and engine plan"). The data policy first, then cloud save, class codes, shared
 # ---     routes, follow and classmates; each waits on the one it builds on. Worked interactively in thread "Plan server, cloud GPU and engine path".
