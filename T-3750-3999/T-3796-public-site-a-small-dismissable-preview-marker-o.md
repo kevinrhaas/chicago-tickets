@@ -1,7 +1,7 @@
 ---
 id: T-3796
 title: Public site: a small dismissable Preview marker on every page, saying the site is early and improving with early adopters' feedback; dismissal remembered
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2400
 claimed_by: run 11/27/2026, 10:27:24 AM CT
 blocked_on: null
 needs_bake: false
