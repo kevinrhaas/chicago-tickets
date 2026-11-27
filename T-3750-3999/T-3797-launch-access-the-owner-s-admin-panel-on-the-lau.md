@@ -1,7 +1,7 @@
 ---
 id: T-3797
 title: Launch access: the owner's admin panel on the launch page, access keys he mints, and rights pre-assigned by email (cloud play, admin), checked by Firestore rules and the stream starter
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2395
 claimed_by: run 11/27/2026, 11:11:06 AM CT
 blocked_on: null
 needs_bake: false
