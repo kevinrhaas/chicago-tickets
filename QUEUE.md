@@ -117,6 +117,7 @@ T-3777 — Cloud save: the field notebook, people met and places found, and sett
 T-3778 — Class codes and a teacher view: a teacher makes a class, students join with a short code, and the teacher sees the roster, hand-ins and reflections (classroom feature 6)
 T-3779 — Shared teacher routes and hand-ins: routes saved to the teacher's account, assigned to a class, and answers handed in without a download (the rest of classroom feature 11)
 T-3780 — Follow the teacher and classmates in town: students go to the teacher's current stop, and classmates show as people in the town inside their own class only, with no chat (classroom features 13 and 19)
+# --- Launch page and launch access (owner, 2026-11-27, in the Stage 2 thread).
 T-3798 — Launch page rework: a clean game-style /4d/ front door with the four year tiles, music on/off, settings, sign-in, and an automatic check of this computer with a plain recommendation; the old console kept
 T-3797 — Launch access: the owner's admin panel on the launch page, access keys he mints, and rights pre-assigned by email (cloud play, admin), checked by Firestore rules and the stream starter
 # --- Stage 2, GPU streaming (owner, 2026-11-27, decision card "File the Stage 2 GPU streaming tickets now?": "File the 3 Stage 2 tickets").
