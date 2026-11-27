@@ -1,7 +1,7 @@
 ---
 id: T-3790
 title: 2008 Calumet, the Hanford house, onto K01 from the 1911 sheet and the 1883 Inland Architect plate: the brownstone front, the steep slated roof with gabled dormers, the pointed corner roof and finial, the columned entrance porch and stoop, the tall stacks
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1940
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2398
 claimed_by: run 11/27/2026, 7:21:22 AM CT
 blocked_on: null
 needs_bake: false
