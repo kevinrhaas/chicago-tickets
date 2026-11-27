@@ -1,7 +1,7 @@
 ---
 id: T-3771
 title: 2140 Prairie's porch and exterior stair, the southern entrance canopy, the gabled dormers and the tall stacks (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1928
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2380
 claimed_by: run 11/26/2026, 9:32:24 PM CT
 blocked_on: null
 needs_bake: false
