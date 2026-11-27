@@ -68,7 +68,6 @@ T-3713 — 2115 Prairie's cameras on both pictures, the photo-match worked down 
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1938 — Refine south-east service buildings
 T-3730 — 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
-T-3770 — 2140 Prairie onto K01 from the 1911 sheet and its photographs: the main body's plan, storeys and banded brick, the mansard, the round corner tower and the two spired towers, and the openings on Prairie Avenue and Twenty-second Street
 T-3771 — 2140 Prairie's porch and exterior stair, the southern entrance canopy, the gabled dormers and the tall stacks (after the piece before it)
 T-3772 — 2140 Prairie's rear ranges and attached service wings off the 1911 sheet, with the before/after views and costs (after the piece before it)
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
