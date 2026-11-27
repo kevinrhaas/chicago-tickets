@@ -1,7 +1,7 @@
 ---
 id: T-1939
 title: Refine 213, 215 and 217 East Twentieth Street context
-state: claimed
+state: split
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: T-1837
 opened: 2026-10-01
-closed: null
+closed: 2026-11-26
 pr: null
 claimed_by: run 11/26/2026, 10:21:02 PM CT
 blocked_on: null
 needs_bake: true
-closed_at: null
+closed_at: 2026-11-27T04:23:01.461Z
 claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45936708134
 claimed_at: 2026-11-27T04:21:04.074Z
 decision: null

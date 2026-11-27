@@ -72,7 +72,9 @@ T-3772 — 2140 Prairie's rear ranges and attached service wings off the 1911 sh
 T-1929 — Finish 2140 Tucker-Smith corner mansion architecture
 T-1937 — Refine south-west service buildings and shared Rees coach house
 T-1945 — Finish 20th-22nd block boundaries, gardens and frontage fittings
-T-1939 — Refine 213, 215 and 217 East Twentieth Street context
+T-3781 — 217 East Twentieth, the corner rowhouse, onto K01 from the 1911 sheet and its 2009 photographs: the rock-faced red sandstone front, the copper corner oriel, the street gable and its finial, the round-headed ground-floor lights
+T-3782 — 213 and 215 East Twentieth onto K01 from the 1911 sheet and the 2009 photographs: 213's red front behind its cornice, 215's brick front with stone lintels, round-headed lights and arched door behind its front yard (after the piece before it)
+T-3783 — 213, 215 and 217 East Twentieth's cameras on the four 2009 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1940 — Refine 2008 Calumet Hanford exterior
 T-1941 — Refine 2018 Calumet Wheeler-Kohn exterior
 T-1942 — Refine Second Presbyterian post-1900 exterior skyline
