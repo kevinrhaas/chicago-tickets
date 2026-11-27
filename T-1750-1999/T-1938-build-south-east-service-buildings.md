@@ -1,7 +1,7 @@
 ---
 id: T-1938
 title: Refine south-east service buildings
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/26/2026, 10:36:55 PM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/45940062472
-claimed_at: 2026-11-27T04:36:56.093Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -74,3 +74,5 @@ Pictures:
 **Released 2026-11-26** (claim of run 11/26/2026, 4:49:33 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45905322455): PR #2376 (resume: CI gate still queued, nothing red) refines 2011's and 2017's alley buildings (house_2011_prairie_coach_house, house_2017_prairie_coach_house) in place onto K12 from the 1911 sheet: 2011's 14.64 x 7.84 m between two party walls on its lot lines' fire-wall signs, with its window mark; 2017's 15.23 x 10.63 m in mirror image, party wall north, two carriage bays, the window mark and the kit's workyard; draft rules skip s35-2011-rear and s35-2017-rear. Both viewports QA green. Still to do once it merges: 2013 (Reid, image gate), 2021, 2031, 2033, 2035, 2101, 2109, 2115, 2123, 2125, still the draft's. Not split: the gate stays on this ticket.
 
 **Released 2026-11-26** (claim of run 11/26/2026, 9:20:36 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45932289997): PR #2379 merged: 2031's and 2033's alley buildings (tolman_house_2031_prairie_coach_house, otis_house_2033_prairie_coach_house) refined in place onto K12 from the 1911 sheet, each between two party walls (14.65 x 7.86 m and 14.71 x 7.75 m, sharing the wall on their lot line), with their window marks and workyards; draft rules skip s35-2031-rear and s35-2033-rear; both viewports QA green. Still to do: 2013 (Reid, image gate), 2021 (tin-clad upper storey and one-storey south end), 2035, 2101, 2109, 2115, 2123, 2125, still the draft's. Not split: the gate stays on this ticket.
+
+**Released 2026-11-27** (claim of run 11/26/2026, 10:36:55 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45940062472): PR #2386 (resume: CI gate still queued, nothing red) refines 2109's and 2123's alley buildings (roloson_house_2109_prairie_coach_house, house_2123_prairie_coach_house) in place onto K12 from the 1911 sheet: 2109's 15.22 x 10.37 m between two party walls (2101's one-storey range north, 2115's garage south), two carriage bays and its alley window mark (its north-wall mark not built: the party wall takes no opening); 2123's 11.66 x 13.74 m in mirror image, party wall north on the lot line, open south gable carrying its second mark; draft rules skip s35-2109-rear and s35-2123-rear. Both viewports QA green. Still to do once it merges: 2013 (Reid, image gate), 2021 (tin-clad upper storey and one-storey south end), 2035 (brick and frame), 2101 (two-storey block on 21st Street with a one-storey range south of it along the alley; the kit has no fitting for that), 2115 (the largest, after T-3713), 2125 (frame), still the draft's. Not split: the gate stays on this ticket.
