@@ -1,7 +1,7 @@
 ---
 id: T-3787
 title: Recompile the 1904 prairie-built-so-far jaunt sidecar: dev's gate part 5/8 red since #2379 (stale jaunts)
-state: claimed
+state: review
 epic: META
 requested_by: steward
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-26
 closed: null
-pr: null
+pr: 2390
 claimed_by: run 11/26/2026, 11:17:14 PM CT
 blocked_on: null
 needs_bake: false
