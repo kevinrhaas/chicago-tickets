@@ -117,6 +117,7 @@ T-3777 — Cloud save: the field notebook, people met and places found, and sett
 T-3778 — Class codes and a teacher view: a teacher makes a class, students join with a short code, and the teacher sees the roster, hand-ins and reflections (classroom feature 6)
 T-3779 — Shared teacher routes and hand-ins: routes saved to the teacher's account, assigned to a class, and answers handed in without a download (the rest of classroom feature 11)
 T-3780 — Follow the teacher and classmates in town: students go to the teacher's current stop, and classmates show as people in the town inside their own class only, with no chat (classroom features 13 and 19)
+T-3793 — Stage 2 streaming machine image: Ubuntu with the NVIDIA L4 driver, Chromium and the Selkies streamer, opening the town at the student's year, built by a script into the chicago-stream project
 
 # --- 4. 1835 — the 1835 town's open work, one band for its own agent (owner, 2026-11-05: "keep the rest of the tickets in sections where
 # ---    they can be worked by separate agents later").
