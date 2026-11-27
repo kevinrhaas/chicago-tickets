@@ -1,7 +1,7 @@
 ---
 id: T-3782
 title: 213 and 215 East Twentieth onto K01 from the 1911 sheet and the 2009 photographs: 213's red front behind its cornice, 215's brick front with stone lintels, round-headed lights and arched door behind its front yard (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1939
 opened: 2026-11-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/27/2026, 12:54:34 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46047878607
+claimed_at: 2026-11-27T18:54:34.937Z
 decision: null
 decision_answer: null
 ---
