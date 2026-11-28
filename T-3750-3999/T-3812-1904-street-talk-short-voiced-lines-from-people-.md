@@ -1,7 +1,7 @@
 ---
 id: T-3812
 title: 1904 street talk: short voiced lines from people on Prairie Avenue
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2408
 claimed_by: run 11/27/2026, 2:40:41 PM CT
 blocked_on: null
 needs_bake: false
