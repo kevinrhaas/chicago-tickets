@@ -1,7 +1,7 @@
 ---
 id: T-3730
 title: 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1927
 opened: 2026-11-22
 closed: null
 pr: null
-claimed_by: run 11/28/2026, 1:16:51 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46118900269
-claimed_at: 2026-11-28T07:16:52.189Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -48,3 +48,5 @@ T-1927 carries an `## Image gate` section. The last of these pieces to close is 
 **Released 2026-11-27** (claim of run 11/27/2026, 1:25:44 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/45951723251): PR #2374 (the side-gabled front, a piece) is complete and level with dev 482b8c5; it waits only on CI runners (69 runs queued). The image gate still has the porch, the south-gable light and the north-front wall open, so the ticket stays open for the next piece
 
 **Released 2026-11-27** (claim of run 11/27/2026, 12:30:43 PM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/46047840129): PR #2401 (steward/t3730-2130-attic-light, on resume while CI's gate is queued) adds K01's light in a gable parapet (gable_roof.ends.<side>.lights) and builds the Chicagology print's attic light in 2130's south gable, within about 5 px of the print; that difference is fixed. Both match records stay 'differs' on two that need new K01 parts: the columned porch across the front's south end (a recessed corner porch under a K01 front: the loggia needs a round-arched mouth, corner_porch projects) and the front's north part beside the tower carried up as wall to the cone's eave (about 11.2 m) under its own eave. The sign-off cannot close until those land.
+
+**Released 2026-11-28** (claim of run 11/28/2026, 1:16:51 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/46118900269): PR #2425 (steward/t3730-2130-north-front, on resume while CI's gate is queued) carries 2130's front north of v 3.8 up as stone wall to the cone's eave at 11.2 m under its own eave, roofed to the ridge and hipped south at 52 degrees (K01 gable_roof.raised_front), within about 10 px of both 2140 prints; that difference is fixed. Both match records stay 'differs' on one open difference: the columned porch across the front's south end (a recessed corner porch under a K01 front). The sign-off cannot close until it lands
