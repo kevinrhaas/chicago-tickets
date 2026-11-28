@@ -1,7 +1,7 @@
 ---
 id: T-3795
 title: Stage 2 spending stop: a $100 monthly budget on chicago-stream whose alerts stop every streaming machine, plus an hours counter the starter checks before it starts one
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2395
 claimed_by: run 11/27/2026, 1:14:54 PM CT
 blocked_on: null
 needs_bake: false
