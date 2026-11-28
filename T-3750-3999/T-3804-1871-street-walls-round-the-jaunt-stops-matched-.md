@@ -1,7 +1,7 @@
 ---
 id: T-3804
 title: 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-28
 pr: 2436
 claimed_by: run 11/27/2026, 11:46:45 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T14:17:29Z
 claimed_run: null
 claimed_at: 2026-11-28T05:46:46.371Z
 decision: null

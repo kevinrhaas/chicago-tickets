@@ -91,10 +91,7 @@ T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corne
 T-3833 — More natural tree silhouettes and close wood detail
 T-3834 — Gradual spring leaf-out and autumn leaf loss
 T-3835 — Natural tree wind and steady detail transitions
-T-3804 — 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
 T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
-T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
-T-3815 — 1871 fire night: runaway teams and burning loads, a horse tearing through the crowd with a wrecked buggy and a dray whose furniture is alight, from White and Frear
 T-3816 — 1871 fire-night crowd stream: hundreds fleeing, carrying and watching in the streets round the fire front, on the instanced crowd at a phone's cost (running clip, flow along the streets, counter-currents)
 T-3817 — 1871 Great Fire stops: the scenes the accounts set there, the Court House prisoners let out, people standing in the lake on the North Side sands, men wetting roofs, the gunpowder at Harrison Street
 T-3830 — 1871 Great Fire firemen: horse-drawn steam fire engines, hose carts and pipemen at the stops where they worked, the hydrants going dry after the Water Works burned
