@@ -1,7 +1,7 @@
 ---
 id: T-3815
 title: 1871 fire night: runaway teams and burning loads, a horse tearing through the crowd with a wrecked buggy and a dray whose furniture is alight, from White and Frear
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/28/2026, 12:30:06 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-28T06:30:06.880Z
 decision: null
 decision_answer: null
 ---
