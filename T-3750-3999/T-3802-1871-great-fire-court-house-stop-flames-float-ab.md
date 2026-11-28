@@ -31,3 +31,16 @@ And, the same day: *"one note on 1871 the fire when the court house is on fire t
 1. Named-structure flames sit on the building: roof flames on a roof under them, window flames on a wall up to that wall's own height, never in air beside or above the building (cupola flames only on the cupola).
 2. A check that fails a flame emitter more than ~1 m clear of every piece of its structure, run over every named 1871 structure that burns, in the gate.
 3. Before/after at the Court House stop (Great Fire stop 4, 01:30 and the Sherman House stop's view of it), desktop and phone.
+
+## Done — PR 2417 (2026-11-28)
+
+Named structures in the fire now burn on their mass (fire-mass.js): the composition's blocks and towers where the sidecar has one, else the pieces' boxes through a median. The Court House's flames stand on its roofs and at its windows, wing by wing; the cupola burns only on its stages. qa_city_fire_1871 fails any flame more than 2 m off a building's plan or 1 m over its roof.
+
+![desktop-court-house-stop-before-after](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3802/desktop-court-house-stop-before-after.jpg?raw=true)
+
+![desktop-clark-washington-0145-before-after](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3802/desktop-clark-washington-0145-before-after.jpg?raw=true)
+
+![phone-court-house-stop-before-after](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3802/phone-court-house-stop-before-after.jpg?raw=true)
+
+![phone-clark-washington-0145-before-after](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3802/phone-clark-washington-0145-before-after.jpg?raw=true)
+
