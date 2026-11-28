@@ -35,3 +35,22 @@ Kevin, 2026-11-27 (thread "Make 1871 jaunt streets photo-accurate"): *"I would l
 - Grades: a firm at its listed address is attested (directory); its place along the block inferred from the numbering; the sign form, wording beyond the listing and lettering reconstructed (a liberty). Where no listing is found, a trade sign stays a trade sign.
 
 **Acceptance:** every storefront in the detail rings near a stop carries a sign of its own firm or trade, no two neighbours alike; a data file of the firms with directory locators; Inspect shows the firm and its listing; before/after at each stop, desktop and phone; memory and draw budgets measured on light.
+
+## Done — PR 2415 (2026-11-28)
+
+732 firms from Edwards' 1871 directory (510 street level, 222 upstairs) on 71 of 74 block faces round the stops; trade signs elsewhere, no two neighbours alike; eight sign forms; Inspect card with the listing. Liberty `L-1871-directory-signs`. Leftovers: phone signs too small to read at street distance; 577 of 975 Full fronts carry trade signs (no firm); painted side-wall signs not drawn.
+
+![before/after lake_clark desktop](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-lake_clark-desktop.jpg?raw=true)
+
+![before/after clark_courthouse desktop](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-clark_courthouse-desktop.jpg?raw=true)
+
+![before/after washington_crosbys desktop](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-washington_crosbys-desktop.jpg?raw=true)
+
+![before/after state_washington desktop](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-state_washington-desktop.jpg?raw=true)
+
+![before/after dearborn_madison desktop](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-dearborn_madison-desktop.jpg?raw=true)
+
+![before/after lake_clark phone](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-lake_clark-mobile.jpg?raw=true)
+
+![before/after clark_courthouse phone](https://github.com/kevinrhaas/chicago-evidence/blob/1881521a0efe3eca9f5c39898e731f7aee310fba/evidence/1871-streets/T-3803/T-3803-clark_courthouse-mobile.jpg?raw=true)
+
