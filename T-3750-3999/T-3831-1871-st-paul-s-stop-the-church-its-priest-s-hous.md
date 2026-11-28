@@ -42,3 +42,11 @@ Kevin, 2026-11-28 (thread "Bring 1871 fire-night crowds and scenes to life"), of
 - Check the other West Side stops (O'Leary barn, Parmelee's) for the same generic brick fill. The district was mostly wooden cottages, barns, mills and lumber yards.
 
 **Acceptance:** the St. Paul's stop shows the church's ruins burning with Bateham's mills and yard going behind; no generic brick block on the church's lot; liberty recorded for whatever is reconstructed; before/after pictures, desktop and phone.
+
+## Completion pictures (PR 2439)
+
+St. Paul's before the fire, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/a0650dc952ee59e7ce50af3ed3b8984b78ac89d7/evidence/1871-streets/T-3831/T-3831-St-Pauls-before-the-fire-desktop.jpg?raw=true" width="900">
+
+Parmelee's stable before the fire, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/a0650dc952ee59e7ce50af3ed3b8984b78ac89d7/evidence/1871-streets/T-3831/T-3831-Parmelee-before-the-fire-desktop.jpg?raw=true" width="900">
