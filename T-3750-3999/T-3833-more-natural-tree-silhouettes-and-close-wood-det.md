@@ -1,7 +1,7 @@
 ---
 id: T-3833
 title: More natural tree silhouettes and close wood detail
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,14 +11,15 @@ parent: null
 opened: 2026-11-28
 closed: null
 pr: null
-claimed_by: null
+claimed_by: Better Trees refinement 11/28/2026, 5:53:08 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-28T11:53:09.275Z
 decision: null
 decision_answer: null
+group: T-3740,T-3833,T-3834,T-3835
 ---
 
 More natural tree silhouettes and close wood detail.
