@@ -65,6 +65,7 @@
 T-3634 — 2017 Prairie onto K01 from its photograph: the stone front, the mansard with gabled dormers and cresting, the gabled projecting bay, the columned porch with its balcony and balusters, the basement grilles
 T-3725 — 2123 Prairie's camera on the Armour photograph, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-1938 — Refine south-east service buildings
+T-3832 — ticket.mjs claim --force overwrites a claim seconds old: two slices took T-1938 33 s apart (2026-11-28) and built 2021's stable twice (#2426, #2428); --force should clear stale litter branches, never a live claim under 3 h
 T-3730 — 2130 Prairie's cameras on both 2140 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
 T-3800 — 2140 Prairie's round tower stood at the Prairie and 22nd Street corner, where both photographs and the sheet put its axis: a K08 round tower across its corner (after the piece before it)
 T-3801 — 2140 Prairie's cameras on the 1898 plate, the second Chicagology photograph, the stereograph and the 1928 Tribune, the photo-match worked down and the image-gate sign-off (after the piece before it)
