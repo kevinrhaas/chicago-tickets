@@ -1,7 +1,7 @@
 ---
 id: T-3738
 title: 1871 street numbers: the pre-fire city's buildings show their 1871 numbers (old numbering, before the 1909 change) as the period's photographs and directories show them, on the same atlas as 1904's (later; after T-3737)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: false
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-23
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/28/2026, 5:58:14 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46139538569
+claimed_at: 2026-11-28T11:58:14.519Z
 decision: null
 decision_answer: null
 ---
