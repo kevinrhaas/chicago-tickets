@@ -1,7 +1,7 @@
 ---
 id: T-3805
 title: 1871 street furniture from the period photos round the jaunt stops: fire-alarm boxes, hydrants, telegraph poles, goods on the walks, trade figures
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-28
 pr: 2423
 claimed_by: run 11/27/2026, 1:25:40 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T06:54:31Z
 claimed_run: null
 claimed_at: 2026-11-27T19:25:41.315Z
 decision: null

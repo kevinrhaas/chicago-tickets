@@ -91,7 +91,6 @@ T-3747 — Photographic vegetation across all four years: tree foliage and bark,
 T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
 T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
 T-3804 — 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
-T-3805 — 1871 street furniture from the period photos round the jaunt stops: fire-alarm boxes, hydrants, telegraph poles, goods on the walks, trade figures
 T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
 T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
 T-3815 — 1871 fire night: runaway teams and burning loads, a horse tearing through the crowd with a wrecked buggy and a dray whose furniture is alight, from White and Frear
