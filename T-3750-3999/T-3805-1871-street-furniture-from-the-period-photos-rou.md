@@ -34,3 +34,16 @@ Kevin, 2026-11-27 (thread "Make 1871 jaunt streets photo-accurate"): *"I would l
 - On the walks: goods, boxes, barrels and crates set out, show cases, sandwich boards, barber poles, tobacconists' figures, hitching posts and carriage blocks, cellar doors and coal-hole plates, awning posts and frames at the kerb, street-name boards at corners where the photos show them.
 
 **Acceptance:** the kinds above stand round every stop at the density the photos show, each graded (attested / inferred / reconstructed) with its liberty; none in a doorway, crossing or carriage way; before/after per stop, desktop and phone; budgets measured on light.
+
+## Done — PR 2423 (2026-11-28)
+
+55 fire-alarm boxes at Edwards' stations, 51 hydrants (27 at the Board of Public Works' corners), barbers' poles and Highlander figures at listed firms' corners, goods on the wholesale walks, coal-hole plates, cellar doors, carriage blocks, Lake Street trunk poles and the Court House cupola alarm wires. Liberty L-1871-street-dress-3805. Leftovers: awning posts, 92 unplaced stations, no street-name boards.
+
+![dearborn-at-madison-walk-desktop](https://github.com/kevinrhaas/chicago-evidence/blob/c506e5aefb7f15934eea686c253f1f2bfe556ae3/evidence/1871-streets/T-3805/dearborn-at-madison-walk-desktop.jpg?raw=true)
+
+![lake-and-clark-desktop](https://github.com/kevinrhaas/chicago-evidence/blob/c506e5aefb7f15934eea686c253f1f2bfe556ae3/evidence/1871-streets/T-3805/lake-and-clark-desktop.jpg?raw=true)
+
+![pine-street-water-works-desktop](https://github.com/kevinrhaas/chicago-evidence/blob/c506e5aefb7f15934eea686c253f1f2bfe556ae3/evidence/1871-streets/T-3805/pine-street-water-works-desktop.jpg?raw=true)
+
+![dearborn-at-madison-walk-mobile](https://github.com/kevinrhaas/chicago-evidence/blob/c506e5aefb7f15934eea686c253f1f2bfe556ae3/evidence/1871-streets/T-3805/dearborn-at-madison-walk-mobile.jpg?raw=true)
+
