@@ -1,7 +1,7 @@
 ---
 id: T-3800
 title: 2140 Prairie's round tower stood at the Prairie and 22nd Street corner, where both photographs and the sheet put its axis: a K08 round tower across its corner (after the piece before it)
-state: claimed
+state: review
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: T-1929
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2427
 claimed_by: run 11/28/2026, 1:16:27 AM CT
 blocked_on: null
 needs_bake: false
