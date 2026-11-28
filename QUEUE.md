@@ -100,6 +100,7 @@ T-3814 — 1871 Great Fire stops: people carry their goods out (bundles, trunks 
 T-3815 — 1871 fire night: runaway teams and burning loads, a horse tearing through the crowd with a wrecked buggy and a dray whose furniture is alight, from White and Frear
 T-3816 — 1871 fire-night crowd stream: hundreds fleeing, carrying and watching in the streets round the fire front, on the instanced crowd at a phone's cost (running clip, flow along the streets, counter-currents)
 T-3817 — 1871 Great Fire stops: the scenes the accounts set there, the Court House prisoners let out, people standing in the lake on the North Side sands, men wetting roofs, the gunpowder at Harrison Street
+T-3830 — 1871 Great Fire firemen: horse-drawn steam fire engines, hose carts and pipemen at the stops where they worked, the hydrants going dry after the Water Works burned
 
 # --- 3. THE NAVIGATOR — the interface work from the owner's Navigator design doc (owner, 2026-10-16: "then we do all of this
 # ---    interface work, follow that with the balance of buildings in 1904"). Filed into this band in dependency order.
