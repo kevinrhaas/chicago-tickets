@@ -90,13 +90,10 @@ T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corne
 T-3747 — Photographic vegetation across all four years: tree foliage and bark, adaptive detail and light
 T-3748 — Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
 T-3760 — 1871 tree cleanup: Water Tower and citywide leftover planting
-T-3802 — 1871 Great Fire Court House stop: flames float above the building instead of sitting on it
-T-3803 — 1871 shop signs from Edwards' 1871 directory round the jaunt stops: real firms by their old addresses, varied period sign forms
 T-3804 — 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
 T-3805 — 1871 street furniture from the period photos round the jaunt stops: fire-alarm boxes, hydrants, telegraph poles, goods on the walks, trade figures
 T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
 T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
-T-3814 — 1871 Great Fire stops: people carry their goods out (bundles, trunks dragged on cords, bird cages, feather beds, a sick person in a doubled mattress) and wagons load at the stores, from the accounts
 T-3815 — 1871 fire night: runaway teams and burning loads, a horse tearing through the crowd with a wrecked buggy and a dray whose furniture is alight, from White and Frear
 T-3816 — 1871 fire-night crowd stream: hundreds fleeing, carrying and watching in the streets round the fire front, on the instanced crowd at a phone's cost (running clip, flow along the streets, counter-currents)
 T-3817 — 1871 Great Fire stops: the scenes the accounts set there, the Court House prisoners let out, people standing in the lake on the North Side sands, men wetting roofs, the gunpowder at Harrison Street

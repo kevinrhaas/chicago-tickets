@@ -1,7 +1,7 @@
 ---
 id: T-3803
 title: 1871 shop signs from Edwards' 1871 directory round the jaunt stops: real firms by their old addresses, varied period sign forms
-state: review
+state: done
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-27
 pr: 2415
 claimed_by: run 11/27/2026, 1:25:37 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T05:46:36Z
 claimed_run: null
 claimed_at: 2026-11-27T19:25:38.231Z
 decision: null
