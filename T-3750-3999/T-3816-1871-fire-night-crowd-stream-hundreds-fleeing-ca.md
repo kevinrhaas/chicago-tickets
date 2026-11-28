@@ -1,7 +1,7 @@
 ---
 id: T-3816
 title: 1871 fire-night crowd stream: hundreds fleeing, carrying and watching in the streets round the fire front, on the instanced crowd at a phone's cost (running clip, flow along the streets, counter-currents)
-state: open
+state: claimed
 epic: META
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/28/2026, 6:03:19 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-28T12:03:20.665Z
 decision: null
 decision_answer: null
 ---
