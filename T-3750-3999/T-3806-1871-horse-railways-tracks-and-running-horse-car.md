@@ -34,3 +34,11 @@ Kevin, 2026-11-27 (thread "Make 1871 jaunt streets photo-accurate"): *"I would l
 - The fire jaunt's night: cars stopped or abandoned as the accounts say; stops that name the cars (Last Sunday) show them.
 
 **Acceptance:** tracks on every 1871 horse-car street with a cited route; cars running on the lines near the stops, cheap and LOD-tiered; before/after, desktop and phone; budgets on light.
+
+## Completion pictures (PR 2434)
+
+State Street, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/bd8f5f3290ae5e015dc65e1ae13aeb0df945417c/evidence/1871-streets/T-3806/state_washington-desktop.jpg?raw=true" width="900">
+
+A car close up:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/bd8f5f3290ae5e015dc65e1ae13aeb0df945417c/evidence/1871-streets/T-3806/close_car.jpg?raw=true" width="900">
