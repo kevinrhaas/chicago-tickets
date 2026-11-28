@@ -1,7 +1,7 @@
 ---
 id: T-3794
 title: Stage 2 stream starter: a Cloud Run service that starts a Spot L4 machine for a signed-in, allow-listed player, hands back the stream link, and stops it after 10 idle minutes or 2 hours, two machines at most
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-27
 pr: 2395
 claimed_by: run 11/27/2026, 1:14:52 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T02:52:55Z
 claimed_run: null
 claimed_at: 2026-11-27T19:14:52.802Z
 decision: null

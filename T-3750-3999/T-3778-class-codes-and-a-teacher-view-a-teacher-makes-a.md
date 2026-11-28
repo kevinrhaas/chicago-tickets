@@ -1,7 +1,7 @@
 ---
 id: T-3778
 title: Class codes and a teacher view: a teacher makes a class, students join with a short code, and the teacher sees the roster, hand-ins and reflections (classroom feature 6)
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-26
-closed: null
+closed: 2026-11-27
 pr: 2395
 claimed_by: run 11/27/2026, 8:49:35 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T02:52:55Z
 claimed_run: null
 claimed_at: 2026-11-27T14:49:36.862Z
 decision: null

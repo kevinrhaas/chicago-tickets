@@ -1,7 +1,7 @@
 ---
 id: T-3777
 title: Cloud save: the field notebook, people met and places found, and settings follow a signed-in student to any device through Firestore, with browser storage as the offline fallback
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-26
-closed: null
+closed: 2026-11-27
 pr: 2395
 claimed_by: run 11/27/2026, 12:12:19 AM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T02:52:55Z
 claimed_run: null
 claimed_at: 2026-11-27T06:12:20.608Z
 decision: null
