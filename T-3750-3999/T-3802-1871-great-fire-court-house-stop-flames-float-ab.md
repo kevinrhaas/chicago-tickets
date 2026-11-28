@@ -1,7 +1,7 @@
 ---
 id: T-3802
 title: 1871 Great Fire Court House stop: flames float above the building instead of sitting on it
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2417
 claimed_by: run 11/27/2026, 1:25:33 PM CT
 blocked_on: null
 needs_bake: false
