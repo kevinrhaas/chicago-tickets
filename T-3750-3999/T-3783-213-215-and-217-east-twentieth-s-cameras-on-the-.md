@@ -1,7 +1,7 @@
 ---
 id: T-3783
 title: 213, 215 and 217 East Twentieth's cameras on the four 2009 photographs, the photo-match worked down and the image-gate sign-off (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1939
 opened: 2026-11-26
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/28/2026, 1:14:09 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46118921400
+claimed_at: 2026-11-28T07:14:10.148Z
 decision: null
 decision_answer: null
 ---
