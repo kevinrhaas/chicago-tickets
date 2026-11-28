@@ -34,3 +34,11 @@ Kevin, 2026-11-27 (thread "Make 1871 jaunt streets photo-accurate"): *"I would l
 - Named blocks from the directory (Cobb's Block, Link's Block, Dickey's Building, the Honore Block ...) where they stand on a stop's faces.
 
 **Acceptance:** each solved view has a match record; the visible differences (over the bar) are closed or written down; before/after side-by-sides, desktop and phone.
+
+## Completion pictures (PR 2436)
+
+State and Washington, the St. James Hotel, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/5422cf0143c3a617ab37dcb5591e7b94add2d157/evidence/1871-streets/T-3804/T-3804-State-and-Washington-St-James-Hotel-desktop.jpg?raw=true" width="900">
+
+Madison Street, McVicker's and the Tribune, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/5422cf0143c3a617ab37dcb5591e7b94add2d157/evidence/1871-streets/T-3804/T-3804-Madison-Street-McVickers-and-Tribune-desktop.jpg?raw=true" width="900">
