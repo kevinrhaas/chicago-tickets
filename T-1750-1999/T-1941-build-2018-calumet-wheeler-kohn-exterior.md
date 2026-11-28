@@ -1,7 +1,7 @@
 ---
 id: T-1941
 title: Refine 2018 Calumet Wheeler-Kohn exterior
-state: claimed
+state: open
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: run 11/28/2026, 5:56:32 AM CT
+claimed_by: null
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46139538569
-claimed_at: 2026-11-28T11:56:33.100Z
+claimed_run: null
+claimed_at: null
 decision: null
 decision_answer: null
 ---
@@ -65,3 +65,5 @@ The building has pictures in the library but no 4D record yet: `pa-2018-s.-calum
 The district draft T-2982 made this building's record (PR #1180); this ticket refines it in place and closes only when every picture of it matches.
 
 - wheeler_kohn_house_2018_calumet
+
+**Released 2026-11-28** (claim of run 11/28/2026, 5:56:32 AM CT, by https://github.com/kevinrhaas/polecat-platform/actions/runs/46139538569): Evidence too thin for one run's refine to its image gate: the image store's only picture of 2018 Calumet is a20-glessner-wheeler-entry-2012 (a 2012 close view of the entry porch and stoop, copyright, link only); the 1999 NRHP nomination (photos east front, north and south sides, first-floor plan) is not in the store and its NARA PDF (rg-079/NPS_IL/99000975.pdf) returned 403 on 2026-11-28. A run that can fetch and ingest the nomination first can split this onto K01 (as T-3790) and the cameras (as T-3791).
