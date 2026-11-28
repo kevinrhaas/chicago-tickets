@@ -1,7 +1,7 @@
 ---
 id: T-3800
 title: 2140 Prairie's round tower stood at the Prairie and 22nd Street corner, where both photographs and the sheet put its axis: a K08 round tower across its corner (after the piece before it)
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1929
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/28/2026, 1:16:27 AM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46118905760
+claimed_at: 2026-11-28T07:16:28.160Z
 decision: null
 decision_answer: null
 ---
