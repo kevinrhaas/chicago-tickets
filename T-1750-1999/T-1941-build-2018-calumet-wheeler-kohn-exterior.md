@@ -1,7 +1,7 @@
 ---
 id: T-1941
 title: Refine 2018 Calumet Wheeler-Kohn exterior
-state: open
+state: claimed
 epic: SOUTH_TIME
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: T-1837
 opened: 2026-10-01
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/28/2026, 5:56:32 AM CT
 blocked_on: null
 needs_bake: true
 closed_at: null
-claimed_run: null
-claimed_at: null
+claimed_run: https://github.com/kevinrhaas/polecat-platform/actions/runs/46139538569
+claimed_at: 2026-11-28T11:56:33.100Z
 decision: null
 decision_answer: null
 ---
