@@ -1,7 +1,7 @@
 ---
 id: T-3793
 title: Stage 2 streaming machine image: Ubuntu with the NVIDIA L4 driver, Chromium and the Selkies streamer, opening the town at the student's year, built by a script into the chicago-stream project
-state: claimed
+state: review
 epic: META
 requested_by: owner
 seen: false
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2395
 claimed_by: run 11/27/2026, 1:14:49 PM CT
 blocked_on: null
 needs_bake: false
