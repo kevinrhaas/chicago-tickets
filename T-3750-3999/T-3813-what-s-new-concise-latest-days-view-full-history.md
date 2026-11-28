@@ -1,7 +1,7 @@
 ---
 id: T-3813
 title: What's New: concise latest-days view, full history kept, tighter entry budget
-state: review
+state: done
 epic: META
 requested_by: owner
 seen: false
@@ -9,12 +9,12 @@ effort: M
 legacy_id: null
 parent: null
 opened: 2026-11-27
-closed: null
+closed: 2026-11-27
 pr: 2412
 claimed_by: run 11/27/2026, 3:08:18 PM CT
 blocked_on: null
 needs_bake: false
-closed_at: null
+closed_at: 2026-11-28T00:53:56Z
 claimed_run: null
 claimed_at: 2026-11-27T21:08:19.273Z
 decision: null
