@@ -34,3 +34,11 @@ Kevin, 2026-11-27 (thread "Make 1871 jaunt streets photo-accurate"): *"I would l
 - Crossings (plank or stone crosswalks over the roadway), gutters and kerbs, boulder pavement on the river streets, mud and dung on the dirt streets, and the "grass block interiors downtown" leftover from T-3686.
 
 **Acceptance:** each stop's ground matches the period photos it can be compared with; before/after, desktop and phone; no draw or texture memory past the light ceiling.
+
+## Completion pictures (PR 2433)
+
+Court House square, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/80a1c2bf6e9d559e69dc0e551668d3ed87dcae29/evidence/1871-streets/T-3807/T-3807-court_house-desktop.jpg?raw=true" width="900">
+
+Lake and Clark, before and after:
+<img src="//github.com/kevinrhaas/chicago-evidence/blob/80a1c2bf6e9d559e69dc0e551668d3ed87dcae29/evidence/1871-streets/T-3807/T-3807-lake_clark-desktop.jpg?raw=true" width="900">
