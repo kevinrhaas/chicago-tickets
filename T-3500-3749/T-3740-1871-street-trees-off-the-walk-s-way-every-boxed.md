@@ -33,7 +33,7 @@ group: T-3740,T-3833,T-3834,T-3835
 
 ## Work available on a branch (loop, 2026-11-28)
 
-A loop slice built this a minute before the "Better Trees refinement" claim landed, then stood down rather than race it. The work is on `steward/t3740-1871-trees-off-ways` (commit 1526455f4d, unmerged, no PR): https://github.com/kevinrhaas/chicago/compare/dev...steward/t3740-1871-trees-off-ways — take it or leave it.
+A loop slice built this a minute before the "Better Trees refinement" claim landed, then stood down rather than race it. The work is on `steward/t3740-1871-trees-off-ways` (head e8be5df0b7, unmerged, no PR; liberties.json re-derived): https://github.com/kevinrhaas/chicago/compare/dev...steward/t3740-1871-trees-off-ways — take it or leave it.
 
 - `tools/lay_1871_street_furniture.py` `house_ways` puts every house's way in on its walk (13,622 houses front a walk; `yard_m` is the front's setback to 5 cm): the stand-in's steps or porch at the front's middle (`city_context_emit.py` `entrance`, scaled as city-context.js scales the kit) and the detail's door or front-yard gate on the middle bay's line (city-fronts.js).
 - The planter moves a box before a way in, on a board crossing or against a post or the kerb's dress to the nearest clear spot within 4.2 m: 807 of 6,693 moved, none dropped, the young share unchanged. `check_trees` refuses a planting that breaks any of it; `--self-test` proves five refusals (gate, steps, crossing, corner, lamp). `data/street_furniture/1871.json` is byte-identical.
