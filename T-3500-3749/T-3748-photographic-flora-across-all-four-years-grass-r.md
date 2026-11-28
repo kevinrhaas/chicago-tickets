@@ -1,7 +1,7 @@
 ---
 id: T-3748
 title: Photographic flora across all four years: grass, reeds, flowers, shrubs, vines and garden crops
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2414
 claimed_by: Better Trees season pass 11/27/2026, 5:26:28 PM CT
 blocked_on: null
 needs_bake: false
@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-27T23:26:28.889Z
 decision: null
 decision_answer: null
-group: T-3748,T-3760
+group: T-3747,T-3748,T-3760
 ---
 
 Continuation of the owner's Better Trees request supplied 2026-11-25: "All trees and flora everywhere should get this upgrade." T-3747 owns shared woody rendering; this piece owns herbaceous flora, grass/reeds, flowers, low shrubs and garden crops, reusing the same leaf-lighting principles where appropriate.

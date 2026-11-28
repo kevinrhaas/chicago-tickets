@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: 2358
+pr: 2414
 claimed_by: Better Trees continuation 11/26/2026, 12:01:32 AM CT
 blocked_on: null
 needs_bake: false
@@ -19,6 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-26T06:01:33.050Z
 decision: null
 decision_answer: null
+group: T-3747,T-3748,T-3760
 ---
 
 Owner request, Better Trees handoff supplied 2026-11-25: "improve the look of the trees so they look more perfectly photographic realistic and handle it so low power computers use it and higher power computers can also show it high detail and smooth fps and great rendering and light ... push it to dev when green. All trees and flora everywhere should get this upgrade."

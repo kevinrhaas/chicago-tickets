@@ -1,7 +1,7 @@
 ---
 id: T-3760
 title: 1871 tree cleanup: Water Tower and citywide leftover planting
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-25
 closed: null
-pr: null
+pr: 2414
 claimed_by: Better Trees season pass 11/27/2026, 5:26:28 PM CT
 blocked_on: null
 needs_bake: false
@@ -19,7 +19,7 @@ claimed_run: null
 claimed_at: 2026-11-27T23:26:28.891Z
 decision: null
 decision_answer: null
-group: T-3748,T-3760
+group: T-3747,T-3748,T-3760
 ---
 
 Owner request during Better Trees implementation: "there were a few bogus trees leftover in 1871 i think also around water tower ... maybe a lot more to fix there". Continue alongside T-3747/T-3748 and merge the completed correction to dev through the normal gate/PR process.
