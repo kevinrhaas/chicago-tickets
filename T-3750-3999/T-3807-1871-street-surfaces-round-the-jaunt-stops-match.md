@@ -1,7 +1,7 @@
 ---
 id: T-3807
 title: 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
-state: open
+state: claimed
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -11,12 +11,12 @@ parent: null
 opened: 2026-11-27
 closed: null
 pr: null
-claimed_by: null
+claimed_by: run 11/27/2026, 6:17:41 PM CT
 blocked_on: null
 needs_bake: false
 closed_at: null
 claimed_run: null
-claimed_at: null
+claimed_at: 2026-11-28T00:17:42.499Z
 decision: null
 decision_answer: null
 ---
