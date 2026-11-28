@@ -1,7 +1,7 @@
 ---
 id: T-3831
 title: 1871 St. Paul's stop: the church, its priest's house and school, and Bateham's mills and kindling yard drawn as they were, not a brick block
-state: claimed
+state: review
 epic: RENDERING
 requested_by: owner
 seen: true
@@ -10,7 +10,7 @@ legacy_id: null
 parent: null
 opened: 2026-11-27
 closed: null
-pr: null
+pr: 2432
 claimed_by: run 11/28/2026, 1:19:52 AM CT
 blocked_on: null
 needs_bake: false
