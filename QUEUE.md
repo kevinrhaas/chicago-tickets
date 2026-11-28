@@ -90,6 +90,7 @@ T-3738 — 1871 street numbers: the pre-fire city's buildings show their 1871 nu
 T-3740 — 1871 street trees off the walk's way: every boxed tree clear of corner crossings, doorways, gates and stoops, and the planter refuses one that is not
 T-3833 — More natural tree silhouettes and close wood detail
 T-3834 — Gradual spring leaf-out and autumn leaf loss
+T-3835 — Natural tree wind and steady detail transitions
 T-3804 — 1871 street walls round the jaunt stops matched to the period street views: Lake, Clark, LaSalle, State and Washington
 T-3806 — 1871 horse railways: tracks and running horse cars on the State, Madison, Randolph and North Side lines
 T-3807 — 1871 street surfaces round the jaunt stops matched to the photos: Nicholson block, stone-flag and plank walks, steps where walk grades differ, crossings
