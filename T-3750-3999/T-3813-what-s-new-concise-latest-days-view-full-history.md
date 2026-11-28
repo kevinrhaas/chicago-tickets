@@ -31,3 +31,19 @@ The tab paints all ~3,300 releases (about 690,000 words) with every item open.
 - `changelog.js` keeps its path, format and every entry: Manager and the launcher read it unchanged.
 - New entries are held to a tighter, concise budget (title, items, words, words per item), written into AGENTS.md; open PRs written to the old budget still pass and still fold.
 - Unread flags and the dot still work; smoke checks updated; desktop and 390x780 pictures.
+
+## Done — PR 2412, merged into dev 2026-11-28
+
+What's new now opens on the latest three release days, one line per release (tap for its notes). The whole old feed, as first written, is behind **Full history**. On screen: 56 releases and 815 words, down from 3,291 and 748,654. `changelog.js` is unchanged. New entries are held to title ≤ 10 words, ≤ 3 items, ≤ 60 words, item ≤ 25 words (hard from 2026-12-04). Smoke part 13's first-paint wait went from 20 s to 120 s, which cleared the What's new red that dev and PR 2381 shared.
+
+Desktop, before | after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/940b5548a56efcede02d170af208e16415eb39fa/evidence/T-3813-whats-new/desktop-before-after.jpg?raw=true" width="720">
+
+Phone, before | after:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/940b5548a56efcede02d170af208e16415eb39fa/evidence/T-3813-whats-new/phone-before-after.jpg?raw=true" width="640">
+
+Full history open:
+
+<img src="https://github.com/kevinrhaas/chicago-evidence/blob/940b5548a56efcede02d170af208e16415eb39fa/evidence/T-3813-whats-new/desktop-history.jpg?raw=true" width="420">
